@@ -1,0 +1,39 @@
+name: Sitemap Update Check
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3.0.0
+        with:
+          always-auth: false
+          node-version: 16.x
+          cache: npm
+
+      - run: npm install
+      - run: npm run start --if-present
+
+      - name: Setup Git
+        run: |
+          git config --global user.name 'github-bot'
+          git config --global user.email '6031226+github-bot@users.noreply.github.com'
+
+      - name: Commit Language Files
+        run: |
+          git add docs
+          git commit -m "Sitemap Update ${{ github.run_number }}"
+        continue-on-error: true
+
+      - name: Push Files
+        run: git push
+        continue-on-error: true
+
+      - name: Done
+        run: |
+          echo Goodbye!
