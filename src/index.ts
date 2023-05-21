@@ -6,28 +6,11 @@ import { writeFileSync, mkdirSync, existsSync } from 'fs'
 const SITEMAP_URL = 'https://help.twitch.tv/s/sitemap.xml';
 const XML_PARSER = new XMLParser();
 
-interface SiteMapEntry {
-    loc: string,
-    lastmod: string;
-}
-
-interface SiteMapEntryExtended extends SiteMapEntry {
-    'xhtml:link': Array<object>
-}
-
-type MainSiteMap = {
-    '?xml': '',
-    sitemapindex: {
-        sitemap: Array<SiteMapEntry>
-    }
-}
-type SecondarySiteMap = {
-    '?xml': '',
-    urlset: {
-        url: Array<SiteMapEntry | SiteMapEntryExtended>
-    }
-}
-
+/**
+ * Handle the main sitemap.
+ *
+ * @param sitemap the incoming sitemap to be parsed.
+ */
 async function handleSitemap(sitemap: string) {
     const parsedMap : MainSiteMap = XML_PARSER.parse(sitemap, {allowBooleanAttributes: true})
 
@@ -39,41 +22,70 @@ async function handleSitemap(sitemap: string) {
         return;
     }
 
-    const writtenHTML : any = {};
+    // We really should not be using any here.
+    // It might be better to use a different type since using any stops us making use of eslint and typescript's
+    // type validation. In the future this will need to be changed.
+    //
+    // Current format:
+    //  {
+    //      "en": {
+    //          "article-1": {
+    //              loc: "https://.../"
+    //              values: [
+    //                  {
+    //                      title: "Hello World",
+    //                      modified: "2023-01-16T08:13:35.000Z",
+    //                      loc: "https://.../"
+    //                  }
+    //              ]
+    //          }
+    //      }...
+    //  }
+    const markdownInfo : any = {};
 
     // Skip the basic sitemaps. We only want actual articles.
     for (let i = 1; i < objects.length; i++) {
         const siteMapObject = objects[i]
-        let viewLocation = siteMapObject.loc.replace(/https:\/\/help\.twitch\.tv\/s\/sitemap-topic([a-zA-Z0-9-]+)\.xml/, '$1');
-        viewLocation = viewLocation.substring(0, 1).toUpperCase() + viewLocation.substring(1)
+
+        // Retrieve a topic name from the url provided by the sitemap
+        let articleTopic = siteMapObject.loc.replace(/https:\/\/help\.twitch\.tv\/s\/sitemap-topic([a-zA-Z0-9-]+)\.xml/, '$1');
+        // Capitalise the first letter of this topic name.
+        articleTopic = articleTopic.substring(0, 1).toUpperCase() + articleTopic.substring(1)
 
         const siteMapData = await fetch(siteMapObject.loc).then((res) => {return res.text()});
         const parsedObject: SecondarySiteMap = XML_PARSER.parse(siteMapData, {allowBooleanAttributes: true});
 
         for (let i = 0; i < parsedObject.urlset.url.length; i++) {
             const siteMapEntry : SiteMapEntry | SiteMapEntryExtended = parsedObject.urlset.url[i];
+            // Retrieve the name and language code for this article
             const matched : RegExpMatchArray = siteMapEntry.loc.match(/https:\/\/help\.twitch\.tv\/s\/article\/([A-Za-z0-9-]+)\?language=([A-Za-z_]+)/)
 
-            const title = matched[1];
-            const region = matched[2]
+            const title = matched[1]; // article name
+            const region = matched[2] // language code
 
+            // remove all slashes between each character
             let readableTitle = title.replace(/-/g, ' ')
-            readableTitle = readableTitle.split(' ').map((value) => {return value.substring(0, 1).toUpperCase() + value.substring(1)}).join(' ')
+            // capitalize each letter.
+            readableTitle = readableTitle.split(' ').map((value) => { return value.substring(0, 1).toUpperCase() + value.substring(1)} ).join(' ')
 
-            // Set up for this region.
-            if (writtenHTML[region] === undefined) {
-                writtenHTML[region] = {};
+            // Could be undefined for first element.
+            if (markdownInfo[region] === undefined) {
+                markdownInfo[region] = {};
             }
-            // Set up for this segment
-            // segments don't matter too much, but for the sake of
-            if (writtenHTML[region][viewLocation] === undefined) {
-                writtenHTML[region][viewLocation] = {
+            // Same as above. Ensure that this article topic exists in our dataset.
+            if (markdownInfo[region][articleTopic] === undefined) {
+                markdownInfo[region][articleTopic] = {
                     loc: siteMapObject.loc,
                     values: []
                 };
             }
 
-            writtenHTML[region][viewLocation].values.push({ title: readableTitle, modified: siteMapEntry.lastmod, loc: siteMapEntry.loc })
+            // add a new entry to our data list.
+            markdownInfo[region][articleTopic].values.push({
+                title: readableTitle,
+                modified: siteMapEntry.lastmod,
+                loc: siteMapEntry.loc
+            });
         }
     }
 
@@ -82,9 +94,15 @@ async function handleSitemap(sitemap: string) {
         mkdirSync('./docs/')
     }
 
-    const languages = Object.keys(writtenHTML);
+    // make the data actually readable!
+    writeResultsToMarkdown(markdownInfo)
+}
 
-    let mainMarkdown = '# Twitch Help Page\n'
+function writeResultsToMarkdown(markdownInfo: any) {
+    const languages = Object.keys(markdownInfo);
+
+    // Set up the initial README.md markdown with some flavour text.
+    let mainMarkdown = '# Twitch Knowledge-base Tracker\n'
     mainMarkdown += '> Tracking twitch\'s help pages. \n\n'
 
     mainMarkdown += '## Note\n'
@@ -95,21 +113,25 @@ async function handleSitemap(sitemap: string) {
     mainMarkdown += '| Name | Last Updated (dd/mm/yyyy) | Articles | Link |\n'
     mainMarkdown += '|------|---------------------------|----------|------|\n'
 
-
+    // iterate through all the language codes.
     for (const languageCode of languages) {
         const languageName = findName(languageCode)
 
         let markdown = `# ${languageName}\n`;
         markdown += `> All articles written under the ${languageCode} language code. \n\n`
 
+        // I wonder what this is for...
         let articleCount = 0;
+
+        // when was the last article updated? use a date at the start of time to force this being overriden.
         let lastUpdated = {
             time: new Date(0, 0, 0, 0, 0, 0, 0),
             str: 'Never'
         }
 
-        for (const segmentName of Object.keys(writtenHTML[languageCode])) {
-            const segment = writtenHTML[languageCode][segmentName];
+        // iterate through all the article types (topicarticle-1, topicarticle-2...)
+        for (const segmentName of Object.keys(markdownInfo[languageCode])) {
+            const segment = markdownInfo[languageCode][segmentName];
 
             markdown += `## ${segmentName}\n`;
             markdown += `> [Go to](${segment.loc}) this sitemap\n\n`
@@ -118,23 +140,29 @@ async function handleSitemap(sitemap: string) {
             markdown += '|------|---------------------------|------|\n'
 
             for (let i = 0; i < segment.values.length; i++) {
+                // Increment article count.
                 articleCount += 1;
 
-                const nextMeme = segment.values[i];
-                const modified = new Date(nextMeme.modified);
+                const nextSegment = segment.values[i];
+                // Parse the ISO date.
+                const modified = new Date(nextSegment.modified);
                 const modifiedStr = modified.toLocaleString('en-GB', { timeZone: 'Australia/Victoria', hour12: true });
 
+                // If the date is newer than the last updated date, consider this the most
+                // recently changed article, and store the previous locale string format result too.
                 if (modified > lastUpdated.time) {
                     lastUpdated.time = modified
                     lastUpdated.str = modifiedStr
                 }
 
-                markdown += `| ${nextMeme.title} | ${modifiedStr} | [Link](${nextMeme.loc}) |\n`
+                // table format!
+                markdown += `| ${nextSegment.title} | ${modifiedStr} | [Link](${nextSegment.loc}) |\n`
             }
 
             markdown += '\n\n'
         }
 
+        // Create a new entry on the README for this country, with the amount of articles and a link to the markdown file.
         mainMarkdown += `| ${languageName} | ${lastUpdated.str} | ${articleCount} article(s) | [View](docs/${languageCode}.md) |\n`
 
         writeFileSync(`./docs/${languageCode}.md`, markdown)
@@ -145,10 +173,12 @@ async function handleSitemap(sitemap: string) {
 
 fetch(SITEMAP_URL).then(async (response) => {
     if (!response.ok) {
-        console.error('Failed to follow sitemap...');
+        console.error(`Received a bad status code [${response.status}] when attempting to read sitemap...`);
 
         return;
     }
 
-    handleSitemap(await response.text())
+    await handleSitemap(await response.text())
+
+    console.log('Files written, check out the README! <3')
 })

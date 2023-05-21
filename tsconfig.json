@@ -17,6 +17,7 @@
     "src/index.ts"
   ],
   "typeRoots": [
+    "src/types/index.d.ts"
   ],
   "include": [
     "src/**/*"
