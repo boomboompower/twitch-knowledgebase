@@ -140,7 +140,7 @@ async function handleSitemap(sitemap: string) {
         writeFileSync(`./docs/${languageCode}.md`, markdown)
     }
 
-    writeFileSync('./index.md', mainMarkdown);
+    writeFileSync('./README.md', mainMarkdown);
 }
 
 fetch(SITEMAP_URL).then(async (response) => {
