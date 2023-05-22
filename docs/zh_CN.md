@@ -1,6 +1,15 @@
 # Chinese (Simplified, China)
 > All articles written under the zh_CN language code. 
 
+## Article-2
+> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
+
+| Name | Last Updated (dd/mm/yyyy) | Link |
+|------|---------------------------|------|
+| How To Use Host Mode | 10/12/2022, 8:09:10 am | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=zh_CN) |
+| Chat Commands | 18/11/2022, 1:36:54 pm | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_CN) |
+
+
 ## Article-3
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 

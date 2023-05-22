@@ -1,6 +1,14 @@
 # Slovak
 > All articles written under the sk language code. 
 
+## Article-2
+> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
+
+| Name | Last Updated (dd/mm/yyyy) | Link |
+|------|---------------------------|------|
+| Chat Commands | 18/11/2022, 1:36:54 pm | [Link](https://help.twitch.tv/s/article/chat-commands?language=sk) |
+
+
 ## Article-3
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 

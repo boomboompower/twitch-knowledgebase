@@ -1,6 +1,21 @@
 # Portuguese (Portugal)
 > All articles written under the pt_PT language code. 
 
+## Article-2
+> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
+
+| Name | Last Updated (dd/mm/yyyy) | Link |
+|------|---------------------------|------|
+| Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=pt_PT) |
+| Gift Subscriptions | 18/11/2022, 6:01:11 am | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT) |
+| Twitch Content Sharing Guidelines | 13/10/2022, 7:53:05 am | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=pt_PT) |
+| Twitch Affiliate Program Faq | 07/12/2022, 4:50:56 am | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT) |
+| Joining The Affiliate Program | 21/10/2022, 7:26:13 am | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT) |
+| How To Use Host Mode | 10/12/2022, 8:09:10 am | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=pt_PT) |
+| How To Manage Harassment In Chat | 01/12/2022, 5:24:49 am | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_PT) |
+| Chat Commands | 18/11/2022, 1:36:54 pm | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_PT) |
+
+
 ## Article-3
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 

@@ -1,6 +1,52 @@
 # Spanish (Mexico)
 > All articles written under the es_MX language code. 
 
+## Article-2
+> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
+
+| Name | Last Updated (dd/mm/yyyy) | Link |
+|------|---------------------------|------|
+| Guide To Broadcast Health | 31/08/2022, 5:45:18 am | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=es_MX) |
+| Live Viewer Feedback | 10/12/2022, 8:46:51 am | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=es_MX) |
+| Charitable Donations | 26/09/2022, 9:25:37 pm | [Link](https://help.twitch.tv/s/article/charitable-donations?language=es_MX) |
+| Getting Started Twitch Studio | 26/10/2022, 4:12:48 am | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=es_MX) |
+| Subscriber Emote Guide | 10/08/2022, 8:02:41 am | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=es_MX) |
+| Mod View | 05/12/2022, 10:44:07 pm | [Link](https://help.twitch.tv/s/article/mod-view?language=es_MX) |
+| Founders Badge | 07/12/2022, 10:42:33 pm | [Link](https://help.twitch.tv/s/article/founders-badge?language=es_MX) |
+| Channel Points Guide | 28/10/2022, 8:25:44 am | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=es_MX) |
+| Affiliate Emote Prefix Change | 21/09/2022, 4:59:49 am | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=es_MX) |
+| Follower Emotes | 15/12/2022, 7:29:48 am | [Link](https://help.twitch.tv/s/article/follower-emotes?language=es_MX) |
+| Local Sub Price Countries | 01/11/2022, 0:03:19 am | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es_MX) |
+| Xbox Promotion 2022 | 02/11/2022, 3:54:03 am | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=es_MX) |
+| Managing Your Phone Number | 27/10/2022, 10:32:04 pm | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es_MX) |
+| Request To Join | 01/11/2022, 11:12:37 pm | [Link](https://help.twitch.tv/s/article/request-to-join?language=es_MX) |
+| Guest Star Reporting | 01/11/2022, 11:12:32 pm | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=es_MX) |
+| Supported Browsers | 17/10/2022, 10:27:32 pm | [Link](https://help.twitch.tv/s/article/supported-browsers?language=es_MX) |
+| Partner Exclusivity Faq | 26/08/2022, 5:30:42 pm | [Link](https://help.twitch.tv/s/article/partner-exclusivity-faq?language=es_MX) |
+| Subtember 2022 Faq | 27/09/2022, 4:25:19 am | [Link](https://help.twitch.tv/s/article/subtember-2022-faq?language=es_MX) |
+| Cheering Experiment 2022 | 27/10/2022, 11:02:36 am | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=es_MX) |
+| Viewer Channel Point Guide | 28/10/2022, 8:34:23 am | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=es_MX) |
+| Boost Train | 20/09/2022, 2:34:35 am | [Link](https://help.twitch.tv/s/article/boost-train?language=es_MX) |
+| Mobile Creator Mode | 22/08/2022, 5:59:03 pm | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=es_MX) |
+| Moments | 16/11/2022, 10:54:36 pm | [Link](https://help.twitch.tv/s/article/moments?language=es_MX) |
+| Emote Slots | 05/12/2022, 10:44:03 pm | [Link](https://help.twitch.tv/s/article/emote-slots?language=es_MX) |
+| Ingame Overlay | 15/09/2022, 9:12:33 pm | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=es_MX) |
+| How To Use Squad Stream | 21/10/2022, 7:26:46 am | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=es_MX) |
+| Twitch Teams | 05/12/2022, 10:44:09 pm | [Link](https://help.twitch.tv/s/article/twitch-teams?language=es_MX) |
+| Earning Revenue From Bits In Extensions | 21/10/2022, 7:25:41 am | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=es_MX) |
+| Twitch Content Sharing Guidelines | 13/10/2022, 7:53:06 am | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=es_MX) |
+| Payout History Dashboard Guide | 23/09/2022, 4:58:05 am | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=es_MX) |
+| How To Use Raids | 28/09/2022, 3:01:03 am | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=es_MX) |
+| How To Use Extensions | 04/11/2022, 9:00:21 pm | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=es_MX) |
+| Channel Page Setup | 28/10/2022, 8:22:51 am | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=es_MX) |
+| Twitch Affiliate Program Faq | 10/12/2022, 0:18:02 am | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX) |
+| Affiliate Onboarding Guide | 13/10/2022, 7:54:03 am | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX) |
+| Joining The Affiliate Program | 21/10/2022, 7:26:14 am | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX) |
+| How To Manage Harassment In Chat | 01/12/2022, 5:24:50 am | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es_MX) |
+| Chat Commands | 18/11/2022, 1:36:57 pm | [Link](https://help.twitch.tv/s/article/chat-commands?language=es_MX) |
+| Twitch Chat Badges Guide | 24/08/2022, 3:37:35 pm | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es_MX) |
+
+
 ## Article-3
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 

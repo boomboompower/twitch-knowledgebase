@@ -1,6 +1,15 @@
 # Greek
 > All articles written under the el language code. 
 
+## Article-2
+> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
+
+| Name | Last Updated (dd/mm/yyyy) | Link |
+|------|---------------------------|------|
+| Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=el) |
+| Chat Commands | 18/11/2022, 1:36:54 pm | [Link](https://help.twitch.tv/s/article/chat-commands?language=el) |
+
+
 ## Article-3
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 

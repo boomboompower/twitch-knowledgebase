@@ -1,6 +1,22 @@
 # Norwegian
 > All articles written under the no language code. 
 
+## Article-2
+> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
+
+| Name | Last Updated (dd/mm/yyyy) | Link |
+|------|---------------------------|------|
+| Twitch Teams | 02/12/2022, 8:22:38 am | [Link](https://help.twitch.tv/s/article/twitch-teams?language=no) |
+| Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=no) |
+| Gift Subscriptions | 18/11/2022, 6:01:11 am | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=no) |
+| Twitch Content Sharing Guidelines | 13/10/2022, 7:53:05 am | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=no) |
+| How To Use Raids | 28/09/2022, 3:01:03 am | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=no) |
+| Channel Page Setup | 28/10/2022, 8:22:51 am | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=no) |
+| How To Use Host Mode | 10/12/2022, 8:09:10 am | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=no) |
+| How To Manage Harassment In Chat | 01/12/2022, 5:24:49 am | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=no) |
+| Chat Commands | 18/11/2022, 1:36:54 pm | [Link](https://help.twitch.tv/s/article/chat-commands?language=no) |
+
+
 ## Article-3
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
