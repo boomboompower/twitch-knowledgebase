@@ -1,7 +1,18 @@
 # Danish
 > All articles written under the da language code. 
 
-## Article-2
+## Topicarticle-1
+> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
+
+| Name | Last Updated (dd/mm/yyyy) | Link |
+|------|---------------------------|------|
+| Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:14 am | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=da) |
+| Guide To Tags | 04/05/2023, 2:37:27 am | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=da) |
+| Stream Summary | 10/02/2023, 5:16:20 am | [Link](https://help.twitch.tv/s/article/stream-summary?language=da) |
+| Two Factor Authentication With Authy | 09/03/2023, 7:53:25 am | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=da) |
+
+
+## Topicarticle-2
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
@@ -16,7 +27,7 @@
 | Chat Commands | 18/11/2022, 1:36:54 pm | [Link](https://help.twitch.tv/s/article/chat-commands?language=da) |
 
 
-## Article-3
+## Topicarticle-3
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
@@ -26,7 +37,7 @@
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/03/2022, 5:00:40 am | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=da) |
 
 
-## Article-4
+## Topicarticle-4
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
@@ -43,7 +54,7 @@
 | Creating An Account With Twitch | 15/12/2021, 8:12:08 am | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=da) |
 
 
-## Article-5
+## Topicarticle-5
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-5.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
@@ -53,16 +64,5 @@
 | How To Appeal Flagged Content | 22/10/2021, 8:53:42 am | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=da) |
 | Getting Started With Amazon Associates | 22/10/2021, 8:53:06 am | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=da) |
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:24 am | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=da) |
-
-
-## Article-1
-> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
-
-| Name | Last Updated (dd/mm/yyyy) | Link |
-|------|---------------------------|------|
-| Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:14 am | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=da) |
-| Guide To Tags | 04/05/2023, 2:37:27 am | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=da) |
-| Stream Summary | 10/02/2023, 5:16:20 am | [Link](https://help.twitch.tv/s/article/stream-summary?language=da) |
-| Two Factor Authentication With Authy | 09/03/2023, 7:53:25 am | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=da) |
 
 

@@ -1,7 +1,15 @@
 # Chinese (Simplified, China)
 > All articles written under the zh_CN language code. 
 
-## Article-2
+## Topicarticle-1
+> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
+
+| Name | Last Updated (dd/mm/yyyy) | Link |
+|------|---------------------------|------|
+| Two Factor Authentication With Authy | 09/03/2023, 7:53:25 am | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=zh_CN) |
+
+
+## Topicarticle-2
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
@@ -10,7 +18,7 @@
 | Chat Commands | 18/11/2022, 1:36:54 pm | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_CN) |
 
 
-## Article-3
+## Topicarticle-3
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
@@ -20,7 +28,7 @@
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/03/2022, 5:00:40 am | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=zh_CN) |
 
 
-## Article-4
+## Topicarticle-4
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
@@ -28,19 +36,11 @@
 | Account Hacked | 15/12/2021, 5:43:38 am | [Link](https://help.twitch.tv/s/article/account-hacked?language=zh_CN) |
 
 
-## Article-5
+## Topicarticle-5
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-5.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
 |------|---------------------------|------|
 | Getting Started With Amazon Associates | 22/10/2021, 8:53:06 am | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=zh_CN) |
-
-
-## Article-1
-> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
-
-| Name | Last Updated (dd/mm/yyyy) | Link |
-|------|---------------------------|------|
-| Two Factor Authentication With Authy | 09/03/2023, 7:53:25 am | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=zh_CN) |
 
 

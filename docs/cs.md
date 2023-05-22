@@ -1,7 +1,15 @@
 # Czech
 > All articles written under the cs language code. 
 
-## Article-2
+## Topicarticle-1
+> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
+
+| Name | Last Updated (dd/mm/yyyy) | Link |
+|------|---------------------------|------|
+| Stream Summary | 10/02/2023, 5:16:20 am | [Link](https://help.twitch.tv/s/article/stream-summary?language=cs) |
+
+
+## Topicarticle-2
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
@@ -13,7 +21,7 @@
 | Chat Commands | 18/11/2022, 1:36:54 pm | [Link](https://help.twitch.tv/s/article/chat-commands?language=cs) |
 
 
-## Article-3
+## Topicarticle-3
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
@@ -25,7 +33,7 @@
 | Twitch Turbo Guide | 09/08/2022, 4:00:40 am | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=cs) |
 
 
-## Article-4
+## Topicarticle-4
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
@@ -40,7 +48,7 @@
 | Watching Twitch On Ios Devices | 22/10/2021, 8:54:13 am | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=cs) |
 
 
-## Article-5
+## Topicarticle-5
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-5.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
@@ -49,13 +57,5 @@
 | Recommended Hardware For Broadcasting | 22/10/2021, 8:53:12 am | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=cs) |
 | Getting Started With Amazon Associates | 22/10/2021, 8:53:05 am | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=cs) |
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:24 am | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=cs) |
-
-
-## Article-1
-> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
-
-| Name | Last Updated (dd/mm/yyyy) | Link |
-|------|---------------------------|------|
-| Stream Summary | 10/02/2023, 5:16:20 am | [Link](https://help.twitch.tv/s/article/stream-summary?language=cs) |
 
 

@@ -1,7 +1,7 @@
 # general
 > All articles written under the general language code. 
 
-## Https://help.twitch.tv/s/sitemap-view-1.xml
+## View-1
 > [Go to](https://help.twitch.tv/s/sitemap-view-1.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
