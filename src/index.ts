@@ -47,7 +47,7 @@ async function handleSitemap(sitemap: string) {
         const siteMapObject = objects[i]
 
         // Retrieve a topic name from the url provided by the sitemap
-        let articleTopic = siteMapObject.loc.replace(/https:\/\/help\.twitch\.tv\/s\/sitemap-((topic|view)([a-zA-Z0-9-]+))\.xml/, '$1');
+        let articleTopic = siteMapObject.loc.replace(/https:\/\/help\.twitch\.tv\/s\/sitemap-(topic)?((view)?([a-zA-Z0-9-]+))\.xml/, '$2');
         // Capitalise the first letter of this topic name.
         articleTopic = articleTopic.substring(0, 1).toUpperCase() + articleTopic.substring(1)
 
@@ -57,10 +57,10 @@ async function handleSitemap(sitemap: string) {
         for (let i = 0; i < parsedObject.urlset.url.length; i++) {
             const siteMapEntry : SiteMapEntry | SiteMapEntryExtended = parsedObject.urlset.url[i];
             // Retrieve the name and language code for this article
-            const matched : RegExpMatchArray = siteMapEntry.loc.match(/https:\/\/help\.twitch\.tv\/s\/article\/([A-Za-z0-9-]+)\?language=([A-Za-z_]+)/)
+            const matched : RegExpMatchArray = siteMapEntry.loc.match(/https:\/\/help\.twitch\.tv\/s\/(article\/)?(?<name>[A-Za-z0-9-]+)?\?language=(?<language>[A-Za-z_]+)/)
 
-            const title = matched ? matched[1] : 'generic'; // article name
-            const region = matched ? matched[2] : 'general'; // language code
+            const title = matched && matched.groups.name ? matched.groups.name : 'generic'; // article name
+            const region = matched && matched.groups.language ? matched.groups.language : 'general'; // language code
 
             // remove all slashes between each character
             let readableTitle = title.replace(/-/g, ' ')
@@ -75,14 +75,29 @@ async function handleSitemap(sitemap: string) {
             if (markdownInfo[region][articleTopic] === undefined) {
                 markdownInfo[region][articleTopic] = {
                     loc: siteMapObject.loc,
-                    values: []
+                    values: [] as Array<StoredArticle>
                 };
+            }
+
+            let modifiedParsed;
+
+            if (siteMapEntry.loc.toLowerCase().includes('/s/article/')) {
+                try {
+                    modifiedParsed = new Date(siteMapEntry.lastmod)
+                } catch (e) {
+                    console.error(`Failed to parse modified date for ${region} > ${articleTopic} > ${readableTitle}`)
+
+                    modifiedParsed = new Date()
+                }
+            } else {
+                // don't use modification date on files which change every day
+                modifiedParsed = new Date(0, 0, 0, 0, 0, 0, 0);
             }
 
             // add a new entry to our data list.
             markdownInfo[region][articleTopic].values.push({
                 title: readableTitle,
-                modified: siteMapEntry.lastmod,
+                modified: modifiedParsed,
                 loc: siteMapEntry.loc
             });
         }
@@ -98,9 +113,12 @@ async function handleSitemap(sitemap: string) {
 }
 
 function writeResultsToMarkdown(markdownInfo: any) {
-    let languages = Object.keys(markdownInfo);
-    // Sort by country code.
-    languages = languages.sort();
+    const languages = Object.keys(markdownInfo);
+
+    // Sort by country display name.
+    languages.sort((a: string , b: string) : number => {
+        return findName(a).localeCompare(findName(b));
+    });
 
     // Set up the initial README.md markdown with some flavour text.
     let mainMarkdown = '# Twitch Knowledge-base Tracker\n'
@@ -129,7 +147,7 @@ function writeResultsToMarkdown(markdownInfo: any) {
             time: new Date(0, 0, 0, 0, 0, 0, 0),
             str: 'Never'
         }
-        
+
         // sort it
         let segments = Object.keys(markdownInfo[languageCode]);
         segments = segments.sort();
@@ -144,19 +162,24 @@ function writeResultsToMarkdown(markdownInfo: any) {
             markdown += '| Name | Last Updated (dd/mm/yyyy) | Link |\n'
             markdown += '|------|---------------------------|------|\n'
 
-            for (let i = 0; i < segment.values.length; i++) {
+            const values = segment.values as Array<StoredArticle>;
+
+            // sort by modification time, newest to oldest
+            values.sort((a: StoredArticle, b: StoredArticle) => {
+                return a.modified == b.modified ? 0 : a.modified > b.modified ? -1 : 1;
+            })
+
+            for (let i = 0; i < values.length; i++) {
                 // Increment article count.
                 articleCount += 1;
 
-                const nextSegment = segment.values[i];
-                // Parse the ISO date.
-                const modified = new Date(nextSegment.modified);
-                const modifiedStr = modified.toLocaleString('en-GB', { timeZone: 'Australia/Victoria', hour12: true });
+                const nextSegment = values[i];
+                const modifiedStr = nextSegment.modified.toLocaleString('en-GB', { timeZone: 'Australia/Victoria', hour12: true });
 
                 // If the date is newer than the last updated date, consider this the most
                 // recently changed article, and store the previous locale string format result too.
-                if (modified > lastUpdated.time) {
-                    lastUpdated.time = modified
+                if (nextSegment.modified > lastUpdated.time) {
+                    lastUpdated.time = nextSegment.modified
                     lastUpdated.str = modifiedStr
                 }
 

@@ -40,3 +40,9 @@ type SecondarySiteMap = {
         url: Array<SiteMapEntry | SiteMapEntryExtended>
     }
 }
+
+type StoredArticle = {
+    title: string,
+    modified: Date,
+    loc: string
+}

@@ -1,7 +1,7 @@
 # Bulgarian
 > All articles written under the bg language code. 
 
-## Topicarticle-2
+## Article-2
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
@@ -9,7 +9,7 @@
 | Chat Commands | 18/11/2022, 1:36:54 pm | [Link](https://help.twitch.tv/s/article/chat-commands?language=bg) |
 
 
-## Topicarticle-3
+## Article-3
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
@@ -17,7 +17,7 @@
 | Twitch Studio Faq | 10/03/2022, 9:52:06 am | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=bg) |
 
 
-## Topicarticle-4
+## Article-4
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
