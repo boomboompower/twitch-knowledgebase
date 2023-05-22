@@ -60,8 +60,8 @@ async function handleSitemap(sitemap: string) {
             // Retrieve the name and language code for this article
             const matched : RegExpMatchArray = siteMapEntry.loc.match(/https:\/\/help\.twitch\.tv\/s\/article\/([A-Za-z0-9-]+)\?language=([A-Za-z_]+)/)
 
-            const title = matched[1]; // article name
-            const region = matched[2] // language code
+            const title = matched ? matched[1] : 'generic'; // article name
+            const region = matched ? matched[2] : 'general'; // language code
 
             // remove all slashes between each character
             let readableTitle = title.replace(/-/g, ' ')
