@@ -43,8 +43,7 @@ async function handleSitemap(sitemap: string) {
     //  }
     const markdownInfo : any = {};
 
-    // Skip the basic sitemaps. We only want actual articles.
-    for (let i = 1; i < objects.length; i++) {
+    for (let i = 0; i < objects.length; i++) {
         const siteMapObject = objects[i]
 
         // Retrieve a topic name from the url provided by the sitemap
@@ -99,9 +98,9 @@ async function handleSitemap(sitemap: string) {
 }
 
 function writeResultsToMarkdown(markdownInfo: any) {
-    const languages = Object.keys(markdownInfo);
+    let languages = Object.keys(markdownInfo);
     // Sort by country code.
-    languages.sort();
+    languages = languages.sort();
 
     // Set up the initial README.md markdown with some flavour text.
     let mainMarkdown = '# Twitch Knowledge-base Tracker\n'
