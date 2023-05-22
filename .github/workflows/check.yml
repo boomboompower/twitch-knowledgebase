@@ -27,6 +27,7 @@ jobs:
       - name: Commit Language Files
         run: |
           git add docs
+          git add README.md
           git commit -m "Sitemap Update ${{ github.run_number }}"
         continue-on-error: true
 
