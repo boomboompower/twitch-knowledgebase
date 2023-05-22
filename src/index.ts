@@ -47,7 +47,7 @@ async function handleSitemap(sitemap: string) {
         const siteMapObject = objects[i]
 
         // Retrieve a topic name from the url provided by the sitemap
-        let articleTopic = siteMapObject.loc.replace(/https:\/\/help\.twitch\.tv\/s\/sitemap-topic([a-zA-Z0-9-]+)\.xml/, '$1');
+        let articleTopic = siteMapObject.loc.replace(/https:\/\/help\.twitch\.tv\/s\/sitemap-((topic|view)([a-zA-Z0-9-]+))\.xml/, '$1');
         // Capitalise the first letter of this topic name.
         articleTopic = articleTopic.substring(0, 1).toUpperCase() + articleTopic.substring(1)
 
@@ -129,9 +129,13 @@ function writeResultsToMarkdown(markdownInfo: any) {
             time: new Date(0, 0, 0, 0, 0, 0, 0),
             str: 'Never'
         }
+        
+        // sort it
+        let segments = Object.keys(markdownInfo[languageCode]);
+        segments = segments.sort();
 
         // iterate through all the article types (topicarticle-1, topicarticle-2...)
-        for (const segmentName of Object.keys(markdownInfo[languageCode])) {
+        for (const segmentName of segments) {
             const segment = markdownInfo[languageCode][segmentName];
 
             markdown += `## ${segmentName}\n`;
