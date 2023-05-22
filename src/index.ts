@@ -100,6 +100,8 @@ async function handleSitemap(sitemap: string) {
 
 function writeResultsToMarkdown(markdownInfo: any) {
     const languages = Object.keys(markdownInfo);
+    // Sort by country code.
+    languages.sort();
 
     // Set up the initial README.md markdown with some flavour text.
     let mainMarkdown = '# Twitch Knowledge-base Tracker\n'
