@@ -1,29 +1,6 @@
 # Finnish
 > All articles written under the fi language code. 
 
-## Article-1
-> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
-
-| Name | Last Updated (dd/mm/yyyy) | Link |
-|------|---------------------------|------|
-| Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:14 am | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=fi) |
-| Guide To Tags | 04/05/2023, 2:37:27 am | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=fi) |
-| Stream Summary | 10/02/2023, 5:16:20 am | [Link](https://help.twitch.tv/s/article/stream-summary?language=fi) |
-
-
-## Article-2
-> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
-
-| Name | Last Updated (dd/mm/yyyy) | Link |
-|------|---------------------------|------|
-| Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=fi) |
-| Gift Subscriptions | 18/11/2022, 6:01:11 am | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=fi) |
-| Twitch Content Sharing Guidelines | 13/10/2022, 7:53:05 am | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=fi) |
-| How To Use Raids | 28/09/2022, 3:01:03 am | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=fi) |
-| How To Manage Harassment In Chat | 01/12/2022, 5:24:49 am | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fi) |
-| Chat Commands | 18/11/2022, 1:36:54 pm | [Link](https://help.twitch.tv/s/article/chat-commands?language=fi) |
-
-
 ## Article-3
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
@@ -63,5 +40,15 @@
 | Guide To Custom Messages | 22/10/2021, 8:53:50 am | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=fi) |
 | Getting Started With Amazon Associates | 22/10/2021, 8:53:04 am | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=fi) |
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:22 am | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=fi) |
+
+
+## Article-1
+> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
+
+| Name | Last Updated (dd/mm/yyyy) | Link |
+|------|---------------------------|------|
+| Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:14 am | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=fi) |
+| Guide To Tags | 04/05/2023, 2:37:27 am | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=fi) |
+| Stream Summary | 10/02/2023, 5:16:20 am | [Link](https://help.twitch.tv/s/article/stream-summary?language=fi) |
 
 

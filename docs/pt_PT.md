@@ -1,36 +1,6 @@
 # Portuguese (Portugal)
 > All articles written under the pt_PT language code. 
 
-## Article-1
-> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
-
-| Name | Last Updated (dd/mm/yyyy) | Link |
-|------|---------------------------|------|
-| Lifetime Subscriber Guide For Partners | 28/02/2023, 8:54:32 am | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=pt_PT) |
-| Channel Analytics | 11/04/2023, 3:13:37 am | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_PT) |
-| Stream Summary | 10/02/2023, 5:16:20 am | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT) |
-| Guide To Cheering With Bits | 02/02/2023, 2:37:57 am | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_PT) |
-| Two Factor Authentication With Authy | 09/03/2023, 7:53:25 am | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT) |
-| Authy Faq | 02/05/2023, 3:00:18 am | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_PT) |
-| Video On Demand | 09/02/2023, 0:02:37 pm | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pt_PT) |
-| How To File A User Report | 05/04/2023, 6:11:02 am | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=pt_PT) |
-
-
-## Article-2
-> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
-
-| Name | Last Updated (dd/mm/yyyy) | Link |
-|------|---------------------------|------|
-| Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=pt_PT) |
-| Gift Subscriptions | 18/11/2022, 6:01:11 am | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT) |
-| Twitch Content Sharing Guidelines | 13/10/2022, 7:53:05 am | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=pt_PT) |
-| Twitch Affiliate Program Faq | 07/12/2022, 4:50:56 am | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT) |
-| Joining The Affiliate Program | 21/10/2022, 7:26:13 am | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT) |
-| How To Use Host Mode | 10/12/2022, 8:09:10 am | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=pt_PT) |
-| How To Manage Harassment In Chat | 01/12/2022, 5:24:49 am | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_PT) |
-| Chat Commands | 18/11/2022, 1:36:54 pm | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_PT) |
-
-
 ## Article-3
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
@@ -76,5 +46,20 @@
 | Guide To Building A Moderation Team | 22/10/2021, 8:53:46 am | [Link](https://help.twitch.tv/s/article/guide-to-building-a-moderation-team?language=pt_PT) |
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:25 am | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=pt_PT) |
 | Partner Help And Contact Information | 22/10/2021, 8:53:25 am | [Link](https://help.twitch.tv/s/article/partner-help-and-contact-information?language=pt_PT) |
+
+
+## Article-1
+> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
+
+| Name | Last Updated (dd/mm/yyyy) | Link |
+|------|---------------------------|------|
+| Lifetime Subscriber Guide For Partners | 28/02/2023, 8:54:32 am | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=pt_PT) |
+| Channel Analytics | 11/04/2023, 3:13:37 am | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_PT) |
+| Stream Summary | 10/02/2023, 5:16:20 am | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT) |
+| Guide To Cheering With Bits | 02/02/2023, 2:37:57 am | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_PT) |
+| Two Factor Authentication With Authy | 09/03/2023, 7:53:25 am | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT) |
+| Authy Faq | 02/05/2023, 3:00:18 am | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_PT) |
+| Video On Demand | 09/02/2023, 0:02:37 pm | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pt_PT) |
+| How To File A User Report | 05/04/2023, 6:11:02 am | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=pt_PT) |
 
 

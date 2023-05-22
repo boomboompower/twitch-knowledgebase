@@ -1,26 +1,6 @@
 # Hungarian
 > All articles written under the hu language code. 
 
-## Article-1
-> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
-
-| Name | Last Updated (dd/mm/yyyy) | Link |
-|------|---------------------------|------|
-| Stream Summary | 10/02/2023, 5:16:20 am | [Link](https://help.twitch.tv/s/article/stream-summary?language=hu) |
-
-
-## Article-2
-> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
-
-| Name | Last Updated (dd/mm/yyyy) | Link |
-|------|---------------------------|------|
-| Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=hu) |
-| Gift Subscriptions | 18/11/2022, 6:01:11 am | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=hu) |
-| Twitch Content Sharing Guidelines | 13/10/2022, 7:53:05 am | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=hu) |
-| How To Manage Harassment In Chat | 01/12/2022, 5:24:49 am | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=hu) |
-| Chat Commands | 18/11/2022, 1:36:54 pm | [Link](https://help.twitch.tv/s/article/chat-commands?language=hu) |
-
-
 ## Article-3
 > [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
@@ -55,5 +35,13 @@
 | Guide To Custom Messages | 22/10/2021, 8:53:50 am | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=hu) |
 | Getting Started With Amazon Associates | 22/10/2021, 8:53:04 am | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=hu) |
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:23 am | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=hu) |
+
+
+## Article-1
+> [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
+
+| Name | Last Updated (dd/mm/yyyy) | Link |
+|------|---------------------------|------|
+| Stream Summary | 10/02/2023, 5:16:20 am | [Link](https://help.twitch.tv/s/article/stream-summary?language=hu) |
 
 
