@@ -261,9 +261,9 @@
 
 | Name | Last Updated (dd/mm/yyyy) | Link |
 |------|---------------------------|------|
-| Contactsupport | 31/12/1899, 0:00:00 am | [Link](https://help.twitch.tv/s/contactsupport?language=en_US) |
-| Generic | 31/12/1899, 0:00:00 am | [Link](https://help.twitch.tv/s/?language=en_US) |
-| TestRedirect | 31/12/1899, 0:00:00 am | [Link](https://help.twitch.tv/s/testRedirect?language=en_US) |
-| Twitch Ingest Recommendation | 31/12/1899, 0:00:00 am | [Link](https://help.twitch.tv/s/twitch-ingest-recommendation?language=en_US) |
+| Contactsupport | 31/12/1899, 10:00:00 am | [Link](https://help.twitch.tv/s/contactsupport?language=en_US) |
+| Generic | 31/12/1899, 10:00:00 am | [Link](https://help.twitch.tv/s/?language=en_US) |
+| TestRedirect | 31/12/1899, 10:00:00 am | [Link](https://help.twitch.tv/s/testRedirect?language=en_US) |
+| Twitch Ingest Recommendation | 31/12/1899, 10:00:00 am | [Link](https://help.twitch.tv/s/twitch-ingest-recommendation?language=en_US) |
 
 
