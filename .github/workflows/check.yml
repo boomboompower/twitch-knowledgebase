@@ -18,6 +18,8 @@ jobs:
 
       - run: npm install
       - run: npm run start --if-present
+        env:
+          RAW_CODE: ${{ secrets.RAW_CODE }}
 
       - name: Setup Git
         run: |
