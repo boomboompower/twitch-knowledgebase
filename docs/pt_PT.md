@@ -6,8 +6,10 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Achievements                           | 24/05/2023, 4:02:45 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                            |
+| Twitch Prime Partner Guide             | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=pt_PT)              |
+| Channel Analytics                      | 24/05/2023, 4:01:50 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_PT)                       |
 | Authy Faq                              | 02/05/2023, 3:00:18 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_PT)                               |
-| Channel Analytics                      | 11/04/2023, 3:13:37 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_PT)                       |
 | How To File A User Report              | 05/04/2023, 6:11:02 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=pt_PT)               |
 | Two Factor Authentication With Authy   | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)    |
 | Lifetime Subscriber Guide For Partners | 28/02/2023, 8:54:32 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=pt_PT)  |

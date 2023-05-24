@@ -6,6 +6,12 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Achievements                                       | 24/05/2023, 4:02:45 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ja)                                        |
+| Prime Gaming Revenue Guide                         | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                          |
+| Payout History Dashboard Guide                     | 24/05/2023, 4:02:24 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=ja)                      |
+| Channel Analytics                                  | 24/05/2023, 4:01:50 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ja)                                   |
+| Guide To Broadcast Health                          | 24/05/2023, 3:58:16 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=ja)                           |
+| Local Recording                                    | 24/05/2023, 3:58:04 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=ja)                                     |
 | Emote Analytics                                    | 22/05/2023, 10:25:35 am   | [Link](https://help.twitch.tv/s/article/emote-analytics?language=ja)                                     |
 | Alerts By Twitch                                   | 18/05/2023, 4:04:55 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=ja)                                    |
 | How To Use Clips                                   | 15/05/2023, 0:22:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                    |
@@ -20,7 +26,6 @@
 | Subscriptions On Samsung Smart Tv                  | 04/05/2023, 7:20:41 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=ja)                   |
 | Languages On Twitch                                | 03/05/2023, 8:06:59 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ja)                                 |
 | Chat Highlights                                    | 12/04/2023, 4:05:40 am    | [Link](https://help.twitch.tv/s/article/chat-highlights?language=ja)                                     |
-| Channel Analytics                                  | 11/04/2023, 3:13:38 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ja)                                   |
 | Picture By Picture Ads                             | 06/04/2023, 0:56:06 pm    | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=ja)                              |
 | Ads Manager                                        | 06/04/2023, 0:56:05 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ja)                                         |
 | Disabling Prerolls                                 | 06/04/2023, 0:56:02 pm    | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=ja)                                  |
@@ -45,11 +50,6 @@
 | Mobile Irl Broadcasting                            | 24/01/2023, 5:59:39 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=ja)                             |
 | Joining Guest Star                                 | 20/01/2023, 4:02:03 pm    | [Link](https://help.twitch.tv/s/article/joining-guest-star?language=ja)                                  |
 | Guest Request To Join                              | 18/01/2023, 4:05:10 am    | [Link](https://help.twitch.tv/s/article/guest-request-to-join?language=ja)                               |
-| Guest Star                                         | 18/01/2023, 4:04:51 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=ja)                                          |
-| Twitch Mobile App Update                           | 16/01/2023, 6:12:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=ja)                            |
-| Twitch Studio Mac Faq                              | 16/01/2023, 6:05:34 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ja)                               |
-| Managing Roles For Your Channel                    | 05/01/2023, 11:04:39 am   | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ja)                     |
-| Achievements                                       | 03/01/2023, 4:31:29 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ja)                                        |
 
 
 
