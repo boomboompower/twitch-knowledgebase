@@ -6,8 +6,8 @@ Language data is not included in the API. All page links will not have a languag
 
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| experiments                                                   | 24/05/2023, 6:58:03 pm  | 17/05/2023, 9:05:35 am  | [Details](#experiments)                                                    |
-| requesting-your-data-from-twitch                              | 24/05/2023, 6:52:03 pm  | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
+| requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
+| experiments                                                   | 24/05/2023, 10:10:32 pm | 17/05/2023, 9:05:35 am  | [Details](#experiments)                                                    |
 | music-options-for-streamers                                   | 24/05/2023, 5:25:02 am  | 24/05/2023, 5:24:50 am  | [Details](#music-options-for-streamers)                                    |
 | achievements                                                  | 24/05/2023, 4:02:46 am  | 23/05/2023, 0:30:57 pm  | [Details](#achievements)                                                   |
 | prime-gaming-revenue-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:35 am  | [Details](#prime-gaming-revenue-guide)                                     |
@@ -323,25 +323,27 @@ Language data is not included in the API. All page links will not have a languag
 
 
 
-## experiments
-https://help.twitch.tv/s/article/experiments
-
-| Title                          | Last Modified          | Created                 |
-|--------------------------------|------------------------|-------------------------|
-| Eksperymenty w serwisie Twitch | 24/05/2023, 6:58:03 pm | 17/05/2023, 9:05:35 am  |
-| Gli esperimenti di Twitch      | 24/05/2023, 5:52:33 pm | 17/05/2023, 9:05:35 am  |
-| Experimentos da Twitch         | 24/05/2023, 9:25:02 am | 17/05/2023, 9:05:35 am  |
-| Experimentos de Twitch         | 24/05/2023, 3:56:01 am | 24/05/2023, 3:56:00 am  |
-| Experimentos de Twitch         | 24/05/2023, 3:56:01 am | 24/05/2023, 3:56:00 am  |
-| Expériences Twitch             | 24/05/2023, 3:56:01 am | 24/05/2023, 3:56:00 am  |
-
-
 ## requesting-your-data-from-twitch
 https://help.twitch.tv/s/article/requesting-your-data-from-twitch
 
-| Title                             | Last Modified          | Created                 |
-|-----------------------------------|------------------------|-------------------------|
-| Anfordern deiner Daten von Twitch | 24/05/2023, 6:52:03 pm | 17/05/2023, 9:56:54 am  |
+| Title                                        | Last Modified           | Created                 |
+|----------------------------------------------|-------------------------|-------------------------|
+| Cómo obtener y descargar tus datos de Twitch | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  |
+| Demander vos données à Twitch                | 24/05/2023, 7:46:32 pm  | 17/05/2023, 9:56:54 am  |
+| Anfordern deiner Daten von Twitch            | 24/05/2023, 6:52:03 pm  | 17/05/2023, 9:56:54 am  |
+
+
+## experiments
+https://help.twitch.tv/s/article/experiments
+
+| Title                          | Last Modified           | Created                 |
+|--------------------------------|-------------------------|-------------------------|
+| Experimentos de Twitch         | 24/05/2023, 10:10:32 pm | 17/05/2023, 9:05:35 am  |
+| Experimentos de Twitch         | 24/05/2023, 9:15:32 pm  | 17/05/2023, 9:05:35 am  |
+| Expériences Twitch             | 24/05/2023, 7:54:33 pm  | 17/05/2023, 9:05:35 am  |
+| Eksperymenty w serwisie Twitch | 24/05/2023, 6:58:03 pm  | 17/05/2023, 9:05:35 am  |
+| Gli esperimenti di Twitch      | 24/05/2023, 5:52:33 pm  | 17/05/2023, 9:05:35 am  |
+| Experimentos da Twitch         | 24/05/2023, 9:25:02 am  | 17/05/2023, 9:05:35 am  |
 
 
 ## music-options-for-streamers
@@ -1107,7 +1109,6 @@ https://help.twitch.tv/s/article/ads-incentive-program-getting-started
 | Introducción al programa de incentivos de anuncios publicitarios | 10/03/2023, 4:30:03 am | 10/03/2023, 4:29:28 am  |
 | Introducción al Programa de incentivo para anuncios              | 10/03/2023, 4:29:10 am | 10/03/2023, 4:28:44 am  |
 | Introdução ao Programa de Incentivo de Ads                       | 10/03/2023, 4:27:49 am | 10/03/2023, 4:27:27 am  |
-| Pierwsze kroki w motywacyjnym programie reklamowym               | 10/03/2023, 4:27:08 am | 10/03/2023, 4:26:37 am  |
 | Erste Schritte für das Belohnungsprogramm für Werbung            | 10/03/2023, 4:22:32 am | 10/03/2023, 4:22:05 am  |
 | Introduction au programme d'avantages publicitaires              | 10/03/2023, 4:21:41 am | 10/03/2023, 4:21:06 am  |
 | Getting Started With the Ads Incentive Program                   | 10/03/2023, 4:14:58 am | 10/03/2023, 4:14:38 am  |
@@ -2076,7 +2077,6 @@ https://help.twitch.tv/s/article/getting-started-twitch-studio
 | Title                              | Last Modified          | Created                 |
 |------------------------------------|------------------------|-------------------------|
 | Introdução ao Twitch Studio        | 26/10/2022, 4:12:49 am | 27/09/2022, 8:44:10 am  |
-| Pierwsze kroki w Twitch Studio     | 26/10/2022, 4:12:49 am | 27/09/2022, 8:44:10 am  |
 | Bien commencer avec Twitch Studio  | 26/10/2022, 4:12:48 am | 27/09/2022, 8:44:10 am  |
 | Erste Schritte mit Twitch Studio   | 26/10/2022, 4:12:48 am | 27/09/2022, 8:44:10 am  |
 | Getting Started with Twitch Studio | 26/10/2022, 4:12:48 am | 27/09/2022, 8:43:48 am  |
