@@ -6,7 +6,8 @@ Language data is not included in the API. All page links will not have a languag
 
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| experiments                                                   | 24/05/2023, 9:25:02 am  | 17/05/2023, 9:05:35 am  | [Details](#experiments)                                                    |
+| experiments                                                   | 24/05/2023, 6:58:03 pm  | 17/05/2023, 9:05:35 am  | [Details](#experiments)                                                    |
+| requesting-your-data-from-twitch                              | 24/05/2023, 6:52:03 pm  | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
 | music-options-for-streamers                                   | 24/05/2023, 5:25:02 am  | 24/05/2023, 5:24:50 am  | [Details](#music-options-for-streamers)                                    |
 | achievements                                                  | 24/05/2023, 4:02:46 am  | 23/05/2023, 0:30:57 pm  | [Details](#achievements)                                                   |
 | prime-gaming-revenue-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:35 am  | [Details](#prime-gaming-revenue-guide)                                     |
@@ -327,12 +328,20 @@ https://help.twitch.tv/s/article/experiments
 
 | Title                          | Last Modified          | Created                 |
 |--------------------------------|------------------------|-------------------------|
+| Eksperymenty w serwisie Twitch | 24/05/2023, 6:58:03 pm | 17/05/2023, 9:05:35 am  |
+| Gli esperimenti di Twitch      | 24/05/2023, 5:52:33 pm | 17/05/2023, 9:05:35 am  |
 | Experimentos da Twitch         | 24/05/2023, 9:25:02 am | 17/05/2023, 9:05:35 am  |
-| Eksperymenty w serwisie Twitch | 24/05/2023, 3:56:01 am | 24/05/2023, 3:56:00 am  |
 | Experimentos de Twitch         | 24/05/2023, 3:56:01 am | 24/05/2023, 3:56:00 am  |
 | Experimentos de Twitch         | 24/05/2023, 3:56:01 am | 24/05/2023, 3:56:00 am  |
 | Expériences Twitch             | 24/05/2023, 3:56:01 am | 24/05/2023, 3:56:00 am  |
-| Gli esperimenti di Twitch      | 24/05/2023, 3:56:01 am | 24/05/2023, 3:56:00 am  |
+
+
+## requesting-your-data-from-twitch
+https://help.twitch.tv/s/article/requesting-your-data-from-twitch
+
+| Title                             | Last Modified          | Created                 |
+|-----------------------------------|------------------------|-------------------------|
+| Anfordern deiner Daten von Twitch | 24/05/2023, 6:52:03 pm | 17/05/2023, 9:56:54 am  |
 
 
 ## music-options-for-streamers
@@ -801,7 +810,6 @@ https://help.twitch.tv/s/article/guest-star-getting-started
 | Getting Started with Guest Star  | 09/05/2023, 7:02:50 am | 02/05/2023, 4:04:20 am  |
 | Introducción a Estrella Invitada | 09/05/2023, 7:02:50 am | 02/05/2023, 5:46:47 am  |
 | Introducción a Guest Star        | 09/05/2023, 7:02:50 am | 02/05/2023, 5:46:47 am  |
-| Pierwsze kroki z Guest Star      | 09/05/2023, 7:02:50 am | 02/05/2023, 5:46:47 am  |
 | Erste Schritte mit Guest Star    | 09/05/2023, 7:02:49 am | 02/05/2023, 5:46:47 am  |
 
 
