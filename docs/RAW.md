@@ -6,6 +6,7 @@ Language data is not included in the API. All page links will not have a languag
 
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| broadcasting-guidelines                                       | 25/05/2023, 2:16:55 pm  | 12/05/2023, 8:43:13 am  | [Details](#broadcasting-guidelines)                                        |
 | achievements                                                  | 25/05/2023, 7:51:49 am  | 23/05/2023, 0:31:29 pm  | [Details](#achievements)                                                   |
 | channel-analytics                                             | 25/05/2023, 7:51:43 am  | 23/05/2023, 0:21:49 pm  | [Details](#channel-analytics)                                              |
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
@@ -33,7 +34,6 @@ Language data is not included in the API. All page links will not have a languag
 | guide-to-bits-history                                         | 17/05/2023, 8:13:31 am  | 17/05/2023, 8:13:30 am  | [Details](#guide-to-bits-history)                                          |
 | how-to-use-clips                                              | 15/05/2023, 8:10:05 pm  | 15/05/2023, 8:10:04 pm  | [Details](#how-to-use-clips)                                               |
 | guide-to-tags                                                 | 12/05/2023, 11:23:34 pm | 12/05/2023, 11:23:33 pm | [Details](#guide-to-tags)                                                  |
-| broadcasting-guidelines                                       | 12/05/2023, 8:43:04 am  | 12/05/2023, 8:42:13 am  | [Details](#broadcasting-guidelines)                                        |
 | how-to-find-and-browse-clips                                  | 12/05/2023, 6:55:17 am  | 06/05/2023, 5:57:31 am  | [Details](#how-to-find-and-browse-clips)                                   |
 | how-to-delete-and-manage-clips                                | 12/05/2023, 6:55:05 am  | 06/05/2023, 5:59:29 am  | [Details](#how-to-delete-and-manage-clips)                                 |
 | clips-settings                                                | 12/05/2023, 6:54:57 am  | 27/04/2023, 10:23:14 am | [Details](#clips-settings)                                                 |
@@ -321,6 +321,14 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-send-error-information                                 | 30/09/2021, 11:26:48 am | 07/12/2018, 0:37:10 pm  | [Details](#how-to-send-error-information)                                  |
 | how-to-send-in-console-output                                 | 30/09/2021, 11:26:48 am | 07/12/2018, 0:37:10 pm  | [Details](#how-to-send-in-console-output)                                  |
 
+
+
+## broadcasting-guidelines
+https://help.twitch.tv/s/article/broadcasting-guidelines
+
+| Title                   | Last Modified          | Created                 |
+|-------------------------|------------------------|-------------------------|
+| Broadcasting Guidelines | 25/05/2023, 2:16:55 pm | 12/05/2023, 8:43:13 am  |
 
 
 ## achievements
@@ -668,14 +676,6 @@ https://help.twitch.tv/s/article/guide-to-tags
 | Guide til tags                          | 04/05/2023, 2:37:27 am  | 04/05/2023, 2:37:25 am   |
 | Guide till taggar                       | 04/05/2023, 2:37:27 am  | 04/05/2023, 2:37:25 am   |
 | Merkeguide                              | 04/05/2023, 2:37:27 am  | 04/05/2023, 2:37:25 am   |
-
-
-## broadcasting-guidelines
-https://help.twitch.tv/s/article/broadcasting-guidelines
-
-| Title                   | Last Modified          | Created                 |
-|-------------------------|------------------------|-------------------------|
-| Broadcasting Guidelines | 12/05/2023, 8:43:04 am | 12/05/2023, 8:42:13 am  |
 
 
 ## how-to-find-and-browse-clips

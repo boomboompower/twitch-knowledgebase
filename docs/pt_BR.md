@@ -49,7 +49,6 @@
 | Videos On Demand                                   | 09/02/2023, 0:02:37 pm    | [Link](https://help.twitch.tv/s/article/videos-on-demand?language=pt_BR)                                    |
 | Guide To Cheering With Bits                        | 02/02/2023, 2:37:59 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_BR)                         |
 | Mobile Irl Broadcasting                            | 24/01/2023, 5:59:39 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=pt_BR)                             |
-| Joining Guest Star                                 | 19/01/2023, 1:10:05 pm    | [Link](https://help.twitch.tv/s/article/joining-guest-star?language=pt_BR)                                  |
 
 
 
