@@ -6,16 +6,15 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Lifetime Subscriber Guide For Partners | 26/05/2023, 3:15:05 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=pt_PT)  |
+| Twitch Turbo Guide                     | 26/05/2023, 3:14:57 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                      |
 | Achievements                           | 24/05/2023, 4:02:45 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                            |
 | Twitch Prime Partner Guide             | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=pt_PT)              |
 | Channel Analytics                      | 24/05/2023, 4:01:50 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_PT)                       |
 | Authy Faq                              | 02/05/2023, 3:00:18 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_PT)                               |
 | How To File A User Report              | 05/04/2023, 6:11:02 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=pt_PT)               |
 | Two Factor Authentication With Authy   | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)    |
-| Lifetime Subscriber Guide For Partners | 28/02/2023, 8:54:32 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=pt_PT)  |
 | Stream Summary                         | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                          |
-| Video On Demand                        | 09/02/2023, 0:02:37 pm    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pt_PT)                         |
-| Guide To Cheering With Bits            | 02/02/2023, 2:37:57 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_PT)             |
 
 
 

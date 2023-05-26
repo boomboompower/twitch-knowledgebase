@@ -6,6 +6,11 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Refunds On Twitch                                  | 26/05/2023, 3:15:33 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=en_US)                                   |
+| Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                           |
+| Lifetime Subscriber Guide For Partners             | 26/05/2023, 3:15:09 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=en_US)              |
+| Twitch Turbo Guide                                 | 26/05/2023, 3:14:57 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                                  |
+| Broadcasting Guidelines                            | 26/05/2023, 3:10:33 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                             |
 | Music Options For Streamers                        | 24/05/2023, 5:25:02 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=en_US)                         |
 | Prime Gaming Revenue Guide                         | 24/05/2023, 4:02:47 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)                          |
 | Achievements                                       | 24/05/2023, 4:02:46 am    | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                                        |
@@ -22,7 +27,6 @@
 | Alerts By Twitch Events                            | 18/05/2023, 4:07:47 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                             |
 | Alerts By Twitch                                   | 18/05/2023, 4:04:55 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=en_US)                                    |
 | Emote Analytics                                    | 13/05/2023, 7:37:04 am    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=en_US)                                     |
-| Broadcasting Guidelines                            | 12/05/2023, 8:43:04 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                             |
 | How To Use Clips                                   | 12/05/2023, 6:56:21 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                    |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:15 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=en_US)  |
 | Guest Star Audio                                   | 10/05/2023, 9:20:11 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=en_US)                                    |
@@ -47,15 +51,11 @@
 | Two Factor Authentication                          | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=en_US)                           |
 | Creator Goals                                      | 09/03/2023, 4:21:18 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                       |
 | Guest Star Browser Source                          | 07/03/2023, 3:52:07 am    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=en_US)                           |
-| Lifetime Subscriber Guide For Partners             | 28/02/2023, 8:54:34 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=en_US)              |
 | First Steps For New Affiliates                     | 17/02/2023, 9:35:43 am    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=en_US)                      |
 | Twitch Charity Faqs                                | 10/02/2023, 8:23:34 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=en_US)                                 |
 | Twitch Charity                                     | 10/02/2023, 8:21:14 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=en_US)                                      |
 | Stream Summary                                     | 10/02/2023, 5:16:21 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=en_US)                                      |
 | Video On Demand                                    | 09/02/2023, 0:02:38 pm    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                     |
-| Delete Twitch Account                              | 08/02/2023, 10:02:25 am   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=en_US)                               |
-| Guide To Cheering With Bits                        | 02/02/2023, 2:37:58 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=en_US)                         |
-| Mobile Irl Broadcasting                            | 24/01/2023, 5:59:39 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=en_US)                             |
 
 
 

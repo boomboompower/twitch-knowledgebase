@@ -6,13 +6,19 @@ Language data is not included in the API. All page links will not have a languag
 
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| alerts-by-twitch-customization                                | 26/05/2023, 10:09:02 pm | 26/05/2023, 10:09:01 pm | [Details](#alerts-by-twitch-customization)                                 |
+| alerts-by-twitch-css                                          | 26/05/2023, 9:34:13 pm  | 20/05/2023, 5:04:43 am  | [Details](#alerts-by-twitch-css)                                           |
+| setup-alerts-by-twitch                                        | 26/05/2023, 9:34:12 pm  | 20/05/2023, 5:01:01 am  | [Details](#setup-alerts-by-twitch)                                         |
+| alerts-by-twitch-faq                                          | 26/05/2023, 9:34:10 pm  | 20/05/2023, 5:05:12 am  | [Details](#alerts-by-twitch-faq)                                           |
+| alerts-by-twitch                                              | 26/05/2023, 9:34:08 pm  | 20/05/2023, 5:00:31 am  | [Details](#alerts-by-twitch)                                               |
+| alerts-by-twitch-events                                       | 26/05/2023, 8:09:03 pm  | 20/05/2023, 5:01:33 am  | [Details](#alerts-by-twitch-events)                                        |
+| alerts-by-twitch-interactive-resubs                           | 26/05/2023, 7:55:37 pm  | 20/05/2023, 5:02:01 am  | [Details](#alerts-by-twitch-interactive-resubs)                            |
 | refunds-on-twitch                                             | 26/05/2023, 3:15:33 am  | 11/12/2021, 11:37:50 am | [Details](#refunds-on-twitch)                                              |
 | gift-card-spend                                               | 26/05/2023, 3:15:23 am  | 26/05/2023, 3:15:23 am  | [Details](#gift-card-spend)                                                |
 | local-sub-price-countries                                     | 26/05/2023, 3:15:13 am  | 26/05/2023, 3:15:12 am  | [Details](#local-sub-price-countries)                                      |
 | lifetime-subscriber-guide-for-partners                        | 26/05/2023, 3:15:09 am  | 06/05/2023, 7:02:04 am  | [Details](#lifetime-subscriber-guide-for-partners)                         |
 | twitch-turbo-guide                                            | 26/05/2023, 3:14:58 am  | 19/05/2023, 11:51:30 am | [Details](#twitch-turbo-guide)                                             |
 | broadcasting-guidelines                                       | 26/05/2023, 3:10:33 am  | 26/05/2023, 3:10:13 am  | [Details](#broadcasting-guidelines)                                        |
-| alerts-by-twitch-css                                          | 25/05/2023, 10:32:35 pm | 20/05/2023, 5:04:43 am  | [Details](#alerts-by-twitch-css)                                           |
 | achievements                                                  | 25/05/2023, 7:51:49 am  | 23/05/2023, 0:31:29 pm  | [Details](#achievements)                                                   |
 | channel-analytics                                             | 25/05/2023, 7:51:43 am  | 23/05/2023, 0:21:49 pm  | [Details](#channel-analytics)                                              |
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
@@ -32,10 +38,6 @@ Language data is not included in the API. All page links will not have a languag
 | playback-issue-troubleshooting                                | 22/05/2023, 10:21:02 pm | 06/05/2023, 8:26:59 am  | [Details](#playback-issue-troubleshooting)                                 |
 | affiliate-or-partner-anniversary-settings                     | 22/05/2023, 9:24:32 pm  | 13/05/2023, 6:15:47 am  | [Details](#affiliate-or-partner-anniversary-settings)                      |
 | hype-train-guide                                              | 20/05/2023, 4:26:39 am  | 20/05/2023, 4:26:38 am  | [Details](#hype-train-guide)                                               |
-| alerts-by-twitch-customization                                | 18/05/2023, 4:17:30 am  | 18/05/2023, 4:16:44 am  | [Details](#alerts-by-twitch-customization)                                 |
-| alerts-by-twitch-faq                                          | 18/05/2023, 4:09:52 am  | 22/02/2023, 9:58:12 am  | [Details](#alerts-by-twitch-faq)                                           |
-| alerts-by-twitch-interactive-resubs                           | 18/05/2023, 4:08:36 am  | 22/02/2023, 10:01:59 am | [Details](#alerts-by-twitch-interactive-resubs)                            |
-| alerts-by-twitch                                              | 18/05/2023, 4:04:55 am  | 18/05/2023, 4:04:54 am  | [Details](#alerts-by-twitch)                                               |
 | guide-to-bits-history                                         | 17/05/2023, 8:13:31 am  | 17/05/2023, 8:13:30 am  | [Details](#guide-to-bits-history)                                          |
 | how-to-use-clips                                              | 15/05/2023, 8:10:05 pm  | 15/05/2023, 8:10:04 pm  | [Details](#how-to-use-clips)                                               |
 | guide-to-tags                                                 | 12/05/2023, 11:23:34 pm | 12/05/2023, 11:23:33 pm | [Details](#guide-to-tags)                                                  |
@@ -177,8 +179,8 @@ Language data is not included in the API. All page links will not have a languag
 | games-irl-and-music-directories                               | 28/07/2022, 3:03:23 am  | 30/06/2022, 8:03:56 am  | [Details](#games-irl-and-music-directories)                                |
 | ban-evasion                                                   | 22/07/2022, 2:42:23 am  | 01/07/2022, 4:49:25 am  | [Details](#ban-evasion)                                                    |
 | how-do-i-stream-faq                                           | 20/07/2022, 6:19:45 am  | 20/07/2022, 6:19:17 am  | [Details](#how-do-i-stream-faq)                                            |
-| rejected-payout-faq                                           | 19/07/2022, 5:19:03 am  | 19/07/2022, 5:19:01 am  | [Details](#rejected-payout-faq)                                            |
 | payout-details-faq                                            | 19/07/2022, 3:43:02 am  | 19/07/2022, 3:43:01 am  | [Details](#payout-details-faq)                                             |
+| rejected-payout-faq                                           | 13/07/2022, 3:10:35 am  | 29/06/2022, 0:32:52 pm  | [Details](#rejected-payout-faq)                                            |
 | how-to-file-a-video-playback-issue                            | 08/07/2022, 10:40:03 pm | 02/07/2022, 3:51:09 am  | [Details](#how-to-file-a-video-playback-issue)                             |
 | how-to-subscribe                                              | 20/06/2022, 10:11:06 pm | 16/06/2022, 8:35:36 am  | [Details](#how-to-subscribe)                                               |
 | Disconnect-Protection                                         | 19/06/2022, 8:30:05 am  | 18/06/2022, 3:05:42 am  | [Details](#disconnect-protection)                                          |
@@ -323,6 +325,83 @@ Language data is not included in the API. All page links will not have a languag
 
 
 
+## alerts-by-twitch-customization
+https://help.twitch.tv/s/article/alerts-by-twitch-customization
+
+| Title                           | Last Modified           | Created                  |
+|---------------------------------|-------------------------|--------------------------|
+| Anpassung von Alerts von Twitch | 26/05/2023, 10:09:02 pm | 26/05/2023, 10:09:01 pm  |
+| Alerts by Twitch Customization  | 18/05/2023, 4:17:30 am  | 18/05/2023, 4:16:44 am   |
+
+
+## alerts-by-twitch-css
+https://help.twitch.tv/s/article/alerts-by-twitch-css
+
+| Title                              | Last Modified           | Created                  |
+|------------------------------------|-------------------------|--------------------------|
+| CSS et HTML des alertes de Twitch  | 26/05/2023, 9:34:13 pm  | 20/05/2023, 5:04:43 am   |
+| Alerts von Twitch– CSS & HTML      | 26/05/2023, 7:07:32 pm  | 20/05/2023, 5:04:43 am   |
+| CSS e HTML degli avvisi di Twitch  | 26/05/2023, 5:42:37 pm  | 20/05/2023, 5:04:43 am   |
+| CSS e HTML dos alertas da Twitch   | 26/05/2023, 11:03:02 am | 20/05/2023, 5:04:43 am   |
+| CSS และ HTML ของการเตือนโดย Twitch | 25/05/2023, 10:32:35 pm | 20/05/2023, 5:04:43 am   |
+| Alerts by Twitch CSS & HTML        | 18/05/2023, 4:09:20 am  | 22/02/2023, 10:02:29 am  |
+
+
+## setup-alerts-by-twitch
+https://help.twitch.tv/s/article/setup-alerts-by-twitch
+
+| Title                            | Last Modified           | Created                 |
+|----------------------------------|-------------------------|-------------------------|
+| Configurer les alertes de Twitch | 26/05/2023, 9:34:12 pm  | 20/05/2023, 5:01:01 am  |
+| Einrichten von Alerts von Twitch | 26/05/2023, 8:09:32 pm  | 20/05/2023, 5:01:01 am  |
+| Configurare gli avvisi di Twitch | 26/05/2023, 5:42:32 pm  | 20/05/2023, 5:01:01 am  |
+| Configurando alertas da Twitch   | 26/05/2023, 11:03:07 am | 20/05/2023, 5:01:01 am  |
+
+
+## alerts-by-twitch-faq
+https://help.twitch.tv/s/article/alerts-by-twitch-faq
+
+| Title                                        | Last Modified           | Created                 |
+|----------------------------------------------|-------------------------|-------------------------|
+| FAQ des alertes de Twitch                    | 26/05/2023, 9:34:10 pm  | 20/05/2023, 5:05:12 am  |
+| Alerts von Twitch– FAQ                       | 26/05/2023, 7:55:35 pm  | 20/05/2023, 5:05:12 am  |
+| Domande frequenti sugli Avvisi di Twitch     | 26/05/2023, 5:42:35 pm  | 20/05/2023, 5:05:12 am  |
+| Perguntas frequentes sobre alertas da Twitch | 26/05/2023, 11:03:11 am | 20/05/2023, 5:05:12 am  |
+| Alerts by Twitch FAQ                         | 18/05/2023, 4:09:52 am  | 22/02/2023, 9:58:12 am  |
+
+
+## alerts-by-twitch
+https://help.twitch.tv/s/article/alerts-by-twitch
+
+| Title             | Last Modified           | Created                 |
+|-------------------|-------------------------|-------------------------|
+| Alertes de Twitch | 26/05/2023, 9:34:08 pm  | 20/05/2023, 5:00:31 am  |
+| Alerts von Twitch | 26/05/2023, 7:55:32 pm  | 20/05/2023, 5:00:31 am  |
+| Avvisi di Twitch  | 26/05/2023, 5:42:41 pm  | 20/05/2023, 5:00:31 am  |
+| Alertas da Twitch | 26/05/2023, 11:03:06 am | 20/05/2023, 5:00:31 am  |
+| Alertas de Twitch | 18/05/2023, 4:04:55 am  | 18/05/2023, 4:04:54 am  |
+| Alertas de Twitch | 18/05/2023, 4:04:55 am  | 18/05/2023, 4:04:54 am  |
+| Alerts by Twitch  | 18/05/2023, 4:04:55 am  | 17/05/2023, 4:35:44 am  |
+| Alerty od Twitcha | 18/05/2023, 4:04:55 am  | 18/05/2023, 4:04:54 am  |
+
+
+## alerts-by-twitch-events
+https://help.twitch.tv/s/article/alerts-by-twitch-events
+
+| Title                       | Last Modified          | Created                 |
+|-----------------------------|------------------------|-------------------------|
+| Arten von Alerts von Twitch | 26/05/2023, 8:09:03 pm | 20/05/2023, 5:01:33 am  |
+
+
+## alerts-by-twitch-interactive-resubs
+https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs
+
+| Title                                             | Last Modified          | Created                  |
+|---------------------------------------------------|------------------------|--------------------------|
+| Alerts von Twitch– interaktive Abo-Verlängerungen | 26/05/2023, 7:55:37 pm | 20/05/2023, 5:02:01 am   |
+| Alerts by Twitch Interactive Resubs               | 18/05/2023, 4:08:36 am | 22/02/2023, 10:01:59 am  |
+
+
 ## refunds-on-twitch
 https://help.twitch.tv/s/article/refunds-on-twitch
 
@@ -393,15 +472,6 @@ https://help.twitch.tv/s/article/broadcasting-guidelines
 | Title                   | Last Modified          | Created                 |
 |-------------------------|------------------------|-------------------------|
 | Broadcasting Guidelines | 26/05/2023, 3:10:33 am | 26/05/2023, 3:10:13 am  |
-
-
-## alerts-by-twitch-css
-https://help.twitch.tv/s/article/alerts-by-twitch-css
-
-| Title                              | Last Modified           | Created                  |
-|------------------------------------|-------------------------|--------------------------|
-| CSS และ HTML ของการเตือนโดย Twitch | 25/05/2023, 10:32:35 pm | 20/05/2023, 5:04:43 am   |
-| Alerts by Twitch CSS & HTML        | 18/05/2023, 4:09:20 am  | 22/02/2023, 10:02:29 am  |
 
 
 ## achievements
@@ -654,45 +724,6 @@ https://help.twitch.tv/s/article/hype-train-guide
 | Leitfaden zu Hype Trains  | 20/05/2023, 4:26:39 am | 20/05/2023, 4:26:38 am  |
 
 
-## alerts-by-twitch-customization
-https://help.twitch.tv/s/article/alerts-by-twitch-customization
-
-| Title                          | Last Modified          | Created                 |
-|--------------------------------|------------------------|-------------------------|
-| Alerts by Twitch Customization | 18/05/2023, 4:17:30 am | 18/05/2023, 4:16:44 am  |
-
-
-## alerts-by-twitch-faq
-https://help.twitch.tv/s/article/alerts-by-twitch-faq
-
-| Title                | Last Modified          | Created                 |
-|----------------------|------------------------|-------------------------|
-| Alerts by Twitch FAQ | 18/05/2023, 4:09:52 am | 22/02/2023, 9:58:12 am  |
-
-
-## alerts-by-twitch-interactive-resubs
-https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs
-
-| Title                               | Last Modified          | Created                  |
-|-------------------------------------|------------------------|--------------------------|
-| Alerts by Twitch Interactive Resubs | 18/05/2023, 4:08:36 am | 22/02/2023, 10:01:59 am  |
-
-
-## alerts-by-twitch
-https://help.twitch.tv/s/article/alerts-by-twitch
-
-| Title             | Last Modified          | Created                 |
-|-------------------|------------------------|-------------------------|
-| Alertas da Twitch | 18/05/2023, 4:04:55 am | 18/05/2023, 4:04:54 am  |
-| Alertas de Twitch | 18/05/2023, 4:04:55 am | 18/05/2023, 4:04:54 am  |
-| Alertas de Twitch | 18/05/2023, 4:04:55 am | 18/05/2023, 4:04:54 am  |
-| Alertes de Twitch | 18/05/2023, 4:04:55 am | 18/05/2023, 4:04:54 am  |
-| Alerts by Twitch  | 18/05/2023, 4:04:55 am | 17/05/2023, 4:35:44 am  |
-| Alerts von Twitch | 18/05/2023, 4:04:55 am | 18/05/2023, 4:04:54 am  |
-| Alerty od Twitcha | 18/05/2023, 4:04:55 am | 18/05/2023, 4:04:54 am  |
-| Avvisi di Twitch  | 18/05/2023, 4:04:55 am | 18/05/2023, 4:04:54 am  |
-
-
 ## guide-to-bits-history
 https://help.twitch.tv/s/article/guide-to-bits-history
 
@@ -860,7 +891,6 @@ https://help.twitch.tv/s/article/guest-star-faqs
 |----------------------------------------------|------------------------|-------------------------|
 | Konuk Yıldız hakkında SSS                    | 09/05/2023, 7:04:05 am | 02/05/2023, 5:47:55 am  |
 | Często zadawane pytania dotyczące Guest Star | 09/05/2023, 7:04:04 am | 02/05/2023, 5:47:55 am  |
-| Perguntas frequentes sobre o Guest Star      | 09/05/2023, 7:04:04 am | 02/05/2023, 5:47:55 am  |
 | Domande frequenti su Guest Star              | 09/05/2023, 7:04:03 am | 02/05/2023, 5:47:55 am  |
 | FAQ de Guest Star                            | 09/05/2023, 7:04:03 am | 02/05/2023, 5:47:55 am  |
 | FAQs zu Guest Star                           | 09/05/2023, 7:04:03 am | 02/05/2023, 5:47:55 am  |
@@ -1052,7 +1082,6 @@ https://help.twitch.tv/s/article/picture-by-picture-ads
 | Anúncios picture-in-picture (PiP) | 06/04/2023, 4:50:11 am | 30/03/2023, 5:03:08 am  |
 | Anuncios Picture In Picture (PIP) | 05/04/2023, 8:59:05 pm | 30/03/2023, 5:03:08 am  |
 | Bild-im-Bild-Werbung              | 03/04/2023, 6:47:33 pm | 30/03/2023, 5:03:08 am  |
-| Picture-by-Picture Ads            | 30/03/2023, 8:16:39 am | 21/03/2023, 4:35:38 am  |
 
 
 ## monthly-recap
@@ -1382,14 +1411,13 @@ https://help.twitch.tv/s/article/display-names-on-twitch
 ## transcoding-options-faq
 https://help.twitch.tv/s/article/transcoding-options-faq
 
-| Title                                                  | Last Modified           | Created                 |
-|--------------------------------------------------------|-------------------------|-------------------------|
-| FAQ sur les options de transcodage                     | 09/02/2023, 4:05:02 am  | 03/02/2023, 0:12:42 pm  |
-| Kod Dönüşüm Seçenekleri SSS                            | 08/02/2023, 9:23:32 pm  | 03/02/2023, 0:12:42 pm  |
-| Często zadawane pytania dotyczące opcji transkodowania | 08/02/2023, 9:12:32 pm  | 03/02/2023, 0:12:42 pm  |
-| FAQ zu Transcodierungsoptionen                         | 08/02/2023, 9:04:02 pm  | 03/02/2023, 0:12:42 pm  |
-| Domande frequenti sulle opzioni di transcodifica       | 08/02/2023, 7:15:32 pm  | 03/02/2023, 0:12:42 pm  |
-| Perguntas frequentes sobre opções de transcodificação  | 07/02/2023, 10:20:03 pm | 03/02/2023, 0:12:42 pm  |
+| Title                                                  | Last Modified          | Created                 |
+|--------------------------------------------------------|------------------------|-------------------------|
+| FAQ sur les options de transcodage                     | 09/02/2023, 4:05:02 am | 03/02/2023, 0:12:42 pm  |
+| Kod Dönüşüm Seçenekleri SSS                            | 08/02/2023, 9:23:32 pm | 03/02/2023, 0:12:42 pm  |
+| Często zadawane pytania dotyczące opcji transkodowania | 08/02/2023, 9:12:32 pm | 03/02/2023, 0:12:42 pm  |
+| FAQ zu Transcodierungsoptionen                         | 08/02/2023, 9:04:02 pm | 03/02/2023, 0:12:42 pm  |
+| Domande frequenti sulle opzioni di transcodifica       | 08/02/2023, 7:15:32 pm | 03/02/2023, 0:12:42 pm  |
 
 
 ## supported-mobile-os
@@ -1617,7 +1645,6 @@ https://help.twitch.tv/s/article/twitch-research-surveys
 | Ankiety do badań Twitch              | 03/01/2023, 9:17:37 am | 03/01/2023, 9:17:37 am  |
 | Encuestas de investigación de Twitch | 03/01/2023, 9:17:37 am | 03/01/2023, 9:17:37 am  |
 | Encuestas de investigación de Twitch | 03/01/2023, 9:17:37 am | 03/01/2023, 9:17:37 am  |
-| Pesquisas da Twitch                  | 03/01/2023, 9:17:37 am | 03/01/2023, 9:17:37 am  |
 
 
 ## how-to-use-polls
@@ -1703,14 +1730,13 @@ https://help.twitch.tv/s/article/your-first-payout-walkthrough
 ## twitch-affiliate-program-faq
 https://help.twitch.tv/s/article/twitch-affiliate-program-faq
 
-| Title                                                        | Last Modified          | Created                 |
-|--------------------------------------------------------------|------------------------|-------------------------|
-| Häufig gestellte Fragen zum Affiliate-Programm von Twitch    | 10/12/2022, 1:47:34 am | 06/12/2022, 9:58:25 am  |
-| Perguntas frequentes sobre o Programa de Afiliados da Twitch | 10/12/2022, 0:16:02 am | 06/12/2022, 9:58:25 am  |
-| FAQ programme d'affiliation Twitch                           | 10/12/2022, 0:15:33 am | 06/12/2022, 9:58:25 am  |
-| Często zadawane pytania dot. Programu Towarzyszy Twitcha     | 10/12/2022, 0:14:42 am | 06/12/2022, 9:58:25 am  |
-| Domande frequenti sul programma per gli affiliati Twitch     | 10/12/2022, 0:14:40 am | 06/12/2022, 9:58:25 am  |
-| Perguntas Frequentes do Programa de Afiliação da Twitch      | 07/12/2022, 4:50:56 am | 07/12/2022, 4:50:55 am  |
+| Title                                                     | Last Modified          | Created                 |
+|-----------------------------------------------------------|------------------------|-------------------------|
+| Häufig gestellte Fragen zum Affiliate-Programm von Twitch | 10/12/2022, 1:47:34 am | 06/12/2022, 9:58:25 am  |
+| FAQ programme d'affiliation Twitch                        | 10/12/2022, 0:15:33 am | 06/12/2022, 9:58:25 am  |
+| Często zadawane pytania dot. Programu Towarzyszy Twitcha  | 10/12/2022, 0:14:42 am | 06/12/2022, 9:58:25 am  |
+| Domande frequenti sul programma per gli affiliati Twitch  | 10/12/2022, 0:14:40 am | 06/12/2022, 9:58:25 am  |
+| Perguntas Frequentes do Programa de Afiliação da Twitch   | 07/12/2022, 4:50:56 am | 07/12/2022, 4:50:55 am  |
 
 
 ## founders-badge
@@ -2318,14 +2344,13 @@ https://help.twitch.tv/s/article/when-am-i-getting-paid
 ## payout-balance-faq
 https://help.twitch.tv/s/article/payout-balance-faq
 
-| Title                                            | Last Modified          | Created                 |
-|--------------------------------------------------|------------------------|-------------------------|
-| Często zadawane pytania na temat salda wypłat    | 23/09/2022, 4:58:37 am | 13/08/2022, 7:33:43 am  |
-| Domande frequenti sul Saldo di pagamento         | 23/09/2022, 4:58:37 am | 13/08/2022, 7:33:43 am  |
-| FAQ sur le solde de paiement                     | 23/09/2022, 4:58:37 am | 13/08/2022, 7:33:43 am  |
-| FAQs zum Auszahlungsbetrag                       | 23/09/2022, 4:58:37 am | 13/08/2022, 7:33:43 am  |
-| Payout Balance FAQ                               | 23/09/2022, 4:58:37 am | 12/08/2022, 7:44:39 am  |
-| Perguntas frequentes sobre o saldo de pagamentos | 23/09/2022, 4:58:37 am | 13/08/2022, 7:33:43 am  |
+| Title                                         | Last Modified          | Created                 |
+|-----------------------------------------------|------------------------|-------------------------|
+| Często zadawane pytania na temat salda wypłat | 23/09/2022, 4:58:37 am | 13/08/2022, 7:33:43 am  |
+| Domande frequenti sul Saldo di pagamento      | 23/09/2022, 4:58:37 am | 13/08/2022, 7:33:43 am  |
+| FAQ sur le solde de paiement                  | 23/09/2022, 4:58:37 am | 13/08/2022, 7:33:43 am  |
+| FAQs zum Auszahlungsbetrag                    | 23/09/2022, 4:58:37 am | 13/08/2022, 7:33:43 am  |
+| Payout Balance FAQ                            | 23/09/2022, 4:58:37 am | 12/08/2022, 7:44:39 am  |
 
 
 ## streamer-revenue-strategy-2022
@@ -2337,7 +2362,6 @@ https://help.twitch.tv/s/article/streamer-revenue-strategy-2022
 | Domande frequenti sulla strategia dei ricavi degli streamer          | 21/09/2022, 7:54:04 pm | 14/09/2022, 8:47:06 am  |
 | FAQ sur la stratégie de revenus des streamers                        | 21/09/2022, 7:54:04 pm | 14/09/2022, 8:47:06 am  |
 | FAQ zur Strategie für Streamer-Einnahmen                             | 21/09/2022, 7:54:04 pm | 14/09/2022, 8:47:06 am  |
-| Perguntas frequentes: Estratégia de Receita de Streamer              | 21/09/2022, 7:54:04 pm | 14/09/2022, 8:47:06 am  |
 
 
 ## affiliate-emote-prefix-change
@@ -2601,19 +2625,6 @@ https://help.twitch.tv/s/article/how-do-i-stream-faq
 | FAQ - Cosa fare per eseguire uno streaming? | 20/07/2022, 6:19:44 am | 20/07/2022, 6:19:44 am  |
 | FAQ: comment streamer sur Twitch?           | 20/07/2022, 6:19:44 am | 20/07/2022, 6:19:44 am  |
 | Nasıl Yayın Yaparım? SSS                    | 20/07/2022, 6:19:44 am | 20/07/2022, 6:19:44 am  |
-| Perguntas frequentes sobre transmissão      | 20/07/2022, 6:19:44 am | 20/07/2022, 6:19:44 am  |
-
-
-## rejected-payout-faq
-https://help.twitch.tv/s/article/rejected-payout-faq
-
-| Title                                                | Last Modified          | Created                 |
-|------------------------------------------------------|------------------------|-------------------------|
-| Perguntas frequentes sobre pagamentos rejeitados     | 19/07/2022, 5:19:03 am | 19/07/2022, 5:19:01 am  |
-| Abgelehnte Auszahlungen– FAQs                        | 13/07/2022, 3:10:35 am | 29/06/2022, 0:32:52 pm  |
-| Często zadawane pytania dotyczące odrzuconych wypłat | 13/07/2022, 3:10:35 am | 29/06/2022, 0:32:52 pm  |
-| Domande frequenti sul Pagamento rifiutato            | 13/07/2022, 3:10:35 am | 29/06/2022, 0:32:52 pm  |
-| FAQ sur les paiements rejetés                        | 13/07/2022, 3:10:35 am | 29/06/2022, 0:32:52 pm  |
 
 
 ## payout-details-faq
@@ -2627,6 +2638,17 @@ https://help.twitch.tv/s/article/payout-details-faq
 | FAQ sur les informations de paiement              | 13/07/2022, 3:11:03 am | 29/06/2022, 8:26:24 am   |
 | Häufig gestellte Fragen zu den Auszahlungsdetails | 13/07/2022, 3:11:03 am | 29/06/2022, 8:26:24 am   |
 | Payout Details FAQ                                | 13/07/2022, 3:11:03 am | 28/06/2022, 10:26:22 am  |
+
+
+## rejected-payout-faq
+https://help.twitch.tv/s/article/rejected-payout-faq
+
+| Title                                                | Last Modified          | Created                 |
+|------------------------------------------------------|------------------------|-------------------------|
+| Abgelehnte Auszahlungen– FAQs                        | 13/07/2022, 3:10:35 am | 29/06/2022, 0:32:52 pm  |
+| Często zadawane pytania dotyczące odrzuconych wypłat | 13/07/2022, 3:10:35 am | 29/06/2022, 0:32:52 pm  |
+| Domande frequenti sul Pagamento rifiutato            | 13/07/2022, 3:10:35 am | 29/06/2022, 0:32:52 pm  |
+| FAQ sur les paiements rejetés                        | 13/07/2022, 3:10:35 am | 29/06/2022, 0:32:52 pm  |
 
 
 ## how-to-file-a-video-playback-issue
@@ -2823,14 +2845,13 @@ https://help.twitch.tv/s/article/twitch-on-apple-tv
 ## channel-points-faq
 https://help.twitch.tv/s/article/channel-points-faq
 
-| Title                                      | Last Modified          | Created                 |
-|--------------------------------------------|------------------------|-------------------------|
-| Channel Points FAQ                         | 21/04/2022, 5:02:27 am | 21/04/2022, 5:02:14 am  |
-| Domande frequenti sui Punti canale         | 21/04/2022, 5:02:27 am | 21/04/2022, 5:02:27 am  |
-| FAQ des points de chaîne                   | 21/04/2022, 5:02:27 am | 21/04/2022, 5:02:27 am  |
-| FAQ zu Kanalpunkten                        | 21/04/2022, 5:02:27 am | 21/04/2022, 5:02:27 am  |
-| Kanal Sadakat Puanları SSS                 | 21/04/2022, 5:02:27 am | 21/04/2022, 5:02:27 am  |
-| Perguntas frequentes sobre Pontos do Canal | 21/04/2022, 5:02:27 am | 21/04/2022, 5:02:27 am  |
+| Title                              | Last Modified          | Created                 |
+|------------------------------------|------------------------|-------------------------|
+| Channel Points FAQ                 | 21/04/2022, 5:02:27 am | 21/04/2022, 5:02:14 am  |
+| Domande frequenti sui Punti canale | 21/04/2022, 5:02:27 am | 21/04/2022, 5:02:27 am  |
+| FAQ des points de chaîne           | 21/04/2022, 5:02:27 am | 21/04/2022, 5:02:27 am  |
+| FAQ zu Kanalpunkten                | 21/04/2022, 5:02:27 am | 21/04/2022, 5:02:27 am  |
+| Kanal Sadakat Puanları SSS         | 21/04/2022, 5:02:27 am | 21/04/2022, 5:02:27 am  |
 
 
 ## mission-based-drops
@@ -2988,7 +3009,6 @@ https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual
 | Amazon Vergi Bilgi Formu ve IRS Yıllık Raporu Hakkında SSS                                                        | 10/03/2022, 6:13:05 pm  | 01/03/2022, 1:07:34 pm   |
 | Amazon税務情報インタビューとIRS年次報告書に関するよくある質問                                                                               | 10/03/2022, 5:08:12 pm  | 01/03/2022, 1:07:34 pm   |
 | FAQ sur le questionnaire fiscal d'Amazon et le rapport annuel de l'IRS                                            | 10/03/2022, 0:24:35 pm  | 01/03/2022, 1:07:34 pm   |
-| Perguntas frequentes sobre o Questionário de informações fiscais da Amazon e Declaração anual da IRS              | 10/03/2022, 9:59:06 am  | 01/03/2022, 1:07:34 pm   |
 | Amazon 稅務資料問卷與美國國家稅務局 IRS 年度申報表常見問題                                                                               | 09/03/2022, 2:28:35 pm  | 09/03/2022, 2:28:32 pm   |
 | Amazon Tax Information Interview and IRS Annual Reporting FAQ                                                     | 08/03/2022, 5:00:48 am  | 01/03/2022, 1:06:44 pm   |
 | Amazon 税务信息问卷与美国国税务局年度申报常见问题                                                                                      | 08/03/2022, 5:00:40 am  | 08/03/2022, 5:00:39 am   |
@@ -3100,7 +3120,6 @@ https://help.twitch.tv/s/article/streamer-community-survey
 | Ankieta społeczności streamerów         | 22/10/2021, 8:53:25 am | 03/09/2021, 3:47:53 am  |
 | Encuesta de la comunidad de streamers   | 22/10/2021, 8:53:23 am | 03/09/2021, 3:47:53 am  |
 | Enquête de la communauté des streamers  | 22/10/2021, 8:53:22 am | 03/09/2021, 3:47:53 am  |
-| Pesquisa de comunidade do streamer      | 22/10/2021, 8:53:22 am | 03/09/2021, 3:47:53 am  |
 
 
 ## advanced-audio-mixer
@@ -3473,7 +3492,6 @@ https://help.twitch.tv/s/article/purchase-support-faq
 | FAQ d'aide à l'achat                              | 12/11/2021, 7:18:37 am | 17/06/2021, 1:28:29 am  |
 | FAQ sul supporto degli acquisti                   | 12/11/2021, 7:18:37 am | 17/06/2021, 1:28:29 am  |
 | FAQs zum Kauf-Support                             | 12/11/2021, 7:18:37 am | 17/06/2021, 1:28:29 am  |
-| Perguntas frequentes sobre o suporte de compra    | 12/11/2021, 7:18:37 am | 17/06/2021, 1:28:29 am  |
 
 
 ## failed-payments
@@ -3756,7 +3774,6 @@ https://help.twitch.tv/s/article/twitch-prime-program-faq
 | Często zadawane pytania dotyczące programu Twitch Prime | 22/10/2021, 8:53:55 am | 11/08/2020, 2:28:38 am  |
 | Domande frequenti sul programma Twitch Prime            | 22/10/2021, 8:53:55 am | 11/08/2020, 2:28:38 am  |
 | FAQ programme Twitch Prime                              | 22/10/2021, 8:53:55 am | 11/08/2020, 2:28:38 am  |
-| Perguntas frequentes sobre o Programa Twitch Prime      | 22/10/2021, 8:53:55 am | 11/08/2020, 2:28:38 am  |
 
 
 ## twitch-prime-guide
@@ -3957,7 +3974,6 @@ https://help.twitch.tv/s/article/ad-offer-faq
 | Hirdetési ajánlatok – gyakran ismételt kérdések        | 22/10/2021, 8:53:23 am | 26/10/2019, 3:01:56 am  |
 | FAQ zu Werbeangeboten                                  | 22/10/2021, 8:53:22 am | 26/10/2019, 3:01:56 am  |
 | Mainostarjousten usein kysytyt kysymykset              | 22/10/2021, 8:53:22 am | 26/10/2019, 3:01:56 am  |
-| Perguntas frequentes sobre oferta de anúncios          | 22/10/2021, 8:53:22 am | 26/10/2019, 3:01:56 am  |
 
 
 ## partner-help-and-contact-information
