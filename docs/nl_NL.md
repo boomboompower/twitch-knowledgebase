@@ -12,7 +12,6 @@
 | Guide To Tags                                      | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=nl_NL)                                       |
 | Authy Faq                                          | 02/05/2023, 3:00:18 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=nl_NL)                                           |
 | Two Factor Authentication With Authy               | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=nl_NL)                |
-| Stream Summary                                     | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=nl_NL)                                      |
 
 
 

@@ -44,10 +44,6 @@
 | Guest Star Browser Source                          | 10/03/2023, 1:20:05 am    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=pl)                           |
 | First Steps For New Affiliates                     | 24/02/2023, 10:54:32 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=pl)                      |
 | Delete Twitch Account                              | 14/02/2023, 10:57:34 pm   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=pl)                               |
-| Twitch Charity Viewers                             | 10/02/2023, 10:04:05 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=pl)                              |
-| Twitch Charity Faqs                                | 10/02/2023, 9:59:11 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=pl)                                 |
-| Twitch Charity                                     | 10/02/2023, 9:59:11 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=pl)                                      |
-| Stream Summary                                     | 10/02/2023, 5:16:22 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pl)                                      |
 
 
 

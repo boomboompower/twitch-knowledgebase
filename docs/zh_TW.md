@@ -6,6 +6,13 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Alerts By Twitch Css                               | 26/05/2023, 7:28:12 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=zh_TW)                                |
+| Alerts By Twitch Interactive Resubs                | 26/05/2023, 7:28:10 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=zh_TW)                 |
+| Alerts By Twitch                                   | 26/05/2023, 7:28:09 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=zh_TW)                                    |
+| Alerts By Twitch Customization                     | 26/05/2023, 7:28:07 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=zh_TW)                      |
+| Setup Alerts By Twitch                             | 26/05/2023, 7:28:05 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=zh_TW)                              |
+| Alerts By Twitch Faq                               | 26/05/2023, 7:28:03 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=zh_TW)                                |
+| Alerts By Twitch Events                            | 26/05/2023, 7:28:02 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=zh_TW)                             |
 | Refunds On Twitch                                  | 26/05/2023, 3:15:33 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=zh_TW)                                   |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                           |
 | Lifetime Subscriber Guide For Partners             | 26/05/2023, 3:15:05 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=zh_TW)              |
@@ -17,7 +24,6 @@
 | Guide To Broadcast Health                          | 24/05/2023, 3:58:16 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=zh_TW)                           |
 | Local Recording                                    | 24/05/2023, 3:58:04 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=zh_TW)                                     |
 | Emote Analytics                                    | 22/05/2023, 0:36:03 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=zh_TW)                                     |
-| Alerts By Twitch                                   | 18/05/2023, 4:04:55 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=zh_TW)                                    |
 | How To Use Clips                                   | 15/05/2023, 7:11:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                    |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=zh_TW)  |
 | Guide To Tags                                      | 11/05/2023, 9:12:16 pm    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=zh_TW)                                       |
@@ -44,10 +50,6 @@
 | Guest Star Browser Source                          | 10/03/2023, 2:00:32 pm    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=zh_TW)                           |
 | First Steps For New Affiliates                     | 24/02/2023, 4:57:03 pm    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=zh_TW)                      |
 | Delete Twitch Account                              | 14/02/2023, 6:21:05 pm    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=zh_TW)                               |
-| Twitch Charity Viewers                             | 10/02/2023, 10:04:14 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=zh_TW)                              |
-| Twitch Charity                                     | 10/02/2023, 9:59:09 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=zh_TW)                                      |
-| Twitch Charity Faqs                                | 10/02/2023, 9:58:48 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=zh_TW)                                 |
-| Stream Summary                                     | 10/02/2023, 5:16:22 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=zh_TW)                                      |
 
 
 

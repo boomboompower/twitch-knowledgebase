@@ -10,7 +10,6 @@
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:14 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=da)  |
 | Guide To Tags                                      | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=da)                                       |
 | Two Factor Authentication With Authy               | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=da)                |
-| Stream Summary                                     | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=da)                                      |
 
 
 

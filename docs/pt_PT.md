@@ -14,7 +14,6 @@
 | Authy Faq                              | 02/05/2023, 3:00:18 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_PT)                               |
 | How To File A User Report              | 05/04/2023, 6:11:02 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=pt_PT)               |
 | Two Factor Authentication With Authy   | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)    |
-| Stream Summary                         | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                          |
 
 
 

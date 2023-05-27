@@ -52,9 +52,6 @@
 | Artist Badge Attribution                           | 24/02/2023, 1:47:42 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=pt_BR)                            |
 | First Steps For New Affiliates                     | 23/02/2023, 6:25:34 am    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=pt_BR)                      |
 | Delete Twitch Account                              | 13/02/2023, 11:49:05 pm   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=pt_BR)                               |
-| Twitch Charity Viewers                             | 10/02/2023, 10:04:22 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=pt_BR)                              |
-| Twitch Charity Faqs                                | 10/02/2023, 9:59:31 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=pt_BR)                                 |
-| Twitch Charity                                     | 10/02/2023, 9:59:14 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=pt_BR)                                      |
 
 
 

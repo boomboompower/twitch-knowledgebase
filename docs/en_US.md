@@ -52,10 +52,6 @@
 | Creator Goals                                      | 09/03/2023, 4:21:18 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                       |
 | Guest Star Browser Source                          | 07/03/2023, 3:52:07 am    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=en_US)                           |
 | First Steps For New Affiliates                     | 17/02/2023, 9:35:43 am    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=en_US)                      |
-| Twitch Charity Faqs                                | 10/02/2023, 8:23:34 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=en_US)                                 |
-| Twitch Charity                                     | 10/02/2023, 8:21:14 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=en_US)                                      |
-| Stream Summary                                     | 10/02/2023, 5:16:21 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=en_US)                                      |
-| Video On Demand                                    | 09/02/2023, 0:02:38 pm    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                     |
 
 
 
