@@ -6,12 +6,12 @@ Language data is not included in the API. All page links will not have a languag
 
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| alerts-by-twitch-css                                          | 27/05/2023, 1:04:43 am  | 27/05/2023, 1:04:42 am  | [Details](#alerts-by-twitch-css)                                           |
-| setup-alerts-by-twitch                                        | 26/05/2023, 11:36:13 pm | 20/05/2023, 5:01:01 am  | [Details](#setup-alerts-by-twitch)                                         |
-| alerts-by-twitch-interactive-resubs                           | 26/05/2023, 11:36:12 pm | 20/05/2023, 5:02:01 am  | [Details](#alerts-by-twitch-interactive-resubs)                            |
-| alerts-by-twitch                                              | 26/05/2023, 11:36:07 pm | 20/05/2023, 5:00:31 am  | [Details](#alerts-by-twitch)                                               |
-| alerts-by-twitch-customization                                | 26/05/2023, 10:09:02 pm | 26/05/2023, 10:09:01 pm | [Details](#alerts-by-twitch-customization)                                 |
-| alerts-by-twitch-faq                                          | 26/05/2023, 9:34:10 pm  | 20/05/2023, 5:05:12 am  | [Details](#alerts-by-twitch-faq)                                           |
+| alerts-by-twitch                                              | 28/05/2023, 9:45:44 pm  | 20/05/2023, 5:00:31 am  | [Details](#alerts-by-twitch)                                               |
+| alerts-by-twitch-customization                                | 28/05/2023, 9:45:42 pm  | 20/05/2023, 5:06:07 am  | [Details](#alerts-by-twitch-customization)                                 |
+| alerts-by-twitch-interactive-resubs                           | 28/05/2023, 9:45:40 pm  | 20/05/2023, 5:02:01 am  | [Details](#alerts-by-twitch-interactive-resubs)                            |
+| setup-alerts-by-twitch                                        | 28/05/2023, 9:45:38 pm  | 20/05/2023, 5:01:01 am  | [Details](#setup-alerts-by-twitch)                                         |
+| alerts-by-twitch-css                                          | 28/05/2023, 9:45:35 pm  | 20/05/2023, 5:04:43 am  | [Details](#alerts-by-twitch-css)                                           |
+| alerts-by-twitch-faq                                          | 28/05/2023, 9:45:33 pm  | 20/05/2023, 5:05:12 am  | [Details](#alerts-by-twitch-faq)                                           |
 | alerts-by-twitch-events                                       | 26/05/2023, 8:09:03 pm  | 20/05/2023, 5:01:33 am  | [Details](#alerts-by-twitch-events)                                        |
 | refunds-on-twitch                                             | 26/05/2023, 3:15:33 am  | 11/12/2021, 11:37:50 am | [Details](#refunds-on-twitch)                                              |
 | gift-card-spend                                               | 26/05/2023, 3:15:23 am  | 26/05/2023, 3:15:23 am  | [Details](#gift-card-spend)                                                |
@@ -325,11 +325,61 @@ Language data is not included in the API. All page links will not have a languag
 
 
 
+## alerts-by-twitch
+https://help.twitch.tv/s/article/alerts-by-twitch
+
+| Title             | Last Modified           | Created                 |
+|-------------------|-------------------------|-------------------------|
+| Alerty od Twitcha | 28/05/2023, 9:45:44 pm  | 20/05/2023, 5:00:31 am  |
+| Alertas de Twitch | 26/05/2023, 11:36:07 pm | 20/05/2023, 5:00:31 am  |
+| Alertes de Twitch | 26/05/2023, 9:34:08 pm  | 20/05/2023, 5:00:31 am  |
+| Alerts von Twitch | 26/05/2023, 7:55:32 pm  | 20/05/2023, 5:00:31 am  |
+| Avvisi di Twitch  | 26/05/2023, 5:42:41 pm  | 20/05/2023, 5:00:31 am  |
+| Alertas da Twitch | 26/05/2023, 11:03:06 am | 20/05/2023, 5:00:31 am  |
+| Alertas de Twitch | 18/05/2023, 4:04:55 am  | 18/05/2023, 4:04:54 am  |
+| Alerts by Twitch  | 18/05/2023, 4:04:55 am  | 17/05/2023, 4:35:44 am  |
+
+
+## alerts-by-twitch-customization
+https://help.twitch.tv/s/article/alerts-by-twitch-customization
+
+| Title                           | Last Modified           | Created                  |
+|---------------------------------|-------------------------|--------------------------|
+| Dostosowanie alertów na Twitchu | 28/05/2023, 9:45:42 pm  | 20/05/2023, 5:06:07 am   |
+| Anpassung von Alerts von Twitch | 26/05/2023, 10:09:02 pm | 26/05/2023, 10:09:01 pm  |
+| Alerts by Twitch Customization  | 18/05/2023, 4:17:30 am  | 18/05/2023, 4:16:44 am   |
+
+
+## alerts-by-twitch-interactive-resubs
+https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs
+
+| Title                                                       | Last Modified           | Created                  |
+|-------------------------------------------------------------|-------------------------|--------------------------|
+| Alerty na Twitchu – interaktywne ponowne subskrypcje        | 28/05/2023, 9:45:40 pm  | 20/05/2023, 5:02:01 am   |
+| Alertas de Twitch para suscripciones renovadas interactivas | 26/05/2023, 11:36:12 pm | 20/05/2023, 5:02:01 am   |
+| Alerts von Twitch– interaktive Abo-Verlängerungen           | 26/05/2023, 7:55:37 pm  | 20/05/2023, 5:02:01 am   |
+| Alerts by Twitch Interactive Resubs                         | 18/05/2023, 4:08:36 am  | 22/02/2023, 10:01:59 am  |
+
+
+## setup-alerts-by-twitch
+https://help.twitch.tv/s/article/setup-alerts-by-twitch
+
+| Title                              | Last Modified           | Created                 |
+|------------------------------------|-------------------------|-------------------------|
+| Konfigurowanie alertów na Twitchu  | 28/05/2023, 9:45:38 pm  | 20/05/2023, 5:01:01 am  |
+| Configuración de alertas en Twitch | 26/05/2023, 11:36:13 pm | 20/05/2023, 5:01:01 am  |
+| Configurer les alertes de Twitch   | 26/05/2023, 9:34:12 pm  | 20/05/2023, 5:01:01 am  |
+| Einrichten von Alerts von Twitch   | 26/05/2023, 8:09:32 pm  | 20/05/2023, 5:01:01 am  |
+| Configurare gli avvisi di Twitch   | 26/05/2023, 5:42:32 pm  | 20/05/2023, 5:01:01 am  |
+| Configurando alertas da Twitch     | 26/05/2023, 11:03:07 am | 20/05/2023, 5:01:01 am  |
+
+
 ## alerts-by-twitch-css
 https://help.twitch.tv/s/article/alerts-by-twitch-css
 
 | Title                              | Last Modified           | Created                  |
 |------------------------------------|-------------------------|--------------------------|
+| Alerty na Twitchu – CSS i HTML     | 28/05/2023, 9:45:35 pm  | 20/05/2023, 5:04:43 am   |
 | CSS และ HTML ของการเตือนโดย Twitch | 27/05/2023, 1:04:43 am  | 27/05/2023, 1:04:42 am   |
 | CSS y HTML para alertas de Twitch  | 26/05/2023, 11:36:10 pm | 20/05/2023, 5:04:43 am   |
 | CSS и HTML в оповещениях от Twitch | 26/05/2023, 10:54:35 pm | 20/05/2023, 5:04:43 am   |
@@ -340,57 +390,12 @@ https://help.twitch.tv/s/article/alerts-by-twitch-css
 | Alerts by Twitch CSS & HTML        | 18/05/2023, 4:09:20 am  | 22/02/2023, 10:02:29 am  |
 
 
-## setup-alerts-by-twitch
-https://help.twitch.tv/s/article/setup-alerts-by-twitch
-
-| Title                              | Last Modified           | Created                 |
-|------------------------------------|-------------------------|-------------------------|
-| Configuración de alertas en Twitch | 26/05/2023, 11:36:13 pm | 20/05/2023, 5:01:01 am  |
-| Configurer les alertes de Twitch   | 26/05/2023, 9:34:12 pm  | 20/05/2023, 5:01:01 am  |
-| Einrichten von Alerts von Twitch   | 26/05/2023, 8:09:32 pm  | 20/05/2023, 5:01:01 am  |
-| Configurare gli avvisi di Twitch   | 26/05/2023, 5:42:32 pm  | 20/05/2023, 5:01:01 am  |
-| Configurando alertas da Twitch     | 26/05/2023, 11:03:07 am | 20/05/2023, 5:01:01 am  |
-
-
-## alerts-by-twitch-interactive-resubs
-https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs
-
-| Title                                                       | Last Modified           | Created                  |
-|-------------------------------------------------------------|-------------------------|--------------------------|
-| Alertas de Twitch para suscripciones renovadas interactivas | 26/05/2023, 11:36:12 pm | 20/05/2023, 5:02:01 am   |
-| Alerts von Twitch– interaktive Abo-Verlängerungen           | 26/05/2023, 7:55:37 pm  | 20/05/2023, 5:02:01 am   |
-| Alerts by Twitch Interactive Resubs                         | 18/05/2023, 4:08:36 am  | 22/02/2023, 10:01:59 am  |
-
-
-## alerts-by-twitch
-https://help.twitch.tv/s/article/alerts-by-twitch
-
-| Title             | Last Modified           | Created                 |
-|-------------------|-------------------------|-------------------------|
-| Alertas de Twitch | 26/05/2023, 11:36:07 pm | 20/05/2023, 5:00:31 am  |
-| Alertes de Twitch | 26/05/2023, 9:34:08 pm  | 20/05/2023, 5:00:31 am  |
-| Alerts von Twitch | 26/05/2023, 7:55:32 pm  | 20/05/2023, 5:00:31 am  |
-| Avvisi di Twitch  | 26/05/2023, 5:42:41 pm  | 20/05/2023, 5:00:31 am  |
-| Alertas da Twitch | 26/05/2023, 11:03:06 am | 20/05/2023, 5:00:31 am  |
-| Alertas de Twitch | 18/05/2023, 4:04:55 am  | 18/05/2023, 4:04:54 am  |
-| Alerts by Twitch  | 18/05/2023, 4:04:55 am  | 17/05/2023, 4:35:44 am  |
-| Alerty od Twitcha | 18/05/2023, 4:04:55 am  | 18/05/2023, 4:04:54 am  |
-
-
-## alerts-by-twitch-customization
-https://help.twitch.tv/s/article/alerts-by-twitch-customization
-
-| Title                           | Last Modified           | Created                  |
-|---------------------------------|-------------------------|--------------------------|
-| Anpassung von Alerts von Twitch | 26/05/2023, 10:09:02 pm | 26/05/2023, 10:09:01 pm  |
-| Alerts by Twitch Customization  | 18/05/2023, 4:17:30 am  | 18/05/2023, 4:16:44 am   |
-
-
 ## alerts-by-twitch-faq
 https://help.twitch.tv/s/article/alerts-by-twitch-faq
 
 | Title                                    | Last Modified          | Created                 |
 |------------------------------------------|------------------------|-------------------------|
+| Alerty od Twitcha – FAQ                  | 28/05/2023, 9:45:33 pm | 20/05/2023, 5:05:12 am  |
 | FAQ des alertes de Twitch                | 26/05/2023, 9:34:10 pm | 20/05/2023, 5:05:12 am  |
 | Alerts von Twitch– FAQ                   | 26/05/2023, 7:55:35 pm | 20/05/2023, 5:05:12 am  |
 | Domande frequenti sugli Avvisi di Twitch | 26/05/2023, 5:42:35 pm | 20/05/2023, 5:05:12 am  |
@@ -594,7 +599,6 @@ https://help.twitch.tv/s/article/twitch-stream-key-faq
 | FAQ codice di streaming di Twitch                              | 24/05/2023, 3:58:29 am | 24/05/2023, 3:58:29 am  |
 | FAQ sur la clé de streaming Twitch                             | 24/05/2023, 3:58:29 am | 24/05/2023, 3:58:29 am  |
 | FAQ zum Twitch-Stream-Schlüssel                                | 24/05/2023, 3:58:29 am | 24/05/2023, 3:58:29 am  |
-| Perguntas frequentes sobre a chave de transmissão da Twitch    | 24/05/2023, 3:58:29 am | 24/05/2023, 3:58:29 am  |
 
 
 ## guide-to-broadcast-health
@@ -864,7 +868,6 @@ https://help.twitch.tv/s/article/authy-faq
 | Authy 2FA Rehberi ve SSS                                                        | 05/05/2023, 8:03:41 pm  | 05/05/2023, 8:03:39 pm  |
 | Authy 2FA Management & FAQ                                                      | 02/05/2023, 3:00:19 am  | 27/04/2023, 3:54:17 am  |
 | Authy Frågor och svar                                                           | 02/05/2023, 3:00:18 am  | 02/05/2023, 3:00:16 am  |
-| Perguntas frequentes sobre a Authy                                              | 02/05/2023, 3:00:18 am  | 02/05/2023, 3:00:16 am  |
 
 
 ## branded-content-policy
@@ -1320,7 +1323,6 @@ https://help.twitch.tv/s/article/twitch-twitter-twitchsupport-faq
 | Domande frequenti per "@TwitchSupport" di Twitch su Twitter   | 14/02/2023, 6:23:22 am | 03/02/2023, 0:42:15 pm  |
 | FAQ Twitter de Twitch "@TwitchSupport"                        | 14/02/2023, 6:23:22 am | 03/02/2023, 0:42:15 pm  |
 | FAQ zum Twitter-Konto "@TwitchSupport" von Twitch             | 14/02/2023, 6:23:22 am | 03/02/2023, 0:42:15 pm  |
-| Perguntas frequentes sobre "@TwitchSupport" no Twitter        | 14/02/2023, 6:23:22 am | 03/02/2023, 0:42:15 pm  |
 
 
 ## account-reactivation
@@ -2436,14 +2438,13 @@ https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription
 ## partner-exclusivity-faq
 https://help.twitch.tv/s/article/partner-exclusivity-faq
 
-| Title                                                     | Last Modified           | Created                  |
-|-----------------------------------------------------------|-------------------------|--------------------------|
-| Często zadawane pytania na temat wyłączności partnerów    | 26/08/2022, 10:06:06 pm | 26/08/2022, 10:06:02 pm  |
-| Domande frequenti sull'esclusività dei partner            | 26/08/2022, 7:46:33 pm  | 24/08/2022, 2:48:48 am   |
-| Häufige Fragen zur Partner-Exklusivität                   | 25/08/2022, 11:40:05 pm | 24/08/2022, 2:48:48 am   |
-| Perguntas frequentes sobre a exclusividade para Parceiros | 25/08/2022, 8:53:05 pm  | 24/08/2022, 2:48:48 am   |
-| Partner Ayrıcalıkları hakkında SSS                        | 24/08/2022, 10:34:05 pm | 24/08/2022, 2:48:48 am   |
-| Partner Exclusivity FAQ                                   | 24/08/2022, 2:48:28 am  | 24/08/2022, 2:48:05 am   |
+| Title                                                  | Last Modified           | Created                  |
+|--------------------------------------------------------|-------------------------|--------------------------|
+| Często zadawane pytania na temat wyłączności partnerów | 26/08/2022, 10:06:06 pm | 26/08/2022, 10:06:02 pm  |
+| Domande frequenti sull'esclusività dei partner         | 26/08/2022, 7:46:33 pm  | 24/08/2022, 2:48:48 am   |
+| Häufige Fragen zur Partner-Exklusivität                | 25/08/2022, 11:40:05 pm | 24/08/2022, 2:48:48 am   |
+| Partner Ayrıcalıkları hakkında SSS                     | 24/08/2022, 10:34:05 pm | 24/08/2022, 2:48:48 am   |
+| Partner Exclusivity FAQ                                | 24/08/2022, 2:48:28 am  | 24/08/2022, 2:48:05 am   |
 
 
 ## twitch-chat-badges-guide
@@ -3832,7 +3833,6 @@ https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq
 | Ofte stillede spørgsmål om Twitchs merchandise-butik                     | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Domande frequenti sull'assistenza agli acquisti del merchandising Twitch | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 | FAQ des produits dérivés Twitch                                          | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
-| Perguntas frequentes para o suporte da loja de produtos da Twitch        | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 
 
 ## bits-purchase-troubleshooting
