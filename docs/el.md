@@ -15,6 +15,7 @@
 
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                               |
 |----------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------|
+| Guide To Cheering With Bits                  | 02/02/2023, 2:37:57 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=el)                   |
 | Chat Commands                                | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=el)                                 |
 | Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=el)  |
 
@@ -23,10 +24,9 @@
 ## Article-3
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
-| Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
-|--------------------|---------------------------|--------------------------------------------------------------------------|
-| Twitch Turbo Guide | 09/08/2022, 4:00:40 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=el)  |
-| Twitch Studio Faq  | 10/03/2022, 9:52:06 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=el)   |
+| Name              | Last Updated (dd/mm/yyyy) | Link                                                                    |
+|-------------------|---------------------------|-------------------------------------------------------------------------|
+| Twitch Studio Faq | 10/03/2022, 9:52:06 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=el)  |
 
 
 

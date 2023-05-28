@@ -44,6 +44,7 @@
 | Guest Star Browser Source                          | 10/03/2023, 10:28:35 pm   | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=es_MX)                           |
 | First Steps For New Affiliates                     | 24/02/2023, 3:34:03 am    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=es_MX)                      |
 | Delete Twitch Account                              | 11/02/2023, 3:37:05 am    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=es_MX)                               |
+| Twitch Charity Viewers                             | 10/02/2023, 10:04:20 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=es_MX)                              |
 
 
 
@@ -52,6 +53,18 @@
 
 | Name                                    | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |-----------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Twitch Charity Faqs                     | 10/02/2023, 9:59:11 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=es_MX)                      |
+| Twitch Charity                          | 10/02/2023, 9:59:04 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=es_MX)                           |
+| Stream Summary                          | 10/02/2023, 5:16:21 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es_MX)                           |
+| Video On Demand                         | 09/02/2023, 0:02:37 pm    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es_MX)                          |
+| Guide To Cheering With Bits             | 02/02/2023, 2:37:58 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=es_MX)              |
+| Mobile Irl Broadcasting                 | 24/01/2023, 5:59:39 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=es_MX)                  |
+| Joining Guest Star                      | 21/01/2023, 0:22:34 am    | [Link](https://help.twitch.tv/s/article/joining-guest-star?language=es_MX)                       |
+| Guest Request To Join                   | 18/01/2023, 4:05:03 am    | [Link](https://help.twitch.tv/s/article/guest-request-to-join?language=es_MX)                    |
+| Guest Star                              | 18/01/2023, 4:04:32 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=es_MX)                               |
+| Twitch Studio Mac Faq                   | 16/01/2023, 10:40:04 pm   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=es_MX)                    |
+| Twitch Mobile App Update                | 16/01/2023, 10:39:33 pm   | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=es_MX)                 |
+| Managing Roles For Your Channel         | 05/01/2023, 11:04:39 am   | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es_MX)          |
 | Follower Emotes                         | 15/12/2022, 7:29:48 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=es_MX)                          |
 | Live Viewer Feedback                    | 10/12/2022, 8:46:51 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=es_MX)                     |
 | Twitch Affiliate Program Faq            | 10/12/2022, 0:18:02 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)             |
@@ -66,7 +79,6 @@
 | Xbox Promotion 2022                     | 02/11/2022, 3:54:03 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=es_MX)                      |
 | Request To Join                         | 01/11/2022, 11:12:37 pm   | [Link](https://help.twitch.tv/s/article/request-to-join?language=es_MX)                          |
 | Guest Star Reporting                    | 01/11/2022, 11:12:32 pm   | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=es_MX)                     |
-| Local Sub Price Countries               | 01/11/2022, 0:03:19 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es_MX)                |
 | Viewer Channel Point Guide              | 28/10/2022, 8:34:23 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=es_MX)               |
 | Channel Points Guide                    | 28/10/2022, 8:25:44 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=es_MX)                     |
 | Channel Page Setup                      | 28/10/2022, 8:22:51 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=es_MX)                       |
@@ -80,17 +92,6 @@
 | Affiliate Onboarding Guide              | 13/10/2022, 7:54:03 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)               |
 | Twitch Content Sharing Guidelines       | 13/10/2022, 7:53:06 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=es_MX)        |
 | How To Use Raids                        | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=es_MX)                         |
-| Subtember 2022 Faq                      | 27/09/2022, 4:25:19 am    | [Link](https://help.twitch.tv/s/article/subtember-2022-faq?language=es_MX)                       |
-| Charitable Donations                    | 26/09/2022, 9:25:37 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=es_MX)                     |
-| Payout History Dashboard Guide          | 23/09/2022, 4:58:05 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=es_MX)           |
-| Affiliate Emote Prefix Change           | 21/09/2022, 4:59:49 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=es_MX)            |
-| Boost Train                             | 20/09/2022, 2:34:35 am    | [Link](https://help.twitch.tv/s/article/boost-train?language=es_MX)                              |
-| Ingame Overlay                          | 15/09/2022, 9:12:33 pm    | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=es_MX)                           |
-| Guide To Broadcast Health               | 31/08/2022, 5:45:18 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=es_MX)                |
-| Partner Exclusivity Faq                 | 26/08/2022, 5:30:42 pm    | [Link](https://help.twitch.tv/s/article/partner-exclusivity-faq?language=es_MX)                  |
-| Twitch Chat Badges Guide                | 24/08/2022, 3:37:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es_MX)                 |
-| Mobile Creator Mode                     | 22/08/2022, 5:59:03 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=es_MX)                      |
-| Subscriber Emote Guide                  | 10/08/2022, 8:02:41 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=es_MX)                   |
 
 
 
@@ -99,8 +100,16 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Subtember 2022 Faq                                            | 27/09/2022, 4:25:19 am    | [Link](https://help.twitch.tv/s/article/subtember-2022-faq?language=es_MX)                                             |
+| Charitable Donations                                          | 26/09/2022, 9:25:37 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=es_MX)                                           |
+| Affiliate Emote Prefix Change                                 | 21/09/2022, 4:59:49 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=es_MX)                                  |
+| Boost Train                                                   | 20/09/2022, 2:34:35 am    | [Link](https://help.twitch.tv/s/article/boost-train?language=es_MX)                                                    |
+| Ingame Overlay                                                | 15/09/2022, 9:12:33 pm    | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=es_MX)                                                 |
+| Partner Exclusivity Faq                                       | 26/08/2022, 5:30:42 pm    | [Link](https://help.twitch.tv/s/article/partner-exclusivity-faq?language=es_MX)                                        |
+| Twitch Chat Badges Guide                                      | 24/08/2022, 3:37:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es_MX)                                       |
+| Mobile Creator Mode                                           | 22/08/2022, 5:59:03 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=es_MX)                                            |
+| Subscriber Emote Guide                                        | 10/08/2022, 8:02:41 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=es_MX)                                         |
 | Partner Program Overview                                      | 09/08/2022, 4:00:55 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)                                       |
-| Twitch Turbo Guide                                            | 09/08/2022, 4:00:41 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es_MX)                                             |
 | Emote Guidelines                                              | 05/08/2022, 10:41:34 pm   | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es_MX)                                               |
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 03/08/2022, 5:53:54 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=es_MX)       |
 | Scene Importing                                               | 03/08/2022, 5:53:46 am    | [Link](https://help.twitch.tv/s/article/scene-importing?language=es_MX)                                                |
@@ -111,7 +120,6 @@
 | Partner Onboarding Guide                                      | 13/07/2022, 3:11:43 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es_MX)                                       |
 | How To File A Video Playback Issue                            | 08/07/2022, 7:55:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=es_MX)                             |
 | Disconnect Protection                                         | 30/06/2022, 9:18:55 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=es_MX)                                          |
-| Prime Gaming Revenue Guide                                    | 09/06/2022, 2:44:09 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)                                     |
 | Twitch Music Getting Started                                  | 31/05/2022, 5:47:38 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=es_MX)                                   |
 | Artist Badge Attribution                                      | 20/05/2022, 3:31:34 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=es_MX)                                       |
 | Creating A Strong Password                                    | 18/05/2022, 0:39:26 am    | [Link](https://help.twitch.tv/s/article/creating-a-strong-password?language=es_MX)                                     |
@@ -133,105 +141,103 @@
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 09/03/2022, 7:16:54 pm    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=es_MX)  |
 | Partner Cheermote Guide                                       | 09/03/2022, 6:56:34 pm    | [Link](https://help.twitch.tv/s/article/partner-cheermote-guide?language=es_MX)                                        |
 | Animated Emotes                                               | 25/02/2022, 11:52:33 pm   | [Link](https://help.twitch.tv/s/article/animated-emotes?language=es_MX)                                                |
-| Twitch Music Fast Start Guide                                 | 13/01/2022, 9:51:30 am    | [Link](https://help.twitch.tv/s/article/twitch-music-fast-start-guide?language=es_MX)                                  |
-| Studio Obs Ndi                                                | 13/01/2022, 9:50:51 am    | [Link](https://help.twitch.tv/s/article/studio-obs-ndi?language=es_MX)                                                 |
-| Recommended Software For Broadcasting                         | 13/01/2022, 9:50:00 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es_MX)                          |
-| Soundtrack Audio Configuration                                | 13/01/2022, 9:47:14 am    | [Link](https://help.twitch.tv/s/article/soundtrack-audio-configuration?language=es_MX)                                 |
-| Twitch Account Settings                                       | 11/01/2022, 8:26:30 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es_MX)                                        |
-| Creating An Account With Twitch                               | 15/12/2021, 8:12:10 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)                                |
 
 
 
 ## Article-4
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
-| Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                       |
-|---------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------|
-| List Of Prohibited Games                          | 15/12/2021, 6:48:31 am    | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=es_MX)                           |
-| Account Hacked                                    | 15/12/2021, 5:46:58 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=es_MX)                                     |
-| Refunds On Twitch                                 | 14/12/2021, 8:50:25 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es_MX)                                  |
-| Adding A Game And Box Art To The Directory        | 10/12/2021, 6:25:54 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=es_MX)         |
-| System Audio Capture Permission                   | 30/11/2021, 5:09:19 am    | [Link](https://help.twitch.tv/s/article/system-audio-capture-permission?language=es_MX)                    |
-| Modified Emotes                                   | 19/11/2021, 5:13:45 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=es_MX)                                    |
-| Emote Library                                     | 19/11/2021, 5:13:07 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=es_MX)                                      |
-| Default Emotes                                    | 19/11/2021, 5:12:24 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=es_MX)                                     |
-| Nintendo Switch                                   | 12/11/2021, 4:48:14 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=es_MX)                                    |
-| Bounty Board Program Information And Faq          | 02/11/2021, 1:30:18 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=es_MX)           |
-| Broadcast Guidelines                              | 02/11/2021, 1:25:23 am    | [Link](https://help.twitch.tv/s/article/broadcast-guidelines?language=es_MX)                               |
-| Hyper Scape                                       | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/hyper-scape?language=es_MX)                                        |
-| Stream With Pride                                 | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=es_MX)                                  |
-| Rpg Megacheer                                     | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=es_MX)                                      |
-| Megacheer Food Fight                              | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=es_MX)                               |
-| Community Meetups Powered By Twitch               | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=es_MX)                |
-| Hindsight 2020                                    | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=es_MX)                                     |
-| Advanced Audio Mixer                              | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=es_MX)                               |
-| Studio Ui                                         | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=es_MX)                                          |
-| Scene Transitions                                 | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/scene-transitions?language=es_MX)                                  |
-| Setting Up Alerts                                 | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/setting-up-alerts?language=es_MX)                                  |
-| Overview Of Audio                                 | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/overview-of-audio?language=es_MX)                                  |
-| Green Screen Setup                                | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/green-screen-setup?language=es_MX)                                 |
-| Stream Deck Setup                                 | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=es_MX)                                  |
-| Capturing Sources                                 | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/capturing-sources?language=es_MX)                                  |
-| Twitch Studio Updates                             | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-updates?language=es_MX)                              |
-| Twitch Studio Creator Goals                       | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-creator-goals?language=es_MX)                        |
-| Watching Twitch On Android Devices                | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=es_MX)                 |
-| Watching Twitch On Ios Devices                    | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=es_MX)                     |
-| Twitch Prime Loot Gifting                         | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-loot-gifting?language=es_MX)                          |
-| Twitch Prime Program Faq                          | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-program-faq?language=es_MX)                           |
-| How To Claim In Game Content                      | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=es_MX)                       |
-| Twitch Prime Guide                                | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-guide?language=es_MX)                                 |
-| How To Use Twitch Prime Subscriptions             | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=es_MX)              |
-| How To Link Your Amazon Account                   | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-link-your-amazon-account?language=es_MX)                    |
-| Bits Purchase Troubleshooting                     | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=es_MX)                      |
-| Changes To Subscription Badges And Resub Messages | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages?language=es_MX)  |
-| Twitch Merchandise Store Support Faq              | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=es_MX)               |
+| Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
+|--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Twitch Music Fast Start Guide              | 13/01/2022, 9:51:30 am    | [Link](https://help.twitch.tv/s/article/twitch-music-fast-start-guide?language=es_MX)               |
+| Studio Obs Ndi                             | 13/01/2022, 9:50:51 am    | [Link](https://help.twitch.tv/s/article/studio-obs-ndi?language=es_MX)                              |
+| Recommended Software For Broadcasting      | 13/01/2022, 9:50:00 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es_MX)       |
+| Soundtrack Audio Configuration             | 13/01/2022, 9:47:14 am    | [Link](https://help.twitch.tv/s/article/soundtrack-audio-configuration?language=es_MX)              |
+| Twitch Account Settings                    | 11/01/2022, 8:26:30 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es_MX)                     |
+| Creating An Account With Twitch            | 15/12/2021, 8:12:10 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)             |
+| List Of Prohibited Games                   | 15/12/2021, 6:48:31 am    | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=es_MX)                    |
+| Account Hacked                             | 15/12/2021, 5:46:58 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=es_MX)                              |
+| Adding A Game And Box Art To The Directory | 10/12/2021, 6:25:54 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=es_MX)  |
+| System Audio Capture Permission            | 30/11/2021, 5:09:19 am    | [Link](https://help.twitch.tv/s/article/system-audio-capture-permission?language=es_MX)             |
+| Modified Emotes                            | 19/11/2021, 5:13:45 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=es_MX)                             |
+| Emote Library                              | 19/11/2021, 5:13:07 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=es_MX)                               |
+| Default Emotes                             | 19/11/2021, 5:12:24 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=es_MX)                              |
+| Nintendo Switch                            | 12/11/2021, 4:48:14 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=es_MX)                             |
+| Bounty Board Program Information And Faq   | 02/11/2021, 1:30:18 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=es_MX)    |
+| Broadcast Guidelines                       | 02/11/2021, 1:25:23 am    | [Link](https://help.twitch.tv/s/article/broadcast-guidelines?language=es_MX)                        |
+| Hyper Scape                                | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/hyper-scape?language=es_MX)                                 |
+| Stream With Pride                          | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=es_MX)                           |
+| Rpg Megacheer                              | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=es_MX)                               |
+| Megacheer Food Fight                       | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=es_MX)                        |
+| Community Meetups Powered By Twitch        | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=es_MX)         |
+| Hindsight 2020                             | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=es_MX)                              |
+| Advanced Audio Mixer                       | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=es_MX)                        |
+| Studio Ui                                  | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=es_MX)                                   |
+| Scene Transitions                          | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/scene-transitions?language=es_MX)                           |
+| Setting Up Alerts                          | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/setting-up-alerts?language=es_MX)                           |
+| Overview Of Audio                          | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/overview-of-audio?language=es_MX)                           |
+| Green Screen Setup                         | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/green-screen-setup?language=es_MX)                          |
+| Stream Deck Setup                          | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=es_MX)                           |
+| Capturing Sources                          | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/capturing-sources?language=es_MX)                           |
+| Twitch Studio Updates                      | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-updates?language=es_MX)                       |
+| Twitch Studio Creator Goals                | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-creator-goals?language=es_MX)                 |
+| Watching Twitch On Android Devices         | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=es_MX)          |
+| Watching Twitch On Ios Devices             | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=es_MX)              |
+| Twitch Prime Loot Gifting                  | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-loot-gifting?language=es_MX)                   |
+| Twitch Prime Program Faq                   | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-program-faq?language=es_MX)                    |
+| How To Claim In Game Content               | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=es_MX)                |
+| Twitch Prime Guide                         | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-guide?language=es_MX)                          |
+| How To Use Twitch Prime Subscriptions      | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=es_MX)       |
+| How To Link Your Amazon Account            | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-link-your-amazon-account?language=es_MX)             |
 
 
 
 ## Article-5
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-5.xml) this sitemap
 
-| Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
-|--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
-| Guide To Custom Messages                         | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=es_MX)                          |
-| Contacting Purchase Support                      | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=es_MX)                       |
-| Updating Payment Information Transaction History | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=es_MX)  |
-| Setting Up Moderation For Your Twitch Channel    | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=es_MX)     |
-| How To Use Automod                               | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es_MX)                                |
-| How To Handle View Follow Bots                   | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=es_MX)                    |
-| Guide To Building A Moderation Team              | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/guide-to-building-a-moderation-team?language=es_MX)               |
-| How To Appeal Flagged Content                    | 22/10/2021, 8:53:42 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=es_MX)                     |
-| Twitch Policies And Guidelines                   | 22/10/2021, 8:53:32 am    | [Link](https://help.twitch.tv/s/article/twitch-policies-and-guidelines?language=es_MX)                    |
-| Dmca And Copyright Faqs                          | 22/10/2021, 8:53:26 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es_MX)                           |
-| Making The Most Of Channel Points                | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/making-the-most-of-channel-points?language=es_MX)                 |
-| Audio Ads                                        | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/audio-ads?language=es_MX)                                         |
-| Streamer Community Survey                        | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=es_MX)                         |
-| Ad Offer Faq                                     | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=es_MX)                                      |
-| Custom Bit Badges Guide                          | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=es_MX)                           |
-| Subscriber Badge Guide                           | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es_MX)                            |
-| Partner Settings Guide                           | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=es_MX)                            |
-| Contacting Partner Help                          | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=es_MX)                           |
-| Tips For Applying To The Partner Program         | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=es_MX)          |
-| Affiliate Settings Guide                         | 22/10/2021, 8:53:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=es_MX)                          |
-| Extensions Switch With Your Game Selection       | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection?language=es_MX)        |
-| Recommended Hardware For Broadcasting            | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=es_MX)             |
-| Amazon Associates                                | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/amazon-associates?language=es_MX)                                 |
-| Creating Highlights And Stream Markers           | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=es_MX)            |
-| Low Latency Video                                | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/low-latency-video?language=es_MX)                                 |
-| Nba G League Co Streaming Guide                  | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide?language=es_MX)                   |
-| How To Use Go Live Notifications                 | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=es_MX)                  |
-| How To Use Collections                           | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/how-to-use-collections?language=es_MX)                            |
-| How To Edit Info Panels                          | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=es_MX)                           |
-| Getting Started With Amazon Associates           | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=es_MX)            |
-| Local Recording                                  | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=es_MX)                                   |
-| New Device And Location Verification             | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es_MX)              |
-| Where Are My Notifications                       | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=es_MX)                        |
-| Streamer Notifications Preferences               | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=es_MX)                |
-| Smart Notification Setting                       | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                        |
-| Username Rename And Recycling Policies           | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es_MX)            |
-| How To Log In To Twitch With One Click           | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)            |
-| How To Provide Feedback                          | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=es_MX)                           |
-| Markdown Basics                                  | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                                   |
+| Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                       |
+|---------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------|
+| Bits Purchase Troubleshooting                     | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=es_MX)                      |
+| Changes To Subscription Badges And Resub Messages | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages?language=es_MX)  |
+| Twitch Merchandise Store Support Faq              | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=es_MX)               |
+| Guide To Custom Messages                          | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=es_MX)                           |
+| Contacting Purchase Support                       | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=es_MX)                        |
+| Updating Payment Information Transaction History  | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=es_MX)   |
+| Setting Up Moderation For Your Twitch Channel     | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=es_MX)      |
+| How To Use Automod                                | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es_MX)                                 |
+| How To Handle View Follow Bots                    | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=es_MX)                     |
+| Guide To Building A Moderation Team               | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/guide-to-building-a-moderation-team?language=es_MX)                |
+| How To Appeal Flagged Content                     | 22/10/2021, 8:53:42 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=es_MX)                      |
+| Twitch Policies And Guidelines                    | 22/10/2021, 8:53:32 am    | [Link](https://help.twitch.tv/s/article/twitch-policies-and-guidelines?language=es_MX)                     |
+| Dmca And Copyright Faqs                           | 22/10/2021, 8:53:26 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es_MX)                            |
+| Making The Most Of Channel Points                 | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/making-the-most-of-channel-points?language=es_MX)                  |
+| Audio Ads                                         | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/audio-ads?language=es_MX)                                          |
+| Streamer Community Survey                         | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=es_MX)                          |
+| Ad Offer Faq                                      | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=es_MX)                                       |
+| Custom Bit Badges Guide                           | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=es_MX)                            |
+| Subscriber Badge Guide                            | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es_MX)                             |
+| Partner Settings Guide                            | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=es_MX)                             |
+| Contacting Partner Help                           | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=es_MX)                            |
+| Tips For Applying To The Partner Program          | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=es_MX)           |
+| Affiliate Settings Guide                          | 22/10/2021, 8:53:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=es_MX)                           |
+| Extensions Switch With Your Game Selection        | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection?language=es_MX)         |
+| Recommended Hardware For Broadcasting             | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=es_MX)              |
+| Amazon Associates                                 | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/amazon-associates?language=es_MX)                                  |
+| Creating Highlights And Stream Markers            | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=es_MX)             |
+| Low Latency Video                                 | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/low-latency-video?language=es_MX)                                  |
+| Nba G League Co Streaming Guide                   | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide?language=es_MX)                    |
+| How To Use Go Live Notifications                  | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=es_MX)                   |
+| How To Use Collections                            | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/how-to-use-collections?language=es_MX)                             |
+| How To Edit Info Panels                           | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=es_MX)                            |
+| Getting Started With Amazon Associates            | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=es_MX)             |
+| New Device And Location Verification              | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es_MX)               |
+| Where Are My Notifications                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=es_MX)                         |
+| Streamer Notifications Preferences                | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=es_MX)                 |
+| Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                         |
+| Username Rename And Recycling Policies            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es_MX)             |
+| How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)             |
+| How To Provide Feedback                           | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=es_MX)                            |
+| Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                                    |
 
 
 

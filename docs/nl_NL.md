@@ -20,6 +20,7 @@
 
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                                  |
 |----------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------|
+| Stream Summary                               | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=nl_NL)                                |
 | How To Use Host Mode                         | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=nl_NL)                          |
 | Twitch Teams                                 | 02/12/2022, 8:22:38 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=nl_NL)                                  |
 | How To Manage Harassment In Chat             | 01/12/2022, 5:24:49 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=nl_NL)              |
@@ -38,9 +39,7 @@
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Partner Program Overview                                      | 09/08/2022, 4:00:54 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)                                       |
-| Twitch Turbo Guide                                            | 09/08/2022, 4:00:40 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=nl_NL)                                             |
 | A Tour Of Your Channel Page                                   | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=nl_NL)                                    |
-| Twitch Prime Partner Guide                                    | 09/06/2022, 2:19:45 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=nl_NL)                                     |
 | Twitch Studio Faq                                             | 10/03/2022, 9:52:06 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=nl_NL)                                              |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/03/2022, 5:00:40 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=nl_NL)  |
 
@@ -49,33 +48,34 @@
 ## Article-4
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
-| Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                       |
-|---------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------|
-| Creating An Account With Twitch                   | 15/12/2021, 8:12:08 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=nl_NL)                    |
-| Account Hacked                                    | 15/12/2021, 5:43:38 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=nl_NL)                                     |
-| Community Meetups Powered By Twitch               | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=nl_NL)                |
-| Watching Twitch On Android Devices                | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=nl_NL)                 |
-| Watching Twitch On Ios Devices                    | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=nl_NL)                     |
-| How To Claim In Game Content                      | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=nl_NL)                       |
-| How To Use Twitch Prime Subscriptions             | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=nl_NL)              |
-| Changes To Subscription Badges And Resub Messages | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages?language=nl_NL)  |
+| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
+|---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Creating An Account With Twitch       | 15/12/2021, 8:12:08 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=nl_NL)        |
+| Account Hacked                        | 15/12/2021, 5:43:38 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=nl_NL)                         |
+| Community Meetups Powered By Twitch   | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=nl_NL)    |
+| Watching Twitch On Android Devices    | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=nl_NL)     |
+| Watching Twitch On Ios Devices        | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=nl_NL)         |
+| How To Claim In Game Content          | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=nl_NL)           |
+| How To Use Twitch Prime Subscriptions | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=nl_NL)  |
 
 
 
 ## Article-5
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-5.xml) this sitemap
 
-| Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
-|--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
-| Guide To Custom Messages                         | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=nl_NL)                          |
-| Updating Payment Information Transaction History | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=nl_NL)  |
-| Ad Offer Faq                                     | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=nl_NL)                                      |
-| Recommended Hardware For Broadcasting            | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=nl_NL)             |
-| Creating Highlights And Stream Markers           | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=nl_NL)            |
-| Nba G League Co Streaming Guide                  | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide?language=nl_NL)                   |
-| Getting Started With Amazon Associates           | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=nl_NL)            |
-| Streamer Notifications Preferences               | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=nl_NL)                |
-| Username Rename And Recycling Policies           | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=nl_NL)            |
+| Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                       |
+|---------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------|
+| Changes To Subscription Badges And Resub Messages | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages?language=nl_NL)  |
+| Twitch Merchandise Store Support Faq              | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=nl_NL)               |
+| Guide To Custom Messages                          | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=nl_NL)                           |
+| Updating Payment Information Transaction History  | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=nl_NL)   |
+| Ad Offer Faq                                      | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=nl_NL)                                       |
+| Recommended Hardware For Broadcasting             | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=nl_NL)              |
+| Creating Highlights And Stream Markers            | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=nl_NL)             |
+| Nba G League Co Streaming Guide                   | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide?language=nl_NL)                    |
+| Getting Started With Amazon Associates            | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=nl_NL)             |
+| Streamer Notifications Preferences                | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=nl_NL)                 |
+| Username Rename And Recycling Policies            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=nl_NL)             |
 
 
 

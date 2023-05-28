@@ -22,6 +22,9 @@
 
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                                  |
 |----------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------|
+| Stream Summary                               | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                                |
+| Video On Demand                              | 09/02/2023, 0:02:37 pm    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pt_PT)                               |
+| Guide To Cheering With Bits                  | 02/02/2023, 2:37:57 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_PT)                   |
 | How To Use Host Mode                         | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=pt_PT)                          |
 | Twitch Affiliate Program Faq                 | 07/12/2022, 4:50:56 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)                  |
 | How To Manage Harassment In Chat             | 01/12/2022, 5:24:49 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_PT)              |
@@ -38,14 +41,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Twitch Turbo Guide                                            | 09/08/2022, 4:00:40 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                                             |
 | A Tour Of Your Channel Page                                   | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=pt_PT)                                    |
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 22/07/2022, 8:46:57 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)       |
 | How To Subscribe                                              | 16/06/2022, 8:35:16 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                                               |
-| Twitch Prime Partner Guide                                    | 09/06/2022, 2:19:45 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=pt_PT)                                     |
 | Twitch Studio Faq                                             | 10/03/2022, 9:52:06 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=pt_PT)                                              |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/03/2022, 5:00:40 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pt_PT)  |
-| Twitch Account Settings                                       | 11/01/2022, 8:26:30 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_PT)                                        |
 
 
 
@@ -54,6 +54,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Twitch Account Settings               | 11/01/2022, 8:26:30 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_PT)                |
 | Account Hacked                        | 15/12/2021, 5:43:38 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=pt_PT)                         |
 | Recommended Software For Broadcasting | 08/12/2021, 8:08:43 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=pt_PT)  |
 | Community Meetups Powered By Twitch   | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=pt_PT)    |
@@ -61,7 +62,6 @@
 | Watching Twitch On Ios Devices        | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=pt_PT)         |
 | How To Claim In Game Content          | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=pt_PT)           |
 | How To Use Twitch Prime Subscriptions | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=pt_PT)  |
-| Twitch Merchandise Store Support Faq  | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=pt_PT)   |
 
 
 
@@ -70,6 +70,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Twitch Merchandise Store Support Faq          | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=pt_PT)           |
 | Setting Up Moderation For Your Twitch Channel | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=pt_PT)  |
 | How To Use Automod                            | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_PT)                             |
 | Guide To Building A Moderation Team           | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/guide-to-building-a-moderation-team?language=pt_PT)            |
