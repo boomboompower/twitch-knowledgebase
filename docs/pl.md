@@ -6,6 +6,13 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Alerts By Twitch                                   | 28/05/2023, 9:45:44 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=pl)                                    |
+| Alerts By Twitch Customization                     | 28/05/2023, 9:45:42 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=pl)                      |
+| Alerts By Twitch Events                            | 28/05/2023, 9:45:42 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=pl)                             |
+| Alerts By Twitch Interactive Resubs                | 28/05/2023, 9:45:40 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=pl)                 |
+| Setup Alerts By Twitch                             | 28/05/2023, 9:45:38 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=pl)                              |
+| Alerts By Twitch Css                               | 28/05/2023, 9:45:35 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=pl)                                |
+| Alerts By Twitch Faq                               | 28/05/2023, 9:45:33 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=pl)                                |
 | Refunds On Twitch                                  | 26/05/2023, 3:15:33 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=pl)                                   |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pl)                           |
 | Lifetime Subscriber Guide For Partners             | 26/05/2023, 3:15:05 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=pl)              |
@@ -17,7 +24,6 @@
 | Guide To Broadcast Health                          | 24/05/2023, 3:58:16 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=pl)                           |
 | Local Recording                                    | 24/05/2023, 3:58:04 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=pl)                                     |
 | Emote Analytics                                    | 23/05/2023, 6:24:07 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=pl)                                     |
-| Alerts By Twitch                                   | 18/05/2023, 4:04:55 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=pl)                                    |
 | How To Use Clips                                   | 15/05/2023, 8:10:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pl)                                    |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=pl)  |
 | Guide To Tags                                      | 11/05/2023, 8:01:35 pm    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=pl)                                       |
@@ -44,7 +50,6 @@
 | Guest Star Browser Source                          | 10/03/2023, 1:20:05 am    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=pl)                           |
 | First Steps For New Affiliates                     | 24/02/2023, 10:54:32 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=pl)                      |
 | Delete Twitch Account                              | 14/02/2023, 10:57:34 pm   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=pl)                               |
-| Twitch Charity Viewers                             | 10/02/2023, 10:04:05 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=pl)                              |
 
 
 
