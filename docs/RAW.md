@@ -6,12 +6,14 @@ Language data is not included in the API. All page links will not have a languag
 
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| creator-dashboard                                             | 30/05/2023, 10:34:52 am | 23/05/2023, 0:20:55 pm  | [Details](#creator-dashboard)                                              |
-| local-recording                                               | 30/05/2023, 10:34:47 am | 23/05/2023, 0:17:33 pm  | [Details](#local-recording)                                                |
-| guide-to-broadcast-health                                     | 30/05/2023, 10:34:46 am | 23/05/2023, 0:18:01 pm  | [Details](#guide-to-broadcast-health)                                      |
-| payout-history-dashboard-guide                                | 30/05/2023, 10:34:41 am | 23/05/2023, 0:20:24 pm  | [Details](#payout-history-dashboard-guide)                                 |
-| prime-gaming-revenue-guide                                    | 30/05/2023, 10:34:35 am | 23/05/2023, 0:18:49 pm  | [Details](#prime-gaming-revenue-guide)                                     |
-| achievements                                                  | 30/05/2023, 10:34:32 am | 23/05/2023, 0:31:29 pm  | [Details](#achievements)                                                   |
+| achievements                                                  | 30/05/2023, 8:32:15 pm  | 23/05/2023, 0:31:29 pm  | [Details](#achievements)                                                   |
+| twitch-stream-key-faq                                         | 30/05/2023, 8:32:13 pm  | 20/07/2022, 5:50:03 am  | [Details](#twitch-stream-key-faq)                                          |
+| local-recording                                               | 30/05/2023, 8:32:10 pm  | 23/05/2023, 0:17:33 pm  | [Details](#local-recording)                                                |
+| creator-dashboard                                             | 30/05/2023, 8:32:02 pm  | 23/05/2023, 0:20:55 pm  | [Details](#creator-dashboard)                                              |
+| prime-gaming-revenue-guide                                    | 30/05/2023, 7:55:20 pm  | 23/05/2023, 0:18:49 pm  | [Details](#prime-gaming-revenue-guide)                                     |
+| guide-to-broadcast-health                                     | 30/05/2023, 7:55:15 pm  | 23/05/2023, 0:18:01 pm  | [Details](#guide-to-broadcast-health)                                      |
+| payout-history-dashboard-guide                                | 30/05/2023, 7:55:08 pm  | 23/05/2023, 0:20:24 pm  | [Details](#payout-history-dashboard-guide)                                 |
+| channel-analytics                                             | 30/05/2023, 5:46:48 pm  | 23/05/2023, 0:21:49 pm  | [Details](#channel-analytics)                                              |
 | alerts-by-twitch                                              | 30/05/2023, 0:20:40 am  | 20/05/2023, 5:00:31 am  | [Details](#alerts-by-twitch)                                               |
 | alerts-by-twitch-css                                          | 30/05/2023, 0:20:38 am  | 20/05/2023, 5:04:43 am  | [Details](#alerts-by-twitch-css)                                           |
 | setup-alerts-by-twitch                                        | 30/05/2023, 0:20:35 am  | 20/05/2023, 5:01:01 am  | [Details](#setup-alerts-by-twitch)                                         |
@@ -25,12 +27,10 @@ Language data is not included in the API. All page links will not have a languag
 | lifetime-subscriber-guide-for-partners                        | 26/05/2023, 3:15:09 am  | 06/05/2023, 7:02:04 am  | [Details](#lifetime-subscriber-guide-for-partners)                         |
 | twitch-turbo-guide                                            | 26/05/2023, 3:14:58 am  | 19/05/2023, 11:51:30 am | [Details](#twitch-turbo-guide)                                             |
 | broadcasting-guidelines                                       | 26/05/2023, 3:10:33 am  | 26/05/2023, 3:10:13 am  | [Details](#broadcasting-guidelines)                                        |
-| channel-analytics                                             | 25/05/2023, 7:51:43 am  | 23/05/2023, 0:21:49 pm  | [Details](#channel-analytics)                                              |
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
 | experiments                                                   | 24/05/2023, 10:10:32 pm | 17/05/2023, 9:05:35 am  | [Details](#experiments)                                                    |
 | music-options-for-streamers                                   | 24/05/2023, 5:25:02 am  | 24/05/2023, 5:24:50 am  | [Details](#music-options-for-streamers)                                    |
 | twitch-prime-partner-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:36 am  | [Details](#twitch-prime-partner-guide)                                     |
-| twitch-stream-key-faq                                         | 24/05/2023, 3:58:29 am  | 24/05/2023, 3:58:29 am  | [Details](#twitch-stream-key-faq)                                          |
 | discovery                                                     | 24/05/2023, 3:01:45 am  | 16/05/2023, 10:37:06 am | [Details](#discovery)                                                      |
 | patch-notes-18                                                | 24/05/2023, 0:28:03 am  | 24/05/2023, 0:28:01 am  | [Details](#patch-notes-18)                                                 |
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
@@ -325,18 +325,31 @@ Language data is not included in the API. All page links will not have a languag
 
 
 
-## creator-dashboard
-https://help.twitch.tv/s/article/creator-dashboard
+## achievements
+https://help.twitch.tv/s/article/achievements
 
-| Title                         | Last Modified           | Created                  |
-|-------------------------------|-------------------------|--------------------------|
-| Painel de controle do criador | 30/05/2023, 10:34:52 am | 23/05/2023, 0:20:55 pm   |
-| Creator Dashboard             | 24/05/2023, 4:02:04 am  | 23/05/2023, 11:18:15 am  |
-| Creator-Dashboard             | 24/05/2023, 4:02:04 am  | 24/05/2023, 4:02:04 am   |
-| Dashboard autore              | 24/05/2023, 4:02:04 am  | 24/05/2023, 4:02:04 am   |
-| Panel de control del creador  | 24/05/2023, 4:02:04 am  | 24/05/2023, 4:02:04 am   |
-| Panel de control del creador  | 24/05/2023, 4:02:04 am  | 24/05/2023, 4:02:04 am   |
-| Panel kontrolny twórcy        | 24/05/2023, 4:02:04 am  | 24/05/2023, 4:02:04 am   |
+| Title        | Last Modified           | Created                 |
+|--------------|-------------------------|-------------------------|
+| Osiągnięcia  | 30/05/2023, 8:32:15 pm  | 23/05/2023, 0:31:29 pm  |
+| Logros       | 30/05/2023, 7:55:08 pm  | 23/05/2023, 0:31:29 pm  |
+| Logros       | 30/05/2023, 7:07:25 pm  | 23/05/2023, 0:31:29 pm  |
+| Obiettivi    | 30/05/2023, 5:46:45 pm  | 23/05/2023, 0:31:29 pm  |
+| Conquistas   | 30/05/2023, 10:34:32 am | 23/05/2023, 0:31:29 pm  |
+| Başarılar    | 25/05/2023, 7:51:49 am  | 23/05/2023, 0:31:29 pm  |
+| Achievements | 24/05/2023, 4:02:46 am  | 23/05/2023, 0:30:57 pm  |
+| Achievements | 24/05/2023, 4:02:45 am  | 24/05/2023, 4:02:45 am  |
+| Conquistas   | 24/05/2023, 4:02:45 am  | 24/05/2023, 4:02:45 am  |
+
+
+## twitch-stream-key-faq
+https://help.twitch.tv/s/article/twitch-stream-key-faq
+
+| Title                                                          | Last Modified          | Created                 |
+|----------------------------------------------------------------|------------------------|-------------------------|
+| Często zadawane pytania dotyczące kluczy transmisji na Twitchu | 30/05/2023, 8:32:13 pm | 20/07/2022, 5:50:03 am  |
+| FAQ codice di streaming di Twitch                              | 30/05/2023, 5:46:47 pm | 27/04/2023, 3:57:31 am  |
+| FAQ sur la clé de streaming Twitch                             | 24/05/2023, 3:58:29 am | 24/05/2023, 3:58:29 am  |
+| FAQ zum Twitch-Stream-Schlüssel                                | 24/05/2023, 3:58:29 am | 24/05/2023, 3:58:29 am  |
 
 
 ## local-recording
@@ -344,13 +357,40 @@ https://help.twitch.tv/s/article/local-recording
 
 | Title                | Last Modified           | Created                  |
 |----------------------|-------------------------|--------------------------|
+| Lokalne nagrywanie   | 30/05/2023, 8:32:10 pm  | 23/05/2023, 0:17:33 pm   |
+| Grabación local      | 30/05/2023, 7:55:03 pm  | 23/05/2023, 0:17:33 pm   |
+| Grabación local      | 30/05/2023, 7:07:24 pm  | 23/05/2023, 0:17:33 pm   |
 | Gravação local       | 30/05/2023, 10:34:47 am | 23/05/2023, 0:17:33 pm   |
 | Enregistrement local | 24/05/2023, 3:58:04 am  | 24/05/2023, 3:58:03 am   |
-| Grabación local      | 24/05/2023, 3:58:04 am  | 24/05/2023, 3:58:03 am   |
-| Grabación local      | 24/05/2023, 3:58:04 am  | 24/05/2023, 3:58:03 am   |
 | Local Recording      | 24/05/2023, 3:58:04 am  | 23/05/2023, 10:25:40 am  |
 | Lokale Aufnahme      | 24/05/2023, 3:58:04 am  | 24/05/2023, 3:58:03 am   |
-| Lokalne nagrywanie   | 24/05/2023, 3:58:04 am  | 24/05/2023, 3:58:03 am   |
+
+
+## creator-dashboard
+https://help.twitch.tv/s/article/creator-dashboard
+
+| Title                         | Last Modified           | Created                  |
+|-------------------------------|-------------------------|--------------------------|
+| Panel kontrolny twórcy        | 30/05/2023, 8:32:02 pm  | 23/05/2023, 0:20:55 pm   |
+| Panel de control del creador  | 30/05/2023, 7:55:13 pm  | 23/05/2023, 0:20:55 pm   |
+| Panel de control del creador  | 30/05/2023, 7:07:11 pm  | 23/05/2023, 0:20:55 pm   |
+| Dashboard autore              | 30/05/2023, 5:46:44 pm  | 23/05/2023, 0:20:55 pm   |
+| Painel de controle do criador | 30/05/2023, 10:34:52 am | 23/05/2023, 0:20:55 pm   |
+| Creator Dashboard             | 24/05/2023, 4:02:04 am  | 23/05/2023, 11:18:15 am  |
+| Creator-Dashboard             | 24/05/2023, 4:02:04 am  | 24/05/2023, 4:02:04 am   |
+
+
+## prime-gaming-revenue-guide
+https://help.twitch.tv/s/article/prime-gaming-revenue-guide
+
+| Title                               | Last Modified           | Created                 |
+|-------------------------------------|-------------------------|-------------------------|
+| Guía de ingresos de Prime Gaming    | 30/05/2023, 7:55:20 pm  | 23/05/2023, 0:18:49 pm  |
+| Guía de ingresos de Prime Gaming    | 30/05/2023, 7:07:17 pm  | 23/05/2023, 0:18:49 pm  |
+| Guida ai ricavi di Prime Gaming     | 30/05/2023, 5:46:41 pm  | 23/05/2023, 0:18:49 pm  |
+| Guia de renda do Prime Gaming       | 30/05/2023, 10:34:35 am | 23/05/2023, 0:18:49 pm  |
+| Guide de revenu Prime Gaming        | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:35 am  |
+| Leitfaden zu Prime Gaming-Einnahmen | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:35 am  |
 
 
 ## guide-to-broadcast-health
@@ -358,12 +398,12 @@ https://help.twitch.tv/s/article/guide-to-broadcast-health
 
 | Title                                         | Last Modified           | Created                  |
 |-----------------------------------------------|-------------------------|--------------------------|
+| Guía sobre el estado de tus streams           | 30/05/2023, 7:55:15 pm  | 23/05/2023, 0:18:01 pm   |
+| Guía para el buen funcionamiento de tu stream | 30/05/2023, 7:07:14 pm  | 23/05/2023, 0:18:01 pm   |
+| Guida all'integrità dello streaming           | 30/05/2023, 5:46:39 pm  | 23/05/2023, 0:18:01 pm   |
 | Guia de qualidade da transmissão              | 30/05/2023, 10:34:46 am | 23/05/2023, 0:18:01 pm   |
 | Guide to Broadcast Health                     | 24/05/2023, 3:58:17 am  | 23/05/2023, 10:46:35 am  |
-| Guida all'integrità dello streaming           | 24/05/2023, 3:58:16 am  | 24/05/2023, 3:58:16 am   |
 | Guide sur le bon fonctionnement du stream     | 24/05/2023, 3:58:16 am  | 24/05/2023, 3:58:16 am   |
-| Guía para el buen funcionamiento de tu stream | 24/05/2023, 3:58:16 am  | 24/05/2023, 3:58:16 am   |
-| Guía sobre el estado de tus streams           | 24/05/2023, 3:58:16 am  | 24/05/2023, 3:58:16 am   |
 | Leitfaden zur Stream-Rate                     | 24/05/2023, 3:58:16 am  | 24/05/2023, 3:58:16 am   |
 
 
@@ -372,42 +412,24 @@ https://help.twitch.tv/s/article/payout-history-dashboard-guide
 
 | Title                               | Last Modified           | Created                  |
 |-------------------------------------|-------------------------|--------------------------|
+| Guía del historial de pagos         | 30/05/2023, 7:55:08 pm  | 23/05/2023, 0:20:24 pm   |
+| Guía sobre el historial de pagos    | 30/05/2023, 7:07:04 pm  | 23/05/2023, 0:20:24 pm   |
+| Guida allo storico dei pagamenti    | 30/05/2023, 5:46:37 pm  | 23/05/2023, 0:20:24 pm   |
 | Guia do Histórico de pagamentos     | 30/05/2023, 10:34:41 am | 23/05/2023, 0:20:24 pm   |
-| Guida allo storico dei pagamenti    | 24/05/2023, 4:02:24 am  | 24/05/2023, 4:02:23 am   |
 | Guide de l'historique des paiements | 24/05/2023, 4:02:24 am  | 24/05/2023, 4:02:23 am   |
-| Guía del historial de pagos         | 24/05/2023, 4:02:24 am  | 24/05/2023, 4:02:23 am   |
-| Guía sobre el historial de pagos    | 24/05/2023, 4:02:24 am  | 24/05/2023, 4:02:23 am   |
 | Leitfaden zum Auszahlungsverlauf    | 24/05/2023, 4:02:24 am  | 24/05/2023, 4:02:23 am   |
 | Payout History Guide                | 24/05/2023, 4:02:24 am  | 23/05/2023, 11:23:35 am  |
 
 
-## prime-gaming-revenue-guide
-https://help.twitch.tv/s/article/prime-gaming-revenue-guide
+## channel-analytics
+https://help.twitch.tv/s/article/channel-analytics
 
-| Title                               | Last Modified           | Created                 |
-|-------------------------------------|-------------------------|-------------------------|
-| Guia de renda do Prime Gaming       | 30/05/2023, 10:34:35 am | 23/05/2023, 0:18:49 pm  |
-| Guida ai ricavi di Prime Gaming     | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:35 am  |
-| Guide de revenu Prime Gaming        | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:35 am  |
-| Guía de ingresos de Prime Gaming    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:35 am  |
-| Guía de ingresos de Prime Gaming    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:35 am  |
-| Leitfaden zu Prime Gaming-Einnahmen | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:35 am  |
-
-
-## achievements
-https://help.twitch.tv/s/article/achievements
-
-| Title        | Last Modified           | Created                 |
-|--------------|-------------------------|-------------------------|
-| Conquistas   | 30/05/2023, 10:34:32 am | 23/05/2023, 0:31:29 pm  |
-| Başarılar    | 25/05/2023, 7:51:49 am  | 23/05/2023, 0:31:29 pm  |
-| Achievements | 24/05/2023, 4:02:46 am  | 23/05/2023, 0:30:57 pm  |
-| Achievements | 24/05/2023, 4:02:45 am  | 24/05/2023, 4:02:45 am  |
-| Conquistas   | 24/05/2023, 4:02:45 am  | 24/05/2023, 4:02:45 am  |
-| Logros       | 24/05/2023, 4:02:45 am  | 24/05/2023, 4:02:45 am  |
-| Logros       | 24/05/2023, 4:02:45 am  | 24/05/2023, 4:02:45 am  |
-| Obiettivi    | 24/05/2023, 4:02:45 am  | 24/05/2023, 4:02:45 am  |
-| Osiągnięcia  | 24/05/2023, 4:02:45 am  | 24/05/2023, 4:02:45 am  |
+| Title                     | Last Modified          | Created                  |
+|---------------------------|------------------------|--------------------------|
+| Panoramica dell'Analitica | 30/05/2023, 5:46:48 pm | 23/05/2023, 0:21:49 pm   |
+| Kanal Analizi Genel Bakış | 25/05/2023, 7:51:43 am | 23/05/2023, 0:21:49 pm   |
+| Analytics Overview        | 24/05/2023, 4:01:52 am | 23/05/2023, 11:10:35 am  |
+| Análise de Canal          | 24/05/2023, 4:01:50 am | 24/05/2023, 4:01:50 am   |
 
 
 ## alerts-by-twitch
@@ -569,17 +591,6 @@ https://help.twitch.tv/s/article/broadcasting-guidelines
 | Broadcasting Guidelines | 26/05/2023, 3:10:33 am | 26/05/2023, 3:10:13 am  |
 
 
-## channel-analytics
-https://help.twitch.tv/s/article/channel-analytics
-
-| Title                     | Last Modified          | Created                  |
-|---------------------------|------------------------|--------------------------|
-| Kanal Analizi Genel Bakış | 25/05/2023, 7:51:43 am | 23/05/2023, 0:21:49 pm   |
-| Analytics Overview        | 24/05/2023, 4:01:52 am | 23/05/2023, 11:10:35 am  |
-| Análise de Canal          | 24/05/2023, 4:01:50 am | 24/05/2023, 4:01:50 am   |
-| Panoramica dell'Analitica | 24/05/2023, 4:01:50 am | 24/05/2023, 4:01:49 am   |
-
-
 ## requesting-your-data-from-twitch
 https://help.twitch.tv/s/article/requesting-your-data-from-twitch
 
@@ -618,17 +629,6 @@ https://help.twitch.tv/s/article/twitch-prime-partner-guide
 |-------------------------------|------------------------|-------------------------|
 | Guia do Parceiro Twitch Prime | 24/05/2023, 4:02:36 am | 24/05/2023, 4:02:36 am  |
 | Partnerguide for Twitch Prime | 24/05/2023, 4:02:36 am | 24/05/2023, 4:02:36 am  |
-
-
-## twitch-stream-key-faq
-https://help.twitch.tv/s/article/twitch-stream-key-faq
-
-| Title                                                          | Last Modified          | Created                 |
-|----------------------------------------------------------------|------------------------|-------------------------|
-| Często zadawane pytania dotyczące kluczy transmisji na Twitchu | 24/05/2023, 3:58:29 am | 24/05/2023, 3:58:29 am  |
-| FAQ codice di streaming di Twitch                              | 24/05/2023, 3:58:29 am | 24/05/2023, 3:58:29 am  |
-| FAQ sur la clé de streaming Twitch                             | 24/05/2023, 3:58:29 am | 24/05/2023, 3:58:29 am  |
-| FAQ zum Twitch-Stream-Schlüssel                                | 24/05/2023, 3:58:29 am | 24/05/2023, 3:58:29 am  |
 
 
 ## discovery

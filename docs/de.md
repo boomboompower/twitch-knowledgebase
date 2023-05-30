@@ -48,8 +48,6 @@
 | Creator Goals                                      | 15/03/2023, 11:51:03 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=de)                                       |
 | Two Factor Authentication                          | 10/03/2023, 8:47:06 pm    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=de)                           |
 | Guest Star Browser Source                          | 08/03/2023, 9:19:33 pm    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=de)                           |
-| First Steps For New Affiliates                     | 23/02/2023, 9:28:04 pm    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=de)                      |
-| Delete Twitch Account                              | 14/02/2023, 7:25:35 pm    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=de)                               |
 
 
 

@@ -50,8 +50,6 @@
 | Subscriptions On Mobile                            | 15/03/2023, 8:28:14 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=en_US)                             |
 | Two Factor Authentication                          | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=en_US)                           |
 | Creator Goals                                      | 09/03/2023, 4:21:18 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                       |
-| Guest Star Browser Source                          | 07/03/2023, 3:52:07 am    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=en_US)                           |
-| First Steps For New Affiliates                     | 17/02/2023, 9:35:43 am    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=en_US)                      |
 
 
 
