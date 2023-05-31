@@ -6,23 +6,25 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=ru)                      |
+| Twitch Music Getting Started                       | 31/05/2023, 2:32:47 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ru)                        |
+| Channel Analytics                                  | 30/05/2023, 4:42:53 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ru)                                   |
+| Achievements                                       | 30/05/2023, 4:42:48 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=ru)                                        |
+| Payout History Dashboard Guide                     | 30/05/2023, 4:42:46 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=ru)                      |
+| Guide To Broadcast Health                          | 30/05/2023, 4:42:42 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=ru)                           |
+| Twitch Stream Key Faq                              | 30/05/2023, 4:42:38 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ru)                               |
+| Local Recording                                    | 30/05/2023, 4:42:36 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=ru)                                     |
+| Prime Gaming Revenue Guide                         | 30/05/2023, 4:42:33 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ru)                          |
 | Alerts By Twitch Faq                               | 26/05/2023, 10:54:44 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=ru)                                |
 | Setup Alerts By Twitch                             | 26/05/2023, 10:54:40 pm   | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=ru)                              |
 | Alerts By Twitch Interactive Resubs                | 26/05/2023, 10:54:38 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=ru)                 |
 | Alerts By Twitch Events                            | 26/05/2023, 10:54:36 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ru)                             |
 | Alerts By Twitch Css                               | 26/05/2023, 10:54:35 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=ru)                                |
 | Alerts By Twitch                                   | 26/05/2023, 10:54:33 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=ru)                                    |
-| Alerts By Twitch Customization                     | 26/05/2023, 10:54:33 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=ru)                      |
 | Refunds On Twitch                                  | 26/05/2023, 7:48:04 pm    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ru)                                   |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ru)                           |
 | Lifetime Subscriber Guide For Partners             | 26/05/2023, 3:15:05 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=ru)              |
 | Twitch Turbo Guide                                 | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ru)                                  |
-| Achievements                                       | 24/05/2023, 4:02:45 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ru)                                        |
-| Prime Gaming Revenue Guide                         | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ru)                          |
-| Payout History Dashboard Guide                     | 24/05/2023, 4:02:24 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=ru)                      |
-| Channel Analytics                                  | 24/05/2023, 4:01:50 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ru)                                   |
-| Guide To Broadcast Health                          | 24/05/2023, 3:58:16 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=ru)                           |
-| Local Recording                                    | 24/05/2023, 3:58:04 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=ru)                                     |
 | Emote Analytics                                    | 22/05/2023, 9:33:37 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=ru)                                     |
 | How To Use Clips                                   | 12/05/2023, 11:59:05 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ru)                                    |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=ru)  |

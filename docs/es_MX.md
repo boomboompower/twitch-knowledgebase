@@ -6,8 +6,16 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=es_MX)                      |
+| Twitch Music Getting Started                       | 31/05/2023, 2:32:47 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=es_MX)                        |
+| Prime Gaming Revenue Guide                         | 30/05/2023, 7:55:20 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)                          |
+| Twitch Stream Key Faq                              | 30/05/2023, 7:55:15 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=es_MX)                               |
+| Guide To Broadcast Health                          | 30/05/2023, 7:55:15 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=es_MX)                           |
+| Payout History Dashboard Guide                     | 30/05/2023, 7:55:08 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=es_MX)                      |
+| Achievements                                       | 30/05/2023, 7:55:08 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=es_MX)                                        |
+| Channel Analytics                                  | 30/05/2023, 7:55:05 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=es_MX)                                   |
+| Local Recording                                    | 30/05/2023, 7:55:03 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=es_MX)                                     |
 | Alerts By Twitch Events                            | 30/05/2023, 0:20:44 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=es_MX)                             |
-| Alerts By Twitch Customization                     | 30/05/2023, 0:20:42 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=es_MX)                      |
 | Alerts By Twitch                                   | 30/05/2023, 0:20:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=es_MX)                                    |
 | Alerts By Twitch Css                               | 30/05/2023, 0:20:38 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=es_MX)                                |
 | Alerts By Twitch Interactive Resubs                | 30/05/2023, 0:20:36 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=es_MX)                 |
@@ -17,12 +25,6 @@
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es_MX)                           |
 | Lifetime Subscriber Guide For Partners             | 26/05/2023, 3:15:05 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=es_MX)              |
 | Twitch Turbo Guide                                 | 26/05/2023, 3:14:57 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es_MX)                                  |
-| Achievements                                       | 24/05/2023, 4:02:45 am    | [Link](https://help.twitch.tv/s/article/achievements?language=es_MX)                                        |
-| Prime Gaming Revenue Guide                         | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)                          |
-| Payout History Dashboard Guide                     | 24/05/2023, 4:02:24 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=es_MX)                      |
-| Channel Analytics                                  | 24/05/2023, 4:01:50 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=es_MX)                                   |
-| Guide To Broadcast Health                          | 24/05/2023, 3:58:16 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=es_MX)                           |
-| Local Recording                                    | 24/05/2023, 3:58:04 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=es_MX)                                     |
 | Emote Analytics                                    | 19/05/2023, 10:00:31 pm   | [Link](https://help.twitch.tv/s/article/emote-analytics?language=es_MX)                                     |
 | How To Use Clips                                   | 13/05/2023, 2:03:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                                    |
 | Guide To Tags                                      | 12/05/2023, 11:23:34 pm   | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=es_MX)                                       |

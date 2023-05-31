@@ -6,8 +6,9 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=tr)                      |
+| Twitch Music Getting Started                       | 31/05/2023, 2:32:47 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=tr)                        |
 | Alerts By Twitch Faq                               | 26/05/2023, 8:53:34 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=tr)                                |
-| Alerts By Twitch Customization                     | 26/05/2023, 8:53:32 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=tr)                      |
 | Alerts By Twitch Css                               | 26/05/2023, 8:53:06 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=tr)                                |
 | Setup Alerts By Twitch                             | 26/05/2023, 8:53:04 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=tr)                              |
 | Alerts By Twitch Events                            | 26/05/2023, 8:53:04 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=tr)                             |
@@ -48,7 +49,6 @@
 | Guide To Closed Captions                           | 20/03/2023, 9:12:04 pm    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=tr)                            |
 | Two Factor Authentication                          | 13/03/2023, 7:30:05 pm    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=tr)                           |
 | Creator Goals                                      | 13/03/2023, 7:28:33 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=tr)                                       |
-| Guest Star Browser Source                          | 08/03/2023, 9:26:34 pm    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=tr)                           |
 
 
 

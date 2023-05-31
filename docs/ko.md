@@ -6,6 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=ko)                      |
+| Twitch Music Getting Started                       | 31/05/2023, 2:32:47 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ko)                        |
 | Guide To Broadcast Health                          | 30/05/2023, 5:42:21 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=ko)                           |
 | Prime Gaming Revenue Guide                         | 30/05/2023, 5:42:19 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ko)                          |
 | Twitch Stream Key Faq                              | 30/05/2023, 5:42:15 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ko)                               |
@@ -20,7 +22,6 @@
 | Alerts By Twitch Faq                               | 26/05/2023, 11:19:35 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=ko)                                |
 | Setup Alerts By Twitch                             | 26/05/2023, 11:19:33 pm   | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=ko)                              |
 | Alerts By Twitch Interactive Resubs                | 26/05/2023, 11:19:32 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=ko)                 |
-| Alerts By Twitch Customization                     | 26/05/2023, 11:19:32 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=ko)                      |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ko)                           |
 | Lifetime Subscriber Guide For Partners             | 26/05/2023, 3:15:05 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=ko)              |
 | Twitch Turbo Guide                                 | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ko)                                  |

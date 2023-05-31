@@ -6,6 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=pt_BR)                      |
+| Twitch Music Getting Started                       | 31/05/2023, 2:32:47 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=pt_BR)                        |
 | Local Recording                                    | 30/05/2023, 10:34:47 am   | [Link](https://help.twitch.tv/s/article/local-recording?language=pt_BR)                                     |
 | Guide To Broadcast Health                          | 30/05/2023, 10:34:46 am   | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=pt_BR)                           |
 | Twitch Stream Key Faq                              | 30/05/2023, 10:34:43 am   | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=pt_BR)                               |
@@ -15,7 +17,6 @@
 | Achievements                                       | 30/05/2023, 10:34:32 am   | [Link](https://help.twitch.tv/s/article/achievements?language=pt_BR)                                        |
 | Alerts By Twitch Events                            | 26/05/2023, 11:03:11 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=pt_BR)                             |
 | Alerts By Twitch Faq                               | 26/05/2023, 11:03:11 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=pt_BR)                                |
-| Alerts By Twitch Customization                     | 26/05/2023, 11:03:08 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=pt_BR)                      |
 | Setup Alerts By Twitch                             | 26/05/2023, 11:03:07 am   | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=pt_BR)                              |
 | Alerts By Twitch                                   | 26/05/2023, 11:03:06 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=pt_BR)                                    |
 | Alerts By Twitch Interactive Resubs                | 26/05/2023, 11:03:05 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=pt_BR)                 |

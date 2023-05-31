@@ -6,6 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=th)                      |
+| Twitch Music Getting Started                       | 31/05/2023, 2:32:47 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=th)                        |
 | Achievements                                       | 30/05/2023, 3:45:16 am    | [Link](https://help.twitch.tv/s/article/achievements?language=th)                                        |
 | Twitch Stream Key Faq                              | 30/05/2023, 3:45:15 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=th)                               |
 | Local Recording                                    | 30/05/2023, 3:45:13 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=th)                                     |
@@ -15,7 +17,6 @@
 | Twitch Prime Revenue Guide                         | 30/05/2023, 3:45:03 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-revenue-guide?language=th)                          |
 | Refunds On Twitch                                  | 29/05/2023, 7:28:03 pm    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=th)                                   |
 | Alerts By Twitch Css                               | 27/05/2023, 1:04:43 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=th)                                |
-| Alerts By Twitch Customization                     | 27/05/2023, 1:04:41 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=th)                      |
 | Alerts By Twitch Events                            | 27/05/2023, 1:04:41 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=th)                             |
 | Alerts By Twitch Faq                               | 27/05/2023, 1:04:38 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=th)                                |
 | Setup Alerts By Twitch                             | 27/05/2023, 1:04:37 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=th)                              |
@@ -48,7 +49,6 @@
 | Creator Goals                                      | 23/03/2023, 2:36:33 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=th)                                       |
 | Two Factor Authentication                          | 23/03/2023, 2:21:33 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=th)                           |
 | Multi Month Subscriptions                          | 22/03/2023, 1:15:43 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=th)                           |
-| Guest Star Browser Source                          | 10/03/2023, 1:08:06 am    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=th)                           |
 
 
 

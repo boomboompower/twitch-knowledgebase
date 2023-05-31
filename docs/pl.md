@@ -6,9 +6,17 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=pl)                      |
+| Twitch Music Getting Started                       | 31/05/2023, 2:32:47 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=pl)                        |
+| Channel Analytics                                  | 30/05/2023, 8:32:19 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pl)                                   |
+| Guide To Broadcast Health                          | 30/05/2023, 8:32:17 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=pl)                           |
+| Achievements                                       | 30/05/2023, 8:32:15 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=pl)                                        |
+| Twitch Stream Key Faq                              | 30/05/2023, 8:32:13 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=pl)                               |
+| Local Recording                                    | 30/05/2023, 8:32:10 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=pl)                                     |
+| Payout History Dashboard Guide                     | 30/05/2023, 8:32:07 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=pl)                      |
+| Prime Gaming Revenue Guide                         | 30/05/2023, 8:32:05 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pl)                          |
 | Refunds On Twitch                                  | 30/05/2023, 0:11:36 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=pl)                                   |
 | Alerts By Twitch                                   | 28/05/2023, 9:45:44 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=pl)                                    |
-| Alerts By Twitch Customization                     | 28/05/2023, 9:45:42 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=pl)                      |
 | Alerts By Twitch Events                            | 28/05/2023, 9:45:42 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=pl)                             |
 | Alerts By Twitch Interactive Resubs                | 28/05/2023, 9:45:40 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=pl)                 |
 | Setup Alerts By Twitch                             | 28/05/2023, 9:45:38 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=pl)                              |
@@ -17,12 +25,6 @@
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pl)                           |
 | Lifetime Subscriber Guide For Partners             | 26/05/2023, 3:15:05 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=pl)              |
 | Twitch Turbo Guide                                 | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pl)                                  |
-| Achievements                                       | 24/05/2023, 4:02:45 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pl)                                        |
-| Prime Gaming Revenue Guide                         | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pl)                          |
-| Payout History Dashboard Guide                     | 24/05/2023, 4:02:24 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=pl)                      |
-| Channel Analytics                                  | 24/05/2023, 4:01:50 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pl)                                   |
-| Guide To Broadcast Health                          | 24/05/2023, 3:58:16 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=pl)                           |
-| Local Recording                                    | 24/05/2023, 3:58:04 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=pl)                                     |
 | Emote Analytics                                    | 23/05/2023, 6:24:07 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=pl)                                     |
 | How To Use Clips                                   | 15/05/2023, 8:10:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pl)                                    |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=pl)  |
@@ -47,7 +49,6 @@
 | Subscriptions On Mobile                            | 21/03/2023, 9:28:04 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=pl)                             |
 | Creator Goals                                      | 15/03/2023, 11:13:38 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=pl)                                       |
 | Two Factor Authentication                          | 13/03/2023, 11:03:33 pm   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=pl)                           |
-| Guest Star Browser Source                          | 10/03/2023, 1:20:05 am    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=pl)                           |
 
 
 
