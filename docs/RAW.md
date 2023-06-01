@@ -325,7 +325,10 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-send-in-console-output                                 | 30/09/2021, 11:26:48 am | 07/12/2018, 0:37:10 pm  | [Details](#how-to-send-in-console-output)                                  |
 
 
-## a-tour-of-your-channel-page
+ 
+## All Articles
+ 
+### a-tour-of-your-channel-page
 https://help.twitch.tv/s/article/a-tour-of-your-channel-page
 
 | Title                            | Last Modified          | Created                  |
@@ -339,7 +342,7 @@ https://help.twitch.tv/s/article/a-tour-of-your-channel-page
 | Kanal Sayfanıza Kısa Bir Bakış   | 09/08/2022, 4:00:26 am | 30/07/2022, 10:37:01 am  |
 
 
-## about-account-suspensions-dmca-suspensions-and-chat-bans
+### about-account-suspensions-dmca-suspensions-and-chat-bans
 https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans
 
 | Title                                                                           | Last Modified          | Created                 |
@@ -354,7 +357,7 @@ https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-
 | Giới thiệu về Thực thi hình phạt đối với tài khoản và Lệnh cấm trong trò chuyện | 22/07/2022, 8:46:57 am | 22/07/2022, 8:46:56 am  |
 
 
-## account-hacked
+### account-hacked
 https://help.twitch.tv/s/article/account-hacked
 
 | Title                                                           | Last Modified          | Created                 |
@@ -379,7 +382,7 @@ https://help.twitch.tv/s/article/account-hacked
 | Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
 
 
-## account-reactivation
+### account-reactivation
 https://help.twitch.tv/s/article/account-reactivation
 
 | Title                        | Last Modified           | Created                  |
@@ -390,7 +393,7 @@ https://help.twitch.tv/s/article/account-reactivation
 | Account reactiveren          | 08/02/2023, 10:02:23 am | 08/02/2023, 10:02:22 am  |
 
 
-## achievements
+### achievements
 https://help.twitch.tv/s/article/achievements
 
 | Title        | Last Modified           | Created                 |
@@ -406,7 +409,7 @@ https://help.twitch.tv/s/article/achievements
 | Conquistas   | 24/05/2023, 4:02:45 am  | 24/05/2023, 4:02:45 am  |
 
 
-## ad-experience-experiment
+### ad-experience-experiment
 https://help.twitch.tv/s/article/ad-experience-experiment
 
 | Title                                                            | Last Modified           | Created                 |
@@ -417,7 +420,7 @@ https://help.twitch.tv/s/article/ad-experience-experiment
 | Nous testons de nouveaux types de publicités sur Twitch          | 30/09/2021, 11:26:49 am | 12/09/2020, 5:55:03 am  |
 
 
-## ad-offer-faq
+### ad-offer-faq
 https://help.twitch.tv/s/article/ad-offer-faq
 
 | Title                                                  | Last Modified          | Created                 |
@@ -431,7 +434,7 @@ https://help.twitch.tv/s/article/ad-offer-faq
 | Mainostarjousten usein kysytyt kysymykset              | 22/10/2021, 8:53:22 am | 26/10/2019, 3:01:56 am  |
 
 
-## adding-a-game-and-box-art-to-the-directory
+### adding-a-game-and-box-art-to-the-directory
 https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory
 
 | Title                                                     | Last Modified          | Created                 |
@@ -446,7 +449,7 @@ https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory
 | Ein Spiel oder ein Cover-Artwork zu Twitch hinzufügen     | 10/12/2021, 6:25:54 am | 10/12/2020, 5:01:08 am  |
 
 
-## ads-incentive-program-getting-started
+### ads-incentive-program-getting-started
 https://help.twitch.tv/s/article/ads-incentive-program-getting-started
 
 | Title                                                            | Last Modified          | Created                 |
@@ -459,7 +462,7 @@ https://help.twitch.tv/s/article/ads-incentive-program-getting-started
 | Getting Started With the Ads Incentive Program                   | 10/03/2023, 4:14:58 am | 10/03/2023, 4:14:38 am  |
 
 
-## ads-manager
+### ads-manager
 https://help.twitch.tv/s/article/ads-manager
 
 | Title                       | Last Modified          | Created                 |
@@ -473,7 +476,7 @@ https://help.twitch.tv/s/article/ads-manager
 | Ads Manager                 | 30/03/2023, 8:16:26 am | 21/03/2023, 4:36:43 am  |
 
 
-## advanced-audio-mixer
+### advanced-audio-mixer
 https://help.twitch.tv/s/article/advanced-audio-mixer
 
 | Title                                         | Last Modified          | Created                 |
@@ -485,7 +488,7 @@ https://help.twitch.tv/s/article/advanced-audio-mixer
 | Mixer de áudio avançado do Twitch Studio      | 22/10/2021, 8:54:19 am | 01/10/2021, 3:05:59 am  |
 
 
-## affiliate-emote-prefix-change
+### affiliate-emote-prefix-change
 https://help.twitch.tv/s/article/affiliate-emote-prefix-change
 
 | Title                                            | Last Modified          | Created                 |
@@ -498,7 +501,7 @@ https://help.twitch.tv/s/article/affiliate-emote-prefix-change
 | Modification du préfixe des émoticônes d'affilié | 21/09/2022, 4:59:49 am | 30/08/2022, 3:53:48 am  |
 
 
-## affiliate-onboarding-guide
+### affiliate-onboarding-guide
 https://help.twitch.tv/s/article/affiliate-onboarding-guide
 
 | Title                                          | Last Modified          | Created                 |
@@ -512,7 +515,7 @@ https://help.twitch.tv/s/article/affiliate-onboarding-guide
 | Leitfaden zum Affiliate-Onboarding             | 13/10/2022, 7:54:02 am | 29/09/2022, 8:54:21 am  |
 
 
-## affiliate-or-partner-anniversary-settings
+### affiliate-or-partner-anniversary-settings
 https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings
 
 | Title                                                          | Last Modified           | Created                 |
@@ -526,7 +529,7 @@ https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings
 | Affiliate or Partner Anniversary Settings                      | 13/05/2023, 6:14:46 am  | 13/05/2023, 6:14:19 am  |
 
 
-## affiliate-settings-guide
+### affiliate-settings-guide
 https://help.twitch.tv/s/article/affiliate-settings-guide
 
 | Title                                | Last Modified          | Created                 |
@@ -540,7 +543,7 @@ https://help.twitch.tv/s/article/affiliate-settings-guide
 | Leitfaden zu Affiliate-Einstellungen | 22/10/2021, 8:53:18 am | 20/01/2021, 6:17:36 am  |
 
 
-## alerts-by-twitch
+### alerts-by-twitch
 https://help.twitch.tv/s/article/alerts-by-twitch
 
 | Title             | Last Modified           | Created                 |
@@ -555,7 +558,7 @@ https://help.twitch.tv/s/article/alerts-by-twitch
 | Alerts by Twitch  | 18/05/2023, 4:04:55 am  | 17/05/2023, 4:35:44 am  |
 
 
-## alerts-by-twitch-css
+### alerts-by-twitch-css
 https://help.twitch.tv/s/article/alerts-by-twitch-css
 
 | Title                               | Last Modified           | Created                  |
@@ -572,7 +575,7 @@ https://help.twitch.tv/s/article/alerts-by-twitch-css
 | Alerts by Twitch CSS & HTML         | 18/05/2023, 4:09:20 am  | 22/02/2023, 10:02:29 am  |
 
 
-## alerts-by-twitch-customization
+### alerts-by-twitch-customization
 https://help.twitch.tv/s/article/alerts-by-twitch-customization
 
 | Title                           | Last Modified          | Created                 |
@@ -582,7 +585,7 @@ https://help.twitch.tv/s/article/alerts-by-twitch-customization
 | Dostosowanie alertów na Twitchu | 31/05/2023, 4:50:40 am | 31/05/2023, 4:50:40 am  |
 
 
-## alerts-by-twitch-events
+### alerts-by-twitch-events
 https://help.twitch.tv/s/article/alerts-by-twitch-events
 
 | Title                       | Last Modified          | Created                 |
@@ -590,7 +593,7 @@ https://help.twitch.tv/s/article/alerts-by-twitch-events
 | Arten von Alerts von Twitch | 26/05/2023, 8:09:03 pm | 20/05/2023, 5:01:33 am  |
 
 
-## alerts-by-twitch-faq
+### alerts-by-twitch-faq
 https://help.twitch.tv/s/article/alerts-by-twitch-faq
 
 | Title                                    | Last Modified          | Created                 |
@@ -602,7 +605,7 @@ https://help.twitch.tv/s/article/alerts-by-twitch-faq
 | Alerts by Twitch FAQ                     | 18/05/2023, 4:09:52 am | 22/02/2023, 9:58:12 am  |
 
 
-## alerts-by-twitch-interactive-resubs
+### alerts-by-twitch-interactive-resubs
 https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs
 
 | Title                                                       | Last Modified           | Created                  |
@@ -613,7 +616,7 @@ https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs
 | Alerts by Twitch Interactive Resubs                         | 18/05/2023, 4:08:36 am  | 22/02/2023, 10:01:59 am  |
 
 
-## amazon-associates
+### amazon-associates
 https://help.twitch.tv/s/article/amazon-associates
 
 | Title               | Last Modified          | Created                  |
@@ -634,7 +637,7 @@ https://help.twitch.tv/s/article/amazon-associates
 | Amazon-Partner      | 22/10/2021, 8:53:03 am | 18/08/2021, 11:02:42 am  |
 
 
-## amazon-blacksmith
+### amazon-blacksmith
 https://help.twitch.tv/s/article/amazon-blacksmith
 
 | Title             | Last Modified          | Created                 |
@@ -643,7 +646,7 @@ https://help.twitch.tv/s/article/amazon-blacksmith
 | Amazon Blacksmith | 22/10/2021, 8:53:05 am | 29/07/2021, 5:12:09 am  |
 
 
-## amazon-music
+### amazon-music
 https://help.twitch.tv/s/article/amazon-music
 
 | Title        | Last Modified          | Created                 |
@@ -664,7 +667,7 @@ https://help.twitch.tv/s/article/amazon-music
 | Amazon Music | 26/10/2022, 8:48:55 pm | 26/10/2022, 8:48:55 pm  |
 
 
-## amazon-tax-information-interview-and-irs-annual-reporting-faq
+### amazon-tax-information-interview-and-irs-annual-reporting-faq
 https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq
 
 | Title                                                                                                             | Last Modified           | Created                  |
@@ -681,7 +684,7 @@ https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual
 | Gyakran ismételt kérdések az Amazon adózási adatokról szóló kérdőívvel és az éves IRS-bejelentéssel kapcsolatban  | 08/03/2022, 5:00:40 am  | 08/03/2022, 5:00:39 am   |
 
 
-## animated-emotes
+### animated-emotes
 https://help.twitch.tv/s/article/animated-emotes
 
 | Title                | Last Modified           | Created                  |
@@ -696,7 +699,7 @@ https://help.twitch.tv/s/article/animated-emotes
 | Animated Emotes      | 17/02/2022, 5:22:47 am  | 10/02/2022, 10:12:19 am  |
 
 
-## annual-recap
+### annual-recap
 https://help.twitch.tv/s/article/annual-recap
 
 | Title                              | Last Modified           | Created                 |
@@ -705,7 +708,7 @@ https://help.twitch.tv/s/article/annual-recap
 | ll tuo Riepilogo annuale di Twitch | 15/12/2022, 11:00:33 pm | 14/12/2022, 2:07:24 am  |
 
 
-## appleshareplay
+### appleshareplay
 https://help.twitch.tv/s/article/appleshareplay
 
 | Title           | Last Modified           | Created                  |
@@ -724,7 +727,7 @@ https://help.twitch.tv/s/article/appleshareplay
 | Apple SharePlay | 18/11/2021, 5:47:02 am  | 28/10/2021, 8:01:20 am   |
 
 
-## artist-badge-attribution
+### artist-badge-attribution
 https://help.twitch.tv/s/article/artist-badge-attribution
 
 | Title                                   | Last Modified          | Created                  |
@@ -738,7 +741,7 @@ https://help.twitch.tv/s/article/artist-badge-attribution
 | Artist Badge and Attribution            | 20/05/2022, 3:10:39 am | 19/05/2022, 10:19:03 am  |
 
 
-## audio-ads
+### audio-ads
 https://help.twitch.tv/s/article/audio-ads
 
 | Title               | Last Modified          | Created                 |
@@ -751,7 +754,7 @@ https://help.twitch.tv/s/article/audio-ads
 | Audio-Werbeanzeigen | 22/10/2021, 8:53:22 am | 18/09/2021, 5:03:27 am  |
 
 
-## authy-faq
+### authy-faq
 https://help.twitch.tv/s/article/authy-faq
 
 | Title                                                                           | Last Modified           | Created                 |
@@ -770,7 +773,7 @@ https://help.twitch.tv/s/article/authy-faq
 | Authy Frågor och svar                                                           | 02/05/2023, 3:00:18 am  | 02/05/2023, 3:00:16 am  |
 
 
-## ban-evasion
+### ban-evasion
 https://help.twitch.tv/s/article/ban-evasion
 
 | Title                                                    | Last Modified          | Created                 |
@@ -784,7 +787,7 @@ https://help.twitch.tv/s/article/ban-evasion
 | Einstellungen für verdächtige Benutzer                   | 22/07/2022, 2:42:03 am | 01/07/2022, 4:49:25 am  |
 
 
-## basic-troubleshooting-tips
+### basic-troubleshooting-tips
 https://help.twitch.tv/s/article/basic-troubleshooting-tips
 
 | Title                      | Last Modified          | Created                 |
@@ -792,7 +795,7 @@ https://help.twitch.tv/s/article/basic-troubleshooting-tips
 | Basic Troubleshooting Tips | 30/04/2022, 5:32:13 am | 30/04/2022, 5:21:53 am  |
 
 
-## bits-price-adjustment
+### bits-price-adjustment
 https://help.twitch.tv/s/article/bits-price-adjustment
 
 | Title                          | Last Modified          | Created                  |
@@ -807,7 +810,7 @@ https://help.twitch.tv/s/article/bits-price-adjustment
 | Korekta ceny Bitsów            | 16/11/2022, 6:10:31 am | 08/11/2022, 0:58:12 pm   |
 
 
-## bits-purchase-troubleshooting
+### bits-purchase-troubleshooting
 https://help.twitch.tv/s/article/bits-purchase-troubleshooting
 
 | Title                                                                                            | Last Modified          | Created                 |
@@ -819,7 +822,7 @@ https://help.twitch.tv/s/article/bits-purchase-troubleshooting
 | Guía de solución de problemas de compra de Bits y preguntas frecuentes sobre errores de pago     | 22/10/2021, 8:53:50 am | 20/11/2019, 3:04:44 am  |
 
 
-## boost-this-stream
+### boost-this-stream
 https://help.twitch.tv/s/article/boost-this-stream
 
 | Title                         | Last Modified           | Created                 |
@@ -832,7 +835,7 @@ https://help.twitch.tv/s/article/boost-this-stream
 | Dê um boost nessa transmissão | 30/09/2021, 11:26:48 am | 22/06/2021, 7:21:03 am  |
 
 
-## boost-train
+### boost-train
 https://help.twitch.tv/s/article/boost-train
 
 | Title                      | Last Modified          | Created                 |
@@ -847,7 +850,7 @@ https://help.twitch.tv/s/article/boost-train
 | Leitfaden zu Boost Trains  | 20/09/2022, 2:34:35 am | 30/08/2022, 3:36:03 pm  |
 
 
-## bounty-board-program-information-and-faq
+### bounty-board-program-information-and-faq
 https://help.twitch.tv/s/article/bounty-board-program-information-and-faq
 
 | Title                                                                         | Last Modified           | Created                  |
@@ -862,7 +865,7 @@ https://help.twitch.tv/s/article/bounty-board-program-information-and-faq
 | Bounty Board Program Information and FAQ                                      | 23/10/2021, 10:24:47 am | 23/10/2021, 10:22:59 am  |
 
 
-## Bounty-Board-Service-Advertiser-Terms
+### Bounty-Board-Service-Advertiser-Terms
 https://help.twitch.tv/s/article/Bounty-Board-Service-Advertiser-Terms
 
 | Title                                 | Last Modified           | Created                 |
@@ -870,7 +873,7 @@ https://help.twitch.tv/s/article/Bounty-Board-Service-Advertiser-Terms
 | Bounty Board Service Advertiser Terms | 30/09/2021, 11:26:48 am | 07/06/2019, 5:03:35 am  |
 
 
-## branded-content-policy
+### branded-content-policy
 https://help.twitch.tv/s/article/branded-content-policy
 
 | Title                     | Last Modified           | Created                 |
@@ -879,7 +882,7 @@ https://help.twitch.tv/s/article/branded-content-policy
 | Branded Content Policy    | 03/05/2023, 8:42:07 am  | 03/05/2023, 8:41:50 am  |
 
 
-## broadcast-guidelines
+### broadcast-guidelines
 https://help.twitch.tv/s/article/broadcast-guidelines
 
 | Title                           | Last Modified          | Created                 |
@@ -891,7 +894,7 @@ https://help.twitch.tv/s/article/broadcast-guidelines
 | Broadcast Guidelines            | 22/10/2021, 8:53:06 am | 07/11/2020, 5:01:54 am  |
 
 
-## broadcasting-guidelines
+### broadcasting-guidelines
 https://help.twitch.tv/s/article/broadcasting-guidelines
 
 | Title                   | Last Modified          | Created                 |
@@ -899,7 +902,7 @@ https://help.twitch.tv/s/article/broadcasting-guidelines
 | Broadcasting Guidelines | 26/05/2023, 3:10:33 am | 26/05/2023, 3:10:13 am  |
 
 
-## browser-extensions-twitch
+### browser-extensions-twitch
 https://help.twitch.tv/s/article/browser-extensions-twitch
 
 | Title                              | Last Modified           | Created                  |
@@ -913,7 +916,7 @@ https://help.twitch.tv/s/article/browser-extensions-twitch
 | Browser Extensions & Twitch        | 08/03/2022, 6:46:33 am  | 08/03/2022, 6:46:24 am   |
 
 
-## cancelling-subscriptions
+### cancelling-subscriptions
 https://help.twitch.tv/s/article/cancelling-subscriptions
 
 | Title                                   | Last Modified          | Created                  |
@@ -928,7 +931,7 @@ https://help.twitch.tv/s/article/cancelling-subscriptions
 | Cómo cancelar una suscripción en Twitch | 14/12/2021, 8:50:31 am | 14/12/2021, 8:50:30 am   |
 
 
-## capturing-sources
+### capturing-sources
 https://help.twitch.tv/s/article/capturing-sources
 
 | Title                                                            | Last Modified          | Created                 |
@@ -941,7 +944,7 @@ https://help.twitch.tv/s/article/capturing-sources
 | Captura de Fontes com o Twitch Studio (Compartilhamento de Tela) | 22/10/2021, 8:54:19 am | 20/10/2020, 5:48:58 am  |
 
 
-## celebrate-kpop
+### celebrate-kpop
 https://help.twitch.tv/s/article/celebrate-kpop
 
 | Title                                                                                      | Last Modified           | Created                 |
@@ -954,7 +957,7 @@ https://help.twitch.tv/s/article/celebrate-kpop
 | Perguntas frequentes de Fãs de K-Pop Unidos                                                | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
 
 
-## Changes-to-Subscription-Badges-and-Resub-Messages
+### Changes-to-Subscription-Badges-and-Resub-Messages
 https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages
 
 | Title                                                                              | Last Modified          | Created                 |
@@ -969,7 +972,7 @@ https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messag
 | Muutokset tilaaja-ansiomerkkeihin ja uusintatilausviesteihin                       | 22/10/2021, 8:53:50 am | 27/02/2019, 2:25:06 pm  |
 
 
-## channel-analytics
+### channel-analytics
 https://help.twitch.tv/s/article/channel-analytics
 
 | Title                     | Last Modified          | Created                  |
@@ -980,7 +983,7 @@ https://help.twitch.tv/s/article/channel-analytics
 | Análise de Canal          | 24/05/2023, 4:01:50 am | 24/05/2023, 4:01:50 am   |
 
 
-## channel-page-setup
+### channel-page-setup
 https://help.twitch.tv/s/article/channel-page-setup
 
 | Title                                  | Last Modified          | Created                 |
@@ -998,7 +1001,7 @@ https://help.twitch.tv/s/article/channel-page-setup
 | Kanalsideoppsett                       | 28/10/2022, 8:22:51 am | 28/10/2022, 8:22:50 am  |
 
 
-## channel-points-faq
+### channel-points-faq
 https://help.twitch.tv/s/article/channel-points-faq
 
 | Title                              | Last Modified          | Created                 |
@@ -1010,7 +1013,7 @@ https://help.twitch.tv/s/article/channel-points-faq
 | Kanal Sadakat Puanları SSS         | 21/04/2022, 5:02:27 am | 21/04/2022, 5:02:27 am  |
 
 
-## channel-points-guide
+### channel-points-guide
 https://help.twitch.tv/s/article/channel-points-guide
 
 | Title                                         | Last Modified          | Created                 |
@@ -1024,7 +1027,7 @@ https://help.twitch.tv/s/article/channel-points-guide
 | Leitfaden zu Kanalpunkten für Creator         | 28/10/2022, 8:25:44 am | 28/10/2022, 8:25:44 am  |
 
 
-## channel-points-predictions
+### channel-points-predictions
 https://help.twitch.tv/s/article/channel-points-predictions
 
 | Title                          | Last Modified          | Created                 |
@@ -1034,7 +1037,7 @@ https://help.twitch.tv/s/article/channel-points-predictions
 | Palpites com Pontos do Canal   | 30/07/2022, 4:23:37 am | 30/07/2022, 4:23:36 am  |
 
 
-## charitable-donations
+### charitable-donations
 https://help.twitch.tv/s/article/charitable-donations
 
 | Title                                 | Last Modified           | Created                 |
@@ -1048,7 +1051,7 @@ https://help.twitch.tv/s/article/charitable-donations
 | Charitable Donations                  | 22/09/2022, 4:41:17 am  | 09/09/2022, 7:59:54 am  |
 
 
-## chat-basics
+### chat-basics
 https://help.twitch.tv/s/article/chat-basics
 
 | Title                      | Last Modified           | Created                 |
@@ -1062,7 +1065,7 @@ https://help.twitch.tv/s/article/chat-basics
 | Les bases du chat          | 30/09/2021, 11:26:48 am | 10/06/2021, 6:05:04 am  |
 
 
-## chat-commands
+### chat-commands
 https://help.twitch.tv/s/article/chat-commands
 
 | Title             | Last Modified          | Created                 |
@@ -1091,7 +1094,7 @@ https://help.twitch.tv/s/article/chat-commands
 | Chattkommandon    | 18/11/2022, 1:36:54 pm | 18/11/2022, 1:36:52 pm  |
 
 
-## chat-highlights
+### chat-highlights
 https://help.twitch.tv/s/article/chat-highlights
 
 | Title                           | Last Modified          | Created                 |
@@ -1103,7 +1106,7 @@ https://help.twitch.tv/s/article/chat-highlights
 | Destaques de chat do criador    | 12/04/2023, 4:05:40 am | 12/04/2023, 4:05:39 am  |
 
 
-## chat-verification-settings
+### chat-verification-settings
 https://help.twitch.tv/s/article/chat-verification-settings
 
 | Title                                  | Last Modified          | Created                 |
@@ -1116,7 +1119,7 @@ https://help.twitch.tv/s/article/chat-verification-settings
 | Chat Verification Settings             | 30/09/2021, 4:09:23 am | 25/09/2021, 0:59:39 am  |
 
 
-## cheering-experiment-2022
+### cheering-experiment-2022
 https://help.twitch.tv/s/article/cheering-experiment-2022
 
 | Title                       | Last Modified           | Created                  |
@@ -1130,7 +1133,7 @@ https://help.twitch.tv/s/article/cheering-experiment-2022
 | Faciliter le Cheering       | 27/10/2022, 11:02:36 am | 27/10/2022, 11:02:35 am  |
 
 
-## cheering-for-partners-affiliates
+### cheering-for-partners-affiliates
 https://help.twitch.tv/s/article/cheering-for-partners-affiliates
 
 | Title                                        | Last Modified          | Created                  |
@@ -1147,7 +1150,7 @@ https://help.twitch.tv/s/article/cheering-for-partners-affiliates
 | Partner ve İştirakler için Cheering          | 02/02/2023, 2:38:24 am | 12/01/2023, 11:26:09 am  |
 
 
-## children-on-twitch
+### children-on-twitch
 https://help.twitch.tv/s/article/children-on-twitch
 
 | Title                  | Last Modified           | Created                 |
@@ -1162,7 +1165,7 @@ https://help.twitch.tv/s/article/children-on-twitch
 | Children on Twitch     | 22/10/2021, 8:53:32 am  | 05/06/2019, 9:36:20 am  |
 
 
-## clips-settings
+### clips-settings
 https://help.twitch.tv/s/article/clips-settings
 
 | Title                      | Last Modified          | Created                  |
@@ -1177,7 +1180,7 @@ https://help.twitch.tv/s/article/clips-settings
 | Paramètres de clips        | 12/05/2023, 6:54:57 am | 06/05/2023, 6:01:41 am   |
 
 
-## community-challenges
+### community-challenges
 https://help.twitch.tv/s/article/community-challenges
 
 | Title                                     | Last Modified           | Created                  |
@@ -1191,7 +1194,7 @@ https://help.twitch.tv/s/article/community-challenges
 | Leitfaden für Community-Herausforderungen | 30/09/2021, 11:26:49 am | 22/07/2021, 10:10:38 am  |
 
 
-## community-meetups-powered-by-twitch
+### community-meetups-powered-by-twitch
 https://help.twitch.tv/s/article/community-meetups-powered-by-twitch
 
 | Title                                                                                     | Last Modified          | Created                 |
@@ -1210,7 +1213,7 @@ https://help.twitch.tv/s/article/community-meetups-powered-by-twitch
 | Encontros da comunidade, apoiados pela Twitch                                             | 22/10/2021, 8:54:26 am | 28/02/2019, 9:38:48 am  |
 
 
-## contacting-partner-help
+### contacting-partner-help
 https://help.twitch.tv/s/article/contacting-partner-help
 
 | Title                                  | Last Modified          | Created                 |
@@ -1226,7 +1229,7 @@ https://help.twitch.tv/s/article/contacting-partner-help
 | Partnerhilfe kontaktieren              | 22/10/2021, 8:53:22 am | 22/01/2020, 1:24:41 am  |
 
 
-## contacting-purchase-support
+### contacting-purchase-support
 https://help.twitch.tv/s/article/contacting-purchase-support
 
 | Title                                                | Last Modified          | Created                 |
@@ -1240,7 +1243,7 @@ https://help.twitch.tv/s/article/contacting-purchase-support
 | Kauf-Support kontaktieren                            | 22/10/2021, 8:53:50 am | 21/01/2021, 4:12:45 am  |
 
 
-## copyrighted-audio-warnings
+### copyrighted-audio-warnings
 https://help.twitch.tv/s/article/copyrighted-audio-warnings
 
 | Title                                                                       | Last Modified          | Created                  |
@@ -1254,7 +1257,7 @@ https://help.twitch.tv/s/article/copyrighted-audio-warnings
 | Ostrzeżenia i wykrywanie dźwięku chronionego prawami autorskimi             | 31/03/2022, 3:30:06 am | 10/03/2022, 5:51:03 am   |
 
 
-## cosplay-contest-rules-2020
+### cosplay-contest-rules-2020
 https://help.twitch.tv/s/article/cosplay-contest-rules-2020
 
 | Title                      | Last Modified           | Created                 |
@@ -1262,7 +1265,7 @@ https://help.twitch.tv/s/article/cosplay-contest-rules-2020
 | Cosplay Contest Rules 2020 | 30/09/2021, 11:26:49 am | 29/09/2020, 0:39:04 pm  |
 
 
-## creating-a-strong-password
+### creating-a-strong-password
 https://help.twitch.tv/s/article/creating-a-strong-password
 
 | Title                                      | Last Modified          | Created                 |
@@ -1277,7 +1280,7 @@ https://help.twitch.tv/s/article/creating-a-strong-password
 | Güçlü bir parola oluşturma                 | 18/05/2022, 0:39:26 am | 18/05/2022, 0:39:25 am  |
 
 
-## creating-an-account-with-twitch
+### creating-an-account-with-twitch
 https://help.twitch.tv/s/article/creating-an-account-with-twitch
 
 | Title                             | Last Modified          | Created                 |
@@ -1294,7 +1297,7 @@ https://help.twitch.tv/s/article/creating-an-account-with-twitch
 | Opret en konto hos Twitch         | 15/12/2021, 8:12:08 am | 15/12/2021, 8:12:06 am  |
 
 
-## creating-highlights-and-stream-markers
+### creating-highlights-and-stream-markers
 https://help.twitch.tv/s/article/creating-highlights-and-stream-markers
 
 | Title                                                    | Last Modified          | Created                 |
@@ -1309,7 +1312,7 @@ https://help.twitch.tv/s/article/creating-highlights-and-stream-markers
 | Erstellen von Highlights und Stream-Markierungen         | 22/10/2021, 8:53:03 am | 14/07/2020, 9:55:28 pm  |
 
 
-## creator-chat-highlights
+### creator-chat-highlights
 https://help.twitch.tv/s/article/creator-chat-highlights
 
 | Title                         | Last Modified          | Created                 |
@@ -1317,7 +1320,7 @@ https://help.twitch.tv/s/article/creator-chat-highlights
 | Destacado de chat del creador | 12/04/2023, 4:05:40 am | 12/04/2023, 4:05:39 am  |
 
 
-## creator-dashboard
+### creator-dashboard
 https://help.twitch.tv/s/article/creator-dashboard
 
 | Title                         | Last Modified           | Created                  |
@@ -1331,7 +1334,7 @@ https://help.twitch.tv/s/article/creator-dashboard
 | Creator Dashboard             | 24/05/2023, 4:02:04 am  | 23/05/2023, 11:18:15 am  |
 
 
-## creator-goals
+### creator-goals
 https://help.twitch.tv/s/article/creator-goals
 
 | Title                 | Last Modified           | Created                 |
@@ -1346,7 +1349,7 @@ https://help.twitch.tv/s/article/creator-goals
 | Creator Goals         | 09/03/2023, 4:21:18 am  | 09/03/2023, 4:19:11 am  |
 
 
-## custom-bit-badges-guide
+### custom-bit-badges-guide
 https://help.twitch.tv/s/article/custom-bit-badges-guide
 
 | Title                                                                | Last Modified          | Created                 |
@@ -1359,7 +1362,7 @@ https://help.twitch.tv/s/article/custom-bit-badges-guide
 | Individuelle Bit-Abzeichen und Slots für Emote-Belohnungen           | 22/10/2021, 8:53:22 am | 10/06/2021, 6:04:46 am  |
 
 
-## date-of-birth-changes
+### date-of-birth-changes
 https://help.twitch.tv/s/article/date-of-birth-changes
 
 | Title                               | Last Modified          | Created                 |
@@ -1373,7 +1376,7 @@ https://help.twitch.tv/s/article/date-of-birth-changes
 | Modifiche alla data di nascita      | 13/05/2022, 2:48:02 am | 13/05/2022, 2:48:02 am  |
 
 
-## default-emotes
+### default-emotes
 https://help.twitch.tv/s/article/default-emotes
 
 | Title                      | Last Modified          | Created                 |
@@ -1386,7 +1389,7 @@ https://help.twitch.tv/s/article/default-emotes
 | Default Emotes             | 19/11/2021, 5:11:32 am | 13/10/2021, 4:22:51 am  |
 
 
-## delete-twitch-account
+### delete-twitch-account
 https://help.twitch.tv/s/article/delete-twitch-account
 
 | Title                             | Last Modified           | Created                  |
@@ -1399,7 +1402,7 @@ https://help.twitch.tv/s/article/delete-twitch-account
 | Delete My Twitch Account          | 08/02/2023, 10:02:25 am | 08/02/2023, 9:52:08 am   |
 
 
-## disabling-prerolls
+### disabling-prerolls
 https://help.twitch.tv/s/article/disabling-prerolls
 
 | Title                                     | Last Modified          | Created                 |
@@ -1413,7 +1416,7 @@ https://help.twitch.tv/s/article/disabling-prerolls
 | Disabling Prerolls                        | 30/03/2023, 8:16:29 am | 21/03/2023, 4:36:10 am  |
 
 
-## Disconnect-Protection
+### Disconnect-Protection
 https://help.twitch.tv/s/article/Disconnect-Protection
 
 | Title                   | Last Modified          | Created                 |
@@ -1422,7 +1425,7 @@ https://help.twitch.tv/s/article/Disconnect-Protection
 | Disconnect Protection   | 17/06/2022, 7:12:48 am | 17/06/2022, 7:12:39 am  |
 
 
-## discovery
+### discovery
 https://help.twitch.tv/s/article/discovery
 
 | Title          | Last Modified          | Created                 |
@@ -1438,7 +1441,7 @@ https://help.twitch.tv/s/article/discovery
 | Odkrywaj       | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
 
 
-## display-names-on-twitch
+### display-names-on-twitch
 https://help.twitch.tv/s/article/display-names-on-twitch
 
 | Title                          | Last Modified           | Created                  |
@@ -1451,7 +1454,7 @@ https://help.twitch.tv/s/article/display-names-on-twitch
 | Nomi visualizzati su Twitch    | 09/02/2023, 11:49:16 am | 11/01/2023, 10:29:27 am  |
 
 
-## dmca-and-copyright-faqs
+### dmca-and-copyright-faqs
 https://help.twitch.tv/s/article/dmca-and-copyright-faqs
 
 | Title                                        | Last Modified          | Created                 |
@@ -1467,7 +1470,7 @@ https://help.twitch.tv/s/article/dmca-and-copyright-faqs
 | FAQ zu DMCA und Urheberrecht                 | 22/10/2021, 8:53:26 am | 13/08/2021, 5:22:15 am  |
 
 
-## earning-revenue-from-bits-in-extensions
+### earning-revenue-from-bits-in-extensions
 https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions
 
 | Title                                                      | Last Modified          | Created                 |
@@ -1481,7 +1484,7 @@ https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions
 | Gagner de l'argent avec les bits dans les extensions       | 21/10/2022, 7:25:41 am | 30/09/2022, 7:54:28 am  |
 
 
-## earning-revenue-from-bits-in-extensions-beta
+### earning-revenue-from-bits-in-extensions-beta
 https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta
 
 | Title                                                              | Last Modified          | Created                 |
@@ -1492,7 +1495,7 @@ https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta
 | Inkomsten verdienen uit Bits in extensies bèta                     | 21/10/2022, 7:25:40 am | 21/10/2022, 7:25:39 am  |
 
 
-## elevated-chat
+### elevated-chat
 https://help.twitch.tv/s/article/elevated-chat
 
 | Title         | Last Modified          | Created                 |
@@ -1500,7 +1503,7 @@ https://help.twitch.tv/s/article/elevated-chat
 | Elevated Chat | 01/10/2022, 8:00:08 am | 01/10/2022, 7:55:14 am  |
 
 
-## emote-analytics
+### emote-analytics
 https://help.twitch.tv/s/article/emote-analytics
 
 | Title                  | Last Modified           | Created                 |
@@ -1515,7 +1518,7 @@ https://help.twitch.tv/s/article/emote-analytics
 | Emote Analytics        | 13/05/2023, 7:37:04 am  | 13/05/2023, 7:36:47 am  |
 
 
-## emote-guidelines
+### emote-guidelines
 https://help.twitch.tv/s/article/emote-guidelines
 
 | Title                       | Last Modified           | Created                 |
@@ -1528,7 +1531,7 @@ https://help.twitch.tv/s/article/emote-guidelines
 | Emote Guidelines            | 02/08/2022, 6:41:39 am  | 02/08/2022, 6:25:43 am  |
 
 
-## emote-library
+### emote-library
 https://help.twitch.tv/s/article/emote-library
 
 | Title                     | Last Modified          | Created                 |
@@ -1543,7 +1546,7 @@ https://help.twitch.tv/s/article/emote-library
 | Emote Library             | 19/11/2021, 5:11:21 am | 01/10/2021, 2:01:15 pm  |
 
 
-## emote-slots
+### emote-slots
 https://help.twitch.tv/s/article/emote-slots
 
 | Title                     | Last Modified          | Created                 |
@@ -1555,7 +1558,7 @@ https://help.twitch.tv/s/article/emote-slots
 | Emote Slots               | 02/12/2022, 8:44:38 am | 02/12/2022, 8:44:21 am  |
 
 
-## engagement
+### engagement
 https://help.twitch.tv/s/article/engagement
 
 | Title                       | Last Modified           | Created                 |
@@ -1570,7 +1573,7 @@ https://help.twitch.tv/s/article/engagement
 | Engagement Analytics        | 13/05/2023, 6:34:34 am  | 13/05/2023, 6:34:13 am  |
 
 
-## esports-directory
+### esports-directory
 https://help.twitch.tv/s/article/esports-directory
 
 | Title                 | Last Modified          | Created                 |
@@ -1586,7 +1589,7 @@ https://help.twitch.tv/s/article/esports-directory
 | Katalog esportu       | 21/10/2022, 7:24:58 am | 30/09/2022, 7:49:57 am  |
 
 
-## experiments
+### experiments
 https://help.twitch.tv/s/article/experiments
 
 | Title                          | Last Modified           | Created                 |
@@ -1599,7 +1602,7 @@ https://help.twitch.tv/s/article/experiments
 | Experimentos da Twitch         | 24/05/2023, 9:25:02 am  | 17/05/2023, 9:05:35 am  |
 
 
-## extensions-switch-with-your-game-selection
+### extensions-switch-with-your-game-selection
 https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection
 
 | Title                                                                  | Last Modified          | Created                 |
@@ -1613,7 +1616,7 @@ https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection
 | Les extensions peuvent maintenant basculer sur votre sélection de jeux | 22/10/2021, 8:53:11 am | 01/11/2019, 2:47:17 am  |
 
 
-## failed-payments
+### failed-payments
 https://help.twitch.tv/s/article/failed-payments
 
 | Title                                      | Last Modified           | Created                  |
@@ -1628,7 +1631,7 @@ https://help.twitch.tv/s/article/failed-payments
 | Failed Payments for Subscriptions          | 09/10/2021, 6:52:36 am  | 09/10/2021, 6:49:24 am   |
 
 
-## first-steps-for-new-affiliates
+### first-steps-for-new-affiliates
 https://help.twitch.tv/s/article/first-steps-for-new-affiliates
 
 | Title                              | Last Modified          | Created                 |
@@ -1637,7 +1640,7 @@ https://help.twitch.tv/s/article/first-steps-for-new-affiliates
 | First Steps for New Affiliates     | 17/02/2023, 9:35:43 am | 17/02/2023, 9:35:05 am  |
 
 
-## first-time-chatter-highlight
+### first-time-chatter-highlight
 https://help.twitch.tv/s/article/first-time-chatter-highlight
 
 | Title                                                       | Last Modified          | Created                 |
@@ -1650,7 +1653,7 @@ https://help.twitch.tv/s/article/first-time-chatter-highlight
 | First-Time Chatter Highlight                                | 19/10/2021, 9:09:43 am | 19/10/2021, 9:09:29 am  |
 
 
-## follow-cue
+### follow-cue
 https://help.twitch.tv/s/article/follow-cue
 
 | Title                 | Last Modified          | Created                  |
@@ -1660,7 +1663,7 @@ https://help.twitch.tv/s/article/follow-cue
 | Follower Cue          | 30/09/2022, 5:59:59 am | 07/09/2022, 10:29:09 am  |
 
 
-## follower-emotes
+### follower-emotes
 https://help.twitch.tv/s/article/follower-emotes
 
 | Title                    | Last Modified          | Created                  |
@@ -1674,7 +1677,7 @@ https://help.twitch.tv/s/article/follower-emotes
 | Follower-Emotes          | 15/12/2022, 7:29:47 am | 09/12/2022, 11:00:21 am  |
 
 
-## founders-badge
+### founders-badge
 https://help.twitch.tv/s/article/founders-badge
 
 | Title                            | Last Modified           | Created                 |
@@ -1685,7 +1688,7 @@ https://help.twitch.tv/s/article/founders-badge
 | Kurucu Rozeti nedir?             | 07/12/2022, 10:11:03 pm | 06/12/2022, 9:49:20 am  |
 
 
-## games-irl-and-music-directories
+### games-irl-and-music-directories
 https://help.twitch.tv/s/article/games-irl-and-music-directories
 
 | Title                                   | Last Modified          | Created                 |
@@ -1699,7 +1702,7 @@ https://help.twitch.tv/s/article/games-irl-and-music-directories
 | Katalogi „Gry”, „IRL” i „Muzyka”        | 28/07/2022, 3:03:22 am | 30/06/2022, 8:03:56 am  |
 
 
-## geoblocking
+### geoblocking
 https://help.twitch.tv/s/article/geoblocking
 
 | Title                                       | Last Modified           | Created                  |
@@ -1710,7 +1713,7 @@ https://help.twitch.tv/s/article/geoblocking
 | O que é geobloqueio?                        | 13/02/2023, 1:49:02 am  | 09/02/2023, 10:59:47 am  |
 
 
-## getting-started-twitch-studio
+### getting-started-twitch-studio
 https://help.twitch.tv/s/article/getting-started-twitch-studio
 
 | Title                              | Last Modified          | Created                 |
@@ -1721,7 +1724,7 @@ https://help.twitch.tv/s/article/getting-started-twitch-studio
 | Getting Started with Twitch Studio | 26/10/2022, 4:12:48 am | 27/09/2022, 8:43:48 am  |
 
 
-## getting-started-with-amazon-associates
+### getting-started-with-amazon-associates
 https://help.twitch.tv/s/article/getting-started-with-amazon-associates
 
 | Title                                                              | Last Modified          | Created                 |
@@ -1739,7 +1742,7 @@ https://help.twitch.tv/s/article/getting-started-with-amazon-associates
 | Mit Amazon Associates auf Twitch Einnahmen generieren              | 22/10/2021, 8:53:04 am | 31/05/2019, 7:26:35 am  |
 
 
-## gift-card
+### gift-card
 https://help.twitch.tv/s/article/gift-card
 
 | Title                                  | Last Modified          | Created                 |
@@ -1752,7 +1755,7 @@ https://help.twitch.tv/s/article/gift-card
 | Kupowanie Twitch Gift Card             | 27/01/2023, 3:03:45 am | 06/01/2023, 1:48:07 pm  |
 
 
-## gift-card-redeem
+### gift-card-redeem
 https://help.twitch.tv/s/article/gift-card-redeem
 
 | Title                                  | Last Modified          | Created                 |
@@ -1762,7 +1765,7 @@ https://help.twitch.tv/s/article/gift-card-redeem
 | Einlösen von Twitch-Geschenkkarten     | 27/01/2023, 3:03:46 am | 06/01/2023, 1:41:26 pm  |
 
 
-## gift-card-spend
+### gift-card-spend
 https://help.twitch.tv/s/article/gift-card-spend
 
 | Title                                            | Last Modified          | Created                 |
@@ -1773,7 +1776,7 @@ https://help.twitch.tv/s/article/gift-card-spend
 | Dépenser des cartes cadeaux Twitch               | 26/05/2023, 3:15:23 am | 26/05/2023, 3:15:23 am  |
 
 
-## gift-subscriptions
+### gift-subscriptions
 https://help.twitch.tv/s/article/gift-subscriptions
 
 | Title                  | Last Modified          | Created                 |
@@ -1791,7 +1794,7 @@ https://help.twitch.tv/s/article/gift-subscriptions
 | Gift Subscriptions     | 18/11/2022, 6:01:10 am | 18/11/2022, 6:00:11 am  |
 
 
-## gift-subscriptions-for-creators
+### gift-subscriptions-for-creators
 https://help.twitch.tv/s/article/gift-subscriptions-for-creators
 
 | Title                                          | Last Modified           | Created                  |
@@ -1805,7 +1808,7 @@ https://help.twitch.tv/s/article/gift-subscriptions-for-creators
 | Gift Subscriptions For Creators                | 07/12/2022, 4:53:16 am  | 06/12/2022, 10:20:45 am  |
 
 
-## glitchcon-sweepstakes-rules
+### glitchcon-sweepstakes-rules
 https://help.twitch.tv/s/article/glitchcon-sweepstakes-rules
 
 | Title                                                      | Last Modified          | Created                 |
@@ -1813,7 +1816,7 @@ https://help.twitch.tv/s/article/glitchcon-sweepstakes-rules
 | GlitchCon Stream Makeover 2020 Sweepstakes: Official Rules | 22/10/2021, 8:54:27 am | 13/04/2021, 7:22:16 am  |
 
 
-## green-screen-setup
+### green-screen-setup
 https://help.twitch.tv/s/article/green-screen-setup
 
 | Title                                                 | Last Modified          | Created                 |
@@ -1827,7 +1830,7 @@ https://help.twitch.tv/s/article/green-screen-setup
 | Como configurar uma tela verde com o Twitch Studio    | 22/10/2021, 8:54:19 am | 20/10/2020, 5:50:45 am  |
 
 
-## growth-with-amazon-music
+### growth-with-amazon-music
 https://help.twitch.tv/s/article/growth-with-amazon-music
 
 | Title                                               | Last Modified           | Created                 |
@@ -1843,7 +1846,7 @@ https://help.twitch.tv/s/article/growth-with-amazon-music
 | Impulsa el crecimiento de tu canal con Amazon Music | 30/09/2021, 11:26:49 am | 25/08/2020, 7:13:58 am  |
 
 
-## guest-request-to-join
+### guest-request-to-join
 https://help.twitch.tv/s/article/guest-request-to-join
 
 | Title                                                          | Last Modified          | Created                 |
@@ -1855,7 +1858,7 @@ https://help.twitch.tv/s/article/guest-request-to-join
 | Guest Star Request to Join for Viewers                         | 06/01/2023, 5:32:54 pm | 06/01/2023, 5:32:14 pm  |
 
 
-## guest-star
+### guest-star
 https://help.twitch.tv/s/article/guest-star
 
 | Title             | Last Modified          | Created                 |
@@ -1872,7 +1875,7 @@ https://help.twitch.tv/s/article/guest-star
 | Guest Star        | 06/01/2023, 5:23:28 pm | 06/01/2023, 5:21:49 pm  |
 
 
-## guest-star-audio
+### guest-star-audio
 https://help.twitch.tv/s/article/guest-star-audio
 
 | Title                                               | Last Modified          | Created                 |
@@ -1885,7 +1888,7 @@ https://help.twitch.tv/s/article/guest-star-audio
 | Panoramica audio di Guest Star                      | 10/05/2023, 9:20:09 am | 10/05/2023, 9:20:08 am  |
 
 
-## guest-star-browser-source
+### guest-star-browser-source
 https://help.twitch.tv/s/article/guest-star-browser-source
 
 | Title                                             | Last Modified           | Created                 |
@@ -1900,7 +1903,7 @@ https://help.twitch.tv/s/article/guest-star-browser-source
 | Guest Star Browser Source Modes                   | 07/03/2023, 3:52:07 am  | 07/03/2023, 3:51:21 am  |
 
 
-## guest-star-faqs
+### guest-star-faqs
 https://help.twitch.tv/s/article/guest-star-faqs
 
 | Title                                        | Last Modified          | Created                 |
@@ -1913,7 +1916,7 @@ https://help.twitch.tv/s/article/guest-star-faqs
 | Guest Star FAQs                              | 09/05/2023, 7:04:03 am | 02/05/2023, 4:41:49 am  |
 
 
-## guest-star-getting-started
+### guest-star-getting-started
 https://help.twitch.tv/s/article/guest-star-getting-started
 
 | Title                            | Last Modified          | Created                 |
@@ -1926,7 +1929,7 @@ https://help.twitch.tv/s/article/guest-star-getting-started
 | Erste Schritte mit Guest Star    | 09/05/2023, 7:02:49 am | 02/05/2023, 5:46:47 am  |
 
 
-## guest-star-mod-view
+### guest-star-mod-view
 https://help.twitch.tv/s/article/guest-star-mod-view
 
 | Title                              | Last Modified          | Created                 |
@@ -1937,7 +1940,7 @@ https://help.twitch.tv/s/article/guest-star-mod-view
 | Guest Star-Mod-Ansicht             | 09/05/2023, 7:04:45 am | 02/05/2023, 5:47:31 am  |
 
 
-## guest-star-reporting
+### guest-star-reporting
 https://help.twitch.tv/s/article/guest-star-reporting
 
 | Title                                     | Last Modified           | Created                  |
@@ -1950,7 +1953,7 @@ https://help.twitch.tv/s/article/guest-star-reporting
 | Guest Star Reporting                      | 28/10/2022, 5:04:08 am  | 22/10/2022, 10:12:06 am  |
 
 
-## guide-to-bits-history
+### guide-to-bits-history
 https://help.twitch.tv/s/article/guide-to-bits-history
 
 | Title                          | Last Modified          | Created                  |
@@ -1966,7 +1969,7 @@ https://help.twitch.tv/s/article/guide-to-bits-history
 | Leitfaden zum Bits-Verlauf     | 17/05/2023, 8:13:31 am | 17/05/2023, 8:13:30 am   |
 
 
-## guide-to-broadcast-health
+### guide-to-broadcast-health
 https://help.twitch.tv/s/article/guide-to-broadcast-health
 
 | Title                                         | Last Modified           | Created                  |
@@ -1980,7 +1983,7 @@ https://help.twitch.tv/s/article/guide-to-broadcast-health
 | Guide to Broadcast Health                     | 24/05/2023, 3:58:17 am  | 23/05/2023, 10:46:35 am  |
 
 
-## guide-to-building-a-moderation-team
+### guide-to-building-a-moderation-team
 https://help.twitch.tv/s/article/guide-to-building-a-moderation-team
 
 | Title                                            | Last Modified          | Created                  |
@@ -1996,7 +1999,7 @@ https://help.twitch.tv/s/article/guide-to-building-a-moderation-team
 | Moderasyon Takımı Oluşturulması Hakkında Kılavuz | 22/10/2021, 8:53:46 am | 26/10/2020, 11:52:45 pm  |
 
 
-## guide-to-cheering-with-bits
+### guide-to-cheering-with-bits
 https://help.twitch.tv/s/article/guide-to-cheering-with-bits
 
 | Title                                  | Last Modified          | Created                  |
@@ -2013,7 +2016,7 @@ https://help.twitch.tv/s/article/guide-to-cheering-with-bits
 | Guide to Cheering with Bits            | 02/02/2023, 2:37:57 am | 02/02/2023, 2:37:54 am   |
 
 
-## guide-to-closed-captions
+### guide-to-closed-captions
 https://help.twitch.tv/s/article/guide-to-closed-captions
 
 | Title                      | Last Modified           | Created                  |
@@ -2028,7 +2031,7 @@ https://help.twitch.tv/s/article/guide-to-closed-captions
 | Guide to Closed Captions   | 22/10/2021, 8:53:12 am  | 07/12/2018, 0:40:52 pm   |
 
 
-## guide-to-custom-messages
+### guide-to-custom-messages
 https://help.twitch.tv/s/article/guide-to-custom-messages
 
 | Title                                        | Last Modified          | Created                 |
@@ -2045,7 +2048,7 @@ https://help.twitch.tv/s/article/guide-to-custom-messages
 | Mukautettujen viestien opas                  | 22/10/2021, 8:53:50 am | 27/02/2019, 2:31:20 pm  |
 
 
-## guide-to-tags
+### guide-to-tags
 https://help.twitch.tv/s/article/guide-to-tags
 
 | Title                                   | Last Modified           | Created                  |
@@ -2064,7 +2067,7 @@ https://help.twitch.tv/s/article/guide-to-tags
 | Merkeguide                              | 04/05/2023, 2:37:27 am  | 04/05/2023, 2:37:25 am   |
 
 
-## guide-to-using-twitch-inspector
+### guide-to-using-twitch-inspector
 https://help.twitch.tv/s/article/guide-to-using-twitch-inspector
 
 | Title                                                 | Last Modified           | Created                 |
@@ -2079,7 +2082,7 @@ https://help.twitch.tv/s/article/guide-to-using-twitch-inspector
 | Guide to Using Twitch Inspector                       | 24/03/2023, 4:15:49 am  | 24/03/2023, 4:11:42 am  |
 
 
-## hindsight-2020
+### hindsight-2020
 https://help.twitch.tv/s/article/hindsight-2020
 
 | Title                                  | Last Modified          | Created                 |
@@ -2092,7 +2095,7 @@ https://help.twitch.tv/s/article/hindsight-2020
 | FAQ Retrospectiva 2020                 | 22/10/2021, 8:54:26 am | 15/12/2020, 6:04:43 am  |
 
 
-## how-do-i-stream-faq
+### how-do-i-stream-faq
 https://help.twitch.tv/s/article/how-do-i-stream-faq
 
 | Title                                       | Last Modified          | Created                 |
@@ -2103,7 +2106,7 @@ https://help.twitch.tv/s/article/how-do-i-stream-faq
 | Nasıl Yayın Yaparım? SSS                    | 20/07/2022, 6:19:44 am | 20/07/2022, 6:19:44 am  |
 
 
-## how-do-thumbnails-work
+### how-do-thumbnails-work
 https://help.twitch.tv/s/article/how-do-thumbnails-work
 
 | Title                                | Last Modified           | Created                 |
@@ -2115,7 +2118,7 @@ https://help.twitch.tv/s/article/how-do-thumbnails-work
 | How do Thumbnails Work?              | 04/04/2023, 6:30:43 am  | 30/03/2023, 9:56:17 am  |
 
 
-## how-does-search-work
+### how-does-search-work
 https://help.twitch.tv/s/article/how-does-search-work
 
 | Title                            | Last Modified          | Created                 |
@@ -2128,7 +2131,7 @@ https://help.twitch.tv/s/article/how-does-search-work
 | Jak działa wyszukiwanie?         | 04/05/2023, 2:38:29 am | 20/04/2023, 6:39:06 am  |
 
 
-## how-subscription-streaks-work
+### how-subscription-streaks-work
 https://help.twitch.tv/s/article/how-subscription-streaks-work
 
 | Title                                                  | Last Modified          | Created                  |
@@ -2143,7 +2146,7 @@ https://help.twitch.tv/s/article/how-subscription-streaks-work
 | Jak działa staż subskrypcji?                           | 09/04/2022, 2:35:28 am | 01/04/2022, 5:54:09 am   |
 
 
-## how-to-appeal-flagged-content
+### how-to-appeal-flagged-content
 https://help.twitch.tv/s/article/how-to-appeal-flagged-content
 
 | Title                                                   | Last Modified          | Created                 |
@@ -2159,7 +2162,7 @@ https://help.twitch.tv/s/article/how-to-appeal-flagged-content
 | Odwołania od wyciszonego dźwięku                        | 22/10/2021, 8:53:42 am | 19/02/2021, 6:02:30 am  |
 
 
-## how-to-claim-in-game-content
+### how-to-claim-in-game-content
 https://help.twitch.tv/s/article/how-to-claim-in-game-content
 
 | Title                                        | Last Modified          | Created                 |
@@ -2180,7 +2183,7 @@ https://help.twitch.tv/s/article/how-to-claim-in-game-content
 | Pelinsisäisen sisällön lunastaminen          | 22/10/2021, 8:53:55 am | 29/05/2020, 8:54:57 am  |
 
 
-## how-to-configure-extensions
+### how-to-configure-extensions
 https://help.twitch.tv/s/article/how-to-configure-extensions
 
 | Title                             | Last Modified          | Created                 |
@@ -2194,7 +2197,7 @@ https://help.twitch.tv/s/article/how-to-configure-extensions
 | How to Configure Extensions       | 26/10/2022, 7:28:06 am | 26/10/2022, 7:27:53 am  |
 
 
-## how-to-contact-extension-developer
+### how-to-contact-extension-developer
 https://help.twitch.tv/s/article/how-to-contact-extension-developer
 
 | Title                                 | Last Modified          | Created                 |
@@ -2215,7 +2218,7 @@ https://help.twitch.tv/s/article/how-to-contact-extension-developer
 | How to Contact an Extension Developer | 26/10/2022, 7:44:01 am | 26/10/2022, 7:44:01 am  |
 
 
-## how-to-delete-and-manage-clips
+### how-to-delete-and-manage-clips
 https://help.twitch.tv/s/article/how-to-delete-and-manage-clips
 
 | Title                                | Last Modified          | Created                  |
@@ -2228,7 +2231,7 @@ https://help.twitch.tv/s/article/how-to-delete-and-manage-clips
 | Klipleri silme ve yönetme            | 12/05/2023, 6:55:05 am | 06/05/2023, 5:59:29 am   |
 
 
-## how-to-edit-info-panels
+### how-to-edit-info-panels
 https://help.twitch.tv/s/article/how-to-edit-info-panels
 
 | Title                                     | Last Modified          | Created                 |
@@ -2243,7 +2246,7 @@ https://help.twitch.tv/s/article/how-to-edit-info-panels
 | Modifier les panneaux d’informations      | 22/10/2021, 8:53:04 am | 09/09/2021, 5:46:04 am  |
 
 
-## how-to-file-a-user-report
+### how-to-file-a-user-report
 https://help.twitch.tv/s/article/how-to-file-a-user-report
 
 | Title                                    | Last Modified          | Created                 |
@@ -2260,7 +2263,7 @@ https://help.twitch.tv/s/article/how-to-file-a-user-report
 | How to File a User Report                | 05/04/2023, 6:11:02 am | 05/04/2023, 6:10:59 am  |
 
 
-## how-to-file-a-video-playback-issue
+### how-to-file-a-video-playback-issue
 https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue
 
 | Title                                                 | Last Modified           | Created                 |
@@ -2273,7 +2276,7 @@ https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue
 | How to File a Video Playback Issue                    | 02/07/2022, 3:50:12 am  | 02/07/2022, 3:49:50 am  |
 
 
-## how-to-find-and-browse-clips
+### how-to-find-and-browse-clips
 https://help.twitch.tv/s/article/how-to-find-and-browse-clips
 
 | Title                                  | Last Modified          | Created                  |
@@ -2289,7 +2292,7 @@ https://help.twitch.tv/s/article/how-to-find-and-browse-clips
 | Klip arama ve bulma                    | 12/05/2023, 6:55:17 am | 06/05/2023, 5:57:31 am   |
 
 
-## how-to-get-and-use-the-ps-app
+### how-to-get-and-use-the-ps-app
 https://help.twitch.tv/s/article/how-to-get-and-use-the-ps-app
 
 | Title                                           | Last Modified           | Created                 |
@@ -2303,7 +2306,7 @@ https://help.twitch.tv/s/article/how-to-get-and-use-the-ps-app
 | How to get and use the PS4 App                  | 22/10/2021, 8:54:13 am  | 27/06/2019, 6:59:03 am  |
 
 
-## how-to-handle-view-follow-bots
+### how-to-handle-view-follow-bots
 https://help.twitch.tv/s/article/how-to-handle-view-follow-bots
 
 | Title                                                                                  | Last Modified          | Created                 |
@@ -2317,7 +2320,7 @@ https://help.twitch.tv/s/article/how-to-handle-view-follow-bots
 | Jak radzić sobie z botowaniem wyświetleń i fałszywym zaangażowaniem?                   | 22/10/2021, 8:53:46 am | 16/04/2021, 2:53:54 am  |
 
 
-## how-to-link-your-amazon-account
+### how-to-link-your-amazon-account
 https://help.twitch.tv/s/article/how-to-link-your-amazon-account
 
 | Title                                | Last Modified          | Created                  |
@@ -2333,7 +2336,7 @@ https://help.twitch.tv/s/article/how-to-link-your-amazon-account
 | Jak połączyć swoje konto Amazon      | 22/10/2021, 8:53:55 am | 04/06/2020, 9:18:01 pm   |
 
 
-## how-to-log-in-to-twitch-with-one-click
+### how-to-log-in-to-twitch-with-one-click
 https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click
 
 | Title                                          | Last Modified          | Created                 |
@@ -2346,7 +2349,7 @@ https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click
 | Como fazer login na Twitch com um clique       | 22/10/2021, 8:52:22 am | 11/03/2020, 6:53:10 am  |
 
 
-## how-to-manage-harassment-in-chat
+### how-to-manage-harassment-in-chat
 https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat
 
 | Title                                       | Last Modified          | Created                 |
@@ -2366,7 +2369,7 @@ https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat
 | Jak zvládat obtěžování v chatu              | 01/12/2022, 5:24:49 am | 01/12/2022, 5:24:47 am  |
 
 
-## how-to-perform-a-traceroute-to-twitch
+### how-to-perform-a-traceroute-to-twitch
 https://help.twitch.tv/s/article/how-to-perform-a-traceroute-to-twitch
 
 | Title                                 | Last Modified           | Created                 |
@@ -2374,7 +2377,7 @@ https://help.twitch.tv/s/article/how-to-perform-a-traceroute-to-twitch
 | How to Perform a Traceroute to Twitch | 30/09/2021, 11:26:48 am | 07/12/2018, 0:37:08 pm  |
 
 
-## how-to-provide-feedback
+### how-to-provide-feedback
 https://help.twitch.tv/s/article/how-to-provide-feedback
 
 | Title                          | Last Modified          | Created                 |
@@ -2389,7 +2392,7 @@ https://help.twitch.tv/s/article/how-to-provide-feedback
 | Feedback geben                 | 22/10/2021, 8:39:56 am | 22/01/2021, 2:57:20 am  |
 
 
-## how-to-purchase-bits
+### how-to-purchase-bits
 https://help.twitch.tv/s/article/how-to-purchase-bits
 
 | Title                    | Last Modified          | Created                  |
@@ -2404,7 +2407,7 @@ https://help.twitch.tv/s/article/how-to-purchase-bits
 | Jak kupować Bitsy?       | 02/02/2023, 2:38:28 am | 12/01/2023, 11:55:47 am  |
 
 
-## how-to-send-error-information
+### how-to-send-error-information
 https://help.twitch.tv/s/article/how-to-send-error-information
 
 | Title                         | Last Modified           | Created                 |
@@ -2412,7 +2415,7 @@ https://help.twitch.tv/s/article/how-to-send-error-information
 | How to send error information | 30/09/2021, 11:26:48 am | 07/12/2018, 0:37:10 pm  |
 
 
-## how-to-send-in-console-output
+### how-to-send-in-console-output
 https://help.twitch.tv/s/article/how-to-send-in-console-output
 
 | Title                         | Last Modified           | Created                 |
@@ -2420,7 +2423,7 @@ https://help.twitch.tv/s/article/how-to-send-in-console-output
 | How to Send in Console Output | 30/09/2021, 11:26:48 am | 07/12/2018, 0:37:10 pm  |
 
 
-## how-to-share-a-stream
+### how-to-share-a-stream
 https://help.twitch.tv/s/article/how-to-share-a-stream
 
 | Title                             | Last Modified           | Created                 |
@@ -2435,7 +2438,7 @@ https://help.twitch.tv/s/article/how-to-share-a-stream
 | How to Share A Stream             | 06/01/2023, 0:51:20 pm  | 06/01/2023, 0:34:11 pm  |
 
 
-## how-to-subscribe
+### how-to-subscribe
 https://help.twitch.tv/s/article/how-to-subscribe
 
 | Title                       | Last Modified           | Created                 |
@@ -2452,7 +2455,7 @@ https://help.twitch.tv/s/article/how-to-subscribe
 | How to Subscribe            | 16/06/2022, 8:35:15 am  | 16/06/2022, 8:34:52 am  |
 
 
-## how-to-use-automod
+### how-to-use-automod
 https://help.twitch.tv/s/article/how-to-use-automod
 
 | Title                                | Last Modified          | Created                 |
@@ -2469,7 +2472,7 @@ https://help.twitch.tv/s/article/how-to-use-automod
 | Jak używać AutoModa                  | 22/10/2021, 8:53:46 am | 26/06/2021, 4:54:05 am  |
 
 
-## how-to-use-clips
+### how-to-use-clips
 https://help.twitch.tv/s/article/how-to-use-clips
 
 | Title                                                                | Last Modified           | Created                  |
@@ -2484,7 +2487,7 @@ https://help.twitch.tv/s/article/how-to-use-clips
 | How to Use Create, Edit, and Share Clips                             | 12/05/2023, 6:56:21 am  | 12/05/2023, 6:56:11 am   |
 
 
-## how-to-use-collections
+### how-to-use-collections
 https://help.twitch.tv/s/article/how-to-use-collections
 
 | Title                               | Last Modified          | Created                 |
@@ -2499,7 +2502,7 @@ https://help.twitch.tv/s/article/how-to-use-collections
 | Como usar as coleções               | 22/10/2021, 8:53:04 am | 13/10/2020, 5:05:49 am  |
 
 
-## how-to-use-extensions
+### how-to-use-extensions
 https://help.twitch.tv/s/article/how-to-use-extensions
 
 | Title                         | Last Modified          | Created                 |
@@ -2512,7 +2515,7 @@ https://help.twitch.tv/s/article/how-to-use-extensions
 | How to Use Extensions         | 26/10/2022, 7:05:22 am | 26/10/2022, 7:04:31 am  |
 
 
-## how-to-use-go-live-notifications
+### how-to-use-go-live-notifications
 https://help.twitch.tv/s/article/how-to-use-go-live-notifications
 
 | Title                                                     | Last Modified          | Created                  |
@@ -2528,7 +2531,7 @@ https://help.twitch.tv/s/article/how-to-use-go-live-notifications
 | Como usar as Notificações de entrada ao vivo              | 22/10/2021, 8:53:04 am | 22/09/2020, 11:32:04 pm  |
 
 
-## how-to-use-host-mode
+### how-to-use-host-mode
 https://help.twitch.tv/s/article/how-to-use-host-mode
 
 | Title                                  | Last Modified          | Created                 |
@@ -2545,7 +2548,7 @@ https://help.twitch.tv/s/article/how-to-use-host-mode
 | Jak korzystać z sugerowanych kanałów   | 10/12/2022, 8:09:10 am | 10/12/2022, 8:09:09 am  |
 
 
-## how-to-use-polls
+### how-to-use-polls
 https://help.twitch.tv/s/article/how-to-use-polls
 
 | Title                       | Last Modified          | Created                  |
@@ -2559,7 +2562,7 @@ https://help.twitch.tv/s/article/how-to-use-polls
 | Jak korzystać z ankiet?     | 03/01/2023, 8:49:10 am | 01/12/2022, 4:40:50 pm   |
 
 
-## how-to-use-raids
+### how-to-use-raids
 https://help.twitch.tv/s/article/how-to-use-raids
 
 | Title                       | Last Modified          | Created                 |
@@ -2573,7 +2576,7 @@ https://help.twitch.tv/s/article/how-to-use-raids
 | Jak korzystać z raidów      | 28/09/2022, 3:01:03 am | 28/09/2022, 3:01:02 am  |
 
 
-## how-to-use-squad-stream
+### how-to-use-squad-stream
 https://help.twitch.tv/s/article/how-to-use-squad-stream
 
 | Title                                  | Last Modified          | Created                 |
@@ -2589,7 +2592,7 @@ https://help.twitch.tv/s/article/how-to-use-squad-stream
 | How to Use Squad Stream                | 21/10/2022, 7:26:46 am | 27/09/2022, 9:00:22 am  |
 
 
-## how-to-use-the-friends-feature
+### how-to-use-the-friends-feature
 https://help.twitch.tv/s/article/how-to-use-the-friends-feature
 
 | Title                                   | Last Modified          | Created                  |
@@ -2604,7 +2607,7 @@ https://help.twitch.tv/s/article/how-to-use-the-friends-feature
 | Jak używać funkcji znajomych            | 29/04/2022, 5:56:24 am | 22/04/2022, 5:38:53 am   |
 
 
-## how-to-use-twitch-prime-subscriptions
+### how-to-use-twitch-prime-subscriptions
 https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions
 
 | Title                                          | Last Modified          | Created                 |
@@ -2620,7 +2623,7 @@ https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions
 | Nutzung von Twitch Prime-Abonnements           | 22/10/2021, 8:53:55 am | 11/08/2020, 2:30:21 am  |
 
 
-## how-to-use-twitch-showcase
+### how-to-use-twitch-showcase
 https://help.twitch.tv/s/article/how-to-use-twitch-showcase
 
 | Title                                              | Last Modified           | Created                 |
@@ -2634,7 +2637,7 @@ https://help.twitch.tv/s/article/how-to-use-twitch-showcase
 | How to Use Twitch Showcase                         | 05/12/2022, 7:58:35 pm  | 02/12/2022, 4:39:56 am  |
 
 
-## hype-train-guide
+### hype-train-guide
 https://help.twitch.tv/s/article/hype-train-guide
 
 | Title                     | Last Modified          | Created                 |
@@ -2649,7 +2652,7 @@ https://help.twitch.tv/s/article/hype-train-guide
 | Leitfaden zu Hype Trains  | 20/05/2023, 4:26:39 am | 20/05/2023, 4:26:38 am  |
 
 
-## hyper-scape
+### hyper-scape
 https://help.twitch.tv/s/article/hyper-scape
 
 | Title                                                        | Last Modified          | Created                 |
@@ -2664,7 +2667,7 @@ https://help.twitch.tv/s/article/hyper-scape
 | Perguntas frequentes do Hyper Scape                          | 22/10/2021, 8:54:26 am | 12/08/2020, 5:49:15 am  |
 
 
-## ingame-overlay
+### ingame-overlay
 https://help.twitch.tv/s/article/ingame-overlay
 
 | Title                                | Last Modified          | Created                 |
@@ -2675,7 +2678,7 @@ https://help.twitch.tv/s/article/ingame-overlay
 | Nakładka w grze w Twitch Studio      | 12/09/2022, 8:49:34 pm | 09/09/2022, 6:36:37 am  |
 
 
-## installing-and-uninstalling-the-twitch-app
+### installing-and-uninstalling-the-twitch-app
 https://help.twitch.tv/s/article/installing-and-uninstalling-the-twitch-app
 
 | Title                                               | Last Modified          | Created                 |
@@ -2688,7 +2691,7 @@ https://help.twitch.tv/s/article/installing-and-uninstalling-the-twitch-app
 | Instalowanie i odinstalowywanie aplikacji Twitcha   | 30/04/2022, 5:34:25 am | 30/04/2022, 5:34:25 am  |
 
 
-## joining-guest-star
+### joining-guest-star
 https://help.twitch.tv/s/article/joining-guest-star
 
 | Title                                              | Last Modified          | Created                 |
@@ -2703,7 +2706,7 @@ https://help.twitch.tv/s/article/joining-guest-star
 | Joining as a Guest Star Guest                      | 12/01/2023, 6:48:55 am | 12/01/2023, 6:39:17 am  |
 
 
-## joining-the-affiliate-program
+### joining-the-affiliate-program
 https://help.twitch.tv/s/article/joining-the-affiliate-program
 
 | Title                                           | Last Modified          | Created                 |
@@ -2719,7 +2722,7 @@ https://help.twitch.tv/s/article/joining-the-affiliate-program
 | Aderir ao Programa de Afiliados                 | 21/10/2022, 7:26:13 am | 21/10/2022, 7:26:12 am  |
 
 
-## languages-on-twitch
+### languages-on-twitch
 https://help.twitch.tv/s/article/languages-on-twitch
 
 | Title               | Last Modified          | Created                 |
@@ -2733,7 +2736,7 @@ https://help.twitch.tv/s/article/languages-on-twitch
 | Idiomas na Twitch   | 03/05/2023, 8:06:59 am | 03/05/2023, 8:06:57 am  |
 
 
-## leaderboards-guide
+### leaderboards-guide
 https://help.twitch.tv/s/article/leaderboards-guide
 
 | Title                          | Last Modified           | Created                  |
@@ -2748,7 +2751,7 @@ https://help.twitch.tv/s/article/leaderboards-guide
 | Leaderboards Guide             | 27/10/2022, 11:23:23 am | 27/10/2022, 11:22:48 am  |
 
 
-## lifetime-subscriber-guide-for-partners
+### lifetime-subscriber-guide-for-partners
 https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners
 
 | Title                                            | Last Modified          | Created                 |
@@ -2764,7 +2767,7 @@ https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners
 | Partnerler için Ömür Boyu Abone Rehberi          | 26/05/2023, 3:15:05 am | 26/05/2023, 3:15:05 am  |
 
 
-## list-of-prohibited-games
+### list-of-prohibited-games
 https://help.twitch.tv/s/article/list-of-prohibited-games
 
 | Title                      | Last Modified          | Created                 |
@@ -2779,7 +2782,7 @@ https://help.twitch.tv/s/article/list-of-prohibited-games
 | Liste verbotener Spiele    | 15/12/2021, 6:48:31 am | 04/12/2021, 6:31:02 am  |
 
 
-## live-viewer-feedback
+### live-viewer-feedback
 https://help.twitch.tv/s/article/live-viewer-feedback
 
 | Title                                                 | Last Modified          | Created                 |
@@ -2796,7 +2799,7 @@ https://help.twitch.tv/s/article/live-viewer-feedback
 | Opinie widzów na żywo \[Eksperyment]                  | 10/12/2022, 8:46:51 am | 10/12/2022, 8:46:51 am  |
 
 
-## local-recording
+### local-recording
 https://help.twitch.tv/s/article/local-recording
 
 | Title                | Last Modified           | Created                  |
@@ -2810,7 +2813,7 @@ https://help.twitch.tv/s/article/local-recording
 | Local Recording      | 24/05/2023, 3:58:04 am  | 23/05/2023, 10:25:40 am  |
 
 
-## local-sub-price-countries
+### local-sub-price-countries
 https://help.twitch.tv/s/article/local-sub-price-countries
 
 | Title                                                     | Last Modified          | Created                 |
@@ -2824,7 +2827,7 @@ https://help.twitch.tv/s/article/local-sub-price-countries
 | Países con precios de suscripción locales                 | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
 
 
-## local-subscription-pricing
+### local-subscription-pricing
 https://help.twitch.tv/s/article/local-subscription-pricing
 
 | Title                                      | Last Modified          | Created                 |
@@ -2834,7 +2837,7 @@ https://help.twitch.tv/s/article/local-subscription-pricing
 | Lokalne ceny subskrypcji                   | 09/04/2022, 2:34:09 am | 09/04/2022, 2:34:08 am  |
 
 
-## low-latency-video
+### low-latency-video
 https://help.twitch.tv/s/article/low-latency-video
 
 | Title                 | Last Modified          | Created                 |
@@ -2843,7 +2846,7 @@ https://help.twitch.tv/s/article/low-latency-video
 | Low Latency Video     | 22/10/2021, 8:53:06 am | 27/10/2020, 4:57:12 am  |
 
 
-## making-the-most-of-channel-points
+### making-the-most-of-channel-points
 https://help.twitch.tv/s/article/making-the-most-of-channel-points
 
 | Title                                         | Last Modified          | Created                 |
@@ -2858,7 +2861,7 @@ https://help.twitch.tv/s/article/making-the-most-of-channel-points
 | Kanalpunkte optimal nutzen                    | 22/10/2021, 8:53:22 am | 08/01/2020, 8:54:20 am  |
 
 
-## managing-and-upgrading-a-gift-subscription
+### managing-and-upgrading-a-gift-subscription
 https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription
 
 | Title                                                | Last Modified          | Created                 |
@@ -2873,7 +2876,7 @@ https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription
 | Managing and Upgrading a Gift Subscription           | 26/08/2022, 5:54:09 am | 26/08/2022, 5:54:02 am  |
 
 
-## Managing-Roles-for-your-Channel
+### Managing-Roles-for-your-Channel
 https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel
 
 | Title                                     | Last Modified           | Created                  |
@@ -2887,7 +2890,7 @@ https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel
 | Kanalınız için Rolleri Yönetme            | 05/01/2023, 11:04:39 am | 05/01/2023, 11:04:39 am  |
 
 
-## managing-subscription-tiers
+### managing-subscription-tiers
 https://help.twitch.tv/s/article/managing-subscription-tiers
 
 | Title                                 | Last Modified           | Created                 |
@@ -2900,7 +2903,7 @@ https://help.twitch.tv/s/article/managing-subscription-tiers
 | Managing Subscription Tiers           | 26/08/2022, 5:50:22 am  | 16/08/2022, 6:34:01 am  |
 
 
-## managing-your-phone-number
+### managing-your-phone-number
 https://help.twitch.tv/s/article/managing-your-phone-number
 
 | Title                                | Last Modified           | Created                  |
@@ -2913,7 +2916,7 @@ https://help.twitch.tv/s/article/managing-your-phone-number
 | Managing Your Phone Number           | 19/10/2022, 4:49:28 am  | 19/10/2022, 4:49:05 am   |
 
 
-## markdown-basics
+### markdown-basics
 https://help.twitch.tv/s/article/markdown-basics
 
 | Title                            | Last Modified          | Created                 |
@@ -2931,7 +2934,7 @@ https://help.twitch.tv/s/article/markdown-basics
 | Noções básicas de Markdown       | 22/10/2021, 8:39:56 am | 08/10/2020, 5:03:41 am  |
 
 
-## Mastercard-Holiday-Promotion
+### Mastercard-Holiday-Promotion
 https://help.twitch.tv/s/article/Mastercard-Holiday-Promotion
 
 | Title                        | Last Modified          | Created                 |
@@ -2939,7 +2942,7 @@ https://help.twitch.tv/s/article/Mastercard-Holiday-Promotion
 | Mastercard Holiday Promotion | 17/12/2021, 5:31:48 am | 17/12/2021, 5:30:27 am  |
 
 
-## mastercard-spring-promotion-us
+### mastercard-spring-promotion-us
 https://help.twitch.tv/s/article/mastercard-spring-promotion-us
 
 | Title                            | Last Modified          | Created                 |
@@ -2947,7 +2950,7 @@ https://help.twitch.tv/s/article/mastercard-spring-promotion-us
 | Mastercard Spring Promotion (US) | 04/05/2022, 7:21:51 am | 04/05/2022, 7:21:06 am  |
 
 
-## megacheer-food-fight
+### megacheer-food-fight
 https://help.twitch.tv/s/article/megacheer-food-fight
 
 | Title                            | Last Modified          | Created                 |
@@ -2965,7 +2968,7 @@ https://help.twitch.tv/s/article/megacheer-food-fight
 | MegaCheer-Essensschlacht         | 22/10/2021, 8:54:26 am | 20/11/2019, 0:09:57 am  |
 
 
-## minimum-payout-threshold
+### minimum-payout-threshold
 https://help.twitch.tv/s/article/minimum-payout-threshold
 
 | Title                            | Last Modified          | Created                  |
@@ -2978,7 +2981,7 @@ https://help.twitch.tv/s/article/minimum-payout-threshold
 | Mindestauszahlungsgrenze von 50$ | 15/11/2022, 4:58:06 am | 11/11/2022, 11:10:02 pm  |
 
 
-## minimum-payout-threshold-countries
+### minimum-payout-threshold-countries
 https://help.twitch.tv/s/article/minimum-payout-threshold-countries
 
 | Title                                                         | Last Modified           | Created                 |
@@ -2997,7 +3000,7 @@ https://help.twitch.tv/s/article/minimum-payout-threshold-countries
 | Países compatibles con el umbral mínimo de pago de 50 dólares | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:19:41 pm  |
 
 
-## mission-based-drops
+### mission-based-drops
 https://help.twitch.tv/s/article/mission-based-drops
 
 | Title                                               | Last Modified          | Created                  |
@@ -3011,7 +3014,7 @@ https://help.twitch.tv/s/article/mission-based-drops
 | How to Discover and Claim Drops on Twitch           | 12/04/2022, 6:00:26 am | 07/04/2022, 11:53:51 am  |
 
 
-## mobile-creator-mode
+### mobile-creator-mode
 https://help.twitch.tv/s/article/mobile-creator-mode
 
 | Title                                   | Last Modified           | Created                 |
@@ -3027,7 +3030,7 @@ https://help.twitch.tv/s/article/mobile-creator-mode
 | Modo Criador para dispositivos móveis   | 20/08/2022, 5:21:40 am  | 16/08/2022, 5:03:38 am  |
 
 
-## mobile-game-broadcasting
+### mobile-game-broadcasting
 https://help.twitch.tv/s/article/mobile-game-broadcasting
 
 | Title                        | Last Modified          | Created                 |
@@ -3038,7 +3041,7 @@ https://help.twitch.tv/s/article/mobile-game-broadcasting
 | Mobile Game Broadcasting     | 03/04/2022, 4:29:54 am | 12/01/2022, 0:12:24 pm  |
 
 
-## mobile-irl-broadcasting
+### mobile-irl-broadcasting
 https://help.twitch.tv/s/article/mobile-irl-broadcasting
 
 | Title                    | Last Modified          | Created                 |
@@ -3049,7 +3052,7 @@ https://help.twitch.tv/s/article/mobile-irl-broadcasting
 | Mobilne streamowanie IRL | 24/01/2023, 5:59:39 am | 06/12/2022, 4:43:47 am  |
 
 
-## mod-view
+### mod-view
 https://help.twitch.tv/s/article/mod-view
 
 | Title                | Last Modified          | Created                 |
@@ -3061,7 +3064,7 @@ https://help.twitch.tv/s/article/mod-view
 | Mod View             | 02/12/2022, 9:10:45 am | 27/09/2022, 9:07:16 am  |
 
 
-## modified-emotes
+### modified-emotes
 https://help.twitch.tv/s/article/modified-emotes
 
 | Title                  | Last Modified          | Created                 |
@@ -3074,7 +3077,7 @@ https://help.twitch.tv/s/article/modified-emotes
 | Modified Emotes        | 19/11/2021, 5:11:27 am | 01/10/2021, 2:02:52 pm  |
 
 
-## moments
+### moments
 https://help.twitch.tv/s/article/moments
 
 | Title                   | Last Modified           | Created                 |
@@ -3090,7 +3093,7 @@ https://help.twitch.tv/s/article/moments
 | Moments \[Beta]         | 09/11/2022, 0:26:55 pm  | 09/11/2022, 0:26:39 pm  |
 
 
-## monthly-recap
+### monthly-recap
 https://help.twitch.tv/s/article/monthly-recap
 
 | Title                   | Last Modified          | Created                 |
@@ -3101,7 +3104,7 @@ https://help.twitch.tv/s/article/monthly-recap
 | Monthly Recap           | 30/03/2023, 7:00:46 am | 18/03/2023, 0:02:40 pm  |
 
 
-## multi-month-subscriptions
+### multi-month-subscriptions
 https://help.twitch.tv/s/article/multi-month-subscriptions
 
 | Title                                        | Last Modified           | Created                 |
@@ -3115,7 +3118,7 @@ https://help.twitch.tv/s/article/multi-month-subscriptions
 | Managing Multi-Month Subscriptions           | 15/03/2023, 8:30:50 am  | 31/08/2022, 3:21:48 am  |
 
 
-## multiplayer-ads
+### multiplayer-ads
 https://help.twitch.tv/s/article/multiplayer-ads
 
 | Title                 | Last Modified           | Created                 |
@@ -3129,7 +3132,7 @@ https://help.twitch.tv/s/article/multiplayer-ads
 | Multiplayer-Werbung   | 30/09/2021, 11:26:49 am | 09/12/2020, 7:03:31 am  |
 
 
-## music-options-for-streamers
+### music-options-for-streamers
 https://help.twitch.tv/s/article/music-options-for-streamers
 
 | Title                       | Last Modified          | Created                 |
@@ -3137,7 +3140,7 @@ https://help.twitch.tv/s/article/music-options-for-streamers
 | Music Options for Streamers | 24/05/2023, 5:25:02 am | 24/05/2023, 5:24:50 am  |
 
 
-## nba-g-league-co-streaming-guide
+### nba-g-league-co-streaming-guide
 https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide
 
 | Title                                              | Last Modified          | Created                 |
@@ -3155,7 +3158,7 @@ https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide
 | NBA G 聯盟合作實況指南                                     | 22/10/2021, 8:53:04 am | 21/02/2019, 9:45:20 am  |
 
 
-## network-enforcement-act
+### network-enforcement-act
 https://help.twitch.tv/s/article/network-enforcement-act
 
 | Title                                                                  | Last Modified           | Created                 |
@@ -3169,7 +3172,7 @@ https://help.twitch.tv/s/article/network-enforcement-act
 | Network Enforcement Act ("NetzDG")                                     | 30/09/2021, 11:26:49 am | 16/07/2021, 2:53:04 am  |
 
 
-## new-device-and-location-verification
+### new-device-and-location-verification
 https://help.twitch.tv/s/article/new-device-and-location-verification
 
 | Title                                         | Last Modified          | Created                 |
@@ -3179,7 +3182,7 @@ https://help.twitch.tv/s/article/new-device-and-location-verification
 | Neue Geräte- und Ortsbestätigung              | 22/10/2021, 8:52:22 am | 13/11/2020, 3:05:50 am  |
 
 
-## nintendo-switch
+### nintendo-switch
 https://help.twitch.tv/s/article/nintendo-switch
 
 | Title                                      | Last Modified          | Created                  |
@@ -3195,7 +3198,7 @@ https://help.twitch.tv/s/article/nintendo-switch
 | Nintendo Switch™版のTwitchアプリ                | 12/11/2021, 4:48:14 am | 10/11/2021, 10:15:01 am  |
 
 
-## notifications-inbox
+### notifications-inbox
 https://help.twitch.tv/s/article/notifications-inbox
 
 | Title                                | Last Modified          | Created                 |
@@ -3209,7 +3212,7 @@ https://help.twitch.tv/s/article/notifications-inbox
 | Notifications Inbox                  | 08/06/2022, 3:07:15 am | 08/06/2022, 3:06:57 am  |
 
 
-## official-twitch-channel-chat-rules
+### official-twitch-channel-chat-rules
 https://help.twitch.tv/s/article/official-twitch-channel-chat-rules
 
 | Title                                       | Last Modified          | Created                 |
@@ -3218,7 +3221,7 @@ https://help.twitch.tv/s/article/official-twitch-channel-chat-rules
 | Chat Rules for the Official Twitch Channel  | 22/10/2021, 8:54:27 am | 26/05/2021, 2:51:51 am  |
 
 
-## one-click-checkout
+### one-click-checkout
 https://help.twitch.tv/s/article/one-click-checkout
 
 | Title                                  | Last Modified           | Created                 |
@@ -3232,7 +3235,7 @@ https://help.twitch.tv/s/article/one-click-checkout
 | 1-Click Checkout                       | 30/09/2021, 11:26:49 am | 24/07/2020, 3:54:57 am  |
 
 
-## overview-of-audio
+### overview-of-audio
 https://help.twitch.tv/s/article/overview-of-audio
 
 | Title                                          | Last Modified          | Created                 |
@@ -3243,7 +3246,7 @@ https://help.twitch.tv/s/article/overview-of-audio
 | Panoramica audio di Twitch Studio              | 22/10/2021, 8:54:20 am | 20/10/2020, 5:51:48 am  |
 
 
-## partner-cheermote-guide
+### partner-cheermote-guide
 https://help.twitch.tv/s/article/partner-cheermote-guide
 
 | Title                                      | Last Modified           | Created                 |
@@ -3259,7 +3262,7 @@ https://help.twitch.tv/s/article/partner-cheermote-guide
 | Partner Cheermote Guide                    | 08/03/2022, 7:46:07 am  | 08/03/2022, 7:14:01 am  |
 
 
-## partner-exclusivity-faq
+### partner-exclusivity-faq
 https://help.twitch.tv/s/article/partner-exclusivity-faq
 
 | Title                                                  | Last Modified           | Created                  |
@@ -3271,7 +3274,7 @@ https://help.twitch.tv/s/article/partner-exclusivity-faq
 | Partner Exclusivity FAQ                                | 24/08/2022, 2:48:28 am  | 24/08/2022, 2:48:05 am   |
 
 
-## partner-help-and-contact-information
+### partner-help-and-contact-information
 https://help.twitch.tv/s/article/partner-help-and-contact-information
 
 | Title                                       | Last Modified          | Created                 |
@@ -3279,7 +3282,7 @@ https://help.twitch.tv/s/article/partner-help-and-contact-information
 | Ajuda a Parceiros e Informações de Contacto | 22/10/2021, 8:53:25 am | 22/01/2020, 1:24:41 am  |
 
 
-## partner-onboarding-guide
+### partner-onboarding-guide
 https://help.twitch.tv/s/article/partner-onboarding-guide
 
 | Title                                           | Last Modified          | Created                  |
@@ -3294,7 +3297,7 @@ https://help.twitch.tv/s/article/partner-onboarding-guide
 | Leitfaden zum Partner-Onboarding                | 13/07/2022, 3:11:42 am | 29/06/2022, 10:26:57 am  |
 
 
-## partner-program-overview
+### partner-program-overview
 https://help.twitch.tv/s/article/partner-program-overview
 
 | Title                                                | Last Modified          | Created                  |
@@ -3304,7 +3307,7 @@ https://help.twitch.tv/s/article/partner-program-overview
 | Panoramica del programma per partner Twitch          | 09/08/2022, 4:00:55 am | 30/07/2022, 10:21:15 am  |
 
 
-## partner-settings-guide
+### partner-settings-guide
 https://help.twitch.tv/s/article/partner-settings-guide
 
 | Title                              | Last Modified          | Created                 |
@@ -3319,7 +3322,7 @@ https://help.twitch.tv/s/article/partner-settings-guide
 | Leitfaden zu Partnereinstellungen  | 22/10/2021, 8:53:22 am | 20/01/2021, 6:00:49 am  |
 
 
-## patch-notes-16
+### patch-notes-16
 https://help.twitch.tv/s/article/patch-notes-16
 
 | Title                                               | Last Modified           | Created                 |
@@ -3338,7 +3341,7 @@ https://help.twitch.tv/s/article/patch-notes-16
 | Patch Notes ǀ Episode 16 ǀ February 23, 2023        | 25/02/2023, 6:28:11 am  | 25/02/2023, 6:08:26 am  |
 
 
-## patch-notes-17
+### patch-notes-17
 https://help.twitch.tv/s/article/patch-notes-17
 
 | Title                                           | Last Modified           | Created                  |
@@ -3357,7 +3360,7 @@ https://help.twitch.tv/s/article/patch-notes-17
 | Patch Notes ǀ Episode 17 ǀ April 19, 2023       | 21/04/2023, 10:15:18 am | 14/03/2023, 10:46:27 am  |
 
 
-## patch-notes-18
+### patch-notes-18
 https://help.twitch.tv/s/article/patch-notes-18
 
 | Title                                          | Last Modified           | Created                  |
@@ -3376,7 +3379,7 @@ https://help.twitch.tv/s/article/patch-notes-18
 | Patch Notes ǀ Episode 18 ǀ May 17, 2023        | 19/05/2023, 6:56:06 am  | 19/05/2023, 6:55:07 am   |
 
 
-## payout-balance-faq
+### payout-balance-faq
 https://help.twitch.tv/s/article/payout-balance-faq
 
 | Title                                         | Last Modified          | Created                 |
@@ -3388,7 +3391,7 @@ https://help.twitch.tv/s/article/payout-balance-faq
 | Payout Balance FAQ                            | 23/09/2022, 4:58:37 am | 12/08/2022, 7:44:39 am  |
 
 
-## payout-details-faq
+### payout-details-faq
 https://help.twitch.tv/s/article/payout-details-faq
 
 | Title                                             | Last Modified          | Created                  |
@@ -3400,7 +3403,7 @@ https://help.twitch.tv/s/article/payout-details-faq
 | Payout Details FAQ                                | 13/07/2022, 3:11:03 am | 28/06/2022, 10:26:22 am  |
 
 
-## payout-history-dashboard-guide
+### payout-history-dashboard-guide
 https://help.twitch.tv/s/article/payout-history-dashboard-guide
 
 | Title                               | Last Modified           | Created                  |
@@ -3414,7 +3417,7 @@ https://help.twitch.tv/s/article/payout-history-dashboard-guide
 | Payout History Guide                | 24/05/2023, 4:02:24 am  | 23/05/2023, 11:23:35 am  |
 
 
-## picture-by-picture-ads
+### picture-by-picture-ads
 https://help.twitch.tv/s/article/picture-by-picture-ads
 
 | Title                             | Last Modified          | Created                 |
@@ -3426,7 +3429,7 @@ https://help.twitch.tv/s/article/picture-by-picture-ads
 | Bild-im-Bild-Werbung              | 03/04/2023, 6:47:33 pm | 30/03/2023, 5:03:08 am  |
 
 
-## pinned-chat
+### pinned-chat
 https://help.twitch.tv/s/article/pinned-chat
 
 | Title                                            | Last Modified          | Created                 |
@@ -3439,7 +3442,7 @@ https://help.twitch.tv/s/article/pinned-chat
 | Mensajes de chat fijados \[Función experimental] | 28/02/2023, 7:37:30 am | 03/02/2023, 1:08:12 pm  |
 
 
-## playback-issue-troubleshooting
+### playback-issue-troubleshooting
 https://help.twitch.tv/s/article/playback-issue-troubleshooting
 
 | Title                          | Last Modified           | Created                 |
@@ -3447,7 +3450,7 @@ https://help.twitch.tv/s/article/playback-issue-troubleshooting
 | Oynatma sorunları ve çözümleri | 22/05/2023, 10:21:02 pm | 06/05/2023, 8:26:59 am  |
 
 
-## political-onboarding
+### political-onboarding
 https://help.twitch.tv/s/article/political-onboarding
 
 | Title                              | Last Modified          | Created                 |
@@ -3458,7 +3461,7 @@ https://help.twitch.tv/s/article/political-onboarding
 | Intégration des chaînes politique  | 07/03/2023, 7:56:53 am | 07/03/2023, 7:56:53 am  |
 
 
-## pools-hottubs-beaches
+### pools-hottubs-beaches
 https://help.twitch.tv/s/article/pools-hottubs-beaches
 
 | Title                                                    | Last Modified          | Created                 |
@@ -3466,7 +3469,7 @@ https://help.twitch.tv/s/article/pools-hottubs-beaches
 | How the New Pools, Hot Tubs & Beaches Category will Work | 22/10/2021, 8:53:12 am | 21/05/2021, 7:44:33 am  |
 
 
-## prime-gaming-revenue-guide
+### prime-gaming-revenue-guide
 https://help.twitch.tv/s/article/prime-gaming-revenue-guide
 
 | Title                               | Last Modified           | Created                 |
@@ -3479,7 +3482,7 @@ https://help.twitch.tv/s/article/prime-gaming-revenue-guide
 | Guia de renda do Prime Gaming       | 30/05/2023, 10:34:35 am | 23/05/2023, 0:18:49 pm  |
 
 
-## promoted-streams
+### promoted-streams
 https://help.twitch.tv/s/article/promoted-streams
 
 | Title                             | Last Modified           | Created                 |
@@ -3487,7 +3490,7 @@ https://help.twitch.tv/s/article/promoted-streams
 | Les chaînes en vedette sur Twitch | 30/09/2021, 11:26:49 am | 19/06/2020, 6:01:31 pm  |
 
 
-## purchase-support-faq
+### purchase-support-faq
 https://help.twitch.tv/s/article/purchase-support-faq
 
 | Title                                             | Last Modified          | Created                 |
@@ -3498,7 +3501,7 @@ https://help.twitch.tv/s/article/purchase-support-faq
 | FAQs zum Kauf-Support                             | 12/11/2021, 7:18:37 am | 17/06/2021, 1:28:29 am  |
 
 
-## recommended-hardware-for-broadcasting
+### recommended-hardware-for-broadcasting
 https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting
 
 | Title                                      | Last Modified          | Created                 |
@@ -3518,7 +3521,7 @@ https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting
 | Matériel recommandé pour la diffusion      | 22/10/2021, 8:53:11 am | 27/02/2019, 3:33:51 pm  |
 
 
-## recommended-software-for-broadcasting
+### recommended-software-for-broadcasting
 https://help.twitch.tv/s/article/recommended-software-for-broadcasting
 
 | Title                                     | Last Modified          | Created                 |
@@ -3530,7 +3533,7 @@ https://help.twitch.tv/s/article/recommended-software-for-broadcasting
 | Anbefalet software til streaming          | 08/12/2021, 8:08:43 am | 08/12/2021, 8:08:42 am  |
 
 
-## refunds-on-twitch
+### refunds-on-twitch
 https://help.twitch.tv/s/article/refunds-on-twitch
 
 | Title                   | Last Modified          | Created                  |
@@ -3538,7 +3541,7 @@ https://help.twitch.tv/s/article/refunds-on-twitch
 | Erstattungen bei Twitch | 26/05/2023, 3:15:33 am | 11/12/2021, 11:37:50 am  |
 
 
-## rejected-payout-faq
+### rejected-payout-faq
 https://help.twitch.tv/s/article/rejected-payout-faq
 
 | Title                                                | Last Modified          | Created                 |
@@ -3549,7 +3552,7 @@ https://help.twitch.tv/s/article/rejected-payout-faq
 | FAQ sur les paiements rejetés                        | 13/07/2022, 3:10:35 am | 29/06/2022, 0:32:52 pm  |
 
 
-## Removing-recommendations-you-are-not-interested-in
+### Removing-recommendations-you-are-not-interested-in
 https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in
 
 | Title                                                         | Last Modified          | Created                 |
@@ -3562,7 +3565,7 @@ https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested
 | Fjerning av anbefalinger du ikke er interessert i             | 12/05/2023, 3:46:14 am | 12/05/2023, 3:46:11 am  |
 
 
-## request-to-join
+### request-to-join
 https://help.twitch.tv/s/article/request-to-join
 
 | Title                                 | Last Modified           | Created                 |
@@ -3573,7 +3576,7 @@ https://help.twitch.tv/s/article/request-to-join
 | Guest Star Request to Join            | 28/10/2022, 5:59:18 am  | 28/10/2022, 5:58:51 am  |
 
 
-## requesting-your-data-from-twitch
+### requesting-your-data-from-twitch
 https://help.twitch.tv/s/article/requesting-your-data-from-twitch
 
 | Title                                        | Last Modified           | Created                 |
@@ -3583,7 +3586,7 @@ https://help.twitch.tv/s/article/requesting-your-data-from-twitch
 | Anfordern deiner Daten von Twitch            | 24/05/2023, 6:52:03 pm  | 17/05/2023, 9:56:54 am  |
 
 
-## revenue
+### revenue
 https://help.twitch.tv/s/article/revenue
 
 | Title                   | Last Modified          | Created                 |
@@ -3598,7 +3601,7 @@ https://help.twitch.tv/s/article/revenue
 | Gelir Analizi           | 21/10/2022, 4:00:06 am | 23/09/2022, 6:15:11 am  |
 
 
-## rpg-megacheer
+### rpg-megacheer
 https://help.twitch.tv/s/article/rpg-megacheer
 
 | Title            | Last Modified          | Created                 |
@@ -3608,7 +3611,7 @@ https://help.twitch.tv/s/article/rpg-megacheer
 | MegaCheer de RPG | 22/10/2021, 8:54:27 am | 23/10/2019, 7:01:51 am  |
 
 
-## scene-importing
+### scene-importing
 https://help.twitch.tv/s/article/scene-importing
 
 | Title                                     | Last Modified          | Created                 |
@@ -3622,7 +3625,7 @@ https://help.twitch.tv/s/article/scene-importing
 | Importieren von Szenen in Twitch Studio   | 29/07/2022, 9:01:37 pm | 29/07/2022, 9:01:31 pm  |
 
 
-## scene-transitions
+### scene-transitions
 https://help.twitch.tv/s/article/scene-transitions
 
 | Title                                  | Last Modified          | Created                 |
@@ -3630,7 +3633,7 @@ https://help.twitch.tv/s/article/scene-transitions
 | Les transitions de scène Twitch Studio | 22/10/2021, 8:54:20 am | 28/08/2021, 3:44:46 am  |
 
 
-## search-with-tags
+### search-with-tags
 https://help.twitch.tv/s/article/search-with-tags
 
 | Title                                        | Last Modified          | Created                  |
@@ -3646,7 +3649,7 @@ https://help.twitch.tv/s/article/search-with-tags
 | How to Search And Filter With Tags           | 04/05/2023, 2:38:02 am | 07/01/2023, 11:39:25 am  |
 
 
-## setting-up-alerts
+### setting-up-alerts
 https://help.twitch.tv/s/article/setting-up-alerts
 
 | Title                                                                                | Last Modified          | Created                 |
@@ -3661,7 +3664,7 @@ https://help.twitch.tv/s/article/setting-up-alerts
 | Colocando Alertas & Fontes do Navegador à transmissão do seu Twitch Studio           | 22/10/2021, 8:54:19 am | 20/10/2020, 5:53:34 am  |
 
 
-## setting-up-moderation-for-your-twitch-channel
+### setting-up-moderation-for-your-twitch-channel
 https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel
 
 | Title                                                           | Last Modified          | Created                 |
@@ -3674,7 +3677,7 @@ https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel
 | Einrichten der Moderationseinstellungen für deinen Twitch-Kanal | 22/10/2021, 8:53:45 am | 25/09/2021, 2:36:44 am  |
 
 
-## setup-alerts-by-twitch
+### setup-alerts-by-twitch
 https://help.twitch.tv/s/article/setup-alerts-by-twitch
 
 | Title                                  | Last Modified           | Created                 |
@@ -3688,7 +3691,7 @@ https://help.twitch.tv/s/article/setup-alerts-by-twitch
 | Configurando alertas da Twitch         | 26/05/2023, 11:03:07 am | 20/05/2023, 5:01:01 am  |
 
 
-## shoutouts
+### shoutouts
 https://help.twitch.tv/s/article/shoutouts
 
 | Title                           | Last Modified          | Created                 |
@@ -3702,7 +3705,7 @@ https://help.twitch.tv/s/article/shoutouts
 | Jak wywołać kanał               | 29/09/2022, 7:59:12 am | 29/09/2022, 7:59:12 am  |
 
 
-## smart-notification-setting
+### smart-notification-setting
 https://help.twitch.tv/s/article/smart-notification-setting
 
 | Title                                  | Last Modified          | Created                  |
@@ -3718,7 +3721,7 @@ https://help.twitch.tv/s/article/smart-notification-setting
 | Notificações inteligentes              | 22/10/2021, 8:52:22 am | 05/11/2020, 2:29:40 am   |
 
 
-## soundtrack
+### soundtrack
 https://help.twitch.tv/s/article/soundtrack
 
 | Title                                             | Last Modified          | Created                 |
@@ -3728,7 +3731,7 @@ https://help.twitch.tv/s/article/soundtrack
 | Page d'aide et FAQ pour Soundtrack                | 30/03/2022, 1:47:07 am | 23/03/2022, 4:07:44 am  |
 
 
-## soundtrack-audio-configuration
+### soundtrack-audio-configuration
 https://help.twitch.tv/s/article/soundtrack-audio-configuration
 
 | Title                                                                              | Last Modified          | Created                 |
@@ -3741,7 +3744,7 @@ https://help.twitch.tv/s/article/soundtrack-audio-configuration
 | Hilfe bei der Soundtrack-Audiokonfiguration für Streaming-Dienste                  | 13/01/2022, 9:47:14 am | 08/12/2021, 8:10:26 am  |
 
 
-## soundtrackwebplayeraudioconfig
+### soundtrackwebplayeraudioconfig
 https://help.twitch.tv/s/article/soundtrackwebplayeraudioconfig
 
 | Title                                                    | Last Modified          | Created                 |
@@ -3754,7 +3757,7 @@ https://help.twitch.tv/s/article/soundtrackwebplayeraudioconfig
 | Konfiguracja audio odtwarzacza internetowego Soundtrack  | 04/11/2021, 5:23:41 am | 28/10/2021, 7:21:20 am  |
 
 
-## stream-deck-setup
+### stream-deck-setup
 https://help.twitch.tv/s/article/stream-deck-setup
 
 | Title                                               | Last Modified          | Created                 |
@@ -3764,7 +3767,7 @@ https://help.twitch.tv/s/article/stream-deck-setup
 | Korzystanie z konsoli streamingowej z Twitch Studio | 22/10/2021, 8:54:20 am | 20/10/2020, 5:52:21 am  |
 
 
-## stream-display-ads
+### stream-display-ads
 https://help.twitch.tv/s/article/stream-display-ads
 
 | Title                                  | Last Modified          | Created                 |
@@ -3775,7 +3778,7 @@ https://help.twitch.tv/s/article/stream-display-ads
 | Anúncios de exibição de transmissão    | 05/05/2023, 1:59:53 am | 05/05/2023, 1:59:52 am  |
 
 
-## stream-manager
+### stream-manager
 https://help.twitch.tv/s/article/stream-manager
 
 | Title                        | Last Modified          | Created                 |
@@ -3788,7 +3791,7 @@ https://help.twitch.tv/s/article/stream-manager
 | Gestor del stream            | 16/06/2022, 7:55:07 am | 16/06/2022, 6:47:27 am  |
 
 
-## stream-summary
+### stream-summary
 https://help.twitch.tv/s/article/stream-summary
 
 | Title                     | Last Modified          | Created                 |
@@ -3797,7 +3800,7 @@ https://help.twitch.tv/s/article/stream-summary
 | Lähetysten yhteenveto     | 10/02/2023, 5:16:20 am | 10/02/2023, 5:16:17 am  |
 
 
-## stream-with-pride
+### stream-with-pride
 https://help.twitch.tv/s/article/stream-with-pride
 
 | Title                                                               | Last Modified          | Created                  |
@@ -3809,7 +3812,7 @@ https://help.twitch.tv/s/article/stream-with-pride
 | FAQs sobre o evento Transmita com Orgulho                           | 22/10/2021, 8:54:26 am | 01/07/2020, 3:41:31 am   |
 
 
-## streamer-community-survey
+### streamer-community-survey
 https://help.twitch.tv/s/article/streamer-community-survey
 
 | Title                                   | Last Modified          | Created                 |
@@ -3820,7 +3823,7 @@ https://help.twitch.tv/s/article/streamer-community-survey
 | Enquête de la communauté des streamers  | 22/10/2021, 8:53:22 am | 03/09/2021, 3:47:53 am  |
 
 
-## streamer-notifications-preferences
+### streamer-notifications-preferences
 https://help.twitch.tv/s/article/streamer-notifications-preferences
 
 | Title                                         | Last Modified          | Created                 |
@@ -3830,7 +3833,7 @@ https://help.twitch.tv/s/article/streamer-notifications-preferences
 | Innstillinger for strømmingsvarslinger        | 22/10/2021, 8:52:22 am | 04/06/2019, 4:51:33 am  |
 
 
-## streamer-revenue-strategy-2022
+### streamer-revenue-strategy-2022
 https://help.twitch.tv/s/article/streamer-revenue-strategy-2022
 
 | Title                                                                | Last Modified          | Created                 |
@@ -3841,7 +3844,7 @@ https://help.twitch.tv/s/article/streamer-revenue-strategy-2022
 | FAQ zur Strategie für Streamer-Einnahmen                             | 21/09/2022, 7:54:04 pm | 14/09/2022, 8:47:06 am  |
 
 
-## studio-obs-ndi
+### studio-obs-ndi
 https://help.twitch.tv/s/article/studio-obs-ndi
 
 | Title                                                      | Last Modified          | Created                 |
@@ -3856,7 +3859,7 @@ https://help.twitch.tv/s/article/studio-obs-ndi
 | How to use OBS-NDI Toolkit with Twitch Studio              | 08/12/2021, 7:57:25 am | 08/12/2021, 7:20:11 am  |
 
 
-## studio-ui
+### studio-ui
 https://help.twitch.tv/s/article/studio-ui
 
 | Title                                              | Last Modified          | Created                 |
@@ -3869,7 +3872,7 @@ https://help.twitch.tv/s/article/studio-ui
 | Leitfaden zur Benutzeroberfläche von Twitch Studio | 22/10/2021, 8:54:19 am | 28/08/2021, 6:09:51 am  |
 
 
-## subpoint-vs-subcount
+### subpoint-vs-subcount
 https://help.twitch.tv/s/article/subpoint-vs-subcount
 
 | Title                                                                        | Last Modified          | Created                 |
@@ -3879,7 +3882,7 @@ https://help.twitch.tv/s/article/subpoint-vs-subcount
 | Diferencias entre los puntos por suscriptores y el recuento de suscripciones | 02/08/2022, 6:32:18 am | 12/07/2022, 1:40:58 pm  |
 
 
-## subscriber-badge-guide
+### subscriber-badge-guide
 https://help.twitch.tv/s/article/subscriber-badge-guide
 
 | Title                                         | Last Modified          | Created                 |
@@ -3893,7 +3896,7 @@ https://help.twitch.tv/s/article/subscriber-badge-guide
 | Guia do distintivo de inscrito                | 22/10/2021, 8:53:22 am | 15/07/2021, 7:55:28 am  |
 
 
-## subscriber-emote-guide
+### subscriber-emote-guide
 https://help.twitch.tv/s/article/subscriber-emote-guide
 
 | Title                                                               | Last Modified          | Created                 |
@@ -3907,7 +3910,7 @@ https://help.twitch.tv/s/article/subscriber-emote-guide
 | Leitfaden zu Abonnenten-Emotes für Partner und Affiliates           | 10/08/2022, 8:02:41 am | 23/11/2021, 5:21:01 am  |
 
 
-## subscriber-streams
+### subscriber-streams
 https://help.twitch.tv/s/article/subscriber-streams
 
 | Title                | Last Modified           | Created                 |
@@ -3917,7 +3920,7 @@ https://help.twitch.tv/s/article/subscriber-streams
 | Lives para inscritos | 30/09/2021, 11:26:49 am | 07/08/2020, 3:27:31 am  |
 
 
-## subscription-cancellation-reasons
+### subscription-cancellation-reasons
 https://help.twitch.tv/s/article/subscription-cancellation-reasons
 
 | Title                                                 | Last Modified          | Created                  |
@@ -3930,7 +3933,7 @@ https://help.twitch.tv/s/article/subscription-cancellation-reasons
 | Motivos de cancelamento de inscrição                  | 12/03/2022, 9:44:18 am | 11/12/2021, 11:00:11 am  |
 
 
-## subscriptions-on-mobile
+### subscriptions-on-mobile
 https://help.twitch.tv/s/article/subscriptions-on-mobile
 
 | Title                             | Last Modified           | Created                 |
@@ -3942,7 +3945,7 @@ https://help.twitch.tv/s/article/subscriptions-on-mobile
 | Inscrições em dispositivos móveis | 21/03/2023, 4:32:04 am  | 15/03/2023, 8:31:43 am  |
 
 
-## subscriptions-on-samsung-smart-tv
+### subscriptions-on-samsung-smart-tv
 https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv
 
 | Title                                   | Last Modified          | Created                 |
@@ -3954,7 +3957,7 @@ https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv
 | Las suscripciones en smart TV Samsung   | 04/05/2023, 7:20:41 am | 25/04/2023, 8:41:34 am  |
 
 
-## subtember-2022-faq
+### subtember-2022-faq
 https://help.twitch.tv/s/article/subtember-2022-faq
 
 | Title                 | Last Modified          | Created                 |
@@ -3964,7 +3967,7 @@ https://help.twitch.tv/s/article/subtember-2022-faq
 | FAQ SUBtember2022     | 27/09/2022, 4:25:19 am | 27/09/2022, 4:25:19 am  |
 
 
-## supported-browsers
+### supported-browsers
 https://help.twitch.tv/s/article/supported-browsers
 
 | Title                      | Last Modified           | Created                 |
@@ -3978,7 +3981,7 @@ https://help.twitch.tv/s/article/supported-browsers
 | Navegadores compatíveis    | 13/10/2022, 11:36:11 am | 08/10/2022, 4:10:03 am  |
 
 
-## supported-mobile-os
+### supported-mobile-os
 https://help.twitch.tv/s/article/supported-mobile-os
 
 | Title                                                           | Last Modified          | Created                 |
@@ -3992,7 +3995,7 @@ https://help.twitch.tv/s/article/supported-mobile-os
 | About Supported Operating Systems on Android and iOS            | 03/02/2023, 0:01:32 pm | 03/02/2023, 0:01:18 pm  |
 
 
-## system-audio-capture-permission
+### system-audio-capture-permission
 https://help.twitch.tv/s/article/system-audio-capture-permission
 
 | Title                                                                 | Last Modified          | Created                 |
@@ -4006,7 +4009,7 @@ https://help.twitch.tv/s/article/system-audio-capture-permission
 | Granting System Audio Capture Permission                              | 19/11/2021, 5:23:06 am | 16/11/2021, 6:55:56 am  |
 
 
-## tips-for-applying-to-the-partner-program
+### tips-for-applying-to-the-partner-program
 https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program
 
 | Title                                                          | Last Modified          | Created                 |
@@ -4018,7 +4021,7 @@ https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program
 | Dicas para se inscrever no programa de parceiros               | 22/10/2021, 8:53:22 am | 29/02/2020, 1:36:31 am  |
 
 
-## Tips-for-Bounty-Board-Completing-Bounties
+### Tips-for-Bounty-Board-Completing-Bounties
 https://help.twitch.tv/s/article/Tips-for-Bounty-Board-Completing-Bounties
 
 | Title                                                    | Last Modified          | Created                 |
@@ -4026,7 +4029,7 @@ https://help.twitch.tv/s/article/Tips-for-Bounty-Board-Completing-Bounties
 | Astuces pour le tableau des offres : Terminer des offres | 22/10/2021, 8:53:23 am | 15/06/2019, 7:43:19 am  |
 
 
-## transcoding-options-faq
+### transcoding-options-faq
 https://help.twitch.tv/s/article/transcoding-options-faq
 
 | Title                                                  | Last Modified          | Created                 |
@@ -4038,7 +4041,7 @@ https://help.twitch.tv/s/article/transcoding-options-faq
 | Domande frequenti sulle opzioni di transcodifica       | 08/02/2023, 7:15:32 pm | 03/02/2023, 0:12:42 pm  |
 
 
-## twitch-account-access-login-issues-guide
+### twitch-account-access-login-issues-guide
 https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide
 
 | Title                                                                            | Last Modified           | Created                 |
@@ -4049,7 +4052,7 @@ https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide
 | Guía para resolver problemas al acceder o iniciar sesión con la cuenta de Twitch | 30/09/2021, 11:26:48 am | 13/04/2021, 1:51:51 am  |
 
 
-## twitch-account-settings
+### twitch-account-settings
 https://help.twitch.tv/s/article/twitch-account-settings
 
 | Title                             | Last Modified          | Created                 |
@@ -4062,7 +4065,7 @@ https://help.twitch.tv/s/article/twitch-account-settings
 | Paramètres de votre compte Twitch | 11/01/2022, 8:26:30 am | 11/01/2022, 8:26:29 am  |
 
 
-## twitch-affiliate-program-faq
+### twitch-affiliate-program-faq
 https://help.twitch.tv/s/article/twitch-affiliate-program-faq
 
 | Title                                                     | Last Modified          | Created                 |
@@ -4074,7 +4077,7 @@ https://help.twitch.tv/s/article/twitch-affiliate-program-faq
 | Perguntas Frequentes do Programa de Afiliação da Twitch   | 07/12/2022, 4:50:56 am | 07/12/2022, 4:50:55 am  |
 
 
-## twitch-charity
+### twitch-charity
 https://help.twitch.tv/s/article/twitch-charity
 
 | Title                                                         | Last Modified          | Created                 |
@@ -4086,7 +4089,7 @@ https://help.twitch.tv/s/article/twitch-charity
 | Herramienta Twitch Charity para creadores                     | 10/02/2023, 9:59:04 am | 10/02/2023, 8:21:33 am  |
 
 
-## twitch-charity-charities
+### twitch-charity-charities
 https://help.twitch.tv/s/article/twitch-charity-charities
 
 | Title                                                                        | Last Modified          | Created                 |
@@ -4098,7 +4101,7 @@ https://help.twitch.tv/s/article/twitch-charity-charities
 | Das Twitch-Spendentool für Charitys                                          | 10/02/2023, 9:58:46 am | 10/02/2023, 8:20:04 am  |
 
 
-## twitch-charity-faqs
+### twitch-charity-faqs
 https://help.twitch.tv/s/article/twitch-charity-faqs
 
 | Title                                                             | Last Modified          | Created                 |
@@ -4108,7 +4111,7 @@ https://help.twitch.tv/s/article/twitch-charity-faqs
 | FAQ - Strumento Twitch charity                                    | 10/02/2023, 9:58:52 am | 10/02/2023, 9:58:51 am  |
 
 
-## twitch-charity-viewers
+### twitch-charity-viewers
 https://help.twitch.tv/s/article/twitch-charity-viewers
 
 | Title                                                           | Last Modified           | Created                  |
@@ -4120,7 +4123,7 @@ https://help.twitch.tv/s/article/twitch-charity-viewers
 | Herramienta Twitch Charity para espectadores                    | 10/02/2023, 10:04:08 am | 10/02/2023, 10:04:06 am  |
 
 
-## twitch-chat-badges-guide
+### twitch-chat-badges-guide
 https://help.twitch.tv/s/article/twitch-chat-badges-guide
 
 | Title                                                                 | Last Modified           | Created                  |
@@ -4133,7 +4136,7 @@ https://help.twitch.tv/s/article/twitch-chat-badges-guide
 | Guia de distintivos de chat da Twitch                                 | 19/08/2022, 8:48:07 pm  | 17/08/2022, 6:56:52 am   |
 
 
-## twitch-content-sharing-guidelines
+### twitch-content-sharing-guidelines
 https://help.twitch.tv/s/article/twitch-content-sharing-guidelines
 
 | Title                                                   | Last Modified          | Created                 |
@@ -4148,7 +4151,7 @@ https://help.twitch.tv/s/article/twitch-content-sharing-guidelines
 | Diretrizes de Partilha de Conteúdos da Twitch           | 13/10/2022, 7:53:05 am | 13/10/2022, 7:53:03 am  |
 
 
-## twitch-merchandise-store-support-faq
+### twitch-merchandise-store-support-faq
 https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq
 
 | Title                                                                    | Last Modified          | Created                 |
@@ -4161,7 +4164,7 @@ https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq
 | FAQ des produits dérivés Twitch                                          | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 
 
-## twitch-mobile-app-update
+### twitch-mobile-app-update
 https://help.twitch.tv/s/article/twitch-mobile-app-update
 
 | Title                                                                | Last Modified           | Created                 |
@@ -4175,7 +4178,7 @@ https://help.twitch.tv/s/article/twitch-mobile-app-update
 | Atualizações no aplicativo móvel da Twitch                           | 14/01/2023, 0:23:06 am  | 11/01/2023, 7:01:26 am  |
 
 
-## twitch-on-apple-tv
+### twitch-on-apple-tv
 https://help.twitch.tv/s/article/twitch-on-apple-tv
 
 | Title                  | Last Modified          | Created                 |
@@ -4185,7 +4188,7 @@ https://help.twitch.tv/s/article/twitch-on-apple-tv
 | Apple TV'de Twitch     | 27/04/2022, 6:02:03 pm | 23/04/2022, 2:15:17 am  |
 
 
-## twitch-on-lg-tv
+### twitch-on-lg-tv
 https://help.twitch.tv/s/article/twitch-on-lg-tv
 
 | Title                               | Last Modified           | Created                 |
@@ -4200,7 +4203,7 @@ https://help.twitch.tv/s/article/twitch-on-lg-tv
 | LG TV'de Twitch izleme              | 27/04/2022, 5:59:03 pm  | 23/04/2022, 2:15:40 am  |
 
 
-## twitch-policies-and-guidelines
+### twitch-policies-and-guidelines
 https://help.twitch.tv/s/article/twitch-policies-and-guidelines
 
 | Title                                   | Last Modified          | Created                 |
@@ -4208,7 +4211,7 @@ https://help.twitch.tv/s/article/twitch-policies-and-guidelines
 | Bestimmungen und Richtlinien von Twitch | 22/10/2021, 8:53:32 am | 21/09/2019, 3:26:16 am  |
 
 
-## twitch-prime-guide
+### twitch-prime-guide
 https://help.twitch.tv/s/article/twitch-prime-guide
 
 | Title                     | Last Modified          | Created                 |
@@ -4221,7 +4224,7 @@ https://help.twitch.tv/s/article/twitch-prime-guide
 | Leitfaden zu Twitch Prime | 22/10/2021, 8:53:55 am | 11/08/2020, 2:27:53 am  |
 
 
-## twitch-prime-loot-gifting
+### twitch-prime-loot-gifting
 https://help.twitch.tv/s/article/twitch-prime-loot-gifting
 
 | Title                             | Last Modified          | Created                 |
@@ -4230,7 +4233,7 @@ https://help.twitch.tv/s/article/twitch-prime-loot-gifting
 | Donazione ricompense Prime Gaming | 22/10/2021, 8:53:55 am | 13/07/2021, 4:11:36 am  |
 
 
-## twitch-prime-partner-guide
+### twitch-prime-partner-guide
 https://help.twitch.tv/s/article/twitch-prime-partner-guide
 
 | Title                         | Last Modified          | Created                 |
@@ -4239,7 +4242,7 @@ https://help.twitch.tv/s/article/twitch-prime-partner-guide
 | Partnerguide for Twitch Prime | 24/05/2023, 4:02:36 am | 24/05/2023, 4:02:36 am  |
 
 
-## twitch-prime-program-faq
+### twitch-prime-program-faq
 https://help.twitch.tv/s/article/twitch-prime-program-faq
 
 | Title                                                   | Last Modified          | Created                 |
@@ -4249,7 +4252,7 @@ https://help.twitch.tv/s/article/twitch-prime-program-faq
 | FAQ programme Twitch Prime                              | 22/10/2021, 8:53:55 am | 11/08/2020, 2:28:38 am  |
 
 
-## twitch-research-surveys
+### twitch-research-surveys
 https://help.twitch.tv/s/article/twitch-research-surveys
 
 | Title                                | Last Modified          | Created                 |
@@ -4259,7 +4262,7 @@ https://help.twitch.tv/s/article/twitch-research-surveys
 | Encuestas de investigación de Twitch | 03/01/2023, 9:17:37 am | 03/01/2023, 9:17:37 am  |
 
 
-## twitch-stream-key-faq
+### twitch-stream-key-faq
 https://help.twitch.tv/s/article/twitch-stream-key-faq
 
 | Title                                                          | Last Modified           | Created                 |
@@ -4270,7 +4273,7 @@ https://help.twitch.tv/s/article/twitch-stream-key-faq
 | FAQ codice di streaming di Twitch                              | 30/05/2023, 5:46:47 pm  | 27/04/2023, 3:57:31 am  |
 
 
-## twitch-studio-creator-goals
+### twitch-studio-creator-goals
 https://help.twitch.tv/s/article/twitch-studio-creator-goals
 
 | Title                                  | Last Modified          | Created                 |
@@ -4284,7 +4287,7 @@ https://help.twitch.tv/s/article/twitch-studio-creator-goals
 | Objectifs de créateur de Twitch Studio | 22/10/2021, 8:54:19 am | 26/08/2021, 4:03:12 am  |
 
 
-## twitch-studio-faq
+### twitch-studio-faq
 https://help.twitch.tv/s/article/twitch-studio-faq
 
 | Title                                                                     | Last Modified           | Created                 |
@@ -4301,7 +4304,7 @@ https://help.twitch.tv/s/article/twitch-studio-faq
 | Information och vanliga frågor om den stängda Twitch Studio-betan         | 10/03/2022, 9:52:06 am  | 10/03/2022, 9:52:04 am  |
 
 
-## twitch-studio-mac-faq
+### twitch-studio-mac-faq
 https://help.twitch.tv/s/article/twitch-studio-mac-faq
 
 | Title                                                                   | Last Modified           | Created                 |
@@ -4314,7 +4317,7 @@ https://help.twitch.tv/s/article/twitch-studio-mac-faq
 | Beta para Mac do Twitch Studio - Detalhes e perguntas frequentes        | 14/01/2023, 0:23:02 am  | 11/01/2023, 6:56:42 am  |
 
 
-## twitch-studio-updates
+### twitch-studio-updates
 https://help.twitch.tv/s/article/twitch-studio-updates
 
 | Title                            | Last Modified          | Created                 |
@@ -4327,7 +4330,7 @@ https://help.twitch.tv/s/article/twitch-studio-updates
 | Mises à jour de Twitch Studio    | 22/10/2021, 8:54:19 am | 10/09/2021, 7:42:37 am  |
 
 
-## twitch-teams
+### twitch-teams
 https://help.twitch.tv/s/article/twitch-teams
 
 | Title             | Last Modified           | Created                 |
@@ -4337,7 +4340,7 @@ https://help.twitch.tv/s/article/twitch-teams
 | Equipos de Twitch | 05/12/2022, 10:44:09 pm | 02/12/2022, 8:22:58 am  |
 
 
-## twitch-turbo-guide
+### twitch-turbo-guide
 https://help.twitch.tv/s/article/twitch-turbo-guide
 
 | Title                     | Last Modified          | Created                  |
@@ -4352,7 +4355,7 @@ https://help.twitch.tv/s/article/twitch-turbo-guide
 | Leitfaden zu Twitch Turbo | 26/05/2023, 3:14:57 am | 19/05/2023, 11:51:30 am  |
 
 
-## twitch-twitter-twitchsupport-faq
+### twitch-twitter-twitchsupport-faq
 https://help.twitch.tv/s/article/twitch-twitter-twitchsupport-faq
 
 | Title                                                         | Last Modified          | Created                 |
@@ -4363,7 +4366,7 @@ https://help.twitch.tv/s/article/twitch-twitter-twitchsupport-faq
 | FAQ zum Twitter-Konto "@TwitchSupport" von Twitch             | 14/02/2023, 6:23:22 am | 03/02/2023, 0:42:15 pm  |
 
 
-## two-factor-authentication
+### two-factor-authentication
 https://help.twitch.tv/s/article/two-factor-authentication
 
 | Title                                                  | Last Modified           | Created                 |
@@ -4377,7 +4380,7 @@ https://help.twitch.tv/s/article/two-factor-authentication
 | Cómo configurar la autenticación de factor doble (2FA) | 10/03/2023, 10:35:33 pm | 08/03/2023, 0:15:36 pm  |
 
 
-## two-factor-authentication-with-authy
+### two-factor-authentication-with-authy
 https://help.twitch.tv/s/article/two-factor-authentication-with-authy
 
 | Title                                    | Last Modified          | Created                 |
@@ -4387,7 +4390,7 @@ https://help.twitch.tv/s/article/two-factor-authentication-with-authy
 | Godkjenning med to faktorer med Authy    | 09/03/2023, 7:53:25 am | 09/03/2023, 7:53:24 am  |
 
 
-## understanding-viewer-count-vs-users-in-chat
+### understanding-viewer-count-vs-users-in-chat
 https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat
 
 | Title                                                                              | Last Modified           | Created                 |
@@ -4399,7 +4402,7 @@ https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat
 | Entender la diferencia entre el conteo de espectadores y la lista de espectadores  | 29/04/2022, 5:58:35 pm  | 28/04/2022, 9:36:13 am  |
 
 
-## update-logins-to-twitch-with-facebook
+### update-logins-to-twitch-with-facebook
 https://help.twitch.tv/s/article/update-logins-to-twitch-with-facebook
 
 | Title                                                   | Last Modified           | Created                 |
@@ -4413,7 +4416,7 @@ https://help.twitch.tv/s/article/update-logins-to-twitch-with-facebook
 | Mise à jour: connexions à Twitch avec Facebook          | 30/09/2021, 11:26:48 am | 10/06/2021, 7:56:31 am  |
 
 
-## updating-payment-information-transaction-history
+### updating-payment-information-transaction-history
 https://help.twitch.tv/s/article/updating-payment-information-transaction-history
 
 | Title                                                                                    | Last Modified          | Created                 |
@@ -4429,7 +4432,7 @@ https://help.twitch.tv/s/article/updating-payment-information-transaction-histor
 | Cómo actualizar la información de pago y ver el historial de transacciones               | 22/10/2021, 8:53:50 am | 11/08/2020, 1:46:36 am  |
 
 
-## username-rename-and-recycling-policies
+### username-rename-and-recycling-policies
 https://help.twitch.tv/s/article/username-rename-and-recycling-policies
 
 | Title                                                                               | Last Modified          | Created                  |
@@ -4440,7 +4443,7 @@ https://help.twitch.tv/s/article/username-rename-and-recycling-policies
 | Käyttäjänimen vaihto- ja kierrätyskäytännöt                                         | 22/10/2021, 8:52:22 am | 21/06/2019, 11:07:07 am  |
 
 
-## video-on-demand
+### video-on-demand
 https://help.twitch.tv/s/article/video-on-demand
 
 | Title            | Last Modified          | Created                 |
@@ -4448,7 +4451,7 @@ https://help.twitch.tv/s/article/video-on-demand
 | Filmy na żądanie | 09/02/2023, 0:02:37 pm | 09/02/2023, 0:02:36 pm  |
 
 
-## viewer-channel-point-guide
+### viewer-channel-point-guide
 https://help.twitch.tv/s/article/viewer-channel-point-guide
 
 | Title                                              | Last Modified          | Created                 |
@@ -4462,7 +4465,7 @@ https://help.twitch.tv/s/article/viewer-channel-point-guide
 | Channel Points Guide for Viewers                   | 28/10/2022, 8:26:22 am | 28/10/2022, 8:25:59 am  |
 
 
-## watching-twitch-on-android-devices
+### watching-twitch-on-android-devices
 https://help.twitch.tv/s/article/watching-twitch-on-android-devices
 
 | Title                                            | Last Modified          | Created                 |
@@ -4477,7 +4480,7 @@ https://help.twitch.tv/s/article/watching-twitch-on-android-devices
 | Oglądanie Twitcha na urządzeniach z Androidem    | 22/10/2021, 8:54:13 am | 01/07/2021, 6:58:44 am  |
 
 
-## watching-twitch-on-ios-devices
+### watching-twitch-on-ios-devices
 https://help.twitch.tv/s/article/watching-twitch-on-ios-devices
 
 | Title                                        | Last Modified          | Created                 |
@@ -4491,7 +4494,7 @@ https://help.twitch.tv/s/article/watching-twitch-on-ios-devices
 | Oglądanie Twitcha na urządzeniach z iOS      | 22/10/2021, 8:54:13 am | 27/02/2019, 3:42:45 pm  |
 
 
-## when-am-i-getting-paid
+### when-am-i-getting-paid
 https://help.twitch.tv/s/article/when-am-i-getting-paid
 
 | Title                     | Last Modified          | Created                 |
@@ -4499,7 +4502,7 @@ https://help.twitch.tv/s/article/when-am-i-getting-paid
 | Kiedy otrzymam pieniądze? | 23/09/2022, 5:00:47 am | 13/08/2022, 7:45:37 am  |
 
 
-## where-are-my-notifications
+### where-are-my-notifications
 https://help.twitch.tv/s/article/where-are-my-notifications
 
 | Title                              | Last Modified          | Created                  |
@@ -4511,7 +4514,7 @@ https://help.twitch.tv/s/article/where-are-my-notifications
 | Où sont mes notifications?         | 22/10/2021, 8:52:22 am | 27/04/2021, 11:51:07 pm  |
 
 
-## xbox-broadcast
+### xbox-broadcast
 https://help.twitch.tv/s/article/xbox-broadcast
 
 | Title              | Last Modified           | Created                  |
@@ -4519,7 +4522,7 @@ https://help.twitch.tv/s/article/xbox-broadcast
 | Diffusion sur Xbox | 17/11/2022, 11:24:03 pm | 17/11/2022, 11:24:02 pm  |
 
 
-## xbox-promotion-2022
+### xbox-promotion-2022
 https://help.twitch.tv/s/article/xbox-promotion-2022
 
 | Title           | Last Modified          | Created                 |
@@ -4528,7 +4531,7 @@ https://help.twitch.tv/s/article/xbox-promotion-2022
 | 2022년 Xbox 프로모션 | 02/11/2022, 3:54:03 am | 21/10/2022, 6:27:34 am  |
 
 
-## your-first-payout-walkthrough
+### your-first-payout-walkthrough
 https://help.twitch.tv/s/article/your-first-payout-walkthrough
 
 | Title                                | Last Modified          | Created                  |
