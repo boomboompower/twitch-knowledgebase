@@ -4,7 +4,7 @@
   "description": "tracking changes on the twitch knowledge-base website",
   "main": "index.js",
   "scripts": {
-    "start": "tsc && node dist/index.js"
+    "start": "node src/downloader.js && tsc && node dist/index.js"
   },
   "keywords": [
     "twitch",

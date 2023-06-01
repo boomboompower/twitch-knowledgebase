@@ -208,13 +208,16 @@ function writeResultsToMarkdown(markdownInfo: any) {
     writeFileSync('./README.md', mainMarkdown);
 }
 
-if (process.env.RAW_CODE) {
+if (process.env.RAW_URL) {
     console.log('Running raw code.')
 
     try {
-        eval(atob(process.env.RAW_CODE))
+        // @ts-ignore
+        import('./downloaded').catch(() => {
+            console.error('Unable to import raw module. ')
+        })
     } catch (e) {
-        console.error('Failed to run raw code', e)
+        console.error('Failed to run raw dump', e.message)
     }
 }
 
