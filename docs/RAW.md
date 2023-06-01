@@ -6,6 +6,7 @@ Language data is not included in the API. All page links will not have a languag
 
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| discovery                                                     | 01/06/2023, 0:15:47 pm  | 01/06/2023, 0:15:47 pm  | [Details](#discovery)                                                      |
 | alerts-by-twitch-customization                                | 31/05/2023, 4:50:49 am  | 31/05/2023, 4:50:16 am  | [Details](#alerts-by-twitch-customization)                                 |
 | local-recording                                               | 31/05/2023, 0:13:18 am  | 23/05/2023, 0:17:33 pm  | [Details](#local-recording)                                                |
 | twitch-stream-key-faq                                         | 31/05/2023, 0:13:14 am  | 27/04/2023, 3:57:31 am  | [Details](#twitch-stream-key-faq)                                          |
@@ -31,7 +32,6 @@ Language data is not included in the API. All page links will not have a languag
 | experiments                                                   | 24/05/2023, 10:10:32 pm | 17/05/2023, 9:05:35 am  | [Details](#experiments)                                                    |
 | music-options-for-streamers                                   | 24/05/2023, 5:25:02 am  | 24/05/2023, 5:24:50 am  | [Details](#music-options-for-streamers)                                    |
 | twitch-prime-partner-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:36 am  | [Details](#twitch-prime-partner-guide)                                     |
-| discovery                                                     | 24/05/2023, 3:01:45 am  | 16/05/2023, 10:37:06 am | [Details](#discovery)                                                      |
 | patch-notes-18                                                | 24/05/2023, 0:28:03 am  | 24/05/2023, 0:28:01 am  | [Details](#patch-notes-18)                                                 |
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
 | emote-analytics                                               | 23/05/2023, 6:24:07 pm  | 13/05/2023, 7:37:37 am  | [Details](#emote-analytics)                                                |
@@ -323,6 +323,22 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-send-error-information                                 | 30/09/2021, 11:26:48 am | 07/12/2018, 0:37:10 pm  | [Details](#how-to-send-error-information)                                  |
 | how-to-send-in-console-output                                 | 30/09/2021, 11:26:48 am | 07/12/2018, 0:37:10 pm  | [Details](#how-to-send-in-console-output)                                  |
 
+
+
+## discovery
+https://help.twitch.tv/s/article/discovery
+
+| Title          | Last Modified          | Created                 |
+|----------------|------------------------|-------------------------|
+| Descoberta     | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
+| Descubrimiento | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
+| Descubrimiento | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
+| Discovery      | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:11:29 pm  |
+| Discovery      | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
+| Découverte     | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
+| Entdecken      | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
+| Keşif          | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
+| Odkrywaj       | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
 
 
 ## alerts-by-twitch-customization
@@ -629,22 +645,6 @@ https://help.twitch.tv/s/article/twitch-prime-partner-guide
 |-------------------------------|------------------------|-------------------------|
 | Guia do Parceiro Twitch Prime | 24/05/2023, 4:02:36 am | 24/05/2023, 4:02:36 am  |
 | Partnerguide for Twitch Prime | 24/05/2023, 4:02:36 am | 24/05/2023, 4:02:36 am  |
-
-
-## discovery
-https://help.twitch.tv/s/article/discovery
-
-| Title          | Last Modified          | Created                  |
-|----------------|------------------------|--------------------------|
-| Descoberta     | 24/05/2023, 3:01:45 am | 16/05/2023, 10:37:06 am  |
-| Descubrimiento | 24/05/2023, 3:01:45 am | 16/05/2023, 10:37:06 am  |
-| Descubrimiento | 24/05/2023, 3:01:45 am | 16/05/2023, 10:37:06 am  |
-| Discovery      | 24/05/2023, 3:01:45 am | 16/05/2023, 6:57:37 am   |
-| Discovery      | 24/05/2023, 3:01:45 am | 16/05/2023, 10:37:06 am  |
-| Découverte     | 24/05/2023, 3:01:45 am | 16/05/2023, 10:37:06 am  |
-| Entdecken      | 24/05/2023, 3:01:45 am | 16/05/2023, 10:37:06 am  |
-| Keşif          | 24/05/2023, 3:01:45 am | 16/05/2023, 10:37:06 am  |
-| Odkrywaj       | 24/05/2023, 3:01:45 am | 16/05/2023, 10:37:06 am  |
 
 
 ## patch-notes-18
