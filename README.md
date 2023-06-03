@@ -25,7 +25,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Japanese                      | 31/05/2023, 4:50:40 am    | 204 article(s) | [View](docs/ja.md)     |
 | Korean                        | 31/05/2023, 4:50:40 am    | 204 article(s) | [View](docs/ko.md)     |
 | Norwegian                     | 24/05/2023, 4:02:36 am    | 30 article(s)  | [View](docs/no.md)     |
-| Polish                        | 31/05/2023, 4:50:40 am    | 203 article(s) | [View](docs/pl.md)     |
+| Polish                        | 31/05/2023, 4:50:40 am    | 202 article(s) | [View](docs/pl.md)     |
 | Portuguese (Brazil)           | 31/05/2023, 4:50:40 am    | 203 article(s) | [View](docs/pt_BR.md)  |
 | Portuguese (Portugal)         | 26/05/2023, 3:15:05 am    | 43 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 18/11/2022, 1:36:54 pm    | 3 article(s)   | [View](docs/ro.md)     |
@@ -34,8 +34,8 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Spanish                       | 31/05/2023, 4:50:40 am    | 205 article(s) | [View](docs/es.md)     |
 | Spanish (Mexico)              | 31/05/2023, 4:50:40 am    | 205 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 12/05/2023, 3:46:14 am    | 27 article(s)  | [View](docs/sv.md)     |
-| Thai                          | 31/05/2023, 4:50:40 am    | 197 article(s) | [View](docs/th.md)     |
-| Turkish                       | 31/05/2023, 4:50:40 am    | 202 article(s) | [View](docs/tr.md)     |
+| Thai                          | 02/06/2023, 11:26:33 pm   | 197 article(s) | [View](docs/th.md)     |
+| Turkish                       | 02/06/2023, 6:30:14 pm    | 202 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 05/04/2023, 6:11:02 am    | 7 article(s)   | [View](docs/vi.md)     |
 
 ### Dumping

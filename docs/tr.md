@@ -6,8 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                       | 02/06/2023, 6:30:14 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=tr)                        |
 | Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=tr)                      |
-| Twitch Music Getting Started                       | 31/05/2023, 2:32:47 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=tr)                        |
 | Alerts By Twitch Faq                               | 26/05/2023, 8:53:34 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=tr)                                |
 | Alerts By Twitch Css                               | 26/05/2023, 8:53:06 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=tr)                                |
 | Setup Alerts By Twitch                             | 26/05/2023, 8:53:04 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=tr)                              |
