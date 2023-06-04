@@ -58,6 +58,9 @@
 
 | Name                                    | Last Updated (dd/mm/yyyy) | Link                                                                                          |
 |-----------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
+| First Steps For New Affiliates          | 23/02/2023, 9:28:04 pm    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=de)           |
+| Delete Twitch Account                   | 14/02/2023, 7:25:35 pm    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=de)                    |
+| Twitch Charity Viewers                  | 10/02/2023, 10:04:11 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=de)                   |
 | Twitch Charity                          | 10/02/2023, 9:59:12 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=de)                           |
 | Twitch Charity Faqs                     | 10/02/2023, 9:59:02 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=de)                      |
 | Stream Summary                          | 10/02/2023, 5:16:21 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=de)                           |
@@ -96,8 +99,6 @@
 | Supported Browsers                      | 18/10/2022, 0:05:04 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=de)                       |
 | Affiliate Onboarding Guide              | 13/10/2022, 7:54:02 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=de)               |
 | Twitch Content Sharing Guidelines       | 13/10/2022, 7:53:06 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=de)        |
-| How To Use Raids                        | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=de)                         |
-| Charitable Donations                    | 28/09/2022, 0:07:34 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=de)                     |
 
 
 
@@ -106,6 +107,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| How To Use Raids                                              | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=de)                                               |
+| Charitable Donations                                          | 28/09/2022, 0:07:34 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=de)                                           |
 | Subtember 2022 Faq                                            | 27/09/2022, 4:25:19 am    | [Link](https://help.twitch.tv/s/article/subtember-2022-faq?language=de)                                             |
 | Affiliate Emote Prefix Change                                 | 21/09/2022, 4:59:49 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=de)                                  |
 | Boost Train                                                   | 20/09/2022, 2:34:35 am    | [Link](https://help.twitch.tv/s/article/boost-train?language=de)                                                    |
@@ -125,7 +128,6 @@
 | Partner Onboarding Guide                                      | 13/07/2022, 3:11:42 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=de)                                       |
 | How To File A Video Playback Issue                            | 08/07/2022, 8:37:34 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=de)                             |
 | Disconnect Protection                                         | 30/06/2022, 9:18:47 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=de)                                          |
-| Twitch Music Getting Started                                  | 31/05/2022, 10:07:35 pm   | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=de)                                   |
 | Artist Badge Attribution                                      | 20/05/2022, 3:31:37 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=de)                                       |
 | Creating A Strong Password                                    | 18/05/2022, 0:39:26 am    | [Link](https://help.twitch.tv/s/article/creating-a-strong-password?language=de)                                     |
 | Understanding Viewer Count Vs Users In Chat                   | 05/05/2022, 8:14:33 pm    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=de)                    |
@@ -193,7 +195,6 @@
 | How To Claim In Game Content               | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=de)                |
 | Twitch Prime Guide                         | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-guide?language=de)                          |
 | How To Use Twitch Prime Subscriptions      | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=de)       |
-| How To Link Your Amazon Account            | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-link-your-amazon-account?language=de)             |
 
 
 
@@ -202,6 +203,7 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| How To Link Your Amazon Account                   | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-link-your-amazon-account?language=de)                    |
 | Bits Purchase Troubleshooting                     | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=de)                      |
 | Changes To Subscription Badges And Resub Messages | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages?language=de)  |
 | Twitch Merchandise Store Support Faq              | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=de)               |
@@ -243,7 +245,15 @@
 | Username Rename And Recycling Policies            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=de)             |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)             |
 | How To Provide Feedback                           | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=de)                            |
-| Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
+
+
+
+## Article-6
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-6.xml) this sitemap
+
+| Name            | Last Updated (dd/mm/yyyy) | Link                                                                  |
+|-----------------|---------------------------|-----------------------------------------------------------------------|
+| Markdown Basics | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)  |
 
 
 
