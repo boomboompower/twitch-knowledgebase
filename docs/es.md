@@ -6,8 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                       | 05/06/2023, 8:15:12 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=es)                        |
 | Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=es)                      |
-| Twitch Music Getting Started                       | 31/05/2023, 2:32:47 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=es)                        |
 | Twitch Stream Key Faq                              | 30/05/2023, 7:07:27 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=es)                               |
 | Achievements                                       | 30/05/2023, 7:07:25 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=es)                                        |
 | Local Recording                                    | 30/05/2023, 7:07:24 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=es)                                     |

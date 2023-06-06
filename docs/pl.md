@@ -6,8 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                       | 05/06/2023, 8:20:08 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=pl)                        |
 | Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=pl)                      |
-| Twitch Music Getting Started                       | 31/05/2023, 2:32:47 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=pl)                        |
 | Channel Analytics                                  | 30/05/2023, 8:32:19 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pl)                                   |
 | Guide To Broadcast Health                          | 30/05/2023, 8:32:17 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=pl)                           |
 | Achievements                                       | 30/05/2023, 8:32:15 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=pl)                                        |

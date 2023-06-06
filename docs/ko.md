@@ -6,8 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                       | 05/06/2023, 4:07:12 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ko)                        |
 | Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=ko)                      |
-| Twitch Music Getting Started                       | 31/05/2023, 2:32:47 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ko)                        |
 | Guide To Broadcast Health                          | 30/05/2023, 5:42:21 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=ko)                           |
 | Prime Gaming Revenue Guide                         | 30/05/2023, 5:42:19 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ko)                          |
 | Twitch Stream Key Faq                              | 30/05/2023, 5:42:15 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ko)                               |

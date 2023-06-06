@@ -6,8 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                       | 05/06/2023, 4:32:42 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ru)                        |
 | Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=ru)                      |
-| Twitch Music Getting Started                       | 31/05/2023, 2:32:47 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ru)                        |
 | Channel Analytics                                  | 30/05/2023, 4:42:53 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ru)                                   |
 | Achievements                                       | 30/05/2023, 4:42:48 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=ru)                                        |
 | Payout History Dashboard Guide                     | 30/05/2023, 4:42:46 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=ru)                      |
