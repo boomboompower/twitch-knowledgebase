@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| android-purchases                                             | 06/06/2023, 6:59:18 am  | 25/05/2023, 10:43:54 am | [Details](#android-purchases)                                              |
 | discovery                                                     | 01/06/2023, 0:15:47 pm  | 01/06/2023, 0:15:47 pm  | [Details](#discovery)                                                      |
 | alerts-by-twitch-customization                                | 31/05/2023, 4:50:49 am  | 31/05/2023, 4:50:16 am  | [Details](#alerts-by-twitch-customization)                                 |
 | local-recording                                               | 31/05/2023, 0:13:18 am  | 23/05/2023, 0:17:33 pm  | [Details](#local-recording)                                                |
@@ -682,6 +683,14 @@ https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual
 | Amazon Tax Information Interview and IRS Annual Reporting FAQ                                                     | 08/03/2022, 5:00:48 am  | 01/03/2022, 1:06:44 pm   |
 | Amazon 税务信息问卷与美国国税务局年度申报常见问题                                                                                      | 08/03/2022, 5:00:40 am  | 08/03/2022, 5:00:39 am   |
 | Gyakran ismételt kérdések az Amazon adózási adatokról szóló kérdőívvel és az éves IRS-bejelentéssel kapcsolatban  | 08/03/2022, 5:00:40 am  | 08/03/2022, 5:00:39 am   |
+
+
+### android-purchases
+https://help.twitch.tv/s/article/android-purchases
+
+| Title                                         | Last Modified          | Created                  |
+|-----------------------------------------------|------------------------|--------------------------|
+| Canceled Subs, Gift Subs, and Bits on Android | 06/06/2023, 6:59:18 am | 25/05/2023, 10:43:54 am  |
 
 
 ### animated-emotes
@@ -4074,7 +4083,6 @@ https://help.twitch.tv/s/article/twitch-affiliate-program-faq
 | FAQ programme d'affiliation Twitch                        | 10/12/2022, 0:15:33 am | 06/12/2022, 9:58:25 am  |
 | Często zadawane pytania dot. Programu Towarzyszy Twitcha  | 10/12/2022, 0:14:42 am | 06/12/2022, 9:58:25 am  |
 | Domande frequenti sul programma per gli affiliati Twitch  | 10/12/2022, 0:14:40 am | 06/12/2022, 9:58:25 am  |
-| Perguntas Frequentes do Programa de Afiliação da Twitch   | 07/12/2022, 4:50:56 am | 07/12/2022, 4:50:55 am  |
 
 
 ### twitch-charity
