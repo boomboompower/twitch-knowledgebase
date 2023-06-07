@@ -7,6 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| 2023-updated-monetized-streamer-agreement                     | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am | [Details](#2023-updated-monetized-streamer-agreement)                      |
+| branded-content-policy                                        | 07/06/2023, 1:54:32 am  | 07/06/2023, 1:54:31 am  | [Details](#branded-content-policy)                                         |
+| simulcasting-guidelines                                       | 07/06/2023, 1:27:03 am  | 07/06/2023, 1:27:02 am  | [Details](#simulcasting-guidelines)                                        |
 | android-purchases                                             | 06/06/2023, 6:59:18 am  | 25/05/2023, 10:43:54 am | [Details](#android-purchases)                                              |
 | discovery                                                     | 01/06/2023, 0:15:47 pm  | 01/06/2023, 0:15:47 pm  | [Details](#discovery)                                                      |
 | alerts-by-twitch-customization                                | 31/05/2023, 4:50:49 am  | 31/05/2023, 4:50:16 am  | [Details](#alerts-by-twitch-customization)                                 |
@@ -34,7 +37,7 @@ Language data is not included in the API. All page links will not have a languag
 | experiments                                                   | 24/05/2023, 10:10:32 pm | 17/05/2023, 9:05:35 am  | [Details](#experiments)                                                    |
 | music-options-for-streamers                                   | 24/05/2023, 5:25:02 am  | 24/05/2023, 5:24:50 am  | [Details](#music-options-for-streamers)                                    |
 | twitch-prime-partner-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:36 am  | [Details](#twitch-prime-partner-guide)                                     |
-| patch-notes-18                                                | 24/05/2023, 0:28:03 am  | 24/05/2023, 0:28:01 am  | [Details](#patch-notes-18)                                                 |
+| patch-notes-18                                                | 23/05/2023, 10:19:03 pm | 23/05/2023, 10:19:02 pm | [Details](#patch-notes-18)                                                 |
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
 | emote-analytics                                               | 23/05/2023, 6:24:07 pm  | 13/05/2023, 7:37:37 am  | [Details](#emote-analytics)                                                |
 | playback-issue-troubleshooting                                | 22/05/2023, 10:21:02 pm | 06/05/2023, 8:26:59 am  | [Details](#playback-issue-troubleshooting)                                 |
@@ -49,7 +52,6 @@ Language data is not included in the API. All page links will not have a languag
 | Removing-recommendations-you-are-not-interested-in            | 12/05/2023, 3:46:15 am  | 27/04/2023, 5:42:22 am  | [Details](#removing-recommendations-you-are-not-interested-in)             |
 | guest-star-audio                                              | 10/05/2023, 9:20:11 am  | 10/05/2023, 9:19:58 am  | [Details](#guest-star-audio)                                               |
 | authy-faq                                                     | 09/05/2023, 9:15:38 pm  | 27/04/2023, 3:56:49 am  | [Details](#authy-faq)                                                      |
-| branded-content-policy                                        | 09/05/2023, 10:24:18 am | 03/05/2023, 8:42:31 am  | [Details](#branded-content-policy)                                         |
 | guest-star-mod-view                                           | 09/05/2023, 7:04:46 am  | 02/05/2023, 5:47:31 am  | [Details](#guest-star-mod-view)                                            |
 | guest-star-faqs                                               | 09/05/2023, 7:04:05 am  | 02/05/2023, 5:47:55 am  | [Details](#guest-star-faqs)                                                |
 | guest-star-getting-started                                    | 09/05/2023, 7:02:51 am  | 02/05/2023, 5:46:47 am  | [Details](#guest-star-getting-started)                                     |
@@ -125,10 +127,10 @@ Language data is not included in the API. All page links will not have a languag
 | chat-commands                                                 | 19/11/2022, 2:02:32 am  | 19/11/2022, 2:02:30 am  | [Details](#chat-commands)                                                  |
 | gift-subscriptions                                            | 18/11/2022, 6:01:11 am  | 18/11/2022, 6:01:10 am  | [Details](#gift-subscriptions)                                             |
 | xbox-broadcast                                                | 17/11/2022, 11:24:03 pm | 17/11/2022, 11:24:02 pm | [Details](#xbox-broadcast)                                                 |
-| minimum-payout-threshold-countries                            | 16/11/2022, 11:01:03 pm | 09/11/2022, 0:19:41 pm  | [Details](#minimum-payout-threshold-countries)                             |
 | moments                                                       | 16/11/2022, 10:54:36 pm | 09/11/2022, 0:27:14 pm  | [Details](#moments)                                                        |
 | bits-price-adjustment                                         | 16/11/2022, 6:10:31 am  | 08/11/2022, 0:58:12 pm  | [Details](#bits-price-adjustment)                                          |
 | minimum-payout-threshold                                      | 15/11/2022, 4:58:06 am  | 09/11/2022, 0:14:16 pm  | [Details](#minimum-payout-threshold)                                       |
+| minimum-payout-threshold-countries                            | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:10:33 pm  | [Details](#minimum-payout-threshold-countries)                             |
 | how-to-use-extensions                                         | 05/11/2022, 1:14:39 am  | 26/10/2022, 7:06:42 am  | [Details](#how-to-use-extensions)                                          |
 | how-to-configure-extensions                                   | 05/11/2022, 1:14:35 am  | 26/10/2022, 7:28:24 am  | [Details](#how-to-configure-extensions)                                    |
 | leaderboards-guide                                            | 04/11/2022, 8:02:33 pm  | 27/10/2022, 11:23:43 am | [Details](#leaderboards-guide)                                             |
@@ -329,6 +331,22 @@ Language data is not included in the API. All page links will not have a languag
  
 ## All Articles
  
+### 2023-updated-monetized-streamer-agreement
+https://help.twitch.tv/s/article/2023-updated-monetized-streamer-agreement
+
+| Title                                                                     | Last Modified           | Created                  |
+|---------------------------------------------------------------------------|-------------------------|--------------------------|
+| 2023 Twitch 수익 창출 스트리머 계약서 업데이트                                           | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
+| 2023 Updated Monetized Streamer Agreement                                 | 07/06/2023, 10:43:39 am | 07/06/2023, 10:25:45 am  |
+| 2023 年更新版的實況主營收協議                                                         | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:39 am  |
+| Accord de monétisation pour le streaming sur Twitch actualisé (2023)      | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
+| Accordo di monetizzazione per gli streamer Twitch aggiornato al 2023      | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
+| Acuerdo de Streamer Monetizado actualizado en 2023                        | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
+| Acuerdo de streamer monetizado de Twitch actualizado a 2023               | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
+| Aktualisierte Monetarisierungsvereinbarung für Twitch-Streamer:innen 2023 | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
+| Contrato de Monetização Twitch para Streamers Atualizado 2023             | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
+
+
 ### a-tour-of-your-channel-page
 https://help.twitch.tv/s/article/a-tour-of-your-channel-page
 
@@ -885,10 +903,15 @@ https://help.twitch.tv/s/article/Bounty-Board-Service-Advertiser-Terms
 ### branded-content-policy
 https://help.twitch.tv/s/article/branded-content-policy
 
-| Title                     | Last Modified           | Created                 |
-|---------------------------|-------------------------|-------------------------|
-| Markalı İçerik Politikası | 09/05/2023, 10:24:18 am | 03/05/2023, 8:42:31 am  |
-| Branded Content Policy    | 03/05/2023, 8:42:07 am  | 03/05/2023, 8:41:50 am  |
+| Title                                      | Last Modified          | Created                 |
+|--------------------------------------------|------------------------|-------------------------|
+| Lignes de conduite de contenu promotionnel | 07/06/2023, 1:54:32 am | 07/06/2023, 1:54:31 am  |
+| Branded Content Guidelines                 | 07/06/2023, 0:59:37 am | 27/05/2023, 6:36:00 am  |
+| Directrices de contenido promocional       | 07/06/2023, 0:59:37 am | 27/05/2023, 6:37:53 am  |
+| Directrices para el contenido de marca     | 07/06/2023, 0:59:37 am | 27/05/2023, 6:37:53 am  |
+| Diretrizes para Conteúdos Promocionais     | 07/06/2023, 0:59:37 am | 27/05/2023, 6:37:53 am  |
+| Linee guida per i contenuti promozionali   | 07/06/2023, 0:59:37 am | 27/05/2023, 6:37:53 am  |
+| Markalı İçerik İlkeleri                    | 07/06/2023, 0:59:37 am | 27/05/2023, 6:37:53 am  |
 
 
 ### broadcast-guidelines
@@ -963,7 +986,6 @@ https://help.twitch.tv/s/article/celebrate-kpop
 | K-Pop Hayranları Birleşiyor SSS                                                            | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
 | KPop Stans Unite FAQs                                                                      | 30/09/2021, 11:26:49 am | 16/10/2020, 3:02:08 am  |
 | Odpowiedzi na najczęściej zadawane pytania związane z wydarzeniem Fani K-popu, łączcie się | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
-| Perguntas frequentes de Fãs de K-Pop Unidos                                                | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
 
 
 ### Changes-to-Subscription-Badges-and-Resub-Messages
@@ -2189,7 +2211,6 @@ https://help.twitch.tv/s/article/how-to-claim-in-game-content
 | Jak uzyskać zawartość w grze                 | 22/10/2021, 8:53:55 am | 29/05/2020, 9:27:46 am  |
 | Játékon belüli tartalom begyűjtése           | 22/10/2021, 8:53:55 am | 29/05/2020, 8:54:57 am  |
 | Oyun İçi İçerikler Nasıl Alınır?             | 22/10/2021, 8:53:55 am | 29/05/2020, 9:27:46 am  |
-| Pelinsisäisen sisällön lunastaminen          | 22/10/2021, 8:53:55 am | 29/05/2020, 8:54:57 am  |
 
 
 ### how-to-configure-extensions
@@ -2673,7 +2694,6 @@ https://help.twitch.tv/s/article/hyper-scape
 | Odpowiedzi na często zadawane pytania związane z Hyper Scape | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
 | FAQ Hyper Scape                                              | 22/10/2021, 8:54:26 am | 13/08/2020, 4:50:31 am  |
 | FAQs zu Hyper Scape                                          | 22/10/2021, 8:54:26 am | 12/08/2020, 5:49:15 am  |
-| Perguntas frequentes do Hyper Scape                          | 22/10/2021, 8:54:26 am | 12/08/2020, 5:49:15 am  |
 
 
 ### ingame-overlay
@@ -2825,15 +2845,12 @@ https://help.twitch.tv/s/article/local-recording
 ### local-sub-price-countries
 https://help.twitch.tv/s/article/local-sub-price-countries
 
-| Title                                                     | Last Modified          | Created                 |
-|-----------------------------------------------------------|------------------------|-------------------------|
-| Hier gelten die regionalen Abo-Preise                     | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
-| Kraje objęte lokalnymi cenami subskrypcji                 | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
-| Local Subscription Pricing Countries                      | 26/05/2023, 3:15:13 am | 17/05/2023, 6:46:51 am  |
-| Paesi della localizzazione del costo degli abbonamenti    | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
-| Pays concernés par la tarification locale des abonnements | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
-| Países con precios de suscripción locales                 | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
-| Países con precios de suscripción locales                 | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
+| Title                                                  | Last Modified          | Created                 |
+|--------------------------------------------------------|------------------------|-------------------------|
+| Hier gelten die regionalen Abo-Preise                  | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
+| Kraje objęte lokalnymi cenami subskrypcji              | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
+| Local Subscription Pricing Countries                   | 26/05/2023, 3:15:13 am | 17/05/2023, 6:46:51 am  |
+| Paesi della localizzazione del costo degli abbonamenti | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
 
 
 ### local-subscription-pricing
@@ -2993,20 +3010,16 @@ https://help.twitch.tv/s/article/minimum-payout-threshold
 ### minimum-payout-threshold-countries
 https://help.twitch.tv/s/article/minimum-payout-threshold-countries
 
-| Title                                                         | Last Modified           | Created                 |
-|---------------------------------------------------------------|-------------------------|-------------------------|
-| Países con umbral de pago mínimo de 50 USD                    | 16/11/2022, 11:01:03 pm | 09/11/2022, 0:19:41 pm  |
-| $50 Minimum Payout Threshold Countries                        | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:10:33 pm  |
-| $50 款項發放最低門檻的國家/地區                                            | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:19:41 pm  |
-| $50 최소 지급 기준액 국가                                              | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:19:41 pm  |
-| 50 $ Ödeme Eşiği - Ülkeler                                    | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:19:41 pm  |
-| 50ドルの支払い下限額が適用される国や地域                                         | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:19:41 pm  |
-| Kraje, w których obowiązuje próg minimalnej wypłaty 50USD     | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:19:41 pm  |
-| Länder mit einer Mindestauszahlungsgrenze von 50$             | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:19:41 pm  |
-| Paesi con soglia minima di pagamento pari a $50               | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:19:41 pm  |
-| Pays concernés par le seuil de paiement minimum de 50$        | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:19:41 pm  |
-| Países com valor mínimo de pagamento de $50 dólares           | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:19:41 pm  |
-| Países compatibles con el umbral mínimo de pago de 50 dólares | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:19:41 pm  |
+| Title                                                     | Last Modified          | Created                 |
+|-----------------------------------------------------------|------------------------|-------------------------|
+| $50 Minimum Payout Threshold Countries                    | 15/11/2022, 4:57:48 am | 09/11/2022, 0:10:33 pm  |
+| $50 款項發放最低門檻的國家/地區                                        | 15/11/2022, 4:57:48 am | 09/11/2022, 0:19:41 pm  |
+| $50 최소 지급 기준액 국가                                          | 15/11/2022, 4:57:48 am | 09/11/2022, 0:19:41 pm  |
+| 50 $ Ödeme Eşiği - Ülkeler                                | 15/11/2022, 4:57:48 am | 09/11/2022, 0:19:41 pm  |
+| 50ドルの支払い下限額が適用される国や地域                                     | 15/11/2022, 4:57:48 am | 09/11/2022, 0:19:41 pm  |
+| Kraje, w których obowiązuje próg minimalnej wypłaty 50USD | 15/11/2022, 4:57:48 am | 09/11/2022, 0:19:41 pm  |
+| Länder mit einer Mindestauszahlungsgrenze von 50$         | 15/11/2022, 4:57:48 am | 09/11/2022, 0:19:41 pm  |
+| Paesi con soglia minima di pagamento pari a $50           | 15/11/2022, 4:57:48 am | 09/11/2022, 0:19:41 pm  |
 
 
 ### mission-based-drops
@@ -3337,13 +3350,11 @@ https://help.twitch.tv/s/article/patch-notes-16
 | Title                                               | Last Modified           | Created                 |
 |-----------------------------------------------------|-------------------------|-------------------------|
 | Patch Notes ǀ ตอนที่ 16 ǀ 23 กุมภาพันธ์ 2023        | 28/02/2023, 3:26:05 am  | 28/02/2023, 3:26:03 am  |
-| Patch Notes ǀ 第 16 集 ǀ 2023 年 2 月 23 日              | 28/02/2023, 3:26:02 am  | 25/02/2023, 6:28:46 am  |
 | Patch Notes ǀ Episodio 16 ǀ 23 de febrero de 2023   | 28/02/2023, 3:25:32 am  | 18/02/2023, 0:04:11 pm  |
 | Patch Notes ǀ Episódio 16 ǀ 23 de fevereiro de 2023 | 28/02/2023, 1:24:03 am  | 28/02/2023, 1:24:01 am  |
 | Patch Notes ǀ Episodio 16 ǀ 23 de febrero de 2023   | 28/02/2023, 0:55:33 am  | 25/02/2023, 6:28:46 am  |
 | Patch Notes ǀ Épisode16 ǀ 23février 2023            | 28/02/2023, 0:27:32 am  | 18/02/2023, 0:04:11 pm  |
 | Patch Notes ǀ Odcinek 16 ǀ 23 lutego 2023r.         | 27/02/2023, 11:04:04 pm | 25/02/2023, 6:28:46 am  |
-| Patch Notes ǀ エピソード16 ǀ 2023年2月23日                  | 27/02/2023, 9:41:37 pm  | 25/02/2023, 6:28:46 am  |
 | Patch Notes ǀ Folge16 ǀ 23.Februar2023              | 27/02/2023, 9:27:02 pm  | 18/02/2023, 0:04:11 pm  |
 | Patch Notes ǀ 16. Bölüm ǀ 23 Şubat 2023             | 27/02/2023, 8:32:33 pm  | 25/02/2023, 6:28:46 am  |
 | Patch Notes ǀ Episodio 16 ǀ 23 febbraio 2023        | 27/02/2023, 8:32:32 pm  | 25/02/2023, 6:28:46 am  |
@@ -3358,11 +3369,9 @@ https://help.twitch.tv/s/article/patch-notes-17
 | Patch Notes ǀ Épisode17 ǀ 19avril 2023          | 04/05/2023, 4:08:33 pm  | 04/05/2023, 4:08:32 pm   |
 | Patch Notes ǀ ตอนที่ 17 ǀ 19 เมษายน 2023        | 22/04/2023, 1:36:32 am  | 22/04/2023, 1:36:31 am   |
 | Patch Notes ǀ Episodio 17 ǀ 19 de abril de 2023 | 22/04/2023, 1:36:04 am  | 22/04/2023, 1:36:02 am   |
-| Patch Notesǀ Folge17ǀ 19.April2023              | 21/04/2023, 11:42:04 pm | 21/04/2023, 11:42:02 pm  |
 | Patch Notes ǀ Episódio 17 ǀ 19 de abril de 2023 | 21/04/2023, 11:40:32 pm | 14/04/2023, 2:17:46 pm   |
 | Patch Notes ǀ 17. Bölüm ǀ 19 Nisan 2023         | 21/04/2023, 9:49:32 pm  | 21/04/2023, 9:49:31 pm   |
 | Patch Notes ǀ Episodio 17 ǀ 23 de abril de 2023 | 21/04/2023, 9:23:32 pm  | 21/04/2023, 9:23:31 pm   |
-| Patch Notes ǀ エピソード17 ǀ 2023年4月19日              | 21/04/2023, 8:54:33 pm  | 21/04/2023, 8:54:31 pm   |
 | Patch Notes ǀ Odcinek 17 ǀ 19 kwietnia 2023r.   | 21/04/2023, 8:19:03 pm  | 21/04/2023, 8:19:01 pm   |
 | Patch Notes ǀ Episodio 17 ǀ 19 aprile 2023      | 21/04/2023, 7:20:04 pm  | 21/04/2023, 7:20:03 pm   |
 | Patch Note ǀ 第 17 集 ǀ 2023 年 4 月 19 日           | 21/04/2023, 7:07:03 pm  | 21/04/2023, 7:07:01 pm   |
@@ -3374,15 +3383,12 @@ https://help.twitch.tv/s/article/patch-notes-18
 
 | Title                                          | Last Modified           | Created                  |
 |------------------------------------------------|-------------------------|--------------------------|
-| Patch Notes ǀ ตอนที่ 18 ǀ 17 พฤษภาคม 2023      | 24/05/2023, 0:28:03 am  | 24/05/2023, 0:28:01 am   |
 | Patch Notes ǀ Episodio 18 ǀ 17 de mayo de 2023 | 23/05/2023, 10:19:03 pm | 23/05/2023, 10:19:02 pm  |
 | Patch Notes ǀ Episodio 18 ǀ 17 de mayo de 2023 | 23/05/2023, 9:03:02 pm  | 23/05/2023, 9:03:01 pm   |
 | Patch Notes ǀ Odcinek 18 ǀ 17 maja 2023r.      | 23/05/2023, 8:44:32 pm  | 23/05/2023, 8:44:31 pm   |
 | Patch Notes ǀ Épisode18 ǀ 17mai 2023           | 23/05/2023, 8:36:03 pm  | 23/05/2023, 8:36:02 pm   |
-| Patch Notesǀ Folge18ǀ 17.Mai2023               | 23/05/2023, 7:43:02 pm  | 23/05/2023, 7:43:01 pm   |
 | Patch Note ǀ 第 18 集 ǀ 2023 年 5 月 17 日          | 23/05/2023, 5:50:03 pm  | 23/05/2023, 5:50:01 pm   |
 | Patch Notes ǀ Episodio 18 ǀ 17 maggio 2023     | 23/05/2023, 5:33:35 pm  | 23/05/2023, 5:33:34 pm   |
-| Patch Notes ǀ エピソード18 ǀ 2023年5月17日             | 23/05/2023, 3:37:32 pm  | 23/05/2023, 3:37:31 pm   |
 | Patch Notes ǀ Episódio 18 ǀ 17 de maio de 2023 | 23/05/2023, 10:23:32 am | 23/05/2023, 10:23:31 am  |
 | Patch Notes ǀ 18. Bölüm ǀ 17 Mayıs 2023        | 22/05/2023, 6:23:02 pm  | 22/05/2023, 6:23:01 pm   |
 | Patch Notes ǀ Episode 18 ǀ May 17, 2023        | 19/05/2023, 6:56:06 am  | 19/05/2023, 6:55:07 am   |
@@ -3397,33 +3403,30 @@ https://help.twitch.tv/s/article/payout-balance-faq
 | Domande frequenti sul Saldo di pagamento      | 23/09/2022, 4:58:37 am | 13/08/2022, 7:33:43 am  |
 | FAQ sur le solde de paiement                  | 23/09/2022, 4:58:37 am | 13/08/2022, 7:33:43 am  |
 | FAQs zum Auszahlungsbetrag                    | 23/09/2022, 4:58:37 am | 13/08/2022, 7:33:43 am  |
-| Payout Balance FAQ                            | 23/09/2022, 4:58:37 am | 12/08/2022, 7:44:39 am  |
 
 
 ### payout-details-faq
 https://help.twitch.tv/s/article/payout-details-faq
 
-| Title                                             | Last Modified          | Created                  |
-|---------------------------------------------------|------------------------|--------------------------|
-| Często zadawane pytania na temat wypłat           | 13/07/2022, 3:11:03 am | 29/06/2022, 8:26:24 am   |
-| Domande frequenti sui dettagli di pagamento       | 13/07/2022, 3:11:03 am | 29/06/2022, 8:26:24 am   |
-| FAQ sur les informations de paiement              | 13/07/2022, 3:11:03 am | 29/06/2022, 8:26:24 am   |
-| Häufig gestellte Fragen zu den Auszahlungsdetails | 13/07/2022, 3:11:03 am | 29/06/2022, 8:26:24 am   |
-| Payout Details FAQ                                | 13/07/2022, 3:11:03 am | 28/06/2022, 10:26:22 am  |
+| Title                                             | Last Modified          | Created                 |
+|---------------------------------------------------|------------------------|-------------------------|
+| Często zadawane pytania na temat wypłat           | 13/07/2022, 3:11:03 am | 29/06/2022, 8:26:24 am  |
+| Domande frequenti sui dettagli di pagamento       | 13/07/2022, 3:11:03 am | 29/06/2022, 8:26:24 am  |
+| FAQ sur les informations de paiement              | 13/07/2022, 3:11:03 am | 29/06/2022, 8:26:24 am  |
+| Häufig gestellte Fragen zu den Auszahlungsdetails | 13/07/2022, 3:11:03 am | 29/06/2022, 8:26:24 am  |
 
 
 ### payout-history-dashboard-guide
 https://help.twitch.tv/s/article/payout-history-dashboard-guide
 
-| Title                               | Last Modified           | Created                  |
-|-------------------------------------|-------------------------|--------------------------|
-| Guide de l'historique des paiements | 31/05/2023, 0:13:12 am  | 23/05/2023, 0:20:24 pm   |
-| Leitfaden zum Auszahlungsverlauf    | 30/05/2023, 10:34:38 pm | 23/05/2023, 0:20:24 pm   |
-| Guía del historial de pagos         | 30/05/2023, 7:55:08 pm  | 23/05/2023, 0:20:24 pm   |
-| Guía sobre el historial de pagos    | 30/05/2023, 7:07:04 pm  | 23/05/2023, 0:20:24 pm   |
-| Guida allo storico dei pagamenti    | 30/05/2023, 5:46:37 pm  | 23/05/2023, 0:20:24 pm   |
-| Guia do Histórico de pagamentos     | 30/05/2023, 10:34:41 am | 23/05/2023, 0:20:24 pm   |
-| Payout History Guide                | 24/05/2023, 4:02:24 am  | 23/05/2023, 11:23:35 am  |
+| Title                               | Last Modified           | Created                 |
+|-------------------------------------|-------------------------|-------------------------|
+| Guide de l'historique des paiements | 31/05/2023, 0:13:12 am  | 23/05/2023, 0:20:24 pm  |
+| Leitfaden zum Auszahlungsverlauf    | 30/05/2023, 10:34:38 pm | 23/05/2023, 0:20:24 pm  |
+| Guía del historial de pagos         | 30/05/2023, 7:55:08 pm  | 23/05/2023, 0:20:24 pm  |
+| Guía sobre el historial de pagos    | 30/05/2023, 7:07:04 pm  | 23/05/2023, 0:20:24 pm  |
+| Guida allo storico dei pagamenti    | 30/05/2023, 5:46:37 pm  | 23/05/2023, 0:20:24 pm  |
+| Guia do Histórico de pagamentos     | 30/05/2023, 10:34:41 am | 23/05/2023, 0:20:24 pm  |
 
 
 ### picture-by-picture-ads
@@ -3712,6 +3715,19 @@ https://help.twitch.tv/s/article/shoutouts
 | Cómo hacer una mención          | 29/09/2022, 7:59:12 am | 29/09/2022, 7:59:12 am  |
 | How to Give a Shoutout          | 29/09/2022, 7:59:12 am | 29/09/2022, 7:59:00 am  |
 | Jak wywołać kanał               | 29/09/2022, 7:59:12 am | 29/09/2022, 7:59:12 am  |
+
+
+### simulcasting-guidelines
+https://help.twitch.tv/s/article/simulcasting-guidelines
+
+| Title                                                           | Last Modified          | Created                 |
+|-----------------------------------------------------------------|------------------------|-------------------------|
+| Lignes de conduite de diffusion en simultané                    | 07/06/2023, 1:27:03 am | 07/06/2023, 1:27:02 am  |
+| Directrices de streaming simultáneo                             | 07/06/2023, 0:59:31 am | 27/05/2023, 7:06:46 am  |
+| Directrices para la transmisión simultánea                      | 07/06/2023, 0:59:31 am | 27/05/2023, 7:06:46 am  |
+| Diretrizes para Transmissões Simultâneas                        | 07/06/2023, 0:59:31 am | 27/05/2023, 7:06:46 am  |
+| Eş Zamanlı Yayın İlkeleri                                       | 07/06/2023, 0:59:31 am | 27/05/2023, 7:06:46 am  |
+| Linee guida per le trasmissioni in diretta streaming simultanee | 07/06/2023, 0:59:31 am | 27/05/2023, 7:06:46 am  |
 
 
 ### smart-notification-setting
