@@ -17,7 +17,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Dutch (Netherlands)           | 26/05/2023, 3:14:57 am    | 37 article(s)  | [View](docs/nl_NL.md)  |
 | English (United States)       | 31/05/2023, 4:50:49 am    | 225 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 24/05/2023, 4:02:36 am    | 29 article(s)  | [View](docs/fi.md)     |
-| French                        | 06/06/2023, 1:32:40 am    | 206 article(s) | [View](docs/fr.md)     |
+| French                        | 06/06/2023, 1:32:40 am    | 207 article(s) | [View](docs/fr.md)     |
 | German                        | 05/06/2023, 7:57:45 pm    | 208 article(s) | [View](docs/de.md)     |
 | Greek                         | 26/05/2023, 3:14:57 am    | 8 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 24/05/2023, 4:02:36 am    | 21 article(s)  | [View](docs/hu.md)     |
@@ -25,7 +25,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Japanese                      | 05/06/2023, 6:29:14 pm    | 204 article(s) | [View](docs/ja.md)     |
 | Korean                        | 05/06/2023, 4:07:12 pm    | 204 article(s) | [View](docs/ko.md)     |
 | Norwegian                     | 24/05/2023, 4:02:36 am    | 30 article(s)  | [View](docs/no.md)     |
-| Polish                        | 05/06/2023, 8:20:08 pm    | 202 article(s) | [View](docs/pl.md)     |
+| Polish                        | 05/06/2023, 8:20:08 pm    | 203 article(s) | [View](docs/pl.md)     |
 | Portuguese (Brazil)           | 05/06/2023, 11:41:11 am   | 206 article(s) | [View](docs/pt_BR.md)  |
 | Portuguese (Portugal)         | 26/05/2023, 3:15:05 am    | 42 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 18/11/2022, 1:36:54 pm    | 3 article(s)   | [View](docs/ro.md)     |
@@ -34,7 +34,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Spanish                       | 05/06/2023, 8:15:12 pm    | 207 article(s) | [View](docs/es.md)     |
 | Spanish (Mexico)              | 05/06/2023, 7:23:46 pm    | 206 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 12/05/2023, 3:46:14 am    | 27 article(s)  | [View](docs/sv.md)     |
-| Thai                          | 02/06/2023, 11:26:33 pm   | 197 article(s) | [View](docs/th.md)     |
+| Thai                          | 02/06/2023, 11:26:33 pm   | 198 article(s) | [View](docs/th.md)     |
 | Turkish                       | 02/06/2023, 6:30:14 pm    | 204 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 05/04/2023, 6:11:02 am    | 7 article(s)   | [View](docs/vi.md)     |
 

@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| 2023-updated-monetized-streamer-agreement                     | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am | [Details](#2023-updated-monetized-streamer-agreement)                      |
+| 2023-updated-monetized-streamer-agreement                     | 07/06/2023, 9:48:05 pm  | 07/06/2023, 10:26:26 am | [Details](#2023-updated-monetized-streamer-agreement)                      |
 | branded-content-policy                                        | 07/06/2023, 1:54:32 am  | 07/06/2023, 1:54:31 am  | [Details](#branded-content-policy)                                         |
 | simulcasting-guidelines                                       | 07/06/2023, 1:27:03 am  | 07/06/2023, 1:27:02 am  | [Details](#simulcasting-guidelines)                                        |
 | android-purchases                                             | 06/06/2023, 6:59:18 am  | 25/05/2023, 10:43:54 am | [Details](#android-purchases)                                              |
@@ -336,13 +336,13 @@ https://help.twitch.tv/s/article/2023-updated-monetized-streamer-agreement
 
 | Title                                                                     | Last Modified           | Created                  |
 |---------------------------------------------------------------------------|-------------------------|--------------------------|
-| 2023 Twitch 수익 창출 스트리머 계약서 업데이트                                           | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
+| Acuerdo de Streamer Monetizado actualizado en 2023                        | 07/06/2023, 9:48:05 pm  | 07/06/2023, 10:26:26 am  |
+| 2023 年更新版的實況主營收協議                                                         | 07/06/2023, 8:26:02 pm  | 07/06/2023, 10:26:26 am  |
+| Accord de monétisation pour le streaming sur Twitch actualisé (2023)      | 07/06/2023, 8:24:02 pm  | 07/06/2023, 10:26:26 am  |
+| 2023 Twitch 수익 창출 스트리머 계약서 업데이트                                           | 07/06/2023, 8:16:35 pm  | 07/06/2023, 10:26:26 am  |
+| Acuerdo de streamer monetizado de Twitch actualizado a 2023               | 07/06/2023, 7:20:05 pm  | 07/06/2023, 10:26:26 am  |
+| Accordo di monetizzazione per gli streamer Twitch aggiornato al 2023      | 07/06/2023, 6:29:32 pm  | 07/06/2023, 10:26:26 am  |
 | 2023 Updated Monetized Streamer Agreement                                 | 07/06/2023, 10:43:39 am | 07/06/2023, 10:25:45 am  |
-| 2023 年更新版的實況主營收協議                                                         | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:39 am  |
-| Accord de monétisation pour le streaming sur Twitch actualisé (2023)      | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
-| Accordo di monetizzazione per gli streamer Twitch aggiornato al 2023      | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
-| Acuerdo de Streamer Monetizado actualizado en 2023                        | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
-| Acuerdo de streamer monetizado de Twitch actualizado a 2023               | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
 | Aktualisierte Monetarisierungsvereinbarung für Twitch-Streamer:innen 2023 | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
 | Contrato de Monetização Twitch para Streamers Atualizado 2023             | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
 
