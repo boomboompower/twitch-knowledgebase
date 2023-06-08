@@ -7,8 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| 2023-updated-monetized-streamer-agreement                     | 07/06/2023, 9:48:05 pm  | 07/06/2023, 10:26:26 am | [Details](#2023-updated-monetized-streamer-agreement)                      |
-| branded-content-policy                                        | 07/06/2023, 1:54:32 am  | 07/06/2023, 1:54:31 am  | [Details](#branded-content-policy)                                         |
+| branded-content-policy                                        | 08/06/2023, 7:33:09 am  | 08/06/2023, 7:33:08 am  | [Details](#branded-content-policy)                                         |
+| 2023-updated-monetized-streamer-agreement                     | 07/06/2023, 10:42:34 pm | 07/06/2023, 10:26:26 am | [Details](#2023-updated-monetized-streamer-agreement)                      |
 | simulcasting-guidelines                                       | 07/06/2023, 1:27:03 am  | 07/06/2023, 1:27:02 am  | [Details](#simulcasting-guidelines)                                        |
 | android-purchases                                             | 06/06/2023, 6:59:18 am  | 25/05/2023, 10:43:54 am | [Details](#android-purchases)                                              |
 | discovery                                                     | 01/06/2023, 0:15:47 pm  | 01/06/2023, 0:15:47 pm  | [Details](#discovery)                                                      |
@@ -336,6 +336,8 @@ https://help.twitch.tv/s/article/2023-updated-monetized-streamer-agreement
 
 | Title                                                                     | Last Modified           | Created                  |
 |---------------------------------------------------------------------------|-------------------------|--------------------------|
+| Contrato de Monetização Twitch para Streamers Atualizado 2023             | 07/06/2023, 10:42:34 pm | 07/06/2023, 10:26:26 am  |
+| Aktualisierte Monetarisierungsvereinbarung für Twitch-Streamer:innen 2023 | 07/06/2023, 10:26:03 pm | 07/06/2023, 10:26:26 am  |
 | Acuerdo de Streamer Monetizado actualizado en 2023                        | 07/06/2023, 9:48:05 pm  | 07/06/2023, 10:26:26 am  |
 | 2023 年更新版的實況主營收協議                                                         | 07/06/2023, 8:26:02 pm  | 07/06/2023, 10:26:26 am  |
 | Accord de monétisation pour le streaming sur Twitch actualisé (2023)      | 07/06/2023, 8:24:02 pm  | 07/06/2023, 10:26:26 am  |
@@ -343,8 +345,6 @@ https://help.twitch.tv/s/article/2023-updated-monetized-streamer-agreement
 | Acuerdo de streamer monetizado de Twitch actualizado a 2023               | 07/06/2023, 7:20:05 pm  | 07/06/2023, 10:26:26 am  |
 | Accordo di monetizzazione per gli streamer Twitch aggiornato al 2023      | 07/06/2023, 6:29:32 pm  | 07/06/2023, 10:26:26 am  |
 | 2023 Updated Monetized Streamer Agreement                                 | 07/06/2023, 10:43:39 am | 07/06/2023, 10:25:45 am  |
-| Aktualisierte Monetarisierungsvereinbarung für Twitch-Streamer:innen 2023 | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
-| Contrato de Monetização Twitch para Streamers Atualizado 2023             | 07/06/2023, 10:43:39 am | 07/06/2023, 10:43:38 am  |
 
 
 ### a-tour-of-your-channel-page
@@ -905,13 +905,13 @@ https://help.twitch.tv/s/article/branded-content-policy
 
 | Title                                      | Last Modified          | Created                 |
 |--------------------------------------------|------------------------|-------------------------|
-| Lignes de conduite de contenu promotionnel | 07/06/2023, 1:54:32 am | 07/06/2023, 1:54:31 am  |
-| Branded Content Guidelines                 | 07/06/2023, 0:59:37 am | 27/05/2023, 6:36:00 am  |
-| Directrices de contenido promocional       | 07/06/2023, 0:59:37 am | 27/05/2023, 6:37:53 am  |
-| Directrices para el contenido de marca     | 07/06/2023, 0:59:37 am | 27/05/2023, 6:37:53 am  |
-| Diretrizes para Conteúdos Promocionais     | 07/06/2023, 0:59:37 am | 27/05/2023, 6:37:53 am  |
-| Linee guida per i contenuti promozionali   | 07/06/2023, 0:59:37 am | 27/05/2023, 6:37:53 am  |
-| Markalı İçerik İlkeleri                    | 07/06/2023, 0:59:37 am | 27/05/2023, 6:37:53 am  |
+| Directrices de contenido promocional       | 08/06/2023, 7:33:09 am | 08/06/2023, 7:33:08 am  |
+| Directrices para el contenido de marca     | 08/06/2023, 7:33:09 am | 08/06/2023, 7:33:08 am  |
+| Diretrizes para Conteúdos Promocionais     | 08/06/2023, 7:33:09 am | 08/06/2023, 7:33:08 am  |
+| Lignes de conduite de contenu promotionnel | 08/06/2023, 7:33:09 am | 08/06/2023, 7:33:08 am  |
+| Linee guida per i contenuti promozionali   | 08/06/2023, 7:33:09 am | 08/06/2023, 7:33:08 am  |
+| Markalı İçerik İlkeleri                    | 08/06/2023, 7:33:09 am | 08/06/2023, 7:33:08 am  |
+| Branded Content Guidelines                 | 08/06/2023, 7:33:08 am | 08/06/2023, 5:25:17 am  |
 
 
 ### broadcast-guidelines
