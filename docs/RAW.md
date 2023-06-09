@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| branded-content-policy                                        | 08/06/2023, 7:33:09 am  | 08/06/2023, 7:33:08 am  | [Details](#branded-content-policy)                                         |
+| branded-content-policy                                        | 09/06/2023, 8:46:18 am  | 09/06/2023, 2:10:34 am  | [Details](#branded-content-policy)                                         |
 | 2023-updated-monetized-streamer-agreement                     | 07/06/2023, 10:42:34 pm | 07/06/2023, 10:26:26 am | [Details](#2023-updated-monetized-streamer-agreement)                      |
 | simulcasting-guidelines                                       | 07/06/2023, 1:27:03 am  | 07/06/2023, 1:27:02 am  | [Details](#simulcasting-guidelines)                                        |
 | android-purchases                                             | 06/06/2023, 6:59:18 am  | 25/05/2023, 10:43:54 am | [Details](#android-purchases)                                              |
@@ -905,13 +905,13 @@ https://help.twitch.tv/s/article/branded-content-policy
 
 | Title                                      | Last Modified          | Created                 |
 |--------------------------------------------|------------------------|-------------------------|
-| Directrices de contenido promocional       | 08/06/2023, 7:33:09 am | 08/06/2023, 7:33:08 am  |
-| Directrices para el contenido de marca     | 08/06/2023, 7:33:09 am | 08/06/2023, 7:33:08 am  |
-| Diretrizes para Conteúdos Promocionais     | 08/06/2023, 7:33:09 am | 08/06/2023, 7:33:08 am  |
-| Lignes de conduite de contenu promotionnel | 08/06/2023, 7:33:09 am | 08/06/2023, 7:33:08 am  |
-| Linee guida per i contenuti promozionali   | 08/06/2023, 7:33:09 am | 08/06/2023, 7:33:08 am  |
-| Markalı İçerik İlkeleri                    | 08/06/2023, 7:33:09 am | 08/06/2023, 7:33:08 am  |
-| Branded Content Guidelines                 | 08/06/2023, 7:33:08 am | 08/06/2023, 5:25:17 am  |
+| Markalı İçerik İlkeleri                    | 09/06/2023, 8:46:18 am | 09/06/2023, 2:10:34 am  |
+| Directrices para el contenido de marca     | 09/06/2023, 8:46:06 am | 09/06/2023, 2:10:30 am  |
+| Directrices de contenido promocional       | 09/06/2023, 8:46:00 am | 09/06/2023, 2:10:12 am  |
+| Diretrizes para Conteúdos Promocionais     | 09/06/2023, 8:45:45 am | 09/06/2023, 2:10:01 am  |
+| Linee guida per i contenuti promozionali   | 09/06/2023, 8:44:03 am | 09/06/2023, 2:10:09 am  |
+| Branded Content Guidelines                 | 09/06/2023, 8:41:03 am | 09/06/2023, 8:39:01 am  |
+| Lignes de conduite de contenu promotionnel | 09/06/2023, 8:41:02 am | 09/06/2023, 2:10:14 am  |
 
 
 ### broadcast-guidelines
