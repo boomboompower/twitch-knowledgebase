@@ -7,8 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| music-options-for-streamers                                   | 10/06/2023, 5:39:19 am  | 10/06/2023, 3:08:21 am  | [Details](#music-options-for-streamers)                                    |
+| 2023-updated-monetized-streamer-agreement                     | 10/06/2023, 1:22:51 am  | 10/06/2023, 1:22:50 am  | [Details](#2023-updated-monetized-streamer-agreement)                      |
 | branded-content-policy                                        | 09/06/2023, 8:46:18 am  | 09/06/2023, 2:10:34 am  | [Details](#branded-content-policy)                                         |
-| 2023-updated-monetized-streamer-agreement                     | 07/06/2023, 10:42:34 pm | 07/06/2023, 10:26:26 am | [Details](#2023-updated-monetized-streamer-agreement)                      |
 | simulcasting-guidelines                                       | 07/06/2023, 1:27:03 am  | 07/06/2023, 1:27:02 am  | [Details](#simulcasting-guidelines)                                        |
 | android-purchases                                             | 06/06/2023, 6:59:18 am  | 25/05/2023, 10:43:54 am | [Details](#android-purchases)                                              |
 | discovery                                                     | 01/06/2023, 0:15:47 pm  | 01/06/2023, 0:15:47 pm  | [Details](#discovery)                                                      |
@@ -35,7 +36,6 @@ Language data is not included in the API. All page links will not have a languag
 | broadcasting-guidelines                                       | 26/05/2023, 3:10:33 am  | 26/05/2023, 3:10:13 am  | [Details](#broadcasting-guidelines)                                        |
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
 | experiments                                                   | 24/05/2023, 10:10:32 pm | 17/05/2023, 9:05:35 am  | [Details](#experiments)                                                    |
-| music-options-for-streamers                                   | 24/05/2023, 5:25:02 am  | 24/05/2023, 5:24:50 am  | [Details](#music-options-for-streamers)                                    |
 | twitch-prime-partner-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:36 am  | [Details](#twitch-prime-partner-guide)                                     |
 | patch-notes-18                                                | 23/05/2023, 10:19:03 pm | 23/05/2023, 10:19:02 pm | [Details](#patch-notes-18)                                                 |
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
@@ -334,17 +334,17 @@ Language data is not included in the API. All page links will not have a languag
 ### 2023-updated-monetized-streamer-agreement
 https://help.twitch.tv/s/article/2023-updated-monetized-streamer-agreement
 
-| Title                                                                     | Last Modified           | Created                  |
-|---------------------------------------------------------------------------|-------------------------|--------------------------|
-| Contrato de Monetização Twitch para Streamers Atualizado 2023             | 07/06/2023, 10:42:34 pm | 07/06/2023, 10:26:26 am  |
-| Aktualisierte Monetarisierungsvereinbarung für Twitch-Streamer:innen 2023 | 07/06/2023, 10:26:03 pm | 07/06/2023, 10:26:26 am  |
-| Acuerdo de Streamer Monetizado actualizado en 2023                        | 07/06/2023, 9:48:05 pm  | 07/06/2023, 10:26:26 am  |
-| 2023 年更新版的實況主營收協議                                                         | 07/06/2023, 8:26:02 pm  | 07/06/2023, 10:26:26 am  |
-| Accord de monétisation pour le streaming sur Twitch actualisé (2023)      | 07/06/2023, 8:24:02 pm  | 07/06/2023, 10:26:26 am  |
-| 2023 Twitch 수익 창출 스트리머 계약서 업데이트                                           | 07/06/2023, 8:16:35 pm  | 07/06/2023, 10:26:26 am  |
-| Acuerdo de streamer monetizado de Twitch actualizado a 2023               | 07/06/2023, 7:20:05 pm  | 07/06/2023, 10:26:26 am  |
-| Accordo di monetizzazione per gli streamer Twitch aggiornato al 2023      | 07/06/2023, 6:29:32 pm  | 07/06/2023, 10:26:26 am  |
-| 2023 Updated Monetized Streamer Agreement                                 | 07/06/2023, 10:43:39 am | 07/06/2023, 10:25:45 am  |
+| Title                                                                     | Last Modified          | Created                 |
+|---------------------------------------------------------------------------|------------------------|-------------------------|
+| 2023 Twitch 수익 창출 스트리머 계약서 업데이트                                           | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
+| 2023 Updated Monetized Streamer Agreement                                 | 10/06/2023, 1:22:51 am | 09/06/2023, 1:08:07 pm  |
+| 2023 年更新版的實況主營收協議                                                         | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
+| Accord de monétisation pour le streaming sur Twitch actualisé (2023)      | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
+| Accordo di monetizzazione per gli streamer Twitch aggiornato al 2023      | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
+| Acuerdo de Streamer Monetizado actualizado en 2023                        | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
+| Acuerdo de streamer monetizado de Twitch actualizado a 2023               | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
+| Aktualisierte Monetarisierungsvereinbarung für Twitch-Streamer:innen 2023 | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
+| Contrato de Monetização Twitch para Streamers Atualizado 2023             | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
 
 
 ### a-tour-of-your-channel-page
@@ -3159,7 +3159,7 @@ https://help.twitch.tv/s/article/music-options-for-streamers
 
 | Title                       | Last Modified          | Created                 |
 |-----------------------------|------------------------|-------------------------|
-| Music Options for Streamers | 24/05/2023, 5:25:02 am | 24/05/2023, 5:24:50 am  |
+| Music Options for Streamers | 10/06/2023, 5:39:19 am | 10/06/2023, 3:08:21 am  |
 
 
 ### nba-g-league-co-streaming-guide
