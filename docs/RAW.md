@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| partner-program-overview                                      | 16/06/2023, 2:27:15 am  | 27/09/2022, 8:46:06 am  | [Details](#partner-program-overview)                                       |
 | music-options-for-streamers                                   | 10/06/2023, 5:39:19 am  | 10/06/2023, 3:08:21 am  | [Details](#music-options-for-streamers)                                    |
 | 2023-updated-monetized-streamer-agreement                     | 10/06/2023, 1:22:51 am  | 10/06/2023, 1:22:50 am  | [Details](#2023-updated-monetized-streamer-agreement)                      |
 | branded-content-policy                                        | 09/06/2023, 8:46:18 am  | 09/06/2023, 2:10:34 am  | [Details](#branded-content-policy)                                         |
@@ -173,7 +174,6 @@ Language data is not included in the API. All page links will not have a languag
 | mobile-creator-mode                                           | 22/08/2022, 11:07:39 pm | 16/08/2022, 5:03:38 am  | [Details](#mobile-creator-mode)                                            |
 | partner-onboarding-guide                                      | 17/08/2022, 0:49:34 am  | 17/08/2022, 0:49:32 am  | [Details](#partner-onboarding-guide)                                       |
 | subscriber-emote-guide                                        | 10/08/2022, 8:02:42 am  | 23/11/2021, 5:21:01 am  | [Details](#subscriber-emote-guide)                                         |
-| partner-program-overview                                      | 09/08/2022, 4:00:55 am  | 30/07/2022, 10:21:15 am | [Details](#partner-program-overview)                                       |
 | a-tour-of-your-channel-page                                   | 09/08/2022, 4:00:26 am  | 30/07/2022, 10:36:37 am | [Details](#a-tour-of-your-channel-page)                                    |
 | emote-guidelines                                              | 05/08/2022, 10:41:34 pm | 02/08/2022, 6:37:09 am  | [Details](#emote-guidelines)                                               |
 | about-account-suspensions-dmca-suspensions-and-chat-bans      | 03/08/2022, 5:54:49 am  | 22/07/2022, 6:49:37 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
@@ -3322,11 +3322,11 @@ https://help.twitch.tv/s/article/partner-onboarding-guide
 ### partner-program-overview
 https://help.twitch.tv/s/article/partner-program-overview
 
-| Title                                                | Last Modified          | Created                  |
-|------------------------------------------------------|------------------------|--------------------------|
-| Das Partnerprogramm von Twitch im Überblick          | 09/08/2022, 4:00:55 am | 30/07/2022, 10:21:15 am  |
-| Descripción general del programa de socios de Twitch | 09/08/2022, 4:00:55 am | 30/07/2022, 10:21:15 am  |
-| Panoramica del programma per partner Twitch          | 09/08/2022, 4:00:55 am | 30/07/2022, 10:21:15 am  |
+| Title                                                | Last Modified          | Created                 |
+|------------------------------------------------------|------------------------|-------------------------|
+| Das Partnerprogramm von Twitch im Überblick          | 16/06/2023, 2:27:15 am | 27/09/2022, 8:46:06 am  |
+| Descripción general del programa de socios de Twitch | 16/06/2023, 2:27:12 am | 27/09/2022, 8:46:06 am  |
+| Panoramica del programma per partner Twitch          | 16/06/2023, 2:27:11 am | 27/09/2022, 8:46:06 am  |
 
 
 ### partner-settings-guide
