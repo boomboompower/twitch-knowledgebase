@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Partner Program Overview                           | 16/06/2023, 2:27:11 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=it)                            |
 | Twitch Music Getting Started                       | 05/06/2023, 7:07:13 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=it)                        |
 | Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=it)                      |
 | Channel Analytics                                  | 30/05/2023, 5:46:48 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=it)                                   |

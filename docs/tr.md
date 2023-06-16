@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Partner Program Overview                           | 16/06/2023, 2:27:11 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=tr)                            |
 | Twitch Music Getting Started                       | 02/06/2023, 6:30:14 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=tr)                        |
 | Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=tr)                      |
 | Alerts By Twitch Faq                               | 26/05/2023, 8:53:34 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=tr)                                |
@@ -49,7 +50,6 @@
 | Guide To Closed Captions                           | 20/03/2023, 9:12:04 pm    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=tr)                            |
 | Two Factor Authentication                          | 13/03/2023, 7:30:05 pm    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=tr)                           |
 | Creator Goals                                      | 13/03/2023, 7:28:33 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=tr)                                       |
-| Guest Star Browser Source                          | 08/03/2023, 9:26:34 pm    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=tr)                           |
 
 
 

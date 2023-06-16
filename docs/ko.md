@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Partner Program Overview                           | 16/06/2023, 2:27:16 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)                            |
 | Twitch Music Getting Started                       | 05/06/2023, 4:07:12 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ko)                        |
 | Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=ko)                      |
 | Guide To Broadcast Health                          | 30/05/2023, 5:42:21 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=ko)                           |
