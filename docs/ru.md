@@ -98,8 +98,6 @@
 | Joining The Affiliate Program           | 21/10/2022, 7:26:15 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ru)            |
 | Earning Revenue From Bits In Extensions | 21/10/2022, 7:25:42 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=ru)  |
 | Supported Browsers                      | 18/10/2022, 0:37:32 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=ru)                       |
-| Affiliate Onboarding Guide              | 13/10/2022, 7:54:03 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ru)               |
-| Twitch Content Sharing Guidelines       | 13/10/2022, 7:53:07 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=ru)        |
 
 
 
@@ -108,6 +106,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Content Sharing Guidelines                             | 13/10/2022, 7:53:07 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=ru)                              |
 | How To Use Raids                                              | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ru)                                               |
 | Subtember 2022 Faq                                            | 27/09/2022, 4:25:19 am    | [Link](https://help.twitch.tv/s/article/subtember-2022-faq?language=ru)                                             |
 | Charitable Donations                                          | 26/09/2022, 9:27:03 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=ru)                                           |
@@ -118,7 +117,6 @@
 | Twitch Chat Badges Guide                                      | 24/08/2022, 1:15:07 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ru)                                       |
 | Mobile Creator Mode                                           | 22/08/2022, 8:59:23 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=ru)                                            |
 | Subscriber Emote Guide                                        | 10/08/2022, 8:02:42 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=ru)                                         |
-| Partner Program Overview                                      | 09/08/2022, 4:00:56 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ru)                                       |
 | Emote Guidelines                                              | 05/08/2022, 10:55:07 pm   | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=ru)                                               |
 | Scene Importing                                               | 02/08/2022, 5:27:14 pm    | [Link](https://help.twitch.tv/s/article/scene-importing?language=ru)                                                |
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 02/08/2022, 5:27:05 pm    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=ru)       |
