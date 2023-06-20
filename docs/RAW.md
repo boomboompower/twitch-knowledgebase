@@ -38,7 +38,7 @@ Language data is not included in the API. All page links will not have a languag
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
 | experiments                                                   | 24/05/2023, 10:10:32 pm | 17/05/2023, 9:05:35 am  | [Details](#experiments)                                                    |
 | twitch-prime-partner-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:36 am  | [Details](#twitch-prime-partner-guide)                                     |
-| patch-notes-18                                                | 23/05/2023, 10:19:03 pm | 23/05/2023, 10:19:02 pm | [Details](#patch-notes-18)                                                 |
+| patch-notes-18                                                | 24/05/2023, 0:28:03 am  | 24/05/2023, 0:28:01 am  | [Details](#patch-notes-18)                                                 |
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
 | emote-analytics                                               | 23/05/2023, 6:24:07 pm  | 13/05/2023, 7:37:37 am  | [Details](#emote-analytics)                                                |
 | playback-issue-troubleshooting                                | 22/05/2023, 10:21:02 pm | 06/05/2023, 8:26:59 am  | [Details](#playback-issue-troubleshooting)                                 |
@@ -93,7 +93,6 @@ Language data is not included in the API. All page links will not have a languag
 | twitch-charity                                                | 10/02/2023, 9:59:18 am  | 10/02/2023, 8:21:33 am  | [Details](#twitch-charity)                                                 |
 | twitch-charity-faqs                                           | 10/02/2023, 9:59:11 am  | 10/02/2023, 9:59:10 am  | [Details](#twitch-charity-faqs)                                            |
 | stream-summary                                                | 10/02/2023, 5:16:20 am  | 10/02/2023, 5:16:17 am  | [Details](#stream-summary)                                                 |
-| video-on-demand                                               | 09/02/2023, 0:02:37 pm  | 09/02/2023, 0:02:36 pm  | [Details](#video-on-demand)                                                |
 | display-names-on-twitch                                       | 09/02/2023, 11:49:16 am | 11/01/2023, 10:29:27 am | [Details](#display-names-on-twitch)                                        |
 | transcoding-options-faq                                       | 09/02/2023, 4:05:02 am  | 03/02/2023, 0:12:42 pm  | [Details](#transcoding-options-faq)                                        |
 | supported-mobile-os                                           | 09/02/2023, 0:22:02 am  | 03/02/2023, 0:01:51 pm  | [Details](#supported-mobile-os)                                            |
@@ -3383,6 +3382,7 @@ https://help.twitch.tv/s/article/patch-notes-18
 
 | Title                                          | Last Modified           | Created                  |
 |------------------------------------------------|-------------------------|--------------------------|
+| Patch Notes ǀ ตอนที่ 18 ǀ 17 พฤษภาคม 2023      | 24/05/2023, 0:28:03 am  | 24/05/2023, 0:28:01 am   |
 | Patch Notes ǀ Episodio 18 ǀ 17 de mayo de 2023 | 23/05/2023, 10:19:03 pm | 23/05/2023, 10:19:02 pm  |
 | Patch Notes ǀ Episodio 18 ǀ 17 de mayo de 2023 | 23/05/2023, 9:03:02 pm  | 23/05/2023, 9:03:01 pm   |
 | Patch Notes ǀ Odcinek 18 ǀ 17 maja 2023r.      | 23/05/2023, 8:44:32 pm  | 23/05/2023, 8:44:31 pm   |
@@ -4465,14 +4465,6 @@ https://help.twitch.tv/s/article/username-rename-and-recycling-policies
 | A felhasználónevek megváltoztatására és újbóli felhasználására vonatkozó irányelvek | 22/10/2021, 8:52:23 am | 21/06/2019, 11:07:07 am  |
 | Beleid voor het hernoemen en hergebruiken van gebruikersnamen                       | 22/10/2021, 8:52:23 am | 21/06/2019, 11:07:07 am  |
 | Käyttäjänimen vaihto- ja kierrätyskäytännöt                                         | 22/10/2021, 8:52:22 am | 21/06/2019, 11:07:07 am  |
-
-
-### video-on-demand
-https://help.twitch.tv/s/article/video-on-demand
-
-| Title            | Last Modified          | Created                 |
-|------------------|------------------------|-------------------------|
-| Filmy na żądanie | 09/02/2023, 0:02:37 pm | 09/02/2023, 0:02:36 pm  |
 
 
 ### viewer-channel-point-guide
