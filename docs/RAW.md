@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| content-classification-labels                                 | 21/06/2023, 3:33:38 am  | 01/06/2023, 11:07:12 am | [Details](#content-classification-labels)                                  |
 | partner-program-overview                                      | 16/06/2023, 2:27:15 am  | 27/09/2022, 8:46:06 am  | [Details](#partner-program-overview)                                       |
 | music-options-for-streamers                                   | 10/06/2023, 5:39:19 am  | 10/06/2023, 3:08:21 am  | [Details](#music-options-for-streamers)                                    |
 | 2023-updated-monetized-streamer-agreement                     | 10/06/2023, 1:22:51 am  | 10/06/2023, 1:22:50 am  | [Details](#2023-updated-monetized-streamer-agreement)                      |
@@ -38,7 +39,7 @@ Language data is not included in the API. All page links will not have a languag
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
 | experiments                                                   | 24/05/2023, 10:10:32 pm | 17/05/2023, 9:05:35 am  | [Details](#experiments)                                                    |
 | twitch-prime-partner-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:36 am  | [Details](#twitch-prime-partner-guide)                                     |
-| patch-notes-18                                                | 24/05/2023, 0:28:03 am  | 24/05/2023, 0:28:01 am  | [Details](#patch-notes-18)                                                 |
+| patch-notes-18                                                | 23/05/2023, 10:19:03 pm | 23/05/2023, 10:19:02 pm | [Details](#patch-notes-18)                                                 |
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
 | emote-analytics                                               | 23/05/2023, 6:24:07 pm  | 13/05/2023, 7:37:37 am  | [Details](#emote-analytics)                                                |
 | playback-issue-troubleshooting                                | 22/05/2023, 10:21:02 pm | 06/05/2023, 8:26:59 am  | [Details](#playback-issue-troubleshooting)                                 |
@@ -58,11 +59,11 @@ Language data is not included in the API. All page links will not have a languag
 | guest-star-getting-started                                    | 09/05/2023, 7:02:51 am  | 02/05/2023, 5:46:47 am  | [Details](#guest-star-getting-started)                                     |
 | search-with-tags                                              | 05/05/2023, 8:07:19 am  | 05/05/2023, 8:07:19 am  | [Details](#search-with-tags)                                               |
 | stream-display-ads                                            | 05/05/2023, 1:59:53 am  | 05/05/2023, 1:59:52 am  | [Details](#stream-display-ads)                                             |
-| patch-notes-17                                                | 04/05/2023, 4:08:33 pm  | 04/05/2023, 4:08:32 pm  | [Details](#patch-notes-17)                                                 |
 | how-to-file-a-user-report                                     | 04/05/2023, 4:04:33 pm  | 04/05/2023, 4:04:31 pm  | [Details](#how-to-file-a-user-report)                                      |
 | subscriptions-on-samsung-smart-tv                             | 04/05/2023, 7:20:41 am  | 25/04/2023, 8:41:34 am  | [Details](#subscriptions-on-samsung-smart-tv)                              |
 | how-does-search-work                                          | 04/05/2023, 2:38:29 am  | 20/04/2023, 6:39:06 am  | [Details](#how-does-search-work)                                           |
 | languages-on-twitch                                           | 03/05/2023, 8:07:01 am  | 19/04/2023, 8:32:51 am  | [Details](#languages-on-twitch)                                            |
+| patch-notes-17                                                | 22/04/2023, 1:36:04 am  | 22/04/2023, 1:36:02 am  | [Details](#patch-notes-17)                                                 |
 | chat-highlights                                               | 12/04/2023, 4:05:40 am  | 12/04/2023, 4:05:39 am  | [Details](#chat-highlights)                                                |
 | creator-chat-highlights                                       | 12/04/2023, 4:05:40 am  | 12/04/2023, 4:05:39 am  | [Details](#creator-chat-highlights)                                        |
 | how-do-thumbnails-work                                        | 07/04/2023, 7:50:31 pm  | 04/04/2023, 6:33:55 am  | [Details](#how-do-thumbnails-work)                                         |
@@ -81,7 +82,7 @@ Language data is not included in the API. All page links will not have a languag
 | two-factor-authentication-with-authy                          | 09/03/2023, 7:53:25 am  | 09/03/2023, 7:53:24 am  | [Details](#two-factor-authentication-with-authy)                           |
 | political-onboarding                                          | 07/03/2023, 7:56:53 am  | 07/03/2023, 7:56:53 am  | [Details](#political-onboarding)                                           |
 | pinned-chat                                                   | 28/02/2023, 7:37:30 am  | 03/02/2023, 1:08:12 pm  | [Details](#pinned-chat)                                                    |
-| patch-notes-16                                                | 28/02/2023, 3:26:05 am  | 28/02/2023, 3:26:03 am  | [Details](#patch-notes-16)                                                 |
+| patch-notes-16                                                | 28/02/2023, 3:25:32 am  | 18/02/2023, 0:04:11 pm  | [Details](#patch-notes-16)                                                 |
 | artist-badge-attribution                                      | 24/02/2023, 1:47:42 am  | 24/02/2023, 1:47:32 am  | [Details](#artist-badge-attribution)                                       |
 | first-steps-for-new-affiliates                                | 23/02/2023, 9:28:04 pm  | 22/02/2023, 5:02:20 am  | [Details](#first-steps-for-new-affiliates)                                 |
 | geoblocking                                                   | 14/02/2023, 11:02:32 pm | 09/02/2023, 10:59:47 am | [Details](#geoblocking)                                                    |
@@ -1271,6 +1272,20 @@ https://help.twitch.tv/s/article/contacting-purchase-support
 | Comment contacter l'assistance Achat                 | 22/10/2021, 8:53:50 am | 07/08/2020, 3:29:05 am  |
 | Entrando em contato com o suporte de compras         | 22/10/2021, 8:53:50 am | 21/01/2021, 4:12:45 am  |
 | Kauf-Support kontaktieren                            | 22/10/2021, 8:53:50 am | 21/01/2021, 4:12:45 am  |
+
+
+### content-classification-labels
+https://help.twitch.tv/s/article/content-classification-labels
+
+| Title                                      | Last Modified          | Created                  |
+|--------------------------------------------|------------------------|--------------------------|
+| Etiquetas de clasificación de contenido    | 21/06/2023, 3:33:38 am | 01/06/2023, 11:07:12 am  |
+| Etiquetas de clasificación de contenido    | 21/06/2023, 3:33:33 am | 01/06/2023, 11:07:12 am  |
+| Etykieta klasyfikacji treści               | 21/06/2023, 3:33:20 am | 01/06/2023, 11:07:12 am  |
+| Etichette di classificazione dei contenuti | 21/06/2023, 3:33:11 am | 01/06/2023, 11:07:12 am  |
+| Inhaltskennzeichnungen                     | 21/06/2023, 3:33:02 am | 01/06/2023, 11:07:12 am  |
+| Descripteurs de classification du contenu  | 21/06/2023, 3:32:58 am | 01/06/2023, 11:07:12 am  |
+| Content Classification Labels              | 21/06/2023, 2:25:32 am | 03/05/2023, 5:00:43 am   |
 
 
 ### copyrighted-audio-warnings
@@ -3348,11 +3363,9 @@ https://help.twitch.tv/s/article/patch-notes-16
 
 | Title                                               | Last Modified           | Created                 |
 |-----------------------------------------------------|-------------------------|-------------------------|
-| Patch Notes ǀ ตอนที่ 16 ǀ 23 กุมภาพันธ์ 2023        | 28/02/2023, 3:26:05 am  | 28/02/2023, 3:26:03 am  |
 | Patch Notes ǀ Episodio 16 ǀ 23 de febrero de 2023   | 28/02/2023, 3:25:32 am  | 18/02/2023, 0:04:11 pm  |
 | Patch Notes ǀ Episódio 16 ǀ 23 de fevereiro de 2023 | 28/02/2023, 1:24:03 am  | 28/02/2023, 1:24:01 am  |
 | Patch Notes ǀ Episodio 16 ǀ 23 de febrero de 2023   | 28/02/2023, 0:55:33 am  | 25/02/2023, 6:28:46 am  |
-| Patch Notes ǀ Épisode16 ǀ 23février 2023            | 28/02/2023, 0:27:32 am  | 18/02/2023, 0:04:11 pm  |
 | Patch Notes ǀ Odcinek 16 ǀ 23 lutego 2023r.         | 27/02/2023, 11:04:04 pm | 25/02/2023, 6:28:46 am  |
 | Patch Notes ǀ Folge16 ǀ 23.Februar2023              | 27/02/2023, 9:27:02 pm  | 18/02/2023, 0:04:11 pm  |
 | Patch Notes ǀ 16. Bölüm ǀ 23 Şubat 2023             | 27/02/2023, 8:32:33 pm  | 25/02/2023, 6:28:46 am  |
@@ -3365,8 +3378,6 @@ https://help.twitch.tv/s/article/patch-notes-17
 
 | Title                                           | Last Modified           | Created                  |
 |-------------------------------------------------|-------------------------|--------------------------|
-| Patch Notes ǀ Épisode17 ǀ 19avril 2023          | 04/05/2023, 4:08:33 pm  | 04/05/2023, 4:08:32 pm   |
-| Patch Notes ǀ ตอนที่ 17 ǀ 19 เมษายน 2023        | 22/04/2023, 1:36:32 am  | 22/04/2023, 1:36:31 am   |
 | Patch Notes ǀ Episodio 17 ǀ 19 de abril de 2023 | 22/04/2023, 1:36:04 am  | 22/04/2023, 1:36:02 am   |
 | Patch Notes ǀ Episódio 17 ǀ 19 de abril de 2023 | 21/04/2023, 11:40:32 pm | 14/04/2023, 2:17:46 pm   |
 | Patch Notes ǀ 17. Bölüm ǀ 19 Nisan 2023         | 21/04/2023, 9:49:32 pm  | 21/04/2023, 9:49:31 pm   |
@@ -3382,11 +3393,8 @@ https://help.twitch.tv/s/article/patch-notes-18
 
 | Title                                          | Last Modified           | Created                  |
 |------------------------------------------------|-------------------------|--------------------------|
-| Patch Notes ǀ ตอนที่ 18 ǀ 17 พฤษภาคม 2023      | 24/05/2023, 0:28:03 am  | 24/05/2023, 0:28:01 am   |
 | Patch Notes ǀ Episodio 18 ǀ 17 de mayo de 2023 | 23/05/2023, 10:19:03 pm | 23/05/2023, 10:19:02 pm  |
 | Patch Notes ǀ Episodio 18 ǀ 17 de mayo de 2023 | 23/05/2023, 9:03:02 pm  | 23/05/2023, 9:03:01 pm   |
-| Patch Notes ǀ Odcinek 18 ǀ 17 maja 2023r.      | 23/05/2023, 8:44:32 pm  | 23/05/2023, 8:44:31 pm   |
-| Patch Notes ǀ Épisode18 ǀ 17mai 2023           | 23/05/2023, 8:36:03 pm  | 23/05/2023, 8:36:02 pm   |
 | Patch Note ǀ 第 18 集 ǀ 2023 年 5 月 17 日          | 23/05/2023, 5:50:03 pm  | 23/05/2023, 5:50:01 pm   |
 | Patch Notes ǀ Episodio 18 ǀ 17 maggio 2023     | 23/05/2023, 5:33:35 pm  | 23/05/2023, 5:33:34 pm   |
 | Patch Notes ǀ Episódio 18 ǀ 17 de maio de 2023 | 23/05/2023, 10:23:32 am | 23/05/2023, 10:23:31 am  |
