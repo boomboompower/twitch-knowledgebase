@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Affiliate Onboarding Guide                         | 22/06/2023, 2:38:09 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                          |
 | Partner Program Overview                           | 16/06/2023, 2:27:11 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)                            |
 | Twitch Music Getting Started                       | 05/06/2023, 7:23:46 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=es_MX)                        |
 | Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=es_MX)                      |
@@ -49,8 +50,6 @@
 | Multi Month Subscriptions                          | 21/03/2023, 10:47:33 pm   | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=es_MX)                           |
 | Subscriptions On Mobile                            | 21/03/2023, 10:47:33 pm   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=es_MX)                             |
 | Creator Goals                                      | 14/03/2023, 10:37:34 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=es_MX)                                       |
-| Two Factor Authentication                          | 10/03/2023, 10:35:33 pm   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es_MX)                           |
-| Guest Star Browser Source                          | 10/03/2023, 10:28:35 pm   | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=es_MX)                           |
 
 
 

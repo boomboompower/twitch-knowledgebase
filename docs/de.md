@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Affiliate Onboarding Guide                         | 22/06/2023, 2:36:00 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=de)                          |
 | Partner Program Overview                           | 16/06/2023, 2:27:15 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                            |
 | Twitch Music Getting Started                       | 05/06/2023, 7:57:45 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=de)                        |
 | Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=de)                      |
@@ -49,7 +50,6 @@
 | Multi Month Subscriptions                          | 21/03/2023, 9:22:33 pm    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=de)                           |
 | Guide To Closed Captions                           | 21/03/2023, 9:08:06 pm    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=de)                            |
 | Creator Goals                                      | 15/03/2023, 11:51:03 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=de)                                       |
-| Two Factor Authentication                          | 10/03/2023, 8:47:06 pm    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=de)                           |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Affiliate Onboarding Guide                         | 22/06/2023, 2:35:33 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=en_US)                          |
 | Video On Demand                                    | 20/06/2023, 0:12:52 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                     |
 | Partner Program Overview                           | 16/06/2023, 2:25:30 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=en_US)                            |
 | Music Options For Streamers                        | 10/06/2023, 5:39:19 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=en_US)                         |

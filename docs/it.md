@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Affiliate Onboarding Guide                         | 22/06/2023, 2:36:20 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=it)                          |
 | Partner Program Overview                           | 16/06/2023, 2:27:11 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=it)                            |
 | Twitch Music Getting Started                       | 05/06/2023, 7:07:13 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=it)                        |
 | Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=it)                      |
@@ -50,7 +51,6 @@
 | Subscriptions On Mobile                            | 21/03/2023, 7:23:35 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=it)                             |
 | Creator Goals                                      | 15/03/2023, 7:22:33 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=it)                                       |
 | Two Factor Authentication                          | 13/03/2023, 6:16:49 pm    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=it)                           |
-| Guest Star Browser Source                          | 10/03/2023, 7:55:33 pm    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=it)                           |
 
 
 
