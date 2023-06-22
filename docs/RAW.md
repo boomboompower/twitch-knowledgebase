@@ -7,7 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| content-classification-labels                                 | 21/06/2023, 3:33:38 am  | 01/06/2023, 11:07:12 am | [Details](#content-classification-labels)                                  |
+| content-classification-labels                                 | 22/06/2023, 4:07:14 am  | 22/06/2023, 4:06:47 am  | [Details](#content-classification-labels)                                  |
+| creator-dashboard                                             | 22/06/2023, 3:04:14 am  | 10/06/2023, 0:28:32 am  | [Details](#creator-dashboard)                                              |
+| stream-manager                                                | 22/06/2023, 3:02:51 am  | 27/09/2022, 9:10:11 am  | [Details](#stream-manager)                                                 |
+| affiliate-onboarding-guide                                    | 22/06/2023, 2:38:09 am  | 10/06/2023, 3:15:17 pm  | [Details](#affiliate-onboarding-guide)                                     |
 | partner-program-overview                                      | 16/06/2023, 2:27:15 am  | 27/09/2022, 8:46:06 am  | [Details](#partner-program-overview)                                       |
 | music-options-for-streamers                                   | 10/06/2023, 5:39:19 am  | 10/06/2023, 3:08:21 am  | [Details](#music-options-for-streamers)                                    |
 | 2023-updated-monetized-streamer-agreement                     | 10/06/2023, 1:22:51 am  | 10/06/2023, 1:22:50 am  | [Details](#2023-updated-monetized-streamer-agreement)                      |
@@ -21,7 +24,6 @@ Language data is not included in the API. All page links will not have a languag
 | payout-history-dashboard-guide                                | 31/05/2023, 0:13:12 am  | 23/05/2023, 0:20:24 pm  | [Details](#payout-history-dashboard-guide)                                 |
 | guide-to-broadcast-health                                     | 31/05/2023, 0:13:09 am  | 23/05/2023, 0:18:01 pm  | [Details](#guide-to-broadcast-health)                                      |
 | prime-gaming-revenue-guide                                    | 31/05/2023, 0:13:03 am  | 23/05/2023, 0:18:49 pm  | [Details](#prime-gaming-revenue-guide)                                     |
-| creator-dashboard                                             | 30/05/2023, 10:34:50 pm | 23/05/2023, 0:20:55 pm  | [Details](#creator-dashboard)                                              |
 | achievements                                                  | 30/05/2023, 10:34:34 pm | 23/05/2023, 0:31:29 pm  | [Details](#achievements)                                                   |
 | channel-analytics                                             | 30/05/2023, 5:46:48 pm  | 23/05/2023, 0:21:49 pm  | [Details](#channel-analytics)                                              |
 | alerts-by-twitch                                              | 30/05/2023, 0:20:40 am  | 20/05/2023, 5:00:31 am  | [Details](#alerts-by-twitch)                                               |
@@ -153,7 +155,6 @@ Language data is not included in the API. All page links will not have a languag
 | esports-directory                                             | 21/10/2022, 7:24:58 am  | 30/09/2022, 7:49:57 am  | [Details](#esports-directory)                                              |
 | revenue                                                       | 21/10/2022, 4:00:06 am  | 23/09/2022, 6:15:11 am  | [Details](#revenue)                                                        |
 | supported-browsers                                            | 17/10/2022, 11:06:32 pm | 08/10/2022, 4:10:03 am  | [Details](#supported-browsers)                                             |
-| affiliate-onboarding-guide                                    | 13/10/2022, 7:54:03 am  | 29/09/2022, 8:54:21 am  | [Details](#affiliate-onboarding-guide)                                     |
 | twitch-content-sharing-guidelines                             | 13/10/2022, 7:53:07 am  | 27/09/2022, 8:52:24 am  | [Details](#twitch-content-sharing-guidelines)                              |
 | subtember-2022-faq                                            | 08/10/2022, 4:54:34 am  | 02/09/2022, 6:36:12 am  | [Details](#subtember-2022-faq)                                             |
 | elevated-chat                                                 | 01/10/2022, 8:00:08 am  | 01/10/2022, 7:55:14 am  | [Details](#elevated-chat)                                                  |
@@ -188,7 +189,6 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-file-a-video-playback-issue                            | 08/07/2022, 10:40:03 pm | 02/07/2022, 3:51:09 am  | [Details](#how-to-file-a-video-playback-issue)                             |
 | how-to-subscribe                                              | 20/06/2022, 10:11:06 pm | 16/06/2022, 8:35:36 am  | [Details](#how-to-subscribe)                                               |
 | Disconnect-Protection                                         | 19/06/2022, 8:30:05 am  | 18/06/2022, 3:05:42 am  | [Details](#disconnect-protection)                                          |
-| stream-manager                                                | 16/06/2022, 7:55:23 am  | 16/06/2022, 6:47:27 am  | [Details](#stream-manager)                                                 |
 | notifications-inbox                                           | 10/06/2022, 7:48:35 pm  | 08/06/2022, 3:07:59 am  | [Details](#notifications-inbox)                                            |
 | creating-a-strong-password                                    | 18/05/2022, 0:39:26 am  | 18/05/2022, 0:39:25 am  | [Details](#creating-a-strong-password)                                     |
 | date-of-birth-changes                                         | 13/05/2022, 2:48:03 am  | 22/04/2022, 2:21:15 am  | [Details](#date-of-birth-changes)                                          |
@@ -525,13 +525,13 @@ https://help.twitch.tv/s/article/affiliate-onboarding-guide
 
 | Title                                          | Last Modified          | Created                 |
 |------------------------------------------------|------------------------|-------------------------|
-| Guia de integração de afiliados                | 13/10/2022, 7:54:03 am | 29/09/2022, 8:54:21 am  |
-| Guida alla registrazione affiliato             | 13/10/2022, 7:54:03 am | 29/09/2022, 8:54:21 am  |
-| Guide d'intégration au programme d'affiliation | 13/10/2022, 7:54:03 am | 29/09/2022, 8:54:21 am  |
-| Guía de incorporación de afiliados             | 13/10/2022, 7:54:03 am | 29/09/2022, 8:54:21 am  |
-| Guía de Introducción de Afiliado               | 13/10/2022, 7:54:03 am | 29/09/2022, 8:54:21 am  |
-| Affiliate Onboarding Guide                     | 13/10/2022, 7:54:02 am | 29/09/2022, 8:53:56 am  |
-| Leitfaden zum Affiliate-Onboarding             | 13/10/2022, 7:54:02 am | 29/09/2022, 8:54:21 am  |
+| Guía de Introducción de Afiliado               | 22/06/2023, 2:38:09 am | 10/06/2023, 3:15:17 pm  |
+| Guia de integração de afiliados                | 22/06/2023, 2:37:53 am | 10/06/2023, 3:15:17 pm  |
+| Guía de incorporación de afiliados             | 22/06/2023, 2:37:32 am | 10/06/2023, 3:15:17 pm  |
+| Guida alla registrazione affiliato             | 22/06/2023, 2:36:20 am | 10/06/2023, 3:15:17 pm  |
+| Leitfaden zum Affiliate-Onboarding             | 22/06/2023, 2:36:00 am | 10/06/2023, 3:15:17 pm  |
+| Guide d'intégration au programme d'affiliation | 22/06/2023, 2:35:47 am | 10/06/2023, 3:15:17 pm  |
+| Affiliate Onboarding Guide                     | 22/06/2023, 2:35:33 am | 10/06/2023, 3:12:54 pm  |
 
 
 ### affiliate-or-partner-anniversary-settings
@@ -1277,15 +1277,15 @@ https://help.twitch.tv/s/article/contacting-purchase-support
 ### content-classification-labels
 https://help.twitch.tv/s/article/content-classification-labels
 
-| Title                                      | Last Modified          | Created                  |
-|--------------------------------------------|------------------------|--------------------------|
-| Etiquetas de clasificación de contenido    | 21/06/2023, 3:33:38 am | 01/06/2023, 11:07:12 am  |
-| Etiquetas de clasificación de contenido    | 21/06/2023, 3:33:33 am | 01/06/2023, 11:07:12 am  |
-| Etykieta klasyfikacji treści               | 21/06/2023, 3:33:20 am | 01/06/2023, 11:07:12 am  |
-| Etichette di classificazione dei contenuti | 21/06/2023, 3:33:11 am | 01/06/2023, 11:07:12 am  |
-| Inhaltskennzeichnungen                     | 21/06/2023, 3:33:02 am | 01/06/2023, 11:07:12 am  |
-| Descripteurs de classification du contenu  | 21/06/2023, 3:32:58 am | 01/06/2023, 11:07:12 am  |
-| Content Classification Labels              | 21/06/2023, 2:25:32 am | 03/05/2023, 5:00:43 am   |
+| Title                                      | Last Modified          | Created                 |
+|--------------------------------------------|------------------------|-------------------------|
+| Content Classification Labels              | 22/06/2023, 4:07:14 am | 22/06/2023, 4:06:47 am  |
+| Descripteurs de classification du contenu  | 22/06/2023, 4:07:14 am | 22/06/2023, 4:07:13 am  |
+| Etichette di classificazione dei contenuti | 22/06/2023, 4:07:14 am | 22/06/2023, 4:07:13 am  |
+| Etiquetas de clasificación de contenido    | 22/06/2023, 4:07:14 am | 22/06/2023, 4:07:13 am  |
+| Etiquetas de clasificación de contenido    | 22/06/2023, 4:07:14 am | 22/06/2023, 4:07:13 am  |
+| Etykieta klasyfikacji treści               | 22/06/2023, 4:07:14 am | 22/06/2023, 4:07:13 am  |
+| Inhaltskennzeichnungen                     | 22/06/2023, 4:07:14 am | 22/06/2023, 4:07:13 am  |
 
 
 ### copyrighted-audio-warnings
@@ -1368,15 +1368,15 @@ https://help.twitch.tv/s/article/creator-chat-highlights
 ### creator-dashboard
 https://help.twitch.tv/s/article/creator-dashboard
 
-| Title                         | Last Modified           | Created                  |
-|-------------------------------|-------------------------|--------------------------|
-| Creator-Dashboard             | 30/05/2023, 10:34:50 pm | 23/05/2023, 0:20:55 pm   |
-| Panel kontrolny twórcy        | 30/05/2023, 8:32:02 pm  | 23/05/2023, 0:20:55 pm   |
-| Panel de control del creador  | 30/05/2023, 7:55:13 pm  | 23/05/2023, 0:20:55 pm   |
-| Panel de control del creador  | 30/05/2023, 7:07:11 pm  | 23/05/2023, 0:20:55 pm   |
-| Dashboard autore              | 30/05/2023, 5:46:44 pm  | 23/05/2023, 0:20:55 pm   |
-| Painel de controle do criador | 30/05/2023, 10:34:52 am | 23/05/2023, 0:20:55 pm   |
-| Creator Dashboard             | 24/05/2023, 4:02:04 am  | 23/05/2023, 11:18:15 am  |
+| Title                         | Last Modified          | Created                  |
+|-------------------------------|------------------------|--------------------------|
+| Creator-Dashboard             | 22/06/2023, 3:04:14 am | 10/06/2023, 0:28:32 am   |
+| Dashboard autore              | 22/06/2023, 3:04:14 am | 09/06/2023, 6:07:02 pm   |
+| Painel de controle do criador | 22/06/2023, 3:04:14 am | 09/06/2023, 3:24:31 am   |
+| Panel de control del creador  | 22/06/2023, 3:04:14 am | 09/06/2023, 5:30:31 pm   |
+| Panel de control del creador  | 22/06/2023, 3:04:14 am | 09/06/2023, 10:23:31 pm  |
+| Panel kontrolny twórcy        | 22/06/2023, 3:04:14 am | 10/06/2023, 0:28:32 am   |
+| Creator Dashboard             | 22/06/2023, 3:00:40 am | 02/06/2023, 3:37:52 pm   |
 
 
 ### creator-goals
@@ -3816,12 +3816,12 @@ https://help.twitch.tv/s/article/stream-manager
 
 | Title                        | Last Modified          | Created                 |
 |------------------------------|------------------------|-------------------------|
-| Gestore streaming            | 16/06/2022, 7:55:23 am | 16/06/2022, 6:47:27 am  |
-| Administrador de stream      | 16/06/2022, 7:55:20 am | 16/06/2022, 6:47:27 am  |
-| Gerenciamento de transmissão | 16/06/2022, 7:55:15 am | 16/06/2022, 6:47:27 am  |
-| Menedżer transmisji          | 16/06/2022, 7:55:12 am | 16/06/2022, 6:47:27 am  |
-| Gestionnaire de stream       | 16/06/2022, 7:55:11 am | 16/06/2022, 6:47:27 am  |
-| Gestor del stream            | 16/06/2022, 7:55:07 am | 16/06/2022, 6:47:27 am  |
+| Administrador de stream      | 22/06/2023, 3:02:51 am | 27/09/2022, 9:10:11 am  |
+| Gerenciamento de transmissão | 22/06/2023, 3:02:51 am | 27/09/2022, 9:10:11 am  |
+| Gestionnaire de stream       | 22/06/2023, 3:02:51 am | 27/09/2022, 9:10:11 am  |
+| Gestore streaming            | 22/06/2023, 3:02:51 am | 27/09/2022, 9:10:11 am  |
+| Menedżer transmisji          | 22/06/2023, 3:02:51 am | 27/09/2022, 9:10:11 am  |
+| Gestor del stream            | 22/06/2023, 3:01:33 am | 22/06/2023, 3:01:32 am  |
 
 
 ### stream-summary
