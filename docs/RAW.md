@@ -7,13 +7,17 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| hype-chat-pricing-by-country                                  | 23/06/2023, 4:17:22 am  | 23/06/2023, 4:17:22 am  | [Details](#hype-chat-pricing-by-country)                                   |
+| 2023-updated-monetized-streamer-agreement                     | 23/06/2023, 2:38:05 am  | 23/06/2023, 2:38:05 am  | [Details](#2023-updated-monetized-streamer-agreement)                      |
+| hype-chat-by-twitch                                           | 23/06/2023, 2:25:18 am  | 15/06/2023, 9:26:44 am  | [Details](#hype-chat-by-twitch)                                            |
+| hype-chat-for-streamers                                       | 23/06/2023, 2:16:54 am  | 15/06/2023, 9:26:20 am  | [Details](#hype-chat-for-streamers)                                        |
+| hype-chat-faq                                                 | 23/06/2023, 2:16:36 am  | 15/06/2023, 9:27:16 am  | [Details](#hype-chat-faq)                                                  |
 | content-classification-labels                                 | 22/06/2023, 4:07:14 am  | 22/06/2023, 4:06:47 am  | [Details](#content-classification-labels)                                  |
 | creator-dashboard                                             | 22/06/2023, 3:04:14 am  | 10/06/2023, 0:28:32 am  | [Details](#creator-dashboard)                                              |
 | stream-manager                                                | 22/06/2023, 3:02:51 am  | 27/09/2022, 9:10:11 am  | [Details](#stream-manager)                                                 |
 | affiliate-onboarding-guide                                    | 22/06/2023, 2:38:09 am  | 10/06/2023, 3:15:17 pm  | [Details](#affiliate-onboarding-guide)                                     |
 | partner-program-overview                                      | 16/06/2023, 2:27:15 am  | 27/09/2022, 8:46:06 am  | [Details](#partner-program-overview)                                       |
 | music-options-for-streamers                                   | 10/06/2023, 5:39:19 am  | 10/06/2023, 3:08:21 am  | [Details](#music-options-for-streamers)                                    |
-| 2023-updated-monetized-streamer-agreement                     | 10/06/2023, 1:22:51 am  | 10/06/2023, 1:22:50 am  | [Details](#2023-updated-monetized-streamer-agreement)                      |
 | branded-content-policy                                        | 09/06/2023, 8:46:18 am  | 09/06/2023, 2:10:34 am  | [Details](#branded-content-policy)                                         |
 | simulcasting-guidelines                                       | 07/06/2023, 1:27:03 am  | 07/06/2023, 1:27:02 am  | [Details](#simulcasting-guidelines)                                        |
 | android-purchases                                             | 06/06/2023, 6:59:18 am  | 25/05/2023, 10:43:54 am | [Details](#android-purchases)                                              |
@@ -41,7 +45,6 @@ Language data is not included in the API. All page links will not have a languag
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
 | experiments                                                   | 24/05/2023, 10:10:32 pm | 17/05/2023, 9:05:35 am  | [Details](#experiments)                                                    |
 | twitch-prime-partner-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:36 am  | [Details](#twitch-prime-partner-guide)                                     |
-| patch-notes-18                                                | 23/05/2023, 10:19:03 pm | 23/05/2023, 10:19:02 pm | [Details](#patch-notes-18)                                                 |
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
 | emote-analytics                                               | 23/05/2023, 6:24:07 pm  | 13/05/2023, 7:37:37 am  | [Details](#emote-analytics)                                                |
 | playback-issue-troubleshooting                                | 22/05/2023, 10:21:02 pm | 06/05/2023, 8:26:59 am  | [Details](#playback-issue-troubleshooting)                                 |
@@ -65,7 +68,6 @@ Language data is not included in the API. All page links will not have a languag
 | subscriptions-on-samsung-smart-tv                             | 04/05/2023, 7:20:41 am  | 25/04/2023, 8:41:34 am  | [Details](#subscriptions-on-samsung-smart-tv)                              |
 | how-does-search-work                                          | 04/05/2023, 2:38:29 am  | 20/04/2023, 6:39:06 am  | [Details](#how-does-search-work)                                           |
 | languages-on-twitch                                           | 03/05/2023, 8:07:01 am  | 19/04/2023, 8:32:51 am  | [Details](#languages-on-twitch)                                            |
-| patch-notes-17                                                | 22/04/2023, 1:36:04 am  | 22/04/2023, 1:36:02 am  | [Details](#patch-notes-17)                                                 |
 | chat-highlights                                               | 12/04/2023, 4:05:40 am  | 12/04/2023, 4:05:39 am  | [Details](#chat-highlights)                                                |
 | creator-chat-highlights                                       | 12/04/2023, 4:05:40 am  | 12/04/2023, 4:05:39 am  | [Details](#creator-chat-highlights)                                        |
 | how-do-thumbnails-work                                        | 07/04/2023, 7:50:31 pm  | 04/04/2023, 6:33:55 am  | [Details](#how-do-thumbnails-work)                                         |
@@ -84,7 +86,6 @@ Language data is not included in the API. All page links will not have a languag
 | two-factor-authentication-with-authy                          | 09/03/2023, 7:53:25 am  | 09/03/2023, 7:53:24 am  | [Details](#two-factor-authentication-with-authy)                           |
 | political-onboarding                                          | 07/03/2023, 7:56:53 am  | 07/03/2023, 7:56:53 am  | [Details](#political-onboarding)                                           |
 | pinned-chat                                                   | 28/02/2023, 7:37:30 am  | 03/02/2023, 1:08:12 pm  | [Details](#pinned-chat)                                                    |
-| patch-notes-16                                                | 28/02/2023, 3:25:32 am  | 18/02/2023, 0:04:11 pm  | [Details](#patch-notes-16)                                                 |
 | artist-badge-attribution                                      | 24/02/2023, 1:47:42 am  | 24/02/2023, 1:47:32 am  | [Details](#artist-badge-attribution)                                       |
 | first-steps-for-new-affiliates                                | 23/02/2023, 9:28:04 pm  | 22/02/2023, 5:02:20 am  | [Details](#first-steps-for-new-affiliates)                                 |
 | geoblocking                                                   | 14/02/2023, 11:02:32 pm | 09/02/2023, 10:59:47 am | [Details](#geoblocking)                                                    |
@@ -336,15 +337,15 @@ https://help.twitch.tv/s/article/2023-updated-monetized-streamer-agreement
 
 | Title                                                                     | Last Modified          | Created                 |
 |---------------------------------------------------------------------------|------------------------|-------------------------|
-| 2023 Twitch 수익 창출 스트리머 계약서 업데이트                                           | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
-| 2023 Updated Monetized Streamer Agreement                                 | 10/06/2023, 1:22:51 am | 09/06/2023, 1:08:07 pm  |
-| 2023 年更新版的實況主營收協議                                                         | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
-| Accord de monétisation pour le streaming sur Twitch actualisé (2023)      | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
-| Accordo di monetizzazione per gli streamer Twitch aggiornato al 2023      | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
-| Acuerdo de Streamer Monetizado actualizado en 2023                        | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
-| Acuerdo de streamer monetizado de Twitch actualizado a 2023               | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
-| Aktualisierte Monetarisierungsvereinbarung für Twitch-Streamer:innen 2023 | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
-| Contrato de Monetização Twitch para Streamers Atualizado 2023             | 10/06/2023, 1:22:51 am | 10/06/2023, 1:22:50 am  |
+| 2023 Twitch 수익 창출 스트리머 계약서 업데이트                                           | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
+| 2023 Updated Monetized Streamer Agreement                                 | 23/06/2023, 2:38:05 am | 23/06/2023, 2:37:42 am  |
+| 2023 年更新版的實況主營收協議                                                         | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
+| Accord de monétisation pour le streaming sur Twitch actualisé (2023)      | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
+| Accordo di monetizzazione per gli streamer Twitch aggiornato al 2023      | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
+| Acuerdo de Streamer Monetizado actualizado en 2023                        | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
+| Acuerdo de streamer monetizado de Twitch actualizado a 2023               | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
+| Aktualisierte Monetarisierungsvereinbarung für Twitch-Streamer:innen 2023 | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
+| Contrato de Monetização Twitch para Streamers Atualizado 2023             | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
 
 
 ### a-tour-of-your-channel-page
@@ -1250,14 +1251,12 @@ https://help.twitch.tv/s/article/contacting-partner-help
 | Title                                  | Last Modified          | Created                 |
 |----------------------------------------|------------------------|-------------------------|
 | Kontakt z działem pomocy dla partnerów | 22/10/2021, 8:53:25 am | 22/01/2020, 1:35:03 am  |
-| Partner Yardım ve İletişim Bilgileri   | 22/10/2021, 8:53:25 am | 22/01/2020, 1:24:41 am  |
 | Come contattare il Supporto partner    | 22/10/2021, 8:53:24 am | 22/01/2020, 1:24:41 am  |
 | Contacting Partner Help                | 22/10/2021, 8:53:24 am | 16/01/2020, 3:16:35 am  |
 | Contacto con la Asistencia para socios | 22/10/2021, 8:53:24 am | 22/01/2020, 1:24:41 am  |
 | Contactar ayuda para partners          | 22/10/2021, 8:53:23 am | 22/01/2020, 1:24:41 am  |
 | Contacter l'assistance aux partenaires | 22/10/2021, 8:53:23 am | 22/01/2020, 1:24:41 am  |
 | Contato com a Ajuda ao parceiro        | 22/10/2021, 8:53:22 am | 22/01/2020, 1:24:41 am  |
-| Partnerhilfe kontaktieren              | 22/10/2021, 8:53:22 am | 22/01/2020, 1:24:41 am  |
 
 
 ### contacting-purchase-support
@@ -2681,6 +2680,62 @@ https://help.twitch.tv/s/article/how-to-use-twitch-showcase
 | How to Use Twitch Showcase                         | 05/12/2022, 7:58:35 pm  | 02/12/2022, 4:39:56 am  |
 
 
+### hype-chat-by-twitch
+https://help.twitch.tv/s/article/hype-chat-by-twitch
+
+| Title                | Last Modified          | Created                 |
+|----------------------|------------------------|-------------------------|
+| Hype Chat na Twitchu | 23/06/2023, 2:25:18 am | 15/06/2023, 9:26:44 am  |
+| Hype Chat di Twitch  | 23/06/2023, 2:25:13 am | 15/06/2023, 9:26:44 am  |
+| Hype Chat par Twitch | 23/06/2023, 2:25:07 am | 15/06/2023, 9:26:44 am  |
+| Hype-Chat bei Twitch | 23/06/2023, 2:17:38 am | 15/06/2023, 9:26:44 am  |
+| Hype Chat da Twitch  | 23/06/2023, 2:16:08 am | 15/06/2023, 9:26:44 am  |
+| Hype Chat de Twitch  | 23/06/2023, 2:16:08 am | 15/06/2023, 9:26:44 am  |
+| Hype Chat de Twitch  | 23/06/2023, 2:16:08 am | 15/06/2023, 9:26:44 am  |
+| Hype Chat โดย Twitch | 23/06/2023, 2:16:08 am | 15/06/2023, 9:26:44 am  |
+| Hype Chat By Twitch  | 23/06/2023, 2:15:25 am | 03/06/2023, 6:57:57 am  |
+
+
+### hype-chat-faq
+https://help.twitch.tv/s/article/hype-chat-faq
+
+| Title                          | Last Modified          | Created                 |
+|--------------------------------|------------------------|-------------------------|
+| Domande frequenti su Hype Chat | 23/06/2023, 2:16:36 am | 15/06/2023, 9:27:16 am  |
+| FAQ dotyczące Hype Chatu       | 23/06/2023, 2:16:36 am | 15/06/2023, 9:27:16 am  |
+| FAQ sur Hype Chat              | 23/06/2023, 2:16:36 am | 15/06/2023, 9:27:16 am  |
+| Hype Chat 常見問題                 | 23/06/2023, 2:16:36 am | 15/06/2023, 9:27:16 am  |
+| Hype-Chat– FAQ                 | 23/06/2023, 2:16:36 am | 15/06/2023, 9:27:32 am  |
+| Hype Chat FAQ                  | 23/06/2023, 2:15:30 am | 03/06/2023, 6:49:00 am  |
+
+
+### hype-chat-for-streamers
+https://help.twitch.tv/s/article/hype-chat-for-streamers
+
+| Title                        | Last Modified          | Created                 |
+|------------------------------|------------------------|-------------------------|
+| Hype Chat dla streamerów     | 23/06/2023, 2:16:54 am | 15/06/2023, 9:26:20 am  |
+| Hype Chat para streamers     | 23/06/2023, 2:16:54 am | 15/06/2023, 9:26:20 am  |
+| Hype Chat para streamers     | 23/06/2023, 2:16:54 am | 15/06/2023, 9:26:20 am  |
+| Hype Chat para streamers     | 23/06/2023, 2:16:54 am | 15/06/2023, 9:26:20 am  |
+| Hype Chat สำหรับสตรีมเมอร์   | 23/06/2023, 2:16:54 am | 15/06/2023, 9:26:20 am  |
+| Hype-Chat für Streamer       | 23/06/2023, 2:16:54 am | 15/06/2023, 9:26:20 am  |
+| Hype Chat per gli streamer   | 23/06/2023, 2:16:36 am | 15/06/2023, 9:26:20 am  |
+| Hype Chat pour les Streamers | 23/06/2023, 2:16:36 am | 15/06/2023, 9:26:20 am  |
+| Hype Chat：實況主篇               | 23/06/2023, 2:16:36 am | 15/06/2023, 9:26:20 am  |
+| Hype Chat For Streamers      | 23/06/2023, 2:15:33 am | 03/06/2023, 6:51:43 am  |
+
+
+### hype-chat-pricing-by-country
+https://help.twitch.tv/s/article/hype-chat-pricing-by-country
+
+| Title                        | Last Modified          | Created                 |
+|------------------------------|------------------------|-------------------------|
+| Ceny Hype Chatu według kraju | 23/06/2023, 4:17:22 am | 23/06/2023, 4:17:22 am  |
+| Hype Chat Pricing by Country | 23/06/2023, 4:17:22 am | 23/06/2023, 4:16:59 am  |
+| Hype-Chat-Peise nach Land    | 23/06/2023, 4:17:22 am | 23/06/2023, 4:17:22 am  |
+
+
 ### hype-train-guide
 https://help.twitch.tv/s/article/hype-train-guide
 
@@ -2807,7 +2862,6 @@ https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners
 | Guía de suscripciones vitalicias para Partners   | 26/05/2023, 3:15:05 am | 26/05/2023, 3:15:05 am  |
 | Guía de suscriptor vitalicio para socios         | 26/05/2023, 3:15:05 am | 26/05/2023, 3:15:05 am  |
 | Leitfaden zu dauerhaften Abonnements für Partner | 26/05/2023, 3:15:05 am | 26/05/2023, 3:15:05 am  |
-| Partnerler için Ömür Boyu Abone Rehberi          | 26/05/2023, 3:15:05 am | 26/05/2023, 3:15:05 am  |
 
 
 ### list-of-prohibited-games
@@ -3358,50 +3412,6 @@ https://help.twitch.tv/s/article/partner-settings-guide
 | Leitfaden zu Partnereinstellungen  | 22/10/2021, 8:53:22 am | 20/01/2021, 6:00:49 am  |
 
 
-### patch-notes-16
-https://help.twitch.tv/s/article/patch-notes-16
-
-| Title                                               | Last Modified           | Created                 |
-|-----------------------------------------------------|-------------------------|-------------------------|
-| Patch Notes ǀ Episodio 16 ǀ 23 de febrero de 2023   | 28/02/2023, 3:25:32 am  | 18/02/2023, 0:04:11 pm  |
-| Patch Notes ǀ Episódio 16 ǀ 23 de fevereiro de 2023 | 28/02/2023, 1:24:03 am  | 28/02/2023, 1:24:01 am  |
-| Patch Notes ǀ Episodio 16 ǀ 23 de febrero de 2023   | 28/02/2023, 0:55:33 am  | 25/02/2023, 6:28:46 am  |
-| Patch Notes ǀ Odcinek 16 ǀ 23 lutego 2023r.         | 27/02/2023, 11:04:04 pm | 25/02/2023, 6:28:46 am  |
-| Patch Notes ǀ Folge16 ǀ 23.Februar2023              | 27/02/2023, 9:27:02 pm  | 18/02/2023, 0:04:11 pm  |
-| Patch Notes ǀ 16. Bölüm ǀ 23 Şubat 2023             | 27/02/2023, 8:32:33 pm  | 25/02/2023, 6:28:46 am  |
-| Patch Notes ǀ Episodio 16 ǀ 23 febbraio 2023        | 27/02/2023, 8:32:32 pm  | 25/02/2023, 6:28:46 am  |
-| Patch Notes ǀ Episode 16 ǀ February 23, 2023        | 25/02/2023, 6:28:11 am  | 25/02/2023, 6:08:26 am  |
-
-
-### patch-notes-17
-https://help.twitch.tv/s/article/patch-notes-17
-
-| Title                                           | Last Modified           | Created                  |
-|-------------------------------------------------|-------------------------|--------------------------|
-| Patch Notes ǀ Episodio 17 ǀ 19 de abril de 2023 | 22/04/2023, 1:36:04 am  | 22/04/2023, 1:36:02 am   |
-| Patch Notes ǀ Episódio 17 ǀ 19 de abril de 2023 | 21/04/2023, 11:40:32 pm | 14/04/2023, 2:17:46 pm   |
-| Patch Notes ǀ 17. Bölüm ǀ 19 Nisan 2023         | 21/04/2023, 9:49:32 pm  | 21/04/2023, 9:49:31 pm   |
-| Patch Notes ǀ Episodio 17 ǀ 23 de abril de 2023 | 21/04/2023, 9:23:32 pm  | 21/04/2023, 9:23:31 pm   |
-| Patch Notes ǀ Odcinek 17 ǀ 19 kwietnia 2023r.   | 21/04/2023, 8:19:03 pm  | 21/04/2023, 8:19:01 pm   |
-| Patch Notes ǀ Episodio 17 ǀ 19 aprile 2023      | 21/04/2023, 7:20:04 pm  | 21/04/2023, 7:20:03 pm   |
-| Patch Note ǀ 第 17 集 ǀ 2023 年 4 月 19 日           | 21/04/2023, 7:07:03 pm  | 21/04/2023, 7:07:01 pm   |
-| Patch Notes ǀ Episode 17 ǀ April 19, 2023       | 21/04/2023, 10:15:18 am | 14/03/2023, 10:46:27 am  |
-
-
-### patch-notes-18
-https://help.twitch.tv/s/article/patch-notes-18
-
-| Title                                          | Last Modified           | Created                  |
-|------------------------------------------------|-------------------------|--------------------------|
-| Patch Notes ǀ Episodio 18 ǀ 17 de mayo de 2023 | 23/05/2023, 10:19:03 pm | 23/05/2023, 10:19:02 pm  |
-| Patch Notes ǀ Episodio 18 ǀ 17 de mayo de 2023 | 23/05/2023, 9:03:02 pm  | 23/05/2023, 9:03:01 pm   |
-| Patch Note ǀ 第 18 集 ǀ 2023 年 5 月 17 日          | 23/05/2023, 5:50:03 pm  | 23/05/2023, 5:50:01 pm   |
-| Patch Notes ǀ Episodio 18 ǀ 17 maggio 2023     | 23/05/2023, 5:33:35 pm  | 23/05/2023, 5:33:34 pm   |
-| Patch Notes ǀ Episódio 18 ǀ 17 de maio de 2023 | 23/05/2023, 10:23:32 am | 23/05/2023, 10:23:31 am  |
-| Patch Notes ǀ 18. Bölüm ǀ 17 Mayıs 2023        | 22/05/2023, 6:23:02 pm  | 22/05/2023, 6:23:01 pm   |
-| Patch Notes ǀ Episode 18 ǀ May 17, 2023        | 19/05/2023, 6:56:06 am  | 19/05/2023, 6:55:07 am   |
-
-
 ### payout-balance-faq
 https://help.twitch.tv/s/article/payout-balance-faq
 
@@ -3935,7 +3945,6 @@ https://help.twitch.tv/s/article/subscriber-emote-guide
 | Title                                                               | Last Modified          | Created                 |
 |---------------------------------------------------------------------|------------------------|-------------------------|
 | Guia de emotes de inscrito para Parceiros e Afiliados               | 10/08/2022, 8:02:42 am | 23/11/2021, 5:21:01 am  |
-| Partnerler ve İştirakler İçin Abone İfadeleri Rehberi               | 10/08/2022, 8:02:42 am | 23/11/2021, 5:21:01 am  |
 | Guida alle emoticon per abbonati per i partner e gli affiliati      | 10/08/2022, 8:02:41 am | 23/11/2021, 5:21:01 am  |
 | Guide sur les émoticônes d'abonnés pour les partenaires et affiliés | 10/08/2022, 8:02:41 am | 23/11/2021, 5:21:01 am  |
 | Guía de emoticonos de suscriptor para Partners y Afiliados          | 10/08/2022, 8:02:41 am | 23/11/2021, 5:21:01 am  |
@@ -4271,7 +4280,6 @@ https://help.twitch.tv/s/article/twitch-prime-partner-guide
 | Title                         | Last Modified          | Created                 |
 |-------------------------------|------------------------|-------------------------|
 | Guia do Parceiro Twitch Prime | 24/05/2023, 4:02:36 am | 24/05/2023, 4:02:36 am  |
-| Partnerguide for Twitch Prime | 24/05/2023, 4:02:36 am | 24/05/2023, 4:02:36 am  |
 
 
 ### twitch-prime-program-faq
