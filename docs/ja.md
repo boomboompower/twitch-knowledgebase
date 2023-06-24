@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Video On Demand                                    | 24/06/2023, 0:46:15 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                                     |
 | Patch Notes 19                                     | 23/06/2023, 6:48:01 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=ja)                                      |
 | Affiliate Onboarding Guide                         | 22/06/2023, 2:36:27 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ja)                          |
 | Partner Program Overview                           | 16/06/2023, 2:27:12 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                            |
@@ -51,7 +52,6 @@
 | Subscriptions On Mobile                            | 21/03/2023, 11:37:36 am   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ja)                             |
 | Multi Month Subscriptions                          | 21/03/2023, 11:37:34 am   | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=ja)                           |
 | Creator Goals                                      | 15/03/2023, 11:24:04 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=ja)                                       |
-| Two Factor Authentication                          | 13/03/2023, 6:18:06 pm    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ja)                           |
 
 
 

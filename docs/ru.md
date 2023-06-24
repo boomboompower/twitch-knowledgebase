@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Video On Demand                                    | 24/06/2023, 0:46:09 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ru)                                     |
 | Patch Notes 19                                     | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=ru)                                      |
 | Affiliate Onboarding Guide                         | 22/06/2023, 2:37:03 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ru)                          |
 | Partner Program Overview                           | 16/06/2023, 2:27:16 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ru)                            |
@@ -50,8 +51,6 @@
 | Guide To Closed Captions                           | 22/03/2023, 8:16:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=ru)                            |
 | Multi Month Subscriptions                          | 21/03/2023, 8:50:38 pm    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=ru)                           |
 | Subscriptions On Mobile                            | 21/03/2023, 8:50:38 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ru)                             |
-| Creator Goals                                      | 14/03/2023, 7:55:06 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=ru)                                       |
-| Two Factor Authentication                          | 13/03/2023, 7:14:33 pm    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ru)                           |
 
 
 
