@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| broadcasting-guidelines                                       | 27/06/2023, 0:03:04 pm  | 10/06/2023, 7:21:08 am  | [Details](#broadcasting-guidelines)                                        |
 | sub-codes                                                     | 24/06/2023, 8:42:53 am  | 24/06/2023, 8:42:53 am  | [Details](#sub-codes)                                                      |
 | hype-chat-pricing-by-country                                  | 24/06/2023, 7:07:18 am  | 24/06/2023, 7:07:18 am  | [Details](#hype-chat-pricing-by-country)                                   |
 | ads-incentive-program-getting-started                         | 24/06/2023, 1:26:30 am  | 24/06/2023, 1:26:29 am  | [Details](#ads-incentive-program-getting-started)                          |
@@ -44,7 +45,6 @@ Language data is not included in the API. All page links will not have a languag
 | local-sub-price-countries                                     | 26/05/2023, 3:15:13 am  | 26/05/2023, 3:15:12 am  | [Details](#local-sub-price-countries)                                      |
 | lifetime-subscriber-guide-for-partners                        | 26/05/2023, 3:15:09 am  | 06/05/2023, 7:02:04 am  | [Details](#lifetime-subscriber-guide-for-partners)                         |
 | twitch-turbo-guide                                            | 26/05/2023, 3:14:58 am  | 19/05/2023, 11:51:30 am | [Details](#twitch-turbo-guide)                                             |
-| broadcasting-guidelines                                       | 26/05/2023, 3:10:33 am  | 26/05/2023, 3:10:13 am  | [Details](#broadcasting-guidelines)                                        |
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
 | experiments                                                   | 24/05/2023, 10:10:32 pm | 17/05/2023, 9:05:35 am  | [Details](#experiments)                                                    |
 | twitch-prime-partner-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:36 am  | [Details](#twitch-prime-partner-guide)                                     |
@@ -152,7 +152,7 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-contact-extension-developer                            | 26/10/2022, 7:44:01 am  | 26/10/2022, 7:43:31 am  | [Details](#how-to-contact-extension-developer)                             |
 | getting-started-twitch-studio                                 | 26/10/2022, 4:12:49 am  | 27/09/2022, 8:44:10 am  | [Details](#getting-started-twitch-studio)                                  |
 | how-to-use-squad-stream                                       | 21/10/2022, 7:26:47 am  | 30/09/2022, 8:30:40 am  | [Details](#how-to-use-squad-stream)                                        |
-| joining-the-affiliate-program                                 | 21/10/2022, 7:26:15 am  | 30/09/2022, 9:37:55 am  | [Details](#joining-the-affiliate-program)                                  |
+| joining-the-affiliate-program                                 | 21/10/2022, 7:26:14 am  | 30/09/2022, 9:37:55 am  | [Details](#joining-the-affiliate-program)                                  |
 | earning-revenue-from-bits-in-extensions                       | 21/10/2022, 7:25:42 am  | 30/09/2022, 7:54:28 am  | [Details](#earning-revenue-from-bits-in-extensions)                        |
 | earning-revenue-from-bits-in-extensions-beta                  | 21/10/2022, 7:25:40 am  | 21/10/2022, 7:25:39 am  | [Details](#earning-revenue-from-bits-in-extensions-beta)                   |
 | esports-directory                                             | 21/10/2022, 7:24:58 am  | 30/09/2022, 7:49:57 am  | [Details](#esports-directory)                                              |
@@ -289,8 +289,8 @@ Language data is not included in the API. All page links will not have a languag
 | making-the-most-of-channel-points                             | 22/10/2021, 8:53:25 am  | 08/01/2020, 8:57:52 am  | [Details](#making-the-most-of-channel-points)                              |
 | custom-bit-badges-guide                                       | 22/10/2021, 8:53:25 am  | 10/06/2021, 6:04:46 am  | [Details](#custom-bit-badges-guide)                                        |
 | contacting-partner-help                                       | 22/10/2021, 8:53:25 am  | 22/01/2020, 1:35:03 am  | [Details](#contacting-partner-help)                                        |
-| partner-settings-guide                                        | 22/10/2021, 8:53:25 am  | 20/01/2021, 6:00:49 am  | [Details](#partner-settings-guide)                                         |
 | tips-for-applying-to-the-partner-program                      | 22/10/2021, 8:53:24 am  | 01/06/2019, 6:37:24 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
+| partner-settings-guide                                        | 22/10/2021, 8:53:24 am  | 20/01/2021, 6:00:49 am  | [Details](#partner-settings-guide)                                         |
 | Tips-for-Bounty-Board-Completing-Bounties                     | 22/10/2021, 8:53:23 am  | 15/06/2019, 7:43:19 am  | [Details](#tips-for-bounty-board-completing-bounties)                      |
 | affiliate-settings-guide                                      | 22/10/2021, 8:53:19 am  | 20/01/2021, 6:17:06 am  | [Details](#affiliate-settings-guide)                                       |
 | recommended-hardware-for-broadcasting                         | 22/10/2021, 8:53:12 am  | 27/02/2019, 3:24:01 pm  | [Details](#recommended-hardware-for-broadcasting)                          |
@@ -932,9 +932,13 @@ https://help.twitch.tv/s/article/broadcast-guidelines
 ### broadcasting-guidelines
 https://help.twitch.tv/s/article/broadcasting-guidelines
 
-| Title                   | Last Modified          | Created                 |
-|-------------------------|------------------------|-------------------------|
-| Broadcasting Guidelines | 26/05/2023, 3:10:33 am | 26/05/2023, 3:10:13 am  |
+| Title                           | Last Modified          | Created                 |
+|---------------------------------|------------------------|-------------------------|
+| Directrices de emisión          | 27/06/2023, 0:03:04 pm | 10/06/2023, 7:21:08 am  |
+| Directrices para el streaming   | 27/06/2023, 0:02:58 pm | 10/06/2023, 7:21:08 am  |
+| Diretrizes para transmissões    | 27/06/2023, 0:02:42 pm | 10/06/2023, 7:21:08 am  |
+| Linee guida per la trasmissione | 27/06/2023, 0:02:11 pm | 10/06/2023, 7:21:08 am  |
+| Broadcasting Guidelines         | 27/06/2023, 0:00:42 pm | 10/06/2023, 7:20:16 am  |
 
 
 ### browser-extensions-twitch
@@ -2799,7 +2803,6 @@ https://help.twitch.tv/s/article/joining-guest-star
 | Cómo unirse como Guest Star                        | 21/01/2023, 0:22:34 am | 21/01/2023, 0:22:32 am  |
 | Cómo participar en Estrella Invitada como invitado | 20/01/2023, 9:10:32 pm | 20/01/2023, 9:10:31 pm  |
 | Dołączanie jako gość w Guest Star                  | 20/01/2023, 8:51:34 pm | 20/01/2023, 8:51:33 pm  |
-| Partecipare come ospite a Guest Star               | 20/01/2023, 8:37:05 pm | 20/01/2023, 8:37:04 pm  |
 | Konuk Yıldız'a konuk olarak katılma                | 19/01/2023, 7:37:32 pm | 19/01/2023, 7:37:31 pm  |
 | Entrando no Guest Star como convidado              | 19/01/2023, 1:10:05 pm | 19/01/2023, 1:10:03 pm  |
 | Joining as a Guest Star Guest                      | 12/01/2023, 6:48:55 am | 12/01/2023, 6:39:17 am  |
@@ -2810,14 +2813,12 @@ https://help.twitch.tv/s/article/joining-the-affiliate-program
 
 | Title                                           | Last Modified          | Created                 |
 |-------------------------------------------------|------------------------|-------------------------|
-| Participando do Programa de Afiliados           | 21/10/2022, 7:26:15 am | 30/09/2022, 9:37:55 am  |
 | Am Affiliate-Programm teilnehmen                | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Come partecipare al programma per gli affiliati | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Cómo Unirse al Programa de Afiliados            | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Intégrer le programme d'affiliation             | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Jak dołączyć do programu Towarzyszy             | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Joining the Affiliate Program                   | 21/10/2022, 7:26:14 am | 30/09/2022, 8:05:05 am  |
-| Participación en el programa de afiliados       | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Aderir ao Programa de Afiliados                 | 21/10/2022, 7:26:13 am | 21/10/2022, 7:26:12 am  |
 
 
@@ -3397,7 +3398,6 @@ https://help.twitch.tv/s/article/partner-settings-guide
 
 | Title                              | Last Modified          | Created                 |
 |------------------------------------|------------------------|-------------------------|
-| Partner Ayarları Rehberi           | 22/10/2021, 8:53:25 am | 20/01/2021, 6:00:49 am  |
 | Guida alle impostazioni partner    | 22/10/2021, 8:53:24 am | 20/01/2021, 6:00:49 am  |
 | Guía de configuración de socios    | 22/10/2021, 8:53:24 am | 20/01/2021, 6:00:49 am  |
 | Guide des paramètres du partenaire | 22/10/2021, 8:53:23 am | 20/01/2021, 6:00:49 am  |
