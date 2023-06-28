@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Broadcasting Guidelines                            | 27/06/2023, 0:02:42 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=pt_BR)                             |
 | Video On Demand                                    | 24/06/2023, 0:46:10 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pt_BR)                                     |
 | Patch Notes 19                                     | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=pt_BR)                                      |
 | Affiliate Onboarding Guide                         | 22/06/2023, 2:37:53 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pt_BR)                          |
@@ -50,7 +51,6 @@
 | Guide To Using Twitch Inspector                    | 28/03/2023, 5:00:19 am    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=pt_BR)                     |
 | Guide To Closed Captions                           | 22/03/2023, 1:10:34 am    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=pt_BR)                            |
 | Multi Month Subscriptions                          | 21/03/2023, 4:32:07 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=pt_BR)                           |
-| Subscriptions On Mobile                            | 21/03/2023, 4:32:04 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=pt_BR)                             |
 
 
 

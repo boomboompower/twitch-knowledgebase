@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Broadcasting Guidelines                            | 27/06/2023, 0:00:42 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                             |
 | Patch Notes 19                                     | 23/06/2023, 6:40:33 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=en_US)                                      |
 | Affiliate Onboarding Guide                         | 22/06/2023, 2:35:33 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=en_US)                          |
 | Video On Demand                                    | 20/06/2023, 0:12:52 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                     |
@@ -17,7 +18,6 @@
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                           |
 | Lifetime Subscriber Guide For Partners             | 26/05/2023, 3:15:09 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=en_US)              |
 | Twitch Turbo Guide                                 | 26/05/2023, 3:14:57 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                                  |
-| Broadcasting Guidelines                            | 26/05/2023, 3:10:33 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                             |
 | Prime Gaming Revenue Guide                         | 24/05/2023, 4:02:47 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)                          |
 | Achievements                                       | 24/05/2023, 4:02:46 am    | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                                        |
 | Payout History Dashboard Guide                     | 24/05/2023, 4:02:24 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=en_US)                      |
@@ -51,7 +51,6 @@
 | Ads Manager                                        | 30/03/2023, 8:16:26 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=en_US)                                         |
 | Monthly Recap                                      | 30/03/2023, 7:00:46 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=en_US)                                       |
 | Guide To Using Twitch Inspector                    | 24/03/2023, 4:15:49 am    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=en_US)                     |
-| Multi Month Subscriptions                          | 15/03/2023, 8:30:50 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=en_US)                           |
 
 
 

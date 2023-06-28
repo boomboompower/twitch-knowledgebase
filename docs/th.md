@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Broadcasting Guidelines                            | 27/06/2023, 0:03:10 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=th)                             |
 | Video On Demand                                    | 24/06/2023, 0:46:15 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=th)                                     |
 | Patch Notes 19                                     | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=th)                                      |
 | Affiliate Onboarding Guide                         | 22/06/2023, 2:38:36 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=th)                          |
