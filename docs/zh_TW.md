@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Refunds On Twitch                                  | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=zh_TW)                                   |
 | Broadcasting Guidelines                            | 27/06/2023, 0:01:57 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=zh_TW)                             |
 | Video On Demand                                    | 24/06/2023, 0:46:10 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                     |
 | Patch Notes 19                                     | 23/06/2023, 6:48:20 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=zh_TW)                                      |
@@ -20,7 +21,6 @@
 | Channel Analytics                                  | 30/05/2023, 7:10:38 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=zh_TW)                                   |
 | Payout History Dashboard Guide                     | 30/05/2023, 7:10:37 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=zh_TW)                      |
 | Local Recording                                    | 30/05/2023, 7:10:33 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=zh_TW)                                     |
-| Refunds On Twitch                                  | 29/05/2023, 4:56:33 pm    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=zh_TW)                                   |
 | Alerts By Twitch Css                               | 26/05/2023, 7:28:12 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=zh_TW)                                |
 | Alerts By Twitch Interactive Resubs                | 26/05/2023, 7:28:10 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=zh_TW)                 |
 | Alerts By Twitch                                   | 26/05/2023, 7:28:09 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=zh_TW)                                    |

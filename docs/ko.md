@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Refunds On Twitch                                  | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ko)                                   |
 | Broadcasting Guidelines                            | 27/06/2023, 0:02:26 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ko)                             |
 | Video On Demand                                    | 24/06/2023, 0:46:09 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ko)                                     |
 | Patch Notes 19                                     | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=ko)                                      |
@@ -20,7 +21,6 @@
 | Achievements                                       | 30/05/2023, 5:42:10 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ko)                                        |
 | Payout History Dashboard Guide                     | 30/05/2023, 5:42:08 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=ko)                      |
 | Channel Analytics                                  | 30/05/2023, 5:42:05 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ko)                                   |
-| Refunds On Twitch                                  | 29/05/2023, 2:16:03 pm    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ko)                                   |
 | Alerts By Twitch Css                               | 26/05/2023, 11:19:41 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=ko)                                |
 | Alerts By Twitch Events                            | 26/05/2023, 11:19:38 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ko)                             |
 | Alerts By Twitch                                   | 26/05/2023, 11:19:37 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=ko)                                    |

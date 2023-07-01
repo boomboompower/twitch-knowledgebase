@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Refunds On Twitch                                  | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=it)                                   |
 | Broadcasting Guidelines                            | 27/06/2023, 0:02:11 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=it)                             |
 | Video On Demand                                    | 24/06/2023, 0:46:10 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=it)                                     |
 | Patch Notes 19                                     | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=it)                                      |
@@ -20,7 +21,6 @@
 | Guide To Broadcast Health                          | 30/05/2023, 5:46:39 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=it)                           |
 | Payout History Dashboard Guide                     | 30/05/2023, 5:46:37 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=it)                      |
 | Local Recording                                    | 30/05/2023, 5:46:33 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=it)                                     |
-| Refunds On Twitch                                  | 29/05/2023, 5:22:33 pm    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=it)                                   |
 | Alerts By Twitch                                   | 26/05/2023, 5:42:41 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=it)                                    |
 | Alerts By Twitch Css                               | 26/05/2023, 5:42:37 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=it)                                |
 | Alerts By Twitch Faq                               | 26/05/2023, 5:42:35 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=it)                                |

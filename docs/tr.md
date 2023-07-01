@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Refunds On Twitch                                  | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=tr)                                   |
 | Broadcasting Guidelines                            | 27/06/2023, 0:03:16 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=tr)                             |
 | Video On Demand                                    | 24/06/2023, 0:46:09 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=tr)                                     |
 | Patch Notes 19                                     | 23/06/2023, 6:48:01 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=tr)                                      |
@@ -19,7 +20,6 @@
 | Alerts By Twitch Events                            | 26/05/2023, 8:53:04 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=tr)                             |
 | Alerts By Twitch                                   | 26/05/2023, 8:53:02 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=tr)                                    |
 | Alerts By Twitch Interactive Resubs                | 26/05/2023, 8:53:02 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=tr)                 |
-| Refunds On Twitch                                  | 26/05/2023, 3:15:33 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=tr)                                   |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=tr)                           |
 | Lifetime Subscriber Guide For Partners             | 26/05/2023, 3:15:05 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=tr)              |
 | Twitch Turbo Guide                                 | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=tr)                                  |
