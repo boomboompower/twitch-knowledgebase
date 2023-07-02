@@ -149,7 +149,6 @@
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 10/03/2022, 11:41:35 pm   | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=ru)  |
 | Partner Cheermote Guide                                       | 10/03/2022, 11:41:34 pm   | [Link](https://help.twitch.tv/s/article/partner-cheermote-guide?language=ru)                                        |
 | Twitch Studio Faq                                             | 10/03/2022, 11:03:35 pm   | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=ru)                                              |
-| Animated Emotes                                               | 25/02/2022, 11:38:05 pm   | [Link](https://help.twitch.tv/s/article/animated-emotes?language=ru)                                                |
 
 
 
@@ -158,6 +157,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Animated Emotes                            | 25/02/2022, 11:38:05 pm   | [Link](https://help.twitch.tv/s/article/animated-emotes?language=ru)                             |
 | Twitch Music Fast Start Guide              | 13/01/2022, 9:51:30 am    | [Link](https://help.twitch.tv/s/article/twitch-music-fast-start-guide?language=ru)               |
 | Studio Obs Ndi                             | 13/01/2022, 9:50:51 am    | [Link](https://help.twitch.tv/s/article/studio-obs-ndi?language=ru)                              |
 | Recommended Software For Broadcasting      | 13/01/2022, 9:50:05 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ru)       |
@@ -194,7 +194,6 @@
 | Watching Twitch On Ios Devices             | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=ru)              |
 | Twitch Prime Loot Gifting                  | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-loot-gifting?language=ru)                   |
 | Twitch Prime Program Faq                   | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-program-faq?language=ru)                    |
-| How To Claim In Game Content               | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=ru)                |
 
 
 
@@ -203,6 +202,7 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Twitch Prime Guide                                | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-guide?language=ru)                                 |
 | How To Use Twitch Prime Subscriptions             | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=ru)              |
 | How To Link Your Amazon Account                   | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-link-your-amazon-account?language=ru)                    |
 | Bits Purchase Troubleshooting                     | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=ru)                      |
@@ -240,19 +240,18 @@
 | New Device And Location Verification              | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=ru)               |
 | Where Are My Notifications                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=ru)                         |
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=ru)                 |
-| Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ru)                         |
-| Username Rename And Recycling Policies            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=ru)             |
-| How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ru)             |
 
 
 
 ## Article-6
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-6.xml) this sitemap
 
-| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                          |
-|-------------------------|---------------------------|-------------------------------------------------------------------------------|
-| How To Provide Feedback | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=ru)  |
-| Markdown Basics         | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ru)          |
+| Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Username Rename And Recycling Policies | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=ru)  |
+| How To Log In To Twitch With One Click | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ru)  |
+| How To Provide Feedback                | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=ru)                 |
+| Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ru)                         |
 
 
 

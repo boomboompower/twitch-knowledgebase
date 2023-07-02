@@ -59,6 +59,7 @@
 
 | Name                                    | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |-----------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Subscriptions On Mobile                 | 21/03/2023, 4:32:04 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=pt_BR)                  |
 | Creator Goals                           | 14/03/2023, 11:39:34 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=pt_BR)                            |
 | Two Factor Authentication               | 11/03/2023, 5:25:05 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=pt_BR)                |
 | Guest Star Browser Source               | 10/03/2023, 3:34:05 am    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=pt_BR)                |
@@ -193,8 +194,6 @@
 | Watching Twitch On Ios Devices             | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=pt_BR)              |
 | Twitch Prime Loot Gifting                  | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-loot-gifting?language=pt_BR)                   |
 | Twitch Prime Program Faq                   | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-program-faq?language=pt_BR)                    |
-| How To Claim In Game Content               | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=pt_BR)                |
-| Twitch Prime Guide                         | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-guide?language=pt_BR)                          |
 
 
 
@@ -203,6 +202,7 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                       |
 |---------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------|
+| Twitch Prime Guide                                | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-guide?language=pt_BR)                                 |
 | How To Use Twitch Prime Subscriptions             | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=pt_BR)              |
 | How To Link Your Amazon Account                   | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-link-your-amazon-account?language=pt_BR)                    |
 | Bits Purchase Troubleshooting                     | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=pt_BR)                      |
@@ -241,19 +241,18 @@
 | New Device And Location Verification              | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=pt_BR)               |
 | Where Are My Notifications                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=pt_BR)                         |
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=pt_BR)                 |
-| Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_BR)                         |
-| Username Rename And Recycling Policies            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=pt_BR)             |
-| How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=pt_BR)             |
 
 
 
 ## Article-6
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-6.xml) this sitemap
 
-| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                             |
-|-------------------------|---------------------------|----------------------------------------------------------------------------------|
-| How To Provide Feedback | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=pt_BR)  |
-| Markdown Basics         | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pt_BR)          |
+| Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
+|----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Username Rename And Recycling Policies | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=pt_BR)  |
+| How To Log In To Twitch With One Click | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=pt_BR)  |
+| How To Provide Feedback                | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=pt_BR)                 |
+| Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pt_BR)                         |
 
 
 

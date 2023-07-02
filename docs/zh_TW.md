@@ -58,6 +58,9 @@
 
 | Name                                    | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |-----------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Subscriptions On Mobile                 | 20/03/2023, 8:12:05 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=zh_TW)                  |
+| Multi Month Subscriptions               | 20/03/2023, 8:12:04 pm    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=zh_TW)                |
+| Creator Goals                           | 15/03/2023, 2:04:02 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                            |
 | Two Factor Authentication               | 13/03/2023, 2:36:03 pm    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=zh_TW)                |
 | Guest Star Browser Source               | 10/03/2023, 2:00:32 pm    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=zh_TW)                |
 | First Steps For New Affiliates          | 24/02/2023, 4:57:03 pm    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=zh_TW)           |
@@ -190,7 +193,6 @@
 | Watching Twitch On Android Devices         | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=zh_TW)          |
 | Twitch Prime Loot Gifting                  | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-loot-gifting?language=zh_TW)                   |
 | Twitch Prime Program Faq                   | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-program-faq?language=zh_TW)                    |
-| How To Claim In Game Content               | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=zh_TW)                |
 
 
 
@@ -199,6 +201,7 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                       |
 |---------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------|
+| Twitch Prime Guide                                | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-guide?language=zh_TW)                                 |
 | How To Use Twitch Prime Subscriptions             | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=zh_TW)              |
 | How To Link Your Amazon Account                   | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-link-your-amazon-account?language=zh_TW)                    |
 | Bits Purchase Troubleshooting                     | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=zh_TW)                      |

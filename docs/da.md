@@ -15,16 +15,15 @@
 ## Article-2
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
 
-| Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                               |
-|----------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------|
-| Two Factor Authentication With Authy         | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=da)          |
-| Stream Summary                               | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=da)                                |
-| How To Use Host Mode                         | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=da)                          |
-| How To Manage Harassment In Chat             | 01/12/2022, 5:24:49 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=da)              |
-| Chat Commands                                | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=da)                                 |
-| Gift Subscriptions                           | 18/11/2022, 6:01:11 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=da)                            |
-| How To Use Extensions                        | 26/10/2022, 7:04:49 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=da)                         |
-| Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=da)  |
+| Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                       |
+|--------------------------------------|---------------------------|--------------------------------------------------------------------------------------------|
+| Two Factor Authentication With Authy | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=da)  |
+| Stream Summary                       | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=da)                        |
+| How To Use Host Mode                 | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=da)                  |
+| How To Manage Harassment In Chat     | 01/12/2022, 5:24:49 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=da)      |
+| Chat Commands                        | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=da)                         |
+| Gift Subscriptions                   | 18/11/2022, 6:01:11 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=da)                    |
+| How To Use Extensions                | 26/10/2022, 7:04:49 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=da)                 |
 
 
 
@@ -33,6 +32,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Earning Revenue From Bits In Extensions Beta                  | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=da)                   |
 | Twitch Content Sharing Guidelines                             | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=da)                              |
 | How To Use Raids                                              | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=da)                                               |
 | Twitch Studio Faq                                             | 10/03/2022, 9:52:06 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=da)                                              |

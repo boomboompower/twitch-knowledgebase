@@ -59,6 +59,7 @@
 
 | Name                                           | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Multi Month Subscriptions                      | 15/03/2023, 8:30:50 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=en_US)                       |
 | Subscriptions On Mobile                        | 15/03/2023, 8:28:14 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=en_US)                         |
 | Two Factor Authentication                      | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=en_US)                       |
 | Creator Goals                                  | 09/03/2023, 4:21:18 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                   |
@@ -99,7 +100,6 @@
 | Getting Started Twitch Studio                  | 26/10/2022, 4:12:48 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=en_US)                   |
 | How To Use Squad Stream                        | 21/10/2022, 7:26:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=en_US)                         |
 | Joining The Affiliate Program                  | 21/10/2022, 7:26:14 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=en_US)                   |
-| Earning Revenue From Bits In Extensions        | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=en_US)         |
 
 
 
@@ -108,6 +108,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Earning Revenue From Bits In Extensions                       | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=en_US)                        |
 | Managing Your Phone Number                                    | 19/10/2022, 4:49:28 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=en_US)                                     |
 | Twitch Content Sharing Guidelines                             | 13/10/2022, 7:53:06 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=en_US)                              |
 | Supported Browsers                                            | 30/09/2022, 5:29:06 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=en_US)                                             |
@@ -201,7 +202,6 @@
 | Prime Gaming Loot Gifting                  | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-loot-gifting?language=en_US)                   |
 | Twitch Prime Program Faq                   | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-program-faq?language=en_US)                    |
 | How To Claim In Game Content               | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=en_US)                |
-| Twitch Prime Guide                         | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-guide?language=en_US)                          |
 
 
 
@@ -210,6 +210,7 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                       |
 |---------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------|
+| Twitch Prime Guide                                | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-guide?language=en_US)                                 |
 | How To Use Twitch Prime Subscriptions             | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=en_US)              |
 | How To Link Your Amazon Account                   | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-link-your-amazon-account?language=en_US)                    |
 | Bits Purchase Troubleshooting                     | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=en_US)                      |
@@ -257,16 +258,16 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                         |
 | Username Rename And Recycling Policies            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=en_US)             |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)             |
-| How To Provide Feedback                           | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=en_US)                            |
 
 
 
 ## Article-6
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-6.xml) this sitemap
 
-| Name            | Last Updated (dd/mm/yyyy) | Link                                                                     |
-|-----------------|---------------------------|--------------------------------------------------------------------------|
-| Markdown Basics | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)  |
+| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                             |
+|-------------------------|---------------------------|----------------------------------------------------------------------------------|
+| How To Provide Feedback | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=en_US)  |
+| Markdown Basics         | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)          |
 
 
 
