@@ -6,6 +6,12 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Lifetime Subscriber Guide For Partners             | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=th)              |
+| Music Options For Streamers                        | 11/07/2023, 2:52:16 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=th)                         |
+| Achievements                                       | 11/07/2023, 2:30:09 am    | [Link](https://help.twitch.tv/s/article/achievements?language=th)                                        |
+| Managing Roles For Your Channel                    | 11/07/2023, 2:22:54 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=th)                     |
+| Creating An Account With Twitch                    | 11/07/2023, 2:20:34 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=th)                     |
+| Partner Onboarding Guide                           | 11/07/2023, 1:57:23 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=th)                            |
 | Refunds On Twitch                                  | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=th)                                   |
 | Broadcasting Guidelines                            | 27/06/2023, 0:03:10 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=th)                             |
 | Video On Demand                                    | 24/06/2023, 0:46:15 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=th)                                     |
@@ -14,7 +20,6 @@
 | Partner Program Overview                           | 16/06/2023, 2:27:12 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)                            |
 | Twitch Music Getting Started                       | 02/06/2023, 11:26:33 pm   | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=th)                        |
 | Alerts By Twitch Customization                     | 31/05/2023, 4:50:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=th)                      |
-| Achievements                                       | 30/05/2023, 3:45:16 am    | [Link](https://help.twitch.tv/s/article/achievements?language=th)                                        |
 | Twitch Stream Key Faq                              | 30/05/2023, 3:45:15 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=th)                               |
 | Local Recording                                    | 30/05/2023, 3:45:13 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=th)                                     |
 | Guide To Broadcast Health                          | 30/05/2023, 3:45:09 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=th)                           |
@@ -28,7 +33,6 @@
 | Alerts By Twitch Interactive Resubs                | 27/05/2023, 1:04:35 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=th)                 |
 | Alerts By Twitch                                   | 27/05/2023, 1:04:32 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=th)                                    |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=th)                           |
-| Lifetime Subscriber Guide For Partners             | 26/05/2023, 3:15:05 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=th)              |
 | Twitch Turbo Guide                                 | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=th)                                  |
 | Emote Analytics                                    | 22/05/2023, 1:31:03 am    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=th)                                     |
 | How To Use Clips                                   | 15/05/2023, 9:01:36 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=th)                                    |
@@ -47,13 +51,6 @@
 | Picture By Picture Ads                             | 10/04/2023, 2:35:32 am    | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=th)                              |
 | Disabling Prerolls                                 | 10/04/2023, 2:34:03 am    | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=th)                                  |
 | How To File A User Report                          | 05/04/2023, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=th)                           |
-| Monthly Recap                                      | 30/03/2023, 7:00:47 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=th)                                       |
-| Guide To Using Twitch Inspector                    | 29/03/2023, 0:16:23 am    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=th)                     |
-| Subscriptions On Mobile                            | 25/03/2023, 5:17:03 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=th)                             |
-| Guide To Closed Captions                           | 24/03/2023, 3:14:33 am    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=th)                            |
-| Creator Goals                                      | 23/03/2023, 2:36:33 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=th)                                       |
-| Two Factor Authentication                          | 23/03/2023, 2:21:33 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=th)                           |
-| Multi Month Subscriptions                          | 22/03/2023, 1:15:43 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=th)                           |
 
 
 
