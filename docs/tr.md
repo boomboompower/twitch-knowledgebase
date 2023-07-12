@@ -51,6 +51,7 @@
 | Picture By Picture Ads                             | 05/04/2023, 7:53:32 pm    | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=tr)                              |
 | Ads Manager                                        | 05/04/2023, 7:53:32 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=tr)                                         |
 | How To File A User Report                          | 05/04/2023, 6:11:09 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=tr)                           |
+| Monthly Recap                                      | 30/03/2023, 7:00:47 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=tr)                                       |
 
 
 

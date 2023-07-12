@@ -51,6 +51,7 @@
 | Picture By Picture Ads                             | 10/04/2023, 2:35:32 am    | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=th)                              |
 | Disabling Prerolls                                 | 10/04/2023, 2:34:03 am    | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=th)                                  |
 | How To File A User Report                          | 05/04/2023, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=th)                           |
+| Monthly Recap                                      | 30/03/2023, 7:00:47 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=th)                                       |
 
 
 

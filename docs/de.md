@@ -49,6 +49,9 @@
 | Chat Highlights                                    | 12/04/2023, 4:05:40 am    | [Link](https://help.twitch.tv/s/article/chat-highlights?language=de)                                     |
 | How To File A User Report                          | 05/04/2023, 6:11:07 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=de)                           |
 | Ads Manager                                        | 03/04/2023, 6:47:35 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=de)                                         |
+| Disabling Prerolls                                 | 03/04/2023, 6:47:33 pm    | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=de)                                  |
+| Picture By Picture Ads                             | 03/04/2023, 6:47:33 pm    | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=de)                              |
+| Monthly Recap                                      | 30/03/2023, 7:00:46 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=de)                                       |
 
 
 
