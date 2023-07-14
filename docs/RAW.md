@@ -7,6 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| experiments                                                   | 14/07/2023, 9:27:47 am  | 14/07/2023, 9:27:47 am  | [Details](#experiments)                                                    |
+| discovery                                                     | 14/07/2023, 7:07:26 am  | 14/07/2023, 7:07:26 am  | [Details](#discovery)                                                      |
 | hype-chat-faq                                                 | 11/07/2023, 10:08:32 am | 11/07/2023, 10:08:31 am | [Details](#hype-chat-faq)                                                  |
 | hype-chat-pricing-by-country                                  | 11/07/2023, 9:49:14 am  | 30/06/2023, 6:17:33 pm  | [Details](#hype-chat-pricing-by-country)                                   |
 | shoutouts                                                     | 11/07/2023, 9:41:55 am  | 27/06/2023, 1:40:40 am  | [Details](#shoutouts)                                                      |
@@ -35,7 +37,6 @@ Language data is not included in the API. All page links will not have a languag
 | branded-content-policy                                        | 09/06/2023, 8:46:18 am  | 09/06/2023, 2:10:34 am  | [Details](#branded-content-policy)                                         |
 | simulcasting-guidelines                                       | 07/06/2023, 1:27:03 am  | 07/06/2023, 1:27:02 am  | [Details](#simulcasting-guidelines)                                        |
 | android-purchases                                             | 06/06/2023, 6:59:18 am  | 25/05/2023, 10:43:54 am | [Details](#android-purchases)                                              |
-| discovery                                                     | 01/06/2023, 0:15:47 pm  | 01/06/2023, 0:15:47 pm  | [Details](#discovery)                                                      |
 | alerts-by-twitch-customization                                | 31/05/2023, 4:50:49 am  | 31/05/2023, 4:50:16 am  | [Details](#alerts-by-twitch-customization)                                 |
 | local-recording                                               | 31/05/2023, 0:13:18 am  | 23/05/2023, 0:17:33 pm  | [Details](#local-recording)                                                |
 | twitch-stream-key-faq                                         | 31/05/2023, 0:13:14 am  | 27/04/2023, 3:57:31 am  | [Details](#twitch-stream-key-faq)                                          |
@@ -53,7 +54,6 @@ Language data is not included in the API. All page links will not have a languag
 | twitch-turbo-guide                                            | 26/05/2023, 3:14:58 am  | 19/05/2023, 11:51:30 am | [Details](#twitch-turbo-guide)                                             |
 | channel-analytics                                             | 25/05/2023, 7:51:43 am  | 23/05/2023, 0:21:49 pm  | [Details](#channel-analytics)                                              |
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
-| experiments                                                   | 24/05/2023, 10:10:32 pm | 17/05/2023, 9:05:35 am  | [Details](#experiments)                                                    |
 | twitch-prime-partner-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:36 am  | [Details](#twitch-prime-partner-guide)                                     |
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
 | emote-analytics                                               | 23/05/2023, 6:24:07 pm  | 13/05/2023, 7:37:37 am  | [Details](#emote-analytics)                                                |
@@ -1474,15 +1474,15 @@ https://help.twitch.tv/s/article/discovery
 
 | Title          | Last Modified          | Created                 |
 |----------------|------------------------|-------------------------|
-| Descoberta     | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
-| Descubrimiento | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
-| Descubrimiento | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
-| Discovery      | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:11:29 pm  |
-| Discovery      | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
-| Découverte     | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
-| Entdecken      | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
-| Keşif          | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
-| Odkrywaj       | 01/06/2023, 0:15:47 pm | 01/06/2023, 0:15:47 pm  |
+| Descoberta     | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:26 am  |
+| Descubrimiento | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:26 am  |
+| Descubrimiento | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:26 am  |
+| Discovery      | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:02 am  |
+| Discovery      | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:26 am  |
+| Découverte     | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:26 am  |
+| Entdecken      | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:26 am  |
+| Keşif          | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:26 am  |
+| Odkrywaj       | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:26 am  |
 
 
 ### display-names-on-twitch
@@ -1628,14 +1628,14 @@ https://help.twitch.tv/s/article/esports-directory
 ### experiments
 https://help.twitch.tv/s/article/experiments
 
-| Title                          | Last Modified           | Created                 |
-|--------------------------------|-------------------------|-------------------------|
-| Experimentos de Twitch         | 24/05/2023, 10:10:32 pm | 17/05/2023, 9:05:35 am  |
-| Experimentos de Twitch         | 24/05/2023, 9:15:32 pm  | 17/05/2023, 9:05:35 am  |
-| Expériences Twitch             | 24/05/2023, 7:54:33 pm  | 17/05/2023, 9:05:35 am  |
-| Eksperymenty w serwisie Twitch | 24/05/2023, 6:58:03 pm  | 17/05/2023, 9:05:35 am  |
-| Gli esperimenti di Twitch      | 24/05/2023, 5:52:33 pm  | 17/05/2023, 9:05:35 am  |
-| Experimentos da Twitch         | 24/05/2023, 9:25:02 am  | 17/05/2023, 9:05:35 am  |
+| Title                          | Last Modified          | Created                 |
+|--------------------------------|------------------------|-------------------------|
+| Eksperymenty w serwisie Twitch | 14/07/2023, 9:27:47 am | 14/07/2023, 9:27:47 am  |
+| Experimentos da Twitch         | 14/07/2023, 9:27:47 am | 14/07/2023, 9:27:47 am  |
+| Experimentos de Twitch         | 14/07/2023, 9:27:47 am | 14/07/2023, 9:27:47 am  |
+| Experimentos de Twitch         | 14/07/2023, 9:27:47 am | 14/07/2023, 9:27:47 am  |
+| Expériences Twitch             | 14/07/2023, 9:27:47 am | 14/07/2023, 9:27:47 am  |
+| Gli esperimenti di Twitch      | 14/07/2023, 9:27:47 am | 14/07/2023, 9:27:47 am  |
 
 
 ### extensions-switch-with-your-game-selection
