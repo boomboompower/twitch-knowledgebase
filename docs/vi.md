@@ -26,7 +26,6 @@
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
 | About Account Suspensions Dmca Suspensions And Chat Bans | 22/07/2022, 8:46:57 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=vi)  |
-| Twitch Studio Faq                                        | 10/03/2022, 9:52:06 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=vi)                                         |
 
 
 

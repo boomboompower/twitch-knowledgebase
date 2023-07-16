@@ -60,6 +60,10 @@
 
 | Name                             | Last Updated (dd/mm/yyyy) | Link                                                                                   |
 |----------------------------------|---------------------------|----------------------------------------------------------------------------------------|
+| Guide To Using Twitch Inspector  | 28/03/2023, 10:24:19 pm   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=es)   |
+| Guide To Closed Captions         | 23/03/2023, 0:03:35 am    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=es)          |
+| Subscriptions On Mobile          | 21/03/2023, 9:41:33 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=es)           |
+| Multi Month Subscriptions        | 21/03/2023, 9:41:03 pm    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=es)         |
 | Creator Goals                    | 15/03/2023, 11:32:08 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=es)                     |
 | Two Factor Authentication        | 13/03/2023, 10:20:05 pm   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es)         |
 | Guest Star Browser Source        | 09/03/2023, 11:10:33 pm   | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=es)         |
@@ -76,7 +80,6 @@
 | Guest Star                       | 18/01/2023, 4:04:34 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=es)                        |
 | Twitch Mobile App Update         | 16/01/2023, 10:07:02 pm   | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=es)          |
 | Twitch Studio Mac Faq            | 16/01/2023, 10:04:33 pm   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=es)             |
-| Managing Roles For Your Channel  | 05/01/2023, 11:04:39 am   | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es)   |
 | Follower Emotes                  | 15/12/2022, 7:29:47 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=es)                   |
 | Live Viewer Feedback             | 10/12/2022, 8:46:51 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=es)              |
 | Twitch Affiliate Program Faq     | 10/12/2022, 0:17:03 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)      |
@@ -97,8 +100,6 @@
 | Cheering Experiment 2022         | 27/10/2022, 11:02:36 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=es)          |
 | Managing Your Phone Number       | 27/10/2022, 3:48:39 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es)        |
 | Getting Started Twitch Studio    | 26/10/2022, 4:12:48 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=es)     |
-| How To Use Squad Stream          | 21/10/2022, 7:26:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=es)           |
-| Joining The Affiliate Program    | 21/10/2022, 7:26:14 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es)     |
 
 
 
@@ -107,6 +108,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| How To Use Squad Stream                                       | 21/10/2022, 7:26:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=es)                                        |
+| Joining The Affiliate Program                                 | 21/10/2022, 7:26:14 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es)                                  |
 | Earning Revenue From Bits In Extensions                       | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=es)                        |
 | Supported Browsers                                            | 17/10/2022, 6:33:34 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=es)                                             |
 | Twitch Content Sharing Guidelines                             | 13/10/2022, 7:53:06 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=es)                              |
@@ -127,7 +130,6 @@
 | Channel Points Predictions                                    | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=es)                                     |
 | Games Irl And Music Directories                               | 28/07/2022, 3:03:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=es)                                |
 | Ban Evasion                                                   | 22/07/2022, 2:42:13 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=es)                                                    |
-| Partner Onboarding Guide                                      | 13/07/2022, 3:11:43 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                                       |
 | How To File A Video Playback Issue                            | 08/07/2022, 10:40:03 pm   | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=es)                             |
 | Disconnect Protection                                         | 21/06/2022, 8:50:04 pm    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=es)                                          |
 | Artist Badge Attribution                                      | 20/05/2022, 3:31:41 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=es)                                       |
@@ -178,7 +180,6 @@
 | Twitch Prime Loot Gifting                  | 18/02/2022, 1:27:11 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-loot-gifting?language=es)                   |
 | Where Are My Notifications                 | 17/02/2022, 9:28:35 pm    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=es)                  |
 | Twitch Studio Creator Goals                | 17/02/2022, 9:27:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-creator-goals?language=es)                 |
-| Creating An Account With Twitch            | 15/12/2021, 8:12:09 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es)             |
 | List Of Prohibited Games                   | 15/12/2021, 6:51:22 am    | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=es)                    |
 | Account Hacked                             | 15/12/2021, 5:46:59 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=es)                              |
 | Adding A Game And Box Art To The Directory | 10/12/2021, 6:25:54 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=es)  |
