@@ -7,10 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| Managing-Roles-for-your-Channel                               | 19/07/2023, 9:58:38 pm  | 11/07/2023, 2:23:20 am  | [Details](#managing-roles-for-your-channel)                                |
+| creating-an-account-with-twitch                               | 19/07/2023, 9:58:35 pm  | 11/07/2023, 2:21:09 am  | [Details](#creating-an-account-with-twitch)                                |
+| achievements                                                  | 19/07/2023, 9:13:42 pm  | 11/07/2023, 2:30:32 am  | [Details](#achievements)                                                   |
 | basic-troubleshooting-tips                                    | 19/07/2023, 11:22:37 am | 19/07/2023, 11:22:20 am | [Details](#basic-troubleshooting-tips)                                     |
-| Managing-Roles-for-your-Channel                               | 19/07/2023, 8:25:42 am  | 11/07/2023, 2:23:20 am  | [Details](#managing-roles-for-your-channel)                                |
-| creating-an-account-with-twitch                               | 19/07/2023, 8:25:38 am  | 11/07/2023, 2:21:09 am  | [Details](#creating-an-account-with-twitch)                                |
-| achievements                                                  | 19/07/2023, 8:25:34 am  | 11/07/2023, 2:30:32 am  | [Details](#achievements)                                                   |
 | creating-highlights-and-stream-markers                        | 18/07/2023, 5:11:28 am  | 18/07/2023, 5:11:06 am  | [Details](#creating-highlights-and-stream-markers)                         |
 | dmca-and-copyright-faqs                                       | 18/07/2023, 4:12:02 am  | 06/06/2023, 4:23:42 am  | [Details](#dmca-and-copyright-faqs)                                        |
 | experiments                                                   | 18/07/2023, 3:30:22 am  | 18/07/2023, 3:30:21 am  | [Details](#experiments)                                                    |
@@ -416,15 +416,15 @@ https://help.twitch.tv/s/article/achievements
 
 | Title        | Last Modified          | Created                 |
 |--------------|------------------------|-------------------------|
+| Logros       | 19/07/2023, 9:13:42 pm | 11/07/2023, 2:30:32 am  |
+| Başarılar    | 19/07/2023, 9:09:33 pm | 11/07/2023, 2:30:32 am  |
+| Osiągnięcia  | 19/07/2023, 8:44:03 pm | 11/07/2023, 2:30:32 am  |
+| Achievements | 19/07/2023, 7:45:10 pm | 11/07/2023, 2:30:32 am  |
+| Obiettivi    | 19/07/2023, 6:09:05 pm | 11/07/2023, 2:30:32 am  |
 | Logros       | 19/07/2023, 8:25:34 am | 11/07/2023, 2:30:32 am  |
 | Conquistas   | 19/07/2023, 4:34:45 am | 11/07/2023, 2:30:32 am  |
 | Achievements | 11/07/2023, 2:30:10 am | 21/06/2023, 0:04:06 pm  |
-| Achievements | 11/07/2023, 2:30:09 am | 11/07/2023, 2:30:08 am  |
-| Başarılar    | 11/07/2023, 2:30:09 am | 11/07/2023, 2:30:08 am  |
 | Conquistas   | 11/07/2023, 2:30:09 am | 11/07/2023, 2:30:08 am  |
-| Logros       | 11/07/2023, 2:30:09 am | 11/07/2023, 2:30:08 am  |
-| Obiettivi    | 11/07/2023, 2:30:09 am | 11/07/2023, 2:30:08 am  |
-| Osiągnięcia  | 11/07/2023, 2:30:09 am | 11/07/2023, 2:30:08 am  |
 
 
 ### ad-experience-experiment
@@ -1330,14 +1330,14 @@ https://help.twitch.tv/s/article/creating-an-account-with-twitch
 
 | Title                             | Last Modified          | Created                 |
 |-----------------------------------|------------------------|-------------------------|
+| Créer un compte sur Twitch        | 19/07/2023, 9:58:35 pm | 11/07/2023, 2:21:09 am  |
+| Cómo crear una cuenta en Twitch   | 19/07/2023, 9:13:40 pm | 11/07/2023, 2:21:09 am  |
+| Erstellen eines Twitch-Kontos     | 19/07/2023, 7:45:06 pm | 11/07/2023, 2:21:09 am  |
+| Creazione di un account su Twitch | 19/07/2023, 6:09:05 pm | 11/07/2023, 2:21:09 am  |
 | Creación de una cuenta con Twitch | 19/07/2023, 8:25:38 am | 11/07/2023, 2:21:09 am  |
 | Criar uma conta na Twitch         | 19/07/2023, 4:34:39 am | 11/07/2023, 2:21:09 am  |
 | Creating an Account with Twitch   | 11/07/2023, 2:20:36 am | 25/04/2023, 6:38:26 pm  |
-| Creazione di un account su Twitch | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
-| Créer un compte sur Twitch        | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
-| Cómo crear una cuenta en Twitch   | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
 | Een account aanmaken bij Twitch   | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
-| Erstellen eines Twitch-Kontos     | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
 | Oppretting av en Twitch-konto     | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
 | Opret en konto hos Twitch         | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
 
@@ -2968,12 +2968,12 @@ https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel
 
 | Title                                     | Last Modified          | Created                  |
 |-------------------------------------------|------------------------|--------------------------|
+| Gestion des rôles pour votre chaîne       | 19/07/2023, 9:58:38 pm | 11/07/2023, 2:23:20 am   |
+| Cómo administrar roles para tu canal.     | 19/07/2023, 9:13:45 pm | 11/07/2023, 2:23:20 am   |
+| Kanalınız için Rolleri Yönetme            | 19/07/2023, 9:09:48 pm | 11/07/2023, 2:23:20 am   |
+| Gestione dei ruoli per il canale          | 19/07/2023, 6:09:08 pm | 11/07/2023, 2:23:20 am   |
 | Gestión de las funciones de tu canal      | 19/07/2023, 8:25:42 am | 11/07/2023, 2:23:20 am   |
 | Gerenciamento de títulos para o seu canal | 19/07/2023, 4:34:42 am | 11/07/2023, 2:23:20 am   |
-| Cómo administrar roles para tu canal.     | 11/07/2023, 2:22:54 am | 11/07/2023, 2:22:53 am   |
-| Gestion des rôles pour votre chaîne       | 11/07/2023, 2:22:54 am | 11/07/2023, 2:22:53 am   |
-| Gestione dei ruoli per il canale          | 11/07/2023, 2:22:54 am | 11/07/2023, 2:22:53 am   |
-| Kanalınız için Rolleri Yönetme            | 11/07/2023, 2:22:54 am | 11/07/2023, 2:22:53 am   |
 | Managing Roles for your Channel           | 11/07/2023, 2:22:54 am | 21/06/2023, 11:14:30 am  |
 
 
