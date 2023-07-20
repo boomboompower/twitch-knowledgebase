@@ -6,11 +6,11 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Dmca And Copyright Faqs                            | 20/07/2023, 2:42:34 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es)                             |
 | Managing Roles For Your Channel                    | 19/07/2023, 8:25:42 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es)                     |
 | Creating An Account With Twitch                    | 19/07/2023, 8:25:38 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es)                     |
 | Achievements                                       | 19/07/2023, 8:25:34 am    | [Link](https://help.twitch.tv/s/article/achievements?language=es)                                        |
 | Creating Highlights And Stream Markers             | 18/07/2023, 5:11:27 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=es)              |
-| Dmca And Copyright Faqs                            | 18/07/2023, 4:12:01 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es)                             |
 | Lifetime Subscriber Guide For Partners             | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=es)              |
 | Music Options For Streamers                        | 11/07/2023, 2:52:17 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=es)                         |
 | Partner Onboarding Guide                           | 11/07/2023, 1:57:24 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                            |
@@ -47,7 +47,6 @@
 | Authy Faq                                          | 07/05/2023, 1:46:34 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=es)                                           |
 | Stream Display Ads                                 | 05/05/2023, 1:59:53 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es)                                  |
 | Subscriptions On Samsung Smart Tv                  | 04/05/2023, 7:20:41 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=es)                   |
-| Languages On Twitch                                | 03/05/2023, 8:07:00 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es)                                 |
 
 
 
