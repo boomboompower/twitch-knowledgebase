@@ -7,12 +7,12 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| dmca-and-copyright-faqs                                       | 20/07/2023, 2:42:59 am  | 19/07/2023, 11:23:06 am | [Details](#dmca-and-copyright-faqs)                                        |
 | Managing-Roles-for-your-Channel                               | 19/07/2023, 9:58:38 pm  | 11/07/2023, 2:23:20 am  | [Details](#managing-roles-for-your-channel)                                |
 | creating-an-account-with-twitch                               | 19/07/2023, 9:58:35 pm  | 11/07/2023, 2:21:09 am  | [Details](#creating-an-account-with-twitch)                                |
 | achievements                                                  | 19/07/2023, 9:13:42 pm  | 11/07/2023, 2:30:32 am  | [Details](#achievements)                                                   |
 | basic-troubleshooting-tips                                    | 19/07/2023, 11:22:37 am | 19/07/2023, 11:22:20 am | [Details](#basic-troubleshooting-tips)                                     |
 | creating-highlights-and-stream-markers                        | 18/07/2023, 5:11:28 am  | 18/07/2023, 5:11:06 am  | [Details](#creating-highlights-and-stream-markers)                         |
-| dmca-and-copyright-faqs                                       | 18/07/2023, 4:12:02 am  | 06/06/2023, 4:23:42 am  | [Details](#dmca-and-copyright-faqs)                                        |
 | experiments                                                   | 18/07/2023, 3:30:22 am  | 18/07/2023, 3:30:21 am  | [Details](#experiments)                                                    |
 | discovery                                                     | 14/07/2023, 7:07:26 am  | 14/07/2023, 7:07:26 am  | [Details](#discovery)                                                      |
 | hype-chat-faq                                                 | 11/07/2023, 10:08:32 am | 11/07/2023, 10:08:31 am | [Details](#hype-chat-faq)                                                  |
@@ -1502,17 +1502,17 @@ https://help.twitch.tv/s/article/display-names-on-twitch
 ### dmca-and-copyright-faqs
 https://help.twitch.tv/s/article/dmca-and-copyright-faqs
 
-| Title                                        | Last Modified          | Created                 |
-|----------------------------------------------|------------------------|-------------------------|
-| DMCA & Copyright FAQs                        | 18/07/2023, 4:12:02 am | 06/06/2023, 4:23:42 am  |
-| DMCA i prawa autorskie — najczęstsze pytania | 18/07/2023, 4:12:01 am | 18/07/2023, 4:12:00 am  |
-| DMCA ve Telif Haklarına Dair SSS             | 18/07/2023, 4:12:01 am | 18/07/2023, 4:12:01 am  |
-| DMCA 與著作權常見問題                                | 18/07/2023, 4:12:01 am | 18/07/2023, 4:12:01 am  |
-| DMCA 및 저작권 자주 묻는 질문                          | 18/07/2023, 4:12:01 am | 18/07/2023, 4:12:00 am  |
-| DMCAと著作権に関するよくある質問                           | 18/07/2023, 4:12:01 am | 18/07/2023, 4:12:00 am  |
-| Domande frequenti su copyright e DMCA        | 18/07/2023, 4:12:01 am | 18/07/2023, 4:12:00 am  |
-| FAQ DMCA et droits d'auteur                  | 18/07/2023, 4:12:01 am | 18/07/2023, 4:12:00 am  |
-| FAQ zu DMCA und Urheberrecht                 | 18/07/2023, 4:12:01 am | 18/07/2023, 4:12:00 am  |
+| Title                                        | Last Modified          | Created                  |
+|----------------------------------------------|------------------------|--------------------------|
+| DMCAと著作権に関するよくある質問                           | 20/07/2023, 2:42:59 am | 19/07/2023, 11:23:06 am  |
+| FAQ zu DMCA und Urheberrecht                 | 20/07/2023, 2:42:59 am | 19/07/2023, 11:23:06 am  |
+| DMCA ve Telif Haklarına Dair SSS             | 20/07/2023, 2:42:58 am | 19/07/2023, 11:23:06 am  |
+| DMCA i prawa autorskie — najczęstsze pytania | 20/07/2023, 2:42:55 am | 19/07/2023, 11:23:06 am  |
+| DMCA 및 저작권 자주 묻는 질문                          | 20/07/2023, 2:42:53 am | 19/07/2023, 11:23:06 am  |
+| Domande frequenti su copyright e DMCA        | 20/07/2023, 2:42:50 am | 19/07/2023, 11:23:06 am  |
+| FAQ DMCA et droits d'auteur                  | 20/07/2023, 2:42:45 am | 19/07/2023, 11:23:06 am  |
+| DMCA 與著作權常見問題                                | 20/07/2023, 2:42:39 am | 19/07/2023, 11:23:06 am  |
+| DMCA & Copyright FAQs                        | 18/07/2023, 4:12:02 am | 06/06/2023, 4:23:42 am   |
 
 
 ### earning-revenue-from-bits-in-extensions
