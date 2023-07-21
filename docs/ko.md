@@ -48,6 +48,10 @@
 | Stream Display Ads                                 | 05/05/2023, 1:59:53 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ko)                                  |
 | Subscriptions On Samsung Smart Tv                  | 04/05/2023, 7:20:41 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=ko)                   |
 | Languages On Twitch                                | 03/05/2023, 8:07:01 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ko)                                 |
+| Chat Highlights                                    | 12/04/2023, 4:05:40 am    | [Link](https://help.twitch.tv/s/article/chat-highlights?language=ko)                                     |
+| Ads Manager                                        | 06/04/2023, 11:16:06 pm   | [Link](https://help.twitch.tv/s/article/ads-manager?language=ko)                                         |
+| Picture By Picture Ads                             | 06/04/2023, 11:16:04 pm   | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=ko)                              |
+| Disabling Prerolls                                 | 06/04/2023, 11:16:02 pm   | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=ko)                                  |
 
 
 

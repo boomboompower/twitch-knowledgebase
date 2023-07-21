@@ -47,6 +47,8 @@
 | Authy Faq                                          | 08/05/2023, 10:25:34 pm   | [Link](https://help.twitch.tv/s/article/authy-faq?language=ru)                                           |
 | Stream Display Ads                                 | 05/05/2023, 1:59:53 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ru)                                  |
 | Subscriptions On Samsung Smart Tv                  | 04/05/2023, 7:20:42 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=ru)                   |
+| Languages On Twitch                                | 03/05/2023, 8:07:01 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ru)                                 |
+| Chat Highlights                                    | 12/04/2023, 4:05:40 am    | [Link](https://help.twitch.tv/s/article/chat-highlights?language=ru)                                     |
 
 
 

@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| experiments                                                   | 21/07/2023, 5:33:37 am  | 14/07/2023, 9:29:28 am  | [Details](#experiments)                                                    |
+| experiments                                                   | 21/07/2023, 9:02:08 pm  | 14/07/2023, 9:29:28 am  | [Details](#experiments)                                                    |
 | discovery                                                     | 20/07/2023, 8:56:36 pm  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
 | dmca-and-copyright-faqs                                       | 20/07/2023, 2:42:59 am  | 19/07/2023, 11:23:06 am | [Details](#dmca-and-copyright-faqs)                                        |
 | Managing-Roles-for-your-Channel                               | 19/07/2023, 9:58:38 pm  | 11/07/2023, 2:23:20 am  | [Details](#managing-roles-for-your-channel)                                |
@@ -1631,12 +1631,12 @@ https://help.twitch.tv/s/article/experiments
 
 | Title                          | Last Modified          | Created                 |
 |--------------------------------|------------------------|-------------------------|
+| Expériences Twitch             | 21/07/2023, 9:02:08 pm | 14/07/2023, 9:29:28 am  |
+| Experimentos de Twitch         | 21/07/2023, 8:46:06 pm | 14/07/2023, 9:29:28 am  |
+| Eksperymenty w serwisie Twitch | 21/07/2023, 7:37:05 pm | 14/07/2023, 9:29:28 am  |
+| Gli esperimenti di Twitch      | 21/07/2023, 6:56:37 pm | 14/07/2023, 9:29:28 am  |
+| Experimentos de Twitch         | 21/07/2023, 4:25:41 pm | 14/07/2023, 9:29:28 am  |
 | Experimentos da Twitch         | 21/07/2023, 5:33:37 am | 14/07/2023, 9:29:28 am  |
-| Eksperymenty w serwisie Twitch | 18/07/2023, 3:30:22 am | 18/07/2023, 3:30:21 am  |
-| Experimentos de Twitch         | 18/07/2023, 3:30:22 am | 18/07/2023, 3:30:21 am  |
-| Experimentos de Twitch         | 18/07/2023, 3:30:22 am | 18/07/2023, 3:30:21 am  |
-| Expériences Twitch             | 18/07/2023, 3:30:22 am | 18/07/2023, 3:30:21 am  |
-| Gli esperimenti di Twitch      | 18/07/2023, 3:30:22 am | 18/07/2023, 3:30:21 am  |
 
 
 ### extensions-switch-with-your-game-selection
