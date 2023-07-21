@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| experiments                                                   | 21/07/2023, 5:33:37 am  | 14/07/2023, 9:29:28 am  | [Details](#experiments)                                                    |
 | discovery                                                     | 20/07/2023, 8:56:36 pm  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
 | dmca-and-copyright-faqs                                       | 20/07/2023, 2:42:59 am  | 19/07/2023, 11:23:06 am | [Details](#dmca-and-copyright-faqs)                                        |
 | Managing-Roles-for-your-Channel                               | 19/07/2023, 9:58:38 pm  | 11/07/2023, 2:23:20 am  | [Details](#managing-roles-for-your-channel)                                |
@@ -14,7 +15,6 @@ Language data is not included in the API. All page links will not have a languag
 | achievements                                                  | 19/07/2023, 9:13:42 pm  | 11/07/2023, 2:30:32 am  | [Details](#achievements)                                                   |
 | basic-troubleshooting-tips                                    | 19/07/2023, 11:22:37 am | 19/07/2023, 11:22:20 am | [Details](#basic-troubleshooting-tips)                                     |
 | creating-highlights-and-stream-markers                        | 18/07/2023, 5:11:28 am  | 18/07/2023, 5:11:06 am  | [Details](#creating-highlights-and-stream-markers)                         |
-| experiments                                                   | 18/07/2023, 3:30:22 am  | 18/07/2023, 3:30:21 am  | [Details](#experiments)                                                    |
 | hype-chat-faq                                                 | 11/07/2023, 10:08:32 am | 11/07/2023, 10:08:31 am | [Details](#hype-chat-faq)                                                  |
 | hype-chat-pricing-by-country                                  | 11/07/2023, 9:49:14 am  | 30/06/2023, 6:17:33 pm  | [Details](#hype-chat-pricing-by-country)                                   |
 | shoutouts                                                     | 11/07/2023, 9:41:55 am  | 27/06/2023, 1:40:40 am  | [Details](#shoutouts)                                                      |
@@ -1631,8 +1631,8 @@ https://help.twitch.tv/s/article/experiments
 
 | Title                          | Last Modified          | Created                 |
 |--------------------------------|------------------------|-------------------------|
+| Experimentos da Twitch         | 21/07/2023, 5:33:37 am | 14/07/2023, 9:29:28 am  |
 | Eksperymenty w serwisie Twitch | 18/07/2023, 3:30:22 am | 18/07/2023, 3:30:21 am  |
-| Experimentos da Twitch         | 18/07/2023, 3:30:22 am | 18/07/2023, 3:30:21 am  |
 | Experimentos de Twitch         | 18/07/2023, 3:30:22 am | 18/07/2023, 3:30:21 am  |
 | Experimentos de Twitch         | 18/07/2023, 3:30:22 am | 18/07/2023, 3:30:21 am  |
 | Expériences Twitch             | 18/07/2023, 3:30:22 am | 18/07/2023, 3:30:21 am  |
