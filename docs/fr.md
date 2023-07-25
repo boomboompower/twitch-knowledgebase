@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Stream Display Ads                                 | 25/07/2023, 5:00:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=fr)                                  |
 | Dmca And Copyright Faqs                            | 20/07/2023, 2:42:45 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=fr)                             |
 | Managing Roles For Your Channel                    | 19/07/2023, 9:58:38 pm    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=fr)                     |
 | Creating An Account With Twitch                    | 19/07/2023, 9:58:35 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fr)                     |
@@ -45,7 +46,6 @@
 | Guest Star Faqs                                    | 09/05/2023, 7:04:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=fr)                                     |
 | Guest Star Getting Started                         | 09/05/2023, 7:02:50 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=fr)                          |
 | Authy Faq                                          | 09/05/2023, 0:33:05 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=fr)                                           |
-| Stream Display Ads                                 | 05/05/2023, 1:59:53 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=fr)                                  |
 | How To File A User Report                          | 04/05/2023, 4:04:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=fr)                           |
 | Subscriptions On Samsung Smart Tv                  | 04/05/2023, 7:20:41 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=fr)                   |
 | Languages On Twitch                                | 03/05/2023, 8:07:00 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=fr)                                 |

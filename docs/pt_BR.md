@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Stream Display Ads                                 | 25/07/2023, 5:00:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pt_BR)                                  |
 | Dmca And Copyright Faqs                            | 20/07/2023, 2:42:35 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=pt_BR)                             |
 | Achievements                                       | 19/07/2023, 4:34:45 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_BR)                                        |
 | Managing Roles For Your Channel                    | 19/07/2023, 4:34:42 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=pt_BR)                     |
@@ -45,7 +46,6 @@
 | Guest Star Faqs                                    | 09/05/2023, 7:04:04 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=pt_BR)                                     |
 | Guest Star Getting Started                         | 09/05/2023, 7:02:50 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=pt_BR)                          |
 | Authy Faq                                          | 06/05/2023, 2:25:10 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_BR)                                           |
-| Stream Display Ads                                 | 05/05/2023, 1:59:53 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pt_BR)                                  |
 | Subscriptions On Samsung Smart Tv                  | 04/05/2023, 7:20:41 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=pt_BR)                   |
 | Languages On Twitch                                | 03/05/2023, 8:06:59 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=pt_BR)                                 |
 | Chat Highlights                                    | 12/04/2023, 4:05:40 am    | [Link](https://help.twitch.tv/s/article/chat-highlights?language=pt_BR)                                     |

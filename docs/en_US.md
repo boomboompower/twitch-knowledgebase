@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Stream Display Ads                                 | 25/07/2023, 5:00:37 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                                  |
 | Basic Troubleshooting Tips                         | 19/07/2023, 11:22:37 am   | [Link](https://help.twitch.tv/s/article/basic-troubleshooting-tips?language=en_US)                          |
 | Creating Highlights And Stream Markers             | 18/07/2023, 5:11:28 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=en_US)              |
 | Dmca And Copyright Faqs                            | 18/07/2023, 4:12:02 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=en_US)                             |
@@ -43,7 +44,6 @@
 | Guest Star Mod View                                | 09/05/2023, 7:04:45 am    | [Link](https://help.twitch.tv/s/article/guest-star-mod-view?language=en_US)                                 |
 | Guest Star Faqs                                    | 09/05/2023, 7:04:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=en_US)                                     |
 | Guest Star Getting Started                         | 09/05/2023, 7:02:50 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=en_US)                          |
-| Stream Display Ads                                 | 05/05/2023, 1:59:54 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                                  |
 | Subscriptions On Samsung Smart Tv                  | 04/05/2023, 7:20:41 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=en_US)                   |
 | Guide To Tags                                      | 04/05/2023, 2:37:28 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=en_US)                                       |
 | Languages On Twitch                                | 03/05/2023, 8:07:00 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=en_US)                                 |
