@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| stream-display-ads                                            | 25/07/2023, 5:00:36 am  | 25/07/2023, 5:00:35 am  | [Details](#stream-display-ads)                                             |
 | experiments                                                   | 21/07/2023, 9:02:08 pm  | 14/07/2023, 9:29:28 am  | [Details](#experiments)                                                    |
 | discovery                                                     | 20/07/2023, 8:56:36 pm  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
 | dmca-and-copyright-faqs                                       | 20/07/2023, 2:42:59 am  | 19/07/2023, 11:23:06 am | [Details](#dmca-and-copyright-faqs)                                        |
@@ -74,7 +75,6 @@ Language data is not included in the API. All page links will not have a languag
 | guest-star-faqs                                               | 09/05/2023, 7:04:05 am  | 02/05/2023, 5:47:55 am  | [Details](#guest-star-faqs)                                                |
 | guest-star-getting-started                                    | 09/05/2023, 7:02:51 am  | 02/05/2023, 5:46:47 am  | [Details](#guest-star-getting-started)                                     |
 | search-with-tags                                              | 05/05/2023, 8:07:19 am  | 05/05/2023, 8:07:19 am  | [Details](#search-with-tags)                                               |
-| stream-display-ads                                            | 05/05/2023, 1:59:53 am  | 05/05/2023, 1:59:52 am  | [Details](#stream-display-ads)                                             |
 | how-to-file-a-user-report                                     | 04/05/2023, 4:04:33 pm  | 04/05/2023, 4:04:31 pm  | [Details](#how-to-file-a-user-report)                                      |
 | subscriptions-on-samsung-smart-tv                             | 04/05/2023, 7:20:41 am  | 25/04/2023, 8:41:34 am  | [Details](#subscriptions-on-samsung-smart-tv)                              |
 | how-does-search-work                                          | 04/05/2023, 2:38:29 am  | 20/04/2023, 6:39:06 am  | [Details](#how-does-search-work)                                           |
@@ -3777,10 +3777,10 @@ https://help.twitch.tv/s/article/stream-display-ads
 
 | Title                                  | Last Modified          | Created                 |
 |----------------------------------------|------------------------|-------------------------|
-| Annunci sulla finestra dello streaming | 05/05/2023, 1:59:53 am | 05/05/2023, 1:59:52 am  |
-| Anuncios de stream                     | 05/05/2023, 1:59:53 am | 05/05/2023, 1:59:52 am  |
-| Anuncios mostrados en el stream        | 05/05/2023, 1:59:53 am | 05/05/2023, 1:59:52 am  |
-| Anúncios de exibição de transmissão    | 05/05/2023, 1:59:53 am | 05/05/2023, 1:59:52 am  |
+| Annunci sulla finestra dello streaming | 25/07/2023, 5:00:36 am | 25/07/2023, 5:00:35 am  |
+| Anuncios de stream                     | 25/07/2023, 5:00:36 am | 25/07/2023, 5:00:35 am  |
+| Anuncios mostrados en el stream        | 25/07/2023, 5:00:36 am | 25/07/2023, 5:00:35 am  |
+| Anúncios de exibição de transmissão    | 25/07/2023, 5:00:36 am | 25/07/2023, 5:00:35 am  |
 
 
 ### stream-manager
