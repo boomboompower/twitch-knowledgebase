@@ -7,6 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| founders-badge                                                | 28/07/2023, 3:34:47 am  | 15/07/2023, 6:56:56 am  | [Details](#founders-badge)                                                 |
+| discovery                                                     | 28/07/2023, 3:26:04 am  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
+| twitch-teams                                                  | 28/07/2023, 3:24:46 am  | 12/07/2023, 9:14:57 am  | [Details](#twitch-teams)                                                   |
+| how-to-edit-info-panels                                       | 28/07/2023, 3:17:39 am  | 11/07/2023, 7:15:42 am  | [Details](#how-to-edit-info-panels)                                        |
 | authy-faq                                                     | 26/07/2023, 10:23:29 am | 26/07/2023, 10:22:40 am | [Details](#authy-faq)                                                      |
 | new-device-and-location-verification                          | 26/07/2023, 9:59:29 am  | 26/07/2023, 9:59:28 am  | [Details](#new-device-and-location-verification)                           |
 | not-receiving-sms                                             | 26/07/2023, 9:55:31 am  | 26/07/2023, 9:20:41 am  | [Details](#not-receiving-sms)                                              |
@@ -20,7 +24,6 @@ Language data is not included in the API. All page links will not have a languag
 | alerts-by-twitch-events                                       | 26/07/2023, 4:06:46 am  | 26/07/2023, 4:06:45 am  | [Details](#alerts-by-twitch-events)                                        |
 | stream-display-ads                                            | 25/07/2023, 5:00:36 am  | 25/07/2023, 5:00:35 am  | [Details](#stream-display-ads)                                             |
 | experiments                                                   | 21/07/2023, 9:02:08 pm  | 14/07/2023, 9:29:28 am  | [Details](#experiments)                                                    |
-| discovery                                                     | 20/07/2023, 8:56:36 pm  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
 | dmca-and-copyright-faqs                                       | 20/07/2023, 2:42:59 am  | 19/07/2023, 11:23:06 am | [Details](#dmca-and-copyright-faqs)                                        |
 | Managing-Roles-for-your-Channel                               | 19/07/2023, 9:58:38 pm  | 11/07/2023, 2:23:20 am  | [Details](#managing-roles-for-your-channel)                                |
 | creating-an-account-with-twitch                               | 19/07/2023, 9:58:35 pm  | 11/07/2023, 2:21:09 am  | [Details](#creating-an-account-with-twitch)                                |
@@ -134,12 +137,10 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-use-host-mode                                          | 10/12/2022, 8:09:10 am  | 10/12/2022, 8:09:09 am  | [Details](#how-to-use-host-mode)                                           |
 | your-first-payout-walkthrough                                 | 10/12/2022, 1:47:35 am  | 06/12/2022, 10:18:50 am | [Details](#your-first-payout-walkthrough)                                  |
 | twitch-affiliate-program-faq                                  | 10/12/2022, 1:47:34 am  | 06/12/2022, 9:58:25 am  | [Details](#twitch-affiliate-program-faq)                                   |
-| founders-badge                                                | 09/12/2022, 8:09:35 pm  | 06/12/2022, 9:49:20 am  | [Details](#founders-badge)                                                 |
 | gift-subscriptions-for-creators                               | 07/12/2022, 10:47:38 am | 07/12/2022, 10:47:38 am | [Details](#gift-subscriptions-for-creators)                                |
 | mod-view                                                      | 06/12/2022, 2:30:12 am  | 02/12/2022, 9:11:24 am  | [Details](#mod-view)                                                       |
 | emote-slots                                                   | 06/12/2022, 2:30:09 am  | 02/12/2022, 8:46:19 am  | [Details](#emote-slots)                                                    |
 | how-to-use-twitch-showcase                                    | 06/12/2022, 1:27:04 am  | 02/12/2022, 4:40:24 am  | [Details](#how-to-use-twitch-showcase)                                     |
-| twitch-teams                                                  | 06/12/2022, 0:29:10 am  | 02/12/2022, 8:22:58 am  | [Details](#twitch-teams)                                                   |
 | chat-commands                                                 | 19/11/2022, 2:02:32 am  | 19/11/2022, 2:02:30 am  | [Details](#chat-commands)                                                  |
 | gift-subscriptions                                            | 18/11/2022, 6:01:11 am  | 18/11/2022, 6:01:10 am  | [Details](#gift-subscriptions)                                             |
 | xbox-broadcast                                                | 17/11/2022, 11:24:03 pm | 17/11/2022, 11:24:02 pm | [Details](#xbox-broadcast)                                                 |
@@ -203,7 +204,6 @@ Language data is not included in the API. All page links will not have a languag
 | date-of-birth-changes                                         | 13/05/2022, 2:48:03 am  | 22/04/2022, 2:21:15 am  | [Details](#date-of-birth-changes)                                          |
 | understanding-viewer-count-vs-users-in-chat                   | 05/05/2022, 11:11:07 pm | 28/04/2022, 9:36:13 am  | [Details](#understanding-viewer-count-vs-users-in-chat)                    |
 | mastercard-spring-promotion-us                                | 04/05/2022, 7:21:51 am  | 04/05/2022, 7:21:06 am  | [Details](#mastercard-spring-promotion-us)                                 |
-| installing-and-uninstalling-the-twitch-app                    | 30/04/2022, 5:34:25 am  | 30/04/2022, 5:34:25 am  | [Details](#installing-and-uninstalling-the-twitch-app)                     |
 | how-to-use-the-friends-feature                                | 29/04/2022, 5:56:25 am  | 22/04/2022, 5:38:53 am  | [Details](#how-to-use-the-friends-feature)                                 |
 | twitch-on-lg-tv                                               | 28/04/2022, 10:41:18 pm | 23/04/2022, 2:15:40 am  | [Details](#twitch-on-lg-tv)                                                |
 | children-on-twitch                                            | 28/04/2022, 10:41:15 pm | 23/04/2022, 2:16:59 am  | [Details](#children-on-twitch)                                             |
@@ -298,7 +298,6 @@ Language data is not included in the API. All page links will not have a languag
 | pools-hottubs-beaches                                         | 22/10/2021, 8:53:12 am  | 21/05/2021, 7:44:33 am  | [Details](#pools-hottubs-beaches)                                          |
 | amazon-associates                                             | 22/10/2021, 8:53:07 am  | 18/08/2021, 11:02:46 am | [Details](#amazon-associates)                                              |
 | getting-started-with-amazon-associates                        | 22/10/2021, 8:53:07 am  | 31/05/2019, 7:41:03 am  | [Details](#getting-started-with-amazon-associates)                         |
-| how-to-edit-info-panels                                       | 22/10/2021, 8:53:07 am  | 09/09/2021, 5:46:04 am  | [Details](#how-to-edit-info-panels)                                        |
 | how-to-use-go-live-notifications                              | 22/10/2021, 8:53:07 am  | 22/09/2020, 11:32:04 pm | [Details](#how-to-use-go-live-notifications)                               |
 | how-to-use-collections                                        | 22/10/2021, 8:53:07 am  | 10/10/2020, 4:29:03 am  | [Details](#how-to-use-collections)                                         |
 | low-latency-video                                             | 22/10/2021, 8:53:07 am  | 21/10/2020, 8:43:19 am  | [Details](#low-latency-video)                                              |
@@ -1178,6 +1177,7 @@ https://help.twitch.tv/s/article/cheering-for-partners-affiliates
 | Cheering：合作夥伴和實況盟友                           | 02/02/2023, 2:38:24 am | 12/01/2023, 11:26:09 am  |
 | Cheers: guía para socios y afiliados         | 02/02/2023, 2:38:24 am | 12/01/2023, 11:26:09 am  |
 | Cheers: pour les partenaires et les affiliés | 02/02/2023, 2:38:24 am | 12/01/2023, 11:26:09 am  |
+| Partner ve İştirakler için Cheering          | 02/02/2023, 2:38:24 am | 12/01/2023, 11:26:09 am  |
 
 
 ### children-on-twitch
@@ -1249,12 +1249,14 @@ https://help.twitch.tv/s/article/contacting-partner-help
 | Title                                  | Last Modified          | Created                 |
 |----------------------------------------|------------------------|-------------------------|
 | Kontakt z działem pomocy dla partnerów | 22/10/2021, 8:53:25 am | 22/01/2020, 1:35:03 am  |
+| Partner Yardım ve İletişim Bilgileri   | 22/10/2021, 8:53:25 am | 22/01/2020, 1:24:41 am  |
 | Come contattare il Supporto partner    | 22/10/2021, 8:53:24 am | 22/01/2020, 1:24:41 am  |
 | Contacting Partner Help                | 22/10/2021, 8:53:24 am | 16/01/2020, 3:16:35 am  |
 | Contacto con la Asistencia para socios | 22/10/2021, 8:53:24 am | 22/01/2020, 1:24:41 am  |
 | Contactar ayuda para partners          | 22/10/2021, 8:53:23 am | 22/01/2020, 1:24:41 am  |
 | Contacter l'assistance aux partenaires | 22/10/2021, 8:53:23 am | 22/01/2020, 1:24:41 am  |
 | Contato com a Ajuda ao parceiro        | 22/10/2021, 8:53:22 am | 22/01/2020, 1:24:41 am  |
+| Partnerhilfe kontaktieren              | 22/10/2021, 8:53:22 am | 22/01/2020, 1:24:41 am  |
 
 
 ### contacting-purchase-support
@@ -1472,15 +1474,15 @@ https://help.twitch.tv/s/article/discovery
 
 | Title          | Last Modified          | Created                 |
 |----------------|------------------------|-------------------------|
-| Keşif          | 20/07/2023, 8:56:36 pm | 14/07/2023, 7:07:58 am  |
-| Entdecken      | 20/07/2023, 5:24:34 pm | 20/07/2023, 5:24:32 pm  |
-| Descoberta     | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:26 am  |
-| Descubrimiento | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:26 am  |
-| Descubrimiento | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:26 am  |
-| Discovery      | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:02 am  |
-| Discovery      | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:26 am  |
-| Découverte     | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:26 am  |
-| Odkrywaj       | 14/07/2023, 7:07:26 am | 14/07/2023, 7:07:26 am  |
+| Descoberta     | 28/07/2023, 3:26:04 am | 14/07/2023, 7:07:58 am  |
+| Descubrimiento | 28/07/2023, 3:26:04 am | 14/07/2023, 7:07:58 am  |
+| Descubrimiento | 28/07/2023, 3:26:04 am | 14/07/2023, 7:07:58 am  |
+| Discovery      | 28/07/2023, 3:26:04 am | 14/07/2023, 7:07:58 am  |
+| Discovery      | 28/07/2023, 3:26:04 am | 21/07/2023, 0:20:53 am  |
+| Découverte     | 28/07/2023, 3:26:04 am | 14/07/2023, 7:07:58 am  |
+| Entdecken      | 28/07/2023, 3:26:04 am | 21/07/2023, 0:21:35 am  |
+| Keşif          | 28/07/2023, 3:26:04 am | 21/07/2023, 0:21:35 am  |
+| Odkrywaj       | 28/07/2023, 3:26:04 am | 14/07/2023, 7:07:58 am  |
 
 
 ### display-names-on-twitch
@@ -1714,12 +1716,12 @@ https://help.twitch.tv/s/article/follower-emotes
 ### founders-badge
 https://help.twitch.tv/s/article/founders-badge
 
-| Title                            | Last Modified           | Created                 |
-|----------------------------------|-------------------------|-------------------------|
-| Cos'è lo Stemma Fondatore        | 09/12/2022, 8:09:35 pm  | 06/12/2022, 9:49:20 am  |
-| Czym jest odznaka założyciela?   | 09/12/2022, 1:25:06 am  | 06/12/2022, 9:49:20 am  |
-| O que é o distintivo do fundador | 08/12/2022, 2:20:33 am  | 06/12/2022, 9:49:20 am  |
-| Kurucu Rozeti nedir?             | 07/12/2022, 10:11:03 pm | 06/12/2022, 9:49:20 am  |
+| Title                            | Last Modified          | Created                 |
+|----------------------------------|------------------------|-------------------------|
+| Czym jest odznaka założyciela?   | 28/07/2023, 3:34:47 am | 15/07/2023, 6:56:56 am  |
+| Kurucu Rozeti nedir?             | 28/07/2023, 3:34:47 am | 15/07/2023, 6:56:56 am  |
+| O que é o distintivo do fundador | 28/07/2023, 3:34:47 am | 15/07/2023, 6:56:56 am  |
+| Cos'è lo Stemma Fondatore        | 28/07/2023, 3:34:46 am | 15/07/2023, 6:56:56 am  |
 
 
 ### games-irl-and-music-directories
@@ -2269,14 +2271,14 @@ https://help.twitch.tv/s/article/how-to-edit-info-panels
 
 | Title                                     | Last Modified          | Created                 |
 |-------------------------------------------|------------------------|-------------------------|
-| Bilgi Panellerinin Düzenlenmesi           | 22/10/2021, 8:53:07 am | 09/09/2021, 5:46:04 am  |
-| How to Edit Info Panels                   | 22/10/2021, 8:53:06 am | 09/09/2021, 5:45:06 am  |
-| Jak edytować panele informacji            | 22/10/2021, 8:53:06 am | 09/09/2021, 5:46:04 am  |
-| Come modificare i riquadri informativi    | 22/10/2021, 8:53:05 am | 09/09/2021, 5:46:04 am  |
-| Cómo editar paneles de información        | 22/10/2021, 8:53:05 am | 09/09/2021, 5:46:04 am  |
-| Cómo modificar los paneles de información | 22/10/2021, 8:53:05 am | 09/09/2021, 5:46:04 am  |
-| Como editar painéis de informações        | 22/10/2021, 8:53:04 am | 09/09/2021, 5:46:04 am  |
-| Modifier les panneaux d’informations      | 22/10/2021, 8:53:04 am | 09/09/2021, 5:46:04 am  |
+| How to Edit Info Panels                   | 28/07/2023, 3:17:39 am | 11/07/2023, 7:15:42 am  |
+| Bilgi Panellerinin Düzenlenmesi           | 28/07/2023, 3:17:38 am | 28/07/2023, 3:17:37 am  |
+| Come modificare i riquadri informativi    | 28/07/2023, 3:17:38 am | 28/07/2023, 3:17:37 am  |
+| Como editar painéis de informações        | 28/07/2023, 3:17:38 am | 28/07/2023, 3:17:37 am  |
+| Cómo editar paneles de información        | 28/07/2023, 3:17:38 am | 28/07/2023, 3:17:37 am  |
+| Cómo modificar los paneles de información | 28/07/2023, 3:17:38 am | 28/07/2023, 3:17:37 am  |
+| Jak edytować panele informacji            | 28/07/2023, 3:17:38 am | 28/07/2023, 3:17:37 am  |
+| Modifier les panneaux d’informations      | 28/07/2023, 3:17:38 am | 28/07/2023, 3:17:37 am  |
 
 
 ### how-to-file-a-user-report
@@ -2766,19 +2768,6 @@ https://help.twitch.tv/s/article/ingame-overlay
 | Nakładka w grze w Twitch Studio      | 12/09/2022, 8:49:34 pm | 09/09/2022, 6:36:37 am  |
 
 
-### installing-and-uninstalling-the-twitch-app
-https://help.twitch.tv/s/article/installing-and-uninstalling-the-twitch-app
-
-| Title                                               | Last Modified          | Created                 |
-|-----------------------------------------------------|------------------------|-------------------------|
-| Cómo instalar y desinstalar la aplicación de Twitch | 30/04/2022, 5:34:25 am | 30/04/2022, 5:34:25 am  |
-| Cómo instalar y desinstalar la aplicación de Twitch | 30/04/2022, 5:34:25 am | 30/04/2022, 5:34:25 am  |
-| Instalando e desinstalando o aplicativo da Twitch   | 30/04/2022, 5:34:25 am | 30/04/2022, 5:34:25 am  |
-| Installare e disinstallare l'app Twitch             | 30/04/2022, 5:34:25 am | 30/04/2022, 5:34:25 am  |
-| Installer et désinstaller l'application Twitch      | 30/04/2022, 5:34:25 am | 30/04/2022, 5:34:25 am  |
-| Instalowanie i odinstalowywanie aplikacji Twitcha   | 30/04/2022, 5:34:25 am | 30/04/2022, 5:34:25 am  |
-
-
 ### joining-guest-star
 https://help.twitch.tv/s/article/joining-guest-star
 
@@ -2852,6 +2841,7 @@ https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners
 | Guía de suscripciones vitalicias para Partners   | 11/07/2023, 9:35:03 am | 11/07/2023, 9:35:02 am  |
 | Guía de suscriptor vitalicio para socios         | 11/07/2023, 9:35:03 am | 11/07/2023, 9:35:02 am  |
 | Leitfaden zu dauerhaften Abonnements für Partner | 11/07/2023, 9:35:03 am | 11/07/2023, 9:35:02 am  |
+| Partnerler için Ömür Boyu Abone Rehberi          | 11/07/2023, 9:35:03 am | 11/07/2023, 9:35:02 am  |
 
 
 ### list-of-prohibited-games
@@ -3937,6 +3927,7 @@ https://help.twitch.tv/s/article/subscriber-emote-guide
 | Title                                                               | Last Modified          | Created                 |
 |---------------------------------------------------------------------|------------------------|-------------------------|
 | Guia de emotes de inscrito para Parceiros e Afiliados               | 10/08/2022, 8:02:42 am | 23/11/2021, 5:21:01 am  |
+| Partnerler ve İştirakler İçin Abone İfadeleri Rehberi               | 10/08/2022, 8:02:42 am | 23/11/2021, 5:21:01 am  |
 | Guida alle emoticon per abbonati per i partner e gli affiliati      | 10/08/2022, 8:02:41 am | 23/11/2021, 5:21:01 am  |
 | Guide sur les émoticônes d'abonnés pour les partenaires et affiliés | 10/08/2022, 8:02:41 am | 23/11/2021, 5:21:01 am  |
 | Guía de emoticonos de suscriptor para Partners y Afiliados          | 10/08/2022, 8:02:41 am | 23/11/2021, 5:21:01 am  |
@@ -4272,6 +4263,7 @@ https://help.twitch.tv/s/article/twitch-prime-partner-guide
 | Title                         | Last Modified          | Created                 |
 |-------------------------------|------------------------|-------------------------|
 | Guia do Parceiro Twitch Prime | 24/05/2023, 4:02:36 am | 24/05/2023, 4:02:36 am  |
+| Partnerguide for Twitch Prime | 24/05/2023, 4:02:36 am | 24/05/2023, 4:02:36 am  |
 
 
 ### twitch-prime-program-faq
@@ -4365,11 +4357,11 @@ https://help.twitch.tv/s/article/twitch-studio-updates
 ### twitch-teams
 https://help.twitch.tv/s/article/twitch-teams
 
-| Title             | Last Modified           | Created                 |
-|-------------------|-------------------------|-------------------------|
-| Equipes da Twitch | 06/12/2022, 0:29:10 am  | 02/12/2022, 8:22:58 am  |
-| Equipos de Twitch | 06/12/2022, 0:26:37 am  | 02/12/2022, 8:22:58 am  |
-| Equipos de Twitch | 05/12/2022, 10:44:09 pm | 02/12/2022, 8:22:58 am  |
+| Title             | Last Modified          | Created                 |
+|-------------------|------------------------|-------------------------|
+| Equipes da Twitch | 28/07/2023, 3:24:46 am | 12/07/2023, 9:14:57 am  |
+| Equipos de Twitch | 28/07/2023, 3:24:46 am | 12/07/2023, 9:14:57 am  |
+| Equipos de Twitch | 28/07/2023, 3:24:46 am | 12/07/2023, 9:14:57 am  |
 
 
 ### twitch-turbo-guide
