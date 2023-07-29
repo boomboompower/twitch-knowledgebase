@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| affiliate-or-partner-anniversary-settings                     | 29/07/2023, 9:35:40 am  | 29/07/2023, 9:34:25 am  | [Details](#affiliate-or-partner-anniversary-settings)                      |
 | founders-badge                                                | 28/07/2023, 3:34:47 am  | 15/07/2023, 6:56:56 am  | [Details](#founders-badge)                                                 |
 | discovery                                                     | 28/07/2023, 3:26:04 am  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
 | twitch-teams                                                  | 28/07/2023, 3:24:46 am  | 12/07/2023, 9:14:57 am  | [Details](#twitch-teams)                                                   |
@@ -69,7 +70,6 @@ Language data is not included in the API. All page links will not have a languag
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
 | emote-analytics                                               | 23/05/2023, 6:24:07 pm  | 13/05/2023, 7:37:37 am  | [Details](#emote-analytics)                                                |
 | playback-issue-troubleshooting                                | 22/05/2023, 10:21:02 pm | 06/05/2023, 8:26:59 am  | [Details](#playback-issue-troubleshooting)                                 |
-| affiliate-or-partner-anniversary-settings                     | 22/05/2023, 9:24:32 pm  | 13/05/2023, 6:15:47 am  | [Details](#affiliate-or-partner-anniversary-settings)                      |
 | how-to-use-clips                                              | 15/05/2023, 8:10:05 pm  | 15/05/2023, 8:10:04 pm  | [Details](#how-to-use-clips)                                               |
 | guide-to-tags                                                 | 12/05/2023, 11:23:34 pm | 12/05/2023, 11:23:33 pm | [Details](#guide-to-tags)                                                  |
 | how-to-find-and-browse-clips                                  | 12/05/2023, 6:55:17 am  | 06/05/2023, 5:57:31 am  | [Details](#how-to-find-and-browse-clips)                                   |
@@ -537,15 +537,15 @@ https://help.twitch.tv/s/article/affiliate-onboarding-guide
 ### affiliate-or-partner-anniversary-settings
 https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings
 
-| Title                                                          | Last Modified           | Created                 |
-|----------------------------------------------------------------|-------------------------|-------------------------|
-| Configurar aniversarios de afiliados o socios                  | 22/05/2023, 9:24:32 pm  | 13/05/2023, 6:15:47 am  |
-| Einstellungen für Affiliate- und Partner-Jubiläen              | 22/05/2023, 7:34:32 pm  | 13/05/2023, 6:15:47 am  |
-| Impostazioni di anniversario di affiliati, affiliate e partner | 22/05/2023, 5:56:37 pm  | 13/05/2023, 6:15:47 am  |
-| Configurações de aniversário de Afiliação/Parceria             | 20/05/2023, 5:06:14 am  | 13/05/2023, 6:15:47 am  |
-| Paramètres d'anniversaire d'affilié·e ou de partenaire         | 20/05/2023, 1:51:35 am  | 13/05/2023, 6:15:47 am  |
-| Configuración para aniversarios de Afiliados o Partners        | 19/05/2023, 10:00:13 pm | 13/05/2023, 6:15:47 am  |
-| Affiliate or Partner Anniversary Settings                      | 13/05/2023, 6:14:46 am  | 13/05/2023, 6:14:19 am  |
+| Title                                                          | Last Modified          | Created                 |
+|----------------------------------------------------------------|------------------------|-------------------------|
+| Affiliate or Partner Anniversary Settings                      | 29/07/2023, 9:35:40 am | 29/07/2023, 9:34:25 am  |
+| Configuración para aniversarios de Afiliados o Partners        | 29/07/2023, 9:35:40 am | 29/07/2023, 9:35:40 am  |
+| Configurar aniversarios de afiliados o socios                  | 29/07/2023, 9:35:40 am | 29/07/2023, 9:35:40 am  |
+| Configurações de aniversário de Afiliação/Parceria             | 29/07/2023, 9:35:40 am | 29/07/2023, 9:35:40 am  |
+| Einstellungen für Affiliate- und Partner-Jubiläen              | 29/07/2023, 9:35:40 am | 29/07/2023, 9:35:40 am  |
+| Impostazioni di anniversario di affiliati, affiliate e partner | 29/07/2023, 9:35:40 am | 29/07/2023, 9:35:40 am  |
+| Paramètres d'anniversaire d'affilié·e ou de partenaire         | 29/07/2023, 9:35:40 am | 29/07/2023, 9:35:40 am  |
 
 
 ### affiliate-settings-guide
