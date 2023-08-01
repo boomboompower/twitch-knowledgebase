@@ -11,11 +11,11 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 |-------------------------------|---------------------------|----------------|------------------------|
 | Bulgarian                     | 18/11/2022, 1:36:54 pm    | 3 article(s)   | [View](docs/bg.md)     |
 | Chinese (Simplified, China)   | 09/03/2023, 7:53:25 am    | 8 article(s)   | [View](docs/zh_CN.md)  |
-| Chinese (Traditional, Taiwan) | 28/07/2023, 3:34:47 am    | 203 article(s) | [View](docs/zh_TW.md)  |
+| Chinese (Traditional, Taiwan) | 31/07/2023, 7:20:33 pm    | 206 article(s) | [View](docs/zh_TW.md)  |
 | Czech                         | 26/05/2023, 3:14:57 am    | 23 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 11/07/2023, 2:20:34 am    | 30 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 28/07/2023, 3:24:45 am    | 38 article(s)  | [View](docs/nl_NL.md)  |
-| English (United States)       | 28/07/2023, 3:34:46 am    | 222 article(s) | [View](docs/en_US.md)  |
+| English (United States)       | 28/07/2023, 3:34:46 am    | 221 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 11/07/2023, 2:20:34 am    | 28 article(s)  | [View](docs/fi.md)     |
 | French                        | 28/07/2023, 3:34:46 am    | 206 article(s) | [View](docs/fr.md)     |
 | German                        | 28/07/2023, 3:34:46 am    | 208 article(s) | [View](docs/de.md)     |
@@ -31,8 +31,8 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Romanian                      | 18/11/2022, 1:36:54 pm    | 3 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 28/07/2023, 3:34:47 am    | 206 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 18/11/2022, 1:36:54 pm    | 3 article(s)   | [View](docs/sk.md)     |
-| Spanish                       | 28/07/2023, 3:34:46 am    | 207 article(s) | [View](docs/es.md)     |
-| Spanish (Mexico)              | 28/07/2023, 3:34:46 am    | 207 article(s) | [View](docs/es_MX.md)  |
+| Spanish                       | 28/07/2023, 3:34:46 am    | 206 article(s) | [View](docs/es.md)     |
+| Spanish (Mexico)              | 28/07/2023, 3:34:46 am    | 206 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 26/07/2023, 10:23:27 am   | 26 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 28/07/2023, 3:34:47 am    | 199 article(s) | [View](docs/th.md)     |
 | Turkish                       | 28/07/2023, 3:34:47 am    | 204 article(s) | [View](docs/tr.md)     |
