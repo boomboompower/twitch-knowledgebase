@@ -7,9 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| affiliate-or-partner-anniversary-settings                     | 02/08/2023, 10:23:03 am | 02/08/2023, 10:23:01 am | [Details](#affiliate-or-partner-anniversary-settings)                      |
+| not-receiving-sms                                             | 02/08/2023, 8:42:02 pm  | 02/08/2023, 8:42:01 pm  | [Details](#not-receiving-sms)                                              |
+| authy-faq                                                     | 02/08/2023, 8:41:37 pm  | 26/07/2023, 10:23:51 am | [Details](#authy-faq)                                                      |
+| affiliate-or-partner-anniversary-settings                     | 02/08/2023, 7:25:36 pm  | 02/08/2023, 7:25:34 pm  | [Details](#affiliate-or-partner-anniversary-settings)                      |
 | stream-display-ads                                            | 02/08/2023, 10:17:38 am | 25/07/2023, 5:00:55 am  | [Details](#stream-display-ads)                                             |
-| authy-faq                                                     | 02/08/2023, 10:17:33 am | 26/07/2023, 10:23:51 am | [Details](#authy-faq)                                                      |
 | how-to-appeal-flagged-content                                 | 02/08/2023, 3:24:17 am  | 02/08/2023, 3:24:16 am  | [Details](#how-to-appeal-flagged-content)                                  |
 | guide-to-broadcast-health                                     | 02/08/2023, 3:21:35 am  | 21/06/2023, 0:19:05 pm  | [Details](#guide-to-broadcast-health)                                      |
 | featured-clips                                                | 02/08/2023, 2:56:19 am  | 02/08/2023, 2:56:18 am  | [Details](#featured-clips)                                                 |
@@ -18,7 +19,6 @@ Language data is not included in the API. All page links will not have a languag
 | twitch-teams                                                  | 28/07/2023, 3:24:46 am  | 12/07/2023, 9:14:57 am  | [Details](#twitch-teams)                                                   |
 | how-to-edit-info-panels                                       | 28/07/2023, 3:17:39 am  | 11/07/2023, 7:15:42 am  | [Details](#how-to-edit-info-panels)                                        |
 | new-device-and-location-verification                          | 26/07/2023, 9:59:29 am  | 26/07/2023, 9:59:28 am  | [Details](#new-device-and-location-verification)                           |
-| not-receiving-sms                                             | 26/07/2023, 9:55:31 am  | 26/07/2023, 9:20:41 am  | [Details](#not-receiving-sms)                                              |
 | locating-your-twitch-invoice-number                           | 26/07/2023, 6:22:48 am  | 26/07/2023, 6:10:25 am  | [Details](#locating-your-twitch-invoice-number)                            |
 | alerts-by-twitch                                              | 26/07/2023, 4:07:31 am  | 26/07/2023, 4:07:31 am  | [Details](#alerts-by-twitch)                                               |
 | alerts-by-twitch-css                                          | 26/07/2023, 4:07:25 am  | 26/07/2023, 4:07:25 am  | [Details](#alerts-by-twitch-css)                                           |
@@ -290,8 +290,8 @@ Language data is not included in the API. All page links will not have a languag
 | making-the-most-of-channel-points                             | 22/10/2021, 8:53:25 am  | 08/01/2020, 8:57:52 am  | [Details](#making-the-most-of-channel-points)                              |
 | custom-bit-badges-guide                                       | 22/10/2021, 8:53:25 am  | 10/06/2021, 6:04:46 am  | [Details](#custom-bit-badges-guide)                                        |
 | contacting-partner-help                                       | 22/10/2021, 8:53:25 am  | 22/01/2020, 1:35:03 am  | [Details](#contacting-partner-help)                                        |
-| tips-for-applying-to-the-partner-program                      | 22/10/2021, 8:53:25 am  | 29/02/2020, 1:36:31 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
 | partner-settings-guide                                        | 22/10/2021, 8:53:25 am  | 20/01/2021, 6:00:49 am  | [Details](#partner-settings-guide)                                         |
+| tips-for-applying-to-the-partner-program                      | 22/10/2021, 8:53:24 am  | 01/06/2019, 6:37:24 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
 | Tips-for-Bounty-Board-Completing-Bounties                     | 22/10/2021, 8:53:23 am  | 15/06/2019, 7:43:19 am  | [Details](#tips-for-bounty-board-completing-bounties)                      |
 | affiliate-settings-guide                                      | 22/10/2021, 8:53:19 am  | 20/01/2021, 6:17:06 am  | [Details](#affiliate-settings-guide)                                       |
 | recommended-hardware-for-broadcasting                         | 22/10/2021, 8:53:12 am  | 27/02/2019, 3:24:01 pm  | [Details](#recommended-hardware-for-broadcasting)                          |
@@ -540,10 +540,10 @@ https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings
 
 | Title                                                          | Last Modified           | Created                  |
 |----------------------------------------------------------------|-------------------------|--------------------------|
+| Configurar aniversarios de afiliados o socios                  | 02/08/2023, 7:25:36 pm  | 02/08/2023, 7:25:34 pm   |
 | Configurações de aniversário de Afiliação/Parceria             | 02/08/2023, 10:23:03 am | 02/08/2023, 10:23:01 am  |
 | Affiliate or Partner Anniversary Settings                      | 29/07/2023, 9:35:40 am  | 29/07/2023, 9:34:25 am   |
 | Configuración para aniversarios de Afiliados o Partners        | 29/07/2023, 9:35:40 am  | 29/07/2023, 9:35:40 am   |
-| Configurar aniversarios de afiliados o socios                  | 29/07/2023, 9:35:40 am  | 29/07/2023, 9:35:40 am   |
 | Einstellungen für Affiliate- und Partner-Jubiläen              | 29/07/2023, 9:35:40 am  | 29/07/2023, 9:35:40 am   |
 | Impostazioni di anniversario di affiliati, affiliate e partner | 29/07/2023, 9:35:40 am  | 29/07/2023, 9:35:40 am   |
 | Paramètres d'anniversaire d'affilié·e ou de partenaire         | 29/07/2023, 9:35:40 am  | 29/07/2023, 9:35:40 am   |
@@ -782,6 +782,7 @@ https://help.twitch.tv/s/article/authy-faq
 
 | Title                                                                           | Last Modified           | Created                  |
 |---------------------------------------------------------------------------------|-------------------------|--------------------------|
+| Jak zmienić numer telefonu do uwierzytelniania dwuskładnikowego na Twitchu?     | 02/08/2023, 8:41:37 pm  | 26/07/2023, 10:23:51 am  |
 | Como alterar seu número de telefone da 2FA na Twitch                            | 02/08/2023, 10:17:33 am | 26/07/2023, 10:23:51 am  |
 | How to Change Your 2FA Phone Number on Twitch                                   | 26/07/2023, 10:23:29 am | 26/07/2023, 10:22:40 am  |
 | 2FA über Authy – Verwaltung und FAQ                                             | 26/07/2023, 10:23:27 am | 26/07/2023, 10:23:27 am  |
@@ -3297,9 +3298,10 @@ https://help.twitch.tv/s/article/nintendo-switch
 ### not-receiving-sms
 https://help.twitch.tv/s/article/not-receiving-sms
 
-| Title                                        | Last Modified          | Created                 |
-|----------------------------------------------|------------------------|-------------------------|
-| Not Receiving SMS Text Messages or 2FA Codes | 26/07/2023, 9:55:31 am | 26/07/2023, 9:20:41 am  |
+| Title                                                                       | Last Modified          | Created                 |
+|-----------------------------------------------------------------------------|------------------------|-------------------------|
+| Nie otrzymuję wiadomości SMS lub kodów do uwierzytelniania dwuskładnikowego | 02/08/2023, 8:42:02 pm | 02/08/2023, 8:42:01 pm  |
+| Not Receiving SMS Text Messages or 2FA Codes                                | 26/07/2023, 9:55:31 am | 26/07/2023, 9:20:41 am  |
 
 
 ### notifications-inbox
@@ -3389,16 +3391,15 @@ https://help.twitch.tv/s/article/partner-help-and-contact-information
 ### partner-onboarding-guide
 https://help.twitch.tv/s/article/partner-onboarding-guide
 
-| Title                                           | Last Modified          | Created                  |
-|-------------------------------------------------|------------------------|--------------------------|
-| Guia de Integração de Parceiros                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:09 pm   |
-| Guía de incorporación de socios                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:18 pm   |
-| Guía de incorporación de partners               | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:14 pm   |
-| Partner Olma Rehberi                            | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:24 pm   |
-| Guida alla registrazione partner                | 11/07/2023, 1:57:15 am | 07/07/2023, 3:47:58 pm   |
-| Guide d'intégration au programme de partenariat | 11/07/2023, 1:57:14 am | 07/07/2023, 6:31:33 am   |
-| Leitfaden zum Partner-Onboarding                | 11/07/2023, 1:57:14 am | 07/07/2023, 3:47:56 pm   |
-| Partner Onboarding Guide                        | 13/07/2022, 3:11:43 am | 29/06/2022, 10:26:16 am  |
+| Title                                           | Last Modified          | Created                 |
+|-------------------------------------------------|------------------------|-------------------------|
+| Guia de Integração de Parceiros                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:09 pm  |
+| Guía de incorporación de socios                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:18 pm  |
+| Guía de incorporación de partners               | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:14 pm  |
+| Partner Olma Rehberi                            | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:24 pm  |
+| Guida alla registrazione partner                | 11/07/2023, 1:57:15 am | 07/07/2023, 3:47:58 pm  |
+| Guide d'intégration au programme de partenariat | 11/07/2023, 1:57:14 am | 07/07/2023, 6:31:33 am  |
+| Leitfaden zum Partner-Onboarding                | 11/07/2023, 1:57:14 am | 07/07/2023, 3:47:56 pm  |
 
 
 ### partner-program-overview
@@ -4048,7 +4049,6 @@ https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program
 
 | Title                                                          | Last Modified          | Created                 |
 |----------------------------------------------------------------|------------------------|-------------------------|
-| Partner Programı Başvurusu için İpuçları                       | 22/10/2021, 8:53:25 am | 29/02/2020, 1:36:31 am  |
 | Consejos para la solicitud de admisión al Programa de Partners | 22/10/2021, 8:53:24 am | 01/06/2019, 6:37:24 am  |
 | Conseils de candidature au Programme de Partenariat            | 22/10/2021, 8:53:23 am | 29/02/2020, 1:36:31 am  |
 | Consejos para solicitar la pertenencia al programa de socios   | 22/10/2021, 8:53:23 am | 29/02/2020, 1:36:31 am  |
