@@ -7,11 +7,12 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| new-device-and-location-verification                          | 03/08/2023, 9:28:41 pm  | 26/07/2023, 9:59:50 am  | [Details](#new-device-and-location-verification)                           |
+| not-receiving-sms                                             | 03/08/2023, 9:28:37 pm  | 03/08/2023, 9:28:37 pm  | [Details](#not-receiving-sms)                                              |
+| authy-faq                                                     | 03/08/2023, 9:28:36 pm  | 26/07/2023, 10:23:51 am | [Details](#authy-faq)                                                      |
+| stream-display-ads                                            | 03/08/2023, 9:28:33 pm  | 25/07/2023, 5:00:55 am  | [Details](#stream-display-ads)                                             |
 | hype-chat-by-twitch                                           | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am | [Details](#hype-chat-by-twitch)                                            |
-| not-receiving-sms                                             | 02/08/2023, 8:42:02 pm  | 02/08/2023, 8:42:01 pm  | [Details](#not-receiving-sms)                                              |
-| authy-faq                                                     | 02/08/2023, 8:41:37 pm  | 26/07/2023, 10:23:51 am | [Details](#authy-faq)                                                      |
 | affiliate-or-partner-anniversary-settings                     | 02/08/2023, 7:25:36 pm  | 02/08/2023, 7:25:34 pm  | [Details](#affiliate-or-partner-anniversary-settings)                      |
-| stream-display-ads                                            | 02/08/2023, 10:17:38 am | 25/07/2023, 5:00:55 am  | [Details](#stream-display-ads)                                             |
 | how-to-appeal-flagged-content                                 | 02/08/2023, 3:24:17 am  | 02/08/2023, 3:24:16 am  | [Details](#how-to-appeal-flagged-content)                                  |
 | guide-to-broadcast-health                                     | 02/08/2023, 3:21:35 am  | 21/06/2023, 0:19:05 pm  | [Details](#guide-to-broadcast-health)                                      |
 | featured-clips                                                | 02/08/2023, 2:56:19 am  | 02/08/2023, 2:56:18 am  | [Details](#featured-clips)                                                 |
@@ -19,7 +20,6 @@ Language data is not included in the API. All page links will not have a languag
 | discovery                                                     | 28/07/2023, 3:26:04 am  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
 | twitch-teams                                                  | 28/07/2023, 3:24:46 am  | 12/07/2023, 9:14:57 am  | [Details](#twitch-teams)                                                   |
 | how-to-edit-info-panels                                       | 28/07/2023, 3:17:39 am  | 11/07/2023, 7:15:42 am  | [Details](#how-to-edit-info-panels)                                        |
-| new-device-and-location-verification                          | 26/07/2023, 9:59:29 am  | 26/07/2023, 9:59:28 am  | [Details](#new-device-and-location-verification)                           |
 | locating-your-twitch-invoice-number                           | 26/07/2023, 6:22:48 am  | 26/07/2023, 6:10:25 am  | [Details](#locating-your-twitch-invoice-number)                            |
 | alerts-by-twitch                                              | 26/07/2023, 4:07:31 am  | 26/07/2023, 4:07:31 am  | [Details](#alerts-by-twitch)                                               |
 | alerts-by-twitch-css                                          | 26/07/2023, 4:07:25 am  | 26/07/2023, 4:07:25 am  | [Details](#alerts-by-twitch-css)                                           |
@@ -780,21 +780,16 @@ https://help.twitch.tv/s/article/audio-ads
 ### authy-faq
 https://help.twitch.tv/s/article/authy-faq
 
-| Title                                                                           | Last Modified           | Created                  |
-|---------------------------------------------------------------------------------|-------------------------|--------------------------|
-| Jak zmienić numer telefonu do uwierzytelniania dwuskładnikowego na Twitchu?     | 02/08/2023, 8:41:37 pm  | 26/07/2023, 10:23:51 am  |
-| Como alterar seu número de telefone da 2FA na Twitch                            | 02/08/2023, 10:17:33 am | 26/07/2023, 10:23:51 am  |
-| How to Change Your 2FA Phone Number on Twitch                                   | 26/07/2023, 10:23:29 am | 26/07/2023, 10:22:40 am  |
-| 2FA über Authy – Verwaltung und FAQ                                             | 26/07/2023, 10:23:27 am | 26/07/2023, 10:23:27 am  |
-| Administración de 2FA de Authy y preguntas frecuentes                           | 26/07/2023, 10:23:27 am | 26/07/2023, 10:23:27 am  |
-| Administración de la autenticación en dos pasos y preguntas frecuentes de Authy | 26/07/2023, 10:23:27 am | 26/07/2023, 10:23:27 am  |
-| Authy 2FA Rehberi ve SSS                                                        | 26/07/2023, 10:23:27 am | 26/07/2023, 10:23:27 am  |
-| Authy 2FA 管理及常見問題                                                               | 26/07/2023, 10:23:27 am | 26/07/2023, 10:23:27 am  |
-| Authy 2FA 관리 및 FAQ                                                              | 26/07/2023, 10:23:27 am | 26/07/2023, 10:23:27 am  |
-| Authy Frågor och svar                                                           | 26/07/2023, 10:23:27 am | 26/07/2023, 10:23:27 am  |
-| Authyによる2段階認証の管理 & FAQ                                                          | 26/07/2023, 10:23:27 am | 26/07/2023, 10:23:27 am  |
-| Gestion de la double authentification Authy et FAQ                              | 26/07/2023, 10:23:27 am | 26/07/2023, 10:23:27 am  |
-| Gestione dell'autenticazione in due fasi di Authy e Domande frequenti           | 26/07/2023, 10:23:27 am | 26/07/2023, 10:23:27 am  |
+| Title                                                                            | Last Modified           | Created                  |
+|----------------------------------------------------------------------------------|-------------------------|--------------------------|
+| Cómo cambiar el número de teléfono de la autenticación de doble factor en Twitch | 03/08/2023, 9:28:36 pm  | 26/07/2023, 10:23:51 am  |
+| Comment changer votre numéro de téléphone de double authentification sur Twitch  | 03/08/2023, 9:22:11 pm  | 26/07/2023, 10:23:51 am  |
+| Cómo cambiar tu número de teléfono para la autenticación en dos pasos de Twitch  | 03/08/2023, 8:27:13 pm  | 26/07/2023, 10:23:51 am  |
+| Come cambiare il numero di telefono per l'autenticazione in due fasi su Twitch   | 03/08/2023, 5:26:03 pm  | 26/07/2023, 10:23:51 am  |
+| Jak zmienić numer telefonu do uwierzytelniania dwuskładnikowego na Twitchu?      | 02/08/2023, 8:41:37 pm  | 26/07/2023, 10:23:51 am  |
+| Como alterar seu número de telefone da 2FA na Twitch                             | 02/08/2023, 10:17:33 am | 26/07/2023, 10:23:51 am  |
+| How to Change Your 2FA Phone Number on Twitch                                    | 26/07/2023, 10:23:29 am | 26/07/2023, 10:22:40 am  |
+| Authy Frågor och svar                                                            | 26/07/2023, 10:23:27 am | 26/07/2023, 10:23:27 am  |
 
 
 ### ban-evasion
@@ -3273,8 +3268,8 @@ https://help.twitch.tv/s/article/new-device-and-location-verification
 
 | Title                                         | Last Modified          | Created                 |
 |-----------------------------------------------|------------------------|-------------------------|
-| Dispositivo nuevo y verificación de ubicación | 26/07/2023, 9:59:29 am | 26/07/2023, 9:59:28 am  |
-| Neue Geräte- und Ortsbestätigung              | 26/07/2023, 9:59:29 am | 26/07/2023, 9:59:28 am  |
+| Dispositivo nuevo y verificación de ubicación | 03/08/2023, 9:28:41 pm | 26/07/2023, 9:59:50 am  |
+| Neue Geräte- und Ortsbestätigung              | 03/08/2023, 8:54:10 pm | 26/07/2023, 9:59:50 am  |
 | New Device and Location Verification          | 26/07/2023, 9:59:29 am | 26/07/2023, 9:59:14 am  |
 
 
@@ -3297,10 +3292,15 @@ https://help.twitch.tv/s/article/nintendo-switch
 ### not-receiving-sms
 https://help.twitch.tv/s/article/not-receiving-sms
 
-| Title                                                                       | Last Modified          | Created                 |
-|-----------------------------------------------------------------------------|------------------------|-------------------------|
-| Nie otrzymuję wiadomości SMS lub kodów do uwierzytelniania dwuskładnikowego | 02/08/2023, 8:42:02 pm | 02/08/2023, 8:42:01 pm  |
-| Not Receiving SMS Text Messages or 2FA Codes                                | 26/07/2023, 9:55:31 am | 26/07/2023, 9:20:41 am  |
+| Title                                                                                | Last Modified          | Created                 |
+|--------------------------------------------------------------------------------------|------------------------|-------------------------|
+| No me llegan los mensajes SMS ni los códigos de la autenticación de doble factor     | 03/08/2023, 9:28:37 pm | 03/08/2023, 9:28:37 pm  |
+| Kein Erhalt von SMS-Textnachrichten oder Zwei-Faktor-Authentifizierung-Codes         | 03/08/2023, 8:54:06 pm | 03/08/2023, 8:54:05 pm  |
+| No estoy recibiendo mensajes de texto (SMS) ni códigos de autenticación en dos pasos | 03/08/2023, 8:27:32 pm | 03/08/2023, 8:27:30 pm  |
+| Kısa mesaj veya iki kademeli güvenlik kodu gelmiyor                                  | 03/08/2023, 7:30:32 pm | 03/08/2023, 7:30:31 pm  |
+| Non ricevo messaggi SMS o codici per l'autenticazione in due fasi                    | 03/08/2023, 5:26:15 pm | 03/08/2023, 5:26:13 pm  |
+| Nie otrzymuję wiadomości SMS lub kodów do uwierzytelniania dwuskładnikowego          | 02/08/2023, 8:42:02 pm | 02/08/2023, 8:42:01 pm  |
+| Not Receiving SMS Text Messages or 2FA Codes                                         | 26/07/2023, 9:55:31 am | 26/07/2023, 9:20:41 am  |
 
 
 ### notifications-inbox
@@ -3793,10 +3793,10 @@ https://help.twitch.tv/s/article/stream-display-ads
 
 | Title                                  | Last Modified           | Created                 |
 |----------------------------------------|-------------------------|-------------------------|
+| Anuncios de stream                     | 03/08/2023, 9:28:33 pm  | 25/07/2023, 5:00:55 am  |
+| Anuncios mostrados en el stream        | 03/08/2023, 8:27:07 pm  | 25/07/2023, 5:00:55 am  |
+| Annunci sulla finestra dello streaming | 03/08/2023, 5:26:06 pm  | 25/07/2023, 5:00:55 am  |
 | Anúncios de exibição de transmissão    | 02/08/2023, 10:17:38 am | 25/07/2023, 5:00:55 am  |
-| Annunci sulla finestra dello streaming | 25/07/2023, 5:00:36 am  | 25/07/2023, 5:00:35 am  |
-| Anuncios de stream                     | 25/07/2023, 5:00:36 am  | 25/07/2023, 5:00:35 am  |
-| Anuncios mostrados en el stream        | 25/07/2023, 5:00:36 am  | 25/07/2023, 5:00:35 am  |
 
 
 ### stream-manager

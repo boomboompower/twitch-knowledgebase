@@ -6,13 +6,14 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Authy Faq                                          | 02/08/2023, 5:48:14 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=th)                                           |
+| New Device And Location Verification               | 02/08/2023, 5:48:05 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=th)                |
+| Stream Display Ads                                 | 02/08/2023, 5:48:05 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=th)                                  |
 | How To Appeal Flagged Content                      | 02/08/2023, 3:24:17 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=th)                       |
 | Guide To Broadcast Health                          | 02/08/2023, 3:21:34 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=th)                           |
 | Founders Badge                                     | 28/07/2023, 3:34:47 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=th)                                      |
 | Twitch Teams                                       | 28/07/2023, 3:24:47 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=th)                                        |
 | How To Edit Info Panels                            | 28/07/2023, 3:17:38 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=th)                             |
-| Authy Faq                                          | 26/07/2023, 10:23:27 am   | [Link](https://help.twitch.tv/s/article/authy-faq?language=th)                                           |
-| New Device And Location Verification               | 26/07/2023, 9:59:29 am    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=th)                |
 | Alerts By Twitch                                   | 26/07/2023, 4:07:31 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=th)                                    |
 | Alerts By Twitch Css                               | 26/07/2023, 4:07:25 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=th)                                |
 | Alerts By Twitch Customization                     | 26/07/2023, 4:07:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=th)                      |
@@ -20,7 +21,6 @@
 | Alerts By Twitch Interactive Resubs                | 26/07/2023, 4:07:09 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=th)                 |
 | Setup Alerts By Twitch                             | 26/07/2023, 4:07:02 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=th)                              |
 | Alerts By Twitch Events                            | 26/07/2023, 4:06:46 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=th)                             |
-| Stream Display Ads                                 | 25/07/2023, 5:00:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=th)                                  |
 | Dmca And Copyright Faqs                            | 20/07/2023, 2:42:50 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=th)                             |
 | Achievements                                       | 19/07/2023, 11:04:14 pm   | [Link](https://help.twitch.tv/s/article/achievements?language=th)                                        |
 | Creating An Account With Twitch                    | 19/07/2023, 10:59:32 pm   | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=th)                     |
@@ -48,6 +48,7 @@
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=th)  |
 | Guide To Tags                                      | 11/05/2023, 11:31:08 pm   | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=th)                                       |
 | Guest Star Audio                                   | 11/05/2023, 2:30:04 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=th)                                    |
+| Guest Star Mod View                                | 09/05/2023, 7:04:46 am    | [Link](https://help.twitch.tv/s/article/guest-star-mod-view?language=th)                                 |
 
 
 

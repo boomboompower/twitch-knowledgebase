@@ -6,13 +6,14 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Authy Faq                                          | 02/08/2023, 8:41:37 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=pl)                                           |
+| Stream Display Ads                                 | 02/08/2023, 8:41:35 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pl)                                  |
+| New Device And Location Verification               | 02/08/2023, 8:41:33 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=pl)                |
 | How To Appeal Flagged Content                      | 02/08/2023, 3:24:17 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=pl)                       |
 | Guide To Broadcast Health                          | 02/08/2023, 3:21:34 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=pl)                           |
 | Founders Badge                                     | 28/07/2023, 3:34:47 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=pl)                                      |
 | Twitch Teams                                       | 28/07/2023, 3:24:46 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=pl)                                        |
 | How To Edit Info Panels                            | 28/07/2023, 3:17:38 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=pl)                             |
-| Authy Faq                                          | 26/07/2023, 10:23:27 am   | [Link](https://help.twitch.tv/s/article/authy-faq?language=pl)                                           |
-| New Device And Location Verification               | 26/07/2023, 9:59:29 am    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=pl)                |
 | Alerts By Twitch                                   | 26/07/2023, 4:07:31 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=pl)                                    |
 | Alerts By Twitch Css                               | 26/07/2023, 4:07:25 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=pl)                                |
 | Alerts By Twitch Customization                     | 26/07/2023, 4:07:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=pl)                      |
@@ -20,7 +21,6 @@
 | Alerts By Twitch Interactive Resubs                | 26/07/2023, 4:07:09 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=pl)                 |
 | Setup Alerts By Twitch                             | 26/07/2023, 4:07:02 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=pl)                              |
 | Alerts By Twitch Events                            | 26/07/2023, 4:06:46 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=pl)                             |
-| Stream Display Ads                                 | 25/07/2023, 5:00:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pl)                                  |
 | Dmca And Copyright Faqs                            | 20/07/2023, 2:42:55 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=pl)                             |
 | Creating An Account With Twitch                    | 19/07/2023, 8:44:06 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=pl)                     |
 | Managing Roles For Your Channel                    | 19/07/2023, 8:44:03 pm    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=pl)                     |

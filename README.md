@@ -25,17 +25,17 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Japanese                      | 02/08/2023, 3:24:17 am    | 205 article(s) | [View](docs/ja.md)     |
 | Korean                        | 02/08/2023, 3:24:17 am    | 205 article(s) | [View](docs/ko.md)     |
 | Norwegian                     | 28/07/2023, 3:24:45 am    | 30 article(s)  | [View](docs/no.md)     |
-| Polish                        | 02/08/2023, 3:24:17 am    | 204 article(s) | [View](docs/pl.md)     |
+| Polish                        | 02/08/2023, 8:41:37 pm    | 204 article(s) | [View](docs/pl.md)     |
 | Portuguese (Brazil)           | 02/08/2023, 10:17:41 am   | 207 article(s) | [View](docs/pt_BR.md)  |
 | Portuguese (Portugal)         | 26/07/2023, 10:23:27 am   | 42 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 18/11/2022, 1:36:54 pm    | 3 article(s)   | [View](docs/ro.md)     |
-| Russian                       | 02/08/2023, 3:24:17 am    | 205 article(s) | [View](docs/ru.md)     |
+| Russian                       | 02/08/2023, 3:24:17 am    | 206 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 18/11/2022, 1:36:54 pm    | 3 article(s)   | [View](docs/sk.md)     |
 | Spanish                       | 02/08/2023, 3:24:17 am    | 206 article(s) | [View](docs/es.md)     |
 | Spanish (Mexico)              | 02/08/2023, 3:24:17 am    | 206 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 26/07/2023, 10:23:27 am   | 26 article(s)  | [View](docs/sv.md)     |
-| Thai                          | 02/08/2023, 3:24:17 am    | 198 article(s) | [View](docs/th.md)     |
-| Turkish                       | 02/08/2023, 3:24:17 am    | 203 article(s) | [View](docs/tr.md)     |
+| Thai                          | 02/08/2023, 5:48:14 pm    | 199 article(s) | [View](docs/th.md)     |
+| Turkish                       | 02/08/2023, 3:24:17 am    | 204 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 05/04/2023, 6:11:02 am    | 7 article(s)   | [View](docs/vi.md)     |
 
 ### Dumping
