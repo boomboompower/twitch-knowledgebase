@@ -7,14 +7,15 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| affiliate-or-partner-anniversary-settings                     | 04/08/2023, 8:45:32 pm  | 04/08/2023, 8:45:31 pm  | [Details](#affiliate-or-partner-anniversary-settings)                      |
+| how-to-appeal-flagged-content                                 | 04/08/2023, 8:20:33 pm  | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
+| guide-to-broadcast-health                                     | 04/08/2023, 8:20:33 pm  | 02/08/2023, 3:21:56 am  | [Details](#guide-to-broadcast-health)                                      |
+| bits-price-adjustment                                         | 04/08/2023, 2:04:58 pm  | 04/08/2023, 2:04:57 pm  | [Details](#bits-price-adjustment)                                          |
 | not-receiving-sms                                             | 04/08/2023, 0:16:03 am  | 04/08/2023, 0:16:01 am  | [Details](#not-receiving-sms)                                              |
 | new-device-and-location-verification                          | 03/08/2023, 9:28:41 pm  | 26/07/2023, 9:59:50 am  | [Details](#new-device-and-location-verification)                           |
 | authy-faq                                                     | 03/08/2023, 9:28:36 pm  | 26/07/2023, 10:23:51 am | [Details](#authy-faq)                                                      |
 | stream-display-ads                                            | 03/08/2023, 9:28:33 pm  | 25/07/2023, 5:00:55 am  | [Details](#stream-display-ads)                                             |
 | hype-chat-by-twitch                                           | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am | [Details](#hype-chat-by-twitch)                                            |
-| affiliate-or-partner-anniversary-settings                     | 02/08/2023, 7:25:36 pm  | 02/08/2023, 7:25:34 pm  | [Details](#affiliate-or-partner-anniversary-settings)                      |
-| how-to-appeal-flagged-content                                 | 02/08/2023, 3:24:17 am  | 02/08/2023, 3:24:16 am  | [Details](#how-to-appeal-flagged-content)                                  |
-| guide-to-broadcast-health                                     | 02/08/2023, 3:21:35 am  | 21/06/2023, 0:19:05 pm  | [Details](#guide-to-broadcast-health)                                      |
 | featured-clips                                                | 02/08/2023, 2:56:19 am  | 02/08/2023, 2:56:18 am  | [Details](#featured-clips)                                                 |
 | founders-badge                                                | 28/07/2023, 3:34:47 am  | 15/07/2023, 6:56:56 am  | [Details](#founders-badge)                                                 |
 | discovery                                                     | 28/07/2023, 3:26:04 am  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
@@ -147,7 +148,6 @@ Language data is not included in the API. All page links will not have a languag
 | gift-subscriptions                                            | 18/11/2022, 6:01:11 am  | 18/11/2022, 6:01:10 am  | [Details](#gift-subscriptions)                                             |
 | xbox-broadcast                                                | 17/11/2022, 11:24:03 pm | 17/11/2022, 11:24:02 pm | [Details](#xbox-broadcast)                                                 |
 | moments                                                       | 16/11/2022, 10:54:36 pm | 09/11/2022, 0:27:14 pm  | [Details](#moments)                                                        |
-| bits-price-adjustment                                         | 16/11/2022, 6:10:31 am  | 08/11/2022, 0:58:12 pm  | [Details](#bits-price-adjustment)                                          |
 | minimum-payout-threshold                                      | 15/11/2022, 4:58:06 am  | 09/11/2022, 0:14:16 pm  | [Details](#minimum-payout-threshold)                                       |
 | minimum-payout-threshold-countries                            | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:10:33 pm  | [Details](#minimum-payout-threshold-countries)                             |
 | how-to-use-extensions                                         | 05/11/2022, 1:14:39 am  | 26/10/2022, 7:06:42 am  | [Details](#how-to-use-extensions)                                          |
@@ -540,13 +540,13 @@ https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings
 
 | Title                                                          | Last Modified           | Created                  |
 |----------------------------------------------------------------|-------------------------|--------------------------|
+| Configuración para aniversarios de Afiliados o Partners        | 04/08/2023, 8:45:32 pm  | 04/08/2023, 8:45:31 pm   |
+| Paramètres d'anniversaire d'affilié·e ou de partenaire         | 04/08/2023, 7:17:04 pm  | 04/08/2023, 7:17:02 pm   |
+| Impostazioni di anniversario di affiliati, affiliate e partner | 04/08/2023, 5:17:38 pm  | 04/08/2023, 5:17:36 pm   |
+| Einstellungen für Affiliate- und Partner-Jubiläen              | 04/08/2023, 5:14:33 pm  | 04/08/2023, 5:14:31 pm   |
 | Configurar aniversarios de afiliados o socios                  | 02/08/2023, 7:25:36 pm  | 02/08/2023, 7:25:34 pm   |
 | Configurações de aniversário de Afiliação/Parceria             | 02/08/2023, 10:23:03 am | 02/08/2023, 10:23:01 am  |
 | Affiliate or Partner Anniversary Settings                      | 29/07/2023, 9:35:40 am  | 29/07/2023, 9:34:25 am   |
-| Configuración para aniversarios de Afiliados o Partners        | 29/07/2023, 9:35:40 am  | 29/07/2023, 9:35:40 am   |
-| Einstellungen für Affiliate- und Partner-Jubiläen              | 29/07/2023, 9:35:40 am  | 29/07/2023, 9:35:40 am   |
-| Impostazioni di anniversario di affiliati, affiliate e partner | 29/07/2023, 9:35:40 am  | 29/07/2023, 9:35:40 am   |
-| Paramètres d'anniversaire d'affilié·e ou de partenaire         | 29/07/2023, 9:35:40 am  | 29/07/2023, 9:35:40 am   |
 
 
 ### affiliate-settings-guide
@@ -819,14 +819,14 @@ https://help.twitch.tv/s/article/bits-price-adjustment
 
 | Title                          | Last Modified          | Created                  |
 |--------------------------------|------------------------|--------------------------|
-| Adeguamento del prezzo dei bit | 16/11/2022, 6:10:31 am | 08/11/2022, 0:58:12 pm   |
-| Ajuste de precios de Bits      | 16/11/2022, 6:10:31 am | 08/11/2022, 0:58:12 pm   |
-| Ajuste de preço dos Bits       | 16/11/2022, 6:10:31 am | 08/11/2022, 0:58:12 pm   |
-| Ajuste del precio de los Bits  | 16/11/2022, 6:10:31 am | 08/11/2022, 0:58:12 pm   |
-| Ajustement des prix des Bits   | 16/11/2022, 6:10:31 am | 08/11/2022, 0:58:12 pm   |
-| Bit Fiyat Düzenlemesi          | 16/11/2022, 6:10:31 am | 08/11/2022, 0:58:12 pm   |
+| Ajuste de precios de Bits      | 04/08/2023, 2:04:58 pm | 04/08/2023, 2:04:57 pm   |
+| Ajuste de preço dos Bits       | 04/08/2023, 2:04:55 pm | 04/08/2023, 2:04:54 pm   |
+| Ajuste del precio de los Bits  | 04/08/2023, 2:04:48 pm | 04/08/2023, 2:04:45 pm   |
+| Ajustement des prix des Bits   | 04/08/2023, 2:04:47 pm | 04/08/2023, 2:04:45 pm   |
+| Bit Fiyat Düzenlemesi          | 04/08/2023, 2:04:44 pm | 04/08/2023, 2:04:42 pm   |
+| Adeguamento del prezzo dei bit | 04/08/2023, 2:04:41 pm | 04/08/2023, 2:04:40 pm   |
+| Korekta ceny Bitsów            | 04/08/2023, 2:04:39 pm | 04/08/2023, 2:04:36 pm   |
 | Bits Price Adjustment          | 16/11/2022, 6:10:31 am | 05/11/2022, 11:00:01 am  |
-| Korekta ceny Bitsów            | 16/11/2022, 6:10:31 am | 08/11/2022, 0:58:12 pm   |
 
 
 ### bits-purchase-troubleshooting
@@ -2018,11 +2018,11 @@ https://help.twitch.tv/s/article/guide-to-broadcast-health
 
 | Title                                         | Last Modified          | Created                 |
 |-----------------------------------------------|------------------------|-------------------------|
+| Guía para el buen funcionamiento de tu stream | 04/08/2023, 8:20:33 pm | 02/08/2023, 3:21:56 am  |
 | Guide to Broadcast Health                     | 02/08/2023, 3:21:35 am | 21/06/2023, 0:19:05 pm  |
 | Guia de qualidade da transmissão              | 02/08/2023, 3:21:34 am | 02/08/2023, 3:21:34 am  |
 | Guida all'integrità dello streaming           | 02/08/2023, 3:21:34 am | 02/08/2023, 3:21:34 am  |
 | Guide sur le bon fonctionnement du stream     | 02/08/2023, 3:21:34 am | 02/08/2023, 3:21:34 am  |
-| Guía para el buen funcionamiento de tu stream | 02/08/2023, 3:21:34 am | 02/08/2023, 3:21:34 am  |
 | Guía sobre el estado de tus streams           | 02/08/2023, 3:21:34 am | 02/08/2023, 3:21:34 am  |
 | Leitfaden zur Stream-Rate                     | 02/08/2023, 3:21:34 am | 02/08/2023, 3:21:34 am  |
 
@@ -2195,12 +2195,12 @@ https://help.twitch.tv/s/article/how-to-appeal-flagged-content
 
 | Title                                                   | Last Modified          | Created                 |
 |---------------------------------------------------------|------------------------|-------------------------|
+| Cómo apelar la desactivación de un audio                | 04/08/2023, 8:20:33 pm | 02/08/2023, 3:24:35 am  |
 | 'Ses engellemeye' nasıl itiraz edebilirsiniz?           | 02/08/2023, 3:24:17 am | 02/08/2023, 3:24:16 am  |
 | Come fare ricorso per l'audio disattivato               | 02/08/2023, 3:24:17 am | 02/08/2023, 3:24:16 am  |
 | Comment faire appel pour une piste audio désactivée     | 02/08/2023, 3:24:17 am | 02/08/2023, 3:24:16 am  |
 | Como apelar de áudio silenciado                         | 02/08/2023, 3:24:17 am | 02/08/2023, 3:24:16 am  |
 | Cómo apelar ante audio silenciado                       | 02/08/2023, 3:24:17 am | 02/08/2023, 3:24:16 am  |
-| Cómo apelar la desactivación de un audio                | 02/08/2023, 3:24:17 am | 02/08/2023, 3:24:16 am  |
 | How to Appeal Muted Audio                               | 02/08/2023, 3:24:17 am | 02/08/2023, 3:23:34 am  |
 | Mykistettyihin ääniin liittyvän muutospyynnön tekeminen | 02/08/2023, 3:24:17 am | 02/08/2023, 3:24:16 am  |
 | Odwołania od wyciszonego dźwięku                        | 02/08/2023, 3:24:17 am | 02/08/2023, 3:24:16 am  |
