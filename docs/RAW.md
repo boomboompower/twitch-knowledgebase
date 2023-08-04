@@ -7,8 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| not-receiving-sms                                             | 04/08/2023, 0:16:03 am  | 04/08/2023, 0:16:01 am  | [Details](#not-receiving-sms)                                              |
 | new-device-and-location-verification                          | 03/08/2023, 9:28:41 pm  | 26/07/2023, 9:59:50 am  | [Details](#new-device-and-location-verification)                           |
-| not-receiving-sms                                             | 03/08/2023, 9:28:37 pm  | 03/08/2023, 9:28:37 pm  | [Details](#not-receiving-sms)                                              |
 | authy-faq                                                     | 03/08/2023, 9:28:36 pm  | 26/07/2023, 10:23:51 am | [Details](#authy-faq)                                                      |
 | stream-display-ads                                            | 03/08/2023, 9:28:33 pm  | 25/07/2023, 5:00:55 am  | [Details](#stream-display-ads)                                             |
 | hype-chat-by-twitch                                           | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am | [Details](#hype-chat-by-twitch)                                            |
@@ -3294,6 +3294,7 @@ https://help.twitch.tv/s/article/not-receiving-sms
 
 | Title                                                                                | Last Modified          | Created                 |
 |--------------------------------------------------------------------------------------|------------------------|-------------------------|
+| Não-recebimento de mensagens de texto SMS ou códigos de 2FA                          | 04/08/2023, 0:16:03 am | 04/08/2023, 0:16:01 am  |
 | No me llegan los mensajes SMS ni los códigos de la autenticación de doble factor     | 03/08/2023, 9:28:37 pm | 03/08/2023, 9:28:37 pm  |
 | Kein Erhalt von SMS-Textnachrichten oder Zwei-Faktor-Authentifizierung-Codes         | 03/08/2023, 8:54:06 pm | 03/08/2023, 8:54:05 pm  |
 | No estoy recibiendo mensajes de texto (SMS) ni códigos de autenticación en dos pasos | 03/08/2023, 8:27:32 pm | 03/08/2023, 8:27:30 pm  |
@@ -3390,16 +3391,15 @@ https://help.twitch.tv/s/article/partner-help-and-contact-information
 ### partner-onboarding-guide
 https://help.twitch.tv/s/article/partner-onboarding-guide
 
-| Title                                           | Last Modified          | Created                  |
-|-------------------------------------------------|------------------------|--------------------------|
-| Guia de Integração de Parceiros                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:09 pm   |
-| Guía de incorporación de socios                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:18 pm   |
-| Guía de incorporación de partners               | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:14 pm   |
-| Partner Olma Rehberi                            | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:24 pm   |
-| Guida alla registrazione partner                | 11/07/2023, 1:57:15 am | 07/07/2023, 3:47:58 pm   |
-| Guide d'intégration au programme de partenariat | 11/07/2023, 1:57:14 am | 07/07/2023, 6:31:33 am   |
-| Leitfaden zum Partner-Onboarding                | 11/07/2023, 1:57:14 am | 07/07/2023, 3:47:56 pm   |
-| Partner Onboarding Guide                        | 13/07/2022, 3:11:43 am | 29/06/2022, 10:26:16 am  |
+| Title                                           | Last Modified          | Created                 |
+|-------------------------------------------------|------------------------|-------------------------|
+| Guia de Integração de Parceiros                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:09 pm  |
+| Guía de incorporación de socios                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:18 pm  |
+| Guía de incorporación de partners               | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:14 pm  |
+| Partner Olma Rehberi                            | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:24 pm  |
+| Guida alla registrazione partner                | 11/07/2023, 1:57:15 am | 07/07/2023, 3:47:58 pm  |
+| Guide d'intégration au programme de partenariat | 11/07/2023, 1:57:14 am | 07/07/2023, 6:31:33 am  |
+| Leitfaden zum Partner-Onboarding                | 11/07/2023, 1:57:14 am | 07/07/2023, 3:47:56 pm  |
 
 
 ### partner-program-overview
