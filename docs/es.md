@@ -56,6 +56,8 @@
 
 | Name                              | Last Updated (dd/mm/yyyy) | Link                                                                                    |
 |-----------------------------------|---------------------------|-----------------------------------------------------------------------------------------|
+| Guest Star Mod View               | 09/05/2023, 7:04:45 am    | [Link](https://help.twitch.tv/s/article/guest-star-mod-view?language=es)                |
+| Guest Star Faqs                   | 09/05/2023, 7:04:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=es)                    |
 | Guest Star Getting Started        | 09/05/2023, 7:02:50 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es)         |
 | Subscriptions On Samsung Smart Tv | 04/05/2023, 7:20:41 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=es)  |
 | Languages On Twitch               | 03/05/2023, 8:07:00 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es)                |
@@ -94,7 +96,6 @@
 | Chat Commands                     | 19/11/2022, 2:02:32 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=es)                      |
 | Moments                           | 11/11/2022, 8:36:35 pm    | [Link](https://help.twitch.tv/s/article/moments?language=es)                            |
 | How To Use Extensions             | 04/11/2022, 9:03:07 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=es)              |
-| Xbox Promotion 2022               | 02/11/2022, 3:54:02 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=es)                |
 
 
 
@@ -103,6 +104,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Xbox Promotion 2022                                      | 02/11/2022, 3:54:02 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=es)                                       |
 | Guest Star Reporting                                     | 31/10/2022, 9:13:34 pm    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=es)                                      |
 | Request To Join                                          | 31/10/2022, 9:13:32 pm    | [Link](https://help.twitch.tv/s/article/request-to-join?language=es)                                           |
 | Viewer Channel Point Guide                               | 28/10/2022, 8:34:20 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=es)                                |
@@ -146,7 +148,6 @@
 | Mission Based Drops                                      | 19/04/2022, 8:39:07 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es)                                       |
 | How To Get And Use The Ps App                            | 13/04/2022, 10:46:31 pm   | [Link](https://help.twitch.tv/s/article/how-to-get-and-use-the-ps-app?language=es)                             |
 | Official Twitch Channel Chat Rules                       | 13/04/2022, 10:46:04 pm   | [Link](https://help.twitch.tv/s/article/official-twitch-channel-chat-rules?language=es)                        |
-| Mobile Game Broadcasting                                 | 08/04/2022, 2:20:34 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=es)                                  |
 
 
 
@@ -155,6 +156,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Mobile Game Broadcasting                                      | 08/04/2022, 2:20:34 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=es)                                       |
 | Copyrighted Audio Warnings                                    | 31/03/2022, 3:30:06 am    | [Link](https://help.twitch.tv/s/article/copyrighted-audio-warnings?language=es)                                     |
 | Subscription Cancellation Reasons                             | 12/03/2022, 9:44:18 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=es)                              |
 | Twitch Studio Faq                                             | 11/03/2022, 7:58:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=es)                                              |
@@ -168,7 +170,6 @@
 | Streamer Community Survey                                     | 18/02/2022, 8:19:05 pm    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=es)                                      |
 | Advanced Audio Mixer                                          | 18/02/2022, 8:17:05 pm    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=es)                                           |
 | Twitch Studio Updates                                         | 18/02/2022, 8:07:11 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-updates?language=es)                                          |
-| How To Appeal Flagged Content                                 | 18/02/2022, 7:57:07 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=es)                                  |
 | Nintendo Switch                                               | 18/02/2022, 7:49:38 pm    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=es)                                                |
 | Studio Obs Ndi                                                | 18/02/2022, 7:47:33 pm    | [Link](https://help.twitch.tv/s/article/studio-obs-ndi?language=es)                                                 |
 | Twitch Account Settings                                       | 18/02/2022, 7:42:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es)                                        |

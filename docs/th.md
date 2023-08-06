@@ -57,6 +57,7 @@
 
 | Name                              | Last Updated (dd/mm/yyyy) | Link                                                                                    |
 |-----------------------------------|---------------------------|-----------------------------------------------------------------------------------------|
+| Guest Star Faqs                   | 09/05/2023, 7:04:04 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=th)                    |
 | Guest Star Getting Started        | 09/05/2023, 7:02:51 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=th)         |
 | Subscriptions On Samsung Smart Tv | 04/05/2023, 7:20:42 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=th)  |
 | Languages On Twitch               | 03/05/2023, 8:07:01 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=th)                |
@@ -95,8 +96,6 @@
 | Chat Commands                     | 19/11/2022, 0:03:01 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=th)                      |
 | Moments                           | 11/11/2022, 11:54:03 pm   | [Link](https://help.twitch.tv/s/article/moments?language=th)                            |
 | How To Use Extensions             | 04/11/2022, 8:59:36 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=th)              |
-| Xbox Promotion 2022               | 02/11/2022, 3:54:03 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=th)                |
-| Guest Star Reporting              | 01/11/2022, 4:37:46 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=th)               |
 
 
 
@@ -105,6 +104,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Guest Star Reporting                                     | 01/11/2022, 4:37:46 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=th)                                      |
 | Request To Join                                          | 01/11/2022, 4:37:34 am    | [Link](https://help.twitch.tv/s/article/request-to-join?language=th)                                           |
 | Viewer Channel Point Guide                               | 28/10/2022, 8:34:05 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=th)                                |
 | Channel Points Guide                                     | 28/10/2022, 8:25:44 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=th)                                      |
@@ -182,7 +182,6 @@
 | Nintendo Switch                                               | 02/02/2022, 10:03:37 am   | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=th)                                                |
 | How To Handle View Follow Bots                                | 02/02/2022, 10:02:41 am   | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=th)                                 |
 | List Of Prohibited Games                                      | 02/02/2022, 10:02:39 am   | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=th)                                       |
-| How To Appeal Flagged Content                                 | 02/02/2022, 10:02:29 am   | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=th)                                  |
 | Affiliate Settings Guide                                      | 02/02/2022, 10:02:27 am   | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=th)                                       |
 | Partner Settings Guide                                        | 02/02/2022, 10:02:23 am   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=th)                                         |
 | Studio Obs Ndi                                                | 13/01/2022, 9:50:53 am    | [Link](https://help.twitch.tv/s/article/studio-obs-ndi?language=th)                                                 |
