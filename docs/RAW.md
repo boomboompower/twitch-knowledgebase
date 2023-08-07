@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| guide-to-cheering-with-bits                                   | 07/08/2023, 5:55:15 pm  | 07/08/2023, 5:55:10 pm  | [Details](#guide-to-cheering-with-bits)                                    |
 | affiliate-or-partner-anniversary-settings                     | 04/08/2023, 8:45:32 pm  | 04/08/2023, 8:45:31 pm  | [Details](#affiliate-or-partner-anniversary-settings)                      |
 | how-to-appeal-flagged-content                                 | 04/08/2023, 8:20:33 pm  | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
 | guide-to-broadcast-health                                     | 04/08/2023, 8:20:33 pm  | 02/08/2023, 3:21:56 am  | [Details](#guide-to-broadcast-health)                                      |
@@ -121,7 +122,6 @@ Language data is not included in the API. All page links will not have a languag
 | supported-mobile-os                                           | 09/02/2023, 0:22:02 am  | 03/02/2023, 0:01:51 pm  | [Details](#supported-mobile-os)                                            |
 | how-to-purchase-bits                                          | 02/02/2023, 2:38:28 am  | 12/01/2023, 11:55:47 am | [Details](#how-to-purchase-bits)                                           |
 | cheering-for-partners-affiliates                              | 02/02/2023, 2:38:24 am  | 12/01/2023, 11:26:09 am | [Details](#cheering-for-partners-affiliates)                               |
-| guide-to-cheering-with-bits                                   | 02/02/2023, 2:37:59 am  | 30/11/2022, 11:21:10 am | [Details](#guide-to-cheering-with-bits)                                    |
 | how-to-manage-harassment-in-chat                              | 01/02/2023, 6:22:39 pm  | 01/02/2023, 6:22:34 pm  | [Details](#how-to-manage-harassment-in-chat)                               |
 | gift-card-redeem                                              | 27/01/2023, 3:03:46 am  | 06/01/2023, 1:41:26 pm  | [Details](#gift-card-redeem)                                               |
 | gift-card                                                     | 27/01/2023, 3:03:45 am  | 06/01/2023, 1:48:07 pm  | [Details](#gift-card)                                                      |
@@ -2048,7 +2048,7 @@ https://help.twitch.tv/s/article/guide-to-cheering-with-bits
 
 | Title                                  | Last Modified          | Created                  |
 |----------------------------------------|------------------------|--------------------------|
-| Bit ile Cheer Kılavuzu                 | 02/02/2023, 2:37:59 am | 30/11/2022, 11:21:10 am  |
+| Bit ile Cheer Kılavuzu                 | 07/08/2023, 5:55:15 pm | 07/08/2023, 5:55:10 pm   |
 | Guia de Cheering com Bits              | 02/02/2023, 2:37:59 am | 30/11/2022, 11:21:10 am  |
 | Guida al tifo con i bit                | 02/02/2023, 2:37:59 am | 30/11/2022, 11:21:10 am  |
 | Comment envoyer des Cheers et des Bits | 02/02/2023, 2:37:58 am | 30/11/2022, 11:21:10 am  |
