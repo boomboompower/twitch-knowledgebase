@@ -7,10 +7,11 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| gift-card-spend                                               | 08/08/2023, 9:25:38 pm  | 17/05/2023, 8:54:21 am  | [Details](#gift-card-spend)                                                |
+| guide-to-cheering-with-bits                                   | 08/08/2023, 9:25:36 pm  | 08/08/2023, 9:25:32 pm  | [Details](#guide-to-cheering-with-bits)                                    |
+| how-to-appeal-flagged-content                                 | 08/08/2023, 7:32:04 pm  | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
 | experiments                                                   | 08/08/2023, 7:03:14 am  | 27/07/2023, 5:37:58 am  | [Details](#experiments)                                                    |
-| guide-to-cheering-with-bits                                   | 07/08/2023, 5:55:15 pm  | 07/08/2023, 5:55:10 pm  | [Details](#guide-to-cheering-with-bits)                                    |
 | affiliate-or-partner-anniversary-settings                     | 04/08/2023, 8:45:32 pm  | 04/08/2023, 8:45:31 pm  | [Details](#affiliate-or-partner-anniversary-settings)                      |
-| how-to-appeal-flagged-content                                 | 04/08/2023, 8:20:33 pm  | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
 | guide-to-broadcast-health                                     | 04/08/2023, 8:20:33 pm  | 02/08/2023, 3:21:56 am  | [Details](#guide-to-broadcast-health)                                      |
 | bits-price-adjustment                                         | 04/08/2023, 2:04:58 pm  | 04/08/2023, 2:04:57 pm  | [Details](#bits-price-adjustment)                                          |
 | not-receiving-sms                                             | 04/08/2023, 0:16:03 am  | 04/08/2023, 0:16:01 am  | [Details](#not-receiving-sms)                                              |
@@ -66,7 +67,6 @@ Language data is not included in the API. All page links will not have a languag
 | payout-history-dashboard-guide                                | 31/05/2023, 0:13:12 am  | 23/05/2023, 0:20:24 pm  | [Details](#payout-history-dashboard-guide)                                 |
 | prime-gaming-revenue-guide                                    | 31/05/2023, 0:13:03 am  | 23/05/2023, 0:18:49 pm  | [Details](#prime-gaming-revenue-guide)                                     |
 | channel-analytics                                             | 30/05/2023, 5:46:48 pm  | 23/05/2023, 0:21:49 pm  | [Details](#channel-analytics)                                              |
-| gift-card-spend                                               | 26/05/2023, 3:15:23 am  | 26/05/2023, 3:15:23 am  | [Details](#gift-card-spend)                                                |
 | local-sub-price-countries                                     | 26/05/2023, 3:15:13 am  | 26/05/2023, 3:15:12 am  | [Details](#local-sub-price-countries)                                      |
 | twitch-turbo-guide                                            | 26/05/2023, 3:14:58 am  | 19/05/2023, 11:51:30 am | [Details](#twitch-turbo-guide)                                             |
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
@@ -1814,10 +1814,10 @@ https://help.twitch.tv/s/article/gift-card-spend
 
 | Title                                            | Last Modified          | Created                 |
 |--------------------------------------------------|------------------------|-------------------------|
+| Dépenser des cartes cadeaux Twitch               | 08/08/2023, 9:25:38 pm | 17/05/2023, 8:54:21 am  |
 | Ausgeben des Guthabens von Twitch-Geschenkkarten | 26/05/2023, 3:15:23 am | 26/05/2023, 3:15:23 am  |
 | Cómo canjear Tarjetas regalo de Twitch           | 26/05/2023, 3:15:23 am | 26/05/2023, 3:15:23 am  |
 | Cómo gastar el saldo de las Twitch Gift Cards    | 26/05/2023, 3:15:23 am | 26/05/2023, 3:15:23 am  |
-| Dépenser des cartes cadeaux Twitch               | 26/05/2023, 3:15:23 am | 26/05/2023, 3:15:23 am  |
 
 
 ### gift-subscriptions
@@ -2048,10 +2048,10 @@ https://help.twitch.tv/s/article/guide-to-cheering-with-bits
 
 | Title                                  | Last Modified          | Created                  |
 |----------------------------------------|------------------------|--------------------------|
+| Comment envoyer des Cheers et des Bits | 08/08/2023, 9:25:36 pm | 08/08/2023, 9:25:32 pm   |
 | Bit ile Cheer Kılavuzu                 | 07/08/2023, 5:55:15 pm | 07/08/2023, 5:55:10 pm   |
 | Guia de Cheering com Bits              | 02/02/2023, 2:37:59 am | 30/11/2022, 11:21:10 am  |
 | Guida al tifo con i bit                | 02/02/2023, 2:37:59 am | 30/11/2022, 11:21:10 am  |
-| Comment envoyer des Cheers et des Bits | 02/02/2023, 2:37:58 am | 30/11/2022, 11:21:10 am  |
 | Guide to Cheering with Bits            | 02/02/2023, 2:37:58 am | 30/11/2022, 11:20:25 am  |
 | Guía para enviar Cheers con Bits       | 02/02/2023, 2:37:58 am | 30/11/2022, 11:21:10 am  |
 | Guía para enviar Cheers con Bits       | 02/02/2023, 2:37:58 am | 30/11/2022, 11:21:10 am  |
@@ -2195,8 +2195,8 @@ https://help.twitch.tv/s/article/how-to-appeal-flagged-content
 
 | Title                                                   | Last Modified          | Created                 |
 |---------------------------------------------------------|------------------------|-------------------------|
+| 'Ses engellemeye' nasıl itiraz edebilirsiniz?           | 08/08/2023, 7:32:04 pm | 02/08/2023, 3:24:35 am  |
 | Cómo apelar la desactivación de un audio                | 04/08/2023, 8:20:33 pm | 02/08/2023, 3:24:35 am  |
-| 'Ses engellemeye' nasıl itiraz edebilirsiniz?           | 02/08/2023, 3:24:17 am | 02/08/2023, 3:24:16 am  |
 | Come fare ricorso per l'audio disattivato               | 02/08/2023, 3:24:17 am | 02/08/2023, 3:24:16 am  |
 | Comment faire appel pour une piste audio désactivée     | 02/08/2023, 3:24:17 am | 02/08/2023, 3:24:16 am  |
 | Como apelar de áudio silenciado                         | 02/08/2023, 3:24:17 am | 02/08/2023, 3:24:16 am  |

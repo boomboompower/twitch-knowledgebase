@@ -35,7 +35,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Spanish (Mexico)              | 03/08/2023, 9:28:41 pm    | 207 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 26/07/2023, 10:23:27 am   | 26 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 04/08/2023, 1:44:43 am    | 198 article(s) | [View](docs/th.md)     |
-| Turkish                       | 03/08/2023, 7:30:09 pm    | 204 article(s) | [View](docs/tr.md)     |
+| Turkish                       | 07/08/2023, 5:55:15 pm    | 204 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 05/04/2023, 6:11:02 am    | 7 article(s)   | [View](docs/vi.md)     |
 
 ### Dumping
