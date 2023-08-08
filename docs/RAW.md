@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| experiments                                                   | 08/08/2023, 7:03:14 am  | 27/07/2023, 5:37:58 am  | [Details](#experiments)                                                    |
 | guide-to-cheering-with-bits                                   | 07/08/2023, 5:55:15 pm  | 07/08/2023, 5:55:10 pm  | [Details](#guide-to-cheering-with-bits)                                    |
 | affiliate-or-partner-anniversary-settings                     | 04/08/2023, 8:45:32 pm  | 04/08/2023, 8:45:31 pm  | [Details](#affiliate-or-partner-anniversary-settings)                      |
 | how-to-appeal-flagged-content                                 | 04/08/2023, 8:20:33 pm  | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
@@ -30,7 +31,6 @@ Language data is not included in the API. All page links will not have a languag
 | alerts-by-twitch-interactive-resubs                           | 26/07/2023, 4:07:09 am  | 26/07/2023, 4:07:09 am  | [Details](#alerts-by-twitch-interactive-resubs)                            |
 | setup-alerts-by-twitch                                        | 26/07/2023, 4:07:02 am  | 26/07/2023, 4:07:02 am  | [Details](#setup-alerts-by-twitch)                                         |
 | alerts-by-twitch-events                                       | 26/07/2023, 4:06:46 am  | 26/07/2023, 4:06:45 am  | [Details](#alerts-by-twitch-events)                                        |
-| experiments                                                   | 21/07/2023, 9:02:08 pm  | 14/07/2023, 9:29:28 am  | [Details](#experiments)                                                    |
 | dmca-and-copyright-faqs                                       | 20/07/2023, 2:42:59 am  | 19/07/2023, 11:23:06 am | [Details](#dmca-and-copyright-faqs)                                        |
 | Managing-Roles-for-your-Channel                               | 19/07/2023, 9:58:38 pm  | 11/07/2023, 2:23:20 am  | [Details](#managing-roles-for-your-channel)                                |
 | creating-an-account-with-twitch                               | 19/07/2023, 9:58:35 pm  | 11/07/2023, 2:21:09 am  | [Details](#creating-an-account-with-twitch)                                |
@@ -1624,12 +1624,12 @@ https://help.twitch.tv/s/article/experiments
 
 | Title                          | Last Modified          | Created                 |
 |--------------------------------|------------------------|-------------------------|
-| Expériences Twitch             | 21/07/2023, 9:02:08 pm | 14/07/2023, 9:29:28 am  |
-| Experimentos de Twitch         | 21/07/2023, 8:46:06 pm | 14/07/2023, 9:29:28 am  |
-| Eksperymenty w serwisie Twitch | 21/07/2023, 7:37:05 pm | 14/07/2023, 9:29:28 am  |
-| Gli esperimenti di Twitch      | 21/07/2023, 6:56:37 pm | 14/07/2023, 9:29:28 am  |
-| Experimentos de Twitch         | 21/07/2023, 4:25:41 pm | 14/07/2023, 9:29:28 am  |
-| Experimentos da Twitch         | 21/07/2023, 5:33:37 am | 14/07/2023, 9:29:28 am  |
+| Eksperymenty w serwisie Twitch | 08/08/2023, 7:03:14 am | 27/07/2023, 5:37:58 am  |
+| Experimentos da Twitch         | 08/08/2023, 7:03:14 am | 27/07/2023, 5:37:58 am  |
+| Experimentos de Twitch         | 08/08/2023, 7:03:14 am | 27/07/2023, 5:37:58 am  |
+| Experimentos de Twitch         | 08/08/2023, 7:03:14 am | 27/07/2023, 5:37:58 am  |
+| Expériences Twitch             | 08/08/2023, 7:03:14 am | 27/07/2023, 5:37:58 am  |
+| Gli esperimenti di Twitch      | 08/08/2023, 7:03:14 am | 27/07/2023, 5:37:58 am  |
 
 
 ### extensions-switch-with-your-game-selection
