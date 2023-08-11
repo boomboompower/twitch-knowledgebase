@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| hype-chat-by-twitch                                           | 11/08/2023, 1:17:08 am  | 03/08/2023, 10:47:30 am | [Details](#hype-chat-by-twitch)                                            |
+| hype-chat-by-twitch                                           | 11/08/2023, 8:41:07 pm  | 15/06/2023, 9:26:44 am  | [Details](#hype-chat-by-twitch)                                            |
 | how-to-appeal-flagged-content                                 | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
 | guide-to-broadcast-health                                     | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:21:56 am  | [Details](#guide-to-broadcast-health)                                      |
 | guide-to-cheering-with-bits                                   | 09/08/2023, 8:54:41 pm  | 09/08/2023, 8:54:37 pm  | [Details](#guide-to-cheering-with-bits)                                    |
@@ -2683,14 +2683,13 @@ https://help.twitch.tv/s/article/how-to-use-twitch-showcase
 ### hype-chat-by-twitch
 https://help.twitch.tv/s/article/hype-chat-by-twitch
 
-| Title                    | Last Modified           | Created                  |
-|--------------------------|-------------------------|--------------------------|
-| Cosa sono gli Hype Chat? | 11/08/2023, 1:17:08 am  | 03/08/2023, 10:47:30 am  |
-| O que é um Hype Chat?    | 11/08/2023, 1:12:38 am  | 03/08/2023, 10:47:30 am  |
-| Czym jest Hype Chat?     | 11/08/2023, 1:09:04 am  | 03/08/2023, 10:47:30 am  |
-| Hype Chat de Twitch      | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am  |
-| Hype Chat de Twitch      | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am  |
-| Hype Chat โดย Twitch     | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:31 am  |
+| Title                    | Last Modified          | Created                  |
+|--------------------------|------------------------|--------------------------|
+| Hype Chat 是什麼？           | 11/08/2023, 8:41:07 pm | 15/06/2023, 9:26:44 am   |
+| Hype Chat คืออะไร?       | 11/08/2023, 4:53:33 pm | 03/08/2023, 10:47:30 am  |
+| Cosa sono gli Hype Chat? | 11/08/2023, 1:17:08 am | 03/08/2023, 10:47:30 am  |
+| O que é um Hype Chat?    | 11/08/2023, 1:12:38 am | 03/08/2023, 10:47:30 am  |
+| Czym jest Hype Chat?     | 11/08/2023, 1:09:04 am | 03/08/2023, 10:47:30 am  |
 
 
 ### hype-chat-faq
@@ -3419,6 +3418,7 @@ https://help.twitch.tv/s/article/partner-settings-guide
 | Partner Ayarları Rehberi           | 22/10/2021, 8:53:25 am | 20/01/2021, 6:00:49 am  |
 | Guida alle impostazioni partner    | 22/10/2021, 8:53:24 am | 20/01/2021, 6:00:49 am  |
 | Guía de configuración de socios    | 22/10/2021, 8:53:24 am | 20/01/2021, 6:00:49 am  |
+| Partner Settings Guide             | 22/10/2021, 8:53:24 am | 20/01/2021, 6:00:13 am  |
 | Guide des paramètres du partenaire | 22/10/2021, 8:53:23 am | 20/01/2021, 6:00:49 am  |
 | Guía de configuración de Partner   | 22/10/2021, 8:53:23 am | 20/01/2021, 6:00:49 am  |
 | Guia de configurações de Parceiro  | 22/10/2021, 8:53:22 am | 20/01/2021, 6:00:49 am  |

@@ -47,6 +47,7 @@
 | Emote Analytics                                    | 22/05/2023, 10:25:35 am   | [Link](https://help.twitch.tv/s/article/emote-analytics?language=ja)                                     |
 | How To Use Clips                                   | 15/05/2023, 0:22:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                    |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:15 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=ja)  |
+| Guide To Tags                                      | 11/05/2023, 5:36:05 pm    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=ja)                                       |
 
 
 

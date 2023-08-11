@@ -48,6 +48,7 @@
 | How To Use Clips                                   | 15/05/2023, 9:01:36 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=th)                                    |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=th)  |
 | Guide To Tags                                      | 11/05/2023, 11:31:08 pm   | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=th)                                       |
+| Guest Star Audio                                   | 11/05/2023, 2:30:04 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=th)                                    |
 
 
 
