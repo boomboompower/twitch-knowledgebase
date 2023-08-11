@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| hype-chat-by-twitch                                           | 11/08/2023, 1:17:08 am  | 03/08/2023, 10:47:30 am | [Details](#hype-chat-by-twitch)                                            |
 | how-to-appeal-flagged-content                                 | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
 | guide-to-broadcast-health                                     | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:21:56 am  | [Details](#guide-to-broadcast-health)                                      |
 | guide-to-cheering-with-bits                                   | 09/08/2023, 8:54:41 pm  | 09/08/2023, 8:54:37 pm  | [Details](#guide-to-cheering-with-bits)                                    |
@@ -18,7 +19,6 @@ Language data is not included in the API. All page links will not have a languag
 | new-device-and-location-verification                          | 03/08/2023, 9:28:41 pm  | 26/07/2023, 9:59:50 am  | [Details](#new-device-and-location-verification)                           |
 | authy-faq                                                     | 03/08/2023, 9:28:36 pm  | 26/07/2023, 10:23:51 am | [Details](#authy-faq)                                                      |
 | stream-display-ads                                            | 03/08/2023, 9:28:33 pm  | 25/07/2023, 5:00:55 am  | [Details](#stream-display-ads)                                             |
-| hype-chat-by-twitch                                           | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am | [Details](#hype-chat-by-twitch)                                            |
 | featured-clips                                                | 02/08/2023, 2:56:19 am  | 02/08/2023, 2:56:18 am  | [Details](#featured-clips)                                                 |
 | founders-badge                                                | 28/07/2023, 3:34:47 am  | 15/07/2023, 6:56:56 am  | [Details](#founders-badge)                                                 |
 | discovery                                                     | 28/07/2023, 3:26:04 am  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
@@ -290,8 +290,8 @@ Language data is not included in the API. All page links will not have a languag
 | making-the-most-of-channel-points                             | 22/10/2021, 8:53:25 am  | 08/01/2020, 8:57:52 am  | [Details](#making-the-most-of-channel-points)                              |
 | custom-bit-badges-guide                                       | 22/10/2021, 8:53:25 am  | 10/06/2021, 6:04:46 am  | [Details](#custom-bit-badges-guide)                                        |
 | contacting-partner-help                                       | 22/10/2021, 8:53:25 am  | 22/01/2020, 1:35:03 am  | [Details](#contacting-partner-help)                                        |
+| tips-for-applying-to-the-partner-program                      | 22/10/2021, 8:53:25 am  | 29/02/2020, 1:36:31 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
 | partner-settings-guide                                        | 22/10/2021, 8:53:25 am  | 20/01/2021, 6:00:49 am  | [Details](#partner-settings-guide)                                         |
-| tips-for-applying-to-the-partner-program                      | 22/10/2021, 8:53:24 am  | 01/06/2019, 6:37:24 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
 | Tips-for-Bounty-Board-Completing-Bounties                     | 22/10/2021, 8:53:23 am  | 15/06/2019, 7:43:19 am  | [Details](#tips-for-bounty-board-completing-bounties)                      |
 | affiliate-settings-guide                                      | 22/10/2021, 8:53:19 am  | 20/01/2021, 6:17:06 am  | [Details](#affiliate-settings-guide)                                       |
 | recommended-hardware-for-broadcasting                         | 22/10/2021, 8:53:12 am  | 27/02/2019, 3:24:01 pm  | [Details](#recommended-hardware-for-broadcasting)                          |
@@ -2683,16 +2683,14 @@ https://help.twitch.tv/s/article/how-to-use-twitch-showcase
 ### hype-chat-by-twitch
 https://help.twitch.tv/s/article/hype-chat-by-twitch
 
-| Title                | Last Modified           | Created                  |
-|----------------------|-------------------------|--------------------------|
-| Hype Chat da Twitch  | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am  |
-| Hype Chat de Twitch  | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am  |
-| Hype Chat de Twitch  | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am  |
-| Hype Chat di Twitch  | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am  |
-| Hype Chat na Twitchu | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am  |
-| Hype Chat par Twitch | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am  |
-| Hype Chat โดย Twitch | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:31 am  |
-| Hype-Chat bei Twitch | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am  |
+| Title                    | Last Modified           | Created                  |
+|--------------------------|-------------------------|--------------------------|
+| Cosa sono gli Hype Chat? | 11/08/2023, 1:17:08 am  | 03/08/2023, 10:47:30 am  |
+| O que é um Hype Chat?    | 11/08/2023, 1:12:38 am  | 03/08/2023, 10:47:30 am  |
+| Czym jest Hype Chat?     | 11/08/2023, 1:09:04 am  | 03/08/2023, 10:47:30 am  |
+| Hype Chat de Twitch      | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am  |
+| Hype Chat de Twitch      | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:30 am  |
+| Hype Chat โดย Twitch     | 03/08/2023, 10:46:31 am | 03/08/2023, 10:46:31 am  |
 
 
 ### hype-chat-faq
@@ -3391,15 +3389,16 @@ https://help.twitch.tv/s/article/partner-help-and-contact-information
 ### partner-onboarding-guide
 https://help.twitch.tv/s/article/partner-onboarding-guide
 
-| Title                                           | Last Modified          | Created                 |
-|-------------------------------------------------|------------------------|-------------------------|
-| Guia de Integração de Parceiros                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:09 pm  |
-| Guía de incorporación de socios                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:18 pm  |
-| Guía de incorporación de partners               | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:14 pm  |
-| Partner Olma Rehberi                            | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:24 pm  |
-| Guida alla registrazione partner                | 11/07/2023, 1:57:15 am | 07/07/2023, 3:47:58 pm  |
-| Guide d'intégration au programme de partenariat | 11/07/2023, 1:57:14 am | 07/07/2023, 6:31:33 am  |
-| Leitfaden zum Partner-Onboarding                | 11/07/2023, 1:57:14 am | 07/07/2023, 3:47:56 pm  |
+| Title                                           | Last Modified          | Created                  |
+|-------------------------------------------------|------------------------|--------------------------|
+| Guia de Integração de Parceiros                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:09 pm   |
+| Guía de incorporación de socios                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:18 pm   |
+| Guía de incorporación de partners               | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:14 pm   |
+| Partner Olma Rehberi                            | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:24 pm   |
+| Guida alla registrazione partner                | 11/07/2023, 1:57:15 am | 07/07/2023, 3:47:58 pm   |
+| Guide d'intégration au programme de partenariat | 11/07/2023, 1:57:14 am | 07/07/2023, 6:31:33 am   |
+| Leitfaden zum Partner-Onboarding                | 11/07/2023, 1:57:14 am | 07/07/2023, 3:47:56 pm   |
+| Partner Onboarding Guide                        | 13/07/2022, 3:11:43 am | 29/06/2022, 10:26:16 am  |
 
 
 ### partner-program-overview
@@ -4049,6 +4048,7 @@ https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program
 
 | Title                                                          | Last Modified          | Created                 |
 |----------------------------------------------------------------|------------------------|-------------------------|
+| Partner Programı Başvurusu için İpuçları                       | 22/10/2021, 8:53:25 am | 29/02/2020, 1:36:31 am  |
 | Consejos para la solicitud de admisión al Programa de Partners | 22/10/2021, 8:53:24 am | 01/06/2019, 6:37:24 am  |
 | Conseils de candidature au Programme de Partenariat            | 22/10/2021, 8:53:23 am | 29/02/2020, 1:36:31 am  |
 | Consejos para solicitar la pertenencia al programa de socios   | 22/10/2021, 8:53:23 am | 29/02/2020, 1:36:31 am  |
