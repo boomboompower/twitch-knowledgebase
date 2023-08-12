@@ -7,12 +7,13 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| brand-surveys                                                 | 12/08/2023, 3:03:16 am  | 08/08/2023, 8:18:13 am  | [Details](#brand-surveys)                                                  |
+| experiments                                                   | 12/08/2023, 3:02:50 am  | 08/08/2023, 8:31:01 am  | [Details](#experiments)                                                    |
 | hype-chat-by-twitch                                           | 11/08/2023, 8:41:07 pm  | 15/06/2023, 9:26:44 am  | [Details](#hype-chat-by-twitch)                                            |
 | how-to-appeal-flagged-content                                 | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
 | guide-to-broadcast-health                                     | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:21:56 am  | [Details](#guide-to-broadcast-health)                                      |
 | guide-to-cheering-with-bits                                   | 09/08/2023, 8:54:41 pm  | 09/08/2023, 8:54:37 pm  | [Details](#guide-to-cheering-with-bits)                                    |
 | gift-card-spend                                               | 09/08/2023, 8:54:35 pm  | 17/05/2023, 8:54:21 am  | [Details](#gift-card-spend)                                                |
-| experiments                                                   | 08/08/2023, 7:03:14 am  | 27/07/2023, 5:37:58 am  | [Details](#experiments)                                                    |
 | affiliate-or-partner-anniversary-settings                     | 04/08/2023, 8:45:32 pm  | 04/08/2023, 8:45:31 pm  | [Details](#affiliate-or-partner-anniversary-settings)                      |
 | bits-price-adjustment                                         | 04/08/2023, 2:04:58 pm  | 04/08/2023, 2:04:57 pm  | [Details](#bits-price-adjustment)                                          |
 | not-receiving-sms                                             | 04/08/2023, 0:16:03 am  | 04/08/2023, 0:16:01 am  | [Details](#not-receiving-sms)                                              |
@@ -165,7 +166,7 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-contact-extension-developer                            | 26/10/2022, 7:44:01 am  | 26/10/2022, 7:43:31 am  | [Details](#how-to-contact-extension-developer)                             |
 | getting-started-twitch-studio                                 | 26/10/2022, 4:12:49 am  | 27/09/2022, 8:44:10 am  | [Details](#getting-started-twitch-studio)                                  |
 | how-to-use-squad-stream                                       | 21/10/2022, 7:26:47 am  | 30/09/2022, 8:30:40 am  | [Details](#how-to-use-squad-stream)                                        |
-| joining-the-affiliate-program                                 | 21/10/2022, 7:26:15 am  | 30/09/2022, 9:37:55 am  | [Details](#joining-the-affiliate-program)                                  |
+| joining-the-affiliate-program                                 | 21/10/2022, 7:26:14 am  | 30/09/2022, 9:37:55 am  | [Details](#joining-the-affiliate-program)                                  |
 | earning-revenue-from-bits-in-extensions                       | 21/10/2022, 7:25:42 am  | 30/09/2022, 7:54:28 am  | [Details](#earning-revenue-from-bits-in-extensions)                        |
 | earning-revenue-from-bits-in-extensions-beta                  | 21/10/2022, 7:25:40 am  | 21/10/2022, 7:25:39 am  | [Details](#earning-revenue-from-bits-in-extensions-beta)                   |
 | esports-directory                                             | 21/10/2022, 7:24:58 am  | 30/09/2022, 7:49:57 am  | [Details](#esports-directory)                                              |
@@ -290,8 +291,8 @@ Language data is not included in the API. All page links will not have a languag
 | making-the-most-of-channel-points                             | 22/10/2021, 8:53:25 am  | 08/01/2020, 8:57:52 am  | [Details](#making-the-most-of-channel-points)                              |
 | custom-bit-badges-guide                                       | 22/10/2021, 8:53:25 am  | 10/06/2021, 6:04:46 am  | [Details](#custom-bit-badges-guide)                                        |
 | contacting-partner-help                                       | 22/10/2021, 8:53:25 am  | 22/01/2020, 1:35:03 am  | [Details](#contacting-partner-help)                                        |
-| tips-for-applying-to-the-partner-program                      | 22/10/2021, 8:53:25 am  | 29/02/2020, 1:36:31 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
-| partner-settings-guide                                        | 22/10/2021, 8:53:25 am  | 20/01/2021, 6:00:49 am  | [Details](#partner-settings-guide)                                         |
+| tips-for-applying-to-the-partner-program                      | 22/10/2021, 8:53:24 am  | 01/06/2019, 6:37:24 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
+| partner-settings-guide                                        | 22/10/2021, 8:53:24 am  | 20/01/2021, 6:00:49 am  | [Details](#partner-settings-guide)                                         |
 | Tips-for-Bounty-Board-Completing-Bounties                     | 22/10/2021, 8:53:23 am  | 15/06/2019, 7:43:19 am  | [Details](#tips-for-bounty-board-completing-bounties)                      |
 | affiliate-settings-guide                                      | 22/10/2021, 8:53:19 am  | 20/01/2021, 6:17:06 am  | [Details](#affiliate-settings-guide)                                       |
 | recommended-hardware-for-broadcasting                         | 22/10/2021, 8:53:12 am  | 27/02/2019, 3:24:01 pm  | [Details](#recommended-hardware-for-broadcasting)                          |
@@ -890,6 +891,25 @@ https://help.twitch.tv/s/article/Bounty-Board-Service-Advertiser-Terms
 | Title                                 | Last Modified           | Created                 |
 |---------------------------------------|-------------------------|-------------------------|
 | Bounty Board Service Advertiser Terms | 30/09/2021, 11:26:48 am | 07/06/2019, 5:03:35 am  |
+
+
+### brand-surveys
+https://help.twitch.tv/s/article/brand-surveys
+
+| Title                           | Last Modified          | Created                 |
+|---------------------------------|------------------------|-------------------------|
+| Brand Lift Survey               | 12/08/2023, 3:03:16 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey               | 12/08/2023, 3:03:16 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey               | 12/08/2023, 3:03:16 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey               | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey               | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey               | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey               | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey               | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey               | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey               | 12/08/2023, 3:00:04 am | 03/08/2023, 9:38:34 am  |
+| Brand Lift-Umfrage              | 12/08/2023, 3:00:04 am | 08/08/2023, 8:18:13 am  |
+| Encuesta de percepción de marca | 12/08/2023, 3:00:04 am | 08/08/2023, 8:18:13 am  |
 
 
 ### branded-content-policy
@@ -1624,12 +1644,12 @@ https://help.twitch.tv/s/article/experiments
 
 | Title                          | Last Modified          | Created                 |
 |--------------------------------|------------------------|-------------------------|
-| Eksperymenty w serwisie Twitch | 08/08/2023, 7:03:14 am | 27/07/2023, 5:37:58 am  |
-| Experimentos da Twitch         | 08/08/2023, 7:03:14 am | 27/07/2023, 5:37:58 am  |
-| Experimentos de Twitch         | 08/08/2023, 7:03:14 am | 27/07/2023, 5:37:58 am  |
-| Experimentos de Twitch         | 08/08/2023, 7:03:14 am | 27/07/2023, 5:37:58 am  |
-| Expériences Twitch             | 08/08/2023, 7:03:14 am | 27/07/2023, 5:37:58 am  |
-| Gli esperimenti di Twitch      | 08/08/2023, 7:03:14 am | 27/07/2023, 5:37:58 am  |
+| Experimentos da Twitch         | 12/08/2023, 3:02:50 am | 08/08/2023, 8:31:01 am  |
+| Experimentos de Twitch         | 12/08/2023, 3:02:50 am | 08/08/2023, 8:31:01 am  |
+| Expériences Twitch             | 12/08/2023, 3:02:50 am | 08/08/2023, 8:31:01 am  |
+| Eksperymenty w serwisie Twitch | 12/08/2023, 3:02:45 am | 08/08/2023, 8:31:01 am  |
+| Gli esperimenti di Twitch      | 12/08/2023, 3:02:45 am | 08/08/2023, 8:31:01 am  |
+| Experimentos de Twitch         | 12/08/2023, 3:02:44 am | 08/08/2023, 8:31:01 am  |
 
 
 ### extensions-switch-with-your-game-selection
@@ -2781,7 +2801,6 @@ https://help.twitch.tv/s/article/joining-guest-star
 | Cómo unirse como Guest Star                        | 21/01/2023, 0:22:34 am | 21/01/2023, 0:22:32 am  |
 | Cómo participar en Estrella Invitada como invitado | 20/01/2023, 9:10:32 pm | 20/01/2023, 9:10:31 pm  |
 | Dołączanie jako gość w Guest Star                  | 20/01/2023, 8:51:34 pm | 20/01/2023, 8:51:33 pm  |
-| Partecipare come ospite a Guest Star               | 20/01/2023, 8:37:05 pm | 20/01/2023, 8:37:04 pm  |
 | Konuk Yıldız'a konuk olarak katılma                | 19/01/2023, 7:37:32 pm | 19/01/2023, 7:37:31 pm  |
 | Entrando no Guest Star como convidado              | 19/01/2023, 1:10:05 pm | 19/01/2023, 1:10:03 pm  |
 | Joining as a Guest Star Guest                      | 12/01/2023, 6:48:55 am | 12/01/2023, 6:39:17 am  |
@@ -2792,14 +2811,12 @@ https://help.twitch.tv/s/article/joining-the-affiliate-program
 
 | Title                                           | Last Modified          | Created                 |
 |-------------------------------------------------|------------------------|-------------------------|
-| Participando do Programa de Afiliados           | 21/10/2022, 7:26:15 am | 30/09/2022, 9:37:55 am  |
 | Am Affiliate-Programm teilnehmen                | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Come partecipare al programma per gli affiliati | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Cómo Unirse al Programa de Afiliados            | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Intégrer le programme d'affiliation             | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Jak dołączyć do programu Towarzyszy             | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Joining the Affiliate Program                   | 21/10/2022, 7:26:14 am | 30/09/2022, 8:05:05 am  |
-| Participación en el programa de afiliados       | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Aderir ao Programa de Afiliados                 | 21/10/2022, 7:26:13 am | 21/10/2022, 7:26:12 am  |
 
 
@@ -3358,11 +3375,9 @@ https://help.twitch.tv/s/article/partner-cheermote-guide
 | Leitfaden für Partner-Cheermotes           | 10/03/2022, 11:21:04 pm | 08/03/2022, 7:47:12 am  |
 | Guía de Cheermotes de socios               | 10/03/2022, 11:11:34 pm | 08/03/2022, 7:47:12 am  |
 | Guida agli emotifon per i partner          | 10/03/2022, 9:01:34 pm  | 08/03/2022, 7:47:12 am  |
-| Partner Cheermote Rehberi                  | 10/03/2022, 6:15:34 pm  | 08/03/2022, 7:47:12 am  |
 | Guide des Cheermotes pour les partenaires  | 10/03/2022, 0:27:34 pm  | 08/03/2022, 7:47:12 am  |
 | Guia de Cheermote de parceiro              | 10/03/2022, 10:00:35 am | 08/03/2022, 7:47:12 am  |
 | Guía sobre Cheermotes para Partners        | 09/03/2022, 6:56:34 pm  | 08/03/2022, 7:47:12 am  |
-| Partner Cheermote Guide                    | 08/03/2022, 7:46:07 am  | 08/03/2022, 7:14:01 am  |
 
 
 ### partner-exclusivity-faq
@@ -3373,8 +3388,6 @@ https://help.twitch.tv/s/article/partner-exclusivity-faq
 | Często zadawane pytania na temat wyłączności partnerów | 26/08/2022, 10:06:06 pm | 26/08/2022, 10:06:02 pm  |
 | Domande frequenti sull'esclusività dei partner         | 26/08/2022, 7:46:33 pm  | 24/08/2022, 2:48:48 am   |
 | Häufige Fragen zur Partner-Exklusivität                | 25/08/2022, 11:40:05 pm | 24/08/2022, 2:48:48 am   |
-| Partner Ayrıcalıkları hakkında SSS                     | 24/08/2022, 10:34:05 pm | 24/08/2022, 2:48:48 am   |
-| Partner Exclusivity FAQ                                | 24/08/2022, 2:48:28 am  | 24/08/2022, 2:48:05 am   |
 
 
 ### partner-help-and-contact-information
@@ -3388,16 +3401,14 @@ https://help.twitch.tv/s/article/partner-help-and-contact-information
 ### partner-onboarding-guide
 https://help.twitch.tv/s/article/partner-onboarding-guide
 
-| Title                                           | Last Modified          | Created                  |
-|-------------------------------------------------|------------------------|--------------------------|
-| Guia de Integração de Parceiros                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:09 pm   |
-| Guía de incorporación de socios                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:18 pm   |
-| Guía de incorporación de partners               | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:14 pm   |
-| Partner Olma Rehberi                            | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:24 pm   |
-| Guida alla registrazione partner                | 11/07/2023, 1:57:15 am | 07/07/2023, 3:47:58 pm   |
-| Guide d'intégration au programme de partenariat | 11/07/2023, 1:57:14 am | 07/07/2023, 6:31:33 am   |
-| Leitfaden zum Partner-Onboarding                | 11/07/2023, 1:57:14 am | 07/07/2023, 3:47:56 pm   |
-| Partner Onboarding Guide                        | 13/07/2022, 3:11:43 am | 29/06/2022, 10:26:16 am  |
+| Title                                           | Last Modified          | Created                 |
+|-------------------------------------------------|------------------------|-------------------------|
+| Guia de Integração de Parceiros                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:09 pm  |
+| Guía de incorporación de socios                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:18 pm  |
+| Guía de incorporación de partners               | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:14 pm  |
+| Guida alla registrazione partner                | 11/07/2023, 1:57:15 am | 07/07/2023, 3:47:58 pm  |
+| Guide d'intégration au programme de partenariat | 11/07/2023, 1:57:14 am | 07/07/2023, 6:31:33 am  |
+| Leitfaden zum Partner-Onboarding                | 11/07/2023, 1:57:14 am | 07/07/2023, 3:47:56 pm  |
 
 
 ### partner-program-overview
@@ -3415,10 +3426,8 @@ https://help.twitch.tv/s/article/partner-settings-guide
 
 | Title                              | Last Modified          | Created                 |
 |------------------------------------|------------------------|-------------------------|
-| Partner Ayarları Rehberi           | 22/10/2021, 8:53:25 am | 20/01/2021, 6:00:49 am  |
 | Guida alle impostazioni partner    | 22/10/2021, 8:53:24 am | 20/01/2021, 6:00:49 am  |
 | Guía de configuración de socios    | 22/10/2021, 8:53:24 am | 20/01/2021, 6:00:49 am  |
-| Partner Settings Guide             | 22/10/2021, 8:53:24 am | 20/01/2021, 6:00:13 am  |
 | Guide des paramètres du partenaire | 22/10/2021, 8:53:23 am | 20/01/2021, 6:00:49 am  |
 | Guía de configuración de Partner   | 22/10/2021, 8:53:23 am | 20/01/2021, 6:00:49 am  |
 | Guia de configurações de Parceiro  | 22/10/2021, 8:53:22 am | 20/01/2021, 6:00:49 am  |
@@ -4048,7 +4057,6 @@ https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program
 
 | Title                                                          | Last Modified          | Created                 |
 |----------------------------------------------------------------|------------------------|-------------------------|
-| Partner Programı Başvurusu için İpuçları                       | 22/10/2021, 8:53:25 am | 29/02/2020, 1:36:31 am  |
 | Consejos para la solicitud de admisión al Programa de Partners | 22/10/2021, 8:53:24 am | 01/06/2019, 6:37:24 am  |
 | Conseils de candidature au Programme de Partenariat            | 22/10/2021, 8:53:23 am | 29/02/2020, 1:36:31 am  |
 | Consejos para solicitar la pertenencia al programa de socios   | 22/10/2021, 8:53:23 am | 29/02/2020, 1:36:31 am  |
