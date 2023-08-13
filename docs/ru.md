@@ -57,6 +57,9 @@
 
 | Name                              | Last Updated (dd/mm/yyyy) | Link                                                                                    |
 |-----------------------------------|---------------------------|-----------------------------------------------------------------------------------------|
+| Guide To Tags                     | 11/05/2023, 8:59:05 pm    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=ru)                      |
+| Guest Star Audio                  | 10/05/2023, 9:20:09 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=ru)                   |
+| Guest Star Mod View               | 09/05/2023, 7:04:46 am    | [Link](https://help.twitch.tv/s/article/guest-star-mod-view?language=ru)                |
 | Guest Star Faqs                   | 09/05/2023, 7:04:04 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=ru)                    |
 | Guest Star Getting Started        | 09/05/2023, 7:02:50 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ru)         |
 | Subscriptions On Samsung Smart Tv | 04/05/2023, 7:20:42 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=ru)  |
@@ -80,7 +83,6 @@
 | Twitch Charity Faqs               | 10/02/2023, 9:59:16 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=ru)                |
 | Twitch Charity                    | 10/02/2023, 9:59:02 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=ru)                     |
 | Stream Summary                    | 10/02/2023, 5:16:22 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ru)                     |
-| Guide To Cheering With Bits       | 02/02/2023, 2:37:59 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ru)        |
 | Mobile Irl Broadcasting           | 24/01/2023, 5:59:40 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=ru)            |
 | Joining Guest Star                | 20/01/2023, 5:25:33 pm    | [Link](https://help.twitch.tv/s/article/joining-guest-star?language=ru)                 |
 | Guest Request To Join             | 18/01/2023, 4:05:08 am    | [Link](https://help.twitch.tv/s/article/guest-request-to-join?language=ru)              |
@@ -95,7 +97,6 @@
 | How To Manage Harassment In Chat  | 01/12/2022, 5:24:51 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ru)   |
 | Chat Commands                     | 19/11/2022, 2:22:38 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=ru)                      |
 | Moments                           | 11/11/2022, 11:59:34 pm   | [Link](https://help.twitch.tv/s/article/moments?language=ru)                            |
-| How To Use Extensions             | 04/11/2022, 8:55:36 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=ru)              |
 
 
 
@@ -104,6 +105,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Use Extensions                                    | 04/11/2022, 8:55:36 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=ru)                                     |
+| Xbox Promotion 2022                                      | 02/11/2022, 3:54:03 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=ru)                                       |
 | Request To Join                                          | 31/10/2022, 11:25:13 pm   | [Link](https://help.twitch.tv/s/article/request-to-join?language=ru)                                           |
 | Guest Star Reporting                                     | 31/10/2022, 11:25:09 pm   | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=ru)                                      |
 | Viewer Channel Point Guide                               | 28/10/2022, 8:34:02 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=ru)                                |
@@ -143,10 +146,6 @@
 | Twitch On Apple Tv                                       | 28/04/2022, 10:38:39 pm   | [Link](https://help.twitch.tv/s/article/twitch-on-apple-tv?language=ru)                                        |
 | Twitch On Lg Tv                                          | 28/04/2022, 10:38:36 pm   | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=ru)                                           |
 | Children On Twitch                                       | 28/04/2022, 10:38:33 pm   | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=ru)                                        |
-| Channel Points Faq                                       | 21/04/2022, 5:02:27 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ru)                                        |
-| Mission Based Drops                                      | 19/04/2022, 9:34:13 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ru)                                       |
-| How To Get And Use The Ps App                            | 14/04/2022, 8:03:09 pm    | [Link](https://help.twitch.tv/s/article/how-to-get-and-use-the-ps-app?language=ru)                             |
-| Official Twitch Channel Chat Rules                       | 14/04/2022, 8:03:06 pm    | [Link](https://help.twitch.tv/s/article/official-twitch-channel-chat-rules?language=ru)                        |
 
 
 
@@ -155,6 +154,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Channel Points Faq                                            | 21/04/2022, 5:02:27 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ru)                                             |
+| Mission Based Drops                                           | 19/04/2022, 9:34:13 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ru)                                            |
+| How To Get And Use The Ps App                                 | 14/04/2022, 8:03:09 pm    | [Link](https://help.twitch.tv/s/article/how-to-get-and-use-the-ps-app?language=ru)                                  |
+| Official Twitch Channel Chat Rules                            | 14/04/2022, 8:03:06 pm    | [Link](https://help.twitch.tv/s/article/official-twitch-channel-chat-rules?language=ru)                             |
 | Mobile Game Broadcasting                                      | 07/04/2022, 7:36:33 pm    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=ru)                                       |
 | Copyrighted Audio Warnings                                    | 31/03/2022, 3:30:07 am    | [Link](https://help.twitch.tv/s/article/copyrighted-audio-warnings?language=ru)                                     |
 | Subscription Cancellation Reasons                             | 12/03/2022, 9:44:18 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ru)                              |
@@ -182,16 +185,6 @@
 | Rpg Megacheer                                                 | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=ru)                                                  |
 | Megacheer Food Fight                                          | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=ru)                                           |
 | Community Meetups Powered By Twitch                           | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=ru)                            |
-| Advanced Audio Mixer                                          | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=ru)                                           |
-| Studio Ui                                                     | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=ru)                                                      |
-| Scene Transitions                                             | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/scene-transitions?language=ru)                                              |
-| Setting Up Alerts                                             | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/setting-up-alerts?language=ru)                                              |
-| Overview Of Audio                                             | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/overview-of-audio?language=ru)                                              |
-| Green Screen Setup                                            | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/green-screen-setup?language=ru)                                             |
-| Stream Deck Setup                                             | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=ru)                                              |
-| Capturing Sources                                             | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/capturing-sources?language=ru)                                              |
-| Twitch Studio Updates                                         | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-updates?language=ru)                                          |
-| Twitch Studio Creator Goals                                   | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-creator-goals?language=ru)                                    |
 
 
 
@@ -200,6 +193,17 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Advanced Audio Mixer                              | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=ru)                               |
+| Studio Ui                                         | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=ru)                                          |
+| Scene Transitions                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/scene-transitions?language=ru)                                  |
+| Setting Up Alerts                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/setting-up-alerts?language=ru)                                  |
+| Overview Of Audio                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/overview-of-audio?language=ru)                                  |
+| Green Screen Setup                                | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/green-screen-setup?language=ru)                                 |
+| Stream Deck Setup                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=ru)                                  |
+| Capturing Sources                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/capturing-sources?language=ru)                                  |
+| Twitch Studio Updates                             | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-updates?language=ru)                              |
+| Twitch Studio Creator Goals                       | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-creator-goals?language=ru)                        |
+| Watching Twitch On Android Devices                | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=ru)                 |
 | Watching Twitch On Ios Devices                    | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=ru)                     |
 | Twitch Prime Loot Gifting                         | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-loot-gifting?language=ru)                          |
 | Twitch Prime Program Faq                          | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-program-faq?language=ru)                           |
@@ -235,8 +239,6 @@
 | Nba G League Co Streaming Guide                   | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide?language=ru)                    |
 | How To Use Go Live Notifications                  | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=ru)                   |
 | How To Use Collections                            | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-collections?language=ru)                             |
-| Where Are My Notifications                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=ru)                         |
-| Streamer Notifications Preferences                | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=ru)                 |
 
 
 
@@ -245,6 +247,8 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Where Are My Notifications             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=ru)              |
+| Streamer Notifications Preferences     | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=ru)      |
 | Smart Notification Setting             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ru)              |
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=ru)  |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ru)  |
