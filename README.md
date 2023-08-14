@@ -31,11 +31,11 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Romanian                      | 18/11/2022, 1:36:54 pm    | 3 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 12/08/2023, 3:03:15 am    | 208 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 18/11/2022, 1:36:54 pm    | 3 article(s)   | [View](docs/sk.md)     |
-| Spanish                       | 12/08/2023, 3:03:15 am    | 209 article(s) | [View](docs/es.md)     |
+| Spanish                       | 12/08/2023, 3:03:15 am    | 208 article(s) | [View](docs/es.md)     |
 | Spanish (Mexico)              | 12/08/2023, 3:02:44 am    | 208 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 26/07/2023, 10:23:27 am   | 27 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 12/08/2023, 3:02:45 am    | 200 article(s) | [View](docs/th.md)     |
-| Turkish                       | 12/08/2023, 3:03:15 am    | 207 article(s) | [View](docs/tr.md)     |
+| Turkish                       | 14/08/2023, 2:38:03 am    | 207 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 05/04/2023, 6:11:02 am    | 7 article(s)   | [View](docs/vi.md)     |
 
 ### Dumping
