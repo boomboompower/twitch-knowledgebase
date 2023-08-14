@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| brand-surveys                                                 | 12/08/2023, 3:03:16 am  | 08/08/2023, 8:18:13 am  | [Details](#brand-surveys)                                                  |
+| brand-surveys                                                 | 14/08/2023, 2:38:03 am  | 14/08/2023, 2:38:01 am  | [Details](#brand-surveys)                                                  |
 | experiments                                                   | 12/08/2023, 3:02:50 am  | 08/08/2023, 8:31:01 am  | [Details](#experiments)                                                    |
 | hype-chat-by-twitch                                           | 11/08/2023, 8:41:07 pm  | 15/06/2023, 9:26:44 am  | [Details](#hype-chat-by-twitch)                                            |
 | how-to-appeal-flagged-content                                 | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
@@ -896,20 +896,20 @@ https://help.twitch.tv/s/article/Bounty-Board-Service-Advertiser-Terms
 ### brand-surveys
 https://help.twitch.tv/s/article/brand-surveys
 
-| Title                           | Last Modified          | Created                 |
-|---------------------------------|------------------------|-------------------------|
-| Brand Lift Survey               | 12/08/2023, 3:03:16 am | 08/08/2023, 8:18:13 am  |
-| Brand Lift Survey               | 12/08/2023, 3:03:16 am | 08/08/2023, 8:18:13 am  |
-| Brand Lift Survey               | 12/08/2023, 3:03:16 am | 08/08/2023, 8:18:13 am  |
-| Brand Lift Survey               | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
-| Brand Lift Survey               | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
-| Brand Lift Survey               | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
-| Brand Lift Survey               | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
-| Brand Lift Survey               | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
-| Brand Lift Survey               | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
-| Brand Lift Survey               | 12/08/2023, 3:00:04 am | 03/08/2023, 9:38:34 am  |
-| Brand Lift-Umfrage              | 12/08/2023, 3:00:04 am | 08/08/2023, 8:18:13 am  |
-| Encuesta de percepción de marca | 12/08/2023, 3:00:04 am | 08/08/2023, 8:18:13 am  |
+| Title                              | Last Modified          | Created                 |
+|------------------------------------|------------------------|-------------------------|
+| Brand Lift (Reklam Etki) Anketleri | 14/08/2023, 2:38:03 am | 14/08/2023, 2:38:01 am  |
+| Brand Lift Survey                  | 12/08/2023, 3:03:16 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey                  | 12/08/2023, 3:03:16 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey                  | 12/08/2023, 3:03:16 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey                  | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey                  | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey                  | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey                  | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey                  | 12/08/2023, 3:03:15 am | 08/08/2023, 8:18:13 am  |
+| Brand Lift Survey                  | 12/08/2023, 3:00:04 am | 03/08/2023, 9:38:34 am  |
+| Brand Lift-Umfrage                 | 12/08/2023, 3:00:04 am | 08/08/2023, 8:18:13 am  |
+| Encuesta de percepción de marca    | 12/08/2023, 3:00:04 am | 08/08/2023, 8:18:13 am  |
 
 
 ### branded-content-policy
