@@ -6,7 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
-| Brand Surveys                                      | 12/08/2023, 3:03:15 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=zh_TW)                                       |
+| Brand Surveys                                      | 14/08/2023, 5:52:32 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=zh_TW)                                       |
 | Experiments                                        | 12/08/2023, 3:02:45 am    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                         |
 | Guide To Broadcast Health                          | 08/08/2023, 5:50:34 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=zh_TW)                           |
 | How To Appeal Flagged Content                      | 08/08/2023, 5:50:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=zh_TW)                       |

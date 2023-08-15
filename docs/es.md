@@ -6,7 +6,7 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
-| Brand Surveys                          | 12/08/2023, 3:03:15 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=es)                           |
+| Brand Surveys                          | 14/08/2023, 9:17:11 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=es)                           |
 | Experiments                            | 12/08/2023, 3:02:50 am    | [Link](https://help.twitch.tv/s/article/experiments?language=es)                             |
 | Guide To Cheering With Bits            | 09/08/2023, 2:02:40 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=es)             |
 | Guide To Broadcast Health              | 04/08/2023, 8:20:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=es)               |
