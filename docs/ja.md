@@ -6,6 +6,8 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Twitch Account Settings                | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ja)                 |
+| Account Hacked                         | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=ja)                          |
 | Brand Surveys                          | 14/08/2023, 5:25:03 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=ja)                           |
 | Experiments                            | 12/08/2023, 3:02:45 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ja)                             |
 | How To Appeal Flagged Content          | 09/08/2023, 3:13:34 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=ja)           |
@@ -46,8 +48,6 @@
 | Prime Gaming Revenue Guide             | 30/05/2023, 4:46:03 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)              |
 | Local Sub Price Countries              | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ja)               |
 | Twitch Turbo Guide                     | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                      |
-| Emote Analytics                        | 22/05/2023, 10:25:35 am   | [Link](https://help.twitch.tv/s/article/emote-analytics?language=ja)                         |
-| How To Use Clips                       | 15/05/2023, 0:22:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                        |
 
 
 

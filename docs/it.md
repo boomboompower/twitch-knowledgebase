@@ -6,6 +6,8 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Twitch Account Settings                | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=it)                 |
+| Account Hacked                         | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=it)                          |
 | Brand Surveys                          | 14/08/2023, 8:06:03 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=it)                           |
 | Experiments                            | 12/08/2023, 3:02:45 am    | [Link](https://help.twitch.tv/s/article/experiments?language=it)                             |
 | Guide To Broadcast Health              | 09/08/2023, 5:39:04 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=it)               |
@@ -46,8 +48,6 @@
 | Local Recording                        | 30/05/2023, 5:46:33 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=it)                         |
 | Local Sub Price Countries              | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=it)               |
 | Twitch Turbo Guide                     | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=it)                      |
-| Emote Analytics                        | 22/05/2023, 5:56:33 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=it)                         |
-| How To Use Clips                       | 12/05/2023, 9:18:34 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                        |
 
 
 

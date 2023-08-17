@@ -4,51 +4,50 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
-|----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
-| Brand Surveys                                      | 14/08/2023, 5:21:35 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=ru)                                       |
-| Experiments                                        | 12/08/2023, 3:02:45 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ru)                                         |
-| Guide To Broadcast Health                          | 09/08/2023, 9:29:16 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=ru)                           |
-| How To Appeal Flagged Content                      | 09/08/2023, 9:29:14 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=ru)                       |
-| Guide To Cheering With Bits                        | 09/08/2023, 8:42:36 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ru)                         |
-| Authy Faq                                          | 03/08/2023, 9:32:10 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=ru)                                           |
-| New Device And Location Verification               | 03/08/2023, 9:32:03 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=ru)                |
-| Stream Display Ads                                 | 03/08/2023, 9:31:33 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ru)                                  |
-| Founders Badge                                     | 28/07/2023, 3:34:47 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=ru)                                      |
-| Twitch Teams                                       | 28/07/2023, 3:24:47 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=ru)                                        |
-| How To Edit Info Panels                            | 28/07/2023, 3:17:38 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=ru)                             |
-| Alerts By Twitch                                   | 26/07/2023, 4:07:31 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=ru)                                    |
-| Alerts By Twitch Css                               | 26/07/2023, 4:07:25 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=ru)                                |
-| Alerts By Twitch Customization                     | 26/07/2023, 4:07:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=ru)                      |
-| Alerts By Twitch Faq                               | 26/07/2023, 4:07:15 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=ru)                                |
-| Alerts By Twitch Interactive Resubs                | 26/07/2023, 4:07:09 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=ru)                 |
-| Setup Alerts By Twitch                             | 26/07/2023, 4:07:02 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=ru)                              |
-| Alerts By Twitch Events                            | 26/07/2023, 4:06:46 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ru)                             |
-| Dmca And Copyright Faqs                            | 20/07/2023, 2:42:48 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=ru)                             |
-| Managing Roles For Your Channel                    | 19/07/2023, 9:03:35 pm    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ru)                     |
-| Achievements                                       | 19/07/2023, 9:03:34 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=ru)                                        |
-| Creating An Account With Twitch                    | 19/07/2023, 9:03:33 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ru)                     |
-| Creating Highlights And Stream Markers             | 18/07/2023, 5:11:27 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=ru)              |
-| Lifetime Subscriber Guide For Partners             | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=ru)              |
-| Music Options For Streamers                        | 11/07/2023, 2:52:16 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=ru)                         |
-| Partner Onboarding Guide                           | 11/07/2023, 1:57:23 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ru)                            |
-| Refunds On Twitch                                  | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ru)                                   |
-| Broadcasting Guidelines                            | 27/06/2023, 0:02:51 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ru)                             |
-| Video On Demand                                    | 24/06/2023, 0:46:09 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ru)                                     |
-| Patch Notes 19                                     | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=ru)                                      |
-| Affiliate Onboarding Guide                         | 22/06/2023, 2:37:03 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ru)                          |
-| Partner Program Overview                           | 16/06/2023, 2:27:16 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ru)                            |
-| Twitch Music Getting Started                       | 05/06/2023, 4:32:42 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ru)                        |
-| Channel Analytics                                  | 30/05/2023, 4:42:53 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ru)                                   |
-| Payout History Dashboard Guide                     | 30/05/2023, 4:42:46 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=ru)                      |
-| Twitch Stream Key Faq                              | 30/05/2023, 4:42:38 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ru)                               |
-| Local Recording                                    | 30/05/2023, 4:42:36 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=ru)                                     |
-| Prime Gaming Revenue Guide                         | 30/05/2023, 4:42:33 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ru)                          |
-| Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ru)                           |
-| Twitch Turbo Guide                                 | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ru)                                  |
-| Emote Analytics                                    | 22/05/2023, 9:33:37 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=ru)                                     |
-| How To Use Clips                                   | 12/05/2023, 11:59:05 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ru)                                    |
-| Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=ru)  |
+| Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Twitch Account Settings                | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ru)                 |
+| Account Hacked                         | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=ru)                          |
+| Brand Surveys                          | 14/08/2023, 5:21:35 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=ru)                           |
+| Experiments                            | 12/08/2023, 3:02:45 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ru)                             |
+| Guide To Broadcast Health              | 09/08/2023, 9:29:16 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=ru)               |
+| How To Appeal Flagged Content          | 09/08/2023, 9:29:14 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=ru)           |
+| Guide To Cheering With Bits            | 09/08/2023, 8:42:36 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ru)             |
+| Authy Faq                              | 03/08/2023, 9:32:10 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=ru)                               |
+| New Device And Location Verification   | 03/08/2023, 9:32:03 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=ru)    |
+| Stream Display Ads                     | 03/08/2023, 9:31:33 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ru)                      |
+| Founders Badge                         | 28/07/2023, 3:34:47 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=ru)                          |
+| Twitch Teams                           | 28/07/2023, 3:24:47 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=ru)                            |
+| How To Edit Info Panels                | 28/07/2023, 3:17:38 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=ru)                 |
+| Alerts By Twitch                       | 26/07/2023, 4:07:31 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=ru)                        |
+| Alerts By Twitch Css                   | 26/07/2023, 4:07:25 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=ru)                    |
+| Alerts By Twitch Customization         | 26/07/2023, 4:07:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=ru)          |
+| Alerts By Twitch Faq                   | 26/07/2023, 4:07:15 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=ru)                    |
+| Alerts By Twitch Interactive Resubs    | 26/07/2023, 4:07:09 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=ru)     |
+| Setup Alerts By Twitch                 | 26/07/2023, 4:07:02 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=ru)                  |
+| Alerts By Twitch Events                | 26/07/2023, 4:06:46 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ru)                 |
+| Dmca And Copyright Faqs                | 20/07/2023, 2:42:48 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=ru)                 |
+| Managing Roles For Your Channel        | 19/07/2023, 9:03:35 pm    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ru)         |
+| Achievements                           | 19/07/2023, 9:03:34 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=ru)                            |
+| Creating An Account With Twitch        | 19/07/2023, 9:03:33 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ru)         |
+| Creating Highlights And Stream Markers | 18/07/2023, 5:11:27 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=ru)  |
+| Lifetime Subscriber Guide For Partners | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=ru)  |
+| Music Options For Streamers            | 11/07/2023, 2:52:16 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=ru)             |
+| Partner Onboarding Guide               | 11/07/2023, 1:57:23 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ru)                |
+| Refunds On Twitch                      | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ru)                       |
+| Broadcasting Guidelines                | 27/06/2023, 0:02:51 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ru)                 |
+| Video On Demand                        | 24/06/2023, 0:46:09 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ru)                         |
+| Patch Notes 19                         | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=ru)                          |
+| Affiliate Onboarding Guide             | 22/06/2023, 2:37:03 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ru)              |
+| Partner Program Overview               | 16/06/2023, 2:27:16 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ru)                |
+| Twitch Music Getting Started           | 05/06/2023, 4:32:42 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ru)            |
+| Channel Analytics                      | 30/05/2023, 4:42:53 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ru)                       |
+| Payout History Dashboard Guide         | 30/05/2023, 4:42:46 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=ru)          |
+| Twitch Stream Key Faq                  | 30/05/2023, 4:42:38 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ru)                   |
+| Local Recording                        | 30/05/2023, 4:42:36 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=ru)                         |
+| Prime Gaming Revenue Guide             | 30/05/2023, 4:42:33 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ru)              |
+| Local Sub Price Countries              | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ru)               |
+| Twitch Turbo Guide                     | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ru)                      |
 
 
 

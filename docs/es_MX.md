@@ -6,6 +6,8 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Twitch Account Settings                | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es_MX)                 |
+| Account Hacked                         | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=es_MX)                          |
 | Experiments                            | 12/08/2023, 3:02:44 am    | [Link](https://help.twitch.tv/s/article/experiments?language=es_MX)                             |
 | Brand Surveys                          | 12/08/2023, 3:00:04 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=es_MX)                           |
 | Guide To Cheering With Bits            | 09/08/2023, 8:54:41 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=es_MX)             |
@@ -46,9 +48,6 @@
 | Local Recording                        | 30/05/2023, 7:55:03 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=es_MX)                         |
 | Local Sub Price Countries              | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es_MX)               |
 | Twitch Turbo Guide                     | 26/05/2023, 3:14:57 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es_MX)                      |
-| Emote Analytics                        | 19/05/2023, 10:00:31 pm   | [Link](https://help.twitch.tv/s/article/emote-analytics?language=es_MX)                         |
-| How To Use Clips                       | 13/05/2023, 2:03:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                        |
-| Guide To Tags                          | 12/05/2023, 11:23:34 pm   | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=es_MX)                           |
 
 
 

@@ -7,6 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| twitch-account-settings                                       | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am | [Details](#twitch-account-settings)                                        |
+| account-hacked                                                | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am | [Details](#account-hacked)                                                 |
 | brand-surveys                                                 | 14/08/2023, 9:17:11 pm  | 14/08/2023, 9:17:04 pm  | [Details](#brand-surveys)                                                  |
 | experiments                                                   | 12/08/2023, 3:02:50 am  | 08/08/2023, 8:31:01 am  | [Details](#experiments)                                                    |
 | hype-chat-by-twitch                                           | 11/08/2023, 8:41:07 pm  | 15/06/2023, 9:26:44 am  | [Details](#hype-chat-by-twitch)                                            |
@@ -233,7 +235,6 @@ Language data is not included in the API. All page links will not have a languag
 | network-enforcement-act                                       | 18/02/2022, 7:50:06 pm  | 18/02/2022, 7:50:04 pm  | [Details](#network-enforcement-act)                                        |
 | nintendo-switch                                               | 18/02/2022, 7:49:38 pm  | 18/02/2022, 7:49:35 pm  | [Details](#nintendo-switch)                                                |
 | studio-obs-ndi                                                | 18/02/2022, 7:47:33 pm  | 18/02/2022, 7:47:30 pm  | [Details](#studio-obs-ndi)                                                 |
-| twitch-account-settings                                       | 18/02/2022, 7:42:35 pm  | 18/02/2022, 7:42:32 pm  | [Details](#twitch-account-settings)                                        |
 | how-to-handle-view-follow-bots                                | 18/02/2022, 2:33:34 am  | 18/02/2022, 2:33:31 am  | [Details](#how-to-handle-view-follow-bots)                                 |
 | studio-ui                                                     | 18/02/2022, 1:48:03 am  | 18/02/2022, 1:48:01 am  | [Details](#studio-ui)                                                      |
 | audio-ads                                                     | 18/02/2022, 1:39:07 am  | 18/02/2022, 1:39:02 am  | [Details](#audio-ads)                                                      |
@@ -244,7 +245,6 @@ Language data is not included in the API. All page links will not have a languag
 | recommended-software-for-broadcasting                         | 13/01/2022, 9:50:05 am  | 13/02/2021, 4:21:33 am  | [Details](#recommended-software-for-broadcasting)                          |
 | Mastercard-Holiday-Promotion                                  | 17/12/2021, 5:31:48 am  | 17/12/2021, 5:30:27 am  | [Details](#mastercard-holiday-promotion)                                   |
 | list-of-prohibited-games                                      | 15/12/2021, 6:51:22 am  | 04/12/2021, 6:31:08 am  | [Details](#list-of-prohibited-games)                                       |
-| account-hacked                                                | 15/12/2021, 5:46:59 am  | 09/12/2021, 2:08:17 pm  | [Details](#account-hacked)                                                 |
 | cancelling-subscriptions                                      | 14/12/2021, 8:50:31 am  | 14/12/2021, 8:50:30 am  | [Details](#cancelling-subscriptions)                                       |
 | adding-a-game-and-box-art-to-the-directory                    | 10/12/2021, 6:25:59 am  | 10/12/2021, 6:22:46 am  | [Details](#adding-a-game-and-box-art-to-the-directory)                     |
 | system-audio-capture-permission                               | 30/11/2021, 5:09:19 am  | 19/11/2021, 5:23:25 am  | [Details](#system-audio-capture-permission)                                |
@@ -380,26 +380,26 @@ https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-
 ### account-hacked
 https://help.twitch.tv/s/article/account-hacked
 
-| Title                                                           | Last Modified          | Created                 |
-|-----------------------------------------------------------------|------------------------|-------------------------|
-| Başka biri hesabıma izinsiz girmişse ne yapabilirim?            | 15/12/2021, 5:46:59 am | 09/12/2021, 2:08:17 pm  |
-| Co mogę zrobić, jeśli ktoś inny uzyskał dostęp do mojego konta? | 15/12/2021, 5:46:58 am | 09/12/2021, 2:08:17 pm  |
-| Cosa posso fare se qualcuno ha avuto accesso al mio account?    | 15/12/2021, 5:46:58 am | 09/12/2021, 2:08:17 pm  |
-| O que posso fazer se outra pessoa acessou minha conta?          | 15/12/2021, 5:46:58 am | 09/12/2021, 2:08:17 pm  |
-| Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
-| Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
-| Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
-| Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
-| Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
-| Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
-| Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
-| Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
-| Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
-| Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
-| Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
-| Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
-| Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
-| Account hacked, what do I do?                                   | 15/12/2021, 5:43:38 am | 15/12/2021, 5:43:37 am  |
+| Title                                                           | Last Modified           | Created                  |
+|-----------------------------------------------------------------|-------------------------|--------------------------|
+| Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Başka biri hesabıma izinsiz girmişse ne yapabilirim?            | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Co mogę zrobić, jeśli ktoś inny uzyskał dostęp do mojego konta? | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| Cosa posso fare se qualcuno ha avuto accesso al mio account?    | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
+| O que posso fazer se outra pessoa acessou minha conta?          | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
 
 
 ### account-reactivation
@@ -4089,14 +4089,14 @@ https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide
 ### twitch-account-settings
 https://help.twitch.tv/s/article/twitch-account-settings
 
-| Title                             | Last Modified          | Created                 |
-|-----------------------------------|------------------------|-------------------------|
-| Ajustes de cuenta de Twitch       | 18/02/2022, 7:42:35 pm | 18/02/2022, 7:42:32 pm  |
-| Configuración de cuenta de Twitch | 11/01/2022, 8:26:30 am | 11/01/2022, 8:26:29 am  |
-| Configurações da conta da Twitch  | 11/01/2022, 8:26:30 am | 11/01/2022, 8:26:29 am  |
-| Definições de conta Twitch        | 11/01/2022, 8:26:30 am | 11/01/2022, 8:26:29 am  |
-| Impostazioni account Twitch       | 11/01/2022, 8:26:30 am | 11/01/2022, 8:26:29 am  |
-| Paramètres de votre compte Twitch | 11/01/2022, 8:26:30 am | 11/01/2022, 8:26:29 am  |
+| Title                             | Last Modified           | Created                  |
+|-----------------------------------|-------------------------|--------------------------|
+| Ajustes de cuenta de Twitch       | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am  |
+| Configuración de cuenta de Twitch | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am  |
+| Configurações da conta da Twitch  | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am  |
+| Definições de conta Twitch        | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am  |
+| Impostazioni account Twitch       | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am  |
+| Paramètres de votre compte Twitch | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am  |
 
 
 ### twitch-affiliate-program-faq

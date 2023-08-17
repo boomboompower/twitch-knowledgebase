@@ -6,12 +6,12 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Twitch Account Settings                | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_PT)                 |
+| Account Hacked                         | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=pt_PT)                          |
 | Authy Faq                              | 26/07/2023, 10:23:27 am   | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_PT)                               |
 | Lifetime Subscriber Guide For Partners | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=pt_PT)  |
 | Achievements                           | 11/07/2023, 2:30:09 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                            |
 | Twitch Turbo Guide                     | 26/05/2023, 3:14:57 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                      |
-| Twitch Prime Partner Guide             | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=pt_PT)              |
-| Channel Analytics                      | 24/05/2023, 4:01:50 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_PT)                       |
 
 
 
