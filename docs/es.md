@@ -6,6 +6,7 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| How To Provide Feedback                | 18/08/2023, 5:23:20 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=es)                 |
 | Twitch Account Settings                | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es)                 |
 | Account Hacked                         | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=es)                          |
 | Brand Surveys                          | 14/08/2023, 9:17:11 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=es)                           |
@@ -47,7 +48,6 @@
 | Prime Gaming Revenue Guide             | 30/05/2023, 7:07:17 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es)              |
 | Payout History Dashboard Guide         | 30/05/2023, 7:07:04 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=es)          |
 | Local Sub Price Countries              | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es)               |
-| Twitch Turbo Guide                     | 26/05/2023, 3:14:57 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es)                      |
 
 
 

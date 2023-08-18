@@ -11,7 +11,6 @@
 | Authy Faq                              | 26/07/2023, 10:23:27 am   | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_PT)                               |
 | Lifetime Subscriber Guide For Partners | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=pt_PT)  |
 | Achievements                           | 11/07/2023, 2:30:09 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                            |
-| Twitch Turbo Guide                     | 26/05/2023, 3:14:57 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                      |
 
 
 
