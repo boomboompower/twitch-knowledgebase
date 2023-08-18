@@ -57,45 +57,47 @@
 ## Article-2
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
 
-| Name                              | Last Updated (dd/mm/yyyy) | Link                                                                                       |
-|-----------------------------------|---------------------------|--------------------------------------------------------------------------------------------|
-| Guide To Tags                     | 11/05/2023, 9:12:16 pm    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=zh_TW)                      |
-| Guest Star Audio                  | 10/05/2023, 9:20:09 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=zh_TW)                   |
-| Guest Star Mod View               | 09/05/2023, 7:04:46 am    | [Link](https://help.twitch.tv/s/article/guest-star-mod-view?language=zh_TW)                |
-| Guest Star Faqs                   | 09/05/2023, 7:04:05 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=zh_TW)                    |
-| Guest Star Getting Started        | 09/05/2023, 7:02:51 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)         |
-| Subscriptions On Samsung Smart Tv | 04/05/2023, 7:20:42 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=zh_TW)  |
-| Languages On Twitch               | 03/05/2023, 8:07:01 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=zh_TW)                |
-| Chat Highlights                   | 12/04/2023, 4:05:40 am    | [Link](https://help.twitch.tv/s/article/chat-highlights?language=zh_TW)                    |
-| Ads Manager                       | 06/04/2023, 3:57:38 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=zh_TW)                        |
-| Disabling Prerolls                | 06/04/2023, 3:57:33 pm    | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=zh_TW)                 |
-| Picture By Picture Ads            | 06/04/2023, 3:57:33 pm    | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=zh_TW)             |
-| How To File A User Report         | 06/04/2023, 3:42:32 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=zh_TW)          |
-| Monthly Recap                     | 30/03/2023, 7:00:47 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=zh_TW)                      |
-| Guide To Using Twitch Inspector   | 28/03/2023, 8:22:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=zh_TW)    |
-| Guide To Closed Captions          | 22/03/2023, 8:36:31 pm    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=zh_TW)           |
-| Creator Goals                     | 15/03/2023, 2:04:02 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                      |
-| Two Factor Authentication         | 13/03/2023, 2:36:03 pm    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=zh_TW)          |
-| Guest Star Browser Source         | 10/03/2023, 2:00:32 pm    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=zh_TW)          |
-| First Steps For New Affiliates    | 24/02/2023, 4:57:03 pm    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=zh_TW)     |
-| Twitch Charity Viewers            | 10/02/2023, 10:04:14 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=zh_TW)             |
-| Twitch Charity                    | 10/02/2023, 9:59:09 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=zh_TW)                     |
-| Twitch Charity Faqs               | 10/02/2023, 9:58:48 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=zh_TW)                |
-| Stream Summary                    | 10/02/2023, 5:16:22 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=zh_TW)                     |
-| Mobile Irl Broadcasting           | 24/01/2023, 5:59:40 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=zh_TW)            |
-| Joining Guest Star                | 19/01/2023, 7:53:04 pm    | [Link](https://help.twitch.tv/s/article/joining-guest-star?language=zh_TW)                 |
-| Guest Request To Join             | 18/01/2023, 4:04:57 am    | [Link](https://help.twitch.tv/s/article/guest-request-to-join?language=zh_TW)              |
-| Guest Star                        | 18/01/2023, 4:04:40 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=zh_TW)                         |
-| Twitch Mobile App Update          | 16/01/2023, 7:14:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=zh_TW)           |
-| Twitch Studio Mac Faq             | 16/01/2023, 7:13:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=zh_TW)              |
-| Follower Emotes                   | 15/12/2022, 7:29:49 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=zh_TW)                    |
-| Live Viewer Feedback              | 10/12/2022, 8:46:51 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=zh_TW)               |
-| Twitch Affiliate Program Faq      | 10/12/2022, 0:14:09 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)       |
-| Mod View                          | 05/12/2022, 8:16:14 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                           |
-| Emote Slots                       | 05/12/2022, 8:16:05 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=zh_TW)                        |
-| How To Manage Harassment In Chat  | 01/12/2022, 5:24:51 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=zh_TW)   |
-| Chat Commands                     | 18/11/2022, 1:36:57 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_TW)                      |
-| Moments                           | 11/11/2022, 6:53:07 pm    | [Link](https://help.twitch.tv/s/article/moments?language=zh_TW)                            |
+| Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
+|----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Emote Analytics                                    | 22/05/2023, 0:36:03 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=zh_TW)                                     |
+| How To Use Clips                                   | 15/05/2023, 7:11:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                    |
+| Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=zh_TW)  |
+| Guide To Tags                                      | 11/05/2023, 9:12:16 pm    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=zh_TW)                                       |
+| Guest Star Audio                                   | 10/05/2023, 9:20:09 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=zh_TW)                                    |
+| Guest Star Mod View                                | 09/05/2023, 7:04:46 am    | [Link](https://help.twitch.tv/s/article/guest-star-mod-view?language=zh_TW)                                 |
+| Guest Star Faqs                                    | 09/05/2023, 7:04:05 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=zh_TW)                                     |
+| Guest Star Getting Started                         | 09/05/2023, 7:02:51 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)                          |
+| Subscriptions On Samsung Smart Tv                  | 04/05/2023, 7:20:42 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=zh_TW)                   |
+| Languages On Twitch                                | 03/05/2023, 8:07:01 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=zh_TW)                                 |
+| Chat Highlights                                    | 12/04/2023, 4:05:40 am    | [Link](https://help.twitch.tv/s/article/chat-highlights?language=zh_TW)                                     |
+| Ads Manager                                        | 06/04/2023, 3:57:38 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=zh_TW)                                         |
+| Disabling Prerolls                                 | 06/04/2023, 3:57:33 pm    | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=zh_TW)                                  |
+| Picture By Picture Ads                             | 06/04/2023, 3:57:33 pm    | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=zh_TW)                              |
+| How To File A User Report                          | 06/04/2023, 3:42:32 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=zh_TW)                           |
+| Monthly Recap                                      | 30/03/2023, 7:00:47 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=zh_TW)                                       |
+| Guide To Using Twitch Inspector                    | 28/03/2023, 8:22:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=zh_TW)                     |
+| Guide To Closed Captions                           | 22/03/2023, 8:36:31 pm    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=zh_TW)                            |
+| Creator Goals                                      | 15/03/2023, 2:04:02 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                                       |
+| Two Factor Authentication                          | 13/03/2023, 2:36:03 pm    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=zh_TW)                           |
+| Guest Star Browser Source                          | 10/03/2023, 2:00:32 pm    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=zh_TW)                           |
+| First Steps For New Affiliates                     | 24/02/2023, 4:57:03 pm    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=zh_TW)                      |
+| Twitch Charity Viewers                             | 10/02/2023, 10:04:14 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=zh_TW)                              |
+| Twitch Charity                                     | 10/02/2023, 9:59:09 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=zh_TW)                                      |
+| Twitch Charity Faqs                                | 10/02/2023, 9:58:48 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=zh_TW)                                 |
+| Stream Summary                                     | 10/02/2023, 5:16:22 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=zh_TW)                                      |
+| Mobile Irl Broadcasting                            | 24/01/2023, 5:59:40 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=zh_TW)                             |
+| Joining Guest Star                                 | 19/01/2023, 7:53:04 pm    | [Link](https://help.twitch.tv/s/article/joining-guest-star?language=zh_TW)                                  |
+| Guest Request To Join                              | 18/01/2023, 4:04:57 am    | [Link](https://help.twitch.tv/s/article/guest-request-to-join?language=zh_TW)                               |
+| Guest Star                                         | 18/01/2023, 4:04:40 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=zh_TW)                                          |
+| Twitch Mobile App Update                           | 16/01/2023, 7:14:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=zh_TW)                            |
+| Twitch Studio Mac Faq                              | 16/01/2023, 7:13:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=zh_TW)                               |
+| Follower Emotes                                    | 15/12/2022, 7:29:49 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=zh_TW)                                     |
+| Live Viewer Feedback                               | 10/12/2022, 8:46:51 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=zh_TW)                                |
+| Twitch Affiliate Program Faq                       | 10/12/2022, 0:14:09 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                        |
+| Mod View                                           | 05/12/2022, 8:16:14 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                            |
+| Emote Slots                                        | 05/12/2022, 8:16:05 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=zh_TW)                                         |
+| How To Manage Harassment In Chat                   | 01/12/2022, 5:24:51 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=zh_TW)                    |
+| Chat Commands                                      | 18/11/2022, 1:36:57 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_TW)                                       |
 
 
 
@@ -104,6 +106,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Moments                                                  | 11/11/2022, 6:53:07 pm    | [Link](https://help.twitch.tv/s/article/moments?language=zh_TW)                                                   |
 | How To Use Extensions                                    | 04/11/2022, 9:01:07 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=zh_TW)                                     |
 | Xbox Promotion 2022                                      | 02/11/2022, 3:54:04 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=zh_TW)                                       |
 | Request To Join                                          | 31/10/2022, 9:18:06 pm    | [Link](https://help.twitch.tv/s/article/request-to-join?language=zh_TW)                                           |
@@ -120,7 +123,6 @@
 | Supported Browsers                                       | 14/10/2022, 9:16:33 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=zh_TW)                                        |
 | Twitch Content Sharing Guidelines                        | 13/10/2022, 7:53:07 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=zh_TW)                         |
 | How To Use Raids                                         | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=zh_TW)                                          |
-| Subtember 2022 Faq                                       | 27/09/2022, 4:25:19 am    | [Link](https://help.twitch.tv/s/article/subtember-2022-faq?language=zh_TW)                                        |
 | Charitable Donations                                     | 26/09/2022, 7:25:03 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=zh_TW)                                      |
 | Affiliate Emote Prefix Change                            | 21/09/2022, 4:59:50 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=zh_TW)                             |
 | Boost Train                                              | 20/09/2022, 2:34:36 am    | [Link](https://help.twitch.tv/s/article/boost-train?language=zh_TW)                                               |
@@ -142,9 +144,6 @@
 | Creating A Strong Password                               | 18/05/2022, 0:39:26 am    | [Link](https://help.twitch.tv/s/article/creating-a-strong-password?language=zh_TW)                                |
 | Understanding Viewer Count Vs Users In Chat              | 06/05/2022, 11:47:34 am   | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=zh_TW)               |
 | How To Use The Friends Feature                           | 29/04/2022, 5:56:25 am    | [Link](https://help.twitch.tv/s/article/how-to-use-the-friends-feature?language=zh_TW)                            |
-| Twitch On Apple Tv                                       | 28/04/2022, 0:45:33 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-apple-tv?language=zh_TW)                                        |
-| Twitch On Lg Tv                                          | 28/04/2022, 0:30:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=zh_TW)                                           |
-| Children On Twitch                                       | 28/04/2022, 0:20:33 pm    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=zh_TW)                                        |
 
 
 
@@ -153,6 +152,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Twitch On Apple Tv                                            | 28/04/2022, 0:45:33 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-apple-tv?language=zh_TW)                                             |
+| Twitch On Lg Tv                                               | 28/04/2022, 0:30:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=zh_TW)                                                |
+| Children On Twitch                                            | 28/04/2022, 0:20:33 pm    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=zh_TW)                                             |
 | Channel Points Faq                                            | 21/04/2022, 5:02:27 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=zh_TW)                                             |
 | Mission Based Drops                                           | 19/04/2022, 5:27:06 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=zh_TW)                                            |
 | Official Twitch Channel Chat Rules                            | 14/04/2022, 5:31:07 pm    | [Link](https://help.twitch.tv/s/article/official-twitch-channel-chat-rules?language=zh_TW)                             |
@@ -167,9 +169,7 @@
 | Twitch Music Fast Start Guide                                 | 13/01/2022, 9:51:31 am    | [Link](https://help.twitch.tv/s/article/twitch-music-fast-start-guide?language=zh_TW)                                  |
 | Studio Obs Ndi                                                | 13/01/2022, 9:50:52 am    | [Link](https://help.twitch.tv/s/article/studio-obs-ndi?language=zh_TW)                                                 |
 | Recommended Software For Broadcasting                         | 13/01/2022, 9:50:00 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=zh_TW)                          |
-| Twitch Account Settings                                       | 11/01/2022, 8:26:30 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=zh_TW)                                        |
 | List Of Prohibited Games                                      | 15/12/2021, 6:48:33 am    | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=zh_TW)                                       |
-| Account Hacked                                                | 15/12/2021, 5:46:57 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=zh_TW)                                                 |
 | Adding A Game And Box Art To The Directory                    | 10/12/2021, 6:25:54 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=zh_TW)                     |
 | System Audio Capture Permission                               | 30/11/2021, 5:09:22 am    | [Link](https://help.twitch.tv/s/article/system-audio-capture-permission?language=zh_TW)                                |
 | Modified Emotes                                               | 19/11/2021, 5:13:43 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=zh_TW)                                                |
@@ -193,6 +193,7 @@
 | Stream Deck Setup                                             | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=zh_TW)                                              |
 | Capturing Sources                                             | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/capturing-sources?language=zh_TW)                                              |
 | Twitch Studio Updates                                         | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-updates?language=zh_TW)                                          |
+| Twitch Studio Creator Goals                                   | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-creator-goals?language=zh_TW)                                    |
 
 
 
@@ -201,7 +202,6 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                       |
 |---------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------|
-| Twitch Studio Creator Goals                       | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-creator-goals?language=zh_TW)                        |
 | Watching Twitch On Android Devices                | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=zh_TW)                 |
 | Twitch Prime Loot Gifting                         | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-loot-gifting?language=zh_TW)                          |
 | Twitch Prime Program Faq                          | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-program-faq?language=zh_TW)                           |

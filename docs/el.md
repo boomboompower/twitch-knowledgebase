@@ -36,7 +36,6 @@
 | Name              | Last Updated (dd/mm/yyyy) | Link                                                                    |
 |-------------------|---------------------------|-------------------------------------------------------------------------|
 | Twitch Studio Faq | 10/03/2022, 9:52:06 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=el)  |
-| Account Hacked    | 15/12/2021, 5:43:38 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=el)     |
 
 
 

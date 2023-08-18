@@ -7,6 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| how-to-provide-feedback                                       | 18/08/2023, 5:23:21 am  | 18/08/2023, 5:23:02 am  | [Details](#how-to-provide-feedback)                                        |
+| tips-on-feedback                                              | 18/08/2023, 5:22:40 am  | 18/08/2023, 2:46:40 am  | [Details](#tips-on-feedback)                                               |
+| navigating-the-feedback-forum                                 | 18/08/2023, 5:21:39 am  | 18/08/2023, 5:21:16 am  | [Details](#navigating-the-feedback-forum)                                  |
 | twitch-account-settings                                       | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am | [Details](#twitch-account-settings)                                        |
 | account-hacked                                                | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am | [Details](#account-hacked)                                                 |
 | brand-surveys                                                 | 14/08/2023, 9:17:11 pm  | 14/08/2023, 9:17:04 pm  | [Details](#brand-surveys)                                                  |
@@ -310,7 +313,6 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-log-in-to-twitch-with-one-click                        | 22/10/2021, 8:52:24 am  | 11/03/2020, 6:53:10 am  | [Details](#how-to-log-in-to-twitch-with-one-click)                         |
 | streamer-notifications-preferences                            | 22/10/2021, 8:52:23 am  | 04/06/2019, 4:58:18 am  | [Details](#streamer-notifications-preferences)                             |
 | markdown-basics                                               | 22/10/2021, 8:39:58 am  | 08/10/2020, 5:02:36 am  | [Details](#markdown-basics)                                                |
-| how-to-provide-feedback                                       | 22/10/2021, 8:39:58 am  | 22/01/2021, 2:57:20 am  | [Details](#how-to-provide-feedback)                                        |
 | boost-this-stream                                             | 20/10/2021, 0:06:33 pm  | 20/10/2021, 0:06:32 pm  | [Details](#boost-this-stream)                                              |
 | chat-verification-settings                                    | 06/10/2021, 7:06:06 am  | 25/09/2021, 2:38:01 am  | [Details](#chat-verification-settings)                                     |
 | subscriber-streams                                            | 30/09/2021, 11:26:49 am | 07/08/2020, 3:27:31 am  | [Details](#subscriber-streams)                                             |
@@ -2438,14 +2440,14 @@ https://help.twitch.tv/s/article/how-to-provide-feedback
 
 | Title                          | Last Modified          | Created                 |
 |--------------------------------|------------------------|-------------------------|
-| Geri bildirim nasıl gönderilir | 22/10/2021, 8:39:58 am | 22/01/2021, 2:57:20 am  |
-| How to Provide Feedback        | 22/10/2021, 8:39:58 am | 22/01/2021, 1:44:39 am  |
-| Come fornire feedback          | 22/10/2021, 8:39:57 am | 22/01/2021, 2:57:20 am  |
-| Cómo enviar comentarios        | 22/10/2021, 8:39:57 am | 22/01/2021, 2:57:20 am  |
-| Comment donner un avis         | 22/10/2021, 8:39:56 am | 22/01/2021, 2:57:20 am  |
-| Como enviar feedback           | 22/10/2021, 8:39:56 am | 22/01/2021, 2:57:20 am  |
-| Cómo proporcionar comentarios  | 22/10/2021, 8:39:56 am | 22/01/2021, 2:57:20 am  |
-| Feedback geben                 | 22/10/2021, 8:39:56 am | 22/01/2021, 2:57:20 am  |
+| How to Provide Feedback        | 18/08/2023, 5:23:21 am | 18/08/2023, 5:23:02 am  |
+| Come fornire feedback          | 18/08/2023, 5:23:20 am | 18/08/2023, 5:23:19 am  |
+| Comment donner un avis         | 18/08/2023, 5:23:20 am | 18/08/2023, 5:23:19 am  |
+| Como enviar feedback           | 18/08/2023, 5:23:20 am | 18/08/2023, 5:23:19 am  |
+| Cómo enviar comentarios        | 18/08/2023, 5:23:20 am | 18/08/2023, 5:23:19 am  |
+| Cómo proporcionar comentarios  | 18/08/2023, 5:23:20 am | 18/08/2023, 5:23:19 am  |
+| Feedback geben                 | 18/08/2023, 5:23:20 am | 18/08/2023, 5:23:19 am  |
+| Geri bildirim nasıl gönderilir | 18/08/2023, 5:23:20 am | 18/08/2023, 5:23:20 am  |
 
 
 ### how-to-purchase-bits
@@ -3241,6 +3243,14 @@ https://help.twitch.tv/s/article/music-options-for-streamers
 | Music Options for Streamers           | 10/06/2023, 5:39:19 am | 10/06/2023, 3:08:21 am  |
 
 
+### navigating-the-feedback-forum
+https://help.twitch.tv/s/article/navigating-the-feedback-forum
+
+| Title                         | Last Modified          | Created                 |
+|-------------------------------|------------------------|-------------------------|
+| Navigating the Feedback Forum | 18/08/2023, 5:21:39 am | 18/08/2023, 5:21:16 am  |
+
+
 ### nba-g-league-co-streaming-guide
 https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide
 
@@ -3387,7 +3397,6 @@ https://help.twitch.tv/s/article/partner-exclusivity-faq
 | Domande frequenti sull'esclusività dei partner         | 26/08/2022, 7:46:33 pm  | 24/08/2022, 2:48:48 am   |
 | Häufige Fragen zur Partner-Exklusivität                | 25/08/2022, 11:40:05 pm | 24/08/2022, 2:48:48 am   |
 | Partner Ayrıcalıkları hakkında SSS                     | 24/08/2022, 10:34:05 pm | 24/08/2022, 2:48:48 am   |
-| Partner Exclusivity FAQ                                | 24/08/2022, 2:48:28 am  | 24/08/2022, 2:48:05 am   |
 
 
 ### partner-help-and-contact-information
@@ -3406,7 +3415,6 @@ https://help.twitch.tv/s/article/partner-onboarding-guide
 | Guia de Integração de Parceiros                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:09 pm  |
 | Guía de incorporación de socios                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:18 pm  |
 | Guía de incorporación de partners               | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:14 pm  |
-| Partner Olma Rehberi                            | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:24 pm  |
 | Guida alla registrazione partner                | 11/07/2023, 1:57:15 am | 07/07/2023, 3:47:58 pm  |
 | Guide d'intégration au programme de partenariat | 11/07/2023, 1:57:14 am | 07/07/2023, 6:31:33 am  |
 | Leitfaden zum Partner-Onboarding                | 11/07/2023, 1:57:14 am | 07/07/2023, 3:47:56 pm  |
@@ -4061,6 +4069,14 @@ https://help.twitch.tv/s/article/Tips-for-Bounty-Board-Completing-Bounties
 | Title                                                    | Last Modified          | Created                 |
 |----------------------------------------------------------|------------------------|-------------------------|
 | Astuces pour le tableau des offres : Terminer des offres | 22/10/2021, 8:53:23 am | 15/06/2019, 7:43:19 am  |
+
+
+### tips-on-feedback
+https://help.twitch.tv/s/article/tips-on-feedback
+
+| Title                                  | Last Modified          | Created                 |
+|----------------------------------------|------------------------|-------------------------|
+| Giving Feedback in the Feedback Forums | 18/08/2023, 5:22:40 am | 18/08/2023, 2:46:40 am  |
 
 
 ### transcoding-options-faq

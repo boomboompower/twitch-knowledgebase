@@ -21,6 +21,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Twitch Prime Partner Guide                         | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=nl_NL)                          |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:14 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=nl_NL)  |
 | Guide To Tags                                      | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=nl_NL)                                       |
 | Two Factor Authentication With Authy               | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=nl_NL)                |
@@ -28,7 +29,6 @@
 | How To Use Host Mode                               | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=nl_NL)                                |
 | How To Manage Harassment In Chat                   | 01/12/2022, 5:24:49 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=nl_NL)                    |
 | Chat Commands                                      | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=nl_NL)                                       |
-| Gift Subscriptions                                 | 18/11/2022, 6:01:11 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=nl_NL)                                  |
 
 
 
@@ -37,6 +37,7 @@
 
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                                  |
 |----------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------|
+| Gift Subscriptions                           | 18/11/2022, 6:01:11 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=nl_NL)                            |
 | Channel Page Setup                           | 28/10/2022, 8:22:51 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=nl_NL)                            |
 | How To Use Squad Stream                      | 21/10/2022, 7:26:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=nl_NL)                       |
 | Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=nl_NL)  |
@@ -52,7 +53,6 @@
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Twitch Studio Faq                                             | 10/03/2022, 9:52:06 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=nl_NL)                                              |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/03/2022, 5:00:40 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=nl_NL)  |
-| Account Hacked                                                | 15/12/2021, 5:43:38 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=nl_NL)                                                 |
 | Community Meetups Powered By Twitch                           | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=nl_NL)                            |
 
 

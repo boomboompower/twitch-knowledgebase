@@ -15,10 +15,10 @@
 
 | Name                             | Last Updated (dd/mm/yyyy) | Link                                                                                   |
 |----------------------------------|---------------------------|----------------------------------------------------------------------------------------|
+| Twitch Prime Partner Guide       | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=hu)        |
 | Stream Summary                   | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=hu)                    |
 | How To Manage Harassment In Chat | 01/12/2022, 5:24:49 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=hu)  |
 | Chat Commands                    | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=hu)                     |
-| Gift Subscriptions               | 18/11/2022, 6:01:11 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=hu)                |
 
 
 
@@ -27,6 +27,7 @@
 
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                               |
 |----------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------|
+| Gift Subscriptions                           | 18/11/2022, 6:01:11 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=hu)                            |
 | Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=hu)  |
 | Twitch Content Sharing Guidelines            | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=hu)             |
 | A Tour Of Your Channel Page                  | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=hu)                   |
@@ -40,7 +41,6 @@
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Twitch Studio Faq                                             | 10/03/2022, 9:52:06 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=hu)                                              |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/03/2022, 5:00:40 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=hu)  |
-| Account Hacked                                                | 15/12/2021, 5:43:38 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=hu)                                                 |
 | Community Meetups Powered By Twitch                           | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=hu)                            |
 
 

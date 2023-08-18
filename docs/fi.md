@@ -17,12 +17,12 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Prime Partner Guide                         | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=fi)                          |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:14 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=fi)  |
 | Guide To Tags                                      | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=fi)                                       |
 | Stream Summary                                     | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=fi)                                      |
 | How To Manage Harassment In Chat                   | 01/12/2022, 5:24:49 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fi)                    |
 | Chat Commands                                      | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=fi)                                       |
-| Gift Subscriptions                                 | 18/11/2022, 6:01:11 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=fi)                                  |
 
 
 
@@ -31,6 +31,7 @@
 
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                               |
 |----------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------|
+| Gift Subscriptions                           | 18/11/2022, 6:01:11 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=fi)                            |
 | Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=fi)  |
 | Twitch Content Sharing Guidelines            | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=fi)             |
 | How To Use Raids                             | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=fi)                              |
@@ -45,7 +46,6 @@
 | Twitch Studio Faq                                             | 10/03/2022, 9:52:06 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=fi)                                              |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/03/2022, 5:00:40 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=fi)  |
 | Recommended Software For Broadcasting                         | 13/01/2022, 9:50:05 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=fi)                          |
-| Account Hacked                                                | 15/12/2021, 5:43:38 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=fi)                                                 |
 | Community Meetups Powered By Twitch                           | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=fi)                            |
 
 

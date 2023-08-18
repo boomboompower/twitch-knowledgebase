@@ -54,48 +54,50 @@
 ## Article-2
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
 
-| Name                              | Last Updated (dd/mm/yyyy) | Link                                                                                    |
-|-----------------------------------|---------------------------|-----------------------------------------------------------------------------------------|
-| Guide To Tags                     | 11/05/2023, 8:59:05 pm    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=ru)                      |
-| Guest Star Audio                  | 10/05/2023, 9:20:09 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=ru)                   |
-| Guest Star Mod View               | 09/05/2023, 7:04:46 am    | [Link](https://help.twitch.tv/s/article/guest-star-mod-view?language=ru)                |
-| Guest Star Faqs                   | 09/05/2023, 7:04:04 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=ru)                    |
-| Guest Star Getting Started        | 09/05/2023, 7:02:50 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ru)         |
-| Subscriptions On Samsung Smart Tv | 04/05/2023, 7:20:42 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=ru)  |
-| Languages On Twitch               | 03/05/2023, 8:07:01 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ru)                |
-| Chat Highlights                   | 12/04/2023, 4:05:40 am    | [Link](https://help.twitch.tv/s/article/chat-highlights?language=ru)                    |
-| Disabling Prerolls                | 06/04/2023, 6:23:41 pm    | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=ru)                 |
-| Ads Manager                       | 06/04/2023, 6:23:38 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ru)                        |
-| Picture By Picture Ads            | 06/04/2023, 6:23:31 pm    | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=ru)             |
-| How To File A User Report         | 05/04/2023, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=ru)          |
-| Monthly Recap                     | 30/03/2023, 7:00:47 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=ru)                      |
-| Guide To Using Twitch Inspector   | 28/03/2023, 0:15:11 pm    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=ru)    |
-| Guide To Closed Captions          | 22/03/2023, 8:16:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=ru)           |
-| Multi Month Subscriptions         | 21/03/2023, 8:50:38 pm    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=ru)          |
-| Subscriptions On Mobile           | 21/03/2023, 8:50:38 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ru)            |
-| Creator Goals                     | 14/03/2023, 7:55:06 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=ru)                      |
-| Two Factor Authentication         | 13/03/2023, 7:14:33 pm    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ru)          |
-| Guest Star Browser Source         | 10/03/2023, 5:01:33 pm    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=ru)          |
-| First Steps For New Affiliates    | 23/02/2023, 1:36:03 am    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=ru)     |
-| Delete Twitch Account             | 13/02/2023, 8:20:05 pm    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=ru)              |
-| Twitch Charity Viewers            | 10/02/2023, 10:04:23 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=ru)             |
-| Twitch Charity Faqs               | 10/02/2023, 9:59:16 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=ru)                |
-| Twitch Charity                    | 10/02/2023, 9:59:02 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=ru)                     |
-| Stream Summary                    | 10/02/2023, 5:16:22 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ru)                     |
-| Mobile Irl Broadcasting           | 24/01/2023, 5:59:40 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=ru)            |
-| Joining Guest Star                | 20/01/2023, 5:25:33 pm    | [Link](https://help.twitch.tv/s/article/joining-guest-star?language=ru)                 |
-| Guest Request To Join             | 18/01/2023, 4:05:08 am    | [Link](https://help.twitch.tv/s/article/guest-request-to-join?language=ru)              |
-| Guest Star                        | 18/01/2023, 4:04:36 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=ru)                         |
-| Twitch Mobile App Update          | 16/01/2023, 5:47:02 pm    | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=ru)           |
-| Twitch Studio Mac Faq             | 16/01/2023, 5:39:34 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ru)              |
-| Follower Emotes                   | 15/12/2022, 7:29:48 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=ru)                    |
-| Live Viewer Feedback              | 10/12/2022, 8:46:51 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=ru)               |
-| Twitch Affiliate Program Faq      | 10/12/2022, 0:12:35 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ru)       |
-| Mod View                          | 05/12/2022, 8:10:50 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=ru)                           |
-| Emote Slots                       | 05/12/2022, 8:10:43 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=ru)                        |
-| How To Manage Harassment In Chat  | 01/12/2022, 5:24:51 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ru)   |
-| Chat Commands                     | 19/11/2022, 2:22:38 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=ru)                      |
-| Moments                           | 11/11/2022, 11:59:34 pm   | [Link](https://help.twitch.tv/s/article/moments?language=ru)                            |
+| Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
+|----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Emote Analytics                                    | 22/05/2023, 9:33:37 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=ru)                                     |
+| How To Use Clips                                   | 12/05/2023, 11:59:05 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ru)                                    |
+| Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=ru)  |
+| Guide To Tags                                      | 11/05/2023, 8:59:05 pm    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=ru)                                       |
+| Guest Star Audio                                   | 10/05/2023, 9:20:09 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=ru)                                    |
+| Guest Star Mod View                                | 09/05/2023, 7:04:46 am    | [Link](https://help.twitch.tv/s/article/guest-star-mod-view?language=ru)                                 |
+| Guest Star Faqs                                    | 09/05/2023, 7:04:04 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=ru)                                     |
+| Guest Star Getting Started                         | 09/05/2023, 7:02:50 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ru)                          |
+| Subscriptions On Samsung Smart Tv                  | 04/05/2023, 7:20:42 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=ru)                   |
+| Languages On Twitch                                | 03/05/2023, 8:07:01 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ru)                                 |
+| Chat Highlights                                    | 12/04/2023, 4:05:40 am    | [Link](https://help.twitch.tv/s/article/chat-highlights?language=ru)                                     |
+| Disabling Prerolls                                 | 06/04/2023, 6:23:41 pm    | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=ru)                                  |
+| Ads Manager                                        | 06/04/2023, 6:23:38 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ru)                                         |
+| Picture By Picture Ads                             | 06/04/2023, 6:23:31 pm    | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=ru)                              |
+| How To File A User Report                          | 05/04/2023, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=ru)                           |
+| Monthly Recap                                      | 30/03/2023, 7:00:47 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=ru)                                       |
+| Guide To Using Twitch Inspector                    | 28/03/2023, 0:15:11 pm    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=ru)                     |
+| Guide To Closed Captions                           | 22/03/2023, 8:16:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=ru)                            |
+| Multi Month Subscriptions                          | 21/03/2023, 8:50:38 pm    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=ru)                           |
+| Subscriptions On Mobile                            | 21/03/2023, 8:50:38 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ru)                             |
+| Creator Goals                                      | 14/03/2023, 7:55:06 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=ru)                                       |
+| Two Factor Authentication                          | 13/03/2023, 7:14:33 pm    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ru)                           |
+| Guest Star Browser Source                          | 10/03/2023, 5:01:33 pm    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=ru)                           |
+| First Steps For New Affiliates                     | 23/02/2023, 1:36:03 am    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=ru)                      |
+| Delete Twitch Account                              | 13/02/2023, 8:20:05 pm    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=ru)                               |
+| Twitch Charity Viewers                             | 10/02/2023, 10:04:23 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=ru)                              |
+| Twitch Charity Faqs                                | 10/02/2023, 9:59:16 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=ru)                                 |
+| Twitch Charity                                     | 10/02/2023, 9:59:02 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=ru)                                      |
+| Stream Summary                                     | 10/02/2023, 5:16:22 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ru)                                      |
+| Mobile Irl Broadcasting                            | 24/01/2023, 5:59:40 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=ru)                             |
+| Joining Guest Star                                 | 20/01/2023, 5:25:33 pm    | [Link](https://help.twitch.tv/s/article/joining-guest-star?language=ru)                                  |
+| Guest Request To Join                              | 18/01/2023, 4:05:08 am    | [Link](https://help.twitch.tv/s/article/guest-request-to-join?language=ru)                               |
+| Guest Star                                         | 18/01/2023, 4:04:36 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=ru)                                          |
+| Twitch Mobile App Update                           | 16/01/2023, 5:47:02 pm    | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=ru)                            |
+| Twitch Studio Mac Faq                              | 16/01/2023, 5:39:34 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ru)                               |
+| Follower Emotes                                    | 15/12/2022, 7:29:48 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=ru)                                     |
+| Live Viewer Feedback                               | 10/12/2022, 8:46:51 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=ru)                                |
+| Twitch Affiliate Program Faq                       | 10/12/2022, 0:12:35 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ru)                        |
+| Mod View                                           | 05/12/2022, 8:10:50 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=ru)                                            |
+| Emote Slots                                        | 05/12/2022, 8:10:43 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=ru)                                         |
+| How To Manage Harassment In Chat                   | 01/12/2022, 5:24:51 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ru)                    |
+| Chat Commands                                      | 19/11/2022, 2:22:38 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=ru)                                       |
 
 
 
@@ -104,6 +106,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Moments                                                  | 11/11/2022, 11:59:34 pm   | [Link](https://help.twitch.tv/s/article/moments?language=ru)                                                   |
 | How To Use Extensions                                    | 04/11/2022, 8:55:36 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=ru)                                     |
 | Xbox Promotion 2022                                      | 02/11/2022, 3:54:03 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=ru)                                       |
 | Request To Join                                          | 31/10/2022, 11:25:13 pm   | [Link](https://help.twitch.tv/s/article/request-to-join?language=ru)                                           |
@@ -120,7 +123,6 @@
 | Supported Browsers                                       | 18/10/2022, 0:37:32 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=ru)                                        |
 | Twitch Content Sharing Guidelines                        | 13/10/2022, 7:53:07 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=ru)                         |
 | How To Use Raids                                         | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ru)                                          |
-| Subtember 2022 Faq                                       | 27/09/2022, 4:25:19 am    | [Link](https://help.twitch.tv/s/article/subtember-2022-faq?language=ru)                                        |
 | Charitable Donations                                     | 26/09/2022, 9:27:03 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=ru)                                      |
 | Affiliate Emote Prefix Change                            | 21/09/2022, 4:59:50 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=ru)                             |
 | Boost Train                                              | 20/09/2022, 2:34:36 am    | [Link](https://help.twitch.tv/s/article/boost-train?language=ru)                                               |
@@ -167,9 +169,7 @@
 | Twitch Music Fast Start Guide                                 | 13/01/2022, 9:51:30 am    | [Link](https://help.twitch.tv/s/article/twitch-music-fast-start-guide?language=ru)                                  |
 | Studio Obs Ndi                                                | 13/01/2022, 9:50:51 am    | [Link](https://help.twitch.tv/s/article/studio-obs-ndi?language=ru)                                                 |
 | Recommended Software For Broadcasting                         | 13/01/2022, 9:50:05 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ru)                          |
-| Twitch Account Settings                                       | 11/01/2022, 8:26:30 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ru)                                        |
 | List Of Prohibited Games                                      | 15/12/2021, 6:48:32 am    | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=ru)                                       |
-| Account Hacked                                                | 15/12/2021, 5:46:58 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=ru)                                                 |
 | Adding A Game And Box Art To The Directory                    | 10/12/2021, 6:25:54 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=ru)                     |
 | System Audio Capture Permission                               | 30/11/2021, 5:09:18 am    | [Link](https://help.twitch.tv/s/article/system-audio-capture-permission?language=ru)                                |
 | Modified Emotes                                               | 19/11/2021, 5:13:45 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=ru)                                                |
@@ -184,6 +184,9 @@
 | Rpg Megacheer                                                 | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=ru)                                                  |
 | Megacheer Food Fight                                          | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=ru)                                           |
 | Community Meetups Powered By Twitch                           | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=ru)                            |
+| Advanced Audio Mixer                                          | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=ru)                                           |
+| Studio Ui                                                     | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=ru)                                                      |
+| Scene Transitions                                             | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/scene-transitions?language=ru)                                              |
 
 
 
@@ -192,10 +195,6 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
-| Advanced Audio Mixer                              | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=ru)                               |
-| Studio Ui                                         | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=ru)                                          |
-| Scene Transitions                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/scene-transitions?language=ru)                                  |
-| Setting Up Alerts                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/setting-up-alerts?language=ru)                                  |
 | Overview Of Audio                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/overview-of-audio?language=ru)                                  |
 | Green Screen Setup                                | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/green-screen-setup?language=ru)                                 |
 | Stream Deck Setup                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=ru)                                  |
