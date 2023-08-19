@@ -6,6 +6,7 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Patch Notes 20                         | 19/08/2023, 6:03:30 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=en_US)                          |
 | Understanding Feedback Updates         | 18/08/2023, 7:26:01 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=en_US)          |
 | How To Provide Feedback                | 18/08/2023, 5:23:21 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=en_US)                 |
 | Tips On Feedback                       | 18/08/2023, 5:22:40 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=en_US)                        |
@@ -44,7 +45,6 @@
 | Partner Program Overview               | 16/06/2023, 2:25:30 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=en_US)                |
 | Music Options For Streamers            | 10/06/2023, 5:39:19 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=en_US)             |
 | Twitch Music Getting Started           | 31/05/2023, 2:32:54 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=en_US)            |
-| Local Sub Price Countries              | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)               |
 
 
 
