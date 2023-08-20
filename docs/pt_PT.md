@@ -19,6 +19,7 @@
 
 | Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                          |
 |--------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                   | 26/05/2023, 3:14:57 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                    |
 | Twitch Prime Partner Guide           | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=pt_PT)            |
 | Channel Analytics                    | 24/05/2023, 4:01:50 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_PT)                     |
 | How To File A User Report            | 05/04/2023, 6:11:02 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=pt_PT)             |
@@ -36,6 +37,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Chat Commands                                            | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_PT)                                             |
 | Gift Subscriptions                                       | 18/11/2022, 6:01:11 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                                        |
 | Joining The Affiliate Program                            | 21/10/2022, 7:26:13 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)                             |
 | Earning Revenue From Bits In Extensions Beta             | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=pt_PT)              |

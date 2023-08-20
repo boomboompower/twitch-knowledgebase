@@ -25,6 +25,7 @@
 
 | Name                        | Last Updated (dd/mm/yyyy) | Link                                                                                 |
 |-----------------------------|---------------------------|--------------------------------------------------------------------------------------|
+| Chat Commands               | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_CN)                |
 | A Tour Of Your Channel Page | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=zh_CN)  |
 
 

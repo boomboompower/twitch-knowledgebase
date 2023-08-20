@@ -51,6 +51,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                                 | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=tr)                                  |
 | Local Recording                                    | 25/05/2023, 7:51:49 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=tr)                                     |
 | Channel Analytics                                  | 25/05/2023, 7:51:43 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=tr)                                   |
 | Twitch Stream Key Faq                              | 25/05/2023, 7:51:40 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=tr)                               |
@@ -97,7 +98,6 @@
 | Mod View                                           | 05/12/2022, 9:25:34 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=tr)                                            |
 | Emote Slots                                        | 05/12/2022, 9:25:34 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=tr)                                         |
 | How To Manage Harassment In Chat                   | 01/12/2022, 5:24:51 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=tr)                    |
-| Chat Commands                                      | 18/11/2022, 1:36:57 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=tr)                                       |
 
 
 
@@ -106,6 +106,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Chat Commands                                            | 18/11/2022, 1:36:57 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=tr)                                             |
 | Moments                                                  | 10/11/2022, 8:45:10 pm    | [Link](https://help.twitch.tv/s/article/moments?language=tr)                                                   |
 | How To Use Extensions                                    | 04/11/2022, 8:57:09 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=tr)                                     |
 | Xbox Promotion 2022                                      | 02/11/2022, 3:54:04 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=tr)                                       |
@@ -193,7 +194,6 @@
 | Stream Deck Setup                                             | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=tr)                                              |
 | Capturing Sources                                             | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/capturing-sources?language=tr)                                              |
 | Twitch Studio Updates                                         | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-updates?language=tr)                                          |
-| Twitch Studio Creator Goals                                   | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-creator-goals?language=tr)                                    |
 
 
 
@@ -248,10 +248,9 @@
 ## Article-6
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-6.xml) this sitemap
 
-| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                          |
-|-------------------------|---------------------------|-------------------------------------------------------------------------------|
-| How To Provide Feedback | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=tr)  |
-| Markdown Basics         | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=tr)          |
+| Name            | Last Updated (dd/mm/yyyy) | Link                                                                  |
+|-----------------|---------------------------|-----------------------------------------------------------------------|
+| Markdown Basics | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=tr)  |
 
 
 

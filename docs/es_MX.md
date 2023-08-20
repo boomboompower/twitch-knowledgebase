@@ -56,6 +56,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                                 | 26/05/2023, 3:14:57 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es_MX)                                  |
 | Emote Analytics                                    | 19/05/2023, 10:00:31 pm   | [Link](https://help.twitch.tv/s/article/emote-analytics?language=es_MX)                                     |
 | How To Use Clips                                   | 13/05/2023, 2:03:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                                    |
 | Guide To Tags                                      | 12/05/2023, 11:23:34 pm   | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=es_MX)                                       |
@@ -97,7 +98,6 @@
 | Mod View                                           | 05/12/2022, 10:44:07 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=es_MX)                                            |
 | Emote Slots                                        | 05/12/2022, 10:44:03 pm   | [Link](https://help.twitch.tv/s/article/emote-slots?language=es_MX)                                         |
 | How To Manage Harassment In Chat                   | 01/12/2022, 5:24:50 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es_MX)                    |
-| Chat Commands                                      | 18/11/2022, 1:36:57 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=es_MX)                                       |
 
 
 
@@ -106,6 +106,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Chat Commands                                            | 18/11/2022, 1:36:57 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=es_MX)                                             |
 | Moments                                                  | 16/11/2022, 10:54:36 pm   | [Link](https://help.twitch.tv/s/article/moments?language=es_MX)                                                   |
 | How To Use Extensions                                    | 04/11/2022, 9:00:21 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=es_MX)                                     |
 | Xbox Promotion 2022                                      | 02/11/2022, 3:54:03 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=es_MX)                                       |
@@ -143,7 +144,6 @@
 | Artist Badge Attribution                                 | 20/05/2022, 3:31:34 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=es_MX)                                  |
 | Creating A Strong Password                               | 18/05/2022, 0:39:26 am    | [Link](https://help.twitch.tv/s/article/creating-a-strong-password?language=es_MX)                                |
 | Understanding Viewer Count Vs Users In Chat              | 29/04/2022, 5:58:35 pm    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=es_MX)               |
-| How To Use The Friends Feature                           | 29/04/2022, 5:56:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-the-friends-feature?language=es_MX)                            |
 
 
 
@@ -252,7 +252,6 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)              |
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es_MX)  |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)  |
-| How To Provide Feedback                | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=es_MX)                 |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                         |
 
 

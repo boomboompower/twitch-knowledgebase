@@ -56,6 +56,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                                 | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ko)                                  |
 | Emote Analytics                                    | 22/05/2023, 5:07:37 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=ko)                                     |
 | How To Use Clips                                   | 15/05/2023, 1:25:06 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ko)                                    |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=ko)  |
@@ -143,10 +144,6 @@
 | Artist Badge Attribution                                 | 20/05/2022, 3:31:55 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=ko)                                  |
 | Creating A Strong Password                               | 18/05/2022, 0:39:26 am    | [Link](https://help.twitch.tv/s/article/creating-a-strong-password?language=ko)                                |
 | Understanding Viewer Count Vs Users In Chat              | 05/05/2022, 7:40:07 pm    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=ko)               |
-| How To Use The Friends Feature                           | 29/04/2022, 5:56:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-the-friends-feature?language=ko)                            |
-| Children On Twitch                                       | 28/04/2022, 8:29:03 pm    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=ko)                                        |
-| Twitch On Lg Tv                                          | 28/04/2022, 8:27:33 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=ko)                                           |
-| Twitch On Apple Tv                                       | 28/04/2022, 8:23:04 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-apple-tv?language=ko)                                        |
 
 
 
@@ -155,6 +152,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Children On Twitch                                            | 28/04/2022, 8:29:03 pm    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=ko)                                             |
+| Twitch On Lg Tv                                               | 28/04/2022, 8:27:33 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=ko)                                                |
+| Twitch On Apple Tv                                            | 28/04/2022, 8:23:04 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-apple-tv?language=ko)                                             |
 | Channel Points Faq                                            | 21/04/2022, 5:02:27 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ko)                                             |
 | Mission Based Drops                                           | 18/04/2022, 11:55:35 pm   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ko)                                            |
 | How To Get And Use The Ps App                                 | 14/04/2022, 8:01:32 am    | [Link](https://help.twitch.tv/s/article/how-to-get-and-use-the-ps-app?language=ko)                                  |
@@ -251,7 +251,6 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ko)              |
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=ko)  |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ko)  |
-| How To Provide Feedback                | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=ko)                 |
 | Markdown Basics                        | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ko)                         |
 
 

@@ -56,6 +56,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                                 | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=it)                                  |
 | Emote Analytics                                    | 22/05/2023, 5:56:33 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=it)                                     |
 | How To Use Clips                                   | 12/05/2023, 9:18:34 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                    |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:15 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=it)  |
@@ -97,7 +98,6 @@
 | Mod View                                           | 06/12/2022, 1:27:07 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=it)                                            |
 | Emote Slots                                        | 06/12/2022, 1:27:03 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=it)                                         |
 | How To Manage Harassment In Chat                   | 01/12/2022, 5:24:50 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=it)                    |
-| Chat Commands                                      | 18/11/2022, 8:49:36 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=it)                                       |
 
 
 
@@ -106,6 +106,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Chat Commands                                            | 18/11/2022, 8:49:36 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=it)                                             |
 | Moments                                                  | 11/11/2022, 9:16:06 pm    | [Link](https://help.twitch.tv/s/article/moments?language=it)                                                   |
 | How To Use Extensions                                    | 05/11/2022, 1:14:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=it)                                     |
 | Xbox Promotion 2022                                      | 02/11/2022, 3:54:03 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=it)                                       |
@@ -143,7 +144,6 @@
 | Artist Badge Attribution                                 | 20/05/2022, 3:31:49 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=it)                                  |
 | Creating A Strong Password                               | 18/05/2022, 0:39:26 am    | [Link](https://help.twitch.tv/s/article/creating-a-strong-password?language=it)                                |
 | Understanding Viewer Count Vs Users In Chat              | 05/05/2022, 5:28:05 pm    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=it)               |
-| How To Use The Friends Feature                           | 29/04/2022, 5:56:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-the-friends-feature?language=it)                            |
 
 
 
@@ -242,18 +242,17 @@
 | Where Are My Notifications                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=it)                         |
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=it)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=it)                         |
-| Username Rename And Recycling Policies            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=it)             |
-| How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=it)             |
 
 
 
 ## Article-6
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-6.xml) this sitemap
 
-| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                          |
-|-------------------------|---------------------------|-------------------------------------------------------------------------------|
-| How To Provide Feedback | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=it)  |
-| Markdown Basics         | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=it)          |
+| Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Username Rename And Recycling Policies | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=it)  |
+| How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=it)  |
+| Markdown Basics                        | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=it)                         |
 
 
 

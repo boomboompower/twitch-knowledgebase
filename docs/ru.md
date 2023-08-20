@@ -56,6 +56,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                                 | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ru)                                  |
 | Emote Analytics                                    | 22/05/2023, 9:33:37 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=ru)                                     |
 | How To Use Clips                                   | 12/05/2023, 11:59:05 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ru)                                    |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=ru)  |
@@ -143,10 +144,6 @@
 | Artist Badge Attribution                                 | 20/05/2022, 3:31:52 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=ru)                                  |
 | Creating A Strong Password                               | 18/05/2022, 0:39:26 am    | [Link](https://help.twitch.tv/s/article/creating-a-strong-password?language=ru)                                |
 | Understanding Viewer Count Vs Users In Chat              | 05/05/2022, 11:19:03 pm   | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=ru)               |
-| How To Use The Friends Feature                           | 29/04/2022, 5:56:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-the-friends-feature?language=ru)                            |
-| Twitch On Apple Tv                                       | 28/04/2022, 10:38:39 pm   | [Link](https://help.twitch.tv/s/article/twitch-on-apple-tv?language=ru)                                        |
-| Twitch On Lg Tv                                          | 28/04/2022, 10:38:36 pm   | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=ru)                                           |
-| Children On Twitch                                       | 28/04/2022, 10:38:33 pm   | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=ru)                                        |
 
 
 
@@ -155,6 +152,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch On Apple Tv                                            | 28/04/2022, 10:38:39 pm   | [Link](https://help.twitch.tv/s/article/twitch-on-apple-tv?language=ru)                                             |
+| Twitch On Lg Tv                                               | 28/04/2022, 10:38:36 pm   | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=ru)                                                |
+| Children On Twitch                                            | 28/04/2022, 10:38:33 pm   | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=ru)                                             |
 | Channel Points Faq                                            | 21/04/2022, 5:02:27 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ru)                                             |
 | Mission Based Drops                                           | 19/04/2022, 9:34:13 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ru)                                            |
 | How To Get And Use The Ps App                                 | 14/04/2022, 8:03:09 pm    | [Link](https://help.twitch.tv/s/article/how-to-get-and-use-the-ps-app?language=ru)                                  |
@@ -184,9 +184,6 @@
 | Rpg Megacheer                                                 | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=ru)                                                  |
 | Megacheer Food Fight                                          | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=ru)                                           |
 | Community Meetups Powered By Twitch                           | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=ru)                            |
-| Advanced Audio Mixer                                          | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=ru)                                           |
-| Studio Ui                                                     | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=ru)                                                      |
-| Scene Transitions                                             | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/scene-transitions?language=ru)                                              |
 
 
 
@@ -195,6 +192,10 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Advanced Audio Mixer                              | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=ru)                               |
+| Studio Ui                                         | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=ru)                                          |
+| Scene Transitions                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/scene-transitions?language=ru)                                  |
+| Setting Up Alerts                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/setting-up-alerts?language=ru)                                  |
 | Overview Of Audio                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/overview-of-audio?language=ru)                                  |
 | Green Screen Setup                                | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/green-screen-setup?language=ru)                                 |
 | Stream Deck Setup                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=ru)                                  |
@@ -250,7 +251,6 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ru)              |
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=ru)  |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ru)  |
-| How To Provide Feedback                | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=ru)                 |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ru)                         |
 
 

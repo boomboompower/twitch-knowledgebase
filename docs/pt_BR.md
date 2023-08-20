@@ -56,6 +56,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                                 | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_BR)                                  |
 | Emote Analytics                                    | 20/05/2023, 5:06:10 am    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=pt_BR)                                     |
 | How To Use Clips                                   | 13/05/2023, 0:30:07 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                    |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=pt_BR)  |
@@ -98,7 +99,6 @@
 | Emote Slots                                        | 06/12/2022, 0:29:08 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=pt_BR)                                         |
 | Mod View                                           | 06/12/2022, 0:29:03 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=pt_BR)                                            |
 | How To Manage Harassment In Chat                   | 01/12/2022, 5:24:51 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_BR)                    |
-| Chat Commands                                      | 18/11/2022, 1:36:57 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_BR)                                       |
 
 
 
@@ -107,6 +107,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Chat Commands                                            | 18/11/2022, 1:36:57 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_BR)                                             |
 | Moments                                                  | 11/11/2022, 4:00:34 am    | [Link](https://help.twitch.tv/s/article/moments?language=pt_BR)                                                   |
 | How To Use Extensions                                    | 04/11/2022, 9:01:37 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=pt_BR)                                     |
 | Xbox Promotion 2022                                      | 02/11/2022, 3:54:03 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=pt_BR)                                       |
@@ -143,7 +144,6 @@
 | Disconnect Protection                                    | 30/06/2022, 9:18:36 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=pt_BR)                                     |
 | Creating A Strong Password                               | 18/05/2022, 0:39:26 am    | [Link](https://help.twitch.tv/s/article/creating-a-strong-password?language=pt_BR)                                |
 | Understanding Viewer Count Vs Users In Chat              | 03/05/2022, 9:54:35 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=pt_BR)               |
-| How To Use The Friends Feature                           | 29/04/2022, 5:56:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-the-friends-feature?language=pt_BR)                            |
 
 
 
@@ -184,10 +184,6 @@
 | Rpg Megacheer                                                 | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=pt_BR)                                                  |
 | Megacheer Food Fight                                          | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=pt_BR)                                           |
 | Community Meetups Powered By Twitch                           | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=pt_BR)                            |
-| Advanced Audio Mixer                                          | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=pt_BR)                                           |
-| Studio Ui                                                     | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=pt_BR)                                                      |
-| Scene Transitions                                             | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/scene-transitions?language=pt_BR)                                              |
-| Setting Up Alerts                                             | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/setting-up-alerts?language=pt_BR)                                              |
 
 
 
@@ -196,6 +192,10 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                       |
 |---------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------|
+| Advanced Audio Mixer                              | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=pt_BR)                               |
+| Studio Ui                                         | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=pt_BR)                                          |
+| Scene Transitions                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/scene-transitions?language=pt_BR)                                  |
+| Setting Up Alerts                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/setting-up-alerts?language=pt_BR)                                  |
 | Overview Of Audio                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/overview-of-audio?language=pt_BR)                                  |
 | Green Screen Setup                                | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/green-screen-setup?language=pt_BR)                                 |
 | Stream Deck Setup                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=pt_BR)                                  |
@@ -252,7 +252,6 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_BR)              |
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=pt_BR)  |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=pt_BR)  |
-| How To Provide Feedback                | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=pt_BR)                 |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pt_BR)                         |
 
 

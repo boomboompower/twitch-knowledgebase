@@ -56,6 +56,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                                 | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pl)                                  |
 | Emote Analytics                                    | 23/05/2023, 6:24:07 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=pl)                                     |
 | How To Use Clips                                   | 15/05/2023, 8:10:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pl)                                    |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=pl)  |
@@ -97,7 +98,6 @@
 | Emote Slots                                        | 05/12/2022, 7:59:13 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=pl)                                         |
 | Mod View                                           | 05/12/2022, 7:59:07 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=pl)                                            |
 | How To Manage Harassment In Chat                   | 01/12/2022, 5:24:51 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pl)                    |
-| Chat Commands                                      | 18/11/2022, 7:29:36 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pl)                                       |
 
 
 
@@ -106,6 +106,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Chat Commands                                            | 18/11/2022, 7:29:36 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pl)                                             |
 | Moments                                                  | 10/11/2022, 9:14:05 pm    | [Link](https://help.twitch.tv/s/article/moments?language=pl)                                                   |
 | How To Use Extensions                                    | 04/11/2022, 8:57:34 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=pl)                                     |
 | Xbox Promotion 2022                                      | 02/11/2022, 3:54:03 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=pl)                                       |
@@ -143,10 +144,6 @@
 | Artist Badge Attribution                                 | 20/05/2022, 3:31:45 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=pl)                                  |
 | Creating A Strong Password                               | 18/05/2022, 0:39:26 am    | [Link](https://help.twitch.tv/s/article/creating-a-strong-password?language=pl)                                |
 | Understanding Viewer Count Vs Users In Chat              | 05/05/2022, 11:11:07 pm   | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=pl)               |
-| How To Use The Friends Feature                           | 29/04/2022, 5:56:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-the-friends-feature?language=pl)                            |
-| Twitch On Apple Tv                                       | 28/04/2022, 10:42:33 pm   | [Link](https://help.twitch.tv/s/article/twitch-on-apple-tv?language=pl)                                        |
-| Twitch On Lg Tv                                          | 28/04/2022, 10:41:18 pm   | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=pl)                                           |
-| Children On Twitch                                       | 28/04/2022, 10:41:15 pm   | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=pl)                                        |
 
 
 
@@ -155,6 +152,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch On Apple Tv                                            | 28/04/2022, 10:42:33 pm   | [Link](https://help.twitch.tv/s/article/twitch-on-apple-tv?language=pl)                                             |
+| Twitch On Lg Tv                                               | 28/04/2022, 10:41:18 pm   | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=pl)                                                |
+| Children On Twitch                                            | 28/04/2022, 10:41:15 pm   | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=pl)                                             |
 | Channel Points Faq                                            | 21/04/2022, 5:02:27 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=pl)                                             |
 | Mission Based Drops                                           | 19/04/2022, 9:03:35 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pl)                                            |
 | Official Twitch Channel Chat Rules                            | 14/04/2022, 11:45:35 pm   | [Link](https://help.twitch.tv/s/article/official-twitch-channel-chat-rules?language=pl)                             |
@@ -192,7 +192,6 @@
 | Stream Deck Setup                                             | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=pl)                                              |
 | Capturing Sources                                             | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/capturing-sources?language=pl)                                              |
 | Twitch Studio Updates                                         | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-updates?language=pl)                                          |
-| Twitch Studio Creator Goals                                   | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-creator-goals?language=pl)                                    |
 
 
 
@@ -239,17 +238,17 @@
 | Where Are My Notifications                       | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=pl)                        |
 | Streamer Notifications Preferences               | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=pl)                |
 | Smart Notification Setting                       | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pl)                        |
-| Username Rename And Recycling Policies           | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=pl)            |
 
 
 
 ## Article-6
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-6.xml) this sitemap
 
-| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                          |
-|-------------------------|---------------------------|-------------------------------------------------------------------------------|
-| How To Provide Feedback | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=pl)  |
-| Markdown Basics         | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pl)          |
+| Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Username Rename And Recycling Policies | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=pl)  |
+| How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=pl)  |
+| Markdown Basics                        | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pl)                         |
 
 
 

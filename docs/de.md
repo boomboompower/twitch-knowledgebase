@@ -57,6 +57,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                                 | 26/05/2023, 3:14:57 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=de)                                  |
 | Emote Analytics                                    | 22/05/2023, 7:34:33 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=de)                                     |
 | How To Use Clips                                   | 13/05/2023, 0:50:35 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                    |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:15 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=de)  |
@@ -98,7 +99,6 @@
 | Mod View                                           | 06/12/2022, 2:30:12 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                            |
 | Emote Slots                                        | 06/12/2022, 2:30:09 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=de)                                         |
 | How To Manage Harassment In Chat                   | 01/12/2022, 5:24:50 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=de)                    |
-| Chat Commands                                      | 18/11/2022, 1:36:57 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=de)                                       |
 
 
 
@@ -107,6 +107,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Chat Commands                                            | 18/11/2022, 1:36:57 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=de)                                             |
 | Managing Your Phone Number                               | 14/11/2022, 11:59:04 pm   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=de)                                |
 | Moments                                                  | 11/11/2022, 11:14:34 pm   | [Link](https://help.twitch.tv/s/article/moments?language=de)                                                   |
 | How To Use Extensions                                    | 04/11/2022, 9:04:36 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=de)                                     |
@@ -145,9 +146,6 @@
 | Creating A Strong Password                               | 18/05/2022, 0:39:26 am    | [Link](https://help.twitch.tv/s/article/creating-a-strong-password?language=de)                                |
 | Understanding Viewer Count Vs Users In Chat              | 05/05/2022, 8:14:33 pm    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=de)               |
 | How To Use The Friends Feature                           | 29/04/2022, 5:56:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-the-friends-feature?language=de)                            |
-| Twitch On Apple Tv                                       | 28/04/2022, 8:44:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-apple-tv?language=de)                                        |
-| Twitch On Lg Tv                                          | 28/04/2022, 8:40:24 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=de)                                           |
-| Children On Twitch                                       | 28/04/2022, 8:32:02 pm    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=de)                                        |
 
 
 
@@ -156,6 +154,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch On Apple Tv                                            | 28/04/2022, 8:44:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-apple-tv?language=de)                                             |
+| Twitch On Lg Tv                                               | 28/04/2022, 8:40:24 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=de)                                                |
+| Children On Twitch                                            | 28/04/2022, 8:32:02 pm    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=de)                                             |
 | Channel Points Faq                                            | 21/04/2022, 5:02:27 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=de)                                             |
 | Mission Based Drops                                           | 19/04/2022, 10:47:16 pm   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=de)                                            |
 | Official Twitch Channel Chat Rules                            | 14/04/2022, 9:48:03 pm    | [Link](https://help.twitch.tv/s/article/official-twitch-channel-chat-rules?language=de)                             |
@@ -185,10 +186,6 @@
 | Rpg Megacheer                                                 | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=de)                                                  |
 | Megacheer Food Fight                                          | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=de)                                           |
 | Community Meetups Powered By Twitch                           | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=de)                            |
-| Advanced Audio Mixer                                          | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=de)                                           |
-| Studio Ui                                                     | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=de)                                                      |
-| Scene Transitions                                             | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/scene-transitions?language=de)                                              |
-| Setting Up Alerts                                             | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/setting-up-alerts?language=de)                                              |
 
 
 
@@ -197,6 +194,10 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Advanced Audio Mixer                              | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=de)                               |
+| Studio Ui                                         | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=de)                                          |
+| Scene Transitions                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/scene-transitions?language=de)                                  |
+| Setting Up Alerts                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/setting-up-alerts?language=de)                                  |
 | Overview Of Audio                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/overview-of-audio?language=de)                                  |
 | Green Screen Setup                                | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/green-screen-setup?language=de)                                 |
 | Stream Deck Setup                                 | 22/10/2021, 8:54:19 am    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=de)                                  |
@@ -254,7 +255,6 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)              |
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=de)  |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)  |
-| How To Provide Feedback                | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=de)                 |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                         |
 
 

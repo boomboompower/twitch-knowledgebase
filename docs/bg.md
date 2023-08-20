@@ -10,8 +10,8 @@
 
 
 
-## Article-2
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
+## Article-3
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
 | Name          | Last Updated (dd/mm/yyyy) | Link                                                                |
 |---------------|---------------------------|---------------------------------------------------------------------|
