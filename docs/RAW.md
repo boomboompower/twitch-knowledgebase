@@ -7,11 +7,11 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| account-hacked                                                | 22/08/2023, 5:44:05 pm  | 17/08/2023, 11:15:45 am | [Details](#account-hacked)                                                 |
 | how-to-provide-feedback                                       | 18/08/2023, 5:23:21 am  | 18/08/2023, 5:23:02 am  | [Details](#how-to-provide-feedback)                                        |
 | tips-on-feedback                                              | 18/08/2023, 5:22:40 am  | 18/08/2023, 2:46:40 am  | [Details](#tips-on-feedback)                                               |
 | navigating-the-feedback-forum                                 | 18/08/2023, 5:21:39 am  | 18/08/2023, 5:21:16 am  | [Details](#navigating-the-feedback-forum)                                  |
 | twitch-account-settings                                       | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am | [Details](#twitch-account-settings)                                        |
-| account-hacked                                                | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am | [Details](#account-hacked)                                                 |
 | brand-surveys                                                 | 14/08/2023, 9:17:11 pm  | 14/08/2023, 9:17:04 pm  | [Details](#brand-surveys)                                                  |
 | experiments                                                   | 12/08/2023, 3:02:50 am  | 08/08/2023, 8:31:01 am  | [Details](#experiments)                                                    |
 | hype-chat-by-twitch                                           | 11/08/2023, 8:41:07 pm  | 15/06/2023, 9:26:44 am  | [Details](#hype-chat-by-twitch)                                            |
@@ -384,6 +384,7 @@ https://help.twitch.tv/s/article/account-hacked
 
 | Title                                                           | Last Modified           | Created                  |
 |-----------------------------------------------------------------|-------------------------|--------------------------|
+| Başka biri hesabıma izinsiz girmişse ne yapabilirim?            | 22/08/2023, 5:44:05 pm  | 17/08/2023, 11:15:45 am  |
 | Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
 | Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
 | Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
@@ -398,7 +399,6 @@ https://help.twitch.tv/s/article/account-hacked
 | Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
 | Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
 | Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
-| Başka biri hesabıma izinsiz girmişse ne yapabilirim?            | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
 | Co mogę zrobić, jeśli ktoś inny uzyskał dostęp do mojego konta? | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
 | Cosa posso fare se qualcuno ha avuto accesso al mio account?    | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
 | O que posso fazer se outra pessoa acessou minha conta?          | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
