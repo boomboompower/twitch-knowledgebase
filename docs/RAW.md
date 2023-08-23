@@ -7,10 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| tips-on-feedback                                              | 23/08/2023, 4:54:32 am  | 23/08/2023, 4:54:15 am  | [Details](#tips-on-feedback)                                               |
+| navigating-the-feedback-forum                                 | 23/08/2023, 4:23:38 am  | 23/08/2023, 4:23:23 am  | [Details](#navigating-the-feedback-forum)                                  |
 | account-hacked                                                | 22/08/2023, 5:44:05 pm  | 17/08/2023, 11:15:45 am | [Details](#account-hacked)                                                 |
 | how-to-provide-feedback                                       | 18/08/2023, 5:23:21 am  | 18/08/2023, 5:23:02 am  | [Details](#how-to-provide-feedback)                                        |
-| tips-on-feedback                                              | 18/08/2023, 5:22:40 am  | 18/08/2023, 2:46:40 am  | [Details](#tips-on-feedback)                                               |
-| navigating-the-feedback-forum                                 | 18/08/2023, 5:21:39 am  | 18/08/2023, 5:21:16 am  | [Details](#navigating-the-feedback-forum)                                  |
 | twitch-account-settings                                       | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am | [Details](#twitch-account-settings)                                        |
 | brand-surveys                                                 | 14/08/2023, 9:17:11 pm  | 14/08/2023, 9:17:04 pm  | [Details](#brand-surveys)                                                  |
 | experiments                                                   | 12/08/2023, 3:02:50 am  | 08/08/2023, 8:31:01 am  | [Details](#experiments)                                                    |
@@ -3248,7 +3248,7 @@ https://help.twitch.tv/s/article/navigating-the-feedback-forum
 
 | Title                         | Last Modified          | Created                 |
 |-------------------------------|------------------------|-------------------------|
-| Navigating the Feedback Forum | 18/08/2023, 5:21:39 am | 18/08/2023, 5:21:16 am  |
+| Navigating the Feedback Forum | 23/08/2023, 4:23:38 am | 23/08/2023, 4:23:23 am  |
 
 
 ### nba-g-league-co-streaming-guide
@@ -4076,7 +4076,7 @@ https://help.twitch.tv/s/article/tips-on-feedback
 
 | Title                                  | Last Modified          | Created                 |
 |----------------------------------------|------------------------|-------------------------|
-| Giving Feedback in the Feedback Forums | 18/08/2023, 5:22:40 am | 18/08/2023, 2:46:40 am  |
+| Giving Feedback in the Feedback Forums | 23/08/2023, 4:54:32 am | 23/08/2023, 4:54:15 am  |
 
 
 ### transcoding-options-faq
