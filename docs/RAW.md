@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| subtember-2023-faq                                            | 23/08/2023, 7:36:35 pm  | 23/08/2023, 7:36:34 pm  | [Details](#subtember-2023-faq)                                             |
 | tips-on-feedback                                              | 23/08/2023, 4:54:32 am  | 23/08/2023, 4:54:15 am  | [Details](#tips-on-feedback)                                               |
 | navigating-the-feedback-forum                                 | 23/08/2023, 4:23:38 am  | 23/08/2023, 4:23:23 am  | [Details](#navigating-the-feedback-forum)                                  |
 | account-hacked                                                | 22/08/2023, 5:44:05 pm  | 17/08/2023, 11:15:45 am | [Details](#account-hacked)                                                 |
@@ -3381,11 +3382,9 @@ https://help.twitch.tv/s/article/partner-cheermote-guide
 | Leitfaden für Partner-Cheermotes           | 10/03/2022, 11:21:04 pm | 08/03/2022, 7:47:12 am  |
 | Guía de Cheermotes de socios               | 10/03/2022, 11:11:34 pm | 08/03/2022, 7:47:12 am  |
 | Guida agli emotifon per i partner          | 10/03/2022, 9:01:34 pm  | 08/03/2022, 7:47:12 am  |
-| Partner Cheermote Rehberi                  | 10/03/2022, 6:15:34 pm  | 08/03/2022, 7:47:12 am  |
 | Guide des Cheermotes pour les partenaires  | 10/03/2022, 0:27:34 pm  | 08/03/2022, 7:47:12 am  |
 | Guia de Cheermote de parceiro              | 10/03/2022, 10:00:35 am | 08/03/2022, 7:47:12 am  |
 | Guía sobre Cheermotes para Partners        | 09/03/2022, 6:56:34 pm  | 08/03/2022, 7:47:12 am  |
-| Partner Cheermote Guide                    | 08/03/2022, 7:46:07 am  | 08/03/2022, 7:14:01 am  |
 
 
 ### partner-exclusivity-faq
@@ -3396,7 +3395,6 @@ https://help.twitch.tv/s/article/partner-exclusivity-faq
 | Często zadawane pytania na temat wyłączności partnerów | 26/08/2022, 10:06:06 pm | 26/08/2022, 10:06:02 pm  |
 | Domande frequenti sull'esclusività dei partner         | 26/08/2022, 7:46:33 pm  | 24/08/2022, 2:48:48 am   |
 | Häufige Fragen zur Partner-Exklusivität                | 25/08/2022, 11:40:05 pm | 24/08/2022, 2:48:48 am   |
-| Partner Ayrıcalıkları hakkında SSS                     | 24/08/2022, 10:34:05 pm | 24/08/2022, 2:48:48 am   |
 
 
 ### partner-help-and-contact-information
@@ -4008,6 +4006,16 @@ https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv
 | Abonnements sur les Smart TV de Samsung | 04/05/2023, 7:20:41 am | 25/04/2023, 8:41:34 am  |
 | Inscrições em Smart TVs Samsung         | 04/05/2023, 7:20:41 am | 25/04/2023, 8:41:34 am  |
 | Las suscripciones en smart TV Samsung   | 04/05/2023, 7:20:41 am | 25/04/2023, 8:41:34 am  |
+
+
+### subtember-2023-faq
+https://help.twitch.tv/s/article/subtember-2023-faq
+
+| Title                    | Last Modified           | Created                  |
+|--------------------------|-------------------------|--------------------------|
+| FAQ SUBtember 2023       | 23/08/2023, 7:36:35 pm  | 23/08/2023, 7:36:34 pm   |
+| 2023 年度的 SUBtember 常見問答集 | 23/08/2023, 11:16:09 am | 16/08/2023, 10:04:02 am  |
+| FAQ SUBtember2023        | 23/08/2023, 11:16:09 am | 16/08/2023, 10:04:02 am  |
 
 
 ### supported-browsers

@@ -6,11 +6,11 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Understanding Feedback Updates         | 23/08/2023, 5:13:37 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=en_US)          |
+| Tips On Feedback                       | 23/08/2023, 4:54:32 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=en_US)                        |
+| Navigating The Feedback Forum          | 23/08/2023, 4:23:38 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=en_US)           |
 | Patch Notes 20                         | 19/08/2023, 6:03:30 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=en_US)                          |
-| Understanding Feedback Updates         | 18/08/2023, 7:26:01 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=en_US)          |
 | How To Provide Feedback                | 18/08/2023, 5:23:21 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=en_US)                 |
-| Tips On Feedback                       | 18/08/2023, 5:22:40 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=en_US)                        |
-| Navigating The Feedback Forum          | 18/08/2023, 5:21:39 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=en_US)           |
 | Twitch Account Settings                | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=en_US)                 |
 | Account Hacked                         | 17/08/2023, 11:14:52 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=en_US)                          |
 | Experiments                            | 12/08/2023, 3:00:18 am    | [Link](https://help.twitch.tv/s/article/experiments?language=en_US)                             |

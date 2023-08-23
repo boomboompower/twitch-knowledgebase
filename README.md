@@ -11,11 +11,11 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 |-------------------------------|---------------------------|----------------|------------------------|
 | Bulgarian                     | 17/08/2023, 11:14:51 am   | 3 article(s)   | [View](docs/bg.md)     |
 | Chinese (Simplified, China)   | 17/08/2023, 11:14:51 am   | 8 article(s)   | [View](docs/zh_CN.md)  |
-| Chinese (Traditional, Taiwan) | 19/08/2023, 6:03:31 am    | 205 article(s) | [View](docs/zh_TW.md)  |
+| Chinese (Traditional, Taiwan) | 22/08/2023, 7:32:38 pm    | 205 article(s) | [View](docs/zh_TW.md)  |
 | Czech                         | 17/08/2023, 11:14:51 am   | 23 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 17/08/2023, 11:14:51 am   | 30 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 17/08/2023, 11:14:51 am   | 38 article(s)  | [View](docs/nl_NL.md)  |
-| English (United States)       | 19/08/2023, 6:03:30 am    | 226 article(s) | [View](docs/en_US.md)  |
+| English (United States)       | 23/08/2023, 5:13:37 am    | 226 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 17/08/2023, 11:14:51 am   | 28 article(s)  | [View](docs/fi.md)     |
 | French                        | 19/08/2023, 6:03:30 am    | 208 article(s) | [View](docs/fr.md)     |
 | German                        | 19/08/2023, 6:03:29 am    | 210 article(s) | [View](docs/de.md)     |
@@ -35,7 +35,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Spanish (Mexico)              | 19/08/2023, 6:03:30 am    | 207 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 17/08/2023, 11:14:51 am   | 27 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 19/08/2023, 6:03:31 am    | 199 article(s) | [View](docs/th.md)     |
-| Turkish                       | 19/08/2023, 6:03:31 am    | 205 article(s) | [View](docs/tr.md)     |
+| Turkish                       | 22/08/2023, 5:44:09 pm    | 205 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 17/08/2023, 11:14:51 am   | 7 article(s)   | [View](docs/vi.md)     |
 
 ### Dumping
