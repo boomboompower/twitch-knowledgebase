@@ -7,7 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| subtember-2023-faq                                            | 23/08/2023, 7:36:35 pm  | 23/08/2023, 7:36:34 pm  | [Details](#subtember-2023-faq)                                             |
+| featured-clips                                                | 24/08/2023, 9:13:07 am  | 24/08/2023, 9:13:05 am  | [Details](#featured-clips)                                                 |
+| subtember-2023-faq                                            | 23/08/2023, 11:48:32 pm | 23/08/2023, 11:48:31 pm | [Details](#subtember-2023-faq)                                             |
 | tips-on-feedback                                              | 23/08/2023, 4:54:32 am  | 23/08/2023, 4:54:15 am  | [Details](#tips-on-feedback)                                               |
 | navigating-the-feedback-forum                                 | 23/08/2023, 4:23:38 am  | 23/08/2023, 4:23:23 am  | [Details](#navigating-the-feedback-forum)                                  |
 | account-hacked                                                | 22/08/2023, 5:44:05 pm  | 17/08/2023, 11:15:45 am | [Details](#account-hacked)                                                 |
@@ -26,7 +27,6 @@ Language data is not included in the API. All page links will not have a languag
 | new-device-and-location-verification                          | 03/08/2023, 9:28:41 pm  | 26/07/2023, 9:59:50 am  | [Details](#new-device-and-location-verification)                           |
 | authy-faq                                                     | 03/08/2023, 9:28:36 pm  | 26/07/2023, 10:23:51 am | [Details](#authy-faq)                                                      |
 | stream-display-ads                                            | 03/08/2023, 9:28:33 pm  | 25/07/2023, 5:00:55 am  | [Details](#stream-display-ads)                                             |
-| featured-clips                                                | 02/08/2023, 2:56:19 am  | 02/08/2023, 2:56:18 am  | [Details](#featured-clips)                                                 |
 | founders-badge                                                | 28/07/2023, 3:34:47 am  | 15/07/2023, 6:56:56 am  | [Details](#founders-badge)                                                 |
 | discovery                                                     | 28/07/2023, 3:26:04 am  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
 | twitch-teams                                                  | 28/07/2023, 3:24:46 am  | 12/07/2023, 9:14:57 am  | [Details](#twitch-teams)                                                   |
@@ -1682,9 +1682,9 @@ https://help.twitch.tv/s/article/featured-clips
 
 | Title               | Last Modified          | Created                 |
 |---------------------|------------------------|-------------------------|
+| Clipes em destaque  | 24/08/2023, 9:13:07 am | 24/08/2023, 9:13:05 am  |
 | Ausgewählte Clips   | 02/08/2023, 2:56:19 am | 02/08/2023, 2:56:18 am  |
 | Clip in primo piano | 02/08/2023, 2:56:19 am | 02/08/2023, 2:56:18 am  |
-| Clipes em destaque  | 02/08/2023, 2:56:19 am | 02/08/2023, 2:56:18 am  |
 | Clips destacados    | 02/08/2023, 2:56:19 am | 02/08/2023, 2:56:18 am  |
 | Clips destacados    | 02/08/2023, 2:56:19 am | 02/08/2023, 2:56:18 am  |
 | Clips à la une      | 02/08/2023, 2:56:19 am | 02/08/2023, 2:56:18 am  |
@@ -4013,9 +4013,9 @@ https://help.twitch.tv/s/article/subtember-2023-faq
 
 | Title                    | Last Modified           | Created                  |
 |--------------------------|-------------------------|--------------------------|
+| FAQ SUBtember2023        | 23/08/2023, 11:48:32 pm | 23/08/2023, 11:48:31 pm  |
+| 2023 年度的 SUBtember 常見問答集 | 23/08/2023, 10:44:33 pm | 23/08/2023, 10:44:31 pm  |
 | FAQ SUBtember 2023       | 23/08/2023, 7:36:35 pm  | 23/08/2023, 7:36:34 pm   |
-| 2023 年度的 SUBtember 常見問答集 | 23/08/2023, 11:16:09 am | 16/08/2023, 10:04:02 am  |
-| FAQ SUBtember2023        | 23/08/2023, 11:16:09 am | 16/08/2023, 10:04:02 am  |
 
 
 ### supported-browsers
