@@ -7,13 +7,13 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| twitch-account-settings                                       | 24/08/2023, 8:52:35 pm  | 17/08/2023, 11:20:05 am | [Details](#twitch-account-settings)                                        |
+| account-hacked                                                | 24/08/2023, 6:03:12 pm  | 17/08/2023, 11:15:45 am | [Details](#account-hacked)                                                 |
 | featured-clips                                                | 24/08/2023, 9:13:07 am  | 24/08/2023, 9:13:05 am  | [Details](#featured-clips)                                                 |
 | subtember-2023-faq                                            | 23/08/2023, 11:48:32 pm | 23/08/2023, 11:48:31 pm | [Details](#subtember-2023-faq)                                             |
 | tips-on-feedback                                              | 23/08/2023, 4:54:32 am  | 23/08/2023, 4:54:15 am  | [Details](#tips-on-feedback)                                               |
 | navigating-the-feedback-forum                                 | 23/08/2023, 4:23:38 am  | 23/08/2023, 4:23:23 am  | [Details](#navigating-the-feedback-forum)                                  |
-| account-hacked                                                | 22/08/2023, 5:44:05 pm  | 17/08/2023, 11:15:45 am | [Details](#account-hacked)                                                 |
 | how-to-provide-feedback                                       | 18/08/2023, 5:23:21 am  | 18/08/2023, 5:23:02 am  | [Details](#how-to-provide-feedback)                                        |
-| twitch-account-settings                                       | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am | [Details](#twitch-account-settings)                                        |
 | brand-surveys                                                 | 14/08/2023, 9:17:11 pm  | 14/08/2023, 9:17:04 pm  | [Details](#brand-surveys)                                                  |
 | experiments                                                   | 12/08/2023, 3:02:50 am  | 08/08/2023, 8:31:01 am  | [Details](#experiments)                                                    |
 | hype-chat-by-twitch                                           | 11/08/2023, 8:41:07 pm  | 15/06/2023, 9:26:44 am  | [Details](#hype-chat-by-twitch)                                            |
@@ -385,6 +385,8 @@ https://help.twitch.tv/s/article/account-hacked
 
 | Title                                                           | Last Modified           | Created                  |
 |-----------------------------------------------------------------|-------------------------|--------------------------|
+| Cosa posso fare se qualcuno ha avuto accesso al mio account?    | 24/08/2023, 6:03:12 pm  | 17/08/2023, 11:15:45 am  |
+| O que posso fazer se outra pessoa acessou minha conta?          | 24/08/2023, 11:36:09 am | 17/08/2023, 11:15:45 am  |
 | Başka biri hesabıma izinsiz girmişse ne yapabilirim?            | 22/08/2023, 5:44:05 pm  | 17/08/2023, 11:15:45 am  |
 | Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
 | Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
@@ -401,8 +403,6 @@ https://help.twitch.tv/s/article/account-hacked
 | Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
 | Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
 | Co mogę zrobić, jeśli ktoś inny uzyskał dostęp do mojego konta? | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
-| Cosa posso fare se qualcuno ha avuto accesso al mio account?    | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
-| O que posso fazer se outra pessoa acessou minha conta?          | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
 
 
 ### account-reactivation
@@ -4115,12 +4115,12 @@ https://help.twitch.tv/s/article/twitch-account-settings
 
 | Title                             | Last Modified           | Created                  |
 |-----------------------------------|-------------------------|--------------------------|
-| Ajustes de cuenta de Twitch       | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am  |
-| Configuración de cuenta de Twitch | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am  |
-| Configurações da conta da Twitch  | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am  |
+| Paramètres de votre compte Twitch | 24/08/2023, 8:52:35 pm  | 17/08/2023, 11:20:05 am  |
+| Ajustes de cuenta de Twitch       | 24/08/2023, 7:52:40 pm  | 17/08/2023, 11:20:05 am  |
+| Impostazioni account Twitch       | 24/08/2023, 6:03:05 pm  | 17/08/2023, 11:20:05 am  |
+| Configuración de cuenta de Twitch | 24/08/2023, 6:02:07 pm  | 17/08/2023, 11:20:05 am  |
+| Configurações da conta da Twitch  | 24/08/2023, 11:36:06 am | 17/08/2023, 11:20:05 am  |
 | Definições de conta Twitch        | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am  |
-| Impostazioni account Twitch       | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am  |
-| Paramètres de votre compte Twitch | 17/08/2023, 11:19:45 am | 17/08/2023, 11:19:44 am  |
 
 
 ### twitch-affiliate-program-faq

@@ -18,15 +18,15 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | English (United States)       | 23/08/2023, 5:13:37 am    | 226 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 17/08/2023, 11:14:51 am   | 28 article(s)  | [View](docs/fi.md)     |
 | French                        | 19/08/2023, 6:03:30 am    | 208 article(s) | [View](docs/fr.md)     |
-| German                        | 19/08/2023, 6:03:29 am    | 210 article(s) | [View](docs/de.md)     |
+| German                        | 19/08/2023, 6:03:29 am    | 209 article(s) | [View](docs/de.md)     |
 | Greek                         | 17/08/2023, 11:14:51 am   | 8 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 17/08/2023, 11:14:51 am   | 21 article(s)  | [View](docs/hu.md)     |
 | Italian                       | 19/08/2023, 6:03:30 am    | 207 article(s) | [View](docs/it.md)     |
-| Japanese                      | 19/08/2023, 6:03:30 am    | 206 article(s) | [View](docs/ja.md)     |
+| Japanese                      | 24/08/2023, 11:42:41 am   | 206 article(s) | [View](docs/ja.md)     |
 | Korean                        | 19/08/2023, 6:03:30 am    | 206 article(s) | [View](docs/ko.md)     |
 | Norwegian                     | 17/08/2023, 11:14:51 am   | 30 article(s)  | [View](docs/no.md)     |
 | Polish                        | 19/08/2023, 6:03:30 am    | 203 article(s) | [View](docs/pl.md)     |
-| Portuguese (Brazil)           | 19/08/2023, 6:03:30 am    | 207 article(s) | [View](docs/pt_BR.md)  |
+| Portuguese (Brazil)           | 24/08/2023, 11:36:09 am   | 207 article(s) | [View](docs/pt_BR.md)  |
 | Portuguese (Portugal)         | 17/08/2023, 11:19:45 am   | 42 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 17/08/2023, 11:14:51 am   | 3 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 19/08/2023, 6:03:31 am    | 206 article(s) | [View](docs/ru.md)     |
@@ -34,7 +34,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Spanish                       | 19/08/2023, 6:03:30 am    | 207 article(s) | [View](docs/es.md)     |
 | Spanish (Mexico)              | 19/08/2023, 6:03:30 am    | 207 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 17/08/2023, 11:14:51 am   | 27 article(s)  | [View](docs/sv.md)     |
-| Thai                          | 19/08/2023, 6:03:31 am    | 199 article(s) | [View](docs/th.md)     |
+| Thai                          | 23/08/2023, 5:17:05 pm    | 196 article(s) | [View](docs/th.md)     |
 | Turkish                       | 22/08/2023, 5:44:09 pm    | 205 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 17/08/2023, 11:14:51 am   | 7 article(s)   | [View](docs/vi.md)     |
 
