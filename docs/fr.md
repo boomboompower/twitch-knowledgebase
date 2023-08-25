@@ -6,12 +6,12 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Experiments                            | 25/08/2023, 4:24:07 am    | [Link](https://help.twitch.tv/s/article/experiments?language=fr)                             |
+| Account Hacked                         | 24/08/2023, 8:52:37 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=fr)                          |
+| Twitch Account Settings                | 24/08/2023, 8:52:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=fr)                 |
 | Patch Notes 20                         | 19/08/2023, 6:03:30 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=fr)                          |
 | How To Provide Feedback                | 18/08/2023, 5:23:20 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=fr)                 |
-| Twitch Account Settings                | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=fr)                 |
-| Account Hacked                         | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=fr)                          |
 | Brand Surveys                          | 14/08/2023, 8:05:42 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=fr)                           |
-| Experiments                            | 12/08/2023, 3:02:50 am    | [Link](https://help.twitch.tv/s/article/experiments?language=fr)                             |
 | Guide To Broadcast Health              | 09/08/2023, 10:13:03 pm   | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=fr)               |
 | How To Appeal Flagged Content          | 09/08/2023, 10:13:03 pm   | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=fr)           |
 | Guide To Cheering With Bits            | 08/08/2023, 9:25:36 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=fr)             |

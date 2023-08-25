@@ -6,12 +6,12 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Experiments                            | 25/08/2023, 4:24:07 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ko)                             |
+| Twitch Account Settings                | 24/08/2023, 5:50:38 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ko)                 |
+| Account Hacked                         | 24/08/2023, 5:50:37 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=ko)                          |
 | Patch Notes 20                         | 19/08/2023, 6:03:30 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=ko)                          |
 | How To Provide Feedback                | 18/08/2023, 5:23:20 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=ko)                 |
-| Twitch Account Settings                | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ko)                 |
-| Account Hacked                         | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=ko)                          |
 | Brand Surveys                          | 14/08/2023, 5:51:32 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=ko)                           |
-| Experiments                            | 12/08/2023, 3:02:45 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ko)                             |
 | Guide To Cheering With Bits            | 09/08/2023, 5:15:40 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ko)             |
 | Guide To Broadcast Health              | 09/08/2023, 5:11:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=ko)               |
 | Stream Display Ads                     | 03/08/2023, 2:01:38 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ko)                      |
@@ -46,8 +46,6 @@
 | Prime Gaming Revenue Guide             | 30/05/2023, 5:42:19 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ko)              |
 | Twitch Stream Key Faq                  | 30/05/2023, 5:42:15 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ko)                   |
 | Local Recording                        | 30/05/2023, 5:42:14 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=ko)                         |
-| Payout History Dashboard Guide         | 30/05/2023, 5:42:08 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=ko)          |
-| Channel Analytics                      | 30/05/2023, 5:42:05 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ko)                       |
 
 
 

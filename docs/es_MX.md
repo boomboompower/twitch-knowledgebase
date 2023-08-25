@@ -6,11 +6,11 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Experiments                            | 25/08/2023, 4:24:07 am    | [Link](https://help.twitch.tv/s/article/experiments?language=es_MX)                             |
+| Twitch Account Settings                | 24/08/2023, 6:02:07 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es_MX)                 |
+| Account Hacked                         | 24/08/2023, 6:02:03 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=es_MX)                          |
 | Patch Notes 20                         | 19/08/2023, 6:03:30 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=es_MX)                          |
 | How To Provide Feedback                | 18/08/2023, 5:23:20 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=es_MX)                 |
-| Twitch Account Settings                | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es_MX)                 |
-| Account Hacked                         | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=es_MX)                          |
-| Experiments                            | 12/08/2023, 3:02:44 am    | [Link](https://help.twitch.tv/s/article/experiments?language=es_MX)                             |
 | Brand Surveys                          | 12/08/2023, 3:00:04 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=es_MX)                           |
 | Guide To Cheering With Bits            | 09/08/2023, 8:54:41 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=es_MX)             |
 | How To Appeal Flagged Content          | 09/08/2023, 2:49:38 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=es_MX)           |
