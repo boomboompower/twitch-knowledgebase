@@ -7,14 +7,15 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| understanding-feedback-updates                                | 26/08/2023, 1:19:37 am  | 18/08/2023, 5:32:20 am  | [Details](#understanding-feedback-updates)                                 |
+| navigating-the-feedback-forum                                 | 26/08/2023, 1:19:34 am  | 18/08/2023, 5:32:44 am  | [Details](#navigating-the-feedback-forum)                                  |
+| how-to-provide-feedback                                       | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
+| tips-on-feedback                                              | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:52 am  | [Details](#tips-on-feedback)                                               |
 | experiments                                                   | 25/08/2023, 4:24:07 am  | 25/08/2023, 4:24:06 am  | [Details](#experiments)                                                    |
 | account-hacked                                                | 24/08/2023, 10:35:38 pm | 17/08/2023, 11:15:45 am | [Details](#account-hacked)                                                 |
-| twitch-account-settings                                       | 24/08/2023, 8:52:35 pm  | 17/08/2023, 11:20:05 am | [Details](#twitch-account-settings)                                        |
+| twitch-account-settings                                       | 24/08/2023, 7:52:40 pm  | 17/08/2023, 11:20:05 am | [Details](#twitch-account-settings)                                        |
 | featured-clips                                                | 24/08/2023, 9:13:07 am  | 24/08/2023, 9:13:05 am  | [Details](#featured-clips)                                                 |
 | subtember-2023-faq                                            | 23/08/2023, 11:48:32 pm | 23/08/2023, 11:48:31 pm | [Details](#subtember-2023-faq)                                             |
-| tips-on-feedback                                              | 23/08/2023, 4:54:32 am  | 23/08/2023, 4:54:15 am  | [Details](#tips-on-feedback)                                               |
-| navigating-the-feedback-forum                                 | 23/08/2023, 4:23:38 am  | 23/08/2023, 4:23:23 am  | [Details](#navigating-the-feedback-forum)                                  |
-| how-to-provide-feedback                                       | 18/08/2023, 5:23:21 am  | 18/08/2023, 5:23:02 am  | [Details](#how-to-provide-feedback)                                        |
 | brand-surveys                                                 | 14/08/2023, 9:17:11 pm  | 14/08/2023, 9:17:04 pm  | [Details](#brand-surveys)                                                  |
 | hype-chat-by-twitch                                           | 11/08/2023, 8:41:07 pm  | 15/06/2023, 9:26:44 am  | [Details](#hype-chat-by-twitch)                                            |
 | how-to-appeal-flagged-content                                 | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
@@ -73,9 +74,9 @@ Language data is not included in the API. All page links will not have a languag
 | twitch-stream-key-faq                                         | 31/05/2023, 0:13:14 am  | 27/04/2023, 3:57:31 am  | [Details](#twitch-stream-key-faq)                                          |
 | payout-history-dashboard-guide                                | 31/05/2023, 0:13:12 am  | 23/05/2023, 0:20:24 pm  | [Details](#payout-history-dashboard-guide)                                 |
 | prime-gaming-revenue-guide                                    | 31/05/2023, 0:13:03 am  | 23/05/2023, 0:18:49 pm  | [Details](#prime-gaming-revenue-guide)                                     |
-| channel-analytics                                             | 30/05/2023, 5:46:48 pm  | 23/05/2023, 0:21:49 pm  | [Details](#channel-analytics)                                              |
 | local-sub-price-countries                                     | 26/05/2023, 3:15:13 am  | 26/05/2023, 3:15:12 am  | [Details](#local-sub-price-countries)                                      |
 | twitch-turbo-guide                                            | 26/05/2023, 3:14:58 am  | 19/05/2023, 11:51:30 am | [Details](#twitch-turbo-guide)                                             |
+| channel-analytics                                             | 25/05/2023, 7:51:43 am  | 23/05/2023, 0:21:49 pm  | [Details](#channel-analytics)                                              |
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
 | twitch-prime-partner-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:36 am  | [Details](#twitch-prime-partner-guide)                                     |
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
@@ -172,7 +173,7 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-contact-extension-developer                            | 26/10/2022, 7:44:01 am  | 26/10/2022, 7:43:31 am  | [Details](#how-to-contact-extension-developer)                             |
 | getting-started-twitch-studio                                 | 26/10/2022, 4:12:49 am  | 27/09/2022, 8:44:10 am  | [Details](#getting-started-twitch-studio)                                  |
 | how-to-use-squad-stream                                       | 21/10/2022, 7:26:47 am  | 30/09/2022, 8:30:40 am  | [Details](#how-to-use-squad-stream)                                        |
-| joining-the-affiliate-program                                 | 21/10/2022, 7:26:15 am  | 30/09/2022, 9:37:55 am  | [Details](#joining-the-affiliate-program)                                  |
+| joining-the-affiliate-program                                 | 21/10/2022, 7:26:14 am  | 30/09/2022, 9:37:55 am  | [Details](#joining-the-affiliate-program)                                  |
 | earning-revenue-from-bits-in-extensions                       | 21/10/2022, 7:25:42 am  | 30/09/2022, 7:54:28 am  | [Details](#earning-revenue-from-bits-in-extensions)                        |
 | earning-revenue-from-bits-in-extensions-beta                  | 21/10/2022, 7:25:40 am  | 21/10/2022, 7:25:39 am  | [Details](#earning-revenue-from-bits-in-extensions-beta)                   |
 | esports-directory                                             | 21/10/2022, 7:24:58 am  | 30/09/2022, 7:49:57 am  | [Details](#esports-directory)                                              |
@@ -294,8 +295,8 @@ Language data is not included in the API. All page links will not have a languag
 | making-the-most-of-channel-points                             | 22/10/2021, 8:53:25 am  | 08/01/2020, 8:57:52 am  | [Details](#making-the-most-of-channel-points)                              |
 | custom-bit-badges-guide                                       | 22/10/2021, 8:53:25 am  | 10/06/2021, 6:04:46 am  | [Details](#custom-bit-badges-guide)                                        |
 | contacting-partner-help                                       | 22/10/2021, 8:53:25 am  | 22/01/2020, 1:35:03 am  | [Details](#contacting-partner-help)                                        |
-| partner-settings-guide                                        | 22/10/2021, 8:53:25 am  | 20/01/2021, 6:00:49 am  | [Details](#partner-settings-guide)                                         |
 | tips-for-applying-to-the-partner-program                      | 22/10/2021, 8:53:24 am  | 01/06/2019, 6:37:24 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
+| partner-settings-guide                                        | 22/10/2021, 8:53:24 am  | 20/01/2021, 6:00:49 am  | [Details](#partner-settings-guide)                                         |
 | Tips-for-Bounty-Board-Completing-Bounties                     | 22/10/2021, 8:53:23 am  | 15/06/2019, 7:43:19 am  | [Details](#tips-for-bounty-board-completing-bounties)                      |
 | affiliate-settings-guide                                      | 22/10/2021, 8:53:19 am  | 20/01/2021, 6:17:06 am  | [Details](#affiliate-settings-guide)                                       |
 | recommended-hardware-for-broadcasting                         | 22/10/2021, 8:53:12 am  | 27/02/2019, 3:24:01 pm  | [Details](#recommended-hardware-for-broadcasting)                          |
@@ -544,7 +545,6 @@ https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings
 | Title                                                          | Last Modified           | Created                  |
 |----------------------------------------------------------------|-------------------------|--------------------------|
 | Configuración para aniversarios de Afiliados o Partners        | 04/08/2023, 8:45:32 pm  | 04/08/2023, 8:45:31 pm   |
-| Paramètres d'anniversaire d'affilié·e ou de partenaire         | 04/08/2023, 7:17:04 pm  | 04/08/2023, 7:17:02 pm   |
 | Impostazioni di anniversario di affiliati, affiliate e partner | 04/08/2023, 5:17:38 pm  | 04/08/2023, 5:17:36 pm   |
 | Einstellungen für Affiliate- und Partner-Jubiläen              | 04/08/2023, 5:14:33 pm  | 04/08/2023, 5:14:31 pm   |
 | Configurar aniversarios de afiliados o socios                  | 02/08/2023, 7:25:36 pm  | 02/08/2023, 7:25:34 pm   |
@@ -1020,7 +1020,6 @@ https://help.twitch.tv/s/article/channel-analytics
 
 | Title                     | Last Modified          | Created                  |
 |---------------------------|------------------------|--------------------------|
-| Panoramica dell'Analitica | 30/05/2023, 5:46:48 pm | 23/05/2023, 0:21:49 pm   |
 | Kanal Analizi Genel Bakış | 25/05/2023, 7:51:43 am | 23/05/2023, 0:21:49 pm   |
 | Analytics Overview        | 24/05/2023, 4:01:52 am | 23/05/2023, 11:10:35 am  |
 | Análise de Canal          | 24/05/2023, 4:01:50 am | 24/05/2023, 4:01:50 am   |
@@ -1077,7 +1076,6 @@ https://help.twitch.tv/s/article/channel-points-predictions
 |--------------------------------|------------------------|-------------------------|
 | Channel Points Predictions     | 30/07/2022, 4:23:37 am | 30/07/2022, 4:23:24 am  |
 | Kanal Sadakat Puanı ile Öngörü | 30/07/2022, 4:23:37 am | 30/07/2022, 4:23:37 am  |
-| Palpites com Pontos do Canal   | 30/07/2022, 4:23:37 am | 30/07/2022, 4:23:36 am  |
 
 
 ### charitable-donations
@@ -1158,7 +1156,6 @@ https://help.twitch.tv/s/article/chat-verification-settings
 | Configuración de verificación del chat | 06/10/2021, 7:06:03 am | 25/09/2021, 2:38:01 am  |
 | Configurações de verificação do chat   | 06/10/2021, 7:06:03 am | 25/09/2021, 2:38:01 am  |
 | Impostazioni verifica per la chat      | 06/10/2021, 7:06:03 am | 25/09/2021, 2:38:01 am  |
-| Paramètres de vérification du chat     | 06/10/2021, 7:06:03 am | 25/09/2021, 2:38:01 am  |
 | Chat Verification Settings             | 30/09/2021, 4:09:23 am | 25/09/2021, 0:59:39 am  |
 
 
@@ -1219,7 +1216,6 @@ https://help.twitch.tv/s/article/clips-settings
 | Configurações de Clipe     | 12/05/2023, 6:54:57 am | 06/05/2023, 6:01:41 am   |
 | Impostazioni clip          | 12/05/2023, 6:54:57 am | 06/05/2023, 6:01:41 am   |
 | Klip ayarları              | 12/05/2023, 6:54:57 am | 06/05/2023, 6:01:41 am   |
-| Paramètres de clips        | 12/05/2023, 6:54:57 am | 06/05/2023, 6:01:41 am   |
 
 
 ### community-challenges
@@ -1377,15 +1373,12 @@ https://help.twitch.tv/s/article/creator-chat-highlights
 ### creator-dashboard
 https://help.twitch.tv/s/article/creator-dashboard
 
-| Title                         | Last Modified          | Created                  |
-|-------------------------------|------------------------|--------------------------|
-| Creator-Dashboard             | 22/06/2023, 3:04:14 am | 10/06/2023, 0:28:32 am   |
-| Dashboard autore              | 22/06/2023, 3:04:14 am | 09/06/2023, 6:07:02 pm   |
-| Painel de controle do criador | 22/06/2023, 3:04:14 am | 09/06/2023, 3:24:31 am   |
-| Panel de control del creador  | 22/06/2023, 3:04:14 am | 09/06/2023, 5:30:31 pm   |
-| Panel de control del creador  | 22/06/2023, 3:04:14 am | 09/06/2023, 10:23:31 pm  |
-| Panel kontrolny twórcy        | 22/06/2023, 3:04:14 am | 10/06/2023, 0:28:32 am   |
-| Creator Dashboard             | 22/06/2023, 3:00:40 am | 02/06/2023, 3:37:52 pm   |
+| Title                         | Last Modified          | Created                 |
+|-------------------------------|------------------------|-------------------------|
+| Creator-Dashboard             | 22/06/2023, 3:04:14 am | 10/06/2023, 0:28:32 am  |
+| Dashboard autore              | 22/06/2023, 3:04:14 am | 09/06/2023, 6:07:02 pm  |
+| Painel de controle do criador | 22/06/2023, 3:04:14 am | 09/06/2023, 3:24:31 am  |
+| Creator Dashboard             | 22/06/2023, 3:00:40 am | 02/06/2023, 3:37:52 pm  |
 
 
 ### creator-goals
@@ -1945,7 +1938,6 @@ https://help.twitch.tv/s/article/guest-star-audio
 | Guest Star-Audio– Überblick                         | 10/05/2023, 9:20:09 am | 10/05/2023, 9:20:08 am  |
 | Konuk Yıldız ses kontrolleri                        | 10/05/2023, 9:20:09 am | 10/05/2023, 9:20:08 am  |
 | Omówienie dźwięku w Guest Star                      | 10/05/2023, 9:20:09 am | 10/05/2023, 9:20:08 am  |
-| Panoramica audio di Guest Star                      | 10/05/2023, 9:20:09 am | 10/05/2023, 9:20:08 am  |
 
 
 ### guest-star-browser-source
@@ -2439,16 +2431,16 @@ https://help.twitch.tv/s/article/how-to-perform-a-traceroute-to-twitch
 ### how-to-provide-feedback
 https://help.twitch.tv/s/article/how-to-provide-feedback
 
-| Title                          | Last Modified          | Created                 |
-|--------------------------------|------------------------|-------------------------|
-| How to Provide Feedback        | 18/08/2023, 5:23:21 am | 18/08/2023, 5:23:02 am  |
-| Come fornire feedback          | 18/08/2023, 5:23:20 am | 18/08/2023, 5:23:19 am  |
-| Comment donner un avis         | 18/08/2023, 5:23:20 am | 18/08/2023, 5:23:19 am  |
-| Como enviar feedback           | 18/08/2023, 5:23:20 am | 18/08/2023, 5:23:19 am  |
-| Cómo enviar comentarios        | 18/08/2023, 5:23:20 am | 18/08/2023, 5:23:19 am  |
-| Cómo proporcionar comentarios  | 18/08/2023, 5:23:20 am | 18/08/2023, 5:23:19 am  |
-| Feedback geben                 | 18/08/2023, 5:23:20 am | 18/08/2023, 5:23:19 am  |
-| Geri bildirim nasıl gönderilir | 18/08/2023, 5:23:20 am | 18/08/2023, 5:23:20 am  |
+| Title                          | Last Modified           | Created                 |
+|--------------------------------|-------------------------|-------------------------|
+| Geri bildirim nasıl gönderilir | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:28 am  |
+| Cómo proporcionar comentarios  | 26/08/2023, 1:17:34 am  | 18/08/2023, 5:31:28 am  |
+| Come fornire feedback          | 26/08/2023, 1:15:03 am  | 18/08/2023, 5:31:28 am  |
+| Comment donner un avis         | 26/08/2023, 1:14:45 am  | 18/08/2023, 5:31:28 am  |
+| Feedback geben                 | 26/08/2023, 1:13:36 am  | 18/08/2023, 5:31:28 am  |
+| Cómo enviar comentarios        | 25/08/2023, 10:48:07 pm | 18/08/2023, 5:31:28 am  |
+| How to Provide Feedback        | 18/08/2023, 5:23:21 am  | 18/08/2023, 5:23:02 am  |
+| Como enviar feedback           | 18/08/2023, 5:23:20 am  | 18/08/2023, 5:23:19 am  |
 
 
 ### how-to-purchase-bits
@@ -2797,7 +2789,6 @@ https://help.twitch.tv/s/article/joining-guest-star
 | Cómo unirse como Guest Star                        | 21/01/2023, 0:22:34 am | 21/01/2023, 0:22:32 am  |
 | Cómo participar en Estrella Invitada como invitado | 20/01/2023, 9:10:32 pm | 20/01/2023, 9:10:31 pm  |
 | Dołączanie jako gość w Guest Star                  | 20/01/2023, 8:51:34 pm | 20/01/2023, 8:51:33 pm  |
-| Partecipare come ospite a Guest Star               | 20/01/2023, 8:37:05 pm | 20/01/2023, 8:37:04 pm  |
 | Konuk Yıldız'a konuk olarak katılma                | 19/01/2023, 7:37:32 pm | 19/01/2023, 7:37:31 pm  |
 | Entrando no Guest Star como convidado              | 19/01/2023, 1:10:05 pm | 19/01/2023, 1:10:03 pm  |
 | Joining as a Guest Star Guest                      | 12/01/2023, 6:48:55 am | 12/01/2023, 6:39:17 am  |
@@ -2808,14 +2799,12 @@ https://help.twitch.tv/s/article/joining-the-affiliate-program
 
 | Title                                           | Last Modified          | Created                 |
 |-------------------------------------------------|------------------------|-------------------------|
-| Participando do Programa de Afiliados           | 21/10/2022, 7:26:15 am | 30/09/2022, 9:37:55 am  |
 | Am Affiliate-Programm teilnehmen                | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Come partecipare al programma per gli affiliati | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Cómo Unirse al Programa de Afiliados            | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Intégrer le programme d'affiliation             | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Jak dołączyć do programu Towarzyszy             | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Joining the Affiliate Program                   | 21/10/2022, 7:26:14 am | 30/09/2022, 8:05:05 am  |
-| Participación en el programa de afiliados       | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
 | Aderir ao Programa de Afiliados                 | 21/10/2022, 7:26:13 am | 21/10/2022, 7:26:12 am  |
 
 
@@ -3247,9 +3236,15 @@ https://help.twitch.tv/s/article/music-options-for-streamers
 ### navigating-the-feedback-forum
 https://help.twitch.tv/s/article/navigating-the-feedback-forum
 
-| Title                         | Last Modified          | Created                 |
-|-------------------------------|------------------------|-------------------------|
-| Navigating the Feedback Forum | 23/08/2023, 4:23:38 am | 23/08/2023, 4:23:23 am  |
+| Title                                 | Last Modified           | Created                 |
+|---------------------------------------|-------------------------|-------------------------|
+| Geri Bildirim Forumunda Gezinmek      | 26/08/2023, 1:19:34 am  | 18/08/2023, 5:32:44 am  |
+| Cómo usar el foro de comentarios      | 26/08/2023, 1:17:35 am  | 18/08/2023, 5:32:44 am  |
+| Navigare nei Forum di feedback        | 26/08/2023, 1:15:03 am  | 18/08/2023, 5:32:44 am  |
+| Explorer les forums de suggestions    | 26/08/2023, 1:14:31 am  | 18/08/2023, 5:32:44 am  |
+| In den Feedback-Foren navigieren      | 26/08/2023, 1:13:34 am  | 18/08/2023, 5:32:44 am  |
+| Manejarse en los foros de sugerencias | 25/08/2023, 10:48:04 pm | 18/08/2023, 5:32:44 am  |
+| Navigating the Feedback Forum         | 23/08/2023, 4:23:38 am  | 23/08/2023, 4:23:23 am  |
 
 
 ### nba-g-league-co-streaming-guide
@@ -3370,7 +3365,6 @@ https://help.twitch.tv/s/article/overview-of-audio
 | Aperçu audio de Twitch Studio                  | 22/10/2021, 8:54:20 am | 20/10/2020, 5:51:48 am  |
 | Descripción general del audio en Twitch Studio | 22/10/2021, 8:54:20 am | 20/10/2020, 5:51:48 am  |
 | Omówienie audio w Twitch Studio                | 22/10/2021, 8:54:20 am | 20/10/2020, 5:51:48 am  |
-| Panoramica audio di Twitch Studio              | 22/10/2021, 8:54:20 am | 20/10/2020, 5:51:48 am  |
 
 
 ### partner-cheermote-guide
@@ -3425,7 +3419,6 @@ https://help.twitch.tv/s/article/partner-program-overview
 |------------------------------------------------------|------------------------|-------------------------|
 | Das Partnerprogramm von Twitch im Überblick          | 16/06/2023, 2:27:15 am | 27/09/2022, 8:46:06 am  |
 | Descripción general del programa de socios de Twitch | 16/06/2023, 2:27:12 am | 27/09/2022, 8:46:06 am  |
-| Panoramica del programma per partner Twitch          | 16/06/2023, 2:27:11 am | 27/09/2022, 8:46:06 am  |
 
 
 ### partner-settings-guide
@@ -3433,7 +3426,6 @@ https://help.twitch.tv/s/article/partner-settings-guide
 
 | Title                              | Last Modified          | Created                 |
 |------------------------------------|------------------------|-------------------------|
-| Partner Ayarları Rehberi           | 22/10/2021, 8:53:25 am | 20/01/2021, 6:00:49 am  |
 | Guida alle impostazioni partner    | 22/10/2021, 8:53:24 am | 20/01/2021, 6:00:49 am  |
 | Guía de configuración de socios    | 22/10/2021, 8:53:24 am | 20/01/2021, 6:00:49 am  |
 | Guide des paramètres du partenaire | 22/10/2021, 8:53:23 am | 20/01/2021, 6:00:49 am  |
@@ -4082,9 +4074,14 @@ https://help.twitch.tv/s/article/Tips-for-Bounty-Board-Completing-Bounties
 ### tips-on-feedback
 https://help.twitch.tv/s/article/tips-on-feedback
 
-| Title                                  | Last Modified          | Created                 |
-|----------------------------------------|------------------------|-------------------------|
-| Giving Feedback in the Feedback Forums | 23/08/2023, 4:54:32 am | 23/08/2023, 4:54:15 am  |
+| Title                                                 | Last Modified          | Created                 |
+|-------------------------------------------------------|------------------------|-------------------------|
+| Geri Bildirim Forumlarında Geri Bildirim Sağlamak     | 26/08/2023, 1:19:32 am | 18/08/2023, 5:31:52 am  |
+| Compartir tu opinión en los foros de comentarios      | 26/08/2023, 1:17:32 am | 18/08/2023, 5:31:52 am  |
+| Fornire un feedback nei Forum di feedback             | 26/08/2023, 1:15:07 am | 18/08/2023, 5:31:52 am  |
+| Faire part de vos idées sur les forums de suggestions | 26/08/2023, 1:14:33 am | 18/08/2023, 5:31:52 am  |
+| In den Feedback-Foren Feedback geben                  | 26/08/2023, 1:13:42 am | 18/08/2023, 5:31:52 am  |
+| Giving Feedback in the Feedback Forums                | 23/08/2023, 4:54:32 am | 23/08/2023, 4:54:15 am  |
 
 
 ### transcoding-options-faq
@@ -4115,7 +4112,6 @@ https://help.twitch.tv/s/article/twitch-account-settings
 
 | Title                             | Last Modified           | Created                  |
 |-----------------------------------|-------------------------|--------------------------|
-| Paramètres de votre compte Twitch | 24/08/2023, 8:52:35 pm  | 17/08/2023, 11:20:05 am  |
 | Ajustes de cuenta de Twitch       | 24/08/2023, 7:52:40 pm  | 17/08/2023, 11:20:05 am  |
 | Impostazioni account Twitch       | 24/08/2023, 6:03:05 pm  | 17/08/2023, 11:20:05 am  |
 | Configuración de cuenta de Twitch | 24/08/2023, 6:02:07 pm  | 17/08/2023, 11:20:05 am  |
@@ -4444,6 +4440,18 @@ https://help.twitch.tv/s/article/two-factor-authentication-with-authy
 | Autenticação de Dois Fatores com a Authy | 09/03/2023, 7:53:25 am | 09/03/2023, 7:53:24 am  |
 | Authenticatie via Two-Factor met Authy   | 09/03/2023, 7:53:25 am | 09/03/2023, 7:53:24 am  |
 | Godkjenning med to faktorer med Authy    | 09/03/2023, 7:53:25 am | 09/03/2023, 7:53:24 am  |
+
+
+### understanding-feedback-updates
+https://help.twitch.tv/s/article/understanding-feedback-updates
+
+| Title                                                       | Last Modified           | Created                 |
+|-------------------------------------------------------------|-------------------------|-------------------------|
+| Durum Güncellemelerini Anlamak - SSS                        | 26/08/2023, 1:19:37 am  | 18/08/2023, 5:32:20 am  |
+| FAQ - Informazioni sugli aggiornamenti di stato             | 26/08/2023, 1:15:05 am  | 18/08/2023, 5:32:20 am  |
+| FAQ: comprendre les mises à jour de statut                  | 26/08/2023, 1:14:37 am  | 18/08/2023, 5:32:20 am  |
+| Häufig gestellte Fragen zu Status-Updates                   | 26/08/2023, 1:13:34 am  | 18/08/2023, 5:32:20 am  |
+| Jak działają aktualizacje statusu – często zadawane pytania | 25/08/2023, 11:38:03 pm | 18/08/2023, 5:32:20 am  |
 
 
 ### understanding-viewer-count-vs-users-in-chat
