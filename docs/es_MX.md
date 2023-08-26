@@ -6,11 +6,14 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Understanding Feedback Updates         | 26/08/2023, 1:17:35 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=es_MX)          |
+| Navigating The Feedback Forum          | 26/08/2023, 1:17:35 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=es_MX)           |
+| How To Provide Feedback                | 26/08/2023, 1:17:34 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=es_MX)                 |
+| Tips On Feedback                       | 26/08/2023, 1:17:32 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=es_MX)                        |
 | Experiments                            | 25/08/2023, 4:24:07 am    | [Link](https://help.twitch.tv/s/article/experiments?language=es_MX)                             |
 | Twitch Account Settings                | 24/08/2023, 6:02:07 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es_MX)                 |
 | Account Hacked                         | 24/08/2023, 6:02:03 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=es_MX)                          |
 | Patch Notes 20                         | 19/08/2023, 6:03:30 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=es_MX)                          |
-| How To Provide Feedback                | 18/08/2023, 5:23:20 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=es_MX)                 |
 | Brand Surveys                          | 12/08/2023, 3:00:04 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=es_MX)                           |
 | Guide To Cheering With Bits            | 09/08/2023, 8:54:41 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=es_MX)             |
 | How To Appeal Flagged Content          | 09/08/2023, 2:49:38 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=es_MX)           |
@@ -43,11 +46,6 @@
 | Affiliate Onboarding Guide             | 22/06/2023, 2:38:09 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)              |
 | Partner Program Overview               | 16/06/2023, 2:27:11 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)                |
 | Twitch Music Getting Started           | 05/06/2023, 7:23:46 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=es_MX)            |
-| Prime Gaming Revenue Guide             | 30/05/2023, 7:55:20 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)              |
-| Twitch Stream Key Faq                  | 30/05/2023, 7:55:15 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=es_MX)                   |
-| Payout History Dashboard Guide         | 30/05/2023, 7:55:08 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=es_MX)          |
-| Channel Analytics                      | 30/05/2023, 7:55:05 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=es_MX)                       |
-| Local Recording                        | 30/05/2023, 7:55:03 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=es_MX)                         |
 
 
 

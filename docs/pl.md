@@ -6,11 +6,14 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Tips On Feedback                       | 25/08/2023, 11:38:05 pm   | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=pl)                        |
+| Navigating The Feedback Forum          | 25/08/2023, 11:38:05 pm   | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=pl)           |
+| Understanding Feedback Updates         | 25/08/2023, 11:38:03 pm   | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=pl)          |
+| How To Provide Feedback                | 25/08/2023, 11:38:03 pm   | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=pl)                 |
 | Experiments                            | 25/08/2023, 4:24:07 am    | [Link](https://help.twitch.tv/s/article/experiments?language=pl)                             |
 | Account Hacked                         | 24/08/2023, 10:35:38 pm   | [Link](https://help.twitch.tv/s/article/account-hacked?language=pl)                          |
 | Twitch Account Settings                | 24/08/2023, 10:35:35 pm   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pl)                 |
 | Patch Notes 20                         | 19/08/2023, 6:03:30 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=pl)                          |
-| How To Provide Feedback                | 18/08/2023, 5:23:20 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=pl)                 |
 | Brand Surveys                          | 14/08/2023, 6:35:03 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=pl)                           |
 | How To Appeal Flagged Content          | 09/08/2023, 8:34:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=pl)           |
 | Guide To Broadcast Health              | 09/08/2023, 8:34:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=pl)               |
@@ -46,8 +49,6 @@
 | Channel Analytics                      | 30/05/2023, 8:32:19 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pl)                       |
 | Twitch Stream Key Faq                  | 30/05/2023, 8:32:13 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=pl)                   |
 | Local Recording                        | 30/05/2023, 8:32:10 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=pl)                         |
-| Payout History Dashboard Guide         | 30/05/2023, 8:32:07 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=pl)          |
-| Prime Gaming Revenue Guide             | 30/05/2023, 8:32:05 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pl)              |
 
 
 

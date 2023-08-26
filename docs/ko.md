@@ -6,11 +6,14 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Understanding Feedback Updates         | 26/08/2023, 1:17:05 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=ko)          |
+| Tips On Feedback                       | 26/08/2023, 1:17:03 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=ko)                        |
+| Navigating The Feedback Forum          | 26/08/2023, 1:17:02 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=ko)           |
+| How To Provide Feedback                | 26/08/2023, 1:17:02 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=ko)                 |
 | Experiments                            | 25/08/2023, 4:24:07 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ko)                             |
 | Twitch Account Settings                | 24/08/2023, 5:50:38 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ko)                 |
 | Account Hacked                         | 24/08/2023, 5:50:37 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=ko)                          |
 | Patch Notes 20                         | 19/08/2023, 6:03:30 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=ko)                          |
-| How To Provide Feedback                | 18/08/2023, 5:23:20 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=ko)                 |
 | Brand Surveys                          | 14/08/2023, 5:51:32 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=ko)                           |
 | Guide To Cheering With Bits            | 09/08/2023, 5:15:40 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ko)             |
 | Guide To Broadcast Health              | 09/08/2023, 5:11:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=ko)               |
@@ -43,9 +46,6 @@
 | Affiliate Onboarding Guide             | 22/06/2023, 2:36:44 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ko)              |
 | Partner Program Overview               | 16/06/2023, 2:27:16 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)                |
 | Twitch Music Getting Started           | 05/06/2023, 4:07:12 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ko)            |
-| Prime Gaming Revenue Guide             | 30/05/2023, 5:42:19 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ko)              |
-| Twitch Stream Key Faq                  | 30/05/2023, 5:42:15 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ko)                   |
-| Local Recording                        | 30/05/2023, 5:42:14 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=ko)                         |
 
 
 

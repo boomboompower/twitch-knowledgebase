@@ -6,11 +6,14 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Tips On Feedback                       | 26/08/2023, 1:13:42 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=de)                        |
+| How To Provide Feedback                | 26/08/2023, 1:13:36 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=de)                 |
+| Understanding Feedback Updates         | 26/08/2023, 1:13:34 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=de)          |
+| Navigating The Feedback Forum          | 26/08/2023, 1:13:34 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=de)           |
 | Experiments                            | 25/08/2023, 4:24:07 am    | [Link](https://help.twitch.tv/s/article/experiments?language=de)                             |
 | Account Hacked                         | 24/08/2023, 7:56:08 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=de)                          |
 | Twitch Account Settings                | 24/08/2023, 7:56:06 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=de)                 |
 | Patch Notes 20                         | 19/08/2023, 6:03:29 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=de)                          |
-| How To Provide Feedback                | 18/08/2023, 5:23:20 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=de)                 |
 | Brand Surveys                          | 12/08/2023, 3:00:04 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=de)                           |
 | Guide To Cheering With Bits            | 09/08/2023, 6:42:46 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=de)             |
 | How To Appeal Flagged Content          | 09/08/2023, 6:31:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=de)           |

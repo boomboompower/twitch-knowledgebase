@@ -43,11 +43,6 @@
 | Affiliate Onboarding Guide             | 22/06/2023, 2:37:53 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pt_BR)              |
 | Partner Program Overview               | 16/06/2023, 2:27:11 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)                |
 | Twitch Music Getting Started           | 05/06/2023, 11:41:11 am   | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=pt_BR)            |
-| Local Recording                        | 30/05/2023, 10:34:47 am   | [Link](https://help.twitch.tv/s/article/local-recording?language=pt_BR)                         |
-| Twitch Stream Key Faq                  | 30/05/2023, 10:34:43 am   | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=pt_BR)                   |
-| Payout History Dashboard Guide         | 30/05/2023, 10:34:41 am   | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=pt_BR)          |
-| Channel Analytics                      | 30/05/2023, 10:34:37 am   | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_BR)                       |
-| Prime Gaming Revenue Guide             | 30/05/2023, 10:34:35 am   | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pt_BR)              |
 
 
 

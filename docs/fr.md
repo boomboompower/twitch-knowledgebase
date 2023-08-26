@@ -6,11 +6,14 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| How To Provide Feedback                | 26/08/2023, 1:14:45 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=fr)                 |
+| Understanding Feedback Updates         | 26/08/2023, 1:14:37 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=fr)          |
+| Tips On Feedback                       | 26/08/2023, 1:14:33 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=fr)                        |
+| Navigating The Feedback Forum          | 26/08/2023, 1:14:31 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=fr)           |
 | Experiments                            | 25/08/2023, 4:24:07 am    | [Link](https://help.twitch.tv/s/article/experiments?language=fr)                             |
 | Account Hacked                         | 24/08/2023, 8:52:37 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=fr)                          |
 | Twitch Account Settings                | 24/08/2023, 8:52:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=fr)                 |
 | Patch Notes 20                         | 19/08/2023, 6:03:30 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=fr)                          |
-| How To Provide Feedback                | 18/08/2023, 5:23:20 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=fr)                 |
 | Brand Surveys                          | 14/08/2023, 8:05:42 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=fr)                           |
 | Guide To Broadcast Health              | 09/08/2023, 10:13:03 pm   | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=fr)               |
 | How To Appeal Flagged Content          | 09/08/2023, 10:13:03 pm   | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=fr)           |
