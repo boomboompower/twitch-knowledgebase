@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| subtember-2023-faq                                            | 28/08/2023, 4:39:34 pm  | 28/08/2023, 4:39:31 pm  | [Details](#subtember-2023-faq)                                             |
 | understanding-feedback-updates                                | 26/08/2023, 1:19:37 am  | 18/08/2023, 5:32:20 am  | [Details](#understanding-feedback-updates)                                 |
 | navigating-the-feedback-forum                                 | 26/08/2023, 1:19:34 am  | 18/08/2023, 5:32:44 am  | [Details](#navigating-the-feedback-forum)                                  |
 | how-to-provide-feedback                                       | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
@@ -15,7 +16,6 @@ Language data is not included in the API. All page links will not have a languag
 | account-hacked                                                | 24/08/2023, 10:35:38 pm | 17/08/2023, 11:15:45 am | [Details](#account-hacked)                                                 |
 | twitch-account-settings                                       | 24/08/2023, 7:52:40 pm  | 17/08/2023, 11:20:05 am | [Details](#twitch-account-settings)                                        |
 | featured-clips                                                | 24/08/2023, 9:13:07 am  | 24/08/2023, 9:13:05 am  | [Details](#featured-clips)                                                 |
-| subtember-2023-faq                                            | 23/08/2023, 11:48:32 pm | 23/08/2023, 11:48:31 pm | [Details](#subtember-2023-faq)                                             |
 | brand-surveys                                                 | 14/08/2023, 9:17:11 pm  | 14/08/2023, 9:17:04 pm  | [Details](#brand-surveys)                                                  |
 | hype-chat-by-twitch                                           | 11/08/2023, 8:41:07 pm  | 15/06/2023, 9:26:44 am  | [Details](#hype-chat-by-twitch)                                            |
 | how-to-appeal-flagged-content                                 | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
@@ -4005,8 +4005,8 @@ https://help.twitch.tv/s/article/subtember-2023-faq
 
 | Title                    | Last Modified           | Created                  |
 |--------------------------|-------------------------|--------------------------|
+| 2023 年度的 SUBtember 常見問答集 | 28/08/2023, 4:39:34 pm  | 28/08/2023, 4:39:31 pm   |
 | FAQ SUBtember2023        | 23/08/2023, 11:48:32 pm | 23/08/2023, 11:48:31 pm  |
-| 2023 年度的 SUBtember 常見問答集 | 23/08/2023, 10:44:33 pm | 23/08/2023, 10:44:31 pm  |
 | FAQ SUBtember 2023       | 23/08/2023, 7:36:35 pm  | 23/08/2023, 7:36:34 pm   |
 
 
