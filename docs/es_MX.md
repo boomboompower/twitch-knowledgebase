@@ -6,6 +6,7 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Partner Program Overview               | 29/08/2023, 4:09:34 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)                |
 | Understanding Feedback Updates         | 26/08/2023, 1:17:35 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=es_MX)          |
 | Navigating The Feedback Forum          | 26/08/2023, 1:17:35 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=es_MX)           |
 | How To Provide Feedback                | 26/08/2023, 1:17:34 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=es_MX)                 |
@@ -44,7 +45,6 @@
 | Video On Demand                        | 24/06/2023, 0:46:10 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es_MX)                         |
 | Patch Notes 19                         | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=es_MX)                          |
 | Affiliate Onboarding Guide             | 22/06/2023, 2:38:09 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)              |
-| Partner Program Overview               | 16/06/2023, 2:27:11 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)                |
 | Twitch Music Getting Started           | 05/06/2023, 7:23:46 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=es_MX)            |
 | Prime Gaming Revenue Guide             | 30/05/2023, 7:55:20 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)              |
 | Twitch Stream Key Faq                  | 30/05/2023, 7:55:15 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=es_MX)                   |

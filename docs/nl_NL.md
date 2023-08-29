@@ -6,12 +6,12 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Partner Program Overview               | 29/08/2023, 4:09:34 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)                |
 | Account Hacked                         | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=nl_NL)                          |
 | Twitch Teams                           | 28/07/2023, 3:24:45 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=nl_NL)                            |
 | Authy Faq                              | 26/07/2023, 10:23:27 am   | [Link](https://help.twitch.tv/s/article/authy-faq?language=nl_NL)                               |
 | Creating Highlights And Stream Markers | 18/07/2023, 5:11:27 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=nl_NL)  |
 | Creating An Account With Twitch        | 11/07/2023, 2:20:34 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=nl_NL)         |
-| Partner Program Overview               | 16/06/2023, 2:25:29 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)                |
 
 
 

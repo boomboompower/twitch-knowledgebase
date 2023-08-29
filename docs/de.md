@@ -6,6 +6,7 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Partner Program Overview               | 29/08/2023, 4:09:34 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                |
 | Tips On Feedback                       | 26/08/2023, 1:13:42 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=de)                        |
 | How To Provide Feedback                | 26/08/2023, 1:13:36 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=de)                 |
 | Understanding Feedback Updates         | 26/08/2023, 1:13:34 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=de)          |
@@ -44,7 +45,6 @@
 | Video On Demand                        | 24/06/2023, 0:46:09 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=de)                         |
 | Patch Notes 19                         | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=de)                          |
 | Affiliate Onboarding Guide             | 22/06/2023, 2:36:00 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=de)              |
-| Partner Program Overview               | 16/06/2023, 2:27:15 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                |
 | Twitch Music Getting Started           | 05/06/2023, 7:57:45 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=de)            |
 | Channel Analytics                      | 30/05/2023, 10:34:45 pm   | [Link](https://help.twitch.tv/s/article/channel-analytics?language=de)                       |
 | Twitch Stream Key Faq                  | 30/05/2023, 10:34:41 pm   | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=de)                   |

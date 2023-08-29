@@ -6,6 +6,7 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Partner Program Overview               | 29/08/2023, 4:09:34 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=fr)                |
 | How To Provide Feedback                | 26/08/2023, 1:14:45 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=fr)                 |
 | Understanding Feedback Updates         | 26/08/2023, 1:14:37 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=fr)          |
 | Tips On Feedback                       | 26/08/2023, 1:14:33 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=fr)                        |
@@ -44,7 +45,6 @@
 | Video On Demand                        | 24/06/2023, 0:46:10 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=fr)                         |
 | Patch Notes 19                         | 23/06/2023, 6:48:20 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=fr)                          |
 | Affiliate Onboarding Guide             | 22/06/2023, 2:35:47 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=fr)              |
-| Partner Program Overview               | 16/06/2023, 2:27:11 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=fr)                |
 | Twitch Music Getting Started           | 06/06/2023, 1:32:40 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=fr)            |
 | Channel Analytics                      | 31/05/2023, 0:13:21 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=fr)                       |
 | Local Recording                        | 31/05/2023, 0:13:18 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=fr)                         |
