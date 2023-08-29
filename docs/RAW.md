@@ -7,11 +7,14 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| hype-train-guide                                              | 29/08/2023, 8:40:55 am  | 29/08/2023, 8:40:54 am  | [Details](#hype-train-guide)                                               |
+| partner-program-overview                                      | 29/08/2023, 4:09:34 am  | 29/08/2023, 4:09:33 am  | [Details](#partner-program-overview)                                       |
+| partner-plus-abuse                                            | 29/08/2023, 4:05:20 am  | 19/08/2023, 10:33:35 am | [Details](#partner-plus-abuse)                                             |
+| how-to-provide-feedback                                       | 28/08/2023, 10:28:38 pm | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
+| tips-on-feedback                                              | 28/08/2023, 10:28:33 pm | 18/08/2023, 5:31:52 am  | [Details](#tips-on-feedback)                                               |
 | subtember-2023-faq                                            | 28/08/2023, 4:39:34 pm  | 28/08/2023, 4:39:31 pm  | [Details](#subtember-2023-faq)                                             |
 | understanding-feedback-updates                                | 26/08/2023, 1:19:37 am  | 18/08/2023, 5:32:20 am  | [Details](#understanding-feedback-updates)                                 |
 | navigating-the-feedback-forum                                 | 26/08/2023, 1:19:34 am  | 18/08/2023, 5:32:44 am  | [Details](#navigating-the-feedback-forum)                                  |
-| how-to-provide-feedback                                       | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
-| tips-on-feedback                                              | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:52 am  | [Details](#tips-on-feedback)                                               |
 | experiments                                                   | 25/08/2023, 4:24:07 am  | 25/08/2023, 4:24:06 am  | [Details](#experiments)                                                    |
 | account-hacked                                                | 24/08/2023, 10:35:38 pm | 17/08/2023, 11:15:45 am | [Details](#account-hacked)                                                 |
 | twitch-account-settings                                       | 24/08/2023, 7:52:40 pm  | 17/08/2023, 11:20:05 am | [Details](#twitch-account-settings)                                        |
@@ -54,7 +57,6 @@ Language data is not included in the API. All page links will not have a languag
 | partner-onboarding-guide                                      | 11/07/2023, 1:57:24 am  | 07/07/2023, 3:48:09 pm  | [Details](#partner-onboarding-guide)                                       |
 | content-classification-labels                                 | 11/07/2023, 1:57:07 am  | 21/06/2023, 3:35:20 am  | [Details](#content-classification-labels)                                  |
 | guide-to-bits-history                                         | 01/07/2023, 0:06:16 pm  | 01/07/2023, 0:06:16 pm  | [Details](#guide-to-bits-history)                                          |
-| hype-train-guide                                              | 01/07/2023, 11:59:40 am | 01/07/2023, 11:59:40 am | [Details](#hype-train-guide)                                               |
 | revenue                                                       | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am | [Details](#revenue)                                                        |
 | stream-manager                                                | 01/07/2023, 11:34:07 am | 01/07/2023, 11:34:06 am | [Details](#stream-manager)                                                 |
 | refunds-on-twitch                                             | 01/07/2023, 11:23:36 am | 01/07/2023, 11:23:35 am | [Details](#refunds-on-twitch)                                              |
@@ -66,7 +68,6 @@ Language data is not included in the API. All page links will not have a languag
 | hype-chat-for-streamers                                       | 23/06/2023, 2:16:54 am  | 15/06/2023, 9:26:20 am  | [Details](#hype-chat-for-streamers)                                        |
 | creator-dashboard                                             | 22/06/2023, 3:04:14 am  | 10/06/2023, 0:28:32 am  | [Details](#creator-dashboard)                                              |
 | affiliate-onboarding-guide                                    | 22/06/2023, 2:38:09 am  | 10/06/2023, 3:15:17 pm  | [Details](#affiliate-onboarding-guide)                                     |
-| partner-program-overview                                      | 16/06/2023, 2:27:15 am  | 27/09/2022, 8:46:06 am  | [Details](#partner-program-overview)                                       |
 | branded-content-policy                                        | 09/06/2023, 8:46:18 am  | 09/06/2023, 2:10:34 am  | [Details](#branded-content-policy)                                         |
 | simulcasting-guidelines                                       | 07/06/2023, 1:27:03 am  | 07/06/2023, 1:27:02 am  | [Details](#simulcasting-guidelines)                                        |
 | android-purchases                                             | 06/06/2023, 6:59:18 am  | 25/05/2023, 10:43:54 am | [Details](#android-purchases)                                              |
@@ -1373,12 +1374,11 @@ https://help.twitch.tv/s/article/creator-chat-highlights
 ### creator-dashboard
 https://help.twitch.tv/s/article/creator-dashboard
 
-| Title                         | Last Modified          | Created                 |
-|-------------------------------|------------------------|-------------------------|
-| Creator-Dashboard             | 22/06/2023, 3:04:14 am | 10/06/2023, 0:28:32 am  |
-| Dashboard autore              | 22/06/2023, 3:04:14 am | 09/06/2023, 6:07:02 pm  |
-| Painel de controle do criador | 22/06/2023, 3:04:14 am | 09/06/2023, 3:24:31 am  |
-| Creator Dashboard             | 22/06/2023, 3:00:40 am | 02/06/2023, 3:37:52 pm  |
+| Title             | Last Modified          | Created                 |
+|-------------------|------------------------|-------------------------|
+| Creator-Dashboard | 22/06/2023, 3:04:14 am | 10/06/2023, 0:28:32 am  |
+| Dashboard autore  | 22/06/2023, 3:04:14 am | 09/06/2023, 6:07:02 pm  |
+| Creator Dashboard | 22/06/2023, 3:00:40 am | 02/06/2023, 3:37:52 pm  |
 
 
 ### creator-goals
@@ -1658,16 +1658,14 @@ https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection
 ### failed-payments
 https://help.twitch.tv/s/article/failed-payments
 
-| Title                                      | Last Modified           | Created                  |
-|--------------------------------------------|-------------------------|--------------------------|
-| Başarısız abonelik ödemeleri               | 23/10/2021, 10:41:04 am | 07/10/2021, 10:09:17 am  |
-| Pagamenti non riusciti per gli abbonamenti | 23/10/2021, 10:41:04 am | 07/10/2021, 10:09:17 am  |
-| Error en pagos de suscripciones            | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
-| Falhas em pagamentos de inscrições         | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
-| Fehlgeschlagene Zahlungen für Abos         | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
-| Nieudane płatności za subskrypcje          | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
-| Pagos fallidos de suscripciones            | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
-| Failed Payments for Subscriptions          | 09/10/2021, 6:52:36 am  | 09/10/2021, 6:49:24 am   |
+| Title                              | Last Modified           | Created                  |
+|------------------------------------|-------------------------|--------------------------|
+| Başarısız abonelik ödemeleri       | 23/10/2021, 10:41:04 am | 07/10/2021, 10:09:17 am  |
+| Error en pagos de suscripciones    | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
+| Falhas em pagamentos de inscrições | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
+| Fehlgeschlagene Zahlungen für Abos | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
+| Nieudane płatności za subskrypcje  | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
+| Failed Payments for Subscriptions  | 09/10/2021, 6:52:36 am  | 09/10/2021, 6:49:24 am   |
 
 
 ### featured-clips
@@ -2433,6 +2431,7 @@ https://help.twitch.tv/s/article/how-to-provide-feedback
 
 | Title                          | Last Modified           | Created                 |
 |--------------------------------|-------------------------|-------------------------|
+| Como enviar feedback           | 28/08/2023, 10:28:38 pm | 18/08/2023, 5:31:28 am  |
 | Geri bildirim nasıl gönderilir | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:28 am  |
 | Cómo proporcionar comentarios  | 26/08/2023, 1:17:34 am  | 18/08/2023, 5:31:28 am  |
 | Come fornire feedback          | 26/08/2023, 1:15:03 am  | 18/08/2023, 5:31:28 am  |
@@ -2440,7 +2439,6 @@ https://help.twitch.tv/s/article/how-to-provide-feedback
 | Feedback geben                 | 26/08/2023, 1:13:36 am  | 18/08/2023, 5:31:28 am  |
 | Cómo enviar comentarios        | 25/08/2023, 10:48:07 pm | 18/08/2023, 5:31:28 am  |
 | How to Provide Feedback        | 18/08/2023, 5:23:21 am  | 18/08/2023, 5:23:02 am  |
-| Como enviar feedback           | 18/08/2023, 5:23:20 am  | 18/08/2023, 5:23:19 am  |
 
 
 ### how-to-purchase-bits
@@ -2743,16 +2741,16 @@ https://help.twitch.tv/s/article/hype-chat-pricing-by-country
 ### hype-train-guide
 https://help.twitch.tv/s/article/hype-train-guide
 
-| Title                     | Last Modified           | Created                  |
-|---------------------------|-------------------------|--------------------------|
-| Guia do Hype Train        | 01/07/2023, 11:59:40 am | 01/07/2023, 11:59:40 am  |
-| Guida all'Hype Train      | 01/07/2023, 11:59:40 am | 01/07/2023, 11:59:40 am  |
-| Guide du train de la Hype | 01/07/2023, 11:59:40 am | 01/07/2023, 11:59:40 am  |
-| Guía del Tren del Hype    | 01/07/2023, 11:59:40 am | 01/07/2023, 11:59:40 am  |
-| Guía del Tren del Hype    | 01/07/2023, 11:59:40 am | 01/07/2023, 11:59:40 am  |
-| Hype Train Guide          | 01/07/2023, 11:59:40 am | 27/05/2023, 6:14:22 am   |
-| Hype Train Rehberi        | 01/07/2023, 11:59:40 am | 01/07/2023, 11:59:40 am  |
-| Leitfaden zu Hype Trains  | 01/07/2023, 11:59:40 am | 01/07/2023, 11:59:40 am  |
+| Title                     | Last Modified          | Created                 |
+|---------------------------|------------------------|-------------------------|
+| Guia do Hype Train        | 29/08/2023, 8:40:55 am | 29/08/2023, 8:40:54 am  |
+| Guida all'Hype Train      | 29/08/2023, 8:40:55 am | 29/08/2023, 8:40:54 am  |
+| Guide du train de la Hype | 29/08/2023, 8:40:55 am | 29/08/2023, 8:40:54 am  |
+| Guía del Tren del Hype    | 29/08/2023, 8:40:55 am | 29/08/2023, 8:40:54 am  |
+| Guía del Tren del Hype    | 29/08/2023, 8:40:55 am | 29/08/2023, 8:40:54 am  |
+| Hype Train Rehberi        | 29/08/2023, 8:40:55 am | 29/08/2023, 8:40:54 am  |
+| Leitfaden zu Hype Trains  | 29/08/2023, 8:40:55 am | 29/08/2023, 8:40:54 am  |
+| Hype Train Guide          | 29/08/2023, 8:40:54 am | 29/08/2023, 8:38:30 am  |
 
 
 ### hyper-scape
@@ -2901,12 +2899,11 @@ https://help.twitch.tv/s/article/local-recording
 ### local-sub-price-countries
 https://help.twitch.tv/s/article/local-sub-price-countries
 
-| Title                                                  | Last Modified          | Created                 |
-|--------------------------------------------------------|------------------------|-------------------------|
-| Hier gelten die regionalen Abo-Preise                  | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
-| Kraje objęte lokalnymi cenami subskrypcji              | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
-| Local Subscription Pricing Countries                   | 26/05/2023, 3:15:13 am | 17/05/2023, 6:46:51 am  |
-| Paesi della localizzazione del costo degli abbonamenti | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
+| Title                                     | Last Modified          | Created                 |
+|-------------------------------------------|------------------------|-------------------------|
+| Hier gelten die regionalen Abo-Preise     | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
+| Kraje objęte lokalnymi cenami subskrypcji | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
+| Local Subscription Pricing Countries      | 26/05/2023, 3:15:13 am | 17/05/2023, 6:46:51 am  |
 
 
 ### local-subscription-pricing
@@ -3083,7 +3080,6 @@ https://help.twitch.tv/s/article/minimum-payout-threshold-countries
 | 50ドルの支払い下限額が適用される国や地域                                     | 15/11/2022, 4:57:48 am | 09/11/2022, 0:19:41 pm  |
 | Kraje, w których obowiązuje próg minimalnej wypłaty 50USD | 15/11/2022, 4:57:48 am | 09/11/2022, 0:19:41 pm  |
 | Länder mit einer Mindestauszahlungsgrenze von 50$         | 15/11/2022, 4:57:48 am | 09/11/2022, 0:19:41 pm  |
-| Paesi con soglia minima di pagamento pari a $50           | 15/11/2022, 4:57:48 am | 09/11/2022, 0:19:41 pm  |
 
 
 ### mission-based-drops
@@ -3349,11 +3345,9 @@ https://help.twitch.tv/s/article/one-click-checkout
 | Title                                  | Last Modified           | Created                 |
 |----------------------------------------|-------------------------|-------------------------|
 | Compra con 1 clic                      | 18/02/2022, 0:40:33 am  | 18/02/2022, 0:40:31 am  |
-| Paiement en un clic                    | 02/11/2021, 4:03:48 am  | 21/10/2021, 2:27:56 am  |
 | 1-Click-Zahlung                        | 02/11/2021, 4:03:46 am  | 21/10/2021, 2:27:56 am  |
 | Acquisto con 1-Click                   | 02/11/2021, 4:03:46 am  | 21/10/2021, 2:27:56 am  |
 | Finalização de pagamento com um clique | 02/11/2021, 4:03:46 am  | 21/10/2021, 2:27:56 am  |
-| Pago con 1 clic                        | 02/11/2021, 4:03:46 am  | 21/10/2021, 2:27:56 am  |
 | 1-Click Checkout                       | 30/09/2021, 11:26:49 am | 24/07/2020, 3:54:57 am  |
 
 
@@ -3412,13 +3406,27 @@ https://help.twitch.tv/s/article/partner-onboarding-guide
 | Leitfaden zum Partner-Onboarding                | 11/07/2023, 1:57:14 am | 07/07/2023, 3:47:56 pm  |
 
 
+### partner-plus-abuse
+https://help.twitch.tv/s/article/partner-plus-abuse
+
+| Title                                                             | Last Modified          | Created                  |
+|-------------------------------------------------------------------|------------------------|--------------------------|
+| Criteri di abuso della qualifica di Partner Plus                  | 29/08/2023, 4:05:20 am | 19/08/2023, 10:33:35 am  |
+| Criterios de abuso del programa Partner Plus                      | 29/08/2023, 4:05:20 am | 19/08/2023, 10:33:35 am  |
+| Criterios de admisión para casos de abuso del programa Socio Plus | 29/08/2023, 4:05:20 am | 19/08/2023, 10:33:35 am  |
+| Critères d'inadmissibilité au Programme de partenariat Plus       | 29/08/2023, 4:05:20 am | 19/08/2023, 10:33:35 am  |
+| Desqualificação de parceiros no Parceiro Plus                     | 29/08/2023, 4:05:20 am | 19/08/2023, 10:33:35 am  |
+| Kryteria nadużywania warunków kwalifikacji do Partner Plus        | 29/08/2023, 4:05:20 am | 19/08/2023, 10:33:35 am  |
+| Missbrauch der Partner-Plus-Qualifikationskriterien               | 29/08/2023, 4:05:20 am | 19/08/2023, 10:33:35 am  |
+
+
 ### partner-program-overview
 https://help.twitch.tv/s/article/partner-program-overview
 
 | Title                                                | Last Modified          | Created                 |
 |------------------------------------------------------|------------------------|-------------------------|
-| Das Partnerprogramm von Twitch im Überblick          | 16/06/2023, 2:27:15 am | 27/09/2022, 8:46:06 am  |
-| Descripción general del programa de socios de Twitch | 16/06/2023, 2:27:12 am | 27/09/2022, 8:46:06 am  |
+| Das Partnerprogramm von Twitch im Überblick          | 29/08/2023, 4:09:34 am | 29/08/2023, 4:09:33 am  |
+| Descripción general del programa de socios de Twitch | 29/08/2023, 4:09:34 am | 29/08/2023, 4:09:33 am  |
 
 
 ### partner-settings-guide
@@ -4074,14 +4082,15 @@ https://help.twitch.tv/s/article/Tips-for-Bounty-Board-Completing-Bounties
 ### tips-on-feedback
 https://help.twitch.tv/s/article/tips-on-feedback
 
-| Title                                                 | Last Modified          | Created                 |
-|-------------------------------------------------------|------------------------|-------------------------|
-| Geri Bildirim Forumlarında Geri Bildirim Sağlamak     | 26/08/2023, 1:19:32 am | 18/08/2023, 5:31:52 am  |
-| Compartir tu opinión en los foros de comentarios      | 26/08/2023, 1:17:32 am | 18/08/2023, 5:31:52 am  |
-| Fornire un feedback nei Forum di feedback             | 26/08/2023, 1:15:07 am | 18/08/2023, 5:31:52 am  |
-| Faire part de vos idées sur les forums de suggestions | 26/08/2023, 1:14:33 am | 18/08/2023, 5:31:52 am  |
-| In den Feedback-Foren Feedback geben                  | 26/08/2023, 1:13:42 am | 18/08/2023, 5:31:52 am  |
-| Giving Feedback in the Feedback Forums                | 23/08/2023, 4:54:32 am | 23/08/2023, 4:54:15 am  |
+| Title                                                 | Last Modified           | Created                 |
+|-------------------------------------------------------|-------------------------|-------------------------|
+| Como oferecer feedback nos fóruns                     | 28/08/2023, 10:28:33 pm | 18/08/2023, 5:31:52 am  |
+| Geri Bildirim Forumlarında Geri Bildirim Sağlamak     | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:52 am  |
+| Compartir tu opinión en los foros de comentarios      | 26/08/2023, 1:17:32 am  | 18/08/2023, 5:31:52 am  |
+| Fornire un feedback nei Forum di feedback             | 26/08/2023, 1:15:07 am  | 18/08/2023, 5:31:52 am  |
+| Faire part de vos idées sur les forums de suggestions | 26/08/2023, 1:14:33 am  | 18/08/2023, 5:31:52 am  |
+| In den Feedback-Foren Feedback geben                  | 26/08/2023, 1:13:42 am  | 18/08/2023, 5:31:52 am  |
+| Giving Feedback in the Feedback Forums                | 23/08/2023, 4:54:32 am  | 23/08/2023, 4:54:15 am  |
 
 
 ### transcoding-options-faq
@@ -4575,7 +4584,6 @@ https://help.twitch.tv/s/article/where-are-my-notifications
 | Dove trovo le mie notifiche?       | 22/10/2021, 8:52:24 am | 27/04/2021, 11:51:07 pm  |
 | Gdzie są moje powiadomienia?       | 22/10/2021, 8:52:24 am | 27/04/2021, 11:51:07 pm  |
 | Onde estão as minhas notificações? | 22/10/2021, 8:52:22 am | 27/04/2021, 11:51:07 pm  |
-| Où sont mes notifications?         | 22/10/2021, 8:52:22 am | 27/04/2021, 11:51:07 pm  |
 
 
 ### xbox-broadcast
