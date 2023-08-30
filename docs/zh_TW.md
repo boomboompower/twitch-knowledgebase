@@ -51,6 +51,7 @@
 | Twitch Music Getting Started           | 05/06/2023, 5:39:41 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=zh_TW)            |
 | Twitch Stream Key Faq                  | 30/05/2023, 7:10:55 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=zh_TW)                   |
 | Prime Gaming Revenue Guide             | 30/05/2023, 7:10:39 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)              |
+| Channel Analytics                      | 30/05/2023, 7:10:38 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=zh_TW)                       |
 
 
 

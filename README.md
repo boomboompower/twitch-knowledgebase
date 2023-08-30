@@ -11,7 +11,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 |-------------------------------|---------------------------|----------------|------------------------|
 | Bulgarian                     | 17/08/2023, 11:14:51 am   | 3 article(s)   | [View](docs/bg.md)     |
 | Chinese (Simplified, China)   | 17/08/2023, 11:14:51 am   | 8 article(s)   | [View](docs/zh_CN.md)  |
-| Chinese (Traditional, Taiwan) | 29/08/2023, 4:09:34 am    | 206 article(s) | [View](docs/zh_TW.md)  |
+| Chinese (Traditional, Taiwan) | 29/08/2023, 4:09:34 am    | 207 article(s) | [View](docs/zh_TW.md)  |
 | Czech                         | 17/08/2023, 11:14:51 am   | 23 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 17/08/2023, 11:14:51 am   | 30 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 29/08/2023, 4:09:34 am    | 37 article(s)  | [View](docs/nl_NL.md)  |
