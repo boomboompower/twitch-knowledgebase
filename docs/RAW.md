@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| featured-clips                                                | 30/08/2023, 8:20:55 am  | 30/08/2023, 8:20:54 am  | [Details](#featured-clips)                                                 |
 | hype-train-guide                                              | 29/08/2023, 8:40:55 am  | 29/08/2023, 8:40:54 am  | [Details](#hype-train-guide)                                               |
 | partner-program-overview                                      | 29/08/2023, 4:09:34 am  | 29/08/2023, 4:09:33 am  | [Details](#partner-program-overview)                                       |
 | partner-plus-abuse                                            | 29/08/2023, 4:05:20 am  | 19/08/2023, 10:33:35 am | [Details](#partner-plus-abuse)                                             |
@@ -18,7 +19,6 @@ Language data is not included in the API. All page links will not have a languag
 | experiments                                                   | 25/08/2023, 4:24:07 am  | 25/08/2023, 4:24:06 am  | [Details](#experiments)                                                    |
 | account-hacked                                                | 24/08/2023, 10:35:38 pm | 17/08/2023, 11:15:45 am | [Details](#account-hacked)                                                 |
 | twitch-account-settings                                       | 24/08/2023, 7:52:40 pm  | 17/08/2023, 11:20:05 am | [Details](#twitch-account-settings)                                        |
-| featured-clips                                                | 24/08/2023, 9:13:07 am  | 24/08/2023, 9:13:05 am  | [Details](#featured-clips)                                                 |
 | brand-surveys                                                 | 14/08/2023, 9:17:11 pm  | 14/08/2023, 9:17:04 pm  | [Details](#brand-surveys)                                                  |
 | hype-chat-by-twitch                                           | 11/08/2023, 8:41:07 pm  | 15/06/2023, 9:26:44 am  | [Details](#hype-chat-by-twitch)                                            |
 | how-to-appeal-flagged-content                                 | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
@@ -1673,13 +1673,13 @@ https://help.twitch.tv/s/article/featured-clips
 
 | Title               | Last Modified          | Created                 |
 |---------------------|------------------------|-------------------------|
-| Clipes em destaque  | 24/08/2023, 9:13:07 am | 24/08/2023, 9:13:05 am  |
-| Ausgewählte Clips   | 02/08/2023, 2:56:19 am | 02/08/2023, 2:56:18 am  |
-| Clip in primo piano | 02/08/2023, 2:56:19 am | 02/08/2023, 2:56:18 am  |
-| Clips destacados    | 02/08/2023, 2:56:19 am | 02/08/2023, 2:56:18 am  |
-| Clips destacados    | 02/08/2023, 2:56:19 am | 02/08/2023, 2:56:18 am  |
-| Clips à la une      | 02/08/2023, 2:56:19 am | 02/08/2023, 2:56:18 am  |
-| Featured Clips      | 02/08/2023, 2:56:18 am | 02/08/2023, 2:55:54 am  |
+| Ausgewählte Clips   | 30/08/2023, 8:20:55 am | 30/08/2023, 8:20:54 am  |
+| Clip in primo piano | 30/08/2023, 8:20:55 am | 30/08/2023, 8:20:54 am  |
+| Clipes em destaque  | 30/08/2023, 8:20:55 am | 30/08/2023, 8:20:54 am  |
+| Clips destacados    | 30/08/2023, 8:20:55 am | 30/08/2023, 8:20:54 am  |
+| Clips destacados    | 30/08/2023, 8:20:55 am | 30/08/2023, 8:20:54 am  |
+| Clips à la une      | 30/08/2023, 8:20:55 am | 30/08/2023, 8:20:54 am  |
+| Featured Clips      | 30/08/2023, 8:20:55 am | 30/08/2023, 8:17:12 am  |
 
 
 ### first-steps-for-new-affiliates
