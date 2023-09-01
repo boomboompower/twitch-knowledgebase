@@ -7,6 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| subpoint-vs-subcount                                          | 01/09/2023, 5:48:06 am  | 24/08/2023, 9:54:40 am  | [Details](#subpoint-vs-subcount)                                           |
+| moments                                                       | 01/09/2023, 2:59:12 am  | 17/08/2023, 6:58:07 am  | [Details](#moments)                                                        |
 | featured-clips                                                | 30/08/2023, 8:20:55 am  | 30/08/2023, 8:20:54 am  | [Details](#featured-clips)                                                 |
 | hype-train-guide                                              | 29/08/2023, 8:40:55 am  | 29/08/2023, 8:40:54 am  | [Details](#hype-train-guide)                                               |
 | partner-program-overview                                      | 29/08/2023, 4:09:34 am  | 29/08/2023, 4:09:33 am  | [Details](#partner-program-overview)                                       |
@@ -156,7 +158,6 @@ Language data is not included in the API. All page links will not have a languag
 | chat-commands                                                 | 19/11/2022, 2:02:32 am  | 19/11/2022, 2:02:30 am  | [Details](#chat-commands)                                                  |
 | gift-subscriptions                                            | 18/11/2022, 6:01:11 am  | 18/11/2022, 6:01:10 am  | [Details](#gift-subscriptions)                                             |
 | xbox-broadcast                                                | 17/11/2022, 11:24:03 pm | 17/11/2022, 11:24:02 pm | [Details](#xbox-broadcast)                                                 |
-| moments                                                       | 16/11/2022, 10:54:36 pm | 09/11/2022, 0:27:14 pm  | [Details](#moments)                                                        |
 | minimum-payout-threshold                                      | 15/11/2022, 4:58:06 am  | 09/11/2022, 0:14:16 pm  | [Details](#minimum-payout-threshold)                                       |
 | minimum-payout-threshold-countries                            | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:10:33 pm  | [Details](#minimum-payout-threshold-countries)                             |
 | how-to-use-extensions                                         | 05/11/2022, 1:14:39 am  | 26/10/2022, 7:06:42 am  | [Details](#how-to-use-extensions)                                          |
@@ -199,7 +200,6 @@ Language data is not included in the API. All page links will not have a languag
 | emote-guidelines                                              | 05/08/2022, 10:41:34 pm | 02/08/2022, 6:37:09 am  | [Details](#emote-guidelines)                                               |
 | about-account-suspensions-dmca-suspensions-and-chat-bans      | 03/08/2022, 5:54:49 am  | 22/07/2022, 6:49:37 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | scene-importing                                               | 03/08/2022, 5:54:38 am  | 03/08/2022, 5:54:35 am  | [Details](#scene-importing)                                                |
-| subpoint-vs-subcount                                          | 02/08/2022, 6:32:18 am  | 12/07/2022, 1:40:58 pm  | [Details](#subpoint-vs-subcount)                                           |
 | channel-points-predictions                                    | 30/07/2022, 4:23:37 am  | 30/07/2022, 4:23:24 am  | [Details](#channel-points-predictions)                                     |
 | games-irl-and-music-directories                               | 28/07/2022, 3:03:23 am  | 30/06/2022, 8:03:56 am  | [Details](#games-irl-and-music-directories)                                |
 | ban-evasion                                                   | 22/07/2022, 2:42:23 am  | 01/07/2022, 4:49:25 am  | [Details](#ban-evasion)                                                    |
@@ -3162,17 +3162,17 @@ https://help.twitch.tv/s/article/modified-emotes
 ### moments
 https://help.twitch.tv/s/article/moments
 
-| Title                   | Last Modified           | Created                 |
-|-------------------------|-------------------------|-------------------------|
-| Momentos (versión beta) | 16/11/2022, 10:54:36 pm | 09/11/2022, 0:27:14 pm  |
-| Momente \[Beta]         | 11/11/2022, 11:14:34 pm | 09/11/2022, 0:27:14 pm  |
-| Moments \[Bêta]         | 11/11/2022, 11:11:35 pm | 09/11/2022, 0:27:14 pm  |
-| Momenti \[beta]         | 11/11/2022, 9:16:06 pm  | 09/11/2022, 0:27:14 pm  |
-| Momentos (beta)         | 11/11/2022, 8:36:35 pm  | 09/11/2022, 0:27:14 pm  |
-| Momentos \[Beta]        | 11/11/2022, 4:00:34 am  | 09/11/2022, 0:27:14 pm  |
-| Momenty \[Beta]         | 10/11/2022, 9:14:05 pm  | 09/11/2022, 0:27:14 pm  |
-| Anlar \[Beta]           | 10/11/2022, 8:45:10 pm  | 09/11/2022, 0:27:14 pm  |
-| Moments \[Beta]         | 09/11/2022, 0:26:55 pm  | 09/11/2022, 0:26:39 pm  |
+| Title                   | Last Modified          | Created                 |
+|-------------------------|------------------------|-------------------------|
+| Anlar \[Beta]           | 01/09/2023, 2:59:12 am | 17/08/2023, 6:58:07 am  |
+| Momenti \[beta]         | 01/09/2023, 2:59:11 am | 17/08/2023, 6:58:07 am  |
+| Momentos (versión beta) | 01/09/2023, 2:59:11 am | 17/08/2023, 6:58:07 am  |
+| Momentos \[Beta]        | 01/09/2023, 2:59:11 am | 17/08/2023, 6:58:07 am  |
+| Moments \[Bêta]         | 01/09/2023, 2:59:11 am | 17/08/2023, 6:58:07 am  |
+| Momenty \[Beta]         | 01/09/2023, 2:59:11 am | 17/08/2023, 6:58:07 am  |
+| Momente \[Beta]         | 01/09/2023, 2:59:10 am | 17/08/2023, 6:58:07 am  |
+| Momentos (beta)         | 01/09/2023, 2:59:10 am | 17/08/2023, 6:58:07 am  |
+| Moments \[Beta]         | 01/09/2023, 2:59:10 am | 15/08/2023, 5:32:46 am  |
 
 
 ### monthly-recap
@@ -3927,11 +3927,11 @@ https://help.twitch.tv/s/article/sub-codes
 ### subpoint-vs-subcount
 https://help.twitch.tv/s/article/subpoint-vs-subcount
 
-| Title                                                                        | Last Modified          | Created                 |
-|------------------------------------------------------------------------------|------------------------|-------------------------|
-| Abo-Punkte vs. Abozähler                                                     | 02/08/2022, 6:32:18 am | 12/07/2022, 1:40:58 pm  |
-| Abonelik Puanı ve Abone Sayısı                                               | 02/08/2022, 6:32:18 am | 12/07/2022, 1:40:58 pm  |
-| Diferencias entre los puntos por suscriptores y el recuento de suscripciones | 02/08/2022, 6:32:18 am | 12/07/2022, 1:40:58 pm  |
+| Title                                                                                                  | Last Modified          | Created                 |
+|--------------------------------------------------------------------------------------------------------|------------------------|-------------------------|
+| Abonelik Puanı, Abone Sayısı ve Partner Plus puanı                                                     | 01/09/2023, 5:48:06 am | 24/08/2023, 9:54:40 am  |
+| Abo-Punkte vs. Abozähler vs. Partner-Plus-Punkte                                                       | 01/09/2023, 5:48:05 am | 24/08/2023, 9:54:40 am  |
+| Diferencias entre los puntos por suscriptores, el recuento de suscripciones y los puntos de Socio Plus | 01/09/2023, 5:48:05 am | 24/08/2023, 9:54:40 am  |
 
 
 ### subscriber-badge-guide
