@@ -6,6 +6,8 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Subpoint Vs Subcount                   | 01/09/2023, 5:48:06 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=pt_BR)                    |
+| Moments                                | 01/09/2023, 2:59:11 am    | [Link](https://help.twitch.tv/s/article/moments?language=pt_BR)                                 |
 | Partner Program Overview               | 29/08/2023, 4:09:34 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)                |
 | How To Provide Feedback                | 28/08/2023, 10:28:38 pm   | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=pt_BR)                 |
 | Understanding Feedback Updates         | 28/08/2023, 10:28:35 pm   | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=pt_BR)          |
@@ -44,7 +46,6 @@
 | Video On Demand                        | 24/06/2023, 0:46:10 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pt_BR)                         |
 | Patch Notes 19                         | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=pt_BR)                          |
 | Affiliate Onboarding Guide             | 22/06/2023, 2:37:53 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pt_BR)              |
-| Twitch Music Getting Started           | 05/06/2023, 11:41:11 am   | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=pt_BR)            |
 
 
 

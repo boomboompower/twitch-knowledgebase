@@ -6,6 +6,8 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Subpoint Vs Subcount                   | 01/09/2023, 5:48:06 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ru)                    |
+| Moments                                | 01/09/2023, 2:59:11 am    | [Link](https://help.twitch.tv/s/article/moments?language=ru)                                 |
 | Partner Program Overview               | 29/08/2023, 4:09:34 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ru)                |
 | How To Provide Feedback                | 26/08/2023, 1:20:41 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=ru)                 |
 | Navigating The Feedback Forum          | 26/08/2023, 1:20:37 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=ru)           |

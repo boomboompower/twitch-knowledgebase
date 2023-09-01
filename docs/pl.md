@@ -6,6 +6,8 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Subpoint Vs Subcount                   | 01/09/2023, 5:48:06 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=pl)                    |
+| Moments                                | 01/09/2023, 2:59:11 am    | [Link](https://help.twitch.tv/s/article/moments?language=pl)                                 |
 | Partner Program Overview               | 29/08/2023, 4:09:34 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pl)                |
 | Tips On Feedback                       | 25/08/2023, 11:38:05 pm   | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=pl)                        |
 | Navigating The Feedback Forum          | 25/08/2023, 11:38:05 pm   | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=pl)           |
@@ -46,11 +48,6 @@
 | Patch Notes 19                         | 23/06/2023, 6:48:01 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=pl)                          |
 | Affiliate Onboarding Guide             | 22/06/2023, 2:36:59 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pl)              |
 | Twitch Music Getting Started           | 05/06/2023, 8:20:08 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=pl)            |
-| Channel Analytics                      | 30/05/2023, 8:32:19 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pl)                       |
-| Twitch Stream Key Faq                  | 30/05/2023, 8:32:13 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=pl)                   |
-| Local Recording                        | 30/05/2023, 8:32:10 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=pl)                         |
-| Payout History Dashboard Guide         | 30/05/2023, 8:32:07 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=pl)          |
-| Prime Gaming Revenue Guide             | 30/05/2023, 8:32:05 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pl)              |
 
 
 

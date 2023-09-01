@@ -6,6 +6,8 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Subpoint Vs Subcount                   | 01/09/2023, 5:48:05 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=es_MX)                    |
+| Moments                                | 01/09/2023, 2:59:11 am    | [Link](https://help.twitch.tv/s/article/moments?language=es_MX)                                 |
 | Partner Program Overview               | 29/08/2023, 4:09:34 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)                |
 | Understanding Feedback Updates         | 26/08/2023, 1:17:35 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=es_MX)          |
 | Navigating The Feedback Forum          | 26/08/2023, 1:17:35 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=es_MX)           |
@@ -46,11 +48,6 @@
 | Patch Notes 19                         | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=es_MX)                          |
 | Affiliate Onboarding Guide             | 22/06/2023, 2:38:09 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)              |
 | Twitch Music Getting Started           | 05/06/2023, 7:23:46 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=es_MX)            |
-| Prime Gaming Revenue Guide             | 30/05/2023, 7:55:20 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)              |
-| Twitch Stream Key Faq                  | 30/05/2023, 7:55:15 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=es_MX)                   |
-| Payout History Dashboard Guide         | 30/05/2023, 7:55:08 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=es_MX)          |
-| Channel Analytics                      | 30/05/2023, 7:55:05 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=es_MX)                       |
-| Local Recording                        | 30/05/2023, 7:55:03 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=es_MX)                         |
 
 
 
