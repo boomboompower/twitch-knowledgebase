@@ -55,6 +55,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                       | 02/06/2023, 6:30:14 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=tr)                        |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=tr)                           |
 | Twitch Turbo Guide                                 | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=tr)                                  |
 | Local Recording                                    | 25/05/2023, 7:51:49 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=tr)                                     |
@@ -98,8 +99,6 @@
 | Twitch Studio Mac Faq                              | 16/01/2023, 8:14:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=tr)                               |
 | Twitch Mobile App Update                           | 16/01/2023, 8:13:32 pm    | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=tr)                            |
 | Follower Emotes                                    | 15/12/2022, 7:29:48 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=tr)                                     |
-| Live Viewer Feedback                               | 10/12/2022, 8:46:51 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=tr)                                |
-| Twitch Affiliate Program Faq                       | 09/12/2022, 3:00:33 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=tr)                        |
 
 
 
@@ -108,11 +107,11 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                             | 09/12/2022, 3:00:33 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=tr)                              |
 | Mod View                                                 | 05/12/2022, 9:25:34 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=tr)                                                  |
 | Emote Slots                                              | 05/12/2022, 9:25:34 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=tr)                                               |
 | How To Manage Harassment In Chat                         | 01/12/2022, 5:24:51 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=tr)                          |
 | Chat Commands                                            | 18/11/2022, 1:36:57 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=tr)                                             |
-| Moments                                                  | 10/11/2022, 8:45:10 pm    | [Link](https://help.twitch.tv/s/article/moments?language=tr)                                                   |
 | How To Use Extensions                                    | 04/11/2022, 8:57:09 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=tr)                                     |
 | Xbox Promotion 2022                                      | 02/11/2022, 3:54:04 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=tr)                                       |
 | Request To Join                                          | 31/10/2022, 8:44:03 pm    | [Link](https://help.twitch.tv/s/article/request-to-join?language=tr)                                           |
@@ -138,7 +137,6 @@
 | Twitch Chat Badges Guide                                 | 19/08/2022, 8:35:05 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=tr)                                  |
 | Subscriber Emote Guide                                   | 10/08/2022, 8:02:42 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=tr)                                    |
 | Emote Guidelines                                         | 03/08/2022, 8:01:35 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=tr)                                          |
-| Subpoint Vs Subcount                                     | 02/08/2022, 6:32:18 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=tr)                                      |
 | Scene Importing                                          | 01/08/2022, 8:07:33 pm    | [Link](https://help.twitch.tv/s/article/scene-importing?language=tr)                                           |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 01/08/2022, 7:27:05 pm    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=tr)  |
 | Channel Points Predictions                               | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=tr)                                |

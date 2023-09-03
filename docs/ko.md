@@ -55,6 +55,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                       | 05/06/2023, 4:07:12 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ko)                        |
 | Prime Gaming Revenue Guide                         | 30/05/2023, 5:42:19 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ko)                          |
 | Twitch Stream Key Faq                              | 30/05/2023, 5:42:15 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ko)                               |
 | Local Recording                                    | 30/05/2023, 5:42:14 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=ko)                                     |
@@ -99,9 +100,6 @@
 | Twitch Studio Mac Faq                              | 16/01/2023, 8:06:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ko)                               |
 | Follower Emotes                                    | 15/12/2022, 7:29:48 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=ko)                                     |
 | Live Viewer Feedback                               | 10/12/2022, 8:46:51 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=ko)                                |
-| Twitch Affiliate Program Faq                       | 10/12/2022, 0:11:33 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ko)                        |
-| Emote Slots                                        | 06/12/2022, 2:32:11 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=ko)                                         |
-| Mod View                                           | 06/12/2022, 2:32:04 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=ko)                                            |
 
 
 
@@ -110,9 +108,11 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                             | 10/12/2022, 0:11:33 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ko)                              |
+| Emote Slots                                              | 06/12/2022, 2:32:11 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=ko)                                               |
+| Mod View                                                 | 06/12/2022, 2:32:04 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=ko)                                                  |
 | How To Manage Harassment In Chat                         | 01/12/2022, 5:24:50 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ko)                          |
 | Chat Commands                                            | 19/11/2022, 2:23:36 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=ko)                                             |
-| Moments                                                  | 12/11/2022, 0:32:34 am    | [Link](https://help.twitch.tv/s/article/moments?language=ko)                                                   |
 | How To Use Extensions                                    | 04/11/2022, 9:02:16 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=ko)                                     |
 | Xbox Promotion 2022                                      | 02/11/2022, 3:54:03 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=ko)                                       |
 | Guest Star Reporting                                     | 01/11/2022, 3:47:41 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=ko)                                      |
@@ -140,7 +140,6 @@
 | Emote Guidelines                                         | 05/08/2022, 8:03:40 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=ko)                                          |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 02/08/2022, 4:36:22 pm    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=ko)  |
 | Scene Importing                                          | 02/08/2022, 4:32:35 pm    | [Link](https://help.twitch.tv/s/article/scene-importing?language=ko)                                           |
-| Subpoint Vs Subcount                                     | 02/08/2022, 6:32:18 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ko)                                      |
 | Channel Points Predictions                               | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=ko)                                |
 | Games Irl And Music Directories                          | 28/07/2022, 3:03:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=ko)                           |
 | Ban Evasion                                              | 22/07/2022, 2:42:17 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=ko)                                               |

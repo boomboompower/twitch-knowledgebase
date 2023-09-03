@@ -100,7 +100,6 @@
 | Twitch Studio Mac Faq                              | 16/01/2023, 10:04:33 pm   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=es)                               |
 | Follower Emotes                                    | 15/12/2022, 7:29:47 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=es)                                     |
 | Live Viewer Feedback                               | 10/12/2022, 8:46:51 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=es)                                |
-| Twitch Affiliate Program Faq                       | 10/12/2022, 0:17:03 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                        |
 
 
 
@@ -109,11 +108,11 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                             | 10/12/2022, 0:17:03 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                              |
 | Mod View                                                 | 06/12/2022, 1:05:32 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=es)                                                  |
 | Emote Slots                                              | 06/12/2022, 0:26:34 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=es)                                               |
 | How To Manage Harassment In Chat                         | 01/12/2022, 5:24:50 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es)                          |
 | Chat Commands                                            | 19/11/2022, 2:02:32 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=es)                                             |
-| Moments                                                  | 11/11/2022, 8:36:35 pm    | [Link](https://help.twitch.tv/s/article/moments?language=es)                                                   |
 | How To Use Extensions                                    | 04/11/2022, 9:03:07 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=es)                                     |
 | Xbox Promotion 2022                                      | 02/11/2022, 3:54:02 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=es)                                       |
 | Guest Star Reporting                                     | 31/10/2022, 9:13:34 pm    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=es)                                      |
@@ -141,7 +140,6 @@
 | Emote Guidelines                                         | 05/08/2022, 10:11:06 pm   | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es)                                          |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 03/08/2022, 5:54:49 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=es)  |
 | Scene Importing                                          | 03/08/2022, 5:54:37 am    | [Link](https://help.twitch.tv/s/article/scene-importing?language=es)                                           |
-| Subpoint Vs Subcount                                     | 02/08/2022, 6:32:18 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=es)                                      |
 | Channel Points Predictions                               | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=es)                                |
 | Games Irl And Music Directories                          | 28/07/2022, 3:03:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=es)                           |
 | Ban Evasion                                              | 22/07/2022, 2:42:13 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=es)                                               |

@@ -56,6 +56,11 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Channel Analytics                                  | 31/05/2023, 0:13:21 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=fr)                                   |
+| Local Recording                                    | 31/05/2023, 0:13:18 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=fr)                                     |
+| Twitch Stream Key Faq                              | 31/05/2023, 0:13:14 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=fr)                               |
+| Payout History Dashboard Guide                     | 31/05/2023, 0:13:12 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=fr)                      |
+| Prime Gaming Revenue Guide                         | 31/05/2023, 0:13:03 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=fr)                          |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=fr)                           |
 | Twitch Turbo Guide                                 | 26/05/2023, 3:14:58 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=fr)                                  |
 | Emote Analytics                                    | 20/05/2023, 1:51:41 am    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=fr)                                     |
@@ -96,7 +101,6 @@
 | Twitch Mobile App Update                           | 16/01/2023, 8:55:02 pm    | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=fr)                            |
 | Follower Emotes                                    | 15/12/2022, 7:29:48 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=fr)                                     |
 | Live Viewer Feedback                               | 10/12/2022, 8:46:51 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=fr)                                |
-| Twitch Affiliate Program Faq                       | 10/12/2022, 0:15:33 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=fr)                        |
 
 
 
@@ -105,10 +109,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                             | 10/12/2022, 0:15:33 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=fr)                              |
 | Mod View                                                 | 05/12/2022, 9:36:13 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=fr)                                                  |
 | Emote Slots                                              | 05/12/2022, 9:36:06 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=fr)                                               |
 | Chat Commands                                            | 18/11/2022, 8:53:34 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=fr)                                             |
-| Moments                                                  | 11/11/2022, 11:11:35 pm   | [Link](https://help.twitch.tv/s/article/moments?language=fr)                                                   |
 | How To Use Extensions                                    | 04/11/2022, 9:05:07 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=fr)                                     |
 | Xbox Promotion 2022                                      | 02/11/2022, 3:54:03 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=fr)                                       |
 | Request To Join                                          | 31/10/2022, 10:22:11 pm   | [Link](https://help.twitch.tv/s/article/request-to-join?language=fr)                                           |
@@ -136,7 +140,6 @@
 | Emote Guidelines                                         | 05/08/2022, 10:59:05 pm   | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=fr)                                          |
 | Scene Importing                                          | 03/08/2022, 5:54:38 am    | [Link](https://help.twitch.tv/s/article/scene-importing?language=fr)                                           |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 03/08/2022, 5:54:12 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=fr)  |
-| Subpoint Vs Subcount                                     | 02/08/2022, 6:32:18 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=fr)                                      |
 | Channel Points Predictions                               | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=fr)                                |
 | Games Irl And Music Directories                          | 28/07/2022, 3:03:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=fr)                           |
 | Ban Evasion                                              | 22/07/2022, 2:42:06 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=fr)                                               |

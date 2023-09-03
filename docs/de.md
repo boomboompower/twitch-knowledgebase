@@ -56,6 +56,11 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Channel Analytics                                  | 30/05/2023, 10:34:45 pm   | [Link](https://help.twitch.tv/s/article/channel-analytics?language=de)                                   |
+| Twitch Stream Key Faq                              | 30/05/2023, 10:34:41 pm   | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=de)                               |
+| Local Recording                                    | 30/05/2023, 10:34:41 pm   | [Link](https://help.twitch.tv/s/article/local-recording?language=de)                                     |
+| Payout History Dashboard Guide                     | 30/05/2023, 10:34:38 pm   | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=de)                      |
+| Prime Gaming Revenue Guide                         | 30/05/2023, 10:34:33 pm   | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=de)                          |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=de)                           |
 | Twitch Turbo Guide                                 | 26/05/2023, 3:14:57 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=de)                                  |
 | Emote Analytics                                    | 22/05/2023, 7:34:33 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=de)                                     |
@@ -95,9 +100,6 @@
 | Twitch Mobile App Update                           | 16/01/2023, 10:21:32 pm   | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=de)                            |
 | Follower Emotes                                    | 15/12/2022, 7:29:47 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=de)                                     |
 | Live Viewer Feedback                               | 10/12/2022, 8:46:51 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=de)                                |
-| Twitch Affiliate Program Faq                       | 10/12/2022, 1:47:34 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)                        |
-| Mod View                                           | 06/12/2022, 2:30:12 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                            |
-| Emote Slots                                        | 06/12/2022, 2:30:09 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=de)                                         |
 
 
 
@@ -106,10 +108,12 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                             | 10/12/2022, 1:47:34 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)                              |
+| Mod View                                                 | 06/12/2022, 2:30:12 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                                  |
+| Emote Slots                                              | 06/12/2022, 2:30:09 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=de)                                               |
 | How To Manage Harassment In Chat                         | 01/12/2022, 5:24:50 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=de)                          |
 | Chat Commands                                            | 18/11/2022, 1:36:57 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=de)                                             |
 | Managing Your Phone Number                               | 14/11/2022, 11:59:04 pm   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=de)                                |
-| Moments                                                  | 11/11/2022, 11:14:34 pm   | [Link](https://help.twitch.tv/s/article/moments?language=de)                                                   |
 | How To Use Extensions                                    | 04/11/2022, 9:04:36 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=de)                                     |
 | Xbox Promotion 2022                                      | 02/11/2022, 3:54:02 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=de)                                       |
 | Request To Join                                          | 01/11/2022, 10:57:36 pm   | [Link](https://help.twitch.tv/s/article/request-to-join?language=de)                                           |
@@ -135,7 +139,6 @@
 | Subscriber Emote Guide                                   | 10/08/2022, 8:02:41 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=de)                                    |
 | Emote Guidelines                                         | 05/08/2022, 6:21:35 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=de)                                          |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 03/08/2022, 5:53:07 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=de)  |
-| Subpoint Vs Subcount                                     | 02/08/2022, 6:32:18 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=de)                                      |
 | Channel Points Predictions                               | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=de)                                |
 | Scene Importing                                          | 29/07/2022, 9:01:37 pm    | [Link](https://help.twitch.tv/s/article/scene-importing?language=de)                                           |
 | Games Irl And Music Directories                          | 28/07/2022, 3:03:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=de)                           |

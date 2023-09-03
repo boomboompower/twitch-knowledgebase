@@ -54,6 +54,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                       | 31/05/2023, 2:32:54 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=en_US)                        |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                           |
 | Twitch Turbo Guide                                 | 26/05/2023, 3:14:57 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                                  |
 | Prime Gaming Revenue Guide                         | 24/05/2023, 4:02:47 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)                          |
@@ -98,8 +99,6 @@
 | Follower Emotes                                    | 15/12/2022, 7:29:47 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=en_US)                                     |
 | Twitch Mobile App Update                           | 13/12/2022, 5:17:38 am    | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=en_US)                            |
 | Live Viewer Feedback                               | 10/12/2022, 8:46:52 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=en_US)                                |
-| Twitch Charity Viewers                             | 08/12/2022, 8:01:39 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=en_US)                              |
-| Twitch Affiliate Program Faq                       | 07/12/2022, 4:50:56 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                        |
 
 
 
@@ -108,12 +107,13 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Twitch Charity Viewers                                   | 08/12/2022, 8:01:39 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=en_US)                                    |
+| Twitch Affiliate Program Faq                             | 07/12/2022, 4:50:56 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                              |
 | Mod View                                                 | 02/12/2022, 9:10:45 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                                  |
 | Emote Slots                                              | 02/12/2022, 8:44:38 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=en_US)                                               |
 | How To Manage Harassment In Chat                         | 01/12/2022, 5:24:50 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=en_US)                          |
 | Twitch Cares Mental Health Support Information           | 25/11/2022, 4:50:19 am    | [Link](https://help.twitch.tv/s/article/twitch-cares-mental-health-support-information?language=en_US)            |
 | Chat Commands                                            | 18/11/2022, 1:36:57 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=en_US)                                             |
-| Moments                                                  | 09/11/2022, 0:26:55 pm    | [Link](https://help.twitch.tv/s/article/moments?language=en_US)                                                   |
 | Xbox Promotion 2022                                      | 02/11/2022, 3:54:02 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=en_US)                                       |
 | Viewer Channel Point Guide                               | 28/10/2022, 8:26:22 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=en_US)                                |
 | Channel Points Guide                                     | 28/10/2022, 8:25:45 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=en_US)                                      |
@@ -139,7 +139,6 @@
 | Twitch Chat Badges Guide                                 | 17/08/2022, 6:59:29 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                                  |
 | Subscriber Emote Guide                                   | 10/08/2022, 8:02:41 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=en_US)                                    |
 | Emote Guidelines                                         | 02/08/2022, 6:41:39 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=en_US)                                          |
-| Subpoint Vs Subcount                                     | 02/08/2022, 6:32:18 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=en_US)                                      |
 | Channel Points Predictions                               | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=en_US)                                |
 | Games Irl And Music Directories                          | 28/07/2022, 3:03:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=en_US)                           |
 | Scene Importing                                          | 28/07/2022, 1:55:59 am    | [Link](https://help.twitch.tv/s/article/scene-importing?language=en_US)                                           |
