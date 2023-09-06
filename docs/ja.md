@@ -6,6 +6,8 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Twitch Studio Mac Faq                  | 06/09/2023, 6:14:18 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ja)                   |
+| Twitch Studio Faq                      | 06/09/2023, 6:09:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=ja)                       |
 | Subpoint Vs Subcount                   | 01/09/2023, 5:48:06 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ja)                    |
 | Moments                                | 01/09/2023, 2:59:11 am    | [Link](https://help.twitch.tv/s/article/moments?language=ja)                                 |
 | Partner Program Overview               | 29/08/2023, 4:09:34 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                |
@@ -45,9 +47,6 @@
 | Refunds On Twitch                      | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ja)                       |
 | Broadcasting Guidelines                | 27/06/2023, 0:02:18 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ja)                 |
 | Video On Demand                        | 24/06/2023, 0:46:15 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                         |
-| Patch Notes 19                         | 23/06/2023, 6:48:01 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=ja)                          |
-| Affiliate Onboarding Guide             | 22/06/2023, 2:36:27 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ja)              |
-| Twitch Music Getting Started           | 05/06/2023, 6:29:14 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ja)            |
 
 
 

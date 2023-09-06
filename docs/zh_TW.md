@@ -6,6 +6,8 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Twitch Studio Mac Faq                  | 06/09/2023, 6:14:18 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=zh_TW)                   |
+| Twitch Studio Faq                      | 06/09/2023, 6:09:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=zh_TW)                       |
 | Subpoint Vs Subcount                   | 01/09/2023, 5:48:06 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=zh_TW)                    |
 | Moments                                | 01/09/2023, 2:59:12 am    | [Link](https://help.twitch.tv/s/article/moments?language=zh_TW)                                 |
 | Partner Program Overview               | 29/08/2023, 4:09:34 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                |
@@ -48,9 +50,6 @@
 | Refunds On Twitch                      | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=zh_TW)                       |
 | Broadcasting Guidelines                | 27/06/2023, 0:01:57 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=zh_TW)                 |
 | Video On Demand                        | 24/06/2023, 0:46:10 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                         |
-| Patch Notes 19                         | 23/06/2023, 6:48:20 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=zh_TW)                          |
-| Affiliate Onboarding Guide             | 22/06/2023, 2:38:53 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)              |
-| Twitch Music Getting Started           | 05/06/2023, 5:39:41 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=zh_TW)            |
 
 
 
