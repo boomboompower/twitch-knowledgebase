@@ -7,6 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| twitch-studio-mac-faq                                         | 06/09/2023, 6:14:18 am  | 06/09/2023, 6:14:18 am  | [Details](#twitch-studio-mac-faq)                                          |
+| twitch-studio-faq                                             | 06/09/2023, 6:09:07 am  | 06/09/2023, 6:09:05 am  | [Details](#twitch-studio-faq)                                              |
 | subpoint-vs-subcount                                          | 01/09/2023, 5:48:06 am  | 24/08/2023, 9:54:40 am  | [Details](#subpoint-vs-subcount)                                           |
 | moments                                                       | 01/09/2023, 2:59:12 am  | 17/08/2023, 6:58:07 am  | [Details](#moments)                                                        |
 | featured-clips                                                | 30/08/2023, 8:20:55 am  | 30/08/2023, 8:20:54 am  | [Details](#featured-clips)                                                 |
@@ -140,7 +142,6 @@ Language data is not included in the API. All page links will not have a languag
 | joining-guest-star                                            | 21/01/2023, 1:27:35 am  | 21/01/2023, 1:27:33 am  | [Details](#joining-guest-star)                                             |
 | guest-request-to-join                                         | 18/01/2023, 4:05:10 am  | 18/01/2023, 4:04:59 am  | [Details](#guest-request-to-join)                                          |
 | guest-star                                                    | 18/01/2023, 4:04:49 am  | 18/01/2023, 4:04:46 am  | [Details](#guest-star)                                                     |
-| twitch-studio-mac-faq                                         | 16/01/2023, 10:40:04 pm | 11/01/2023, 6:56:42 am  | [Details](#twitch-studio-mac-faq)                                          |
 | twitch-mobile-app-update                                      | 16/01/2023, 10:39:33 pm | 11/01/2023, 7:01:26 am  | [Details](#twitch-mobile-app-update)                                       |
 | how-to-share-a-stream                                         | 13/01/2023, 10:51:02 pm | 06/01/2023, 0:52:02 pm  | [Details](#how-to-share-a-stream)                                          |
 | twitch-research-surveys                                       | 03/01/2023, 9:17:37 am  | 03/01/2023, 9:17:37 am  | [Details](#twitch-research-surveys)                                        |
@@ -226,7 +227,6 @@ Language data is not included in the API. All page links will not have a languag
 | local-subscription-pricing                                    | 09/04/2022, 2:34:09 am  | 01/04/2022, 3:38:18 am  | [Details](#local-subscription-pricing)                                     |
 | mobile-game-broadcasting                                      | 07/04/2022, 6:03:04 pm  | 03/04/2022, 4:31:26 am  | [Details](#mobile-game-broadcasting)                                       |
 | copyrighted-audio-warnings                                    | 31/03/2022, 3:30:06 am  | 10/03/2022, 5:51:03 am  | [Details](#copyrighted-audio-warnings)                                     |
-| twitch-studio-faq                                             | 15/03/2022, 8:01:33 pm  | 10/03/2022, 9:52:51 am  | [Details](#twitch-studio-faq)                                              |
 | subscription-cancellation-reasons                             | 12/03/2022, 9:44:20 am  | 11/12/2021, 11:00:11 am | [Details](#subscription-cancellation-reasons)                              |
 | partner-cheermote-guide                                       | 11/03/2022, 0:32:34 am  | 08/03/2022, 7:47:12 am  | [Details](#partner-cheermote-guide)                                        |
 | amazon-tax-information-interview-and-irs-annual-reporting-faq | 11/03/2022, 0:21:34 am  | 01/03/2022, 11:21:47 pm | [Details](#amazon-tax-information-interview-and-irs-annual-reporting-faq)  |
@@ -4351,31 +4351,31 @@ https://help.twitch.tv/s/article/twitch-studio-creator-goals
 ### twitch-studio-faq
 https://help.twitch.tv/s/article/twitch-studio-faq
 
-| Title                                                                     | Last Modified           | Created                 |
-|---------------------------------------------------------------------------|-------------------------|-------------------------|
-| Dettagli e FAQ sulla beta di Twitch Studio                                | 15/03/2022, 8:01:33 pm  | 10/03/2022, 9:52:51 am  |
-| Beta do Twitch Studio - Detalhes e perguntas frequentes                   | 15/03/2022, 4:29:05 am  | 10/03/2022, 9:52:51 am  |
-| Detalles y preguntas frecuentes de la beta de Twitch Studio               | 11/03/2022, 7:58:45 pm  | 10/03/2022, 9:52:51 am  |
-| Información y preguntas frecuentes de la beta de Twitch Studio            | 11/03/2022, 7:58:35 pm  | 10/03/2022, 9:52:51 am  |
-| Détails et FAQ de la bêta de Twitch Studio                                | 10/03/2022, 11:21:38 pm | 10/03/2022, 9:52:51 am  |
-| Detaily a otázky o uzavřené betě studia Twitch                            | 10/03/2022, 9:52:06 am  | 10/03/2022, 9:52:04 am  |
-| Detalhes e Perguntas Frequentes da Beta Privada do Twitch Studio          | 10/03/2022, 9:52:06 am  | 10/03/2022, 9:52:04 am  |
-| Informasjon og ofte stilte spørsmål om Twitch Studios lukkede beta        | 10/03/2022, 9:52:06 am  | 10/03/2022, 9:52:04 am  |
-| Informatie en veelgestelde vragen over de besloten bèta van Twitch Studio | 10/03/2022, 9:52:06 am  | 10/03/2022, 9:52:04 am  |
-| Information och vanliga frågor om den stängda Twitch Studio-betan         | 10/03/2022, 9:52:06 am  | 10/03/2022, 9:52:04 am  |
+| Title                                                                     | Last Modified          | Created                 |
+|---------------------------------------------------------------------------|------------------------|-------------------------|
+| Beta do Twitch Studio - Detalhes e perguntas frequentes                   | 06/09/2023, 6:09:07 am | 06/09/2023, 6:09:05 am  |
+| Detaily a otázky o uzavřené betě studia Twitch                            | 06/09/2023, 6:09:07 am | 06/09/2023, 6:09:05 am  |
+| Detalhes e Perguntas Frequentes da Beta Privada do Twitch Studio          | 06/09/2023, 6:09:07 am | 06/09/2023, 6:09:05 am  |
+| Detalles y preguntas frecuentes de la beta de Twitch Studio               | 06/09/2023, 6:09:07 am | 06/09/2023, 6:09:05 am  |
+| Dettagli e FAQ sulla beta di Twitch Studio                                | 06/09/2023, 6:09:07 am | 06/09/2023, 6:09:05 am  |
+| Détails et FAQ de la bêta de Twitch Studio                                | 06/09/2023, 6:09:07 am | 06/09/2023, 6:09:05 am  |
+| Información y preguntas frecuentes de la beta de Twitch Studio            | 06/09/2023, 6:09:07 am | 06/09/2023, 6:09:05 am  |
+| Informasjon og ofte stilte spørsmål om Twitch Studios lukkede beta        | 06/09/2023, 6:09:07 am | 06/09/2023, 6:09:05 am  |
+| Informatie en veelgestelde vragen over de besloten bèta van Twitch Studio | 06/09/2023, 6:09:07 am | 06/09/2023, 6:09:05 am  |
+| Information och vanliga frågor om den stängda Twitch Studio-betan         | 06/09/2023, 6:09:07 am | 06/09/2023, 6:09:06 am  |
 
 
 ### twitch-studio-mac-faq
 https://help.twitch.tv/s/article/twitch-studio-mac-faq
 
-| Title                                                                   | Last Modified           | Created                 |
-|-------------------------------------------------------------------------|-------------------------|-------------------------|
-| Detalles y preguntas frecuentes sobre la beta de Twitch Studio para Mac | 16/01/2023, 10:40:04 pm | 11/01/2023, 6:56:42 am  |
-| Información y preguntas frecuentes de la beta de Twitch Studio para Mac | 16/01/2023, 10:04:33 pm | 11/01/2023, 6:56:42 am  |
-| Détails et FAQ de la bêta de Twitch Studio Mac                          | 16/01/2023, 9:00:21 pm  | 11/01/2023, 6:56:42 am  |
-| Dettagli e FAQ sulla beta di Twitch Studio per Mac                      | 16/01/2023, 7:33:24 pm  | 11/01/2023, 6:56:42 am  |
-| Mac版Twitch Studio Betaの詳細とよくある質問                                        | 16/01/2023, 6:05:34 pm  | 11/01/2023, 6:56:42 am  |
-| Beta para Mac do Twitch Studio - Detalhes e perguntas frequentes        | 14/01/2023, 0:23:02 am  | 11/01/2023, 6:56:42 am  |
+| Title                                                                   | Last Modified          | Created                 |
+|-------------------------------------------------------------------------|------------------------|-------------------------|
+| Beta para Mac do Twitch Studio - Detalhes e perguntas frequentes        | 06/09/2023, 6:14:18 am | 06/09/2023, 6:14:18 am  |
+| Detalles y preguntas frecuentes sobre la beta de Twitch Studio para Mac | 06/09/2023, 6:14:18 am | 06/09/2023, 6:14:18 am  |
+| Dettagli e FAQ sulla beta di Twitch Studio per Mac                      | 06/09/2023, 6:14:18 am | 06/09/2023, 6:14:18 am  |
+| Détails et FAQ de la bêta de Twitch Studio Mac                          | 06/09/2023, 6:14:18 am | 06/09/2023, 6:14:18 am  |
+| Información y preguntas frecuentes de la beta de Twitch Studio para Mac | 06/09/2023, 6:14:18 am | 06/09/2023, 6:14:18 am  |
+| Mac版Twitch Studio Betaの詳細とよくある質問                                        | 06/09/2023, 6:14:18 am | 06/09/2023, 6:14:18 am  |
 
 
 ### twitch-studio-updates
