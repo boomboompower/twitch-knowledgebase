@@ -7,12 +7,14 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| research                                                      | 07/09/2023, 4:03:13 am  | 07/09/2023, 4:03:13 am  | [Details](#research)                                                       |
+| channel-analytics                                             | 07/09/2023, 3:55:22 am  | 30/08/2023, 8:34:54 am  | [Details](#channel-analytics)                                              |
+| featured-clips                                                | 06/09/2023, 11:45:11 pm | 30/08/2023, 8:21:20 am  | [Details](#featured-clips)                                                 |
+| hype-train-guide                                              | 06/09/2023, 11:45:08 pm | 27/05/2023, 6:54:25 am  | [Details](#hype-train-guide)                                               |
 | twitch-studio-mac-faq                                         | 06/09/2023, 6:14:18 am  | 06/09/2023, 6:14:18 am  | [Details](#twitch-studio-mac-faq)                                          |
 | twitch-studio-faq                                             | 06/09/2023, 6:09:07 am  | 06/09/2023, 6:09:05 am  | [Details](#twitch-studio-faq)                                              |
 | subpoint-vs-subcount                                          | 01/09/2023, 5:48:06 am  | 24/08/2023, 9:54:40 am  | [Details](#subpoint-vs-subcount)                                           |
 | moments                                                       | 01/09/2023, 2:59:12 am  | 17/08/2023, 6:58:07 am  | [Details](#moments)                                                        |
-| featured-clips                                                | 30/08/2023, 8:20:55 am  | 30/08/2023, 8:20:54 am  | [Details](#featured-clips)                                                 |
-| hype-train-guide                                              | 29/08/2023, 8:40:55 am  | 29/08/2023, 8:40:54 am  | [Details](#hype-train-guide)                                               |
 | partner-program-overview                                      | 29/08/2023, 4:09:34 am  | 29/08/2023, 4:09:33 am  | [Details](#partner-program-overview)                                       |
 | partner-plus-abuse                                            | 29/08/2023, 4:05:20 am  | 19/08/2023, 10:33:35 am | [Details](#partner-plus-abuse)                                             |
 | how-to-provide-feedback                                       | 28/08/2023, 10:28:38 pm | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
@@ -81,12 +83,10 @@ Language data is not included in the API. All page links will not have a languag
 | prime-gaming-revenue-guide                                    | 31/05/2023, 0:13:03 am  | 23/05/2023, 0:18:49 pm  | [Details](#prime-gaming-revenue-guide)                                     |
 | local-sub-price-countries                                     | 26/05/2023, 3:15:13 am  | 26/05/2023, 3:15:12 am  | [Details](#local-sub-price-countries)                                      |
 | twitch-turbo-guide                                            | 26/05/2023, 3:14:58 am  | 19/05/2023, 11:51:30 am | [Details](#twitch-turbo-guide)                                             |
-| channel-analytics                                             | 25/05/2023, 7:51:43 am  | 23/05/2023, 0:21:49 pm  | [Details](#channel-analytics)                                              |
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
 | twitch-prime-partner-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:36 am  | [Details](#twitch-prime-partner-guide)                                     |
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
 | emote-analytics                                               | 23/05/2023, 6:24:07 pm  | 13/05/2023, 7:37:37 am  | [Details](#emote-analytics)                                                |
-| playback-issue-troubleshooting                                | 22/05/2023, 10:21:02 pm | 06/05/2023, 8:26:59 am  | [Details](#playback-issue-troubleshooting)                                 |
 | how-to-use-clips                                              | 15/05/2023, 8:10:05 pm  | 15/05/2023, 8:10:04 pm  | [Details](#how-to-use-clips)                                               |
 | guide-to-tags                                                 | 12/05/2023, 11:23:34 pm | 12/05/2023, 11:23:33 pm | [Details](#guide-to-tags)                                                  |
 | how-to-find-and-browse-clips                                  | 12/05/2023, 6:55:17 am  | 06/05/2023, 5:57:31 am  | [Details](#how-to-find-and-browse-clips)                                   |
@@ -190,7 +190,7 @@ Language data is not included in the API. All page links will not have a languag
 | streamer-revenue-strategy-2022                                | 21/09/2022, 7:54:04 pm  | 14/09/2022, 8:47:06 am  | [Details](#streamer-revenue-strategy-2022)                                 |
 | affiliate-emote-prefix-change                                 | 21/09/2022, 4:59:50 am  | 30/08/2022, 3:53:48 am  | [Details](#affiliate-emote-prefix-change)                                  |
 | boost-train                                                   | 20/09/2022, 2:34:36 am  | 30/08/2022, 3:36:03 pm  | [Details](#boost-train)                                                    |
-| ingame-overlay                                                | 15/09/2022, 9:12:33 pm  | 09/09/2022, 6:36:37 am  | [Details](#ingame-overlay)                                                 |
+| ingame-overlay                                                | 12/09/2022, 8:49:34 pm  | 09/09/2022, 6:36:37 am  | [Details](#ingame-overlay)                                                 |
 | managing-subscription-tiers                                   | 30/08/2022, 10:12:08 pm | 17/08/2022, 9:09:16 am  | [Details](#managing-subscription-tiers)                                    |
 | managing-and-upgrading-a-gift-subscription                    | 30/08/2022, 7:28:03 am  | 17/08/2022, 9:14:32 am  | [Details](#managing-and-upgrading-a-gift-subscription)                     |
 | partner-exclusivity-faq                                       | 26/08/2022, 10:06:06 pm | 26/08/2022, 10:06:02 pm | [Details](#partner-exclusivity-faq)                                        |
@@ -202,7 +202,7 @@ Language data is not included in the API. All page links will not have a languag
 | about-account-suspensions-dmca-suspensions-and-chat-bans      | 03/08/2022, 5:54:49 am  | 22/07/2022, 6:49:37 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | scene-importing                                               | 03/08/2022, 5:54:38 am  | 03/08/2022, 5:54:35 am  | [Details](#scene-importing)                                                |
 | channel-points-predictions                                    | 30/07/2022, 4:23:37 am  | 30/07/2022, 4:23:24 am  | [Details](#channel-points-predictions)                                     |
-| games-irl-and-music-directories                               | 28/07/2022, 3:03:23 am  | 30/06/2022, 8:03:56 am  | [Details](#games-irl-and-music-directories)                                |
+| games-irl-and-music-directories                               | 28/07/2022, 3:03:22 am  | 30/06/2022, 8:03:56 am  | [Details](#games-irl-and-music-directories)                                |
 | ban-evasion                                                   | 22/07/2022, 2:42:23 am  | 01/07/2022, 4:49:25 am  | [Details](#ban-evasion)                                                    |
 | how-do-i-stream-faq                                           | 20/07/2022, 6:19:45 am  | 20/07/2022, 6:19:17 am  | [Details](#how-do-i-stream-faq)                                            |
 | payout-details-faq                                            | 13/07/2022, 3:11:03 am  | 29/06/2022, 8:26:24 am  | [Details](#payout-details-faq)                                             |
@@ -1019,11 +1019,11 @@ https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messag
 ### channel-analytics
 https://help.twitch.tv/s/article/channel-analytics
 
-| Title                     | Last Modified          | Created                  |
-|---------------------------|------------------------|--------------------------|
-| Kanal Analizi Genel Bakış | 25/05/2023, 7:51:43 am | 23/05/2023, 0:21:49 pm   |
-| Analytics Overview        | 24/05/2023, 4:01:52 am | 23/05/2023, 11:10:35 am  |
-| Análise de Canal          | 24/05/2023, 4:01:50 am | 24/05/2023, 4:01:50 am   |
+| Title                     | Last Modified          | Created                 |
+|---------------------------|------------------------|-------------------------|
+| Analytics Overview        | 07/09/2023, 3:55:22 am | 30/08/2023, 8:34:54 am  |
+| Análise de Canal          | 07/09/2023, 3:55:18 am | 07/09/2023, 3:55:17 am  |
+| Kanal Analizi Genel Bakış | 07/09/2023, 3:55:18 am | 07/09/2023, 3:55:17 am  |
 
 
 ### channel-page-setup
@@ -1671,15 +1671,15 @@ https://help.twitch.tv/s/article/failed-payments
 ### featured-clips
 https://help.twitch.tv/s/article/featured-clips
 
-| Title               | Last Modified          | Created                 |
-|---------------------|------------------------|-------------------------|
-| Ausgewählte Clips   | 30/08/2023, 8:20:55 am | 30/08/2023, 8:20:54 am  |
-| Clip in primo piano | 30/08/2023, 8:20:55 am | 30/08/2023, 8:20:54 am  |
-| Clipes em destaque  | 30/08/2023, 8:20:55 am | 30/08/2023, 8:20:54 am  |
-| Clips destacados    | 30/08/2023, 8:20:55 am | 30/08/2023, 8:20:54 am  |
-| Clips destacados    | 30/08/2023, 8:20:55 am | 30/08/2023, 8:20:54 am  |
-| Clips à la une      | 30/08/2023, 8:20:55 am | 30/08/2023, 8:20:54 am  |
-| Featured Clips      | 30/08/2023, 8:20:55 am | 30/08/2023, 8:17:12 am  |
+| Title               | Last Modified           | Created                 |
+|---------------------|-------------------------|-------------------------|
+| Clips destacados    | 06/09/2023, 11:45:11 pm | 30/08/2023, 8:21:20 am  |
+| Clip in primo piano | 06/09/2023, 11:35:34 pm | 30/08/2023, 8:21:20 am  |
+| Ausgewählte Clips   | 30/08/2023, 8:20:55 am  | 30/08/2023, 8:20:54 am  |
+| Clipes em destaque  | 30/08/2023, 8:20:55 am  | 30/08/2023, 8:20:54 am  |
+| Clips destacados    | 30/08/2023, 8:20:55 am  | 30/08/2023, 8:20:54 am  |
+| Clips à la une      | 30/08/2023, 8:20:55 am  | 30/08/2023, 8:20:54 am  |
+| Featured Clips      | 30/08/2023, 8:20:55 am  | 30/08/2023, 8:17:12 am  |
 
 
 ### first-steps-for-new-affiliates
@@ -1744,7 +1744,6 @@ https://help.twitch.tv/s/article/games-irl-and-music-directories
 
 | Title                                   | Last Modified          | Created                 |
 |-----------------------------------------|------------------------|-------------------------|
-| Oyun, IRL ve Müzik Dizinleri            | 28/07/2022, 3:03:23 am | 30/06/2022, 8:03:56 am  |
 | Directorios de juegos, IRL y música     | 28/07/2022, 3:03:22 am | 30/06/2022, 8:03:56 am  |
 | Directorios de juegos, IRL y música     | 28/07/2022, 3:03:22 am | 30/06/2022, 8:03:56 am  |
 | Directory Giochi, IRL e Musica          | 28/07/2022, 3:03:22 am | 30/06/2022, 8:03:56 am  |
@@ -2229,7 +2228,6 @@ https://help.twitch.tv/s/article/how-to-claim-in-game-content
 | Ingame-Inhalte erhalten                      | 22/10/2021, 8:53:55 am | 29/05/2020, 9:27:46 am  |
 | Jak uzyskać zawartość w grze                 | 22/10/2021, 8:53:55 am | 29/05/2020, 9:27:46 am  |
 | Játékon belüli tartalom begyűjtése           | 22/10/2021, 8:53:55 am | 29/05/2020, 8:54:57 am  |
-| Oyun İçi İçerikler Nasıl Alınır?             | 22/10/2021, 8:53:55 am | 29/05/2020, 9:27:46 am  |
 
 
 ### how-to-configure-extensions
@@ -2539,16 +2537,15 @@ https://help.twitch.tv/s/article/how-to-use-clips
 ### how-to-use-collections
 https://help.twitch.tv/s/article/how-to-use-collections
 
-| Title                               | Last Modified          | Created                 |
-|-------------------------------------|------------------------|-------------------------|
-| Como Utilizar Coleções              | 22/10/2021, 8:53:07 am | 10/10/2020, 4:29:03 am  |
-| Oynatma Listeleri Nasıl Kullanılır? | 22/10/2021, 8:53:07 am | 13/10/2020, 5:05:49 am  |
-| How to Use Collections              | 22/10/2021, 8:53:06 am | 03/10/2020, 1:45:18 am  |
-| Jak używać kolekcji                 | 22/10/2021, 8:53:06 am | 13/10/2020, 5:05:49 am  |
-| Come utilizzare le raccolte         | 22/10/2021, 8:53:05 am | 13/10/2020, 5:05:49 am  |
-| Cómo usar Colecciones               | 22/10/2021, 8:53:05 am | 13/10/2020, 5:05:49 am  |
-| Cómo utilizar Recopilaciones        | 22/10/2021, 8:53:05 am | 13/10/2020, 5:05:49 am  |
-| Como usar as coleções               | 22/10/2021, 8:53:04 am | 13/10/2020, 5:05:49 am  |
+| Title                        | Last Modified          | Created                 |
+|------------------------------|------------------------|-------------------------|
+| Como Utilizar Coleções       | 22/10/2021, 8:53:07 am | 10/10/2020, 4:29:03 am  |
+| How to Use Collections       | 22/10/2021, 8:53:06 am | 03/10/2020, 1:45:18 am  |
+| Jak używać kolekcji          | 22/10/2021, 8:53:06 am | 13/10/2020, 5:05:49 am  |
+| Come utilizzare le raccolte  | 22/10/2021, 8:53:05 am | 13/10/2020, 5:05:49 am  |
+| Cómo usar Colecciones        | 22/10/2021, 8:53:05 am | 13/10/2020, 5:05:49 am  |
+| Cómo utilizar Recopilaciones | 22/10/2021, 8:53:05 am | 13/10/2020, 5:05:49 am  |
+| Como usar as coleções        | 22/10/2021, 8:53:04 am | 13/10/2020, 5:05:49 am  |
 
 
 ### how-to-use-extensions
@@ -2741,16 +2738,16 @@ https://help.twitch.tv/s/article/hype-chat-pricing-by-country
 ### hype-train-guide
 https://help.twitch.tv/s/article/hype-train-guide
 
-| Title                     | Last Modified          | Created                 |
-|---------------------------|------------------------|-------------------------|
-| Guia do Hype Train        | 29/08/2023, 8:40:55 am | 29/08/2023, 8:40:54 am  |
-| Guida all'Hype Train      | 29/08/2023, 8:40:55 am | 29/08/2023, 8:40:54 am  |
-| Guide du train de la Hype | 29/08/2023, 8:40:55 am | 29/08/2023, 8:40:54 am  |
-| Guía del Tren del Hype    | 29/08/2023, 8:40:55 am | 29/08/2023, 8:40:54 am  |
-| Guía del Tren del Hype    | 29/08/2023, 8:40:55 am | 29/08/2023, 8:40:54 am  |
-| Hype Train Rehberi        | 29/08/2023, 8:40:55 am | 29/08/2023, 8:40:54 am  |
-| Leitfaden zu Hype Trains  | 29/08/2023, 8:40:55 am | 29/08/2023, 8:40:54 am  |
-| Hype Train Guide          | 29/08/2023, 8:40:54 am | 29/08/2023, 8:38:30 am  |
+| Title                     | Last Modified           | Created                 |
+|---------------------------|-------------------------|-------------------------|
+| Guía del Tren del Hype    | 06/09/2023, 11:45:08 pm | 27/05/2023, 6:54:25 am  |
+| Guida all'Hype Train      | 06/09/2023, 11:35:40 pm | 27/05/2023, 6:54:25 am  |
+| Guia do Hype Train        | 29/08/2023, 8:40:55 am  | 29/08/2023, 8:40:54 am  |
+| Guide du train de la Hype | 29/08/2023, 8:40:55 am  | 29/08/2023, 8:40:54 am  |
+| Guía del Tren del Hype    | 29/08/2023, 8:40:55 am  | 29/08/2023, 8:40:54 am  |
+| Hype Train Rehberi        | 29/08/2023, 8:40:55 am  | 29/08/2023, 8:40:54 am  |
+| Leitfaden zu Hype Trains  | 29/08/2023, 8:40:55 am  | 29/08/2023, 8:40:54 am  |
+| Hype Train Guide          | 29/08/2023, 8:40:54 am  | 29/08/2023, 8:38:30 am  |
 
 
 ### hyper-scape
@@ -2770,12 +2767,9 @@ https://help.twitch.tv/s/article/hyper-scape
 ### ingame-overlay
 https://help.twitch.tv/s/article/ingame-overlay
 
-| Title                                | Last Modified          | Created                 |
-|--------------------------------------|------------------------|-------------------------|
-| Overlay en el juego en Twitch Studio | 15/09/2022, 9:12:33 pm | 09/09/2022, 6:36:37 am  |
-| Overlay in gioco di Twitch Studio    | 15/09/2022, 7:31:34 pm | 09/09/2022, 6:36:37 am  |
-| Overlay en jeu Twitch Studio         | 15/09/2022, 7:02:34 pm | 09/09/2022, 6:36:37 am  |
-| Nakładka w grze w Twitch Studio      | 12/09/2022, 8:49:34 pm | 09/09/2022, 6:36:37 am  |
+| Title                           | Last Modified          | Created                 |
+|---------------------------------|------------------------|-------------------------|
+| Nakładka w grze w Twitch Studio | 12/09/2022, 8:49:34 pm | 09/09/2022, 6:36:37 am  |
 
 
 ### joining-guest-star
@@ -3502,14 +3496,6 @@ https://help.twitch.tv/s/article/pinned-chat
 | Mensajes de chat fijados \[Función experimental] | 28/02/2023, 7:37:30 am | 03/02/2023, 1:08:12 pm  |
 
 
-### playback-issue-troubleshooting
-https://help.twitch.tv/s/article/playback-issue-troubleshooting
-
-| Title                          | Last Modified           | Created                 |
-|--------------------------------|-------------------------|-------------------------|
-| Oynatma sorunları ve çözümleri | 22/05/2023, 10:21:02 pm | 06/05/2023, 8:26:59 am  |
-
-
 ### political-onboarding
 https://help.twitch.tv/s/article/political-onboarding
 
@@ -3644,6 +3630,20 @@ https://help.twitch.tv/s/article/requesting-your-data-from-twitch
 | Cómo obtener y descargar tus datos de Twitch | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  |
 | Demander vos données à Twitch                | 24/05/2023, 7:46:32 pm  | 17/05/2023, 9:56:54 am  |
 | Anfordern deiner Daten von Twitch            | 24/05/2023, 6:52:03 pm  | 17/05/2023, 9:56:54 am  |
+
+
+### research
+https://help.twitch.tv/s/article/research
+
+| Title                       | Last Modified          | Created                 |
+|-----------------------------|------------------------|-------------------------|
+| Analitica per le ricerche   | 07/09/2023, 4:03:13 am | 07/09/2023, 4:03:13 am  |
+| Analiza badań               | 07/09/2023, 4:03:13 am | 07/09/2023, 4:03:13 am  |
+| Analytics de pesquisa       | 07/09/2023, 4:03:13 am | 07/09/2023, 4:03:13 am  |
+| Analytics-Suchseite         | 07/09/2023, 4:03:13 am | 07/09/2023, 4:03:13 am  |
+| Analíticas de investigación | 07/09/2023, 4:03:13 am | 07/09/2023, 4:03:13 am  |
+| Análisis de investigación   | 07/09/2023, 4:03:13 am | 07/09/2023, 4:03:13 am  |
+| Araştırma analizi           | 07/09/2023, 4:03:13 am | 07/09/2023, 4:03:13 am  |
 
 
 ### revenue
