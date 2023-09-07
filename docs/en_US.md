@@ -6,6 +6,7 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Channel Analytics                      | 07/09/2023, 3:55:22 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=en_US)                       |
 | Twitch Studio Mac Faq                  | 06/09/2023, 6:14:19 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=en_US)                   |
 | Twitch Studio Faq                      | 06/09/2023, 6:09:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=en_US)                       |
 | Subpoint Vs Subcount                   | 01/09/2023, 5:48:05 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=en_US)                    |
@@ -43,7 +44,6 @@
 | Managing Roles For Your Channel        | 11/07/2023, 2:22:54 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=en_US)         |
 | Creating An Account With Twitch        | 11/07/2023, 2:20:36 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=en_US)         |
 | Refunds On Twitch                      | 01/07/2023, 11:23:37 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=en_US)                       |
-| Broadcasting Guidelines                | 27/06/2023, 0:00:42 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                 |
 
 
 
