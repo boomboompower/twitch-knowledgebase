@@ -7,10 +7,17 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| gift-subscriptions                                            | 08/09/2023, 9:56:46 am  | 08/09/2023, 9:56:44 am  | [Details](#gift-subscriptions)                                             |
+| hype-train-guide                                              | 08/09/2023, 9:56:15 am  | 27/05/2023, 6:54:25 am  | [Details](#hype-train-guide)                                               |
+| dac7-interview                                                | 08/09/2023, 1:59:45 am  | 08/09/2023, 1:59:45 am  | [Details](#dac7-interview)                                                 |
+| amazon-tax-information-interview-and-irs-annual-reporting-faq | 08/09/2023, 1:58:12 am  | 11/03/2022, 9:28:13 am  | [Details](#amazon-tax-information-interview-and-irs-annual-reporting-faq)  |
+| affiliate-onboarding-guide                                    | 08/09/2023, 1:14:30 am  | 17/08/2023, 4:05:59 am  | [Details](#affiliate-onboarding-guide)                                     |
+| affiliate-settings-guide                                      | 08/09/2023, 1:14:10 am  | 21/07/2023, 5:09:17 am  | [Details](#affiliate-settings-guide)                                       |
+| joining-the-affiliate-program                                 | 08/09/2023, 1:13:55 am  | 17/08/2023, 3:34:18 am  | [Details](#joining-the-affiliate-program)                                  |
+| twitch-affiliate-program-faq                                  | 08/09/2023, 1:13:40 am  | 17/08/2023, 3:34:58 am  | [Details](#twitch-affiliate-program-faq)                                   |
 | research                                                      | 07/09/2023, 4:03:13 am  | 07/09/2023, 4:03:13 am  | [Details](#research)                                                       |
 | channel-analytics                                             | 07/09/2023, 3:55:22 am  | 30/08/2023, 8:34:54 am  | [Details](#channel-analytics)                                              |
 | featured-clips                                                | 06/09/2023, 11:45:11 pm | 30/08/2023, 8:21:20 am  | [Details](#featured-clips)                                                 |
-| hype-train-guide                                              | 06/09/2023, 11:45:08 pm | 27/05/2023, 6:54:25 am  | [Details](#hype-train-guide)                                               |
 | twitch-studio-mac-faq                                         | 06/09/2023, 6:14:18 am  | 06/09/2023, 6:14:18 am  | [Details](#twitch-studio-mac-faq)                                          |
 | twitch-studio-faq                                             | 06/09/2023, 6:09:07 am  | 06/09/2023, 6:09:05 am  | [Details](#twitch-studio-faq)                                              |
 | subpoint-vs-subcount                                          | 01/09/2023, 5:48:06 am  | 24/08/2023, 9:54:40 am  | [Details](#subpoint-vs-subcount)                                           |
@@ -73,7 +80,6 @@ Language data is not included in the API. All page links will not have a languag
 | 2023-updated-monetized-streamer-agreement                     | 23/06/2023, 2:38:05 am  | 23/06/2023, 2:38:05 am  | [Details](#2023-updated-monetized-streamer-agreement)                      |
 | hype-chat-for-streamers                                       | 23/06/2023, 2:16:54 am  | 15/06/2023, 9:26:20 am  | [Details](#hype-chat-for-streamers)                                        |
 | creator-dashboard                                             | 22/06/2023, 3:04:14 am  | 10/06/2023, 0:28:32 am  | [Details](#creator-dashboard)                                              |
-| affiliate-onboarding-guide                                    | 22/06/2023, 2:38:09 am  | 10/06/2023, 3:15:17 pm  | [Details](#affiliate-onboarding-guide)                                     |
 | branded-content-policy                                        | 09/06/2023, 8:46:18 am  | 09/06/2023, 2:10:34 am  | [Details](#branded-content-policy)                                         |
 | simulcasting-guidelines                                       | 07/06/2023, 1:27:03 am  | 07/06/2023, 1:27:02 am  | [Details](#simulcasting-guidelines)                                        |
 | android-purchases                                             | 06/06/2023, 6:59:18 am  | 25/05/2023, 10:43:54 am | [Details](#android-purchases)                                              |
@@ -151,13 +157,11 @@ Language data is not included in the API. All page links will not have a languag
 | live-viewer-feedback                                          | 10/12/2022, 8:46:52 am  | 10/12/2022, 8:42:17 am  | [Details](#live-viewer-feedback)                                           |
 | how-to-use-host-mode                                          | 10/12/2022, 8:09:10 am  | 10/12/2022, 8:09:09 am  | [Details](#how-to-use-host-mode)                                           |
 | your-first-payout-walkthrough                                 | 10/12/2022, 1:47:35 am  | 06/12/2022, 10:18:50 am | [Details](#your-first-payout-walkthrough)                                  |
-| twitch-affiliate-program-faq                                  | 10/12/2022, 1:47:34 am  | 06/12/2022, 9:58:25 am  | [Details](#twitch-affiliate-program-faq)                                   |
 | gift-subscriptions-for-creators                               | 07/12/2022, 10:47:38 am | 07/12/2022, 10:47:38 am | [Details](#gift-subscriptions-for-creators)                                |
 | mod-view                                                      | 06/12/2022, 2:30:12 am  | 02/12/2022, 9:11:24 am  | [Details](#mod-view)                                                       |
 | emote-slots                                                   | 06/12/2022, 2:30:09 am  | 02/12/2022, 8:46:19 am  | [Details](#emote-slots)                                                    |
 | how-to-use-twitch-showcase                                    | 06/12/2022, 1:27:04 am  | 02/12/2022, 4:40:24 am  | [Details](#how-to-use-twitch-showcase)                                     |
 | chat-commands                                                 | 19/11/2022, 2:02:32 am  | 19/11/2022, 2:02:30 am  | [Details](#chat-commands)                                                  |
-| gift-subscriptions                                            | 18/11/2022, 6:01:11 am  | 18/11/2022, 6:01:10 am  | [Details](#gift-subscriptions)                                             |
 | xbox-broadcast                                                | 17/11/2022, 11:24:03 pm | 17/11/2022, 11:24:02 pm | [Details](#xbox-broadcast)                                                 |
 | minimum-payout-threshold                                      | 15/11/2022, 4:58:06 am  | 09/11/2022, 0:14:16 pm  | [Details](#minimum-payout-threshold)                                       |
 | minimum-payout-threshold-countries                            | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:10:33 pm  | [Details](#minimum-payout-threshold-countries)                             |
@@ -176,7 +180,6 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-contact-extension-developer                            | 26/10/2022, 7:44:01 am  | 26/10/2022, 7:43:31 am  | [Details](#how-to-contact-extension-developer)                             |
 | getting-started-twitch-studio                                 | 26/10/2022, 4:12:49 am  | 27/09/2022, 8:44:10 am  | [Details](#getting-started-twitch-studio)                                  |
 | how-to-use-squad-stream                                       | 21/10/2022, 7:26:47 am  | 30/09/2022, 8:30:40 am  | [Details](#how-to-use-squad-stream)                                        |
-| joining-the-affiliate-program                                 | 21/10/2022, 7:26:14 am  | 30/09/2022, 9:37:55 am  | [Details](#joining-the-affiliate-program)                                  |
 | earning-revenue-from-bits-in-extensions                       | 21/10/2022, 7:25:42 am  | 30/09/2022, 7:54:28 am  | [Details](#earning-revenue-from-bits-in-extensions)                        |
 | earning-revenue-from-bits-in-extensions-beta                  | 21/10/2022, 7:25:40 am  | 21/10/2022, 7:25:39 am  | [Details](#earning-revenue-from-bits-in-extensions-beta)                   |
 | esports-directory                                             | 21/10/2022, 7:24:58 am  | 30/09/2022, 7:49:57 am  | [Details](#esports-directory)                                              |
@@ -229,7 +232,6 @@ Language data is not included in the API. All page links will not have a languag
 | copyrighted-audio-warnings                                    | 31/03/2022, 3:30:06 am  | 10/03/2022, 5:51:03 am  | [Details](#copyrighted-audio-warnings)                                     |
 | subscription-cancellation-reasons                             | 12/03/2022, 9:44:20 am  | 11/12/2021, 11:00:11 am | [Details](#subscription-cancellation-reasons)                              |
 | partner-cheermote-guide                                       | 11/03/2022, 0:32:34 am  | 08/03/2022, 7:47:12 am  | [Details](#partner-cheermote-guide)                                        |
-| amazon-tax-information-interview-and-irs-annual-reporting-faq | 11/03/2022, 0:21:34 am  | 01/03/2022, 11:21:47 pm | [Details](#amazon-tax-information-interview-and-irs-annual-reporting-faq)  |
 | browser-extensions-twitch                                     | 08/03/2022, 11:08:04 pm | 08/03/2022, 11:48:10 am | [Details](#browser-extensions-twitch)                                      |
 | animated-emotes                                               | 25/02/2022, 11:52:33 pm | 17/02/2022, 5:23:11 am  | [Details](#animated-emotes)                                                |
 | bounty-board-program-information-and-faq                      | 18/02/2022, 8:37:04 pm  | 18/02/2022, 8:37:02 pm  | [Details](#bounty-board-program-information-and-faq)                       |
@@ -299,7 +301,6 @@ Language data is not included in the API. All page links will not have a languag
 | tips-for-applying-to-the-partner-program                      | 22/10/2021, 8:53:24 am  | 01/06/2019, 6:37:24 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
 | partner-settings-guide                                        | 22/10/2021, 8:53:24 am  | 20/01/2021, 6:00:49 am  | [Details](#partner-settings-guide)                                         |
 | Tips-for-Bounty-Board-Completing-Bounties                     | 22/10/2021, 8:53:23 am  | 15/06/2019, 7:43:19 am  | [Details](#tips-for-bounty-board-completing-bounties)                      |
-| affiliate-settings-guide                                      | 22/10/2021, 8:53:19 am  | 20/01/2021, 6:17:06 am  | [Details](#affiliate-settings-guide)                                       |
 | recommended-hardware-for-broadcasting                         | 22/10/2021, 8:53:12 am  | 27/02/2019, 3:24:01 pm  | [Details](#recommended-hardware-for-broadcasting)                          |
 | extensions-switch-with-your-game-selection                    | 22/10/2021, 8:53:12 am  | 01/11/2019, 2:47:17 am  | [Details](#extensions-switch-with-your-game-selection)                     |
 | pools-hottubs-beaches                                         | 22/10/2021, 8:53:12 am  | 21/05/2021, 7:44:33 am  | [Details](#pools-hottubs-beaches)                                          |
@@ -425,7 +426,6 @@ https://help.twitch.tv/s/article/achievements
 |--------------|------------------------|-------------------------|
 | Logros       | 19/07/2023, 9:13:42 pm | 11/07/2023, 2:30:32 am  |
 | Başarılar    | 19/07/2023, 9:09:33 pm | 11/07/2023, 2:30:32 am  |
-| Osiągnięcia  | 19/07/2023, 8:44:03 pm | 11/07/2023, 2:30:32 am  |
 | Achievements | 19/07/2023, 7:45:10 pm | 11/07/2023, 2:30:32 am  |
 | Obiettivi    | 19/07/2023, 6:09:05 pm | 11/07/2023, 2:30:32 am  |
 | Logros       | 19/07/2023, 8:25:34 am | 11/07/2023, 2:30:32 am  |
@@ -531,13 +531,13 @@ https://help.twitch.tv/s/article/affiliate-onboarding-guide
 
 | Title                                          | Last Modified          | Created                 |
 |------------------------------------------------|------------------------|-------------------------|
-| Guía de Introducción de Afiliado               | 22/06/2023, 2:38:09 am | 10/06/2023, 3:15:17 pm  |
-| Guia de integração de afiliados                | 22/06/2023, 2:37:53 am | 10/06/2023, 3:15:17 pm  |
-| Guía de incorporación de afiliados             | 22/06/2023, 2:37:32 am | 10/06/2023, 3:15:17 pm  |
-| Guida alla registrazione affiliato             | 22/06/2023, 2:36:20 am | 10/06/2023, 3:15:17 pm  |
-| Leitfaden zum Affiliate-Onboarding             | 22/06/2023, 2:36:00 am | 10/06/2023, 3:15:17 pm  |
-| Guide d'intégration au programme d'affiliation | 22/06/2023, 2:35:47 am | 10/06/2023, 3:15:17 pm  |
-| Affiliate Onboarding Guide                     | 22/06/2023, 2:35:33 am | 10/06/2023, 3:12:54 pm  |
+| Guia de integração de afiliados                | 08/09/2023, 1:14:30 am | 17/08/2023, 4:05:59 am  |
+| Affiliate Onboarding Guide                     | 08/09/2023, 1:14:29 am | 17/08/2023, 2:33:08 am  |
+| Guida alla registrazione affiliato             | 08/09/2023, 1:14:29 am | 17/08/2023, 4:05:59 am  |
+| Guide d'intégration au programme d'affiliation | 08/09/2023, 1:14:29 am | 17/08/2023, 4:05:59 am  |
+| Guía de incorporación de afiliados             | 08/09/2023, 1:14:29 am | 17/08/2023, 4:05:59 am  |
+| Guía de Introducción de Afiliado               | 08/09/2023, 1:14:29 am | 17/08/2023, 4:05:59 am  |
+| Leitfaden zum Affiliate-Onboarding             | 08/09/2023, 1:14:28 am | 17/08/2023, 4:05:59 am  |
 
 
 ### affiliate-or-partner-anniversary-settings
@@ -558,13 +558,13 @@ https://help.twitch.tv/s/article/affiliate-settings-guide
 
 | Title                                | Last Modified          | Created                 |
 |--------------------------------------|------------------------|-------------------------|
-| Affiliate Settings Guide             | 22/10/2021, 8:53:19 am | 20/01/2021, 6:17:06 am  |
-| Guida alle impostazioni affiliato    | 22/10/2021, 8:53:19 am | 20/01/2021, 6:17:36 am  |
-| Guía de configuración de afiliados   | 22/10/2021, 8:53:19 am | 20/01/2021, 6:17:36 am  |
-| Guia de configurações para Afiliados | 22/10/2021, 8:53:18 am | 20/01/2021, 6:17:36 am  |
-| Guide des paramètres d'affiliation   | 22/10/2021, 8:53:18 am | 20/01/2021, 6:17:36 am  |
-| Guía de configuración de Afiliados   | 22/10/2021, 8:53:18 am | 20/01/2021, 6:17:36 am  |
-| Leitfaden zu Affiliate-Einstellungen | 22/10/2021, 8:53:18 am | 20/01/2021, 6:17:36 am  |
+| Guia de configurações para Afiliados | 08/09/2023, 1:14:10 am | 21/07/2023, 5:09:17 am  |
+| Guida alle impostazioni affiliato    | 08/09/2023, 1:14:10 am | 21/07/2023, 5:09:17 am  |
+| Guide des paramètres d'affiliation   | 08/09/2023, 1:14:10 am | 21/07/2023, 5:09:17 am  |
+| Guía de configuración de Afiliados   | 08/09/2023, 1:14:10 am | 21/07/2023, 5:09:17 am  |
+| Affiliate Settings Guide             | 08/09/2023, 1:14:09 am | 21/07/2023, 4:34:04 am  |
+| Guía de configuración de afiliados   | 08/09/2023, 1:14:09 am | 21/07/2023, 5:09:17 am  |
+| Leitfaden zu Affiliate-Einstellungen | 08/09/2023, 1:14:09 am | 21/07/2023, 5:09:17 am  |
 
 
 ### alerts-by-twitch
@@ -689,18 +689,18 @@ https://help.twitch.tv/s/article/amazon-music
 ### amazon-tax-information-interview-and-irs-annual-reporting-faq
 https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq
 
-| Title                                                                                                             | Last Modified           | Created                  |
-|-------------------------------------------------------------------------------------------------------------------|-------------------------|--------------------------|
-| Odpowiedzi na najczęściej zadawane pytania dotyczące kwestionariusza podatkowego Amazon i rocznego raportu IRS.   | 11/03/2022, 0:21:34 am  | 01/03/2022, 11:21:47 pm  |
-| FAQs zum Amazon Steuerinterview und zum jährlichen Bericht an die IRS                                             | 10/03/2022, 11:24:05 pm | 01/03/2022, 1:07:34 pm   |
-| Domande frequenti relative al questionario sui dati fiscali per Amazon e alla rendicontazione contabile per l'IRS | 10/03/2022, 9:05:05 pm  | 01/03/2022, 1:07:34 pm   |
-| Amazon Vergi Bilgi Formu ve IRS Yıllık Raporu Hakkında SSS                                                        | 10/03/2022, 6:13:05 pm  | 01/03/2022, 1:07:34 pm   |
-| Amazon税務情報インタビューとIRS年次報告書に関するよくある質問                                                                               | 10/03/2022, 5:08:12 pm  | 01/03/2022, 1:07:34 pm   |
-| FAQ sur le questionnaire fiscal d'Amazon et le rapport annuel de l'IRS                                            | 10/03/2022, 0:24:35 pm  | 01/03/2022, 1:07:34 pm   |
-| Amazon 稅務資料問卷與美國國家稅務局 IRS 年度申報表常見問題                                                                               | 09/03/2022, 2:28:35 pm  | 09/03/2022, 2:28:32 pm   |
-| Amazon Tax Information Interview and IRS Annual Reporting FAQ                                                     | 08/03/2022, 5:00:48 am  | 01/03/2022, 1:06:44 pm   |
-| Amazon 税务信息问卷与美国国税务局年度申报常见问题                                                                                      | 08/03/2022, 5:00:40 am  | 08/03/2022, 5:00:39 am   |
-| Gyakran ismételt kérdések az Amazon adózási adatokról szóló kérdőívvel és az éves IRS-bejelentéssel kapcsolatban  | 08/03/2022, 5:00:40 am  | 08/03/2022, 5:00:39 am   |
+| Title                                                                                                             | Last Modified          | Created                 |
+|-------------------------------------------------------------------------------------------------------------------|------------------------|-------------------------|
+| Amazon Vergi Bilgi Formu ve IRS Yıllık Raporu Hakkında SSS                                                        | 08/09/2023, 1:58:12 am | 11/03/2022, 9:28:13 am  |
+| Amazon 稅務資料問卷與美國國家稅務局 IRS 年度申報表常見問題                                                                               | 08/09/2023, 1:58:12 am | 11/03/2022, 9:28:13 am  |
+| Odpowiedzi na najczęściej zadawane pytania dotyczące kwestionariusza podatkowego Amazon i rocznego raportu IRS.   | 08/09/2023, 1:58:12 am | 11/03/2022, 9:28:13 am  |
+| Amazon Tax Information Interview and IRS Annual Reporting FAQ                                                     | 08/09/2023, 1:58:11 am | 11/03/2022, 9:27:23 am  |
+| Amazon税務情報インタビューとIRS年次報告書に関するよくある質問                                                                               | 08/09/2023, 1:58:11 am | 11/03/2022, 9:28:13 am  |
+| Domande frequenti relative al questionario sui dati fiscali per Amazon e alla rendicontazione contabile per l'IRS | 08/09/2023, 1:58:11 am | 11/03/2022, 9:28:13 am  |
+| FAQ sur le questionnaire fiscal d'Amazon et le rapport annuel de l'IRS                                            | 08/09/2023, 1:58:11 am | 11/03/2022, 9:28:13 am  |
+| FAQs zum Amazon Steuerinterview und zum jährlichen Bericht an die IRS                                             | 08/09/2023, 1:58:11 am | 11/03/2022, 9:28:13 am  |
+| Amazon 税务信息问卷与美国国税务局年度申报常见问题                                                                                      | 08/09/2023, 1:58:09 am | 08/09/2023, 1:58:08 am  |
+| Gyakran ismételt kérdések az Amazon adózási adatokról szóló kérdőívvel és az éves IRS-bejelentéssel kapcsolatban  | 08/09/2023, 1:58:09 am | 08/09/2023, 1:58:08 am  |
 
 
 ### android-purchases
@@ -1305,7 +1305,6 @@ https://help.twitch.tv/s/article/copyrighted-audio-warnings
 | Detección y advertencias de audio con derechos de autor                     | 31/03/2022, 3:30:06 am | 10/03/2022, 5:51:03 am   |
 | Detecção e avisos de áudio protegido por direitos autorais                  | 31/03/2022, 3:30:06 am | 10/03/2022, 5:51:03 am   |
 | Erkennung von urheberrechtlich geschütztem Audiomaterial & Warnungen        | 31/03/2022, 3:30:06 am | 10/03/2022, 5:51:03 am   |
-| Ostrzeżenia i wykrywanie dźwięku chronionego prawami autorskimi             | 31/03/2022, 3:30:06 am | 10/03/2022, 5:51:03 am   |
 
 
 ### cosplay-contest-rules-2020
@@ -1344,8 +1343,6 @@ https://help.twitch.tv/s/article/creating-an-account-with-twitch
 | Criar uma conta na Twitch         | 19/07/2023, 4:34:39 am | 11/07/2023, 2:21:09 am  |
 | Creating an Account with Twitch   | 11/07/2023, 2:20:36 am | 25/04/2023, 6:38:26 pm  |
 | Een account aanmaken bij Twitch   | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
-| Oppretting av en Twitch-konto     | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
-| Opret en konto hos Twitch         | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
 
 
 ### creating-highlights-and-stream-markers
@@ -1407,6 +1404,21 @@ https://help.twitch.tv/s/article/custom-bit-badges-guide
 | Emblema de Bits personalizado y ranuras de recompensa de emoticonos  | 22/10/2021, 8:53:23 am | 10/06/2021, 6:04:46 am  |
 | Distintivo de Bits personalizado e espaços para emotes de recompensa | 22/10/2021, 8:53:22 am | 10/06/2021, 6:04:46 am  |
 | Individuelle Bit-Abzeichen und Slots für Emote-Belohnungen           | 22/10/2021, 8:53:22 am | 10/06/2021, 6:04:46 am  |
+
+
+### dac7-interview
+https://help.twitch.tv/s/article/dac7-interview
+
+| Title                                            | Last Modified          | Created                 |
+|--------------------------------------------------|------------------------|-------------------------|
+| Ausfüllen deines DAC7-Interviews                 | 08/09/2023, 1:59:45 am | 08/09/2023, 1:59:45 am  |
+| Compilazione del questionario DAC7               | 08/09/2023, 1:59:45 am | 08/09/2023, 1:59:45 am  |
+| Completar el cuestionario de datos fiscales DAC7 | 08/09/2023, 1:59:45 am | 08/09/2023, 1:59:45 am  |
+| Completing Your DAC7 Interview                   | 08/09/2023, 1:59:45 am | 08/09/2023, 1:57:15 am  |
+| Cuestionario DAC7                                | 08/09/2023, 1:59:45 am | 08/09/2023, 1:59:45 am  |
+| DAC7 Beyannamesinin Doldurulması                 | 08/09/2023, 1:59:45 am | 08/09/2023, 1:59:45 am  |
+| DAC7 신고서 작성하기                                    | 08/09/2023, 1:59:45 am | 08/09/2023, 1:59:45 am  |
+| DAC7インタビューを完了する                                  | 08/09/2023, 1:59:45 am | 08/09/2023, 1:59:45 am  |
 
 
 ### date-of-birth-changes
@@ -1831,17 +1843,17 @@ https://help.twitch.tv/s/article/gift-subscriptions
 
 | Title                  | Last Modified          | Created                 |
 |------------------------|------------------------|-------------------------|
-| Abonnements offerts    | 18/11/2022, 6:01:11 am | 18/11/2022, 6:01:10 am  |
-| Ajándék feliratkozások | 18/11/2022, 6:01:11 am | 18/11/2022, 6:01:10 am  |
-| Cadeau-abonnementen    | 18/11/2022, 6:01:11 am | 18/11/2022, 6:01:10 am  |
-| Dárková předplatná     | 18/11/2022, 6:01:11 am | 18/11/2022, 6:01:10 am  |
-| Gave-abonnement        | 18/11/2022, 6:01:11 am | 18/11/2022, 6:01:10 am  |
-| Gaveabonnementer       | 18/11/2022, 6:01:11 am | 18/11/2022, 6:01:10 am  |
-| Geschenk-Abonnements   | 18/11/2022, 6:01:11 am | 18/11/2022, 6:01:10 am  |
-| Hediye Abonelik        | 18/11/2022, 6:01:11 am | 18/11/2022, 6:01:10 am  |
-| Inscrições de presente | 18/11/2022, 6:01:11 am | 18/11/2022, 6:01:10 am  |
-| Lahjatilaukset         | 18/11/2022, 6:01:11 am | 18/11/2022, 6:01:10 am  |
-| Gift Subscriptions     | 18/11/2022, 6:01:10 am | 18/11/2022, 6:00:11 am  |
+| Abonnements offerts    | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:44 am  |
+| Ajándék feliratkozások | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
+| Cadeau-abonnementen    | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
+| Dárková předplatná     | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
+| Gave-abonnement        | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
+| Gaveabonnementer       | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
+| Geschenk-Abonnements   | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:44 am  |
+| Gift Subscriptions     | 08/09/2023, 9:56:46 am | 29/08/2023, 2:00:54 am  |
+| Hediye Abonelik        | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:44 am  |
+| Inscrições de presente | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:44 am  |
+| Lahjatilaukset         | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
 
 
 ### gift-subscriptions-for-creators
@@ -2740,13 +2752,13 @@ https://help.twitch.tv/s/article/hype-train-guide
 
 | Title                     | Last Modified           | Created                 |
 |---------------------------|-------------------------|-------------------------|
+| Hype Train Rehberi        | 08/09/2023, 9:56:15 am  | 27/05/2023, 6:54:25 am  |
+| Guía del Tren del Hype    | 08/09/2023, 9:55:55 am  | 27/05/2023, 6:54:25 am  |
+| Guia do Hype Train        | 08/09/2023, 9:55:41 am  | 27/05/2023, 6:54:25 am  |
+| Leitfaden zu Hype Trains  | 08/09/2023, 9:55:07 am  | 27/05/2023, 6:54:25 am  |
+| Guide du train de la Hype | 08/09/2023, 9:54:55 am  | 27/05/2023, 6:54:25 am  |
 | Guía del Tren del Hype    | 06/09/2023, 11:45:08 pm | 27/05/2023, 6:54:25 am  |
 | Guida all'Hype Train      | 06/09/2023, 11:35:40 pm | 27/05/2023, 6:54:25 am  |
-| Guia do Hype Train        | 29/08/2023, 8:40:55 am  | 29/08/2023, 8:40:54 am  |
-| Guide du train de la Hype | 29/08/2023, 8:40:55 am  | 29/08/2023, 8:40:54 am  |
-| Guía del Tren del Hype    | 29/08/2023, 8:40:55 am  | 29/08/2023, 8:40:54 am  |
-| Hype Train Rehberi        | 29/08/2023, 8:40:55 am  | 29/08/2023, 8:40:54 am  |
-| Leitfaden zu Hype Trains  | 29/08/2023, 8:40:55 am  | 29/08/2023, 8:40:54 am  |
 | Hype Train Guide          | 29/08/2023, 8:40:54 am  | 29/08/2023, 8:38:30 am  |
 
 
@@ -2791,13 +2803,13 @@ https://help.twitch.tv/s/article/joining-the-affiliate-program
 
 | Title                                           | Last Modified          | Created                 |
 |-------------------------------------------------|------------------------|-------------------------|
-| Am Affiliate-Programm teilnehmen                | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
-| Come partecipare al programma per gli affiliati | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
-| Cómo Unirse al Programa de Afiliados            | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
-| Intégrer le programme d'affiliation             | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
-| Jak dołączyć do programu Towarzyszy             | 21/10/2022, 7:26:14 am | 30/09/2022, 9:37:55 am  |
-| Joining the Affiliate Program                   | 21/10/2022, 7:26:14 am | 30/09/2022, 8:05:05 am  |
-| Aderir ao Programa de Afiliados                 | 21/10/2022, 7:26:13 am | 21/10/2022, 7:26:12 am  |
+| Jak dołączyć do programu Towarzyszy             | 08/09/2023, 1:13:55 am | 17/08/2023, 3:34:18 am  |
+| Am Affiliate-Programm teilnehmen                | 08/09/2023, 1:13:54 am | 17/08/2023, 3:34:18 am  |
+| Come partecipare al programma per gli affiliati | 08/09/2023, 1:13:54 am | 17/08/2023, 3:34:18 am  |
+| Cómo Unirse al Programa de Afiliados            | 08/09/2023, 1:13:54 am | 17/08/2023, 3:34:18 am  |
+| Intégrer le programme d'affiliation             | 08/09/2023, 1:13:54 am | 17/08/2023, 3:34:18 am  |
+| Joining the Affiliate Program                   | 08/09/2023, 1:13:54 am | 17/08/2023, 2:32:24 am  |
+| Aderir ao Programa de Afiliados                 | 08/09/2023, 1:13:53 am | 08/09/2023, 1:13:52 am  |
 
 
 ### languages-on-twitch
@@ -2873,7 +2885,6 @@ https://help.twitch.tv/s/article/live-viewer-feedback
 | Feedback spettatore live \[esperimento]               | 10/12/2022, 8:46:51 am | 10/12/2022, 8:46:51 am  |
 | Live 觀眾意見反應 \[測試]                                     | 10/12/2022, 8:46:51 am | 10/12/2022, 8:46:51 am  |
 | Live-Zuschauer-Feedback \[Experiment]                 | 10/12/2022, 8:46:51 am | 10/12/2022, 8:46:51 am  |
-| Opinie widzów na żywo \[Eksperyment]                  | 10/12/2022, 8:46:51 am | 10/12/2022, 8:46:51 am  |
 
 
 ### local-recording
@@ -3216,9 +3227,6 @@ https://help.twitch.tv/s/article/music-options-for-streamers
 | Opcje muzyczne dla streamerów         | 11/07/2023, 2:52:18 am | 10/06/2023, 5:39:43 am  |
 | Musikoptionen für Streamer            | 11/07/2023, 2:52:17 am | 10/06/2023, 5:39:43 am  |
 | Opciones musicales para streamers     | 11/07/2023, 2:52:17 am | 10/06/2023, 5:39:43 am  |
-| Options musicales pour les streamers  | 11/07/2023, 2:52:17 am | 10/06/2023, 5:39:43 am  |
-| Opzioni musicali per gli streamer     | 11/07/2023, 2:52:17 am | 10/06/2023, 5:39:43 am  |
-| Opções de música para streamers       | 11/07/2023, 2:52:17 am | 10/06/2023, 5:39:43 am  |
 | Opciones de música para los streamers | 11/07/2023, 2:52:16 am | 10/06/2023, 5:39:43 am  |
 | Music Options for Streamers           | 10/06/2023, 5:39:19 am | 10/06/2023, 3:08:21 am  |
 
@@ -4133,10 +4141,10 @@ https://help.twitch.tv/s/article/twitch-affiliate-program-faq
 
 | Title                                                     | Last Modified          | Created                 |
 |-----------------------------------------------------------|------------------------|-------------------------|
-| Häufig gestellte Fragen zum Affiliate-Programm von Twitch | 10/12/2022, 1:47:34 am | 06/12/2022, 9:58:25 am  |
-| FAQ programme d'affiliation Twitch                        | 10/12/2022, 0:15:33 am | 06/12/2022, 9:58:25 am  |
-| Często zadawane pytania dot. Programu Towarzyszy Twitcha  | 10/12/2022, 0:14:42 am | 06/12/2022, 9:58:25 am  |
-| Domande frequenti sul programma per gli affiliati Twitch  | 10/12/2022, 0:14:40 am | 06/12/2022, 9:58:25 am  |
+| Często zadawane pytania dot. Programu Towarzyszy Twitcha  | 08/09/2023, 1:13:40 am | 17/08/2023, 3:34:58 am  |
+| Domande frequenti sul programma per gli affiliati Twitch  | 08/09/2023, 1:13:39 am | 17/08/2023, 3:34:58 am  |
+| FAQ programme d'affiliation Twitch                        | 08/09/2023, 1:13:39 am | 17/08/2023, 3:34:58 am  |
+| Häufig gestellte Fragen zum Affiliate-Programm von Twitch | 08/09/2023, 1:13:39 am | 17/08/2023, 3:34:58 am  |
 
 
 ### twitch-charity
