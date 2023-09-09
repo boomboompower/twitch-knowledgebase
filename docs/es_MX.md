@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                                            | 09/09/2023, 4:30:59 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es_MX)                                             |
+| Stream Display Ads                                            | 09/09/2023, 3:02:50 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es_MX)                                             |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/09/2023, 1:58:11 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=es_MX)  |
 | Affiliate Onboarding Guide                                    | 08/09/2023, 1:14:29 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                                     |
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=es_MX)                                       |
@@ -31,7 +33,6 @@
 | Guide To Broadcast Health                                     | 09/08/2023, 2:49:34 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=es_MX)                                      |
 | New Device And Location Verification                          | 03/08/2023, 9:28:41 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es_MX)                           |
 | Authy Faq                                                     | 03/08/2023, 9:28:36 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=es_MX)                                                      |
-| Stream Display Ads                                            | 03/08/2023, 9:28:33 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es_MX)                                             |
 | Founders Badge                                                | 28/07/2023, 3:34:46 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=es_MX)                                                 |
 | Twitch Teams                                                  | 28/07/2023, 3:24:46 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=es_MX)                                                   |
 | How To Edit Info Panels                                       | 28/07/2023, 3:17:38 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=es_MX)                                        |

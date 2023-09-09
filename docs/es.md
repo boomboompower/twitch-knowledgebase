@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                                            | 09/09/2023, 4:30:59 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es)                                             |
+| Stream Display Ads                                            | 09/09/2023, 3:02:50 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es)                                             |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/09/2023, 1:58:11 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=es)  |
 | Affiliate Onboarding Guide                                    | 08/09/2023, 1:14:29 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es)                                     |
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:09 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=es)                                       |
@@ -30,7 +32,6 @@
 | Guide To Broadcast Health                                     | 04/08/2023, 8:20:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=es)                                      |
 | How To Appeal Flagged Content                                 | 04/08/2023, 8:20:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=es)                                  |
 | Authy Faq                                                     | 03/08/2023, 8:27:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=es)                                                      |
-| Stream Display Ads                                            | 03/08/2023, 8:27:07 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es)                                             |
 | New Device And Location Verification                          | 03/08/2023, 8:27:05 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es)                           |
 | Founders Badge                                                | 28/07/2023, 3:34:46 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=es)                                                 |
 | Twitch Teams                                                  | 28/07/2023, 3:24:46 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=es)                                                   |

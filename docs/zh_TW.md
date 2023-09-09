@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                                            | 09/09/2023, 4:30:59 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                                             |
+| Stream Display Ads                                            | 09/09/2023, 3:02:50 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=zh_TW)                                             |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/09/2023, 1:58:12 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=zh_TW)  |
 | Affiliate Onboarding Guide                                    | 08/09/2023, 1:14:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                                     |
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:11 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=zh_TW)                                       |
@@ -31,7 +33,6 @@
 | Guide To Cheering With Bits                                   | 08/08/2023, 5:35:10 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=zh_TW)                                    |
 | Authy Faq                                                     | 03/08/2023, 8:39:10 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=zh_TW)                                                      |
 | New Device And Location Verification                          | 03/08/2023, 8:39:03 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=zh_TW)                           |
-| Stream Display Ads                                            | 03/08/2023, 8:39:03 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=zh_TW)                                             |
 | Multi Month Subscriptions                                     | 31/07/2023, 7:20:33 pm    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=zh_TW)                                      |
 | Subscriptions On Mobile                                       | 31/07/2023, 7:19:08 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=zh_TW)                                        |
 | Founders Badge                                                | 31/07/2023, 7:19:02 pm    | [Link](https://help.twitch.tv/s/article/founders-badge?language=zh_TW)                                                 |
@@ -49,7 +50,6 @@
 | Creating An Account With Twitch                               | 19/07/2023, 7:05:42 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)                                |
 | Achievements                                                  | 19/07/2023, 7:05:41 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                                   |
 | Managing Roles For Your Channel                               | 19/07/2023, 7:05:38 pm    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=zh_TW)                                |
-| Creating Highlights And Stream Markers                        | 18/07/2023, 5:11:27 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=zh_TW)                         |
 
 
 

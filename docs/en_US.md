@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                                            | 09/09/2023, 4:31:00 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                                             |
+| Stream Display Ads                                            | 09/09/2023, 3:02:50 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                                             |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/09/2023, 1:58:11 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=en_US)  |
 | Affiliate Onboarding Guide                                    | 08/09/2023, 1:14:29 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=en_US)                                     |
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:09 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=en_US)                                       |
@@ -40,7 +42,6 @@
 | Alerts By Twitch Interactive Resubs                           | 26/07/2023, 4:07:10 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=en_US)                            |
 | Setup Alerts By Twitch                                        | 26/07/2023, 4:07:04 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=en_US)                                         |
 | Alerts By Twitch Events                                       | 26/07/2023, 4:06:47 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                                        |
-| Stream Display Ads                                            | 25/07/2023, 5:00:37 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                                             |
 | Basic Troubleshooting Tips                                    | 19/07/2023, 11:22:37 am   | [Link](https://help.twitch.tv/s/article/basic-troubleshooting-tips?language=en_US)                                     |
 | Creating Highlights And Stream Markers                        | 18/07/2023, 5:11:28 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=en_US)                         |
 
