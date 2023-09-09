@@ -7,6 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| twitch-turbo-guide                                            | 09/09/2023, 4:30:59 am  | 09/09/2023, 4:30:59 am  | [Details](#twitch-turbo-guide)                                             |
+| stream-display-ads                                            | 09/09/2023, 3:02:50 am  | 09/09/2023, 3:02:49 am  | [Details](#stream-display-ads)                                             |
 | gift-subscriptions                                            | 08/09/2023, 9:56:46 am  | 08/09/2023, 9:56:44 am  | [Details](#gift-subscriptions)                                             |
 | hype-train-guide                                              | 08/09/2023, 9:56:15 am  | 27/05/2023, 6:54:25 am  | [Details](#hype-train-guide)                                               |
 | dac7-interview                                                | 08/09/2023, 1:59:45 am  | 08/09/2023, 1:59:45 am  | [Details](#dac7-interview)                                                 |
@@ -43,7 +45,6 @@ Language data is not included in the API. All page links will not have a languag
 | not-receiving-sms                                             | 04/08/2023, 0:16:03 am  | 04/08/2023, 0:16:01 am  | [Details](#not-receiving-sms)                                              |
 | new-device-and-location-verification                          | 03/08/2023, 9:28:41 pm  | 26/07/2023, 9:59:50 am  | [Details](#new-device-and-location-verification)                           |
 | authy-faq                                                     | 03/08/2023, 9:28:36 pm  | 26/07/2023, 10:23:51 am | [Details](#authy-faq)                                                      |
-| stream-display-ads                                            | 03/08/2023, 9:28:33 pm  | 25/07/2023, 5:00:55 am  | [Details](#stream-display-ads)                                             |
 | founders-badge                                                | 28/07/2023, 3:34:47 am  | 15/07/2023, 6:56:56 am  | [Details](#founders-badge)                                                 |
 | discovery                                                     | 28/07/2023, 3:26:04 am  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
 | twitch-teams                                                  | 28/07/2023, 3:24:46 am  | 12/07/2023, 9:14:57 am  | [Details](#twitch-teams)                                                   |
@@ -88,7 +89,6 @@ Language data is not included in the API. All page links will not have a languag
 | payout-history-dashboard-guide                                | 31/05/2023, 0:13:12 am  | 23/05/2023, 0:20:24 pm  | [Details](#payout-history-dashboard-guide)                                 |
 | prime-gaming-revenue-guide                                    | 31/05/2023, 0:13:03 am  | 23/05/2023, 0:18:49 pm  | [Details](#prime-gaming-revenue-guide)                                     |
 | local-sub-price-countries                                     | 26/05/2023, 3:15:13 am  | 26/05/2023, 3:15:12 am  | [Details](#local-sub-price-countries)                                      |
-| twitch-turbo-guide                                            | 26/05/2023, 3:14:58 am  | 19/05/2023, 11:51:30 am | [Details](#twitch-turbo-guide)                                             |
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
 | twitch-prime-partner-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:36 am  | [Details](#twitch-prime-partner-guide)                                     |
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
@@ -3815,12 +3815,12 @@ https://help.twitch.tv/s/article/stream-deck-setup
 ### stream-display-ads
 https://help.twitch.tv/s/article/stream-display-ads
 
-| Title                                  | Last Modified           | Created                 |
-|----------------------------------------|-------------------------|-------------------------|
-| Anuncios de stream                     | 03/08/2023, 9:28:33 pm  | 25/07/2023, 5:00:55 am  |
-| Anuncios mostrados en el stream        | 03/08/2023, 8:27:07 pm  | 25/07/2023, 5:00:55 am  |
-| Annunci sulla finestra dello streaming | 03/08/2023, 5:26:06 pm  | 25/07/2023, 5:00:55 am  |
-| Anúncios de exibição de transmissão    | 02/08/2023, 10:17:38 am | 25/07/2023, 5:00:55 am  |
+| Title                                  | Last Modified          | Created                 |
+|----------------------------------------|------------------------|-------------------------|
+| Annunci sulla finestra dello streaming | 09/09/2023, 3:02:50 am | 09/09/2023, 3:02:49 am  |
+| Anuncios de stream                     | 09/09/2023, 3:02:50 am | 09/09/2023, 3:02:49 am  |
+| Anuncios mostrados en el stream        | 09/09/2023, 3:02:50 am | 09/09/2023, 3:02:49 am  |
+| Anúncios de exibição de transmissão    | 09/09/2023, 3:02:50 am | 09/09/2023, 3:02:49 am  |
 
 
 ### stream-manager
@@ -4412,16 +4412,16 @@ https://help.twitch.tv/s/article/twitch-teams
 ### twitch-turbo-guide
 https://help.twitch.tv/s/article/twitch-turbo-guide
 
-| Title                     | Last Modified          | Created                  |
-|---------------------------|------------------------|--------------------------|
-| Guia do Twitch Turbo      | 26/05/2023, 3:14:58 am | 19/05/2023, 11:51:30 am  |
-| Guida di Twitch Turbo     | 26/05/2023, 3:14:58 am | 19/05/2023, 11:51:30 am  |
-| Guide de TwitchTurbo      | 26/05/2023, 3:14:58 am | 19/05/2023, 11:51:30 am  |
-| Gids voor Twitch Turbo    | 26/05/2023, 3:14:57 am | 26/05/2023, 3:14:54 am   |
-| Guia do Twitch Turbo      | 26/05/2023, 3:14:57 am | 26/05/2023, 3:14:54 am   |
-| Guía de Turbo de Twitch   | 26/05/2023, 3:14:57 am | 19/05/2023, 11:51:30 am  |
-| Guía de Twitch Turbo      | 26/05/2023, 3:14:57 am | 19/05/2023, 11:51:30 am  |
-| Leitfaden zu Twitch Turbo | 26/05/2023, 3:14:57 am | 19/05/2023, 11:51:30 am  |
+| Title                     | Last Modified          | Created                 |
+|---------------------------|------------------------|-------------------------|
+| Gids voor Twitch Turbo    | 09/09/2023, 4:30:59 am | 09/09/2023, 4:30:59 am  |
+| Guia do Twitch Turbo      | 09/09/2023, 4:30:59 am | 09/09/2023, 4:30:58 am  |
+| Guia do Twitch Turbo      | 09/09/2023, 4:30:59 am | 09/09/2023, 4:30:59 am  |
+| Guida di Twitch Turbo     | 09/09/2023, 4:30:59 am | 09/09/2023, 4:30:58 am  |
+| Guide de TwitchTurbo      | 09/09/2023, 4:30:59 am | 09/09/2023, 4:30:58 am  |
+| Guía de Turbo de Twitch   | 09/09/2023, 4:30:59 am | 09/09/2023, 4:30:58 am  |
+| Guía de Twitch Turbo      | 09/09/2023, 4:30:59 am | 09/09/2023, 4:30:58 am  |
+| Leitfaden zu Twitch Turbo | 09/09/2023, 4:30:59 am | 09/09/2023, 4:30:58 am  |
 
 
 ### twitch-twitter-twitchsupport-faq
