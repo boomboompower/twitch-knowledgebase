@@ -16,34 +16,6 @@
 | Channel Analytics                                             | 07/09/2023, 3:55:22 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=en_US)                                              |
 | Twitch Studio Mac Faq                                         | 06/09/2023, 6:14:19 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=en_US)                                          |
 | Twitch Studio Faq                                             | 06/09/2023, 6:09:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=en_US)                                              |
-| Subpoint Vs Subcount                                          | 01/09/2023, 5:48:05 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=en_US)                                           |
-| Moments                                                       | 01/09/2023, 2:59:10 am    | [Link](https://help.twitch.tv/s/article/moments?language=en_US)                                                        |
-| Partner Program Overview                                      | 29/08/2023, 4:09:35 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=en_US)                                       |
-| Experiments                                                   | 25/08/2023, 4:24:08 am    | [Link](https://help.twitch.tv/s/article/experiments?language=en_US)                                                    |
-| Understanding Feedback Updates                                | 23/08/2023, 5:13:37 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=en_US)                                 |
-| Tips On Feedback                                              | 23/08/2023, 4:54:32 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=en_US)                                               |
-| Navigating The Feedback Forum                                 | 23/08/2023, 4:23:38 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=en_US)                                  |
-| Patch Notes 20                                                | 19/08/2023, 6:03:30 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=en_US)                                                 |
-| How To Provide Feedback                                       | 18/08/2023, 5:23:21 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=en_US)                                        |
-| Twitch Account Settings                                       | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=en_US)                                        |
-| Account Hacked                                                | 17/08/2023, 11:14:52 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=en_US)                                                 |
-| Brand Surveys                                                 | 12/08/2023, 3:00:04 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=en_US)                                                  |
-| How To Appeal Flagged Content                                 | 02/08/2023, 3:24:17 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=en_US)                                  |
-| Guide To Broadcast Health                                     | 02/08/2023, 3:21:35 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=en_US)                                      |
-| Founders Badge                                                | 28/07/2023, 3:34:46 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=en_US)                                                 |
-| Twitch Teams                                                  | 28/07/2023, 3:24:46 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=en_US)                                                   |
-| How To Edit Info Panels                                       | 28/07/2023, 3:17:39 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=en_US)                                        |
-| Authy Faq                                                     | 26/07/2023, 10:23:29 am   | [Link](https://help.twitch.tv/s/article/authy-faq?language=en_US)                                                      |
-| New Device And Location Verification                          | 26/07/2023, 9:59:29 am    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=en_US)                           |
-| Alerts By Twitch                                              | 26/07/2023, 4:07:32 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=en_US)                                               |
-| Alerts By Twitch Css                                          | 26/07/2023, 4:07:26 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=en_US)                                           |
-| Alerts By Twitch Customization                                | 26/07/2023, 4:07:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=en_US)                                 |
-| Alerts By Twitch Faq                                          | 26/07/2023, 4:07:16 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=en_US)                                           |
-| Alerts By Twitch Interactive Resubs                           | 26/07/2023, 4:07:10 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=en_US)                            |
-| Setup Alerts By Twitch                                        | 26/07/2023, 4:07:04 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=en_US)                                         |
-| Alerts By Twitch Events                                       | 26/07/2023, 4:06:47 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                                        |
-| Basic Troubleshooting Tips                                    | 19/07/2023, 11:22:37 am   | [Link](https://help.twitch.tv/s/article/basic-troubleshooting-tips?language=en_US)                                     |
-| Creating Highlights And Stream Markers                        | 18/07/2023, 5:11:28 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=en_US)                         |
 
 
 
