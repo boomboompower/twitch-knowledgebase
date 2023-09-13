@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| subpoint-vs-subcount                                          | 13/09/2023, 7:06:08 am  | 06/09/2023, 10:23:44 am | [Details](#subpoint-vs-subcount)                                           |
 | twitch-studio-faq                                             | 12/09/2023, 8:33:04 pm  | 06/09/2023, 6:19:27 am  | [Details](#twitch-studio-faq)                                              |
 | twitch-studio-mac-faq                                         | 12/09/2023, 11:03:58 am | 12/09/2023, 11:03:57 am | [Details](#twitch-studio-mac-faq)                                          |
 | hindsight-2020                                                | 12/09/2023, 6:27:03 am  | 12/09/2023, 6:27:01 am  | [Details](#hindsight-2020)                                                 |
@@ -37,7 +38,6 @@ Language data is not included in the API. All page links will not have a languag
 | twitch-affiliate-program-faq                                  | 08/09/2023, 1:13:40 am  | 17/08/2023, 3:34:58 am  | [Details](#twitch-affiliate-program-faq)                                   |
 | research                                                      | 07/09/2023, 4:03:13 am  | 07/09/2023, 4:03:13 am  | [Details](#research)                                                       |
 | channel-analytics                                             | 07/09/2023, 3:55:22 am  | 30/08/2023, 8:34:54 am  | [Details](#channel-analytics)                                              |
-| subpoint-vs-subcount                                          | 01/09/2023, 5:48:06 am  | 24/08/2023, 9:54:40 am  | [Details](#subpoint-vs-subcount)                                           |
 | moments                                                       | 01/09/2023, 2:59:12 am  | 17/08/2023, 6:58:07 am  | [Details](#moments)                                                        |
 | partner-plus-abuse                                            | 29/08/2023, 4:05:20 am  | 19/08/2023, 10:33:35 am | [Details](#partner-plus-abuse)                                             |
 | how-to-provide-feedback                                       | 28/08/2023, 10:28:38 pm | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
@@ -3938,11 +3938,11 @@ https://help.twitch.tv/s/article/sub-codes
 ### subpoint-vs-subcount
 https://help.twitch.tv/s/article/subpoint-vs-subcount
 
-| Title                                                                                                  | Last Modified          | Created                 |
-|--------------------------------------------------------------------------------------------------------|------------------------|-------------------------|
-| Abonelik Puanı, Abone Sayısı ve Partner Plus puanı                                                     | 01/09/2023, 5:48:06 am | 24/08/2023, 9:54:40 am  |
-| Abo-Punkte vs. Abozähler vs. Partner-Plus-Punkte                                                       | 01/09/2023, 5:48:05 am | 24/08/2023, 9:54:40 am  |
-| Diferencias entre los puntos por suscriptores, el recuento de suscripciones y los puntos de Socio Plus | 01/09/2023, 5:48:05 am | 24/08/2023, 9:54:40 am  |
+| Title                                                                                                  | Last Modified          | Created                  |
+|--------------------------------------------------------------------------------------------------------|------------------------|--------------------------|
+| Abonelik Puanı, Abone Sayısı ve Partner Plus puanı                                                     | 13/09/2023, 7:06:08 am | 06/09/2023, 10:23:44 am  |
+| Abo-Punkte vs. Abozähler vs. Partner-Plus-Punkte                                                       | 13/09/2023, 7:06:06 am | 06/09/2023, 10:23:44 am  |
+| Diferencias entre los puntos por suscriptores, el recuento de suscripciones y los puntos de Socio Plus | 13/09/2023, 7:06:06 am | 06/09/2023, 10:23:44 am  |
 
 
 ### subscriber-badge-guide
