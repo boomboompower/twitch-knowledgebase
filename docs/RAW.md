@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| channel-analytics                                             | 13/09/2023, 8:30:13 pm  | 30/08/2023, 8:35:49 am  | [Details](#channel-analytics)                                              |
 | subpoint-vs-subcount                                          | 13/09/2023, 7:06:08 am  | 06/09/2023, 10:23:44 am | [Details](#subpoint-vs-subcount)                                           |
 | twitch-studio-faq                                             | 12/09/2023, 8:33:04 pm  | 06/09/2023, 6:19:27 am  | [Details](#twitch-studio-faq)                                              |
 | twitch-studio-mac-faq                                         | 12/09/2023, 11:03:58 am | 12/09/2023, 11:03:57 am | [Details](#twitch-studio-mac-faq)                                          |
@@ -37,7 +38,6 @@ Language data is not included in the API. All page links will not have a languag
 | joining-the-affiliate-program                                 | 08/09/2023, 1:13:55 am  | 17/08/2023, 3:34:18 am  | [Details](#joining-the-affiliate-program)                                  |
 | twitch-affiliate-program-faq                                  | 08/09/2023, 1:13:40 am  | 17/08/2023, 3:34:58 am  | [Details](#twitch-affiliate-program-faq)                                   |
 | research                                                      | 07/09/2023, 4:03:13 am  | 07/09/2023, 4:03:13 am  | [Details](#research)                                                       |
-| channel-analytics                                             | 07/09/2023, 3:55:22 am  | 30/08/2023, 8:34:54 am  | [Details](#channel-analytics)                                              |
 | moments                                                       | 01/09/2023, 2:59:12 am  | 17/08/2023, 6:58:07 am  | [Details](#moments)                                                        |
 | partner-plus-abuse                                            | 29/08/2023, 4:05:20 am  | 19/08/2023, 10:33:35 am | [Details](#partner-plus-abuse)                                             |
 | how-to-provide-feedback                                       | 28/08/2023, 10:28:38 pm | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
@@ -1021,9 +1021,9 @@ https://help.twitch.tv/s/article/channel-analytics
 
 | Title                     | Last Modified          | Created                 |
 |---------------------------|------------------------|-------------------------|
+| Kanal Analizi Genel Bakış | 13/09/2023, 8:30:13 pm | 30/08/2023, 8:35:49 am  |
 | Analytics Overview        | 07/09/2023, 3:55:22 am | 30/08/2023, 8:34:54 am  |
 | Análise de Canal          | 07/09/2023, 3:55:18 am | 07/09/2023, 3:55:17 am  |
-| Kanal Analizi Genel Bakış | 07/09/2023, 3:55:18 am | 07/09/2023, 3:55:17 am  |
 
 
 ### channel-page-setup

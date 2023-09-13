@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Subpoint Vs Subcount                                          | 13/09/2023, 7:06:07 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=it)                                           |
+| Twitch Studio Faq                                             | 12/09/2023, 5:49:37 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=it)                                              |
 | Hindsight 2020                                                | 12/09/2023, 6:27:03 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=it)                                                 |
 | Channel Points Faq                                            | 12/09/2023, 6:26:17 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=it)                                             |
 | Languages On Twitch                                           | 12/09/2023, 6:22:16 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=it)                                            |
@@ -25,8 +27,24 @@
 | Twitch Affiliate Program Faq                                  | 08/09/2023, 1:13:39 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=it)                                   |
 | Channel Analytics                                             | 07/09/2023, 3:55:18 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=it)                                              |
 | Twitch Studio Mac Faq                                         | 06/09/2023, 6:14:18 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=it)                                          |
-| Twitch Studio Faq                                             | 06/09/2023, 6:09:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=it)                                              |
-| Subpoint Vs Subcount                                          | 01/09/2023, 5:48:06 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=it)                                           |
+| Moments                                                       | 01/09/2023, 2:59:11 am    | [Link](https://help.twitch.tv/s/article/moments?language=it)                                                        |
+| Tips On Feedback                                              | 26/08/2023, 1:15:07 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=it)                                               |
+| Understanding Feedback Updates                                | 26/08/2023, 1:15:05 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=it)                                 |
+| Navigating The Feedback Forum                                 | 26/08/2023, 1:15:03 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=it)                                  |
+| How To Provide Feedback                                       | 26/08/2023, 1:15:03 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=it)                                        |
+| Experiments                                                   | 25/08/2023, 4:24:07 am    | [Link](https://help.twitch.tv/s/article/experiments?language=it)                                                    |
+| Account Hacked                                                | 24/08/2023, 6:03:12 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=it)                                                 |
+| Twitch Account Settings                                       | 24/08/2023, 6:03:05 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=it)                                        |
+| Patch Notes 20                                                | 19/08/2023, 6:03:30 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=it)                                                 |
+| Brand Surveys                                                 | 14/08/2023, 8:06:03 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=it)                                                  |
+| Guide To Broadcast Health                                     | 09/08/2023, 5:39:04 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=it)                                      |
+| How To Appeal Flagged Content                                 | 09/08/2023, 5:39:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=it)                                  |
+| Guide To Cheering With Bits                                   | 09/08/2023, 5:27:13 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=it)                                    |
+| New Device And Location Verification                          | 03/08/2023, 5:26:12 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=it)                           |
+| Authy Faq                                                     | 03/08/2023, 5:26:03 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=it)                                                      |
+| Founders Badge                                                | 28/07/2023, 3:34:46 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=it)                                                 |
+| Twitch Teams                                                  | 28/07/2023, 3:24:46 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=it)                                                   |
+| How To Edit Info Panels                                       | 28/07/2023, 3:17:38 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=it)                                        |
 
 
 

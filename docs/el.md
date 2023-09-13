@@ -8,6 +8,7 @@
 |--------------------|---------------------------|--------------------------------------------------------------------------|
 | Twitch Turbo Guide | 09/09/2023, 4:30:59 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=el)  |
 | Twitch Studio Faq  | 06/09/2023, 6:09:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=el)   |
+| Account Hacked     | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=el)      |
 
 
 

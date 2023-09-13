@@ -7,6 +7,7 @@
 | Name              | Last Updated (dd/mm/yyyy) | Link                                                                    |
 |-------------------|---------------------------|-------------------------------------------------------------------------|
 | Twitch Studio Faq | 06/09/2023, 6:09:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=vi)  |
+| Account Hacked    | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=vi)     |
 
 
 
