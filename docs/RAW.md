@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| stream-display-ads                                            | 14/09/2023, 9:49:03 pm  | 07/09/2023, 2:19:27 am  | [Details](#stream-display-ads)                                             |
 | partner-plus-abuse                                            | 14/09/2023, 7:35:01 am  | 14/09/2023, 7:35:00 am  | [Details](#partner-plus-abuse)                                             |
 | partner-program-overview                                      | 13/09/2023, 11:02:45 pm | 13/09/2023, 11:02:40 pm | [Details](#partner-program-overview)                                       |
 | channel-analytics                                             | 13/09/2023, 8:30:13 pm  | 30/08/2023, 8:35:49 am  | [Details](#channel-analytics)                                              |
@@ -33,7 +34,6 @@ Language data is not included in the API. All page links will not have a languag
 | hype-train-guide                                              | 12/09/2023, 4:04:13 am  | 12/09/2023, 4:04:11 am  | [Details](#hype-train-guide)                                               |
 | twitch-turbo-guide                                            | 12/09/2023, 4:03:41 am  | 06/09/2023, 10:28:23 am | [Details](#twitch-turbo-guide)                                             |
 | dmca-and-copyright-faqs                                       | 12/09/2023, 4:02:32 am  | 12/09/2023, 4:02:29 am  | [Details](#dmca-and-copyright-faqs)                                        |
-| stream-display-ads                                            | 09/09/2023, 3:02:50 am  | 09/09/2023, 3:02:49 am  | [Details](#stream-display-ads)                                             |
 | affiliate-onboarding-guide                                    | 08/09/2023, 1:14:30 am  | 17/08/2023, 4:05:59 am  | [Details](#affiliate-onboarding-guide)                                     |
 | affiliate-settings-guide                                      | 08/09/2023, 1:14:10 am  | 21/07/2023, 5:09:17 am  | [Details](#affiliate-settings-guide)                                       |
 | joining-the-affiliate-program                                 | 08/09/2023, 1:13:55 am  | 17/08/2023, 3:34:18 am  | [Details](#joining-the-affiliate-program)                                  |
@@ -3820,10 +3820,10 @@ https://help.twitch.tv/s/article/stream-display-ads
 
 | Title                                  | Last Modified          | Created                 |
 |----------------------------------------|------------------------|-------------------------|
-| Annunci sulla finestra dello streaming | 09/09/2023, 3:02:50 am | 09/09/2023, 3:02:49 am  |
-| Anuncios de stream                     | 09/09/2023, 3:02:50 am | 09/09/2023, 3:02:49 am  |
-| Anuncios mostrados en el stream        | 09/09/2023, 3:02:50 am | 09/09/2023, 3:02:49 am  |
-| Anúncios de exibição de transmissão    | 09/09/2023, 3:02:50 am | 09/09/2023, 3:02:49 am  |
+| Anúncios de exibição de transmissão    | 14/09/2023, 9:49:03 pm | 07/09/2023, 2:19:27 am  |
+| Anuncios de stream                     | 14/09/2023, 9:17:32 pm | 07/09/2023, 2:19:27 am  |
+| Annunci sulla finestra dello streaming | 14/09/2023, 6:52:33 pm | 07/09/2023, 2:19:27 am  |
+| Anuncios mostrados en el stream        | 14/09/2023, 5:50:05 pm | 07/09/2023, 2:19:27 am  |
 
 
 ### stream-manager
