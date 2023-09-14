@@ -7,6 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| partner-plus-abuse                                            | 14/09/2023, 7:35:01 am  | 14/09/2023, 7:35:00 am  | [Details](#partner-plus-abuse)                                             |
+| partner-program-overview                                      | 13/09/2023, 11:02:45 pm | 13/09/2023, 11:02:40 pm | [Details](#partner-program-overview)                                       |
 | channel-analytics                                             | 13/09/2023, 8:30:13 pm  | 30/08/2023, 8:35:49 am  | [Details](#channel-analytics)                                              |
 | subpoint-vs-subcount                                          | 13/09/2023, 7:06:08 am  | 06/09/2023, 10:23:44 am | [Details](#subpoint-vs-subcount)                                           |
 | twitch-studio-faq                                             | 12/09/2023, 8:33:04 pm  | 06/09/2023, 6:19:27 am  | [Details](#twitch-studio-faq)                                              |
@@ -25,7 +27,6 @@ Language data is not included in the API. All page links will not have a languag
 | hype-chat-for-streamers                                       | 12/09/2023, 6:13:11 am  | 12/09/2023, 6:13:10 am  | [Details](#hype-chat-for-streamers)                                        |
 | dac7-interview                                                | 12/09/2023, 6:12:19 am  | 12/09/2023, 6:12:18 am  | [Details](#dac7-interview)                                                 |
 | political-onboarding                                          | 12/09/2023, 6:11:44 am  | 12/09/2023, 6:11:43 am  | [Details](#political-onboarding)                                           |
-| partner-program-overview                                      | 12/09/2023, 6:11:19 am  | 12/09/2023, 6:11:18 am  | [Details](#partner-program-overview)                                       |
 | how-to-use-clips                                              | 12/09/2023, 6:09:42 am  | 12/09/2023, 6:09:38 am  | [Details](#how-to-use-clips)                                               |
 | featured-clips                                                | 12/09/2023, 4:05:18 am  | 30/08/2023, 8:21:20 am  | [Details](#featured-clips)                                                 |
 | gift-subscriptions                                            | 12/09/2023, 4:04:21 am  | 29/08/2023, 2:44:24 am  | [Details](#gift-subscriptions)                                             |
@@ -39,7 +40,6 @@ Language data is not included in the API. All page links will not have a languag
 | twitch-affiliate-program-faq                                  | 08/09/2023, 1:13:40 am  | 17/08/2023, 3:34:58 am  | [Details](#twitch-affiliate-program-faq)                                   |
 | research                                                      | 07/09/2023, 4:03:13 am  | 07/09/2023, 4:03:13 am  | [Details](#research)                                                       |
 | moments                                                       | 01/09/2023, 2:59:12 am  | 17/08/2023, 6:58:07 am  | [Details](#moments)                                                        |
-| partner-plus-abuse                                            | 29/08/2023, 4:05:20 am  | 19/08/2023, 10:33:35 am | [Details](#partner-plus-abuse)                                             |
 | how-to-provide-feedback                                       | 28/08/2023, 10:28:38 pm | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
 | tips-on-feedback                                              | 28/08/2023, 10:28:33 pm | 18/08/2023, 5:31:52 am  | [Details](#tips-on-feedback)                                               |
 | subtember-2023-faq                                            | 28/08/2023, 4:39:34 pm  | 28/08/2023, 4:39:31 pm  | [Details](#subtember-2023-faq)                                             |
@@ -3414,24 +3414,24 @@ https://help.twitch.tv/s/article/partner-onboarding-guide
 ### partner-plus-abuse
 https://help.twitch.tv/s/article/partner-plus-abuse
 
-| Title                                                             | Last Modified          | Created                  |
-|-------------------------------------------------------------------|------------------------|--------------------------|
-| Criteri di abuso della qualifica di Partner Plus                  | 29/08/2023, 4:05:20 am | 19/08/2023, 10:33:35 am  |
-| Criterios de abuso del programa Partner Plus                      | 29/08/2023, 4:05:20 am | 19/08/2023, 10:33:35 am  |
-| Criterios de admisión para casos de abuso del programa Socio Plus | 29/08/2023, 4:05:20 am | 19/08/2023, 10:33:35 am  |
-| Critères d'inadmissibilité au Programme de partenariat Plus       | 29/08/2023, 4:05:20 am | 19/08/2023, 10:33:35 am  |
-| Desqualificação de parceiros no Parceiro Plus                     | 29/08/2023, 4:05:20 am | 19/08/2023, 10:33:35 am  |
-| Kryteria nadużywania warunków kwalifikacji do Partner Plus        | 29/08/2023, 4:05:20 am | 19/08/2023, 10:33:35 am  |
-| Missbrauch der Partner-Plus-Qualifikationskriterien               | 29/08/2023, 4:05:20 am | 19/08/2023, 10:33:35 am  |
+| Title                                                             | Last Modified          | Created                 |
+|-------------------------------------------------------------------|------------------------|-------------------------|
+| Critères d'inadmissibilité au Programme de partenariat Plus       | 14/09/2023, 7:35:01 am | 14/09/2023, 7:35:00 am  |
+| Desqualificação de parceiros no Parceiro Plus                     | 14/09/2023, 7:34:59 am | 14/09/2023, 7:34:58 am  |
+| Criterios de abuso del programa Partner Plus                      | 14/09/2023, 7:34:54 am | 14/09/2023, 7:34:52 am  |
+| Criteri di abuso della qualifica di Partner Plus                  | 14/09/2023, 7:34:51 am | 14/09/2023, 7:34:50 am  |
+| Kryteria nadużywania warunków kwalifikacji do Partner Plus        | 14/09/2023, 7:34:49 am | 14/09/2023, 7:34:48 am  |
+| Missbrauch der Partner-Plus-Qualifikationskriterien               | 14/09/2023, 7:34:46 am | 14/09/2023, 7:34:45 am  |
+| Criterios de admisión para casos de abuso del programa Socio Plus | 14/09/2023, 7:34:45 am | 14/09/2023, 7:34:44 am  |
 
 
 ### partner-program-overview
 https://help.twitch.tv/s/article/partner-program-overview
 
-| Title                                                | Last Modified          | Created                 |
-|------------------------------------------------------|------------------------|-------------------------|
-| Descripción general del programa de socios de Twitch | 12/09/2023, 6:11:19 am | 12/09/2023, 6:11:18 am  |
-| Das Partnerprogramm von Twitch im Überblick          | 12/09/2023, 6:09:23 am | 12/09/2023, 6:09:18 am  |
+| Title                                                | Last Modified           | Created                  |
+|------------------------------------------------------|-------------------------|--------------------------|
+| Das Partnerprogramm von Twitch im Überblick          | 13/09/2023, 11:02:45 pm | 13/09/2023, 11:02:40 pm  |
+| Descripción general del programa de socios de Twitch | 12/09/2023, 6:11:19 am  | 12/09/2023, 6:11:18 am   |
 
 
 ### partner-settings-guide
