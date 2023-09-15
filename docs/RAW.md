@@ -7,6 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| ban-evasion                                                   | 15/09/2023, 6:15:50 am  | 15/09/2023, 6:15:50 am  | [Details](#ban-evasion)                                                    |
+| mod-view                                                      | 15/09/2023, 6:15:45 am  | 15/09/2023, 6:15:44 am  | [Details](#mod-view)                                                       |
+| how-to-manage-harassment-in-chat                              | 15/09/2023, 6:15:41 am  | 15/09/2023, 6:15:39 am  | [Details](#how-to-manage-harassment-in-chat)                               |
+| experiments                                                   | 15/09/2023, 3:23:43 am  | 25/08/2023, 4:26:05 am  | [Details](#experiments)                                                    |
 | stream-display-ads                                            | 14/09/2023, 9:49:03 pm  | 07/09/2023, 2:19:27 am  | [Details](#stream-display-ads)                                             |
 | partner-plus-abuse                                            | 14/09/2023, 7:35:01 am  | 14/09/2023, 7:35:00 am  | [Details](#partner-plus-abuse)                                             |
 | partner-program-overview                                      | 13/09/2023, 11:02:45 pm | 13/09/2023, 11:02:40 pm | [Details](#partner-program-overview)                                       |
@@ -45,7 +49,6 @@ Language data is not included in the API. All page links will not have a languag
 | subtember-2023-faq                                            | 28/08/2023, 4:39:34 pm  | 28/08/2023, 4:39:31 pm  | [Details](#subtember-2023-faq)                                             |
 | understanding-feedback-updates                                | 26/08/2023, 1:19:37 am  | 18/08/2023, 5:32:20 am  | [Details](#understanding-feedback-updates)                                 |
 | navigating-the-feedback-forum                                 | 26/08/2023, 1:19:34 am  | 18/08/2023, 5:32:44 am  | [Details](#navigating-the-feedback-forum)                                  |
-| experiments                                                   | 25/08/2023, 4:24:07 am  | 25/08/2023, 4:24:06 am  | [Details](#experiments)                                                    |
 | account-hacked                                                | 24/08/2023, 10:35:38 pm | 17/08/2023, 11:15:45 am | [Details](#account-hacked)                                                 |
 | twitch-account-settings                                       | 24/08/2023, 7:52:40 pm  | 17/08/2023, 11:20:05 am | [Details](#twitch-account-settings)                                        |
 | brand-surveys                                                 | 14/08/2023, 9:17:11 pm  | 14/08/2023, 9:17:04 pm  | [Details](#brand-surveys)                                                  |
@@ -147,7 +150,6 @@ Language data is not included in the API. All page links will not have a languag
 | supported-mobile-os                                           | 09/02/2023, 0:22:02 am  | 03/02/2023, 0:01:51 pm  | [Details](#supported-mobile-os)                                            |
 | how-to-purchase-bits                                          | 02/02/2023, 2:38:28 am  | 12/01/2023, 11:55:47 am | [Details](#how-to-purchase-bits)                                           |
 | cheering-for-partners-affiliates                              | 02/02/2023, 2:38:24 am  | 12/01/2023, 11:26:09 am | [Details](#cheering-for-partners-affiliates)                               |
-| how-to-manage-harassment-in-chat                              | 01/02/2023, 6:22:39 pm  | 01/02/2023, 6:22:34 pm  | [Details](#how-to-manage-harassment-in-chat)                               |
 | gift-card-redeem                                              | 27/01/2023, 3:03:46 am  | 06/01/2023, 1:41:26 pm  | [Details](#gift-card-redeem)                                               |
 | gift-card                                                     | 27/01/2023, 3:03:45 am  | 06/01/2023, 1:48:07 pm  | [Details](#gift-card)                                                      |
 | mobile-irl-broadcasting                                       | 24/01/2023, 5:59:40 am  | 06/12/2022, 4:43:47 am  | [Details](#mobile-irl-broadcasting)                                        |
@@ -164,7 +166,6 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-use-host-mode                                          | 10/12/2022, 8:09:10 am  | 10/12/2022, 8:09:09 am  | [Details](#how-to-use-host-mode)                                           |
 | your-first-payout-walkthrough                                 | 10/12/2022, 1:47:35 am  | 06/12/2022, 10:18:50 am | [Details](#your-first-payout-walkthrough)                                  |
 | gift-subscriptions-for-creators                               | 07/12/2022, 10:47:38 am | 07/12/2022, 10:47:38 am | [Details](#gift-subscriptions-for-creators)                                |
-| mod-view                                                      | 06/12/2022, 2:30:12 am  | 02/12/2022, 9:11:24 am  | [Details](#mod-view)                                                       |
 | emote-slots                                                   | 06/12/2022, 2:30:09 am  | 02/12/2022, 8:46:19 am  | [Details](#emote-slots)                                                    |
 | how-to-use-twitch-showcase                                    | 06/12/2022, 1:27:04 am  | 02/12/2022, 4:40:24 am  | [Details](#how-to-use-twitch-showcase)                                     |
 | chat-commands                                                 | 19/11/2022, 2:02:32 am  | 19/11/2022, 2:02:30 am  | [Details](#chat-commands)                                                  |
@@ -211,7 +212,6 @@ Language data is not included in the API. All page links will not have a languag
 | scene-importing                                               | 03/08/2022, 5:54:38 am  | 03/08/2022, 5:54:35 am  | [Details](#scene-importing)                                                |
 | channel-points-predictions                                    | 30/07/2022, 4:23:37 am  | 30/07/2022, 4:23:24 am  | [Details](#channel-points-predictions)                                     |
 | games-irl-and-music-directories                               | 28/07/2022, 3:03:22 am  | 30/06/2022, 8:03:56 am  | [Details](#games-irl-and-music-directories)                                |
-| ban-evasion                                                   | 22/07/2022, 2:42:23 am  | 01/07/2022, 4:49:25 am  | [Details](#ban-evasion)                                                    |
 | how-do-i-stream-faq                                           | 20/07/2022, 6:19:45 am  | 20/07/2022, 6:19:17 am  | [Details](#how-do-i-stream-faq)                                            |
 | payout-details-faq                                            | 13/07/2022, 3:11:03 am  | 29/06/2022, 8:26:24 am  | [Details](#payout-details-faq)                                             |
 | rejected-payout-faq                                           | 13/07/2022, 3:10:35 am  | 29/06/2022, 0:32:52 pm  | [Details](#rejected-payout-faq)                                            |
@@ -801,13 +801,13 @@ https://help.twitch.tv/s/article/ban-evasion
 
 | Title                                                    | Last Modified          | Created                 |
 |----------------------------------------------------------|------------------------|-------------------------|
-| Controles de usuarios sospechosos                        | 22/07/2022, 2:42:23 am | 01/07/2022, 4:49:25 am  |
-| Comandi Utenti sospetti                                  | 22/07/2022, 2:42:20 am | 01/07/2022, 4:49:25 am  |
-| Controles para usuários suspeitos                        | 22/07/2022, 2:42:20 am | 01/07/2022, 4:49:25 am  |
-| Korzystanie z funkcji kontroli podejrzanych użytkowników | 22/07/2022, 2:42:20 am | 01/07/2022, 4:49:25 am  |
-| Controles de usuario sospechoso                          | 22/07/2022, 2:42:13 am | 01/07/2022, 4:49:25 am  |
-| Contrôles d'utilisateurs suspects                        | 22/07/2022, 2:42:06 am | 01/07/2022, 4:49:25 am  |
-| Einstellungen für verdächtige Benutzer                   | 22/07/2022, 2:42:03 am | 01/07/2022, 4:49:25 am  |
+| Comandi Utenti sospetti                                  | 15/09/2023, 6:15:50 am | 15/09/2023, 6:15:50 am  |
+| Controles de usuario sospechoso                          | 15/09/2023, 6:15:50 am | 15/09/2023, 6:15:50 am  |
+| Controles de usuarios sospechosos                        | 15/09/2023, 6:15:50 am | 15/09/2023, 6:15:50 am  |
+| Controles para usuários suspeitos                        | 15/09/2023, 6:15:50 am | 15/09/2023, 6:15:50 am  |
+| Contrôles d'utilisateurs suspects                        | 15/09/2023, 6:15:50 am | 15/09/2023, 6:15:50 am  |
+| Einstellungen für verdächtige Benutzer                   | 15/09/2023, 6:15:50 am | 15/09/2023, 6:15:50 am  |
+| Korzystanie z funkcji kontroli podejrzanych użytkowników | 15/09/2023, 6:15:50 am | 15/09/2023, 6:15:50 am  |
 
 
 ### basic-troubleshooting-tips
@@ -1647,12 +1647,12 @@ https://help.twitch.tv/s/article/experiments
 
 | Title                          | Last Modified          | Created                 |
 |--------------------------------|------------------------|-------------------------|
-| Eksperymenty w serwisie Twitch | 25/08/2023, 4:24:07 am | 25/08/2023, 4:24:06 am  |
-| Experimentos da Twitch         | 25/08/2023, 4:24:07 am | 25/08/2023, 4:24:06 am  |
-| Experimentos de Twitch         | 25/08/2023, 4:24:07 am | 25/08/2023, 4:24:06 am  |
-| Experimentos de Twitch         | 25/08/2023, 4:24:07 am | 25/08/2023, 4:24:06 am  |
-| Expériences Twitch             | 25/08/2023, 4:24:07 am | 25/08/2023, 4:24:06 am  |
-| Gli esperimenti di Twitch      | 25/08/2023, 4:24:07 am | 25/08/2023, 4:24:06 am  |
+| Eksperymenty w serwisie Twitch | 15/09/2023, 3:23:43 am | 25/08/2023, 4:26:05 am  |
+| Experimentos da Twitch         | 15/09/2023, 3:23:43 am | 25/08/2023, 4:26:05 am  |
+| Experimentos de Twitch         | 15/09/2023, 3:23:42 am | 25/08/2023, 4:26:05 am  |
+| Experimentos de Twitch         | 15/09/2023, 3:23:42 am | 25/08/2023, 4:26:05 am  |
+| Expériences Twitch             | 15/09/2023, 3:23:42 am | 25/08/2023, 4:26:05 am  |
+| Gli esperimenti di Twitch      | 15/09/2023, 3:23:42 am | 25/08/2023, 4:26:05 am  |
 
 
 ### extensions-switch-with-your-game-selection
@@ -2415,19 +2415,19 @@ https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat
 
 | Title                                       | Last Modified          | Created                 |
 |---------------------------------------------|------------------------|-------------------------|
-| Gérer le harcèlement dans le chat           | 01/02/2023, 6:22:39 pm | 01/02/2023, 6:22:34 pm  |
-| Como gerenciar assédio no chat              | 01/12/2022, 5:24:51 am | 24/11/2022, 4:28:58 am  |
-| Jak radzić sobie z napastowaniem na czacie? | 01/12/2022, 5:24:51 am | 24/11/2022, 4:28:58 am  |
-| Come gestire le molestie in chat            | 01/12/2022, 5:24:50 am | 24/11/2022, 4:28:58 am  |
-| Cómo gestionar el acoso en un chat          | 01/12/2022, 5:24:50 am | 24/11/2022, 4:28:58 am  |
-| Cómo gestionar el acoso en un chat          | 01/12/2022, 5:24:50 am | 24/11/2022, 4:28:58 am  |
-| How to Manage Harassment in Chat            | 01/12/2022, 5:24:50 am | 24/11/2022, 4:28:14 am  |
-| Como lidar com o assédio no chat            | 01/12/2022, 5:24:49 am | 01/12/2022, 5:24:47 am  |
-| Hogyan kezeld a chat közbeni zaklatást?     | 01/12/2022, 5:24:49 am | 01/12/2022, 5:24:47 am  |
-| Hur man hanterar trakasserier i chatten     | 01/12/2022, 5:24:49 am | 01/12/2022, 5:24:47 am  |
-| Hvordan håndtere trakassering i chatten     | 01/12/2022, 5:24:49 am | 01/12/2022, 5:24:47 am  |
-| Häirinnän käsittely chatissa                | 01/12/2022, 5:24:49 am | 01/12/2022, 5:24:47 am  |
-| Jak zvládat obtěžování v chatu              | 01/12/2022, 5:24:49 am | 01/12/2022, 5:24:47 am  |
+| Come gestire le molestie in chat            | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:39 am  |
+| Como gerenciar assédio no chat              | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:40 am  |
+| Como lidar com o assédio no chat            | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:40 am  |
+| Cómo gestionar el acoso en un chat          | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:39 am  |
+| Cómo gestionar el acoso en un chat          | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:39 am  |
+| Gérer le harcèlement dans le chat           | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:39 am  |
+| Hogyan kezeld a chat közbeni zaklatást?     | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:39 am  |
+| How to Manage Harassment in Chat            | 15/09/2023, 6:15:41 am | 21/03/2023, 5:25:34 am  |
+| Hur man hanterar trakasserier i chatten     | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:40 am  |
+| Hvordan håndtere trakassering i chatten     | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:40 am  |
+| Häirinnän käsittely chatissa                | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:39 am  |
+| Jak radzić sobie z napastowaniem na czacie? | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:40 am  |
+| Jak zvládat obtěžování v chatu              | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:39 am  |
 
 
 ### how-to-perform-a-traceroute-to-twitch
@@ -3147,11 +3147,11 @@ https://help.twitch.tv/s/article/mod-view
 
 | Title                | Last Modified          | Created                 |
 |----------------------|------------------------|-------------------------|
-| Mod-Ansicht          | 06/12/2022, 2:30:12 am | 02/12/2022, 9:11:24 am  |
-| Affichage Modérateur | 05/12/2022, 9:36:13 pm | 02/12/2022, 9:11:24 am  |
-| Moderatör Alanı      | 05/12/2022, 9:25:34 pm | 02/12/2022, 9:11:24 am  |
-| Mod 檢視模式             | 05/12/2022, 8:16:14 pm | 02/12/2022, 9:11:24 am  |
-| Mod View             | 02/12/2022, 9:10:45 am | 27/09/2022, 9:07:16 am  |
+| Affichage Modérateur | 15/09/2023, 6:15:45 am | 15/09/2023, 6:15:44 am  |
+| Mod View             | 15/09/2023, 6:15:45 am | 14/09/2023, 7:45:40 am  |
+| Mod 檢視模式             | 15/09/2023, 6:15:45 am | 15/09/2023, 6:15:44 am  |
+| Mod-Ansicht          | 15/09/2023, 6:15:45 am | 15/09/2023, 6:15:44 am  |
+| Moderatör Alanı      | 15/09/2023, 6:15:45 am | 15/09/2023, 6:15:44 am  |
 
 
 ### modified-emotes
