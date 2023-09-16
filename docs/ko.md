@@ -44,6 +44,8 @@
 | Guide To Broadcast Health                                     | 09/08/2023, 5:11:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=ko)                                      |
 | Authy Faq                                                     | 03/08/2023, 2:01:38 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=ko)                                                      |
 | New Device And Location Verification                          | 03/08/2023, 2:01:36 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=ko)                           |
+| How To Appeal Flagged Content                                 | 02/08/2023, 3:24:17 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=ko)                                  |
+| Founders Badge                                                | 28/07/2023, 3:34:47 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=ko)                                                 |
 
 
 

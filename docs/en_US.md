@@ -31,6 +31,8 @@
 | Twitch Account Settings                                       | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=en_US)                                        |
 | Account Hacked                                                | 17/08/2023, 11:14:52 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=en_US)                                                 |
 | Brand Surveys                                                 | 12/08/2023, 3:00:04 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=en_US)                                                  |
+| How To Appeal Flagged Content                                 | 02/08/2023, 3:24:17 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=en_US)                                  |
+| Guide To Broadcast Health                                     | 02/08/2023, 3:21:35 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=en_US)                                      |
 
 
 

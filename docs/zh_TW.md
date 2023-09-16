@@ -45,6 +45,11 @@
 | Guide To Cheering With Bits                                   | 08/08/2023, 5:35:10 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=zh_TW)                                    |
 | Authy Faq                                                     | 03/08/2023, 8:39:10 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=zh_TW)                                                      |
 | New Device And Location Verification                          | 03/08/2023, 8:39:03 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=zh_TW)                           |
+| Multi Month Subscriptions                                     | 31/07/2023, 7:20:33 pm    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=zh_TW)                                      |
+| Subscriptions On Mobile                                       | 31/07/2023, 7:19:08 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=zh_TW)                                        |
+| Founders Badge                                                | 31/07/2023, 7:19:02 pm    | [Link](https://help.twitch.tv/s/article/founders-badge?language=zh_TW)                                                 |
+| Alerts By Twitch Customization                                | 31/07/2023, 7:18:43 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=zh_TW)                                 |
+| Delete Twitch Account                                         | 31/07/2023, 7:18:10 pm    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=zh_TW)                                          |
 
 
 
