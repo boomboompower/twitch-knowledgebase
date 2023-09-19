@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| affiliate-onboarding-guide                                    | 19/09/2023, 9:07:52 am  | 19/09/2023, 7:26:14 am  | [Details](#affiliate-onboarding-guide)                                     |
 | ban-evasion                                                   | 15/09/2023, 6:15:50 am  | 15/09/2023, 6:15:50 am  | [Details](#ban-evasion)                                                    |
 | mod-view                                                      | 15/09/2023, 6:15:45 am  | 15/09/2023, 6:15:44 am  | [Details](#mod-view)                                                       |
 | how-to-manage-harassment-in-chat                              | 15/09/2023, 6:15:41 am  | 15/09/2023, 6:15:39 am  | [Details](#how-to-manage-harassment-in-chat)                               |
@@ -38,7 +39,6 @@ Language data is not included in the API. All page links will not have a languag
 | hype-train-guide                                              | 12/09/2023, 4:04:13 am  | 12/09/2023, 4:04:11 am  | [Details](#hype-train-guide)                                               |
 | twitch-turbo-guide                                            | 12/09/2023, 4:03:41 am  | 06/09/2023, 10:28:23 am | [Details](#twitch-turbo-guide)                                             |
 | dmca-and-copyright-faqs                                       | 12/09/2023, 4:02:32 am  | 12/09/2023, 4:02:29 am  | [Details](#dmca-and-copyright-faqs)                                        |
-| affiliate-onboarding-guide                                    | 08/09/2023, 1:14:30 am  | 17/08/2023, 4:05:59 am  | [Details](#affiliate-onboarding-guide)                                     |
 | affiliate-settings-guide                                      | 08/09/2023, 1:14:10 am  | 21/07/2023, 5:09:17 am  | [Details](#affiliate-settings-guide)                                       |
 | joining-the-affiliate-program                                 | 08/09/2023, 1:13:55 am  | 17/08/2023, 3:34:18 am  | [Details](#joining-the-affiliate-program)                                  |
 | twitch-affiliate-program-faq                                  | 08/09/2023, 1:13:40 am  | 17/08/2023, 3:34:58 am  | [Details](#twitch-affiliate-program-faq)                                   |
@@ -531,13 +531,13 @@ https://help.twitch.tv/s/article/affiliate-onboarding-guide
 
 | Title                                          | Last Modified          | Created                 |
 |------------------------------------------------|------------------------|-------------------------|
-| Guia de integração de afiliados                | 08/09/2023, 1:14:30 am | 17/08/2023, 4:05:59 am  |
-| Affiliate Onboarding Guide                     | 08/09/2023, 1:14:29 am | 17/08/2023, 2:33:08 am  |
-| Guida alla registrazione affiliato             | 08/09/2023, 1:14:29 am | 17/08/2023, 4:05:59 am  |
-| Guide d'intégration au programme d'affiliation | 08/09/2023, 1:14:29 am | 17/08/2023, 4:05:59 am  |
-| Guía de incorporación de afiliados             | 08/09/2023, 1:14:29 am | 17/08/2023, 4:05:59 am  |
-| Guía de Introducción de Afiliado               | 08/09/2023, 1:14:29 am | 17/08/2023, 4:05:59 am  |
-| Leitfaden zum Affiliate-Onboarding             | 08/09/2023, 1:14:28 am | 17/08/2023, 4:05:59 am  |
+| Guía de incorporación de afiliados             | 19/09/2023, 9:07:52 am | 19/09/2023, 7:26:14 am  |
+| Leitfaden zum Affiliate-Onboarding             | 19/09/2023, 9:07:48 am | 19/09/2023, 7:26:14 am  |
+| Guide d'intégration au programme d'affiliation | 19/09/2023, 9:07:46 am | 19/09/2023, 7:26:14 am  |
+| Guia de integração de afiliados                | 19/09/2023, 9:07:41 am | 19/09/2023, 7:26:14 am  |
+| Guida alla registrazione affiliato             | 19/09/2023, 9:07:41 am | 19/09/2023, 7:26:14 am  |
+| Guía de Introducción de Afiliado               | 19/09/2023, 9:07:38 am | 19/09/2023, 7:26:14 am  |
+| Affiliate Onboarding Guide                     | 19/09/2023, 7:23:28 am | 19/09/2023, 7:22:07 am  |
 
 
 ### affiliate-or-partner-anniversary-settings
