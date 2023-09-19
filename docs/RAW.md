@@ -7,9 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| mod-view                                                      | 19/09/2023, 10:15:03 pm | 15/09/2023, 8:30:47 am  | [Details](#mod-view)                                                       |
+| ban-evasion                                                   | 19/09/2023, 10:13:06 pm | 15/09/2023, 8:31:51 am  | [Details](#ban-evasion)                                                    |
 | affiliate-onboarding-guide                                    | 19/09/2023, 9:07:52 am  | 19/09/2023, 7:26:14 am  | [Details](#affiliate-onboarding-guide)                                     |
-| ban-evasion                                                   | 15/09/2023, 6:15:50 am  | 15/09/2023, 6:15:50 am  | [Details](#ban-evasion)                                                    |
-| mod-view                                                      | 15/09/2023, 6:15:45 am  | 15/09/2023, 6:15:44 am  | [Details](#mod-view)                                                       |
 | how-to-manage-harassment-in-chat                              | 15/09/2023, 6:15:41 am  | 15/09/2023, 6:15:39 am  | [Details](#how-to-manage-harassment-in-chat)                               |
 | experiments                                                   | 15/09/2023, 3:23:43 am  | 25/08/2023, 4:26:05 am  | [Details](#experiments)                                                    |
 | stream-display-ads                                            | 14/09/2023, 9:49:03 pm  | 07/09/2023, 2:19:27 am  | [Details](#stream-display-ads)                                             |
@@ -799,15 +799,15 @@ https://help.twitch.tv/s/article/authy-faq
 ### ban-evasion
 https://help.twitch.tv/s/article/ban-evasion
 
-| Title                                                    | Last Modified          | Created                 |
-|----------------------------------------------------------|------------------------|-------------------------|
-| Comandi Utenti sospetti                                  | 15/09/2023, 6:15:50 am | 15/09/2023, 6:15:50 am  |
-| Controles de usuario sospechoso                          | 15/09/2023, 6:15:50 am | 15/09/2023, 6:15:50 am  |
-| Controles de usuarios sospechosos                        | 15/09/2023, 6:15:50 am | 15/09/2023, 6:15:50 am  |
-| Controles para usuários suspeitos                        | 15/09/2023, 6:15:50 am | 15/09/2023, 6:15:50 am  |
-| Contrôles d'utilisateurs suspects                        | 15/09/2023, 6:15:50 am | 15/09/2023, 6:15:50 am  |
-| Einstellungen für verdächtige Benutzer                   | 15/09/2023, 6:15:50 am | 15/09/2023, 6:15:50 am  |
-| Korzystanie z funkcji kontroli podejrzanych użytkowników | 15/09/2023, 6:15:50 am | 15/09/2023, 6:15:50 am  |
+| Title                                                    | Last Modified           | Created                 |
+|----------------------------------------------------------|-------------------------|-------------------------|
+| Controles para usuários suspeitos                        | 19/09/2023, 10:13:06 pm | 15/09/2023, 8:31:51 am  |
+| Contrôles d'utilisateurs suspects                        | 19/09/2023, 10:11:33 pm | 15/09/2023, 8:31:51 am  |
+| Controles de usuario sospechoso                          | 19/09/2023, 10:10:40 pm | 15/09/2023, 8:31:51 am  |
+| Einstellungen für verdächtige Benutzer                   | 19/09/2023, 10:10:04 pm | 15/09/2023, 8:31:51 am  |
+| Controles de usuarios sospechosos                        | 19/09/2023, 7:57:35 pm  | 15/09/2023, 8:31:51 am  |
+| Korzystanie z funkcji kontroli podejrzanych użytkowników | 19/09/2023, 6:41:33 pm  | 15/09/2023, 8:31:51 am  |
+| Comandi Utenti sospetti                                  | 15/09/2023, 6:15:50 am  | 15/09/2023, 6:15:50 am  |
 
 
 ### basic-troubleshooting-tips
@@ -3145,13 +3145,13 @@ https://help.twitch.tv/s/article/mobile-irl-broadcasting
 ### mod-view
 https://help.twitch.tv/s/article/mod-view
 
-| Title                | Last Modified          | Created                 |
-|----------------------|------------------------|-------------------------|
-| Affichage Modérateur | 15/09/2023, 6:15:45 am | 15/09/2023, 6:15:44 am  |
-| Mod View             | 15/09/2023, 6:15:45 am | 14/09/2023, 7:45:40 am  |
-| Mod 檢視模式             | 15/09/2023, 6:15:45 am | 15/09/2023, 6:15:44 am  |
-| Mod-Ansicht          | 15/09/2023, 6:15:45 am | 15/09/2023, 6:15:44 am  |
-| Moderatör Alanı      | 15/09/2023, 6:15:45 am | 15/09/2023, 6:15:44 am  |
+| Title                | Last Modified           | Created                 |
+|----------------------|-------------------------|-------------------------|
+| Mod 檢視模式             | 19/09/2023, 10:15:03 pm | 15/09/2023, 8:30:47 am  |
+| Moderatör Alanı      | 19/09/2023, 10:14:39 pm | 15/09/2023, 8:30:47 am  |
+| Affichage Modérateur | 19/09/2023, 10:11:32 pm | 15/09/2023, 8:30:47 am  |
+| Mod-Ansicht          | 19/09/2023, 10:10:04 pm | 15/09/2023, 8:30:47 am  |
+| Mod View             | 15/09/2023, 6:15:45 am  | 14/09/2023, 7:45:40 am  |
 
 
 ### modified-emotes
