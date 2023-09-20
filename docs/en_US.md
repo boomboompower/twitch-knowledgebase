@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                              | 20/09/2023, 7:32:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                               |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 7:23:28 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=en_US)                                     |
 | Suspicious User Controls                                      | 15/09/2023, 6:15:59 am    | [Link](https://help.twitch.tv/s/article/suspicious-user-controls?language=en_US)                                       |
 | Mod View                                                      | 15/09/2023, 6:15:45 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                                       |

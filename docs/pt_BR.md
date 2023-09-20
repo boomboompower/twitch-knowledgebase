@@ -6,9 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                              | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                               |
+| Ban Evasion                                                   | 19/09/2023, 10:13:06 pm   | [Link](https://help.twitch.tv/s/article/ban-evasion?language=pt_BR)                                                    |
+| Mod View                                                      | 19/09/2023, 10:13:03 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=pt_BR)                                                       |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:41 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pt_BR)                                     |
-| Ban Evasion                                                   | 15/09/2023, 6:15:50 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=pt_BR)                                                    |
-| Mod View                                                      | 15/09/2023, 6:15:45 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=pt_BR)                                                       |
 | How To Manage Harassment In Chat                              | 15/09/2023, 6:15:41 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_BR)                               |
 | Experiments                                                   | 15/09/2023, 3:23:43 am    | [Link](https://help.twitch.tv/s/article/experiments?language=pt_BR)                                                    |
 | Stream Display Ads                                            | 14/09/2023, 9:49:03 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pt_BR)                                             |
@@ -25,7 +26,6 @@
 | Disconnect Protection                                         | 12/09/2023, 6:16:53 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=pt_BR)                                          |
 | How To Use Raids                                              | 12/09/2023, 6:16:07 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=pt_BR)                                               |
 | Subscription Cancellation Reasons                             | 12/09/2023, 6:16:03 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=pt_BR)                              |
-| How To Use Clips                                              | 12/09/2023, 6:09:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                               |
 | Twitch Turbo Guide                                            | 12/09/2023, 4:03:26 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_BR)                                             |
 | Twitch Studio Faq                                             | 12/09/2023, 4:02:37 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=pt_BR)                                              |
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=pt_BR)                                       |
@@ -42,8 +42,6 @@
 | Guide To Cheering With Bits                                   | 09/08/2023, 6:19:41 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_BR)                                    |
 | Guide To Broadcast Health                                     | 09/08/2023, 5:55:09 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=pt_BR)                                      |
 | How To Appeal Flagged Content                                 | 09/08/2023, 5:55:06 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=pt_BR)                                  |
-| New Device And Location Verification                          | 02/08/2023, 10:17:41 am   | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=pt_BR)                           |
-| Authy Faq                                                     | 02/08/2023, 10:17:33 am   | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_BR)                                                      |
 
 
 

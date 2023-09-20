@@ -6,9 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                              | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                               |
+| Ban Evasion                                                   | 19/09/2023, 10:10:40 pm   | [Link](https://help.twitch.tv/s/article/ban-evasion?language=es)                                                    |
+| Mod View                                                      | 19/09/2023, 10:10:38 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=es)                                                       |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:52 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es)                                     |
-| Ban Evasion                                                   | 15/09/2023, 6:15:50 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=es)                                                    |
-| Mod View                                                      | 15/09/2023, 6:15:45 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=es)                                                       |
 | How To Manage Harassment In Chat                              | 15/09/2023, 6:15:41 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es)                               |
 | Experiments                                                   | 15/09/2023, 3:23:42 am    | [Link](https://help.twitch.tv/s/article/experiments?language=es)                                                    |
 | Stream Display Ads                                            | 14/09/2023, 5:50:05 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es)                                             |
@@ -25,7 +26,6 @@
 | Disconnect Protection                                         | 12/09/2023, 6:11:28 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=es)                                          |
 | Partner Program Overview                                      | 12/09/2023, 6:11:19 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                                       |
 | Subscription Cancellation Reasons                             | 12/09/2023, 6:09:13 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=es)                              |
-| How To Use Clips                                              | 12/09/2023, 6:07:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                               |
 | Twitch Turbo Guide                                            | 12/09/2023, 4:03:25 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es)                                             |
 | Twitch Studio Faq                                             | 12/09/2023, 4:03:09 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=es)                                              |
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:09 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=es)                                       |

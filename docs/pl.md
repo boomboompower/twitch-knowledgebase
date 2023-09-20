@@ -6,9 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                              | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pl)                                               |
+| Mod View                                                      | 19/09/2023, 6:41:36 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=pl)                                                       |
+| Ban Evasion                                                   | 19/09/2023, 6:41:33 pm    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=pl)                                                    |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:51 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pl)                                     |
-| Ban Evasion                                                   | 15/09/2023, 6:15:50 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=pl)                                                    |
-| Mod View                                                      | 15/09/2023, 6:15:45 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=pl)                                                       |
 | How To Manage Harassment In Chat                              | 15/09/2023, 6:15:41 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pl)                               |
 | Experiments                                                   | 15/09/2023, 3:23:43 am    | [Link](https://help.twitch.tv/s/article/experiments?language=pl)                                                    |
 | Stream Display Ads                                            | 14/09/2023, 8:13:32 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pl)                                             |
@@ -25,7 +26,6 @@
 | Subscription Cancellation Reasons                             | 12/09/2023, 6:12:27 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=pl)                              |
 | Stream Summary                                                | 12/09/2023, 6:12:05 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pl)                                                 |
 | Partner Program Overview                                      | 12/09/2023, 6:09:20 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pl)                                       |
-| How To Use Clips                                              | 12/09/2023, 6:08:13 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pl)                                               |
 | Twitch Turbo Guide                                            | 12/09/2023, 4:02:40 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pl)                                             |
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=pl)                                       |
 | Joining The Affiliate Program                                 | 08/09/2023, 1:13:55 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pl)                                  |
@@ -43,8 +43,6 @@
 | How To Appeal Flagged Content                                 | 09/08/2023, 8:34:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=pl)                                  |
 | Guide To Broadcast Health                                     | 09/08/2023, 8:34:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=pl)                                      |
 | Guide To Cheering With Bits                                   | 09/08/2023, 7:55:05 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pl)                                    |
-| Authy Faq                                                     | 02/08/2023, 8:41:37 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=pl)                                                      |
-| New Device And Location Verification                          | 02/08/2023, 8:41:33 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=pl)                           |
 
 
 
