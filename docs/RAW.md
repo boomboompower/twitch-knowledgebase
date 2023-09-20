@@ -7,8 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| how-to-use-clips                                              | 20/09/2023, 7:32:44 am  | 20/09/2023, 7:31:52 am  | [Details](#how-to-use-clips)                                               |
+| ban-evasion                                                   | 20/09/2023, 0:28:33 am  | 15/09/2023, 8:31:51 am  | [Details](#ban-evasion)                                                    |
 | mod-view                                                      | 19/09/2023, 10:15:03 pm | 15/09/2023, 8:30:47 am  | [Details](#mod-view)                                                       |
-| ban-evasion                                                   | 19/09/2023, 10:13:06 pm | 15/09/2023, 8:31:51 am  | [Details](#ban-evasion)                                                    |
 | affiliate-onboarding-guide                                    | 19/09/2023, 9:07:52 am  | 19/09/2023, 7:26:14 am  | [Details](#affiliate-onboarding-guide)                                     |
 | how-to-manage-harassment-in-chat                              | 15/09/2023, 6:15:41 am  | 15/09/2023, 6:15:39 am  | [Details](#how-to-manage-harassment-in-chat)                               |
 | experiments                                                   | 15/09/2023, 3:23:43 am  | 25/08/2023, 4:26:05 am  | [Details](#experiments)                                                    |
@@ -33,7 +34,6 @@ Language data is not included in the API. All page links will not have a languag
 | hype-chat-for-streamers                                       | 12/09/2023, 6:13:11 am  | 12/09/2023, 6:13:10 am  | [Details](#hype-chat-for-streamers)                                        |
 | dac7-interview                                                | 12/09/2023, 6:12:19 am  | 12/09/2023, 6:12:18 am  | [Details](#dac7-interview)                                                 |
 | political-onboarding                                          | 12/09/2023, 6:11:44 am  | 12/09/2023, 6:11:43 am  | [Details](#political-onboarding)                                           |
-| how-to-use-clips                                              | 12/09/2023, 6:09:42 am  | 12/09/2023, 6:09:38 am  | [Details](#how-to-use-clips)                                               |
 | featured-clips                                                | 12/09/2023, 4:05:18 am  | 30/08/2023, 8:21:20 am  | [Details](#featured-clips)                                                 |
 | gift-subscriptions                                            | 12/09/2023, 4:04:21 am  | 29/08/2023, 2:44:24 am  | [Details](#gift-subscriptions)                                             |
 | hype-train-guide                                              | 12/09/2023, 4:04:13 am  | 12/09/2023, 4:04:11 am  | [Details](#hype-train-guide)                                               |
@@ -801,13 +801,13 @@ https://help.twitch.tv/s/article/ban-evasion
 
 | Title                                                    | Last Modified           | Created                 |
 |----------------------------------------------------------|-------------------------|-------------------------|
+| Comandi Utenti sospetti                                  | 20/09/2023, 0:28:33 am  | 15/09/2023, 8:31:51 am  |
 | Controles para usuários suspeitos                        | 19/09/2023, 10:13:06 pm | 15/09/2023, 8:31:51 am  |
 | Contrôles d'utilisateurs suspects                        | 19/09/2023, 10:11:33 pm | 15/09/2023, 8:31:51 am  |
 | Controles de usuario sospechoso                          | 19/09/2023, 10:10:40 pm | 15/09/2023, 8:31:51 am  |
 | Einstellungen für verdächtige Benutzer                   | 19/09/2023, 10:10:04 pm | 15/09/2023, 8:31:51 am  |
 | Controles de usuarios sospechosos                        | 19/09/2023, 7:57:35 pm  | 15/09/2023, 8:31:51 am  |
 | Korzystanie z funkcji kontroli podejrzanych użytkowników | 19/09/2023, 6:41:33 pm  | 15/09/2023, 8:31:51 am  |
-| Comandi Utenti sospetti                                  | 15/09/2023, 6:15:50 am  | 15/09/2023, 6:15:50 am  |
 
 
 ### basic-troubleshooting-tips
@@ -2538,14 +2538,14 @@ https://help.twitch.tv/s/article/how-to-use-clips
 
 | Title                                                                | Last Modified          | Created                 |
 |----------------------------------------------------------------------|------------------------|-------------------------|
-| Como usar, criar, editar e compartilhar clipes                       | 12/09/2023, 6:09:42 am | 12/09/2023, 6:09:38 am  |
-| Come usare, creare, modificare e condividere le clip                 | 12/09/2023, 6:08:57 am | 12/09/2023, 6:08:54 am  |
-| Comment créer, éditer et partager des clips                          | 12/09/2023, 6:08:41 am | 12/09/2023, 6:08:38 am  |
-| Klip oluşturma, düzenleme ve paylaşma                                | 12/09/2023, 6:08:19 am | 12/09/2023, 6:08:11 am  |
-| Jak tworzyć, edytować i udostępniać klipy oraz jak z nich korzystać? | 12/09/2023, 6:08:13 am | 12/09/2023, 6:08:07 am  |
-| Cómo crear, editar y compartir clips                                 | 12/09/2023, 6:07:51 am | 12/09/2023, 6:07:45 am  |
-| Cómo crear, editar y compartir clips                                 | 12/09/2023, 6:07:33 am | 12/09/2023, 6:07:30 am  |
-| How to Use Create, Edit, and Share Clips                             | 12/05/2023, 6:56:21 am | 12/05/2023, 6:56:11 am  |
+| How to Use Create, Edit, and Share Clips                             | 20/09/2023, 7:32:44 am | 20/09/2023, 7:31:52 am  |
+| Come usare, creare, modificare e condividere le clip                 | 20/09/2023, 7:32:42 am | 20/09/2023, 7:32:42 am  |
+| Comment créer, éditer et partager des clips                          | 20/09/2023, 7:32:42 am | 20/09/2023, 7:32:42 am  |
+| Como usar, criar, editar e compartilhar clipes                       | 20/09/2023, 7:32:42 am | 20/09/2023, 7:32:42 am  |
+| Cómo crear, editar y compartir clips                                 | 20/09/2023, 7:32:42 am | 20/09/2023, 7:32:42 am  |
+| Cómo crear, editar y compartir clips                                 | 20/09/2023, 7:32:42 am | 20/09/2023, 7:32:42 am  |
+| Jak tworzyć, edytować i udostępniać klipy oraz jak z nich korzystać? | 20/09/2023, 7:32:42 am | 20/09/2023, 7:32:42 am  |
+| Klip oluşturma, düzenleme ve paylaşma                                | 20/09/2023, 7:32:42 am | 20/09/2023, 7:32:42 am  |
 
 
 ### how-to-use-collections
