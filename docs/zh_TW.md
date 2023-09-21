@@ -6,13 +6,14 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Channel Analytics                                             | 21/09/2023, 9:11:47 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=zh_TW)                                              |
+| Broadcasting Guidelines                                       | 21/09/2023, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=zh_TW)                                        |
 | How To Use Clips                                              | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                               |
 | Ban Evasion                                                   | 19/09/2023, 10:15:11 pm   | [Link](https://help.twitch.tv/s/article/ban-evasion?language=zh_TW)                                                    |
 | Mod View                                                      | 19/09/2023, 10:15:03 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                                       |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:46 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                                     |
 | How To Manage Harassment In Chat                              | 15/09/2023, 6:15:41 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=zh_TW)                               |
 | Experiments                                                   | 15/09/2023, 3:23:44 am    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                                    |
-| Channel Analytics                                             | 14/09/2023, 6:42:04 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=zh_TW)                                              |
 | Stream Display Ads                                            | 14/09/2023, 6:40:32 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=zh_TW)                                             |
 | Partner Program Overview                                      | 13/09/2023, 11:02:37 pm   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                                       |
 | Subpoint Vs Subcount                                          | 13/09/2023, 7:06:08 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=zh_TW)                                           |
@@ -44,7 +45,6 @@
 | How To Appeal Flagged Content                                 | 08/08/2023, 5:50:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=zh_TW)                                  |
 | Guide To Cheering With Bits                                   | 08/08/2023, 5:35:10 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=zh_TW)                                    |
 | Authy Faq                                                     | 03/08/2023, 8:39:10 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=zh_TW)                                                      |
-| New Device And Location Verification                          | 03/08/2023, 8:39:03 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=zh_TW)                           |
 
 
 

@@ -6,13 +6,14 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Channel Analytics                                             | 21/09/2023, 9:11:38 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=tr)                                              |
+| Broadcasting Guidelines                                       | 21/09/2023, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=tr)                                        |
 | How To Use Clips                                              | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=tr)                                               |
 | Mod View                                                      | 19/09/2023, 10:14:39 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=tr)                                                       |
 | Ban Evasion                                                   | 19/09/2023, 10:14:36 pm   | [Link](https://help.twitch.tv/s/article/ban-evasion?language=tr)                                                    |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:33 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=tr)                                     |
 | How To Manage Harassment In Chat                              | 15/09/2023, 6:15:41 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=tr)                               |
 | Experiments                                                   | 15/09/2023, 3:23:43 am    | [Link](https://help.twitch.tv/s/article/experiments?language=tr)                                                    |
-| Channel Analytics                                             | 13/09/2023, 8:30:13 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=tr)                                              |
 | Stream Display Ads                                            | 13/09/2023, 8:27:37 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=tr)                                             |
 | Subpoint Vs Subcount                                          | 13/09/2023, 7:06:08 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=tr)                                           |
 | Twitch Studio Mac Faq                                         | 12/09/2023, 11:03:54 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=tr)                                          |
@@ -43,8 +44,6 @@
 | Guide To Broadcast Health                                     | 08/08/2023, 7:32:04 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=tr)                                      |
 | How To Appeal Flagged Content                                 | 08/08/2023, 7:32:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=tr)                                  |
 | Guide To Cheering With Bits                                   | 07/08/2023, 5:55:15 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=tr)                                    |
-| New Device And Location Verification                          | 03/08/2023, 7:30:09 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=tr)                           |
-| Authy Faq                                                     | 03/08/2023, 7:30:07 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=tr)                                                      |
 
 
 

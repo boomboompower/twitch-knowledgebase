@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Channel Analytics                                             | 21/09/2023, 9:11:34 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_BR)                                              |
+| Broadcasting Guidelines                                       | 21/09/2023, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=pt_BR)                                        |
 | How To Use Clips                                              | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                               |
 | Ban Evasion                                                   | 19/09/2023, 10:13:06 pm   | [Link](https://help.twitch.tv/s/article/ban-evasion?language=pt_BR)                                                    |
 | Mod View                                                      | 19/09/2023, 10:13:03 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=pt_BR)                                                       |
@@ -13,7 +15,6 @@
 | How To Manage Harassment In Chat                              | 15/09/2023, 6:15:41 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_BR)                               |
 | Experiments                                                   | 15/09/2023, 3:23:43 am    | [Link](https://help.twitch.tv/s/article/experiments?language=pt_BR)                                                    |
 | Stream Display Ads                                            | 14/09/2023, 9:49:03 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pt_BR)                                             |
-| Channel Analytics                                             | 14/09/2023, 9:33:36 pm    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_BR)                                              |
 | Partner Program Overview                                      | 13/09/2023, 11:02:34 pm   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)                                       |
 | Subpoint Vs Subcount                                          | 13/09/2023, 7:06:07 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=pt_BR)                                           |
 | Twitch Studio Mac Faq                                         | 12/09/2023, 11:03:58 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=pt_BR)                                          |

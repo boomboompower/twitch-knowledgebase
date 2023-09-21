@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Channel Analytics                                             | 21/09/2023, 6:41:00 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=en_US)                                              |
+| Broadcasting Guidelines                                       | 21/09/2023, 3:09:57 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                                        |
 | How To Use Clips                                              | 20/09/2023, 7:32:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                               |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 7:23:28 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=en_US)                                     |
 | Suspicious User Controls                                      | 15/09/2023, 6:15:59 am    | [Link](https://help.twitch.tv/s/article/suspicious-user-controls?language=en_US)                                       |
@@ -19,7 +21,6 @@
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:09 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=en_US)                                       |
 | Joining The Affiliate Program                                 | 08/09/2023, 1:13:54 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=en_US)                                  |
 | Twitch Affiliate Program Faq                                  | 08/09/2023, 1:13:39 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                                   |
-| Channel Analytics                                             | 07/09/2023, 3:55:22 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=en_US)                                              |
 | Twitch Studio Mac Faq                                         | 06/09/2023, 6:14:19 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=en_US)                                          |
 | Twitch Studio Faq                                             | 06/09/2023, 6:09:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=en_US)                                              |
 | Moments                                                       | 01/09/2023, 2:59:10 am    | [Link](https://help.twitch.tv/s/article/moments?language=en_US)                                                        |
