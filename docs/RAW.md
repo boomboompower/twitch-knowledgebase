@@ -7,6 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| channel-analytics                                             | 21/09/2023, 9:11:38 am  | 21/09/2023, 6:39:29 am  | [Details](#channel-analytics)                                              |
+| broadcasting-guidelines                                       | 21/09/2023, 3:09:57 am  | 20/09/2023, 8:33:10 am  | [Details](#broadcasting-guidelines)                                        |
 | how-to-use-clips                                              | 20/09/2023, 7:32:44 am  | 20/09/2023, 7:31:52 am  | [Details](#how-to-use-clips)                                               |
 | ban-evasion                                                   | 20/09/2023, 0:28:33 am  | 15/09/2023, 8:31:51 am  | [Details](#ban-evasion)                                                    |
 | mod-view                                                      | 19/09/2023, 10:15:03 pm | 15/09/2023, 8:30:47 am  | [Details](#mod-view)                                                       |
@@ -16,7 +18,6 @@ Language data is not included in the API. All page links will not have a languag
 | stream-display-ads                                            | 14/09/2023, 9:49:03 pm  | 07/09/2023, 2:19:27 am  | [Details](#stream-display-ads)                                             |
 | partner-plus-abuse                                            | 14/09/2023, 7:35:01 am  | 14/09/2023, 7:35:00 am  | [Details](#partner-plus-abuse)                                             |
 | partner-program-overview                                      | 13/09/2023, 11:02:45 pm | 13/09/2023, 11:02:40 pm | [Details](#partner-program-overview)                                       |
-| channel-analytics                                             | 13/09/2023, 8:30:13 pm  | 30/08/2023, 8:35:49 am  | [Details](#channel-analytics)                                              |
 | subpoint-vs-subcount                                          | 13/09/2023, 7:06:08 am  | 06/09/2023, 10:23:44 am | [Details](#subpoint-vs-subcount)                                           |
 | twitch-studio-faq                                             | 12/09/2023, 8:33:04 pm  | 06/09/2023, 6:19:27 am  | [Details](#twitch-studio-faq)                                              |
 | twitch-studio-mac-faq                                         | 12/09/2023, 11:03:58 am | 12/09/2023, 11:03:57 am | [Details](#twitch-studio-mac-faq)                                          |
@@ -90,7 +91,6 @@ Language data is not included in the API. All page links will not have a languag
 | revenue                                                       | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am | [Details](#revenue)                                                        |
 | stream-manager                                                | 01/07/2023, 11:34:07 am | 01/07/2023, 11:34:06 am | [Details](#stream-manager)                                                 |
 | refunds-on-twitch                                             | 01/07/2023, 11:23:36 am | 01/07/2023, 11:23:35 am | [Details](#refunds-on-twitch)                                              |
-| broadcasting-guidelines                                       | 27/06/2023, 0:03:04 pm  | 10/06/2023, 7:21:08 am  | [Details](#broadcasting-guidelines)                                        |
 | ads-incentive-program-getting-started                         | 24/06/2023, 1:26:30 am  | 24/06/2023, 1:26:29 am  | [Details](#ads-incentive-program-getting-started)                          |
 | video-on-demand                                               | 24/06/2023, 0:46:15 am  | 20/06/2023, 0:14:22 am  | [Details](#video-on-demand)                                                |
 | 2023-updated-monetized-streamer-agreement                     | 23/06/2023, 2:38:05 am  | 23/06/2023, 2:38:05 am  | [Details](#2023-updated-monetized-streamer-agreement)                      |
@@ -940,11 +940,11 @@ https://help.twitch.tv/s/article/broadcasting-guidelines
 
 | Title                           | Last Modified          | Created                 |
 |---------------------------------|------------------------|-------------------------|
-| Directrices de emisión          | 27/06/2023, 0:03:04 pm | 10/06/2023, 7:21:08 am  |
-| Directrices para el streaming   | 27/06/2023, 0:02:58 pm | 10/06/2023, 7:21:08 am  |
-| Diretrizes para transmissões    | 27/06/2023, 0:02:42 pm | 10/06/2023, 7:21:08 am  |
-| Linee guida per la trasmissione | 27/06/2023, 0:02:11 pm | 10/06/2023, 7:21:08 am  |
-| Broadcasting Guidelines         | 27/06/2023, 0:00:42 pm | 10/06/2023, 7:20:16 am  |
+| Broadcasting Guidelines         | 21/09/2023, 3:09:57 am | 20/09/2023, 8:33:10 am  |
+| Directrices de emisión          | 21/09/2023, 3:09:56 am | 21/09/2023, 3:09:55 am  |
+| Directrices para el streaming   | 21/09/2023, 3:09:56 am | 21/09/2023, 3:09:55 am  |
+| Diretrizes para transmissões    | 21/09/2023, 3:09:56 am | 21/09/2023, 3:09:55 am  |
+| Linee guida per la trasmissione | 21/09/2023, 3:09:56 am | 21/09/2023, 3:09:55 am  |
 
 
 ### browser-extensions-twitch
@@ -1021,9 +1021,9 @@ https://help.twitch.tv/s/article/channel-analytics
 
 | Title                     | Last Modified          | Created                 |
 |---------------------------|------------------------|-------------------------|
-| Kanal Analizi Genel Bakış | 13/09/2023, 8:30:13 pm | 30/08/2023, 8:35:49 am  |
-| Analytics Overview        | 07/09/2023, 3:55:22 am | 30/08/2023, 8:34:54 am  |
-| Análise de Canal          | 07/09/2023, 3:55:18 am | 07/09/2023, 3:55:17 am  |
+| Kanal Analizi Genel Bakış | 21/09/2023, 9:11:38 am | 21/09/2023, 6:39:29 am  |
+| Analytics Overview        | 21/09/2023, 6:41:00 am | 21/09/2023, 6:38:38 am  |
+| Análise de Canal          | 21/09/2023, 6:40:55 am | 21/09/2023, 6:40:54 am  |
 
 
 ### channel-page-setup
