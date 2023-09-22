@@ -45,6 +45,7 @@
 | How To Appeal Flagged Content                                 | 08/08/2023, 5:50:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=zh_TW)                                  |
 | Guide To Cheering With Bits                                   | 08/08/2023, 5:35:10 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=zh_TW)                                    |
 | Authy Faq                                                     | 03/08/2023, 8:39:10 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=zh_TW)                                                      |
+| New Device And Location Verification                          | 03/08/2023, 8:39:03 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=zh_TW)                           |
 
 
 

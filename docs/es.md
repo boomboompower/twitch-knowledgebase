@@ -44,6 +44,8 @@
 | Guide To Cheering With Bits                                   | 09/08/2023, 2:02:40 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=es)                                    |
 | Guide To Broadcast Health                                     | 04/08/2023, 8:20:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=es)                                      |
 | How To Appeal Flagged Content                                 | 04/08/2023, 8:20:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=es)                                  |
+| Authy Faq                                                     | 03/08/2023, 8:27:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=es)                                                      |
+| New Device And Location Verification                          | 03/08/2023, 8:27:05 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es)                           |
 
 
 
