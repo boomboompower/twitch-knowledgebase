@@ -7,7 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| dac7-interview                                                | 22/09/2023, 9:58:41 am  | 22/09/2023, 9:58:41 am  | [Details](#dac7-interview)                                                 |
+| dac7-interview                                                | 23/09/2023, 4:28:14 am  | 23/09/2023, 4:28:14 am  | [Details](#dac7-interview)                                                 |
+| bounty-board-program-information-and-faq                      | 23/09/2023, 2:16:34 am  | 12/09/2023, 4:15:15 am  | [Details](#bounty-board-program-information-and-faq)                       |
 | channel-analytics                                             | 21/09/2023, 9:11:38 am  | 21/09/2023, 6:39:29 am  | [Details](#channel-analytics)                                              |
 | broadcasting-guidelines                                       | 21/09/2023, 3:09:57 am  | 20/09/2023, 8:33:10 am  | [Details](#broadcasting-guidelines)                                        |
 | how-to-use-clips                                              | 20/09/2023, 7:32:44 am  | 20/09/2023, 7:31:52 am  | [Details](#how-to-use-clips)                                               |
@@ -235,7 +236,6 @@ Language data is not included in the API. All page links will not have a languag
 | partner-cheermote-guide                                       | 11/03/2022, 0:32:34 am  | 08/03/2022, 7:47:12 am  | [Details](#partner-cheermote-guide)                                        |
 | browser-extensions-twitch                                     | 08/03/2022, 11:08:04 pm | 08/03/2022, 11:48:10 am | [Details](#browser-extensions-twitch)                                      |
 | animated-emotes                                               | 25/02/2022, 11:52:33 pm | 17/02/2022, 5:23:11 am  | [Details](#animated-emotes)                                                |
-| bounty-board-program-information-and-faq                      | 18/02/2022, 8:37:04 pm  | 18/02/2022, 8:37:02 pm  | [Details](#bounty-board-program-information-and-faq)                       |
 | community-challenges                                          | 18/02/2022, 8:27:04 pm  | 18/02/2022, 8:27:02 pm  | [Details](#community-challenges)                                           |
 | broadcast-guidelines                                          | 18/02/2022, 8:23:26 pm  | 18/02/2022, 8:23:23 pm  | [Details](#broadcast-guidelines)                                           |
 | streamer-community-survey                                     | 18/02/2022, 8:19:05 pm  | 18/02/2022, 8:19:02 pm  | [Details](#streamer-community-survey)                                      |
@@ -876,16 +876,16 @@ https://help.twitch.tv/s/article/boost-train
 ### bounty-board-program-information-and-faq
 https://help.twitch.tv/s/article/bounty-board-program-information-and-faq
 
-| Title                                                                         | Last Modified           | Created                  |
-|-------------------------------------------------------------------------------|-------------------------|--------------------------|
-| Información y preguntas frecuentes sobre el programa del panel de recompensas | 18/02/2022, 8:37:04 pm  | 18/02/2022, 8:37:02 pm   |
-| Informations et réponses sur le tableau des offres                            | 02/11/2021, 1:30:20 am  | 23/10/2021, 10:28:54 am  |
-| Informazioni e FAQ sul programma Bacheca Promozioni                           | 02/11/2021, 1:30:20 am  | 23/10/2021, 10:28:54 am  |
-| Informações e perguntas frequentes sobre o programa de Lista de Patrocínios   | 02/11/2021, 1:30:20 am  | 23/10/2021, 10:28:54 am  |
-| Informationen und FAQ zum Schwarzen Brett                                     | 02/11/2021, 1:30:19 am  | 23/10/2021, 10:28:54 am  |
-| Información y preguntas frecuentes sobre el panel de recompensas              | 02/11/2021, 1:30:18 am  | 23/10/2021, 10:28:54 am  |
-| Informacje o tablicy zleceń i często zadawane pytania                         | 02/11/2021, 1:30:18 am  | 23/10/2021, 10:28:54 am  |
-| Bounty Board Program Information and FAQ                                      | 23/10/2021, 10:24:47 am | 23/10/2021, 10:22:59 am  |
+| Title                                                                         | Last Modified          | Created                 |
+|-------------------------------------------------------------------------------|------------------------|-------------------------|
+| Información y preguntas frecuentes sobre el panel de recompensas              | 23/09/2023, 2:16:34 am | 12/09/2023, 4:15:15 am  |
+| Información y preguntas frecuentes sobre el programa del panel de recompensas | 23/09/2023, 2:16:34 am | 12/09/2023, 4:15:15 am  |
+| Informacje o tablicy zleceń i często zadawane pytania                         | 23/09/2023, 2:16:34 am | 12/09/2023, 4:15:15 am  |
+| Informations et réponses sur le tableau des offres                            | 23/09/2023, 2:16:34 am | 12/09/2023, 4:15:15 am  |
+| Informazioni e FAQ sul programma Bacheca Promozioni                           | 23/09/2023, 2:16:34 am | 12/09/2023, 4:15:15 am  |
+| Informações e perguntas frequentes sobre o programa de Lista de Patrocínios   | 23/09/2023, 2:16:34 am | 12/09/2023, 4:15:15 am  |
+| Bounty Board Program Information and FAQ                                      | 23/09/2023, 2:16:33 am | 08/09/2023, 9:25:41 am  |
+| Informationen und FAQ zum Schwarzen Brett                                     | 23/09/2023, 2:16:33 am | 12/09/2023, 4:15:15 am  |
 
 
 ### Bounty-Board-Service-Advertiser-Terms
@@ -1413,14 +1413,14 @@ https://help.twitch.tv/s/article/dac7-interview
 
 | Title                                            | Last Modified          | Created                 |
 |--------------------------------------------------|------------------------|-------------------------|
-| Ausfüllen deines DAC7-Interviews                 | 22/09/2023, 9:58:41 am | 22/09/2023, 9:58:41 am  |
-| Compilazione del questionario DAC7               | 22/09/2023, 9:58:41 am | 22/09/2023, 9:58:41 am  |
-| Completar el cuestionario de datos fiscales DAC7 | 22/09/2023, 9:58:41 am | 22/09/2023, 9:58:41 am  |
-| Completing Your DAC7 Interview                   | 22/09/2023, 9:58:41 am | 22/09/2023, 9:54:28 am  |
-| Cuestionario DAC7                                | 22/09/2023, 9:58:41 am | 22/09/2023, 9:58:41 am  |
-| DAC7 Beyannamesinin Doldurulması                 | 22/09/2023, 9:58:41 am | 22/09/2023, 9:58:41 am  |
-| DAC7 신고서 작성하기                                    | 22/09/2023, 9:58:41 am | 22/09/2023, 9:58:41 am  |
-| DAC7インタビューを完了する                                  | 22/09/2023, 9:58:41 am | 22/09/2023, 9:58:41 am  |
+| Ausfüllen deines DAC7-Interviews                 | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
+| Compilazione del questionario DAC7               | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
+| Completar el cuestionario de datos fiscales DAC7 | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
+| Completing Your DAC7 Interview                   | 23/09/2023, 4:28:14 am | 23/09/2023, 4:25:52 am  |
+| Cuestionario DAC7                                | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
+| DAC7 Beyannamesinin Doldurulması                 | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
+| DAC7 신고서 작성하기                                    | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
+| DAC7インタビューを完了する                                  | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
 
 
 ### date-of-birth-changes
