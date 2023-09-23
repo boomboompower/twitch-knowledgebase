@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=en_US)                       |
 | Channel Analytics                                             | 21/09/2023, 6:41:00 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=en_US)                                              |
 | Broadcasting Guidelines                                       | 21/09/2023, 3:09:57 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                                        |
 | How To Use Clips                                              | 20/09/2023, 7:32:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                               |
