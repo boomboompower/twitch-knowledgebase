@@ -42,6 +42,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| How To Appeal Flagged Content                      | 02/08/2023, 3:24:17 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=en_US)                       |
+| Guide To Broadcast Health                          | 02/08/2023, 3:21:35 am    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=en_US)                           |
 | Founders Badge                                     | 28/07/2023, 3:34:46 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=en_US)                                      |
 | Twitch Teams                                       | 28/07/2023, 3:24:46 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=en_US)                                        |
 | How To Edit Info Panels                            | 28/07/2023, 3:17:39 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=en_US)                             |
@@ -62,7 +64,6 @@
 | Managing Roles For Your Channel                    | 11/07/2023, 2:22:54 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=en_US)                     |
 | Creating An Account With Twitch                    | 11/07/2023, 2:20:36 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=en_US)                     |
 | Refunds On Twitch                                  | 01/07/2023, 11:23:37 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=en_US)                                   |
-| Broadcasting Guidelines                            | 27/06/2023, 0:00:42 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                             |
 | Patch Notes 19                                     | 23/06/2023, 6:40:33 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=en_US)                                      |
 | Video On Demand                                    | 20/06/2023, 0:12:52 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                     |
 | Music Options For Streamers                        | 10/06/2023, 5:39:19 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=en_US)                         |
@@ -73,7 +74,6 @@
 | Twitch Stream Key Faq                              | 24/05/2023, 3:58:30 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=en_US)                               |
 | Local Recording                                    | 24/05/2023, 3:58:04 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=en_US)                                     |
 | Emote Analytics                                    | 13/05/2023, 7:37:04 am    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=en_US)                                     |
-| How To Use Clips                                   | 12/05/2023, 6:56:21 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                    |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:15 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=en_US)  |
 | Guest Star Audio                                   | 10/05/2023, 9:20:11 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=en_US)                                    |
 | Guest Star Mod View                                | 09/05/2023, 7:04:45 am    | [Link](https://help.twitch.tv/s/article/guest-star-mod-view?language=en_US)                                 |
@@ -90,8 +90,6 @@
 | Ads Manager                                        | 30/03/2023, 8:16:26 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=en_US)                                         |
 | Monthly Recap                                      | 30/03/2023, 7:00:46 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=en_US)                                       |
 | Guide To Using Twitch Inspector                    | 24/03/2023, 4:15:49 am    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=en_US)                     |
-| Multi Month Subscriptions                          | 15/03/2023, 8:30:50 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=en_US)                           |
-| Subscriptions On Mobile                            | 15/03/2023, 8:28:14 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=en_US)                             |
 
 
 
@@ -100,6 +98,8 @@
 
 | Name                                           | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Multi Month Subscriptions                      | 15/03/2023, 8:30:50 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=en_US)                       |
+| Subscriptions On Mobile                        | 15/03/2023, 8:28:14 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=en_US)                         |
 | Two Factor Authentication                      | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=en_US)                       |
 | Creator Goals                                  | 09/03/2023, 4:21:18 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                   |
 | Guest Star Browser Source                      | 07/03/2023, 3:52:07 am    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=en_US)                       |
@@ -143,8 +143,6 @@
 | Mobile Creator Mode                            | 20/08/2022, 5:21:40 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=en_US)                             |
 | Twitch Chat Badges Guide                       | 17/08/2022, 6:59:29 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                        |
 | Subscriber Emote Guide                         | 10/08/2022, 8:02:41 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=en_US)                          |
-| Emote Guidelines                               | 02/08/2022, 6:41:39 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=en_US)                                |
-| Channel Points Predictions                     | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=en_US)                      |
 
 
 
@@ -153,6 +151,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Emote Guidelines                                         | 02/08/2022, 6:41:39 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=en_US)                                          |
+| Channel Points Predictions                               | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=en_US)                                |
 | Games Irl And Music Directories                          | 28/07/2022, 3:03:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=en_US)                           |
 | Scene Importing                                          | 28/07/2022, 1:55:59 am    | [Link](https://help.twitch.tv/s/article/scene-importing?language=en_US)                                           |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 22/07/2022, 8:46:57 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=en_US)  |
@@ -183,7 +183,6 @@
 | Emote Library                                            | 19/11/2021, 5:11:21 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=en_US)                                             |
 | Purchase Support Faq                                     | 12/11/2021, 7:18:37 am    | [Link](https://help.twitch.tv/s/article/purchase-support-faq?language=en_US)                                      |
 | Nintendo Switch                                          | 12/11/2021, 4:47:22 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=en_US)                                           |
-| Bounty Board Program Information And Faq                 | 23/10/2021, 10:24:47 am   | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=en_US)                  |
 | Hindsight 2020                                           | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=en_US)                                            |
 | Glitchcon Sweepstakes Rules                              | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/glitchcon-sweepstakes-rules?language=en_US)                               |
 | Virtual Meet And Greet Terms 2020                        | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/virtual-meet-and-greet-terms-2020?language=en_US)                         |

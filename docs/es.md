@@ -53,6 +53,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Authy Faq                                          | 03/08/2023, 8:27:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=es)                                           |
+| New Device And Location Verification               | 03/08/2023, 8:27:05 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es)                |
 | Founders Badge                                     | 28/07/2023, 3:34:46 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=es)                                      |
 | Twitch Teams                                       | 28/07/2023, 3:24:46 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=es)                                        |
 | How To Edit Info Panels                            | 28/07/2023, 3:17:38 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=es)                             |
@@ -72,7 +74,6 @@
 | Music Options For Streamers                        | 11/07/2023, 2:52:17 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=es)                         |
 | Partner Onboarding Guide                           | 11/07/2023, 1:57:24 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                            |
 | Refunds On Twitch                                  | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es)                                   |
-| Broadcasting Guidelines                            | 27/06/2023, 0:03:04 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=es)                             |
 | Video On Demand                                    | 24/06/2023, 0:46:10 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es)                                     |
 | Patch Notes 19                                     | 23/06/2023, 6:48:20 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=es)                                      |
 | Twitch Music Getting Started                       | 05/06/2023, 8:15:12 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=es)                        |
@@ -98,7 +99,6 @@
 | Guide To Closed Captions                           | 23/03/2023, 0:03:35 am    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=es)                            |
 | Subscriptions On Mobile                            | 21/03/2023, 9:41:33 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=es)                             |
 | Multi Month Subscriptions                          | 21/03/2023, 9:41:03 pm    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=es)                           |
-| Creator Goals                                      | 15/03/2023, 11:32:08 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=es)                                       |
 
 
 
@@ -107,6 +107,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Creator Goals                                            | 15/03/2023, 11:32:08 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=es)                                             |
 | Two Factor Authentication                                | 13/03/2023, 10:20:05 pm   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es)                                 |
 | Guest Star Browser Source                                | 09/03/2023, 11:10:33 pm   | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=es)                                 |
 | First Steps For New Affiliates                           | 24/02/2023, 10:07:33 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=es)                            |
@@ -148,7 +149,6 @@
 | Emote Guidelines                                         | 05/08/2022, 10:11:06 pm   | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es)                                          |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 03/08/2022, 5:54:49 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=es)  |
 | Scene Importing                                          | 03/08/2022, 5:54:37 am    | [Link](https://help.twitch.tv/s/article/scene-importing?language=es)                                           |
-| Channel Points Predictions                               | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=es)                                |
 
 
 
@@ -157,6 +157,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Channel Points Predictions                  | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=es)                   |
 | Games Irl And Music Directories             | 28/07/2022, 3:03:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=es)              |
 | How To File A Video Playback Issue          | 08/07/2022, 10:40:03 pm   | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=es)           |
 | Artist Badge Attribution                    | 20/05/2022, 3:31:41 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=es)                     |
@@ -173,7 +174,6 @@
 | Copyrighted Audio Warnings                  | 31/03/2022, 3:30:06 am    | [Link](https://help.twitch.tv/s/article/copyrighted-audio-warnings?language=es)                   |
 | Partner Cheermote Guide                     | 10/03/2022, 11:11:34 pm   | [Link](https://help.twitch.tv/s/article/partner-cheermote-guide?language=es)                      |
 | Animated Emotes                             | 25/02/2022, 11:52:04 pm   | [Link](https://help.twitch.tv/s/article/animated-emotes?language=es)                              |
-| Bounty Board Program Information And Faq    | 18/02/2022, 8:37:04 pm    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=es)     |
 | Watching Twitch On Android Devices          | 18/02/2022, 8:32:05 pm    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=es)           |
 | Twitch Music Fast Start Guide               | 18/02/2022, 8:29:39 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-fast-start-guide?language=es)                |
 | Broadcast Guidelines                        | 18/02/2022, 8:23:26 pm    | [Link](https://help.twitch.tv/s/article/broadcast-guidelines?language=es)                         |

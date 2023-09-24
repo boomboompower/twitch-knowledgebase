@@ -53,6 +53,13 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Authy Faq                                          | 03/08/2023, 8:39:10 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=zh_TW)                                           |
+| New Device And Location Verification               | 03/08/2023, 8:39:03 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=zh_TW)                |
+| Multi Month Subscriptions                          | 31/07/2023, 7:20:33 pm    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=zh_TW)                           |
+| Subscriptions On Mobile                            | 31/07/2023, 7:19:08 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=zh_TW)                             |
+| Founders Badge                                     | 31/07/2023, 7:19:02 pm    | [Link](https://help.twitch.tv/s/article/founders-badge?language=zh_TW)                                      |
+| Alerts By Twitch Customization                     | 31/07/2023, 7:18:43 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=zh_TW)                      |
+| Delete Twitch Account                              | 31/07/2023, 7:18:10 pm    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=zh_TW)                               |
 | Twitch Teams                                       | 28/07/2023, 3:24:47 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=zh_TW)                                        |
 | How To Edit Info Panels                            | 28/07/2023, 3:17:38 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=zh_TW)                             |
 | Alerts By Twitch                                   | 26/07/2023, 4:07:31 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=zh_TW)                                    |
@@ -70,7 +77,6 @@
 | Music Options For Streamers                        | 11/07/2023, 2:52:18 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=zh_TW)                         |
 | Partner Onboarding Guide                           | 11/07/2023, 1:57:15 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=zh_TW)                            |
 | Refunds On Twitch                                  | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=zh_TW)                                   |
-| Broadcasting Guidelines                            | 27/06/2023, 0:01:57 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=zh_TW)                             |
 | Video On Demand                                    | 24/06/2023, 0:46:10 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                     |
 | Patch Notes 19                                     | 23/06/2023, 6:48:20 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=zh_TW)                                      |
 | Twitch Music Getting Started                       | 05/06/2023, 5:39:41 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=zh_TW)                        |
@@ -94,7 +100,6 @@
 | Monthly Recap                                      | 30/03/2023, 7:00:47 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=zh_TW)                                       |
 | Guide To Using Twitch Inspector                    | 28/03/2023, 8:22:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=zh_TW)                     |
 | Guide To Closed Captions                           | 22/03/2023, 8:36:31 pm    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=zh_TW)                            |
-| Creator Goals                                      | 15/03/2023, 2:04:02 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                                       |
 
 
 
@@ -103,6 +108,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Creator Goals                                            | 15/03/2023, 2:04:02 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                                             |
 | Two Factor Authentication                                | 13/03/2023, 2:36:03 pm    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=zh_TW)                                 |
 | Guest Star Browser Source                                | 10/03/2023, 2:00:32 pm    | [Link](https://help.twitch.tv/s/article/guest-star-browser-source?language=zh_TW)                                 |
 | First Steps For New Affiliates                           | 24/02/2023, 4:57:03 pm    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=zh_TW)                            |
@@ -151,6 +157,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Channel Points Predictions                  | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=zh_TW)                   |
 | Games Irl And Music Directories             | 28/07/2022, 3:03:23 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=zh_TW)              |
 | How To File A Video Playback Issue          | 08/07/2022, 3:04:08 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=zh_TW)           |
 | Artist Badge Attribution                    | 20/05/2022, 3:31:34 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=zh_TW)                     |
@@ -177,7 +184,6 @@
 | Emote Library                               | 19/11/2021, 5:13:07 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=zh_TW)                                |
 | Default Emotes                              | 19/11/2021, 5:12:25 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=zh_TW)                               |
 | Nintendo Switch                             | 12/11/2021, 4:48:14 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=zh_TW)                              |
-| Bounty Board Program Information And Faq    | 02/11/2021, 1:30:18 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=zh_TW)     |
 | Broadcast Guidelines                        | 02/11/2021, 1:25:23 am    | [Link](https://help.twitch.tv/s/article/broadcast-guidelines?language=zh_TW)                         |
 | Hyper Scape                                 | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/hyper-scape?language=zh_TW)                                  |
 | Stream With Pride                           | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=zh_TW)                            |
