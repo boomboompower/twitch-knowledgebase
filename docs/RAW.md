@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| partner-plus-abuse                                            | 26/09/2023, 3:33:33 am  | 26/09/2023, 3:33:31 am  | [Details](#partner-plus-abuse)                                             |
 | dac7-interview                                                | 23/09/2023, 4:28:14 am  | 23/09/2023, 4:28:14 am  | [Details](#dac7-interview)                                                 |
 | bounty-board-program-information-and-faq                      | 23/09/2023, 2:16:34 am  | 12/09/2023, 4:15:15 am  | [Details](#bounty-board-program-information-and-faq)                       |
 | channel-analytics                                             | 21/09/2023, 9:11:38 am  | 21/09/2023, 6:39:29 am  | [Details](#channel-analytics)                                              |
@@ -18,7 +19,6 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-manage-harassment-in-chat                              | 15/09/2023, 6:15:41 am  | 15/09/2023, 6:15:39 am  | [Details](#how-to-manage-harassment-in-chat)                               |
 | experiments                                                   | 15/09/2023, 3:23:43 am  | 25/08/2023, 4:26:05 am  | [Details](#experiments)                                                    |
 | stream-display-ads                                            | 14/09/2023, 9:49:03 pm  | 07/09/2023, 2:19:27 am  | [Details](#stream-display-ads)                                             |
-| partner-plus-abuse                                            | 14/09/2023, 7:35:01 am  | 14/09/2023, 7:35:00 am  | [Details](#partner-plus-abuse)                                             |
 | partner-program-overview                                      | 13/09/2023, 11:02:45 pm | 13/09/2023, 11:02:40 pm | [Details](#partner-program-overview)                                       |
 | subpoint-vs-subcount                                          | 13/09/2023, 7:06:08 am  | 06/09/2023, 10:23:44 am | [Details](#subpoint-vs-subcount)                                           |
 | twitch-studio-faq                                             | 12/09/2023, 8:33:04 pm  | 06/09/2023, 6:19:27 am  | [Details](#twitch-studio-faq)                                              |
@@ -3414,15 +3414,15 @@ https://help.twitch.tv/s/article/partner-onboarding-guide
 ### partner-plus-abuse
 https://help.twitch.tv/s/article/partner-plus-abuse
 
-| Title                                                             | Last Modified          | Created                 |
-|-------------------------------------------------------------------|------------------------|-------------------------|
-| Critères d'inadmissibilité au Programme de partenariat Plus       | 14/09/2023, 7:35:01 am | 14/09/2023, 7:35:00 am  |
-| Desqualificação de parceiros no Parceiro Plus                     | 14/09/2023, 7:34:59 am | 14/09/2023, 7:34:58 am  |
-| Criterios de abuso del programa Partner Plus                      | 14/09/2023, 7:34:54 am | 14/09/2023, 7:34:52 am  |
-| Criteri di abuso della qualifica di Partner Plus                  | 14/09/2023, 7:34:51 am | 14/09/2023, 7:34:50 am  |
-| Kryteria nadużywania warunków kwalifikacji do Partner Plus        | 14/09/2023, 7:34:49 am | 14/09/2023, 7:34:48 am  |
-| Missbrauch der Partner-Plus-Qualifikationskriterien               | 14/09/2023, 7:34:46 am | 14/09/2023, 7:34:45 am  |
-| Criterios de admisión para casos de abuso del programa Socio Plus | 14/09/2023, 7:34:45 am | 14/09/2023, 7:34:44 am  |
+| Title                                                                | Last Modified          | Created                 |
+|----------------------------------------------------------------------|------------------------|-------------------------|
+| Abus des conditions d'admissibilité au programme de Partenariat Plus | 26/09/2023, 3:33:33 am | 26/09/2023, 3:33:31 am  |
+| Missbrauch der Partner-Plus-Qualifikationskriterien                  | 26/09/2023, 0:21:32 am | 26/09/2023, 0:21:30 am  |
+| Desqualificação de parceiros no Parceiro Plus                        | 14/09/2023, 7:34:59 am | 14/09/2023, 7:34:58 am  |
+| Criterios de abuso del programa Partner Plus                         | 14/09/2023, 7:34:54 am | 14/09/2023, 7:34:52 am  |
+| Criteri di abuso della qualifica di Partner Plus                     | 14/09/2023, 7:34:51 am | 14/09/2023, 7:34:50 am  |
+| Kryteria nadużywania warunków kwalifikacji do Partner Plus           | 14/09/2023, 7:34:49 am | 14/09/2023, 7:34:48 am  |
+| Criterios de admisión para casos de abuso del programa Socio Plus    | 14/09/2023, 7:34:45 am | 14/09/2023, 7:34:44 am  |
 
 
 ### partner-program-overview
