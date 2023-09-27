@@ -7,8 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| dac7-interview                                                | 27/09/2023, 7:58:05 am  | 22/09/2023, 9:59:14 am  | [Details](#dac7-interview)                                                 |
+| creator-chat-and-events                                       | 27/09/2023, 5:50:33 am  | 20/09/2023, 3:11:37 am  | [Details](#creator-chat-and-events)                                        |
 | partner-plus-abuse                                            | 26/09/2023, 3:33:33 am  | 26/09/2023, 3:33:31 am  | [Details](#partner-plus-abuse)                                             |
-| dac7-interview                                                | 23/09/2023, 4:28:14 am  | 23/09/2023, 4:28:14 am  | [Details](#dac7-interview)                                                 |
 | bounty-board-program-information-and-faq                      | 23/09/2023, 2:16:34 am  | 12/09/2023, 4:15:15 am  | [Details](#bounty-board-program-information-and-faq)                       |
 | channel-analytics                                             | 21/09/2023, 9:11:38 am  | 21/09/2023, 6:39:29 am  | [Details](#channel-analytics)                                              |
 | broadcasting-guidelines                                       | 21/09/2023, 3:09:57 am  | 20/09/2023, 8:33:10 am  | [Details](#broadcasting-guidelines)                                        |
@@ -1344,7 +1345,6 @@ https://help.twitch.tv/s/article/creating-an-account-with-twitch
 | Creating an Account with Twitch   | 11/07/2023, 2:20:36 am | 25/04/2023, 6:38:26 pm  |
 | Een account aanmaken bij Twitch   | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
 | Oppretting av en Twitch-konto     | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
-| Opret en konto hos Twitch         | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
 
 
 ### creating-highlights-and-stream-markers
@@ -1360,6 +1360,14 @@ https://help.twitch.tv/s/article/creating-highlights-and-stream-markers
 | Cómo crear momentos destacados y marcadores de stream    | 18/07/2023, 5:11:27 am | 18/07/2023, 5:11:27 am  |
 | Erstellen von Highlights und Stream-Markierungen         | 18/07/2023, 5:11:27 am | 18/07/2023, 5:11:27 am  |
 | Hoogtepunten en streammarkeringen maken                  | 18/07/2023, 5:11:27 am | 18/07/2023, 5:11:27 am  |
+
+
+### creator-chat-and-events
+https://help.twitch.tv/s/article/creator-chat-and-events
+
+| Title                  | Last Modified          | Created                 |
+|------------------------|------------------------|-------------------------|
+| Chat and Events (Beta) | 27/09/2023, 5:50:33 am | 20/09/2023, 3:11:37 am  |
 
 
 ### creator-chat-highlights
@@ -1413,12 +1421,12 @@ https://help.twitch.tv/s/article/dac7-interview
 
 | Title                                            | Last Modified          | Created                 |
 |--------------------------------------------------|------------------------|-------------------------|
+| DAC7 Beyannamesinin Doldurulması                 | 27/09/2023, 7:58:05 am | 22/09/2023, 9:59:14 am  |
 | Ausfüllen deines DAC7-Interviews                 | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
 | Compilazione del questionario DAC7               | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
 | Completar el cuestionario de datos fiscales DAC7 | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
 | Completing Your DAC7 Interview                   | 23/09/2023, 4:28:14 am | 23/09/2023, 4:25:52 am  |
 | Cuestionario DAC7                                | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
-| DAC7 Beyannamesinin Doldurulması                 | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
 | DAC7 신고서 작성하기                                    | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
 | DAC7インタビューを完了する                                  | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
 
