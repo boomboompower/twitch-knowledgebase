@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| how-to-delete-and-manage-clips                                | 28/09/2023, 5:25:35 am  | 28/09/2023, 5:25:32 am  | [Details](#how-to-delete-and-manage-clips)                                 |
 | dac7-interview                                                | 27/09/2023, 7:58:05 am  | 22/09/2023, 9:59:14 am  | [Details](#dac7-interview)                                                 |
 | creator-chat-and-events                                       | 27/09/2023, 5:50:33 am  | 20/09/2023, 3:11:37 am  | [Details](#creator-chat-and-events)                                        |
 | partner-plus-abuse                                            | 26/09/2023, 3:33:33 am  | 26/09/2023, 3:33:31 am  | [Details](#partner-plus-abuse)                                             |
@@ -110,7 +111,6 @@ Language data is not included in the API. All page links will not have a languag
 | emote-analytics                                               | 23/05/2023, 6:24:07 pm  | 13/05/2023, 7:37:37 am  | [Details](#emote-analytics)                                                |
 | guide-to-tags                                                 | 12/05/2023, 11:23:34 pm | 12/05/2023, 11:23:33 pm | [Details](#guide-to-tags)                                                  |
 | how-to-find-and-browse-clips                                  | 12/05/2023, 6:55:17 am  | 06/05/2023, 5:57:31 am  | [Details](#how-to-find-and-browse-clips)                                   |
-| how-to-delete-and-manage-clips                                | 12/05/2023, 6:55:05 am  | 06/05/2023, 5:59:29 am  | [Details](#how-to-delete-and-manage-clips)                                 |
 | clips-settings                                                | 12/05/2023, 6:54:57 am  | 27/04/2023, 10:23:14 am | [Details](#clips-settings)                                                 |
 | Removing-recommendations-you-are-not-interested-in            | 12/05/2023, 3:46:15 am  | 27/04/2023, 5:42:22 am  | [Details](#removing-recommendations-you-are-not-interested-in)             |
 | guest-star-mod-view                                           | 09/05/2023, 7:04:46 am  | 02/05/2023, 5:47:31 am  | [Details](#guest-star-mod-view)                                            |
@@ -2292,12 +2292,12 @@ https://help.twitch.tv/s/article/how-to-delete-and-manage-clips
 
 | Title                                | Last Modified          | Created                  |
 |--------------------------------------|------------------------|--------------------------|
+| Klipleri silme ve yönetme            | 28/09/2023, 5:25:35 am | 28/09/2023, 5:25:32 am   |
 | Come eliminare e gestire le clip     | 12/05/2023, 6:55:05 am | 06/05/2023, 5:59:29 am   |
 | Comment supprimer et gérer les clips | 12/05/2023, 6:55:05 am | 06/05/2023, 5:59:29 am   |
 | Cómo gestionar y eliminar clips      | 12/05/2023, 6:55:05 am | 06/05/2023, 5:59:29 am   |
 | How to Delete and Manage Clips       | 12/05/2023, 6:55:05 am | 27/04/2023, 10:20:57 am  |
 | Jak usuwać klipy i zarządzać nimi?   | 12/05/2023, 6:55:05 am | 06/05/2023, 5:59:29 am   |
-| Klipleri silme ve yönetme            | 12/05/2023, 6:55:05 am | 06/05/2023, 5:59:29 am   |
 
 
 ### how-to-edit-info-panels
