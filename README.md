@@ -18,7 +18,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | English (United States)       | 23/09/2023, 2:16:33 am    | 227 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 15/09/2023, 6:15:41 am    | 28 article(s)  | [View](docs/fi.md)     |
 | French                        | 23/09/2023, 2:16:34 am    | 212 article(s) | [View](docs/fr.md)     |
-| German                        | 23/09/2023, 2:16:33 am    | 213 article(s) | [View](docs/de.md)     |
+| German                        | 23/09/2023, 2:16:33 am    | 212 article(s) | [View](docs/de.md)     |
 | Greek                         | 09/09/2023, 4:30:59 am    | 8 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 15/09/2023, 6:15:41 am    | 21 article(s)  | [View](docs/hu.md)     |
 | Italian                       | 23/09/2023, 2:16:34 am    | 211 article(s) | [View](docs/it.md)     |
@@ -35,7 +35,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Spanish (Mexico)              | 23/09/2023, 2:16:34 am    | 211 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 15/09/2023, 6:15:41 am    | 27 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 23/09/2023, 2:16:35 am    | 202 article(s) | [View](docs/th.md)     |
-| Turkish                       | 23/09/2023, 2:16:35 am    | 208 article(s) | [View](docs/tr.md)     |
+| Turkish                       | 28/09/2023, 5:25:34 am    | 208 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 06/09/2023, 6:09:07 am    | 7 article(s)   | [View](docs/vi.md)     |
 
 ### Dumping

@@ -46,7 +46,6 @@
 | How To Appeal Flagged Content                                 | 09/08/2023, 6:31:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=de)                                  |
 | Guide To Broadcast Health                                     | 09/08/2023, 6:31:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=de)                                      |
 | New Device And Location Verification                          | 03/08/2023, 8:54:10 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=de)                           |
-| Authy Faq                                                     | 03/08/2023, 8:54:08 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=de)                                                      |
 
 
 

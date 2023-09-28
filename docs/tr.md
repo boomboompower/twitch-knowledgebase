@@ -6,9 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Broadcasting Guidelines                                       | 28/09/2023, 5:25:34 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=tr)                                        |
 | Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:35 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=tr)                       |
 | Channel Analytics                                             | 21/09/2023, 9:11:38 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=tr)                                              |
-| Broadcasting Guidelines                                       | 21/09/2023, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=tr)                                        |
 | How To Use Clips                                              | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=tr)                                               |
 | Mod View                                                      | 19/09/2023, 10:14:39 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=tr)                                                       |
 | Ban Evasion                                                   | 19/09/2023, 10:14:36 pm   | [Link](https://help.twitch.tv/s/article/ban-evasion?language=tr)                                                    |

@@ -7,9 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| dac7-interview                                                | 28/09/2023, 9:13:04 pm  | 22/09/2023, 9:59:14 am  | [Details](#dac7-interview)                                                 |
+| creator-chat-and-events                                       | 28/09/2023, 11:20:31 am | 27/09/2023, 8:45:46 am  | [Details](#creator-chat-and-events)                                        |
 | how-to-delete-and-manage-clips                                | 28/09/2023, 5:25:35 am  | 28/09/2023, 5:25:32 am  | [Details](#how-to-delete-and-manage-clips)                                 |
-| dac7-interview                                                | 27/09/2023, 7:58:05 am  | 22/09/2023, 9:59:14 am  | [Details](#dac7-interview)                                                 |
-| creator-chat-and-events                                       | 27/09/2023, 5:50:33 am  | 20/09/2023, 3:11:37 am  | [Details](#creator-chat-and-events)                                        |
 | partner-plus-abuse                                            | 26/09/2023, 3:33:33 am  | 26/09/2023, 3:33:31 am  | [Details](#partner-plus-abuse)                                             |
 | bounty-board-program-information-and-faq                      | 23/09/2023, 2:16:34 am  | 12/09/2023, 4:15:15 am  | [Details](#bounty-board-program-information-and-faq)                       |
 | channel-analytics                                             | 21/09/2023, 9:11:38 am  | 21/09/2023, 6:39:29 am  | [Details](#channel-analytics)                                              |
@@ -1365,9 +1365,9 @@ https://help.twitch.tv/s/article/creating-highlights-and-stream-markers
 ### creator-chat-and-events
 https://help.twitch.tv/s/article/creator-chat-and-events
 
-| Title                  | Last Modified          | Created                 |
-|------------------------|------------------------|-------------------------|
-| Chat and Events (Beta) | 27/09/2023, 5:50:33 am | 20/09/2023, 3:11:37 am  |
+| Title                  | Last Modified           | Created                 |
+|------------------------|-------------------------|-------------------------|
+| Chat and Events (Beta) | 28/09/2023, 11:20:31 am | 27/09/2023, 8:45:46 am  |
 
 
 ### creator-chat-highlights
@@ -1421,14 +1421,14 @@ https://help.twitch.tv/s/article/dac7-interview
 
 | Title                                            | Last Modified          | Created                 |
 |--------------------------------------------------|------------------------|-------------------------|
+| Completar el cuestionario de datos fiscales DAC7 | 28/09/2023, 9:13:04 pm | 22/09/2023, 9:59:14 am  |
+| Cuestionario DAC7                                | 28/09/2023, 8:32:34 pm | 22/09/2023, 9:59:14 am  |
+| Ausfüllen deines DAC7-Interviews                 | 28/09/2023, 8:19:04 pm | 22/09/2023, 9:59:14 am  |
+| DAC7 신고서 작성하기                                    | 28/09/2023, 8:01:04 pm | 22/09/2023, 9:59:14 am  |
+| DAC7インタビューを完了する                                  | 28/09/2023, 6:21:35 pm | 22/09/2023, 9:59:14 am  |
+| Compilazione del questionario DAC7               | 28/09/2023, 6:08:03 pm | 22/09/2023, 9:59:14 am  |
 | DAC7 Beyannamesinin Doldurulması                 | 27/09/2023, 7:58:05 am | 22/09/2023, 9:59:14 am  |
-| Ausfüllen deines DAC7-Interviews                 | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
-| Compilazione del questionario DAC7               | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
-| Completar el cuestionario de datos fiscales DAC7 | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
 | Completing Your DAC7 Interview                   | 23/09/2023, 4:28:14 am | 23/09/2023, 4:25:52 am  |
-| Cuestionario DAC7                                | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
-| DAC7 신고서 작성하기                                    | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
-| DAC7インタビューを完了する                                  | 23/09/2023, 4:28:14 am | 23/09/2023, 4:28:14 am  |
 
 
 ### date-of-birth-changes
