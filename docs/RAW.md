@@ -7,16 +7,16 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| how-to-delete-and-manage-clips                                | 29/09/2023, 10:03:32 pm | 06/05/2023, 5:59:29 am  | [Details](#how-to-delete-and-manage-clips)                                 |
+| broadcasting-guidelines                                       | 29/09/2023, 9:40:09 pm  | 29/09/2023, 9:40:05 pm  | [Details](#broadcasting-guidelines)                                        |
+| partner-program-overview                                      | 29/09/2023, 0:07:16 pm  | 29/09/2023, 0:07:15 pm  | [Details](#partner-program-overview)                                       |
 | dac7-interview                                                | 29/09/2023, 4:04:31 am  | 29/09/2023, 4:04:30 am  | [Details](#dac7-interview)                                                 |
-| partner-program-overview                                      | 29/09/2023, 3:58:47 am  | 29/09/2023, 3:58:46 am  | [Details](#partner-program-overview)                                       |
 | experiments                                                   | 29/09/2023, 3:02:50 am  | 23/09/2023, 4:36:41 am  | [Details](#experiments)                                                    |
 | ads-manager                                                   | 29/09/2023, 3:02:47 am  | 21/09/2023, 10:47:11 am | [Details](#ads-manager)                                                    |
 | creator-chat-and-events                                       | 28/09/2023, 11:20:31 am | 27/09/2023, 8:45:46 am  | [Details](#creator-chat-and-events)                                        |
-| how-to-delete-and-manage-clips                                | 28/09/2023, 5:25:35 am  | 28/09/2023, 5:25:32 am  | [Details](#how-to-delete-and-manage-clips)                                 |
 | partner-plus-abuse                                            | 26/09/2023, 3:33:33 am  | 26/09/2023, 3:33:31 am  | [Details](#partner-plus-abuse)                                             |
 | bounty-board-program-information-and-faq                      | 23/09/2023, 2:16:34 am  | 12/09/2023, 4:15:15 am  | [Details](#bounty-board-program-information-and-faq)                       |
 | channel-analytics                                             | 21/09/2023, 9:11:38 am  | 21/09/2023, 6:39:29 am  | [Details](#channel-analytics)                                              |
-| broadcasting-guidelines                                       | 21/09/2023, 3:09:57 am  | 20/09/2023, 8:33:10 am  | [Details](#broadcasting-guidelines)                                        |
 | how-to-use-clips                                              | 20/09/2023, 7:32:44 am  | 20/09/2023, 7:31:52 am  | [Details](#how-to-use-clips)                                               |
 | ban-evasion                                                   | 20/09/2023, 0:28:33 am  | 15/09/2023, 8:31:51 am  | [Details](#ban-evasion)                                                    |
 | mod-view                                                      | 19/09/2023, 10:15:03 pm | 15/09/2023, 8:30:47 am  | [Details](#mod-view)                                                       |
@@ -941,11 +941,11 @@ https://help.twitch.tv/s/article/broadcasting-guidelines
 
 | Title                           | Last Modified          | Created                 |
 |---------------------------------|------------------------|-------------------------|
+| Directrices de emisión          | 29/09/2023, 9:40:09 pm | 29/09/2023, 9:40:05 pm  |
+| Directrices para el streaming   | 29/09/2023, 9:21:12 pm | 29/09/2023, 9:21:06 pm  |
+| Linee guida per la trasmissione | 29/09/2023, 5:47:07 pm | 29/09/2023, 5:47:04 pm  |
 | Broadcasting Guidelines         | 21/09/2023, 3:09:57 am | 20/09/2023, 8:33:10 am  |
-| Directrices de emisión          | 21/09/2023, 3:09:56 am | 21/09/2023, 3:09:55 am  |
-| Directrices para el streaming   | 21/09/2023, 3:09:56 am | 21/09/2023, 3:09:55 am  |
 | Diretrizes para transmissões    | 21/09/2023, 3:09:56 am | 21/09/2023, 3:09:55 am  |
-| Linee guida per la trasmissione | 21/09/2023, 3:09:56 am | 21/09/2023, 3:09:55 am  |
 
 
 ### browser-extensions-twitch
@@ -1344,7 +1344,6 @@ https://help.twitch.tv/s/article/creating-an-account-with-twitch
 | Criar uma conta na Twitch         | 19/07/2023, 4:34:39 am | 11/07/2023, 2:21:09 am  |
 | Creating an Account with Twitch   | 11/07/2023, 2:20:36 am | 25/04/2023, 6:38:26 pm  |
 | Een account aanmaken bij Twitch   | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
-| Oppretting av en Twitch-konto     | 11/07/2023, 2:20:34 am | 11/07/2023, 2:20:33 am  |
 
 
 ### creating-highlights-and-stream-markers
@@ -2290,14 +2289,16 @@ https://help.twitch.tv/s/article/how-to-contact-extension-developer
 ### how-to-delete-and-manage-clips
 https://help.twitch.tv/s/article/how-to-delete-and-manage-clips
 
-| Title                                | Last Modified          | Created                  |
-|--------------------------------------|------------------------|--------------------------|
-| Klipleri silme ve yönetme            | 28/09/2023, 5:25:35 am | 28/09/2023, 5:25:32 am   |
-| Come eliminare e gestire le clip     | 12/05/2023, 6:55:05 am | 06/05/2023, 5:59:29 am   |
-| Comment supprimer et gérer les clips | 12/05/2023, 6:55:05 am | 06/05/2023, 5:59:29 am   |
-| Cómo gestionar y eliminar clips      | 12/05/2023, 6:55:05 am | 06/05/2023, 5:59:29 am   |
-| How to Delete and Manage Clips       | 12/05/2023, 6:55:05 am | 27/04/2023, 10:20:57 am  |
-| Jak usuwać klipy i zarządzać nimi?   | 12/05/2023, 6:55:05 am | 06/05/2023, 5:59:29 am   |
+| Title                                 | Last Modified           | Created                  |
+|---------------------------------------|-------------------------|--------------------------|
+| Löschen und Verwalten von Clips       | 29/09/2023, 10:03:32 pm | 06/05/2023, 5:59:29 am   |
+| Cómo gestionar y eliminar clips       | 29/09/2023, 9:40:04 pm  | 29/09/2023, 9:40:02 pm   |
+| Cómo eliminar y administrar los clips | 29/09/2023, 9:21:05 pm  | 06/05/2023, 5:59:29 am   |
+| Come eliminare e gestire le clip      | 29/09/2023, 5:47:09 pm  | 29/09/2023, 5:47:07 pm   |
+| Klipleri silme ve yönetme             | 28/09/2023, 5:25:35 am  | 28/09/2023, 5:25:32 am   |
+| Comment supprimer et gérer les clips  | 12/05/2023, 6:55:05 am  | 06/05/2023, 5:59:29 am   |
+| How to Delete and Manage Clips        | 12/05/2023, 6:55:05 am  | 27/04/2023, 10:20:57 am  |
+| Jak usuwać klipy i zarządzać nimi?    | 12/05/2023, 6:55:05 am  | 06/05/2023, 5:59:29 am   |
 
 
 ### how-to-edit-info-panels
@@ -2895,7 +2896,6 @@ https://help.twitch.tv/s/article/live-viewer-feedback
 | Feedback spettatore live \[esperimento]               | 10/12/2022, 8:46:51 am | 10/12/2022, 8:46:51 am  |
 | Live 觀眾意見反應 \[測試]                                     | 10/12/2022, 8:46:51 am | 10/12/2022, 8:46:51 am  |
 | Live-Zuschauer-Feedback \[Experiment]                 | 10/12/2022, 8:46:51 am | 10/12/2022, 8:46:51 am  |
-| Opinie widzów na żywo \[Eksperyment]                  | 10/12/2022, 8:46:51 am | 10/12/2022, 8:46:51 am  |
 
 
 ### local-recording
@@ -3438,8 +3438,8 @@ https://help.twitch.tv/s/article/partner-program-overview
 
 | Title                                                | Last Modified          | Created                 |
 |------------------------------------------------------|------------------------|-------------------------|
-| Das Partnerprogramm von Twitch im Überblick          | 29/09/2023, 3:58:47 am | 29/09/2023, 3:58:46 am  |
-| Descripción general del programa de socios de Twitch | 29/09/2023, 3:58:47 am | 29/09/2023, 3:58:46 am  |
+| Descripción general del programa de socios de Twitch | 29/09/2023, 0:07:16 pm | 29/09/2023, 0:07:15 pm  |
+| Das Partnerprogramm von Twitch im Überblick          | 29/09/2023, 0:07:06 pm | 29/09/2023, 0:07:04 pm  |
 
 
 ### partner-settings-guide
