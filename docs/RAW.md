@@ -7,7 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| dac7-interview                                                | 28/09/2023, 9:13:04 pm  | 22/09/2023, 9:59:14 am  | [Details](#dac7-interview)                                                 |
+| dac7-interview                                                | 29/09/2023, 4:04:31 am  | 29/09/2023, 4:04:30 am  | [Details](#dac7-interview)                                                 |
+| partner-program-overview                                      | 29/09/2023, 3:58:47 am  | 29/09/2023, 3:58:46 am  | [Details](#partner-program-overview)                                       |
+| experiments                                                   | 29/09/2023, 3:02:50 am  | 23/09/2023, 4:36:41 am  | [Details](#experiments)                                                    |
+| ads-manager                                                   | 29/09/2023, 3:02:47 am  | 21/09/2023, 10:47:11 am | [Details](#ads-manager)                                                    |
 | creator-chat-and-events                                       | 28/09/2023, 11:20:31 am | 27/09/2023, 8:45:46 am  | [Details](#creator-chat-and-events)                                        |
 | how-to-delete-and-manage-clips                                | 28/09/2023, 5:25:35 am  | 28/09/2023, 5:25:32 am  | [Details](#how-to-delete-and-manage-clips)                                 |
 | partner-plus-abuse                                            | 26/09/2023, 3:33:33 am  | 26/09/2023, 3:33:31 am  | [Details](#partner-plus-abuse)                                             |
@@ -19,9 +22,7 @@ Language data is not included in the API. All page links will not have a languag
 | mod-view                                                      | 19/09/2023, 10:15:03 pm | 15/09/2023, 8:30:47 am  | [Details](#mod-view)                                                       |
 | affiliate-onboarding-guide                                    | 19/09/2023, 9:07:52 am  | 19/09/2023, 7:26:14 am  | [Details](#affiliate-onboarding-guide)                                     |
 | how-to-manage-harassment-in-chat                              | 15/09/2023, 6:15:41 am  | 15/09/2023, 6:15:39 am  | [Details](#how-to-manage-harassment-in-chat)                               |
-| experiments                                                   | 15/09/2023, 3:23:43 am  | 25/08/2023, 4:26:05 am  | [Details](#experiments)                                                    |
 | stream-display-ads                                            | 14/09/2023, 9:49:03 pm  | 07/09/2023, 2:19:27 am  | [Details](#stream-display-ads)                                             |
-| partner-program-overview                                      | 13/09/2023, 11:02:45 pm | 13/09/2023, 11:02:40 pm | [Details](#partner-program-overview)                                       |
 | subpoint-vs-subcount                                          | 13/09/2023, 7:06:08 am  | 06/09/2023, 10:23:44 am | [Details](#subpoint-vs-subcount)                                           |
 | twitch-studio-faq                                             | 12/09/2023, 8:33:04 pm  | 06/09/2023, 6:19:27 am  | [Details](#twitch-studio-faq)                                              |
 | twitch-studio-mac-faq                                         | 12/09/2023, 11:03:58 am | 12/09/2023, 11:03:57 am | [Details](#twitch-studio-mac-faq)                                          |
@@ -123,7 +124,6 @@ Language data is not included in the API. All page links will not have a languag
 | chat-highlights                                               | 12/04/2023, 4:05:40 am  | 12/04/2023, 4:05:39 am  | [Details](#chat-highlights)                                                |
 | creator-chat-highlights                                       | 12/04/2023, 4:05:40 am  | 12/04/2023, 4:05:39 am  | [Details](#creator-chat-highlights)                                        |
 | how-do-thumbnails-work                                        | 07/04/2023, 7:50:31 pm  | 04/04/2023, 6:33:55 am  | [Details](#how-do-thumbnails-work)                                         |
-| ads-manager                                                   | 06/04/2023, 7:42:01 pm  | 30/03/2023, 5:01:21 am  | [Details](#ads-manager)                                                    |
 | disabling-prerolls                                            | 06/04/2023, 5:50:09 pm  | 30/03/2023, 5:02:00 am  | [Details](#disabling-prerolls)                                             |
 | picture-by-picture-ads                                        | 06/04/2023, 5:50:05 pm  | 30/03/2023, 5:03:08 am  | [Details](#picture-by-picture-ads)                                         |
 | monthly-recap                                                 | 30/03/2023, 7:00:47 am  | 18/03/2023, 0:03:13 pm  | [Details](#monthly-recap)                                                  |
@@ -491,15 +491,15 @@ https://help.twitch.tv/s/article/ads-incentive-program-getting-started
 ### ads-manager
 https://help.twitch.tv/s/article/ads-manager
 
-| Title                       | Last Modified          | Created                 |
-|-----------------------------|------------------------|-------------------------|
-| Menedżer reklam             | 06/04/2023, 7:42:01 pm | 30/03/2023, 5:01:21 am  |
-| Gestor de anuncios          | 06/04/2023, 5:50:06 pm | 30/03/2023, 5:01:21 am  |
-| Gestore annunci             | 06/04/2023, 5:26:33 pm | 30/03/2023, 5:01:21 am  |
-| Gerenciador de anúncios     | 06/04/2023, 4:50:07 am | 30/03/2023, 5:01:21 am  |
-| Gestionnaire des publicités | 06/04/2023, 3:38:06 am | 30/03/2023, 5:01:21 am  |
-| Administrador de anuncios   | 05/04/2023, 8:59:10 pm | 30/03/2023, 5:01:21 am  |
-| Ads Manager                 | 30/03/2023, 8:16:26 am | 21/03/2023, 4:36:43 am  |
+| Title                       | Last Modified          | Created                  |
+|-----------------------------|------------------------|--------------------------|
+| Gerenciador de anúncios     | 29/09/2023, 3:02:47 am | 21/09/2023, 10:47:11 am  |
+| Menedżer reklam             | 29/09/2023, 3:02:47 am | 21/09/2023, 10:47:11 am  |
+| Administrador de anuncios   | 29/09/2023, 3:02:46 am | 21/09/2023, 10:47:11 am  |
+| Ads Manager                 | 29/09/2023, 3:02:46 am | 21/09/2023, 10:39:14 am  |
+| Gestionnaire des publicités | 29/09/2023, 3:02:46 am | 21/09/2023, 10:47:11 am  |
+| Gestor de anuncios          | 29/09/2023, 3:02:46 am | 21/09/2023, 10:47:11 am  |
+| Gestore annunci             | 29/09/2023, 3:02:46 am | 21/09/2023, 10:47:11 am  |
 
 
 ### advanced-audio-mixer
@@ -1421,13 +1421,13 @@ https://help.twitch.tv/s/article/dac7-interview
 
 | Title                                            | Last Modified          | Created                 |
 |--------------------------------------------------|------------------------|-------------------------|
-| Completar el cuestionario de datos fiscales DAC7 | 28/09/2023, 9:13:04 pm | 22/09/2023, 9:59:14 am  |
-| Cuestionario DAC7                                | 28/09/2023, 8:32:34 pm | 22/09/2023, 9:59:14 am  |
-| Ausfüllen deines DAC7-Interviews                 | 28/09/2023, 8:19:04 pm | 22/09/2023, 9:59:14 am  |
-| DAC7 신고서 작성하기                                    | 28/09/2023, 8:01:04 pm | 22/09/2023, 9:59:14 am  |
-| DAC7インタビューを完了する                                  | 28/09/2023, 6:21:35 pm | 22/09/2023, 9:59:14 am  |
-| Compilazione del questionario DAC7               | 28/09/2023, 6:08:03 pm | 22/09/2023, 9:59:14 am  |
-| DAC7 Beyannamesinin Doldurulması                 | 27/09/2023, 7:58:05 am | 22/09/2023, 9:59:14 am  |
+| Completar el cuestionario de datos fiscales DAC7 | 29/09/2023, 4:04:31 am | 29/09/2023, 4:04:30 am  |
+| Ausfüllen deines DAC7-Interviews                 | 29/09/2023, 4:04:29 am | 29/09/2023, 4:04:26 am  |
+| Compilazione del questionario DAC7               | 29/09/2023, 4:04:28 am | 29/09/2023, 4:04:27 am  |
+| DAC7 Beyannamesinin Doldurulması                 | 29/09/2023, 4:04:25 am | 29/09/2023, 4:04:24 am  |
+| DAC7 신고서 작성하기                                    | 29/09/2023, 4:04:19 am | 29/09/2023, 4:04:18 am  |
+| Cuestionario DAC7                                | 29/09/2023, 4:04:17 am | 29/09/2023, 4:04:15 am  |
+| DAC7インタビューを完了する                                  | 29/09/2023, 4:04:12 am | 29/09/2023, 4:04:11 am  |
 | Completing Your DAC7 Interview                   | 23/09/2023, 4:28:14 am | 23/09/2023, 4:25:52 am  |
 
 
@@ -1655,12 +1655,12 @@ https://help.twitch.tv/s/article/experiments
 
 | Title                          | Last Modified          | Created                 |
 |--------------------------------|------------------------|-------------------------|
-| Eksperymenty w serwisie Twitch | 15/09/2023, 3:23:43 am | 25/08/2023, 4:26:05 am  |
-| Experimentos da Twitch         | 15/09/2023, 3:23:43 am | 25/08/2023, 4:26:05 am  |
-| Experimentos de Twitch         | 15/09/2023, 3:23:42 am | 25/08/2023, 4:26:05 am  |
-| Experimentos de Twitch         | 15/09/2023, 3:23:42 am | 25/08/2023, 4:26:05 am  |
-| Expériences Twitch             | 15/09/2023, 3:23:42 am | 25/08/2023, 4:26:05 am  |
-| Gli esperimenti di Twitch      | 15/09/2023, 3:23:42 am | 25/08/2023, 4:26:05 am  |
+| Eksperymenty w serwisie Twitch | 29/09/2023, 3:02:50 am | 23/09/2023, 4:36:41 am  |
+| Experimentos da Twitch         | 29/09/2023, 3:02:50 am | 23/09/2023, 4:36:41 am  |
+| Experimentos de Twitch         | 29/09/2023, 3:02:49 am | 23/09/2023, 4:36:41 am  |
+| Experimentos de Twitch         | 29/09/2023, 3:02:49 am | 23/09/2023, 4:36:41 am  |
+| Expériences Twitch             | 29/09/2023, 3:02:49 am | 23/09/2023, 4:36:41 am  |
+| Gli esperimenti di Twitch      | 29/09/2023, 3:02:49 am | 23/09/2023, 4:36:41 am  |
 
 
 ### extensions-switch-with-your-game-selection
@@ -3436,10 +3436,10 @@ https://help.twitch.tv/s/article/partner-plus-abuse
 ### partner-program-overview
 https://help.twitch.tv/s/article/partner-program-overview
 
-| Title                                                | Last Modified           | Created                  |
-|------------------------------------------------------|-------------------------|--------------------------|
-| Das Partnerprogramm von Twitch im Überblick          | 13/09/2023, 11:02:45 pm | 13/09/2023, 11:02:40 pm  |
-| Descripción general del programa de socios de Twitch | 12/09/2023, 6:11:19 am  | 12/09/2023, 6:11:18 am   |
+| Title                                                | Last Modified          | Created                 |
+|------------------------------------------------------|------------------------|-------------------------|
+| Das Partnerprogramm von Twitch im Überblick          | 29/09/2023, 3:58:47 am | 29/09/2023, 3:58:46 am  |
+| Descripción general del programa de socios de Twitch | 29/09/2023, 3:58:47 am | 29/09/2023, 3:58:46 am  |
 
 
 ### partner-settings-guide
