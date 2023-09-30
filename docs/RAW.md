@@ -7,8 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| how-to-delete-and-manage-clips                                | 29/09/2023, 10:03:32 pm | 06/05/2023, 5:59:29 am  | [Details](#how-to-delete-and-manage-clips)                                 |
-| broadcasting-guidelines                                       | 29/09/2023, 9:40:09 pm  | 29/09/2023, 9:40:05 pm  | [Details](#broadcasting-guidelines)                                        |
+| how-to-delete-and-manage-clips                                | 30/09/2023, 0:10:47 am  | 30/09/2023, 0:10:45 am  | [Details](#how-to-delete-and-manage-clips)                                 |
+| broadcasting-guidelines                                       | 29/09/2023, 11:52:37 pm | 29/09/2023, 11:52:35 pm | [Details](#broadcasting-guidelines)                                        |
 | partner-program-overview                                      | 29/09/2023, 0:07:16 pm  | 29/09/2023, 0:07:15 pm  | [Details](#partner-program-overview)                                       |
 | dac7-interview                                                | 29/09/2023, 4:04:31 am  | 29/09/2023, 4:04:30 am  | [Details](#dac7-interview)                                                 |
 | experiments                                                   | 29/09/2023, 3:02:50 am  | 23/09/2023, 4:36:41 am  | [Details](#experiments)                                                    |
@@ -88,7 +88,7 @@ Language data is not included in the API. All page links will not have a languag
 | hype-chat-pricing-by-country                                  | 11/07/2023, 9:49:14 am  | 30/06/2023, 6:17:33 pm  | [Details](#hype-chat-pricing-by-country)                                   |
 | shoutouts                                                     | 11/07/2023, 9:41:55 am  | 27/06/2023, 1:40:40 am  | [Details](#shoutouts)                                                      |
 | lifetime-subscriber-guide-for-partners                        | 11/07/2023, 9:37:06 am  | 11/07/2023, 9:34:05 am  | [Details](#lifetime-subscriber-guide-for-partners)                         |
-| music-options-for-streamers                                   | 11/07/2023, 2:52:18 am  | 10/06/2023, 5:39:43 am  | [Details](#music-options-for-streamers)                                    |
+| music-options-for-streamers                                   | 11/07/2023, 2:52:17 am  | 10/06/2023, 5:39:43 am  | [Details](#music-options-for-streamers)                                    |
 | partner-onboarding-guide                                      | 11/07/2023, 1:57:24 am  | 07/07/2023, 3:48:09 pm  | [Details](#partner-onboarding-guide)                                       |
 | content-classification-labels                                 | 11/07/2023, 1:57:07 am  | 21/06/2023, 3:35:20 am  | [Details](#content-classification-labels)                                  |
 | guide-to-bits-history                                         | 01/07/2023, 0:06:16 pm  | 01/07/2023, 0:06:16 pm  | [Details](#guide-to-bits-history)                                          |
@@ -939,13 +939,13 @@ https://help.twitch.tv/s/article/broadcast-guidelines
 ### broadcasting-guidelines
 https://help.twitch.tv/s/article/broadcasting-guidelines
 
-| Title                           | Last Modified          | Created                 |
-|---------------------------------|------------------------|-------------------------|
-| Directrices de emisión          | 29/09/2023, 9:40:09 pm | 29/09/2023, 9:40:05 pm  |
-| Directrices para el streaming   | 29/09/2023, 9:21:12 pm | 29/09/2023, 9:21:06 pm  |
-| Linee guida per la trasmissione | 29/09/2023, 5:47:07 pm | 29/09/2023, 5:47:04 pm  |
-| Broadcasting Guidelines         | 21/09/2023, 3:09:57 am | 20/09/2023, 8:33:10 am  |
-| Diretrizes para transmissões    | 21/09/2023, 3:09:56 am | 21/09/2023, 3:09:55 am  |
+| Title                           | Last Modified           | Created                  |
+|---------------------------------|-------------------------|--------------------------|
+| Diretrizes para transmissões    | 29/09/2023, 11:52:37 pm | 29/09/2023, 11:52:35 pm  |
+| Directrices de emisión          | 29/09/2023, 9:40:09 pm  | 29/09/2023, 9:40:05 pm   |
+| Directrices para el streaming   | 29/09/2023, 9:21:12 pm  | 29/09/2023, 9:21:06 pm   |
+| Linee guida per la trasmissione | 29/09/2023, 5:47:07 pm  | 29/09/2023, 5:47:04 pm   |
+| Broadcasting Guidelines         | 21/09/2023, 3:09:57 am  | 20/09/2023, 8:33:10 am   |
 
 
 ### browser-extensions-twitch
@@ -2291,12 +2291,13 @@ https://help.twitch.tv/s/article/how-to-delete-and-manage-clips
 
 | Title                                 | Last Modified           | Created                  |
 |---------------------------------------|-------------------------|--------------------------|
+| Comment supprimer et gérer les clips  | 30/09/2023, 0:10:47 am  | 30/09/2023, 0:10:45 am   |
+| Como excluir e gerenciar clipes       | 29/09/2023, 11:52:39 pm | 06/05/2023, 5:59:29 am   |
 | Löschen und Verwalten von Clips       | 29/09/2023, 10:03:32 pm | 06/05/2023, 5:59:29 am   |
 | Cómo gestionar y eliminar clips       | 29/09/2023, 9:40:04 pm  | 29/09/2023, 9:40:02 pm   |
 | Cómo eliminar y administrar los clips | 29/09/2023, 9:21:05 pm  | 06/05/2023, 5:59:29 am   |
 | Come eliminare e gestire le clip      | 29/09/2023, 5:47:09 pm  | 29/09/2023, 5:47:07 pm   |
 | Klipleri silme ve yönetme             | 28/09/2023, 5:25:35 am  | 28/09/2023, 5:25:32 am   |
-| Comment supprimer et gérer les clips  | 12/05/2023, 6:55:05 am  | 06/05/2023, 5:59:29 am   |
 | How to Delete and Manage Clips        | 12/05/2023, 6:55:05 am  | 27/04/2023, 10:20:57 am  |
 | Jak usuwać klipy i zarządzać nimi?    | 12/05/2023, 6:55:05 am  | 06/05/2023, 5:59:29 am   |
 
@@ -3235,7 +3236,6 @@ https://help.twitch.tv/s/article/music-options-for-streamers
 
 | Title                                 | Last Modified          | Created                 |
 |---------------------------------------|------------------------|-------------------------|
-| Opcje muzyczne dla streamerów         | 11/07/2023, 2:52:18 am | 10/06/2023, 5:39:43 am  |
 | Musikoptionen für Streamer            | 11/07/2023, 2:52:17 am | 10/06/2023, 5:39:43 am  |
 | Opciones musicales para streamers     | 11/07/2023, 2:52:17 am | 10/06/2023, 5:39:43 am  |
 | Opciones de música para los streamers | 11/07/2023, 2:52:16 am | 10/06/2023, 5:39:43 am  |
