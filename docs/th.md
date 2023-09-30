@@ -6,11 +6,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Partner Program Overview                                      | 29/09/2023, 3:58:47 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)                                       |
+| Affiliate Onboarding Guide                                    | 29/09/2023, 11:39:12 pm   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=th)                                     |
+| Broadcasting Guidelines                                       | 29/09/2023, 11:39:08 pm   | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=th)                                        |
+| Partner Program Overview                                      | 29/09/2023, 0:07:04 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)                                       |
 | Experiments                                                   | 29/09/2023, 3:02:50 am    | [Link](https://help.twitch.tv/s/article/experiments?language=th)                                                    |
 | Ads Manager                                                   | 29/09/2023, 3:02:47 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=th)                                                    |
-| Affiliate Onboarding Guide                                    | 29/09/2023, 0:22:11 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=th)                                     |
-| Broadcasting Guidelines                                       | 29/09/2023, 0:22:04 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=th)                                        |
 | Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:35 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=th)                       |
 | Channel Analytics                                             | 21/09/2023, 9:11:45 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=th)                                              |
 | How To Use Clips                                              | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=th)                                               |

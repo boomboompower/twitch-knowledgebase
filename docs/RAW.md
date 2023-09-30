@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| how-to-delete-and-manage-clips                                | 30/09/2023, 0:10:47 am  | 30/09/2023, 0:10:45 am  | [Details](#how-to-delete-and-manage-clips)                                 |
+| how-to-delete-and-manage-clips                                | 30/09/2023, 7:34:05 pm  | 30/09/2023, 7:34:02 pm  | [Details](#how-to-delete-and-manage-clips)                                 |
 | broadcasting-guidelines                                       | 29/09/2023, 11:52:37 pm | 29/09/2023, 11:52:35 pm | [Details](#broadcasting-guidelines)                                        |
 | partner-program-overview                                      | 29/09/2023, 0:07:16 pm  | 29/09/2023, 0:07:15 pm  | [Details](#partner-program-overview)                                       |
 | dac7-interview                                                | 29/09/2023, 4:04:31 am  | 29/09/2023, 4:04:30 am  | [Details](#dac7-interview)                                                 |
@@ -2291,6 +2291,7 @@ https://help.twitch.tv/s/article/how-to-delete-and-manage-clips
 
 | Title                                 | Last Modified           | Created                  |
 |---------------------------------------|-------------------------|--------------------------|
+| Jak usuwać klipy i zarządzać nimi?    | 30/09/2023, 7:34:05 pm  | 30/09/2023, 7:34:02 pm   |
 | Comment supprimer et gérer les clips  | 30/09/2023, 0:10:47 am  | 30/09/2023, 0:10:45 am   |
 | Como excluir e gerenciar clipes       | 29/09/2023, 11:52:39 pm | 06/05/2023, 5:59:29 am   |
 | Löschen und Verwalten von Clips       | 29/09/2023, 10:03:32 pm | 06/05/2023, 5:59:29 am   |
@@ -2299,7 +2300,6 @@ https://help.twitch.tv/s/article/how-to-delete-and-manage-clips
 | Come eliminare e gestire le clip      | 29/09/2023, 5:47:09 pm  | 29/09/2023, 5:47:07 pm   |
 | Klipleri silme ve yönetme             | 28/09/2023, 5:25:35 am  | 28/09/2023, 5:25:32 am   |
 | How to Delete and Manage Clips        | 12/05/2023, 6:55:05 am  | 27/04/2023, 10:20:57 am  |
-| Jak usuwać klipy i zarządzać nimi?    | 12/05/2023, 6:55:05 am  | 06/05/2023, 5:59:29 am   |
 
 
 ### how-to-edit-info-panels

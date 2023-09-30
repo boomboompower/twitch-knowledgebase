@@ -6,12 +6,12 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Partner Program Overview                                      | 29/09/2023, 3:58:47 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                       |
+| Broadcasting Guidelines                                       | 29/09/2023, 10:03:38 pm   | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=de)                                        |
+| Partner Program Overview                                      | 29/09/2023, 0:07:06 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                       |
 | Experiments                                                   | 29/09/2023, 3:02:49 am    | [Link](https://help.twitch.tv/s/article/experiments?language=de)                                                    |
 | Ads Manager                                                   | 29/09/2023, 3:02:45 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=de)                                                    |
 | Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=de)                       |
 | Channel Analytics                                             | 21/09/2023, 9:11:43 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=de)                                              |
-| Broadcasting Guidelines                                       | 21/09/2023, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=de)                                        |
 | How To Use Clips                                              | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                               |
 | Mod View                                                      | 19/09/2023, 10:10:04 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                                       |
 | Ban Evasion                                                   | 19/09/2023, 10:10:04 pm   | [Link](https://help.twitch.tv/s/article/ban-evasion?language=de)                                                    |
@@ -43,9 +43,6 @@
 | Twitch Account Settings                                       | 24/08/2023, 7:56:06 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=de)                                        |
 | Patch Notes 20                                                | 19/08/2023, 6:03:29 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=de)                                                 |
 | Brand Surveys                                                 | 12/08/2023, 3:00:04 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=de)                                                  |
-| Guide To Cheering With Bits                                   | 09/08/2023, 6:42:46 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=de)                                    |
-| How To Appeal Flagged Content                                 | 09/08/2023, 6:31:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=de)                                  |
-| Guide To Broadcast Health                                     | 09/08/2023, 6:31:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=de)                                      |
 
 
 
