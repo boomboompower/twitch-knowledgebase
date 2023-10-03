@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Stream Together Guest Guide                                   | 03/10/2023, 3:50:31 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ru)                                    |
+| Stream Together Host Guide                                    | 03/10/2023, 3:50:20 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ru)                                     |
 | Broadcasting Guidelines                                       | 29/09/2023, 10:48:06 pm   | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ru)                                        |
 | Partner Program Overview                                      | 29/09/2023, 0:07:12 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ru)                                       |
 | Experiments                                                   | 29/09/2023, 3:02:50 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ru)                                                    |
@@ -45,7 +47,6 @@
 | Brand Surveys                                                 | 14/08/2023, 5:21:35 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=ru)                                                  |
 | Guide To Broadcast Health                                     | 09/08/2023, 9:29:16 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=ru)                                      |
 | How To Appeal Flagged Content                                 | 09/08/2023, 9:29:14 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=ru)                                  |
-| Guide To Cheering With Bits                                   | 09/08/2023, 8:42:36 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ru)                                    |
 
 
 

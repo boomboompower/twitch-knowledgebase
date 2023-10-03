@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Stream Together Guest Guide                                   | 03/10/2023, 3:50:31 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=th)                                    |
+| Stream Together Host Guide                                    | 03/10/2023, 3:50:20 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=th)                                     |
 | Affiliate Onboarding Guide                                    | 29/09/2023, 11:39:12 pm   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=th)                                     |
 | Broadcasting Guidelines                                       | 29/09/2023, 11:39:08 pm   | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=th)                                        |
 | Partner Program Overview                                      | 29/09/2023, 0:07:04 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)                                       |

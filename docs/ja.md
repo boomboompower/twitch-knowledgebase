@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Stream Together Guest Guide                                   | 03/10/2023, 3:50:30 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ja)                                    |
 | Broadcasting Guidelines                                       | 29/09/2023, 1:54:06 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ja)                                        |
 | Partner Program Overview                                      | 29/09/2023, 0:07:21 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                                       |
 | Experiments                                                   | 29/09/2023, 3:02:50 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ja)                                                    |
@@ -43,9 +44,6 @@
 | Twitch Account Settings                                       | 24/08/2023, 11:42:38 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ja)                                        |
 | Patch Notes 20                                                | 19/08/2023, 6:03:30 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=ja)                                                 |
 | Brand Surveys                                                 | 14/08/2023, 5:25:03 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=ja)                                                  |
-| How To Appeal Flagged Content                                 | 09/08/2023, 3:13:34 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=ja)                                  |
-| Guide To Broadcast Health                                     | 09/08/2023, 3:13:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=ja)                                      |
-| Guide To Cheering With Bits                                   | 08/08/2023, 5:43:30 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ja)                                    |
 
 
 

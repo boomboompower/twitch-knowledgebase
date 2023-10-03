@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Stream Together Guest Guide                                   | 03/10/2023, 3:50:31 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=zh_TW)                                    |
+| Stream Together Host Guide                                    | 03/10/2023, 3:50:20 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=zh_TW)                                     |
 | Partner Program Overview                                      | 29/09/2023, 0:07:09 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                                       |
 | Experiments                                                   | 29/09/2023, 3:02:50 am    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                                    |
 | Ads Manager                                                   | 29/09/2023, 3:02:47 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=zh_TW)                                                    |
@@ -43,8 +45,6 @@
 | Twitch Account Settings                                       | 22/08/2023, 7:32:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=zh_TW)                                        |
 | Patch Notes 20                                                | 19/08/2023, 6:03:31 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=zh_TW)                                                 |
 | Brand Surveys                                                 | 14/08/2023, 5:52:32 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=zh_TW)                                                  |
-| Guide To Broadcast Health                                     | 08/08/2023, 5:50:34 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=zh_TW)                                      |
-| How To Appeal Flagged Content                                 | 08/08/2023, 5:50:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=zh_TW)                                  |
 
 
 

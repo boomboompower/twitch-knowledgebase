@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Stream Together Guest Guide                                   | 03/10/2023, 3:50:30 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ko)                                    |
+| Stream Together Host Guide                                    | 03/10/2023, 3:50:19 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ko)                                     |
 | Broadcasting Guidelines                                       | 29/09/2023, 0:21:33 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ko)                                        |
 | Partner Program Overview                                      | 29/09/2023, 0:07:03 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)                                       |
 | Experiments                                                   | 29/09/2023, 3:02:50 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ko)                                                    |
@@ -43,8 +45,6 @@
 | Account Hacked                                                | 24/08/2023, 5:50:37 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=ko)                                                 |
 | Patch Notes 20                                                | 19/08/2023, 6:03:30 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=ko)                                                 |
 | Brand Surveys                                                 | 14/08/2023, 5:51:32 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=ko)                                                  |
-| Guide To Cheering With Bits                                   | 09/08/2023, 5:15:40 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ko)                                    |
-| Guide To Broadcast Health                                     | 09/08/2023, 5:11:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=ko)                                      |
 
 
 

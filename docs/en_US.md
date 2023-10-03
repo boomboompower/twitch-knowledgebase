@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Stream Together Guest Guide                                   | 03/10/2023, 3:50:30 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=en_US)                                    |
+| Stream Together Host Guide                                    | 03/10/2023, 3:50:18 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=en_US)                                     |
 | Partner Program Overview                                      | 29/09/2023, 3:58:53 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=en_US)                                       |
 | Experiments                                                   | 29/09/2023, 3:02:49 am    | [Link](https://help.twitch.tv/s/article/experiments?language=en_US)                                                    |
 | Ads Manager                                                   | 29/09/2023, 3:02:46 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=en_US)                                                    |
