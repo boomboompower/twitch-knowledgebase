@@ -7,13 +7,15 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| stream-together-guest-guide                                   | 03/10/2023, 3:50:31 am  | 26/09/2023, 3:50:18 am  | [Details](#stream-together-guest-guide)                                    |
+| stream-together-host-guide                                    | 03/10/2023, 3:50:19 am  | 27/09/2023, 5:04:35 am  | [Details](#stream-together-host-guide)                                     |
+| creator-chat-and-events                                       | 03/10/2023, 2:33:32 am  | 21/09/2023, 5:56:17 am  | [Details](#creator-chat-and-events)                                        |
 | how-to-delete-and-manage-clips                                | 30/09/2023, 7:34:05 pm  | 30/09/2023, 7:34:02 pm  | [Details](#how-to-delete-and-manage-clips)                                 |
 | broadcasting-guidelines                                       | 29/09/2023, 11:52:37 pm | 29/09/2023, 11:52:35 pm | [Details](#broadcasting-guidelines)                                        |
 | partner-program-overview                                      | 29/09/2023, 0:07:16 pm  | 29/09/2023, 0:07:15 pm  | [Details](#partner-program-overview)                                       |
 | dac7-interview                                                | 29/09/2023, 4:04:31 am  | 29/09/2023, 4:04:30 am  | [Details](#dac7-interview)                                                 |
 | experiments                                                   | 29/09/2023, 3:02:50 am  | 23/09/2023, 4:36:41 am  | [Details](#experiments)                                                    |
 | ads-manager                                                   | 29/09/2023, 3:02:47 am  | 21/09/2023, 10:47:11 am | [Details](#ads-manager)                                                    |
-| creator-chat-and-events                                       | 28/09/2023, 11:20:31 am | 27/09/2023, 8:45:46 am  | [Details](#creator-chat-and-events)                                        |
 | partner-plus-abuse                                            | 26/09/2023, 3:33:33 am  | 26/09/2023, 3:33:31 am  | [Details](#partner-plus-abuse)                                             |
 | bounty-board-program-information-and-faq                      | 23/09/2023, 2:16:34 am  | 12/09/2023, 4:15:15 am  | [Details](#bounty-board-program-information-and-faq)                       |
 | channel-analytics                                             | 21/09/2023, 9:11:38 am  | 21/09/2023, 6:39:29 am  | [Details](#channel-analytics)                                              |
@@ -1364,9 +1366,12 @@ https://help.twitch.tv/s/article/creating-highlights-and-stream-markers
 ### creator-chat-and-events
 https://help.twitch.tv/s/article/creator-chat-and-events
 
-| Title                  | Last Modified           | Created                 |
-|------------------------|-------------------------|-------------------------|
-| Chat and Events (Beta) | 28/09/2023, 11:20:31 am | 27/09/2023, 8:45:46 am  |
+| Title                     | Last Modified           | Created                 |
+|---------------------------|-------------------------|-------------------------|
+| Chat et événements (bêta) | 03/10/2023, 2:33:32 am  | 21/09/2023, 5:56:17 am  |
+| Chat ed eventi (Beta)     | 03/10/2023, 1:59:02 am  | 21/09/2023, 5:56:17 am  |
+| Chat & Events (Beta)      | 03/10/2023, 1:35:04 am  | 21/09/2023, 5:56:17 am  |
+| Chat and Events (Beta)    | 28/09/2023, 11:20:31 am | 27/09/2023, 8:45:46 am  |
 
 
 ### creator-chat-highlights
@@ -1953,7 +1958,6 @@ https://help.twitch.tv/s/article/guest-star-audio
 |-----------------------------------------------------|------------------------|-------------------------|
 | Descripción general del sonido de Estrella Invitada | 12/09/2023, 6:23:18 am | 12/09/2023, 6:23:16 am  |
 | Konuk Yıldız ses kontrolleri                        | 12/09/2023, 6:22:58 am | 12/09/2023, 6:22:57 am  |
-| Omówienie dźwięku w Guest Star                      | 12/09/2023, 6:22:58 am | 12/09/2023, 6:22:57 am  |
 | Guest Star-Audio– Überblick                         | 12/09/2023, 6:22:19 am | 12/09/2023, 6:22:17 am  |
 | Guest Star Audio Overview                           | 10/05/2023, 9:20:11 am | 10/05/2023, 9:19:58 am  |
 
@@ -3234,12 +3238,10 @@ https://help.twitch.tv/s/article/multiplayer-ads
 ### music-options-for-streamers
 https://help.twitch.tv/s/article/music-options-for-streamers
 
-| Title                                 | Last Modified          | Created                 |
-|---------------------------------------|------------------------|-------------------------|
-| Musikoptionen für Streamer            | 11/07/2023, 2:52:17 am | 10/06/2023, 5:39:43 am  |
-| Opciones musicales para streamers     | 11/07/2023, 2:52:17 am | 10/06/2023, 5:39:43 am  |
-| Opciones de música para los streamers | 11/07/2023, 2:52:16 am | 10/06/2023, 5:39:43 am  |
-| Music Options for Streamers           | 10/06/2023, 5:39:19 am | 10/06/2023, 3:08:21 am  |
+| Title                       | Last Modified          | Created                 |
+|-----------------------------|------------------------|-------------------------|
+| Musikoptionen für Streamer  | 11/07/2023, 2:52:17 am | 10/06/2023, 5:39:43 am  |
+| Music Options for Streamers | 10/06/2023, 5:39:19 am | 10/06/2023, 3:08:21 am  |
 
 
 ### navigating-the-feedback-forum
@@ -3371,7 +3373,6 @@ https://help.twitch.tv/s/article/overview-of-audio
 |------------------------------------------------|------------------------|-------------------------|
 | Aperçu audio de Twitch Studio                  | 22/10/2021, 8:54:20 am | 20/10/2020, 5:51:48 am  |
 | Descripción general del audio en Twitch Studio | 22/10/2021, 8:54:20 am | 20/10/2020, 5:51:48 am  |
-| Omówienie audio w Twitch Studio                | 22/10/2021, 8:54:20 am | 20/10/2020, 5:51:48 am  |
 
 
 ### partner-cheermote-guide
@@ -3856,6 +3857,26 @@ https://help.twitch.tv/s/article/stream-summary
 | Lähetysten yhteenveto     | 10/02/2023, 5:16:20 am | 10/02/2023, 5:16:17 am  |
 
 
+### stream-together-guest-guide
+https://help.twitch.tv/s/article/stream-together-guest-guide
+
+| Title                                   | Last Modified          | Created                 |
+|-----------------------------------------|------------------------|-------------------------|
+| Guia do Convidado do Streamando Juntos  | 03/10/2023, 3:50:31 am | 26/09/2023, 3:50:18 am  |
+| Guía de Streamear juntos para Guests    | 03/10/2023, 3:50:30 am | 26/09/2023, 3:50:18 am  |
+| Guía de Streamear juntos para invitados | 03/10/2023, 3:50:30 am | 26/09/2023, 3:50:18 am  |
+
+
+### stream-together-host-guide
+https://help.twitch.tv/s/article/stream-together-host-guide
+
+| Title                                     | Last Modified          | Created                 |
+|-------------------------------------------|------------------------|-------------------------|
+| Guia do Streamando Juntos para o host     | 03/10/2023, 3:50:19 am | 27/09/2023, 5:04:35 am  |
+| Guía de Streamear juntos para Hosts       | 03/10/2023, 3:50:19 am | 27/09/2023, 5:04:35 am  |
+| Guía de Streamear juntos para anfitriones | 03/10/2023, 3:50:18 am | 27/09/2023, 5:04:35 am  |
+
+
 ### stream-with-pride
 https://help.twitch.tv/s/article/stream-with-pride
 
@@ -3863,7 +3884,6 @@ https://help.twitch.tv/s/article/stream-with-pride
 |---------------------------------------------------------------------|------------------------|--------------------------|
 | Domande frequenti su Streaming con Pride                            | 22/10/2021, 8:54:27 am | 01/07/2020, 6:27:31 pm   |
 | Odpowiedzi na często zadawane pytania dotyczące streamowania z dumą | 22/10/2021, 8:54:27 am | 02/07/2020, 10:30:01 pm  |
-| Onur Yayını SSS                                                     | 22/10/2021, 8:54:27 am | 30/06/2020, 9:17:31 pm   |
 | FAQ - Streamez avec Pride                                           | 22/10/2021, 8:54:26 am | 01/07/2020, 7:18:31 pm   |
 | FAQs sobre o evento Transmita com Orgulho                           | 22/10/2021, 8:54:26 am | 01/07/2020, 3:41:31 am   |
 
@@ -4427,7 +4447,6 @@ https://help.twitch.tv/s/article/twitch-turbo-guide
 |--------------------------------------------------------|------------------------|--------------------------|
 | Descripción general de Turbo y preguntas frecuentes    | 12/09/2023, 4:03:41 am | 06/09/2023, 10:28:23 am  |
 | Descripción general y preguntas frecuentes sobre Turbo | 12/09/2023, 4:03:25 am | 06/09/2023, 10:28:23 am  |
-| Omówienie Turbo i FAQ                                  | 12/09/2023, 4:02:40 am | 06/09/2023, 10:28:23 am  |
 | Gids voor Twitch Turbo                                 | 09/09/2023, 4:30:59 am | 09/09/2023, 4:30:59 am   |
 | Guia do Twitch Turbo                                   | 09/09/2023, 4:30:59 am | 09/09/2023, 4:30:59 am   |
 
@@ -4566,7 +4585,6 @@ https://help.twitch.tv/s/article/watching-twitch-on-android-devices
 | Anzeigen von Twitch-Inhalten auf Android-Geräten | 22/10/2021, 8:54:13 am | 01/07/2021, 6:58:44 am  |
 | Assistindo à Twitch em dispositivos Android      | 22/10/2021, 8:54:13 am | 01/07/2021, 6:58:44 am  |
 | Come guardare Twitch sui dispositivi Android     | 22/10/2021, 8:54:13 am | 01/07/2021, 6:58:44 am  |
-| Oglądanie Twitcha na urządzeniach z Androidem    | 22/10/2021, 8:54:13 am | 01/07/2021, 6:58:44 am  |
 
 
 ### watching-twitch-on-ios-devices
@@ -4580,7 +4598,6 @@ https://help.twitch.tv/s/article/watching-twitch-on-ios-devices
 | Come guardare Twitch sui dispositivi iOS     | 22/10/2021, 8:54:13 am | 27/02/2019, 3:40:44 pm  |
 | iOS Cihazlarında Twitch İzlemek              | 22/10/2021, 8:54:13 am | 27/02/2019, 2:57:56 pm  |
 | iOS 기기에서 Twitch 시청하기                         | 22/10/2021, 8:54:13 am | 27/02/2019, 3:19:13 pm  |
-| Oglądanie Twitcha na urządzeniach z iOS      | 22/10/2021, 8:54:13 am | 27/02/2019, 3:42:45 pm  |
 
 
 ### when-am-i-getting-paid
@@ -4594,12 +4611,11 @@ https://help.twitch.tv/s/article/when-am-i-getting-paid
 ### where-are-my-notifications
 https://help.twitch.tv/s/article/where-are-my-notifications
 
-| Title                              | Last Modified          | Created                  |
-|------------------------------------|------------------------|--------------------------|
-| Bildirimlerim nerede?              | 22/10/2021, 8:52:24 am | 27/04/2021, 11:51:07 pm  |
-| Dove trovo le mie notifiche?       | 22/10/2021, 8:52:24 am | 27/04/2021, 11:51:07 pm  |
-| Gdzie są moje powiadomienia?       | 22/10/2021, 8:52:24 am | 27/04/2021, 11:51:07 pm  |
-| Onde estão as minhas notificações? | 22/10/2021, 8:52:22 am | 27/04/2021, 11:51:07 pm  |
+| Title                        | Last Modified          | Created                  |
+|------------------------------|------------------------|--------------------------|
+| Bildirimlerim nerede?        | 22/10/2021, 8:52:24 am | 27/04/2021, 11:51:07 pm  |
+| Dove trovo le mie notifiche? | 22/10/2021, 8:52:24 am | 27/04/2021, 11:51:07 pm  |
+| Gdzie są moje powiadomienia? | 22/10/2021, 8:52:24 am | 27/04/2021, 11:51:07 pm  |
 
 
 ### xbox-broadcast
