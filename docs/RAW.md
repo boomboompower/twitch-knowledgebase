@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| experiments                                                   | 04/10/2023, 10:59:02 pm | 30/09/2023, 3:54:34 am  | [Details](#experiments)                                                    |
 | content-classification-labels                                 | 04/10/2023, 9:58:56 am  | 29/09/2023, 10:50:20 am | [Details](#content-classification-labels)                                  |
 | stream-together-guest-guide                                   | 03/10/2023, 3:50:31 am  | 26/09/2023, 3:50:18 am  | [Details](#stream-together-guest-guide)                                    |
 | stream-together-host-guide                                    | 03/10/2023, 3:50:19 am  | 27/09/2023, 5:04:35 am  | [Details](#stream-together-host-guide)                                     |
@@ -15,7 +16,6 @@ Language data is not included in the API. All page links will not have a languag
 | broadcasting-guidelines                                       | 29/09/2023, 11:52:37 pm | 29/09/2023, 11:52:35 pm | [Details](#broadcasting-guidelines)                                        |
 | partner-program-overview                                      | 29/09/2023, 0:07:16 pm  | 29/09/2023, 0:07:15 pm  | [Details](#partner-program-overview)                                       |
 | dac7-interview                                                | 29/09/2023, 4:04:31 am  | 29/09/2023, 4:04:30 am  | [Details](#dac7-interview)                                                 |
-| experiments                                                   | 29/09/2023, 3:02:50 am  | 23/09/2023, 4:36:41 am  | [Details](#experiments)                                                    |
 | ads-manager                                                   | 29/09/2023, 3:02:47 am  | 21/09/2023, 10:47:11 am | [Details](#ads-manager)                                                    |
 | partner-plus-abuse                                            | 26/09/2023, 3:33:33 am  | 26/09/2023, 3:33:31 am  | [Details](#partner-plus-abuse)                                             |
 | bounty-board-program-information-and-faq                      | 23/09/2023, 2:16:34 am  | 12/09/2023, 4:15:15 am  | [Details](#bounty-board-program-information-and-faq)                       |
@@ -1657,14 +1657,14 @@ https://help.twitch.tv/s/article/esports-directory
 ### experiments
 https://help.twitch.tv/s/article/experiments
 
-| Title                          | Last Modified          | Created                 |
-|--------------------------------|------------------------|-------------------------|
-| Eksperymenty w serwisie Twitch | 29/09/2023, 3:02:50 am | 23/09/2023, 4:36:41 am  |
-| Experimentos da Twitch         | 29/09/2023, 3:02:50 am | 23/09/2023, 4:36:41 am  |
-| Experimentos de Twitch         | 29/09/2023, 3:02:49 am | 23/09/2023, 4:36:41 am  |
-| Experimentos de Twitch         | 29/09/2023, 3:02:49 am | 23/09/2023, 4:36:41 am  |
-| Expériences Twitch             | 29/09/2023, 3:02:49 am | 23/09/2023, 4:36:41 am  |
-| Gli esperimenti di Twitch      | 29/09/2023, 3:02:49 am | 23/09/2023, 4:36:41 am  |
+| Title                          | Last Modified           | Created                 |
+|--------------------------------|-------------------------|-------------------------|
+| Expériences Twitch             | 04/10/2023, 10:59:02 pm | 30/09/2023, 3:54:34 am  |
+| Eksperymenty w serwisie Twitch | 04/10/2023, 9:29:34 pm  | 30/09/2023, 3:54:34 am  |
+| Experimentos de Twitch         | 04/10/2023, 8:39:02 pm  | 30/09/2023, 3:54:34 am  |
+| Gli esperimenti di Twitch      | 04/10/2023, 6:52:33 pm  | 30/09/2023, 3:54:34 am  |
+| Experimentos da Twitch         | 29/09/2023, 3:02:50 am  | 23/09/2023, 4:36:41 am  |
+| Experimentos de Twitch         | 29/09/2023, 3:02:49 am  | 23/09/2023, 4:36:41 am  |
 
 
 ### extensions-switch-with-your-game-selection

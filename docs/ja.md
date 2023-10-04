@@ -6,10 +6,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Stream Together Host Guide                                    | 03/10/2023, 7:22:32 pm    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ja)                                     |
+| Experiments                                                   | 03/10/2023, 4:16:04 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=ja)                                                    |
 | Stream Together Guest Guide                                   | 03/10/2023, 3:50:30 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ja)                                    |
 | Broadcasting Guidelines                                       | 29/09/2023, 1:54:06 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ja)                                        |
 | Partner Program Overview                                      | 29/09/2023, 0:07:21 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                                       |
-| Experiments                                                   | 29/09/2023, 3:02:50 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ja)                                                    |
 | Ads Manager                                                   | 29/09/2023, 3:02:46 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ja)                                                    |
 | Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=ja)                       |
 | Channel Analytics                                             | 21/09/2023, 9:11:41 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ja)                                              |
