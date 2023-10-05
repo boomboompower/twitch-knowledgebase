@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| experiments                                                   | 04/10/2023, 10:59:02 pm | 30/09/2023, 3:54:34 am  | [Details](#experiments)                                                    |
+| experiments                                                   | 05/10/2023, 4:02:09 am  | 30/09/2023, 3:54:34 am  | [Details](#experiments)                                                    |
 | content-classification-labels                                 | 04/10/2023, 9:58:56 am  | 29/09/2023, 10:50:20 am | [Details](#content-classification-labels)                                  |
 | stream-together-guest-guide                                   | 03/10/2023, 3:50:31 am  | 26/09/2023, 3:50:18 am  | [Details](#stream-together-guest-guide)                                    |
 | stream-together-host-guide                                    | 03/10/2023, 3:50:19 am  | 27/09/2023, 5:04:35 am  | [Details](#stream-together-host-guide)                                     |
@@ -1659,11 +1659,11 @@ https://help.twitch.tv/s/article/experiments
 
 | Title                          | Last Modified           | Created                 |
 |--------------------------------|-------------------------|-------------------------|
+| Experimentos da Twitch         | 05/10/2023, 4:02:09 am  | 30/09/2023, 3:54:34 am  |
 | Expériences Twitch             | 04/10/2023, 10:59:02 pm | 30/09/2023, 3:54:34 am  |
 | Eksperymenty w serwisie Twitch | 04/10/2023, 9:29:34 pm  | 30/09/2023, 3:54:34 am  |
 | Experimentos de Twitch         | 04/10/2023, 8:39:02 pm  | 30/09/2023, 3:54:34 am  |
 | Gli esperimenti di Twitch      | 04/10/2023, 6:52:33 pm  | 30/09/2023, 3:54:34 am  |
-| Experimentos da Twitch         | 29/09/2023, 3:02:50 am  | 23/09/2023, 4:36:41 am  |
 | Experimentos de Twitch         | 29/09/2023, 3:02:49 am  | 23/09/2023, 4:36:41 am  |
 
 
