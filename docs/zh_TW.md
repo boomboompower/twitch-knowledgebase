@@ -6,10 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Experiments                                                   | 04/10/2023, 8:10:03 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                                    |
 | Stream Together Guest Guide                                   | 03/10/2023, 3:50:31 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=zh_TW)                                    |
 | Stream Together Host Guide                                    | 03/10/2023, 3:50:20 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=zh_TW)                                     |
 | Partner Program Overview                                      | 29/09/2023, 0:07:09 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                                       |
-| Experiments                                                   | 29/09/2023, 3:02:50 am    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                                    |
 | Ads Manager                                                   | 29/09/2023, 3:02:47 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=zh_TW)                                                    |
 | Broadcasting Guidelines                                       | 28/09/2023, 11:07:04 pm   | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=zh_TW)                                        |
 | Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:35 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=zh_TW)                       |
