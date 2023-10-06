@@ -7,13 +7,13 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| creator-chat-and-events                                       | 06/10/2023, 10:14:34 pm | 21/09/2023, 5:56:17 am  | [Details](#creator-chat-and-events)                                        |
 | twitch-studio-mac-faq                                         | 06/10/2023, 4:35:36 am  | 06/10/2023, 4:35:04 am  | [Details](#twitch-studio-mac-faq)                                          |
 | twitch-studio-faq                                             | 06/10/2023, 4:34:05 am  | 06/10/2023, 4:34:03 am  | [Details](#twitch-studio-faq)                                              |
 | experiments                                                   | 05/10/2023, 9:06:32 pm  | 30/09/2023, 3:54:34 am  | [Details](#experiments)                                                    |
 | content-classification-labels                                 | 04/10/2023, 9:58:56 am  | 29/09/2023, 10:50:20 am | [Details](#content-classification-labels)                                  |
 | stream-together-guest-guide                                   | 03/10/2023, 3:50:31 am  | 26/09/2023, 3:50:18 am  | [Details](#stream-together-guest-guide)                                    |
 | stream-together-host-guide                                    | 03/10/2023, 3:50:19 am  | 27/09/2023, 5:04:35 am  | [Details](#stream-together-host-guide)                                     |
-| creator-chat-and-events                                       | 03/10/2023, 2:33:32 am  | 21/09/2023, 5:56:17 am  | [Details](#creator-chat-and-events)                                        |
 | how-to-delete-and-manage-clips                                | 30/09/2023, 7:34:05 pm  | 30/09/2023, 7:34:02 pm  | [Details](#how-to-delete-and-manage-clips)                                 |
 | broadcasting-guidelines                                       | 29/09/2023, 11:52:37 pm | 29/09/2023, 11:52:35 pm | [Details](#broadcasting-guidelines)                                        |
 | partner-program-overview                                      | 29/09/2023, 0:07:16 pm  | 29/09/2023, 0:07:15 pm  | [Details](#partner-program-overview)                                       |
@@ -227,8 +227,8 @@ Language data is not included in the API. All page links will not have a languag
 | understanding-viewer-count-vs-users-in-chat                   | 05/05/2022, 11:11:07 pm | 28/04/2022, 9:36:13 am  | [Details](#understanding-viewer-count-vs-users-in-chat)                    |
 | mastercard-spring-promotion-us                                | 04/05/2022, 7:21:51 am  | 04/05/2022, 7:21:06 am  | [Details](#mastercard-spring-promotion-us)                                 |
 | how-to-use-the-friends-feature                                | 29/04/2022, 5:56:25 am  | 22/04/2022, 5:38:53 am  | [Details](#how-to-use-the-friends-feature)                                 |
-| twitch-on-lg-tv                                               | 28/04/2022, 10:41:18 pm | 23/04/2022, 2:15:40 am  | [Details](#twitch-on-lg-tv)                                                |
 | children-on-twitch                                            | 28/04/2022, 10:41:15 pm | 23/04/2022, 2:16:59 am  | [Details](#children-on-twitch)                                             |
+| twitch-on-lg-tv                                               | 28/04/2022, 9:21:03 pm  | 23/04/2022, 2:15:40 am  | [Details](#twitch-on-lg-tv)                                                |
 | twitch-on-apple-tv                                            | 28/04/2022, 8:23:04 pm  | 23/04/2022, 2:15:17 am  | [Details](#twitch-on-apple-tv)                                             |
 | mission-based-drops                                           | 19/04/2022, 9:03:35 pm  | 19/04/2022, 9:03:32 pm  | [Details](#mission-based-drops)                                            |
 | how-to-get-and-use-the-ps-app                                 | 15/04/2022, 1:48:34 am  | 09/04/2022, 2:51:31 am  | [Details](#how-to-get-and-use-the-ps-app)                                  |
@@ -760,15 +760,14 @@ https://help.twitch.tv/s/article/appleshareplay
 ### artist-badge-attribution
 https://help.twitch.tv/s/article/artist-badge-attribution
 
-| Title                                   | Last Modified          | Created                  |
-|-----------------------------------------|------------------------|--------------------------|
-| Distintivo de Artista e Atribuição      | 24/02/2023, 1:47:42 am | 24/02/2023, 1:47:32 am   |
-| Odznaka artysty i przypisanie autorstwa | 20/05/2022, 3:31:45 am | 20/05/2022, 3:31:43 am   |
-| Emblema de artista y atribución         | 20/05/2022, 3:31:41 am | 20/05/2022, 3:31:39 am   |
-| Attribution et badge d'artiste          | 20/05/2022, 3:31:38 am | 20/05/2022, 3:31:35 am   |
-| Künstler-Abzeichen und -Credits         | 20/05/2022, 3:31:37 am | 20/05/2022, 3:31:35 am   |
-| Emblema de artista y atribución         | 20/05/2022, 3:31:34 am | 20/05/2022, 3:31:31 am   |
-| Artist Badge and Attribution            | 20/05/2022, 3:10:39 am | 19/05/2022, 10:19:03 am  |
+| Title                              | Last Modified          | Created                  |
+|------------------------------------|------------------------|--------------------------|
+| Distintivo de Artista e Atribuição | 24/02/2023, 1:47:42 am | 24/02/2023, 1:47:32 am   |
+| Emblema de artista y atribución    | 20/05/2022, 3:31:41 am | 20/05/2022, 3:31:39 am   |
+| Attribution et badge d'artiste     | 20/05/2022, 3:31:38 am | 20/05/2022, 3:31:35 am   |
+| Künstler-Abzeichen und -Credits    | 20/05/2022, 3:31:37 am | 20/05/2022, 3:31:35 am   |
+| Emblema de artista y atribución    | 20/05/2022, 3:31:34 am | 20/05/2022, 3:31:31 am   |
+| Artist Badge and Attribution       | 20/05/2022, 3:10:39 am | 19/05/2022, 10:19:03 am  |
 
 
 ### audio-ads
@@ -1366,12 +1365,16 @@ https://help.twitch.tv/s/article/creating-highlights-and-stream-markers
 ### creator-chat-and-events
 https://help.twitch.tv/s/article/creator-chat-and-events
 
-| Title                     | Last Modified           | Created                 |
-|---------------------------|-------------------------|-------------------------|
-| Chat et événements (bêta) | 03/10/2023, 2:33:32 am  | 21/09/2023, 5:56:17 am  |
-| Chat ed eventi (Beta)     | 03/10/2023, 1:59:02 am  | 21/09/2023, 5:56:17 am  |
-| Chat & Events (Beta)      | 03/10/2023, 1:35:04 am  | 21/09/2023, 5:56:17 am  |
-| Chat and Events (Beta)    | 28/09/2023, 11:20:31 am | 27/09/2023, 8:45:46 am  |
+| Title                         | Last Modified           | Created                 |
+|-------------------------------|-------------------------|-------------------------|
+| Chat e Eventos (Beta)         | 06/10/2023, 10:14:34 pm | 21/09/2023, 5:56:17 am  |
+| Chat y eventos (beta)         | 06/10/2023, 8:47:16 pm  | 21/09/2023, 5:56:17 am  |
+| Chat y eventos (versión beta) | 06/10/2023, 8:33:32 pm  | 21/09/2023, 5:56:17 am  |
+| Czat i Wydarzenia (beta)      | 06/10/2023, 8:28:02 pm  | 21/09/2023, 5:56:17 am  |
+| Chat et événements (bêta)     | 03/10/2023, 2:33:32 am  | 21/09/2023, 5:56:17 am  |
+| Chat ed eventi (Beta)         | 03/10/2023, 1:59:02 am  | 21/09/2023, 5:56:17 am  |
+| Chat & Events (Beta)          | 03/10/2023, 1:35:04 am  | 21/09/2023, 5:56:17 am  |
+| Chat and Events (Beta)        | 28/09/2023, 11:20:31 am | 27/09/2023, 8:45:46 am  |
 
 
 ### creator-chat-highlights
@@ -2226,7 +2229,6 @@ https://help.twitch.tv/s/article/how-to-appeal-flagged-content
 | Title                                                   | Last Modified           | Created                 |
 |---------------------------------------------------------|-------------------------|-------------------------|
 | Comment faire appel pour une piste audio désactivée     | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:24:35 am  |
-| Odwołania od wyciszonego dźwięku                        | 09/08/2023, 8:34:35 pm  | 02/08/2023, 3:24:35 am  |
 | Come fare ricorso per l'audio disattivato               | 09/08/2023, 5:39:03 pm  | 02/08/2023, 3:24:35 am  |
 | Como apelar de áudio silenciado                         | 09/08/2023, 5:55:06 am  | 02/08/2023, 3:24:35 am  |
 | Cómo apelar ante audio silenciado                       | 09/08/2023, 2:49:38 am  | 02/08/2023, 3:24:35 am  |
@@ -4260,7 +4262,6 @@ https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq
 | Apoio na Loja de Merchandise da Twitch - Perguntas Frequentes            | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Dokument FAQ sklepu z artykułami promocyjnymi Twitch                     | 22/10/2021, 8:53:51 am | 07/08/2020, 3:22:52 am  |
 | Nejčastější dotazy k podpoře pro obchod s reklamním zbožím z Twitche     | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
-| Ofte stillede spørgsmål om Twitchs merchandise-butik                     | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Domande frequenti sull'assistenza agli acquisti del merchandising Twitch | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 | FAQ des produits dérivés Twitch                                          | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 
@@ -4292,16 +4293,15 @@ https://help.twitch.tv/s/article/twitch-on-apple-tv
 ### twitch-on-lg-tv
 https://help.twitch.tv/s/article/twitch-on-lg-tv
 
-| Title                               | Last Modified           | Created                 |
-|-------------------------------------|-------------------------|-------------------------|
-| Oglądanie Twitcha na telewizorze LG | 28/04/2022, 10:41:18 pm | 23/04/2022, 2:15:40 am  |
-| Cómo ver Twitch en un televisor LG  | 28/04/2022, 9:21:03 pm  | 23/04/2022, 2:15:40 am  |
-| LG TV에서 Twitch 시청하기                 | 28/04/2022, 8:27:33 pm  | 23/04/2022, 2:15:40 am  |
-| LGテレビでTwitchを視聴                     | 28/04/2022, 7:54:37 pm  | 23/04/2022, 2:15:40 am  |
-| Guardare Twitch su una TV LG        | 28/04/2022, 5:54:03 pm  | 23/04/2022, 2:15:40 am  |
-| Assistindo à Twitch em uma TV LG    | 28/04/2022, 0:11:33 pm  | 23/04/2022, 2:15:40 am  |
-| Cómo ver Twitch en un televisor LG  | 28/04/2022, 1:33:34 am  | 23/04/2022, 2:15:40 am  |
-| LG TV'de Twitch izleme              | 27/04/2022, 5:59:03 pm  | 23/04/2022, 2:15:40 am  |
+| Title                              | Last Modified          | Created                 |
+|------------------------------------|------------------------|-------------------------|
+| Cómo ver Twitch en un televisor LG | 28/04/2022, 9:21:03 pm | 23/04/2022, 2:15:40 am  |
+| LG TV에서 Twitch 시청하기                | 28/04/2022, 8:27:33 pm | 23/04/2022, 2:15:40 am  |
+| LGテレビでTwitchを視聴                    | 28/04/2022, 7:54:37 pm | 23/04/2022, 2:15:40 am  |
+| Guardare Twitch su una TV LG       | 28/04/2022, 5:54:03 pm | 23/04/2022, 2:15:40 am  |
+| Assistindo à Twitch em uma TV LG   | 28/04/2022, 0:11:33 pm | 23/04/2022, 2:15:40 am  |
+| Cómo ver Twitch en un televisor LG | 28/04/2022, 1:33:34 am | 23/04/2022, 2:15:40 am  |
+| LG TV'de Twitch izleme             | 27/04/2022, 5:59:03 pm | 23/04/2022, 2:15:40 am  |
 
 
 ### twitch-policies-and-guidelines

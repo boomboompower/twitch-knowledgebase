@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Twitch Studio Mac Faq                                         | 06/10/2023, 4:35:36 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=pt_BR)                                          |
+| Twitch Studio Faq                                             | 06/10/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=pt_BR)                                              |
 | Experiments                                                   | 05/10/2023, 4:02:09 am    | [Link](https://help.twitch.tv/s/article/experiments?language=pt_BR)                                                    |
 | Stream Together Guest Guide                                   | 03/10/2023, 3:50:31 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=pt_BR)                                    |
 | Stream Together Host Guide                                    | 03/10/2023, 3:50:19 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=pt_BR)                                     |
@@ -21,7 +23,6 @@
 | How To Manage Harassment In Chat                              | 15/09/2023, 6:15:41 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_BR)                               |
 | Stream Display Ads                                            | 14/09/2023, 9:49:03 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pt_BR)                                             |
 | Subpoint Vs Subcount                                          | 13/09/2023, 7:06:07 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=pt_BR)                                           |
-| Twitch Studio Mac Faq                                         | 12/09/2023, 11:03:58 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=pt_BR)                                          |
 | Hindsight 2020                                                | 12/09/2023, 6:23:56 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=pt_BR)                                                 |
 | Guest Star Audio                                              | 12/09/2023, 6:23:48 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=pt_BR)                                               |
 | Channel Points Faq                                            | 12/09/2023, 6:23:31 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=pt_BR)                                             |
@@ -32,7 +33,6 @@
 | How To Use Raids                                              | 12/09/2023, 6:16:07 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=pt_BR)                                               |
 | Subscription Cancellation Reasons                             | 12/09/2023, 6:16:03 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=pt_BR)                              |
 | Twitch Turbo Guide                                            | 12/09/2023, 4:03:26 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_BR)                                             |
-| Twitch Studio Faq                                             | 12/09/2023, 4:02:37 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=pt_BR)                                              |
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=pt_BR)                                       |
 | Joining The Affiliate Program                                 | 08/09/2023, 1:13:55 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                                  |
 | Twitch Affiliate Program Faq                                  | 08/09/2023, 1:13:40 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_BR)                                   |
