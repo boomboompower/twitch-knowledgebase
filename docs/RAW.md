@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| about-account-suspensions-dmca-suspensions-and-chat-bans      | 10/10/2023, 6:23:57 am  | 10/10/2023, 6:22:36 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | creator-chat-and-events                                       | 06/10/2023, 10:14:34 pm | 21/09/2023, 5:56:17 am  | [Details](#creator-chat-and-events)                                        |
 | twitch-studio-mac-faq                                         | 06/10/2023, 4:35:36 am  | 06/10/2023, 4:35:04 am  | [Details](#twitch-studio-mac-faq)                                          |
 | twitch-studio-faq                                             | 06/10/2023, 4:34:05 am  | 06/10/2023, 4:34:03 am  | [Details](#twitch-studio-faq)                                              |
@@ -212,7 +213,6 @@ Language data is not included in the API. All page links will not have a languag
 | subscriber-emote-guide                                        | 10/08/2022, 8:02:42 am  | 23/11/2021, 5:21:01 am  | [Details](#subscriber-emote-guide)                                         |
 | a-tour-of-your-channel-page                                   | 09/08/2022, 4:00:26 am  | 30/07/2022, 10:36:37 am | [Details](#a-tour-of-your-channel-page)                                    |
 | emote-guidelines                                              | 05/08/2022, 10:41:34 pm | 02/08/2022, 6:37:09 am  | [Details](#emote-guidelines)                                               |
-| about-account-suspensions-dmca-suspensions-and-chat-bans      | 03/08/2022, 5:54:49 am  | 22/07/2022, 6:49:37 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | scene-importing                                               | 03/08/2022, 5:54:38 am  | 03/08/2022, 5:54:35 am  | [Details](#scene-importing)                                                |
 | channel-points-predictions                                    | 30/07/2022, 4:23:37 am  | 30/07/2022, 4:23:24 am  | [Details](#channel-points-predictions)                                     |
 | games-irl-and-music-directories                               | 28/07/2022, 3:03:22 am  | 30/06/2022, 8:03:56 am  | [Details](#games-irl-and-music-directories)                                |
@@ -376,14 +376,14 @@ https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-
 
 | Title                                                                           | Last Modified          | Created                 |
 |---------------------------------------------------------------------------------|------------------------|-------------------------|
-| Información sobre las medidas aplicadas a una cuenta y los vetos de chat        | 03/08/2022, 5:54:49 am | 22/07/2022, 6:49:37 am  |
-| Informacje o karach dla konta i banach na czacie                                | 03/08/2022, 5:54:11 am | 22/07/2022, 6:49:37 am  |
-| Acerca de las imposiciones de cuentas y los banneos de chat                     | 03/08/2022, 5:53:54 am | 22/07/2022, 6:49:37 am  |
-| Infos zu Konten-Vollstreckung und Chat-Sperren                                  | 03/08/2022, 5:53:07 am | 22/07/2022, 6:49:37 am  |
-| Informazioni sulle sanzioni agli account e sul ban dalle chat                   | 02/08/2022, 5:44:31 pm | 22/07/2022, 6:49:37 am  |
-| Hesaba Uygulanan Yaptırımlar ve Sohbet Yasakları Hakkında                       | 01/08/2022, 7:27:05 pm | 22/07/2022, 6:49:37 am  |
-| About Account Enforcements and Chat Bans                                        | 22/07/2022, 8:46:57 am | 22/07/2022, 8:46:38 am  |
-| Giới thiệu về Thực thi hình phạt đối với tài khoản và Lệnh cấm trong trò chuyện | 22/07/2022, 8:46:57 am | 22/07/2022, 8:46:56 am  |
+| About Account Enforcements and Chat Bans                                        | 10/10/2023, 6:23:57 am | 10/10/2023, 6:22:36 am  |
+| Acerca de las imposiciones de cuentas y los banneos de chat                     | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
+| Giới thiệu về Thực thi hình phạt đối với tài khoản và Lệnh cấm trong trò chuyện | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
+| Hesaba Uygulanan Yaptırımlar ve Sohbet Yasakları Hakkında                       | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
+| Información sobre las medidas aplicadas a una cuenta y los vetos de chat        | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
+| Informacje o karach dla konta i banach na czacie                                | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
+| Informazioni sulle sanzioni agli account e sul ban dalle chat                   | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
+| Infos zu Konten-Vollstreckung und Chat-Sperren                                  | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
 
 
 ### account-hacked
