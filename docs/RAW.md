@@ -7,6 +7,14 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| gift-card-spend                                               | 10/10/2023, 10:14:35 pm | 10/10/2023, 10:14:34 pm | [Details](#gift-card-spend)                                                |
+| gift-card-redeem                                              | 10/10/2023, 10:14:33 pm | 10/10/2023, 10:14:32 pm | [Details](#gift-card-redeem)                                               |
+| how-to-subscribe                                              | 10/10/2023, 10:13:32 pm | 10/10/2023, 10:10:37 pm | [Details](#how-to-subscribe)                                               |
+| creator-dashboard                                             | 10/10/2023, 10:10:32 pm | 10/10/2023, 10:10:31 pm | [Details](#creator-dashboard)                                              |
+| first-time-chatter-highlight                                  | 10/10/2023, 10:10:32 pm | 10/10/2023, 10:10:31 pm | [Details](#first-time-chatter-highlight)                                   |
+| twitch-charity-faqs                                           | 10/10/2023, 9:59:06 pm  | 10/10/2023, 9:59:03 pm  | [Details](#twitch-charity-faqs)                                            |
+| transcoding-options-faq                                       | 10/10/2023, 9:58:08 pm  | 10/10/2023, 9:58:07 pm  | [Details](#transcoding-options-faq)                                        |
+| twitch-twitter-twitchsupport-faq                              | 10/10/2023, 9:58:05 pm  | 10/10/2023, 9:58:03 pm  | [Details](#twitch-twitter-twitchsupport-faq)                               |
 | about-account-suspensions-dmca-suspensions-and-chat-bans      | 10/10/2023, 6:23:57 am  | 10/10/2023, 6:22:36 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | creator-chat-and-events                                       | 06/10/2023, 10:14:34 pm | 21/09/2023, 5:56:17 am  | [Details](#creator-chat-and-events)                                        |
 | twitch-studio-mac-faq                                         | 06/10/2023, 4:35:36 am  | 06/10/2023, 4:35:04 am  | [Details](#twitch-studio-mac-faq)                                          |
@@ -65,7 +73,6 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-appeal-flagged-content                                 | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
 | guide-to-broadcast-health                                     | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:21:56 am  | [Details](#guide-to-broadcast-health)                                      |
 | guide-to-cheering-with-bits                                   | 09/08/2023, 8:54:41 pm  | 09/08/2023, 8:54:37 pm  | [Details](#guide-to-cheering-with-bits)                                    |
-| gift-card-spend                                               | 09/08/2023, 8:54:35 pm  | 17/05/2023, 8:54:21 am  | [Details](#gift-card-spend)                                                |
 | affiliate-or-partner-anniversary-settings                     | 04/08/2023, 8:45:32 pm  | 04/08/2023, 8:45:31 pm  | [Details](#affiliate-or-partner-anniversary-settings)                      |
 | bits-price-adjustment                                         | 04/08/2023, 2:04:58 pm  | 04/08/2023, 2:04:57 pm  | [Details](#bits-price-adjustment)                                          |
 | not-receiving-sms                                             | 04/08/2023, 0:16:03 am  | 04/08/2023, 0:16:01 am  | [Details](#not-receiving-sms)                                              |
@@ -101,7 +108,6 @@ Language data is not included in the API. All page links will not have a languag
 | ads-incentive-program-getting-started                         | 24/06/2023, 1:26:30 am  | 24/06/2023, 1:26:29 am  | [Details](#ads-incentive-program-getting-started)                          |
 | video-on-demand                                               | 24/06/2023, 0:46:15 am  | 20/06/2023, 0:14:22 am  | [Details](#video-on-demand)                                                |
 | 2023-updated-monetized-streamer-agreement                     | 23/06/2023, 2:38:05 am  | 23/06/2023, 2:38:05 am  | [Details](#2023-updated-monetized-streamer-agreement)                      |
-| creator-dashboard                                             | 22/06/2023, 3:04:14 am  | 10/06/2023, 0:28:32 am  | [Details](#creator-dashboard)                                              |
 | simulcasting-guidelines                                       | 07/06/2023, 1:27:03 am  | 07/06/2023, 1:27:02 am  | [Details](#simulcasting-guidelines)                                        |
 | android-purchases                                             | 06/06/2023, 6:59:18 am  | 25/05/2023, 10:43:54 am | [Details](#android-purchases)                                              |
 | local-recording                                               | 31/05/2023, 0:13:18 am  | 23/05/2023, 0:17:33 pm  | [Details](#local-recording)                                                |
@@ -143,19 +149,15 @@ Language data is not included in the API. All page links will not have a languag
 | first-steps-for-new-affiliates                                | 23/02/2023, 9:28:04 pm  | 22/02/2023, 5:02:20 am  | [Details](#first-steps-for-new-affiliates)                                 |
 | geoblocking                                                   | 14/02/2023, 11:02:32 pm | 09/02/2023, 10:59:47 am | [Details](#geoblocking)                                                    |
 | delete-twitch-account                                         | 14/02/2023, 10:47:36 pm | 14/02/2023, 10:47:33 pm | [Details](#delete-twitch-account)                                          |
-| twitch-twitter-twitchsupport-faq                              | 14/02/2023, 6:23:22 am  | 03/02/2023, 0:42:15 pm  | [Details](#twitch-twitter-twitchsupport-faq)                               |
 | account-reactivation                                          | 14/02/2023, 0:16:32 am  | 14/02/2023, 0:16:31 am  | [Details](#account-reactivation)                                           |
 | twitch-charity-viewers                                        | 10/02/2023, 10:04:22 am | 10/02/2023, 10:04:21 am | [Details](#twitch-charity-viewers)                                         |
 | twitch-charity-charities                                      | 10/02/2023, 9:59:22 am  | 10/02/2023, 9:59:21 am  | [Details](#twitch-charity-charities)                                       |
 | twitch-charity                                                | 10/02/2023, 9:59:18 am  | 10/02/2023, 8:21:33 am  | [Details](#twitch-charity)                                                 |
-| twitch-charity-faqs                                           | 10/02/2023, 9:59:11 am  | 10/02/2023, 9:59:10 am  | [Details](#twitch-charity-faqs)                                            |
 | stream-summary                                                | 10/02/2023, 5:16:20 am  | 10/02/2023, 5:16:17 am  | [Details](#stream-summary)                                                 |
 | display-names-on-twitch                                       | 09/02/2023, 11:49:16 am | 11/01/2023, 10:29:27 am | [Details](#display-names-on-twitch)                                        |
-| transcoding-options-faq                                       | 09/02/2023, 4:05:02 am  | 03/02/2023, 0:12:42 pm  | [Details](#transcoding-options-faq)                                        |
 | supported-mobile-os                                           | 09/02/2023, 0:22:02 am  | 03/02/2023, 0:01:51 pm  | [Details](#supported-mobile-os)                                            |
 | how-to-purchase-bits                                          | 02/02/2023, 2:38:28 am  | 12/01/2023, 11:55:47 am | [Details](#how-to-purchase-bits)                                           |
 | cheering-for-partners-affiliates                              | 02/02/2023, 2:38:24 am  | 12/01/2023, 11:26:09 am | [Details](#cheering-for-partners-affiliates)                               |
-| gift-card-redeem                                              | 27/01/2023, 3:03:46 am  | 06/01/2023, 1:41:26 pm  | [Details](#gift-card-redeem)                                               |
 | gift-card                                                     | 27/01/2023, 3:03:45 am  | 06/01/2023, 1:48:07 pm  | [Details](#gift-card)                                                      |
 | mobile-irl-broadcasting                                       | 24/01/2023, 5:59:40 am  | 06/12/2022, 4:43:47 am  | [Details](#mobile-irl-broadcasting)                                        |
 | joining-guest-star                                            | 21/01/2023, 1:27:35 am  | 21/01/2023, 1:27:33 am  | [Details](#joining-guest-star)                                             |
@@ -220,7 +222,6 @@ Language data is not included in the API. All page links will not have a languag
 | payout-details-faq                                            | 13/07/2022, 3:11:03 am  | 29/06/2022, 8:26:24 am  | [Details](#payout-details-faq)                                             |
 | rejected-payout-faq                                           | 13/07/2022, 3:10:35 am  | 29/06/2022, 0:32:52 pm  | [Details](#rejected-payout-faq)                                            |
 | how-to-file-a-video-playback-issue                            | 08/07/2022, 10:40:03 pm | 02/07/2022, 3:51:09 am  | [Details](#how-to-file-a-video-playback-issue)                             |
-| how-to-subscribe                                              | 20/06/2022, 10:11:06 pm | 16/06/2022, 8:35:36 am  | [Details](#how-to-subscribe)                                               |
 | notifications-inbox                                           | 10/06/2022, 7:48:35 pm  | 08/06/2022, 3:07:59 am  | [Details](#notifications-inbox)                                            |
 | creating-a-strong-password                                    | 18/05/2022, 0:39:26 am  | 18/05/2022, 0:39:25 am  | [Details](#creating-a-strong-password)                                     |
 | date-of-birth-changes                                         | 13/05/2022, 2:48:03 am  | 22/04/2022, 2:21:15 am  | [Details](#date-of-birth-changes)                                          |
@@ -250,7 +251,6 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-handle-view-follow-bots                                | 18/02/2022, 2:33:34 am  | 18/02/2022, 2:33:31 am  | [Details](#how-to-handle-view-follow-bots)                                 |
 | studio-ui                                                     | 18/02/2022, 1:48:03 am  | 18/02/2022, 1:48:01 am  | [Details](#studio-ui)                                                      |
 | audio-ads                                                     | 18/02/2022, 1:39:07 am  | 18/02/2022, 1:39:02 am  | [Details](#audio-ads)                                                      |
-| first-time-chatter-highlight                                  | 18/02/2022, 0:58:35 am  | 18/02/2022, 0:58:30 am  | [Details](#first-time-chatter-highlight)                                   |
 | one-click-checkout                                            | 18/02/2022, 0:40:33 am  | 18/02/2022, 0:40:31 am  | [Details](#one-click-checkout)                                             |
 | twitch-studio-creator-goals                                   | 17/02/2022, 9:27:35 pm  | 17/02/2022, 9:27:31 pm  | [Details](#twitch-studio-creator-goals)                                    |
 | appleshareplay                                                | 02/02/2022, 10:03:42 am | 02/02/2022, 10:03:42 am | [Details](#appleshareplay)                                                 |
@@ -1388,11 +1388,11 @@ https://help.twitch.tv/s/article/creator-chat-highlights
 ### creator-dashboard
 https://help.twitch.tv/s/article/creator-dashboard
 
-| Title             | Last Modified          | Created                 |
-|-------------------|------------------------|-------------------------|
-| Creator-Dashboard | 22/06/2023, 3:04:14 am | 10/06/2023, 0:28:32 am  |
-| Dashboard autore  | 22/06/2023, 3:04:14 am | 09/06/2023, 6:07:02 pm  |
-| Creator Dashboard | 22/06/2023, 3:00:40 am | 02/06/2023, 3:37:52 pm  |
+| Title             | Last Modified           | Created                  |
+|-------------------|-------------------------|--------------------------|
+| Creator-Dashboard | 10/10/2023, 10:10:32 pm | 10/10/2023, 10:10:31 pm  |
+| Dashboard autore  | 22/06/2023, 3:04:14 am  | 09/06/2023, 6:07:02 pm   |
+| Creator Dashboard | 22/06/2023, 3:00:40 am  | 02/06/2023, 3:37:52 pm   |
 
 
 ### creator-goals
@@ -1723,14 +1723,14 @@ https://help.twitch.tv/s/article/first-steps-for-new-affiliates
 ### first-time-chatter-highlight
 https://help.twitch.tv/s/article/first-time-chatter-highlight
 
-| Title                                                       | Last Modified          | Created                 |
-|-------------------------------------------------------------|------------------------|-------------------------|
-| Destacado de primera vez en el chat                         | 18/02/2022, 0:58:35 am | 18/02/2022, 0:58:30 am  |
-| Destaque de participantes de primeira entrada               | 19/10/2021, 9:10:38 am | 24/09/2021, 5:51:32 am  |
-| Evidenziatore di chi partecipa alla chat per la prima volta | 19/10/2021, 9:10:38 am | 24/09/2021, 5:51:32 am  |
-| Markierung für Chatter, die zum ersten Mal da sind          | 19/10/2021, 9:10:38 am | 24/09/2021, 5:51:32 am  |
-| Nuevos usuarios del chat destacados                         | 19/10/2021, 9:10:38 am | 24/09/2021, 5:51:32 am  |
-| First-Time Chatter Highlight                                | 19/10/2021, 9:09:43 am | 19/10/2021, 9:09:29 am  |
+| Title                                                       | Last Modified           | Created                  |
+|-------------------------------------------------------------|-------------------------|--------------------------|
+| First-Time Chatter Highlight                                | 10/10/2023, 10:10:32 pm | 10/10/2023, 10:10:31 pm  |
+| Destacado de primera vez en el chat                         | 18/02/2022, 0:58:35 am  | 18/02/2022, 0:58:30 am   |
+| Destaque de participantes de primeira entrada               | 19/10/2021, 9:10:38 am  | 24/09/2021, 5:51:32 am   |
+| Evidenziatore di chi partecipa alla chat per la prima volta | 19/10/2021, 9:10:38 am  | 24/09/2021, 5:51:32 am   |
+| Nuevos usuarios del chat destacados                         | 19/10/2021, 9:10:38 am  | 24/09/2021, 5:51:32 am   |
+| First-Time Chatter Highlight                                | 19/10/2021, 9:09:43 am  | 19/10/2021, 9:09:29 am   |
 
 
 ### follow-cue
@@ -1837,22 +1837,22 @@ https://help.twitch.tv/s/article/gift-card
 ### gift-card-redeem
 https://help.twitch.tv/s/article/gift-card-redeem
 
-| Title                                  | Last Modified          | Created                 |
-|----------------------------------------|------------------------|-------------------------|
-| Cómo canjear las Twitch Gift Cards     | 27/01/2023, 3:03:46 am | 06/01/2023, 1:41:26 pm  |
-| Cómo canjear Tarjetas regalo de Twitch | 27/01/2023, 3:03:46 am | 06/01/2023, 1:41:26 pm  |
-| Einlösen von Twitch-Geschenkkarten     | 27/01/2023, 3:03:46 am | 06/01/2023, 1:41:26 pm  |
+| Title                                   | Last Modified           | Created                  |
+|-----------------------------------------|-------------------------|--------------------------|
+| Einlösen von Twitch-Geschenkgutscheinen | 10/10/2023, 10:14:33 pm | 10/10/2023, 10:14:32 pm  |
+| Cómo canjear las Twitch Gift Cards      | 27/01/2023, 3:03:46 am  | 06/01/2023, 1:41:26 pm   |
+| Cómo canjear Tarjetas regalo de Twitch  | 27/01/2023, 3:03:46 am  | 06/01/2023, 1:41:26 pm   |
 
 
 ### gift-card-spend
 https://help.twitch.tv/s/article/gift-card-spend
 
-| Title                                            | Last Modified          | Created                 |
-|--------------------------------------------------|------------------------|-------------------------|
-| Cómo gastar el saldo de las Twitch Gift Cards    | 09/08/2023, 8:54:35 pm | 17/05/2023, 8:54:21 am  |
-| Ausgeben des Guthabens von Twitch-Geschenkkarten | 09/08/2023, 6:42:36 pm | 17/05/2023, 8:54:21 am  |
-| Cómo canjear Tarjetas regalo de Twitch           | 09/08/2023, 2:02:37 am | 17/05/2023, 8:54:21 am  |
-| Dépenser des cartes cadeaux Twitch               | 08/08/2023, 9:25:38 pm | 17/05/2023, 8:54:21 am  |
+| Title                                                 | Last Modified           | Created                  |
+|-------------------------------------------------------|-------------------------|--------------------------|
+| Ausgeben des Guthabens von Twitch-Geschenkgutscheinen | 10/10/2023, 10:14:35 pm | 10/10/2023, 10:14:34 pm  |
+| Cómo gastar el saldo de las Twitch Gift Cards         | 09/08/2023, 8:54:35 pm  | 17/05/2023, 8:54:21 am   |
+| Cómo canjear Tarjetas regalo de Twitch                | 09/08/2023, 2:02:37 am  | 17/05/2023, 8:54:21 am   |
+| Dépenser des cartes cadeaux Twitch                    | 08/08/2023, 9:25:38 pm  | 17/05/2023, 8:54:21 am   |
 
 
 ### gift-subscriptions
@@ -2518,18 +2518,18 @@ https://help.twitch.tv/s/article/how-to-share-a-stream
 ### how-to-subscribe
 https://help.twitch.tv/s/article/how-to-subscribe
 
-| Title                       | Last Modified           | Created                 |
-|-----------------------------|-------------------------|-------------------------|
-| Jak subskrybować            | 20/06/2022, 10:11:06 pm | 16/06/2022, 8:35:36 am  |
-| Cómo suscribirse            | 20/06/2022, 7:12:06 pm  | 16/06/2022, 8:35:36 am  |
-| Come abbonarsi              | 20/06/2022, 7:10:06 pm  | 16/06/2022, 8:35:36 am  |
-| Nasıl Abone Olunur?         | 19/06/2022, 8:27:05 am  | 16/06/2022, 8:35:36 am  |
-| Como se inscrever           | 17/06/2022, 8:50:34 pm  | 16/06/2022, 8:35:36 am  |
-| Cómo suscribirse            | 17/06/2022, 6:44:37 pm  | 16/06/2022, 8:35:36 am  |
-| Comment s'abonner           | 17/06/2022, 2:38:06 am  | 16/06/2022, 8:35:36 am  |
-| Abschließen von Abonnements | 17/06/2022, 0:34:35 am  | 16/06/2022, 8:35:36 am  |
-| Como Subscrever             | 16/06/2022, 8:35:16 am  | 16/06/2022, 8:35:15 am  |
-| How to Subscribe            | 16/06/2022, 8:35:15 am  | 16/06/2022, 8:34:52 am  |
+| Title                       | Last Modified           | Created                  |
+|-----------------------------|-------------------------|--------------------------|
+| Abschließen von Abonnements | 10/10/2023, 10:13:32 pm | 10/10/2023, 10:10:37 pm  |
+| Jak subskrybować            | 20/06/2022, 10:11:06 pm | 16/06/2022, 8:35:36 am   |
+| Cómo suscribirse            | 20/06/2022, 7:12:06 pm  | 16/06/2022, 8:35:36 am   |
+| Come abbonarsi              | 20/06/2022, 7:10:06 pm  | 16/06/2022, 8:35:36 am   |
+| Nasıl Abone Olunur?         | 19/06/2022, 8:27:05 am  | 16/06/2022, 8:35:36 am   |
+| Como se inscrever           | 17/06/2022, 8:50:34 pm  | 16/06/2022, 8:35:36 am   |
+| Cómo suscribirse            | 17/06/2022, 6:44:37 pm  | 16/06/2022, 8:35:36 am   |
+| Comment s'abonner           | 17/06/2022, 2:38:06 am  | 16/06/2022, 8:35:36 am   |
+| Como Subscrever             | 16/06/2022, 8:35:16 am  | 16/06/2022, 8:35:15 am   |
+| How to Subscribe            | 16/06/2022, 8:35:15 am  | 16/06/2022, 8:34:52 am   |
 
 
 ### how-to-use-automod
@@ -4139,10 +4139,10 @@ https://help.twitch.tv/s/article/transcoding-options-faq
 
 | Title                                                  | Last Modified          | Created                 |
 |--------------------------------------------------------|------------------------|-------------------------|
+| FAQ zu Transcodierungsoptionen                         | 10/10/2023, 9:58:08 pm | 10/10/2023, 9:58:07 pm  |
 | FAQ sur les options de transcodage                     | 09/02/2023, 4:05:02 am | 03/02/2023, 0:12:42 pm  |
 | Kod Dönüşüm Seçenekleri SSS                            | 08/02/2023, 9:23:32 pm | 03/02/2023, 0:12:42 pm  |
 | Często zadawane pytania dotyczące opcji transkodowania | 08/02/2023, 9:12:32 pm | 03/02/2023, 0:12:42 pm  |
-| FAQ zu Transcodierungsoptionen                         | 08/02/2023, 9:04:02 pm | 03/02/2023, 0:12:42 pm  |
 | Domande frequenti sulle opzioni di transcodifica       | 08/02/2023, 7:15:32 pm | 03/02/2023, 0:12:42 pm  |
 
 
@@ -4209,8 +4209,8 @@ https://help.twitch.tv/s/article/twitch-charity-faqs
 
 | Title                                                             | Last Modified          | Created                 |
 |-------------------------------------------------------------------|------------------------|-------------------------|
+| Häufig gestellte Fragen zum Twitch-Spendentool                    | 10/10/2023, 9:59:06 pm | 10/10/2023, 9:59:03 pm  |
 | Często zadawane pytania dotyczące narzędzia Twitch's Charity Tool | 10/02/2023, 9:59:11 am | 10/02/2023, 9:59:10 am  |
-| Häufig gestellte Fragen zum Twitch-Spendentool                    | 10/02/2023, 9:59:02 am | 10/02/2023, 9:58:59 am  |
 | FAQ - Strumento Twitch charity                                    | 10/02/2023, 9:58:52 am | 10/02/2023, 9:58:51 am  |
 
 
@@ -4456,10 +4456,10 @@ https://help.twitch.tv/s/article/twitch-twitter-twitchsupport-faq
 
 | Title                                                         | Last Modified          | Created                 |
 |---------------------------------------------------------------|------------------------|-------------------------|
+| FAQ zum Twitter-Konto "@TwitchSupport" von Twitch             | 10/10/2023, 9:58:05 pm | 10/10/2023, 9:58:03 pm  |
 | @TwitchSupport: Preguntas frecuentes por el Twitter de Twitch | 14/02/2023, 6:23:22 am | 03/02/2023, 0:42:15 pm  |
 | Domande frequenti per "@TwitchSupport" di Twitch su Twitter   | 14/02/2023, 6:23:22 am | 03/02/2023, 0:42:15 pm  |
 | FAQ Twitter de Twitch "@TwitchSupport"                        | 14/02/2023, 6:23:22 am | 03/02/2023, 0:42:15 pm  |
-| FAQ zum Twitter-Konto "@TwitchSupport" von Twitch             | 14/02/2023, 6:23:22 am | 03/02/2023, 0:42:15 pm  |
 
 
 ### two-factor-authentication
