@@ -6,6 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:44 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=zh_TW)                                        |
+| Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=zh_TW)                             |
+| Brand Surveys                                                 | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=zh_TW)                                                  |
+| Stream Display Ads                                            | 11/10/2023, 3:21:24 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=zh_TW)                                             |
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 10/10/2023, 6:23:56 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=zh_TW)       |
 | Experiments                                                   | 04/10/2023, 8:10:03 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                                    |
 | Stream Together Guest Guide                                   | 03/10/2023, 3:50:31 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=zh_TW)                                    |
@@ -20,7 +24,6 @@
 | Mod View                                                      | 19/09/2023, 10:15:03 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                                       |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:46 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                                     |
 | How To Manage Harassment In Chat                              | 15/09/2023, 6:15:41 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=zh_TW)                               |
-| Stream Display Ads                                            | 14/09/2023, 6:40:32 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=zh_TW)                                             |
 | Subpoint Vs Subcount                                          | 13/09/2023, 7:06:08 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=zh_TW)                                           |
 | Twitch Studio Faq                                             | 12/09/2023, 6:19:33 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=zh_TW)                                              |
 | Channel Points Faq                                            | 12/09/2023, 6:26:22 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=zh_TW)                                             |
@@ -42,9 +45,6 @@
 | Tips On Feedback                                              | 26/08/2023, 1:13:39 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=zh_TW)                                               |
 | How To Provide Feedback                                       | 26/08/2023, 1:13:39 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=zh_TW)                                        |
 | Understanding Feedback Updates                                | 26/08/2023, 1:13:34 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=zh_TW)                                 |
-| Account Hacked                                                | 22/08/2023, 7:32:38 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=zh_TW)                                                 |
-| Twitch Account Settings                                       | 22/08/2023, 7:32:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=zh_TW)                                        |
-| Patch Notes 20                                                | 19/08/2023, 6:03:31 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=zh_TW)                                                 |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=pt_PT)                             |
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 10/10/2023, 6:23:56 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)       |
 | Channel Analytics                                             | 21/09/2023, 6:40:55 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_PT)                                              |
 | How To Manage Harassment In Chat                              | 15/09/2023, 6:15:41 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_PT)                               |
@@ -15,8 +16,6 @@
 | Joining The Affiliate Program                                 | 08/09/2023, 1:13:53 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)                                  |
 | Twitch Affiliate Program Faq                                  | 08/09/2023, 1:13:38 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)                                   |
 | Twitch Studio Faq                                             | 06/09/2023, 6:09:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=pt_PT)                                              |
-| Twitch Account Settings                                       | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_PT)                                        |
-| Account Hacked                                                | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=pt_PT)                                                 |
 
 
 

@@ -6,6 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es)                                        |
+| Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=es)                             |
+| Brand Surveys                                                 | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=es)                                                  |
+| Stream Display Ads                                            | 11/10/2023, 3:21:24 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es)                                             |
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 10/10/2023, 6:23:56 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=es)       |
 | Experiments                                                   | 04/10/2023, 8:39:02 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=es)                                                    |
 | Stream Together Guest Guide                                   | 03/10/2023, 3:50:30 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=es)                                    |
@@ -20,7 +24,6 @@
 | Mod View                                                      | 19/09/2023, 10:10:38 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=es)                                                       |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:52 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es)                                     |
 | How To Manage Harassment In Chat                              | 15/09/2023, 6:15:41 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es)                               |
-| Stream Display Ads                                            | 14/09/2023, 5:50:05 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es)                                             |
 | Subpoint Vs Subcount                                          | 13/09/2023, 7:06:06 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=es)                                           |
 | Twitch Studio Mac Faq                                         | 12/09/2023, 11:03:56 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=es)                                          |
 | Hindsight 2020                                                | 12/09/2023, 6:27:14 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=es)                                                 |
@@ -41,11 +44,6 @@
 | How To Provide Feedback                                       | 25/08/2023, 10:48:07 pm   | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=es)                                        |
 | Understanding Feedback Updates                                | 25/08/2023, 10:48:05 pm   | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=es)                                 |
 | Tips On Feedback                                              | 25/08/2023, 10:48:05 pm   | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=es)                                               |
-| Navigating The Feedback Forum                                 | 25/08/2023, 10:48:04 pm   | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=es)                                  |
-| Twitch Account Settings                                       | 24/08/2023, 7:52:40 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es)                                        |
-| Account Hacked                                                | 24/08/2023, 7:52:33 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=es)                                                 |
-| Patch Notes 20                                                | 19/08/2023, 6:03:30 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=es)                                                 |
-| Brand Surveys                                                 | 14/08/2023, 9:17:11 pm    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=es)                                                  |
 
 
 
