@@ -7,7 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| content-classification-labels                                 | 11/10/2023, 10:45:33 pm | 03/10/2023, 0:41:59 pm  | [Details](#content-classification-labels)                                  |
+| how-to-manage-harassment-in-chat                              | 12/10/2023, 4:00:57 am  | 26/09/2023, 4:05:20 am  | [Details](#how-to-manage-harassment-in-chat)                               |
+| content-classification-labels                                 | 11/10/2023, 11:39:08 pm | 03/10/2023, 0:41:59 pm  | [Details](#content-classification-labels)                                  |
 | dmca-and-copyright-faqs                                       | 11/10/2023, 9:24:44 am  | 21/09/2023, 3:18:44 am  | [Details](#dmca-and-copyright-faqs)                                        |
 | watching-twitch-on-android-devices                            | 11/10/2023, 8:54:06 am  | 11/10/2023, 8:54:05 am  | [Details](#watching-twitch-on-android-devices)                             |
 | hype-train-guide                                              | 11/10/2023, 7:14:41 am  | 11/10/2023, 7:14:40 am  | [Details](#hype-train-guide)                                               |
@@ -40,7 +41,6 @@ Language data is not included in the API. All page links will not have a languag
 | ban-evasion                                                   | 20/09/2023, 0:28:33 am  | 15/09/2023, 8:31:51 am  | [Details](#ban-evasion)                                                    |
 | mod-view                                                      | 19/09/2023, 10:15:03 pm | 15/09/2023, 8:30:47 am  | [Details](#mod-view)                                                       |
 | affiliate-onboarding-guide                                    | 19/09/2023, 9:07:52 am  | 19/09/2023, 7:26:14 am  | [Details](#affiliate-onboarding-guide)                                     |
-| how-to-manage-harassment-in-chat                              | 15/09/2023, 6:15:41 am  | 15/09/2023, 6:15:39 am  | [Details](#how-to-manage-harassment-in-chat)                               |
 | subpoint-vs-subcount                                          | 13/09/2023, 7:06:08 am  | 06/09/2023, 10:23:44 am | [Details](#subpoint-vs-subcount)                                           |
 | hindsight-2020                                                | 12/09/2023, 6:27:03 am  | 12/09/2023, 6:27:01 am  | [Details](#hindsight-2020)                                                 |
 | channel-points-faq                                            | 12/09/2023, 6:26:17 am  | 12/09/2023, 6:26:14 am  | [Details](#channel-points-faq)                                             |
@@ -1287,10 +1287,10 @@ https://help.twitch.tv/s/article/content-classification-labels
 
 | Title                                      | Last Modified           | Created                  |
 |--------------------------------------------|-------------------------|--------------------------|
+| Etiquetas de clasificación de contenido    | 11/10/2023, 11:39:08 pm | 03/10/2023, 0:41:59 pm   |
 | Descripteurs de classification du contenu  | 11/10/2023, 10:45:33 pm | 03/10/2023, 0:41:59 pm   |
 | Content Classification Labels              | 04/10/2023, 9:58:56 am  | 29/09/2023, 10:50:20 am  |
 | Etichette di classificazione dei contenuti | 04/10/2023, 9:58:56 am  | 04/10/2023, 9:58:55 am   |
-| Etiquetas de clasificación de contenido    | 04/10/2023, 9:58:56 am  | 04/10/2023, 9:58:55 am   |
 | Etiquetas de clasificación de contenido    | 04/10/2023, 9:58:56 am  | 04/10/2023, 9:58:55 am   |
 | Etykieta klasyfikacji treści               | 04/10/2023, 9:58:56 am  | 04/10/2023, 9:58:55 am   |
 | Inhaltskennzeichnungen                     | 04/10/2023, 9:58:56 am  | 04/10/2023, 9:58:55 am   |
@@ -2431,19 +2431,19 @@ https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat
 
 | Title                                       | Last Modified          | Created                 |
 |---------------------------------------------|------------------------|-------------------------|
-| Come gestire le molestie in chat            | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:39 am  |
-| Como gerenciar assédio no chat              | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:40 am  |
-| Como lidar com o assédio no chat            | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:40 am  |
-| Cómo gestionar el acoso en un chat          | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:39 am  |
-| Cómo gestionar el acoso en un chat          | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:39 am  |
-| Gérer le harcèlement dans le chat           | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:39 am  |
-| Hogyan kezeld a chat közbeni zaklatást?     | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:39 am  |
-| How to Manage Harassment in Chat            | 15/09/2023, 6:15:41 am | 21/03/2023, 5:25:34 am  |
-| Hur man hanterar trakasserier i chatten     | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:40 am  |
-| Hvordan håndtere trakassering i chatten     | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:40 am  |
-| Häirinnän käsittely chatissa                | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:39 am  |
-| Jak radzić sobie z napastowaniem na czacie? | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:40 am  |
-| Jak zvládat obtěžování v chatu              | 15/09/2023, 6:15:41 am | 15/09/2023, 6:15:39 am  |
+| Come gestire le molestie in chat            | 12/10/2023, 4:00:57 am | 26/09/2023, 4:05:20 am  |
+| Como gerenciar assédio no chat              | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
+| Como lidar com o assédio no chat            | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
+| Cómo gestionar el acoso en un chat          | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
+| Cómo gestionar el acoso en un chat          | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
+| Gérer le harcèlement dans le chat           | 12/10/2023, 4:00:57 am | 26/09/2023, 4:05:20 am  |
+| Hogyan kezeld a chat közbeni zaklatást?     | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
+| How to Manage Harassment in Chat            | 12/10/2023, 4:00:57 am | 20/09/2023, 4:02:28 am  |
+| Hur man hanterar trakasserier i chatten     | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
+| Hvordan håndtere trakassering i chatten     | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
+| Häirinnän käsittely chatissa                | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
+| Jak radzić sobie z napastowaniem na czacie? | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
+| Jak zvládat obtěžování v chatu              | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
 
 
 ### how-to-perform-a-traceroute-to-twitch
