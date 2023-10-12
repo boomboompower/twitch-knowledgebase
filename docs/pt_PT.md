@@ -6,10 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| How To Manage Harassment In Chat                              | 12/10/2023, 4:00:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_PT)                               |
 | Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=pt_PT)                             |
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 10/10/2023, 6:23:56 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)       |
 | Channel Analytics                                             | 21/09/2023, 6:40:55 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_PT)                                              |
-| How To Manage Harassment In Chat                              | 15/09/2023, 6:15:41 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_PT)                               |
 | Twitch Turbo Guide                                            | 09/09/2023, 4:30:59 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                                             |
 | Gift Subscriptions                                            | 08/09/2023, 9:56:46 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                                             |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/09/2023, 1:58:09 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pt_PT)  |

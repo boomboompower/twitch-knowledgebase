@@ -7,8 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| content-classification-labels                                 | 12/10/2023, 8:35:39 pm  | 03/10/2023, 0:41:59 pm  | [Details](#content-classification-labels)                                  |
 | how-to-manage-harassment-in-chat                              | 12/10/2023, 4:00:57 am  | 26/09/2023, 4:05:20 am  | [Details](#how-to-manage-harassment-in-chat)                               |
-| content-classification-labels                                 | 11/10/2023, 11:39:08 pm | 03/10/2023, 0:41:59 pm  | [Details](#content-classification-labels)                                  |
 | dmca-and-copyright-faqs                                       | 11/10/2023, 9:24:44 am  | 21/09/2023, 3:18:44 am  | [Details](#dmca-and-copyright-faqs)                                        |
 | watching-twitch-on-android-devices                            | 11/10/2023, 8:54:06 am  | 11/10/2023, 8:54:05 am  | [Details](#watching-twitch-on-android-devices)                             |
 | hype-train-guide                                              | 11/10/2023, 7:14:41 am  | 11/10/2023, 7:14:40 am  | [Details](#hype-train-guide)                                               |
@@ -1287,13 +1287,13 @@ https://help.twitch.tv/s/article/content-classification-labels
 
 | Title                                      | Last Modified           | Created                  |
 |--------------------------------------------|-------------------------|--------------------------|
+| Etykieta klasyfikacji treści               | 12/10/2023, 8:35:39 pm  | 03/10/2023, 0:41:59 pm   |
+| Etiquetas de clasificación de contenido    | 12/10/2023, 6:57:36 pm  | 03/10/2023, 0:41:59 pm   |
+| Inhaltskennzeichnungen                     | 12/10/2023, 6:42:03 pm  | 03/10/2023, 0:41:59 pm   |
+| Etichette di classificazione dei contenuti | 12/10/2023, 6:15:34 pm  | 03/10/2023, 0:41:59 pm   |
 | Etiquetas de clasificación de contenido    | 11/10/2023, 11:39:08 pm | 03/10/2023, 0:41:59 pm   |
 | Descripteurs de classification du contenu  | 11/10/2023, 10:45:33 pm | 03/10/2023, 0:41:59 pm   |
 | Content Classification Labels              | 04/10/2023, 9:58:56 am  | 29/09/2023, 10:50:20 am  |
-| Etichette di classificazione dei contenuti | 04/10/2023, 9:58:56 am  | 04/10/2023, 9:58:55 am   |
-| Etiquetas de clasificación de contenido    | 04/10/2023, 9:58:56 am  | 04/10/2023, 9:58:55 am   |
-| Etykieta klasyfikacji treści               | 04/10/2023, 9:58:56 am  | 04/10/2023, 9:58:55 am   |
-| Inhaltskennzeichnungen                     | 04/10/2023, 9:58:56 am  | 04/10/2023, 9:58:55 am   |
 
 
 ### copyrighted-audio-warnings

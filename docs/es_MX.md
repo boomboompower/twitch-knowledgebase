@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| How To Manage Harassment In Chat                              | 12/10/2023, 4:00:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es_MX)                               |
 | Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es_MX)                                        |
 | Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=es_MX)                             |
 | Brand Surveys                                                 | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=es_MX)                                                  |
@@ -23,7 +24,6 @@
 | Mod View                                                      | 19/09/2023, 7:58:33 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=es_MX)                                                       |
 | Ban Evasion                                                   | 19/09/2023, 7:57:35 pm    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=es_MX)                                                    |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:38 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                                     |
-| How To Manage Harassment In Chat                              | 15/09/2023, 6:15:41 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es_MX)                               |
 | Subpoint Vs Subcount                                          | 13/09/2023, 7:06:07 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=es_MX)                                           |
 | Twitch Studio Mac Faq                                         | 12/09/2023, 11:03:56 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=es_MX)                                          |
 | Channel Points Faq                                            | 12/09/2023, 6:26:33 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=es_MX)                                             |
