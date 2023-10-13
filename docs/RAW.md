@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| how-to-manage-harassment-in-chat                              | 13/10/2023, 9:47:43 am  | 26/09/2023, 4:05:20 am  | [Details](#how-to-manage-harassment-in-chat)                               |
+| how-to-manage-harassment-in-chat                              | 13/10/2023, 10:42:37 pm | 26/09/2023, 4:05:20 am  | [Details](#how-to-manage-harassment-in-chat)                               |
 | content-classification-labels                                 | 12/10/2023, 8:35:39 pm  | 03/10/2023, 0:41:59 pm  | [Details](#content-classification-labels)                                  |
 | dmca-and-copyright-faqs                                       | 11/10/2023, 9:24:44 am  | 21/09/2023, 3:18:44 am  | [Details](#dmca-and-copyright-faqs)                                        |
 | watching-twitch-on-android-devices                            | 11/10/2023, 8:54:06 am  | 11/10/2023, 8:54:05 am  | [Details](#watching-twitch-on-android-devices)                             |
@@ -2429,21 +2429,21 @@ https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click
 ### how-to-manage-harassment-in-chat
 https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat
 
-| Title                                       | Last Modified          | Created                 |
-|---------------------------------------------|------------------------|-------------------------|
-| Como gerenciar assédio no chat              | 13/10/2023, 9:47:43 am | 26/09/2023, 4:05:20 am  |
-| Cómo gestionar el acoso en un chat          | 13/10/2023, 1:34:06 am | 26/09/2023, 4:05:20 am  |
-| Come gestire le molestie in chat            | 12/10/2023, 4:00:57 am | 26/09/2023, 4:05:20 am  |
-| Como lidar com o assédio no chat            | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
-| Cómo gestionar el acoso en un chat          | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
-| Gérer le harcèlement dans le chat           | 12/10/2023, 4:00:57 am | 26/09/2023, 4:05:20 am  |
-| Hogyan kezeld a chat közbeni zaklatást?     | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
-| How to Manage Harassment in Chat            | 12/10/2023, 4:00:57 am | 20/09/2023, 4:02:28 am  |
-| Hur man hanterar trakasserier i chatten     | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
-| Hvordan håndtere trakassering i chatten     | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
-| Häirinnän käsittely chatissa                | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
-| Jak radzić sobie z napastowaniem na czacie? | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
-| Jak zvládat obtěžování v chatu              | 12/10/2023, 4:00:57 am | 12/10/2023, 4:00:55 am  |
+| Title                                       | Last Modified           | Created                 |
+|---------------------------------------------|-------------------------|-------------------------|
+| Cómo gestionar el acoso en un chat          | 13/10/2023, 10:42:37 pm | 26/09/2023, 4:05:20 am  |
+| Jak radzić sobie z napastowaniem na czacie? | 13/10/2023, 9:25:34 pm  | 26/09/2023, 4:05:20 am  |
+| Como gerenciar assédio no chat              | 13/10/2023, 9:47:43 am  | 26/09/2023, 4:05:20 am  |
+| Cómo gestionar el acoso en un chat          | 13/10/2023, 1:34:06 am  | 26/09/2023, 4:05:20 am  |
+| Come gestire le molestie in chat            | 12/10/2023, 4:00:57 am  | 26/09/2023, 4:05:20 am  |
+| Como lidar com o assédio no chat            | 12/10/2023, 4:00:57 am  | 12/10/2023, 4:00:55 am  |
+| Gérer le harcèlement dans le chat           | 12/10/2023, 4:00:57 am  | 26/09/2023, 4:05:20 am  |
+| Hogyan kezeld a chat közbeni zaklatást?     | 12/10/2023, 4:00:57 am  | 12/10/2023, 4:00:55 am  |
+| How to Manage Harassment in Chat            | 12/10/2023, 4:00:57 am  | 20/09/2023, 4:02:28 am  |
+| Hur man hanterar trakasserier i chatten     | 12/10/2023, 4:00:57 am  | 12/10/2023, 4:00:55 am  |
+| Hvordan håndtere trakassering i chatten     | 12/10/2023, 4:00:57 am  | 12/10/2023, 4:00:55 am  |
+| Häirinnän käsittely chatissa                | 12/10/2023, 4:00:57 am  | 12/10/2023, 4:00:55 am  |
+| Jak zvládat obtěžování v chatu              | 12/10/2023, 4:00:57 am  | 12/10/2023, 4:00:55 am  |
 
 
 ### how-to-perform-a-traceroute-to-twitch
