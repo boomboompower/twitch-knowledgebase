@@ -6,7 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| How To Manage Harassment In Chat                              | 12/10/2023, 4:00:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ko)                               |
+| Tips For Applying To The Partner Program                      | 14/10/2023, 4:19:19 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ko)                       |
+| Partner Program Overview                                      | 14/10/2023, 4:05:56 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)                                       |
+| Achievements                                                  | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ko)                                                   |
+| How To Manage Harassment In Chat                              | 13/10/2023, 5:15:07 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ko)                               |
 | Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=ko)                                        |
 | Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=ko)                             |
 | Brand Surveys                                                 | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=ko)                                                  |
@@ -16,7 +19,6 @@
 | Stream Together Guest Guide                                   | 03/10/2023, 3:50:30 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ko)                                    |
 | Stream Together Host Guide                                    | 03/10/2023, 3:50:19 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ko)                                     |
 | Broadcasting Guidelines                                       | 29/09/2023, 0:21:33 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ko)                                        |
-| Partner Program Overview                                      | 29/09/2023, 0:07:03 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)                                       |
 | Ads Manager                                                   | 29/09/2023, 3:02:46 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ko)                                                    |
 | Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=ko)                       |
 | Channel Analytics                                             | 21/09/2023, 9:11:49 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ko)                                              |

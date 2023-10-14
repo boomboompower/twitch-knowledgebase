@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Tips For Applying To The Partner Program                      | 14/10/2023, 4:19:19 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=tr)                       |
+| Partner Program Overview                                      | 14/10/2023, 4:05:56 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=tr)                                       |
+| Achievements                                                  | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=tr)                                                   |
 | How To Manage Harassment In Chat                              | 12/10/2023, 10:09:35 pm   | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=tr)                               |
 | Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:44 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=tr)                                        |
 | Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=tr)                             |
@@ -15,7 +18,6 @@
 | Experiments                                                   | 04/10/2023, 4:31:33 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=tr)                                                    |
 | Stream Together Guest Guide                                   | 03/10/2023, 3:50:31 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=tr)                                    |
 | Stream Together Host Guide                                    | 03/10/2023, 3:50:20 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=tr)                                     |
-| Partner Program Overview                                      | 29/09/2023, 0:07:17 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=tr)                                       |
 | Ads Manager                                                   | 29/09/2023, 3:02:47 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=tr)                                                    |
 | Broadcasting Guidelines                                       | 28/09/2023, 5:25:34 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=tr)                                        |
 | Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:35 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=tr)                       |

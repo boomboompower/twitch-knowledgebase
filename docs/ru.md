@@ -6,7 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| How To Manage Harassment In Chat                              | 12/10/2023, 4:00:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ru)                               |
+| Tips For Applying To The Partner Program                      | 14/10/2023, 4:19:19 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ru)                       |
+| Partner Program Overview                                      | 14/10/2023, 4:05:56 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ru)                                       |
+| Achievements                                                  | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ru)                                                   |
+| How To Manage Harassment In Chat                              | 13/10/2023, 11:40:05 pm   | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ru)                               |
 | Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:44 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=ru)                                        |
 | Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=ru)                             |
 | Brand Surveys                                                 | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=ru)                                                  |
@@ -16,7 +19,6 @@
 | Stream Together Guest Guide                                   | 03/10/2023, 3:50:31 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ru)                                    |
 | Stream Together Host Guide                                    | 03/10/2023, 3:50:20 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ru)                                     |
 | Broadcasting Guidelines                                       | 29/09/2023, 10:48:06 pm   | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ru)                                        |
-| Partner Program Overview                                      | 29/09/2023, 0:07:12 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ru)                                       |
 | Ads Manager                                                   | 29/09/2023, 3:02:47 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ru)                                                    |
 | Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:35 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=ru)                       |
 | Channel Analytics                                             | 21/09/2023, 9:11:45 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ru)                                              |
@@ -45,8 +47,6 @@
 | Navigating The Feedback Forum                                 | 26/08/2023, 1:20:37 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=ru)                                  |
 | Tips On Feedback                                              | 26/08/2023, 1:20:35 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=ru)                                               |
 | Understanding Feedback Updates                                | 26/08/2023, 1:20:34 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=ru)                                 |
-| Twitch Account Settings                                       | 24/08/2023, 9:06:11 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ru)                                        |
-| Account Hacked                                                | 24/08/2023, 9:06:07 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=ru)                                                 |
 
 
 

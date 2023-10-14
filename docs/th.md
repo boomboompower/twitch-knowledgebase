@@ -6,7 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| How To Manage Harassment In Chat                              | 12/10/2023, 9:04:34 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=th)                               |
+| Tips For Applying To The Partner Program                      | 14/10/2023, 4:19:19 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=th)                       |
+| Partner Program Overview                                      | 14/10/2023, 4:05:56 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)                                       |
+| Achievements                                                  | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=th)                                                   |
+| How To Manage Harassment In Chat                              | 14/10/2023, 0:25:38 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=th)                               |
 | Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:44 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=th)                                        |
 | Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=th)                             |
 | Brand Surveys                                                 | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=th)                                                  |
@@ -17,7 +20,6 @@
 | Stream Together Host Guide                                    | 03/10/2023, 3:50:20 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=th)                                     |
 | Affiliate Onboarding Guide                                    | 29/09/2023, 11:39:12 pm   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=th)                                     |
 | Broadcasting Guidelines                                       | 29/09/2023, 11:39:08 pm   | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=th)                                        |
-| Partner Program Overview                                      | 29/09/2023, 0:07:04 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)                                       |
 | Ads Manager                                                   | 29/09/2023, 3:02:47 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=th)                                                    |
 | Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:35 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=th)                       |
 | Channel Analytics                                             | 21/09/2023, 9:11:45 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=th)                                              |
@@ -45,8 +47,6 @@
 | Understanding Feedback Updates                                | 26/08/2023, 1:18:37 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=th)                                 |
 | Navigating The Feedback Forum                                 | 26/08/2023, 1:18:35 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=th)                                  |
 | How To Provide Feedback                                       | 26/08/2023, 1:18:32 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=th)                                        |
-| Twitch Account Settings                                       | 24/08/2023, 9:42:06 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=th)                                        |
-| Account Hacked                                                | 24/08/2023, 9:42:03 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=th)                                                 |
 
 
 

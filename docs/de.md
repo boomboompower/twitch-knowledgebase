@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Tips For Applying To The Partner Program                      | 14/10/2023, 4:19:19 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=de)                       |
+| Partner Program Overview                                      | 14/10/2023, 4:05:55 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                       |
+| Achievements                                                  | 14/10/2023, 4:00:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=de)                                                   |
 | How To Manage Harassment In Chat                              | 12/10/2023, 4:00:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=de)                               |
 | Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=de)                                        |
 | Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=de)                             |
@@ -19,7 +22,6 @@
 | Stream Together Guest Guide                                   | 03/10/2023, 3:50:30 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=de)                                    |
 | Stream Together Host Guide                                    | 03/10/2023, 3:50:18 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=de)                                     |
 | Broadcasting Guidelines                                       | 29/09/2023, 10:03:38 pm   | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=de)                                        |
-| Partner Program Overview                                      | 29/09/2023, 0:07:06 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                       |
 | Ads Manager                                                   | 29/09/2023, 3:02:45 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=de)                                                    |
 | Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=de)                       |
 | Channel Analytics                                             | 21/09/2023, 9:11:43 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=de)                                              |
@@ -44,12 +46,6 @@
 | Twitch Affiliate Program Faq                                  | 08/09/2023, 1:13:39 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)                                   |
 | Twitch Studio Mac Faq                                         | 06/09/2023, 6:14:18 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=de)                                          |
 | Moments                                                       | 01/09/2023, 2:59:10 am    | [Link](https://help.twitch.tv/s/article/moments?language=de)                                                        |
-| Tips On Feedback                                              | 26/08/2023, 1:13:42 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=de)                                               |
-| How To Provide Feedback                                       | 26/08/2023, 1:13:36 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=de)                                        |
-| Understanding Feedback Updates                                | 26/08/2023, 1:13:34 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=de)                                 |
-| Navigating The Feedback Forum                                 | 26/08/2023, 1:13:34 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=de)                                  |
-| Account Hacked                                                | 24/08/2023, 7:56:08 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=de)                                                 |
-| Twitch Account Settings                                       | 24/08/2023, 7:56:06 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=de)                                        |
 
 
 
