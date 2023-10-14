@@ -7,6 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| tips-for-applying-to-the-partner-program                      | 14/10/2023, 4:19:19 am  | 14/10/2023, 4:19:19 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
+| partner-program-overview                                      | 14/10/2023, 4:05:55 am  | 03/10/2023, 4:36:18 am  | [Details](#partner-program-overview)                                       |
+| achievements                                                  | 14/10/2023, 4:00:21 am  | 08/08/2023, 11:56:27 pm | [Details](#achievements)                                                   |
 | how-to-manage-harassment-in-chat                              | 13/10/2023, 10:42:37 pm | 26/09/2023, 4:05:20 am  | [Details](#how-to-manage-harassment-in-chat)                               |
 | content-classification-labels                                 | 12/10/2023, 8:35:39 pm  | 03/10/2023, 0:41:59 pm  | [Details](#content-classification-labels)                                  |
 | dmca-and-copyright-faqs                                       | 11/10/2023, 9:24:44 am  | 21/09/2023, 3:18:44 am  | [Details](#dmca-and-copyright-faqs)                                        |
@@ -31,7 +34,6 @@ Language data is not included in the API. All page links will not have a languag
 | stream-together-host-guide                                    | 03/10/2023, 3:50:19 am  | 27/09/2023, 5:04:35 am  | [Details](#stream-together-host-guide)                                     |
 | how-to-delete-and-manage-clips                                | 30/09/2023, 7:34:05 pm  | 30/09/2023, 7:34:02 pm  | [Details](#how-to-delete-and-manage-clips)                                 |
 | broadcasting-guidelines                                       | 29/09/2023, 11:52:37 pm | 29/09/2023, 11:52:35 pm | [Details](#broadcasting-guidelines)                                        |
-| partner-program-overview                                      | 29/09/2023, 0:07:16 pm  | 29/09/2023, 0:07:15 pm  | [Details](#partner-program-overview)                                       |
 | dac7-interview                                                | 29/09/2023, 4:04:31 am  | 29/09/2023, 4:04:30 am  | [Details](#dac7-interview)                                                 |
 | ads-manager                                                   | 29/09/2023, 3:02:47 am  | 21/09/2023, 10:47:11 am | [Details](#ads-manager)                                                    |
 | partner-plus-abuse                                            | 26/09/2023, 3:33:33 am  | 26/09/2023, 3:33:31 am  | [Details](#partner-plus-abuse)                                             |
@@ -93,7 +95,6 @@ Language data is not included in the API. All page links will not have a languag
 | alerts-by-twitch-events                                       | 26/07/2023, 4:06:46 am  | 26/07/2023, 4:06:45 am  | [Details](#alerts-by-twitch-events)                                        |
 | Managing-Roles-for-your-Channel                               | 19/07/2023, 9:58:38 pm  | 11/07/2023, 2:23:20 am  | [Details](#managing-roles-for-your-channel)                                |
 | creating-an-account-with-twitch                               | 19/07/2023, 9:58:35 pm  | 11/07/2023, 2:21:09 am  | [Details](#creating-an-account-with-twitch)                                |
-| achievements                                                  | 19/07/2023, 9:13:42 pm  | 11/07/2023, 2:30:32 am  | [Details](#achievements)                                                   |
 | basic-troubleshooting-tips                                    | 19/07/2023, 11:22:37 am | 19/07/2023, 11:22:20 am | [Details](#basic-troubleshooting-tips)                                     |
 | creating-highlights-and-stream-markers                        | 18/07/2023, 5:11:28 am  | 18/07/2023, 5:11:06 am  | [Details](#creating-highlights-and-stream-markers)                         |
 | hype-chat-faq                                                 | 11/07/2023, 10:08:32 am | 11/07/2023, 10:08:31 am | [Details](#hype-chat-faq)                                                  |
@@ -301,7 +302,6 @@ Language data is not included in the API. All page links will not have a languag
 | making-the-most-of-channel-points                             | 22/10/2021, 8:53:25 am  | 08/01/2020, 8:57:52 am  | [Details](#making-the-most-of-channel-points)                              |
 | custom-bit-badges-guide                                       | 22/10/2021, 8:53:25 am  | 10/06/2021, 6:04:46 am  | [Details](#custom-bit-badges-guide)                                        |
 | contacting-partner-help                                       | 22/10/2021, 8:53:25 am  | 22/01/2020, 1:35:03 am  | [Details](#contacting-partner-help)                                        |
-| tips-for-applying-to-the-partner-program                      | 22/10/2021, 8:53:24 am  | 01/06/2019, 6:37:24 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
 | partner-settings-guide                                        | 22/10/2021, 8:53:24 am  | 20/01/2021, 6:00:49 am  | [Details](#partner-settings-guide)                                         |
 | Tips-for-Bounty-Board-Completing-Bounties                     | 22/10/2021, 8:53:23 am  | 15/06/2019, 7:43:19 am  | [Details](#tips-for-bounty-board-completing-bounties)                      |
 | recommended-hardware-for-broadcasting                         | 22/10/2021, 8:53:12 am  | 27/02/2019, 3:24:01 pm  | [Details](#recommended-hardware-for-broadcasting)                          |
@@ -425,16 +425,16 @@ https://help.twitch.tv/s/article/account-reactivation
 ### achievements
 https://help.twitch.tv/s/article/achievements
 
-| Title        | Last Modified          | Created                 |
-|--------------|------------------------|-------------------------|
-| Logros       | 19/07/2023, 9:13:42 pm | 11/07/2023, 2:30:32 am  |
-| Başarılar    | 19/07/2023, 9:09:33 pm | 11/07/2023, 2:30:32 am  |
-| Achievements | 19/07/2023, 7:45:10 pm | 11/07/2023, 2:30:32 am  |
-| Obiettivi    | 19/07/2023, 6:09:05 pm | 11/07/2023, 2:30:32 am  |
-| Logros       | 19/07/2023, 8:25:34 am | 11/07/2023, 2:30:32 am  |
-| Conquistas   | 19/07/2023, 4:34:45 am | 11/07/2023, 2:30:32 am  |
-| Achievements | 11/07/2023, 2:30:10 am | 21/06/2023, 0:04:06 pm  |
-| Conquistas   | 11/07/2023, 2:30:09 am | 11/07/2023, 2:30:08 am  |
+| Title        | Last Modified          | Created                  |
+|--------------|------------------------|--------------------------|
+| Başarılar    | 14/10/2023, 4:00:21 am | 08/08/2023, 11:56:27 pm  |
+| Conquistas   | 14/10/2023, 4:00:21 am | 08/08/2023, 11:56:27 pm  |
+| Obiettivi    | 14/10/2023, 4:00:21 am | 08/08/2023, 11:56:27 pm  |
+| Achievements | 14/10/2023, 4:00:20 am | 08/08/2023, 11:52:58 pm  |
+| Achievements | 14/10/2023, 4:00:20 am | 08/08/2023, 11:56:27 pm  |
+| Logros       | 14/10/2023, 4:00:20 am | 08/08/2023, 11:56:27 pm  |
+| Logros       | 14/10/2023, 4:00:20 am | 08/08/2023, 11:56:27 pm  |
+| Conquistas   | 14/10/2023, 4:00:12 am | 14/10/2023, 4:00:08 am   |
 
 
 ### ad-experience-experiment
@@ -3441,8 +3441,8 @@ https://help.twitch.tv/s/article/partner-program-overview
 
 | Title                                                | Last Modified          | Created                 |
 |------------------------------------------------------|------------------------|-------------------------|
-| Descripción general del programa de socios de Twitch | 29/09/2023, 0:07:16 pm | 29/09/2023, 0:07:15 pm  |
-| Das Partnerprogramm von Twitch im Überblick          | 29/09/2023, 0:07:06 pm | 29/09/2023, 0:07:04 pm  |
+| Das Partnerprogramm von Twitch im Überblick          | 14/10/2023, 4:05:55 am | 03/10/2023, 4:36:18 am  |
+| Descripción general del programa de socios de Twitch | 14/10/2023, 4:05:55 am | 03/10/2023, 4:36:18 am  |
 
 
 ### partner-settings-guide
@@ -4106,10 +4106,10 @@ https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program
 
 | Title                                                          | Last Modified          | Created                 |
 |----------------------------------------------------------------|------------------------|-------------------------|
-| Consejos para la solicitud de admisión al Programa de Partners | 22/10/2021, 8:53:24 am | 01/06/2019, 6:37:24 am  |
-| Conseils de candidature au Programme de Partenariat            | 22/10/2021, 8:53:23 am | 29/02/2020, 1:36:31 am  |
-| Consejos para solicitar la pertenencia al programa de socios   | 22/10/2021, 8:53:23 am | 29/02/2020, 1:36:31 am  |
-| Dicas para se inscrever no programa de parceiros               | 22/10/2021, 8:53:22 am | 29/02/2020, 1:36:31 am  |
+| Conseils de candidature au Programme de Partenariat            | 14/10/2023, 4:19:19 am | 14/10/2023, 4:19:19 am  |
+| Consejos para la solicitud de admisión al Programa de Partners | 14/10/2023, 4:19:19 am | 14/10/2023, 4:19:19 am  |
+| Consejos para solicitar la pertenencia al programa de socios   | 14/10/2023, 4:19:19 am | 14/10/2023, 4:19:19 am  |
+| Dicas para se inscrever no programa de parceiros               | 14/10/2023, 4:19:19 am | 14/10/2023, 4:19:19 am  |
 
 
 ### Tips-for-Bounty-Board-Completing-Bounties
