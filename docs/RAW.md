@@ -7,6 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| hype-train-guide                                              | 16/10/2023, 7:11:38 pm  | 11/10/2023, 7:26:20 am  | [Details](#hype-train-guide)                                               |
+| about-account-suspensions-dmca-suspensions-and-chat-bans      | 16/10/2023, 7:11:34 pm  | 11/10/2023, 7:28:35 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | tips-for-applying-to-the-partner-program                      | 14/10/2023, 4:19:19 am  | 14/10/2023, 4:19:19 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
 | partner-program-overview                                      | 14/10/2023, 4:05:55 am  | 03/10/2023, 4:36:18 am  | [Details](#partner-program-overview)                                       |
 | achievements                                                  | 14/10/2023, 4:00:21 am  | 08/08/2023, 11:56:27 pm | [Details](#achievements)                                                   |
@@ -14,7 +16,6 @@ Language data is not included in the API. All page links will not have a languag
 | content-classification-labels                                 | 12/10/2023, 8:35:39 pm  | 03/10/2023, 0:41:59 pm  | [Details](#content-classification-labels)                                  |
 | dmca-and-copyright-faqs                                       | 11/10/2023, 9:24:44 am  | 21/09/2023, 3:18:44 am  | [Details](#dmca-and-copyright-faqs)                                        |
 | watching-twitch-on-android-devices                            | 11/10/2023, 8:54:06 am  | 11/10/2023, 8:54:05 am  | [Details](#watching-twitch-on-android-devices)                             |
-| hype-train-guide                                              | 11/10/2023, 7:14:41 am  | 11/10/2023, 7:14:40 am  | [Details](#hype-train-guide)                                               |
 | brand-surveys                                                 | 11/10/2023, 4:01:25 am  | 11/10/2023, 3:16:02 am  | [Details](#brand-surveys)                                                  |
 | stream-display-ads                                            | 11/10/2023, 3:21:24 am  | 07/09/2023, 2:19:27 am  | [Details](#stream-display-ads)                                             |
 | gift-card-spend                                               | 10/10/2023, 10:14:35 pm | 10/10/2023, 10:14:34 pm | [Details](#gift-card-spend)                                                |
@@ -25,7 +26,6 @@ Language data is not included in the API. All page links will not have a languag
 | twitch-charity-faqs                                           | 10/10/2023, 9:59:06 pm  | 10/10/2023, 9:59:03 pm  | [Details](#twitch-charity-faqs)                                            |
 | transcoding-options-faq                                       | 10/10/2023, 9:58:08 pm  | 10/10/2023, 9:58:07 pm  | [Details](#transcoding-options-faq)                                        |
 | twitch-twitter-twitchsupport-faq                              | 10/10/2023, 9:58:05 pm  | 10/10/2023, 9:58:03 pm  | [Details](#twitch-twitter-twitchsupport-faq)                               |
-| about-account-suspensions-dmca-suspensions-and-chat-bans      | 10/10/2023, 6:23:57 am  | 10/10/2023, 6:22:36 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | creator-chat-and-events                                       | 06/10/2023, 10:14:34 pm | 21/09/2023, 5:56:17 am  | [Details](#creator-chat-and-events)                                        |
 | twitch-studio-mac-faq                                         | 06/10/2023, 4:35:36 am  | 06/10/2023, 4:35:04 am  | [Details](#twitch-studio-mac-faq)                                          |
 | twitch-studio-faq                                             | 06/10/2023, 4:34:05 am  | 06/10/2023, 4:34:03 am  | [Details](#twitch-studio-faq)                                              |
@@ -376,10 +376,10 @@ https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-
 
 | Title                                                                           | Last Modified          | Created                 |
 |---------------------------------------------------------------------------------|------------------------|-------------------------|
+| Hesaba Uygulanan Yaptırımlar ve Sohbet Yasakları Hakkında                       | 16/10/2023, 7:11:34 pm | 11/10/2023, 7:28:35 am  |
 | About Account Enforcements and Chat Bans                                        | 10/10/2023, 6:23:57 am | 10/10/2023, 6:22:36 am  |
 | Acerca de las imposiciones de cuentas y los banneos de chat                     | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
 | Giới thiệu về Thực thi hình phạt đối với tài khoản và Lệnh cấm trong trò chuyện | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
-| Hesaba Uygulanan Yaptırımlar ve Sohbet Yasakları Hakkında                       | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
 | Información sobre las medidas aplicadas a una cuenta y los vetos de chat        | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
 | Informacje o karach dla konta i banach na czacie                                | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
 | Informazioni sulle sanzioni agli account e sul ban dalle chat                   | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
@@ -2770,12 +2770,12 @@ https://help.twitch.tv/s/article/hype-train-guide
 
 | Title                     | Last Modified          | Created                 |
 |---------------------------|------------------------|-------------------------|
+| Hype Train Rehberi        | 16/10/2023, 7:11:38 pm | 11/10/2023, 7:26:20 am  |
 | Guia do Hype Train        | 11/10/2023, 7:14:41 am | 11/10/2023, 7:14:40 am  |
 | Guida all'Hype Train      | 11/10/2023, 7:14:41 am | 11/10/2023, 7:14:40 am  |
 | Guide du train de la Hype | 11/10/2023, 7:14:41 am | 11/10/2023, 7:14:40 am  |
 | Guía del Tren del Hype    | 11/10/2023, 7:14:41 am | 11/10/2023, 7:14:40 am  |
 | Guía del Tren del Hype    | 11/10/2023, 7:14:41 am | 11/10/2023, 7:14:40 am  |
-| Hype Train Rehberi        | 11/10/2023, 7:14:41 am | 11/10/2023, 7:14:40 am  |
 | Leitfaden zu Hype Trains  | 11/10/2023, 7:14:41 am | 11/10/2023, 7:14:40 am  |
 | Hype Train Guide          | 11/10/2023, 7:14:40 am | 11/10/2023, 7:13:45 am  |
 
