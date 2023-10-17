@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                                  | 17/10/2023, 3:50:30 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=th)                                   |
+| Joining The Affiliate Program                                 | 17/10/2023, 3:50:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=th)                                  |
 | Tips For Applying To The Partner Program                      | 14/10/2023, 4:19:19 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=th)                       |
 | Partner Program Overview                                      | 14/10/2023, 4:05:56 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)                                       |
 | Achievements                                                  | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=th)                                                   |
@@ -40,8 +42,6 @@
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:11:39 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=th)  |
 | Twitch Turbo Guide                                            | 12/09/2023, 4:03:15 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=th)                                             |
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=th)                                       |
-| Joining The Affiliate Program                                 | 08/09/2023, 1:13:55 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=th)                                  |
-| Twitch Affiliate Program Faq                                  | 08/09/2023, 1:13:40 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=th)                                   |
 | Moments                                                       | 01/09/2023, 2:59:11 am    | [Link](https://help.twitch.tv/s/article/moments?language=th)                                                        |
 | Tips On Feedback                                              | 26/08/2023, 1:18:38 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=th)                                               |
 | Understanding Feedback Updates                                | 26/08/2023, 1:18:37 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=th)                                 |

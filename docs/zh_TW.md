@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                                  | 17/10/2023, 3:50:30 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                                   |
+| Joining The Affiliate Program                                 | 17/10/2023, 3:50:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)                                  |
 | Tips For Applying To The Partner Program                      | 14/10/2023, 4:19:19 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=zh_TW)                       |
 | Partner Program Overview                                      | 14/10/2023, 4:05:56 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                                       |
 | Achievements                                                  | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                                   |
@@ -39,11 +41,8 @@
 | Subscription Cancellation Reasons                             | 12/09/2023, 6:11:12 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=zh_TW)                              |
 | Twitch Turbo Guide                                            | 12/09/2023, 4:03:42 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                                             |
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:11 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=zh_TW)                                       |
-| Joining The Affiliate Program                                 | 08/09/2023, 1:13:55 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)                                  |
-| Twitch Affiliate Program Faq                                  | 08/09/2023, 1:13:40 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                                   |
 | Twitch Studio Mac Faq                                         | 06/09/2023, 6:14:18 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=zh_TW)                                          |
 | Moments                                                       | 01/09/2023, 2:59:12 am    | [Link](https://help.twitch.tv/s/article/moments?language=zh_TW)                                                        |
-| Navigating The Feedback Forum                                 | 26/08/2023, 1:13:45 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=zh_TW)                                  |
 
 
 
