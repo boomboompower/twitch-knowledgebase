@@ -7,6 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| stories                                                       | 17/10/2023, 4:13:03 am  | 11/10/2023, 1:42:38 pm  | [Details](#stories)                                                        |
+| twitch-affiliate-program-faq                                  | 17/10/2023, 3:50:30 am  | 17/10/2023, 3:50:29 am  | [Details](#twitch-affiliate-program-faq)                                   |
+| joining-the-affiliate-program                                 | 17/10/2023, 3:50:24 am  | 16/10/2023, 1:02:04 pm  | [Details](#joining-the-affiliate-program)                                  |
 | hype-train-guide                                              | 16/10/2023, 7:11:38 pm  | 11/10/2023, 7:26:20 am  | [Details](#hype-train-guide)                                               |
 | about-account-suspensions-dmca-suspensions-and-chat-bans      | 16/10/2023, 7:11:34 pm  | 11/10/2023, 7:28:35 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | tips-for-applying-to-the-partner-program                      | 14/10/2023, 4:19:19 am  | 14/10/2023, 4:19:19 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
@@ -61,8 +64,6 @@ Language data is not included in the API. All page links will not have a languag
 | gift-subscriptions                                            | 12/09/2023, 4:04:21 am  | 29/08/2023, 2:44:24 am  | [Details](#gift-subscriptions)                                             |
 | twitch-turbo-guide                                            | 12/09/2023, 4:03:41 am  | 06/09/2023, 10:28:23 am | [Details](#twitch-turbo-guide)                                             |
 | affiliate-settings-guide                                      | 08/09/2023, 1:14:10 am  | 21/07/2023, 5:09:17 am  | [Details](#affiliate-settings-guide)                                       |
-| joining-the-affiliate-program                                 | 08/09/2023, 1:13:55 am  | 17/08/2023, 3:34:18 am  | [Details](#joining-the-affiliate-program)                                  |
-| twitch-affiliate-program-faq                                  | 08/09/2023, 1:13:40 am  | 17/08/2023, 3:34:58 am  | [Details](#twitch-affiliate-program-faq)                                   |
 | research                                                      | 07/09/2023, 4:03:13 am  | 07/09/2023, 4:03:13 am  | [Details](#research)                                                       |
 | moments                                                       | 01/09/2023, 2:59:12 am  | 17/08/2023, 6:58:07 am  | [Details](#moments)                                                        |
 | how-to-provide-feedback                                       | 28/08/2023, 10:28:38 pm | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
@@ -698,7 +699,6 @@ https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual
 | Amazon 稅務資料問卷與美國國家稅務局 IRS 年度申報表常見問題                                                                               | 12/09/2023, 6:17:03 am | 12/09/2023, 6:17:01 am  |
 | Amazon Vergi Bilgi Formu ve IRS Yıllık Raporu Hakkında SSS                                                        | 12/09/2023, 6:15:29 am | 12/09/2023, 6:15:28 am  |
 | Domande frequenti relative al questionario sui dati fiscali per Amazon e alla rendicontazione contabile per l'IRS | 12/09/2023, 6:14:44 am | 12/09/2023, 6:14:42 am  |
-| Odpowiedzi na najczęściej zadawane pytania dotyczące kwestionariusza podatkowego Amazon i rocznego raportu IRS.   | 12/09/2023, 6:12:52 am | 12/09/2023, 6:12:50 am  |
 | Amazon税務情報インタビューとIRS年次報告書に関するよくある質問                                                                               | 12/09/2023, 6:11:43 am | 12/09/2023, 6:11:41 am  |
 | FAQs zum Amazon Steuerinterview und zum jährlichen Bericht an die IRS                                             | 12/09/2023, 6:11:33 am | 12/09/2023, 6:11:31 am  |
 | Amazon Tax Information Interview and IRS Annual Reporting FAQ                                                     | 08/09/2023, 1:58:11 am | 11/03/2022, 9:27:23 am  |
@@ -994,13 +994,12 @@ https://help.twitch.tv/s/article/capturing-sources
 ### celebrate-kpop
 https://help.twitch.tv/s/article/celebrate-kpop
 
-| Title                                                                                      | Last Modified           | Created                 |
-|--------------------------------------------------------------------------------------------|-------------------------|-------------------------|
-| FAQ K-Pop Stans Unite                                                                      | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
-| Häufig gestellte Fragen zu "K-Pop-Fans hierher!"                                           | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
-| K-Pop Hayranları Birleşiyor SSS                                                            | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
-| KPop Stans Unite FAQs                                                                      | 30/09/2021, 11:26:49 am | 16/10/2020, 3:02:08 am  |
-| Odpowiedzi na najczęściej zadawane pytania związane z wydarzeniem Fani K-popu, łączcie się | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
+| Title                                            | Last Modified           | Created                 |
+|--------------------------------------------------|-------------------------|-------------------------|
+| FAQ K-Pop Stans Unite                            | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
+| Häufig gestellte Fragen zu "K-Pop-Fans hierher!" | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
+| K-Pop Hayranları Birleşiyor SSS                  | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
+| KPop Stans Unite FAQs                            | 30/09/2021, 11:26:49 am | 16/10/2020, 3:02:08 am  |
 
 
 ### Changes-to-Subscription-Badges-and-Resub-Messages
@@ -2821,13 +2820,13 @@ https://help.twitch.tv/s/article/joining-the-affiliate-program
 
 | Title                                           | Last Modified          | Created                 |
 |-------------------------------------------------|------------------------|-------------------------|
-| Jak dołączyć do programu Towarzyszy             | 08/09/2023, 1:13:55 am | 17/08/2023, 3:34:18 am  |
-| Am Affiliate-Programm teilnehmen                | 08/09/2023, 1:13:54 am | 17/08/2023, 3:34:18 am  |
-| Come partecipare al programma per gli affiliati | 08/09/2023, 1:13:54 am | 17/08/2023, 3:34:18 am  |
-| Cómo Unirse al Programa de Afiliados            | 08/09/2023, 1:13:54 am | 17/08/2023, 3:34:18 am  |
-| Intégrer le programme d'affiliation             | 08/09/2023, 1:13:54 am | 17/08/2023, 3:34:18 am  |
-| Joining the Affiliate Program                   | 08/09/2023, 1:13:54 am | 17/08/2023, 2:32:24 am  |
-| Aderir ao Programa de Afiliados                 | 08/09/2023, 1:13:53 am | 08/09/2023, 1:13:52 am  |
+| Joining the Affiliate Program                   | 17/10/2023, 3:50:24 am | 16/10/2023, 1:02:04 pm  |
+| Aderir ao Programa de Afiliados                 | 17/10/2023, 3:50:23 am | 17/10/2023, 3:50:22 am  |
+| Am Affiliate-Programm teilnehmen                | 17/10/2023, 3:50:23 am | 17/10/2023, 3:50:22 am  |
+| Come partecipare al programma per gli affiliati | 17/10/2023, 3:50:23 am | 17/10/2023, 3:50:22 am  |
+| Cómo Unirse al Programa de Afiliados            | 17/10/2023, 3:50:23 am | 17/10/2023, 3:50:22 am  |
+| Intégrer le programme d'affiliation             | 17/10/2023, 3:50:23 am | 17/10/2023, 3:50:22 am  |
+| Jak dołączyć do programu Towarzyszy             | 17/10/2023, 3:50:23 am | 17/10/2023, 3:50:22 am  |
 
 
 ### languages-on-twitch
@@ -3816,6 +3815,15 @@ https://help.twitch.tv/s/article/smart-notification-setting
 | Notificações inteligentes              | 22/10/2021, 8:52:22 am | 05/11/2020, 2:29:40 am   |
 
 
+### stories
+https://help.twitch.tv/s/article/stories
+
+| Title               | Last Modified          | Created                 |
+|---------------------|------------------------|-------------------------|
+| Historias de Twitch | 17/10/2023, 4:13:03 am | 11/10/2023, 1:42:38 pm  |
+| Historie na Twitchu | 17/10/2023, 3:50:10 am | 11/10/2023, 1:42:38 pm  |
+
+
 ### stream-deck-setup
 https://help.twitch.tv/s/article/stream-deck-setup
 
@@ -4174,10 +4182,10 @@ https://help.twitch.tv/s/article/twitch-affiliate-program-faq
 
 | Title                                                     | Last Modified          | Created                 |
 |-----------------------------------------------------------|------------------------|-------------------------|
-| Często zadawane pytania dot. Programu Towarzyszy Twitcha  | 08/09/2023, 1:13:40 am | 17/08/2023, 3:34:58 am  |
-| Domande frequenti sul programma per gli affiliati Twitch  | 08/09/2023, 1:13:39 am | 17/08/2023, 3:34:58 am  |
-| FAQ programme d'affiliation Twitch                        | 08/09/2023, 1:13:39 am | 17/08/2023, 3:34:58 am  |
-| Häufig gestellte Fragen zum Affiliate-Programm von Twitch | 08/09/2023, 1:13:39 am | 17/08/2023, 3:34:58 am  |
+| Często zadawane pytania dot. Programu Towarzyszy Twitcha  | 17/10/2023, 3:50:30 am | 17/10/2023, 3:50:29 am  |
+| Domande frequenti sul programma per gli affiliati Twitch  | 17/10/2023, 3:50:30 am | 17/10/2023, 3:50:29 am  |
+| FAQ programme d'affiliation Twitch                        | 17/10/2023, 3:50:30 am | 17/10/2023, 3:50:29 am  |
+| Häufig gestellte Fragen zum Affiliate-Programm von Twitch | 17/10/2023, 3:50:30 am | 17/10/2023, 3:50:29 am  |
 
 
 ### twitch-charity
