@@ -7,12 +7,13 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| revenue                                                       | 18/10/2023, 8:03:55 am  | 01/07/2023, 11:56:05 am | [Details](#revenue)                                                        |
+| tips-for-applying-to-the-partner-program                      | 18/10/2023, 0:36:03 am  | 14/10/2023, 4:24:22 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
+| about-account-suspensions-dmca-suspensions-and-chat-bans      | 18/10/2023, 0:02:14 am  | 11/10/2023, 7:28:35 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
+| hype-train-guide                                              | 18/10/2023, 0:02:06 am  | 11/10/2023, 7:26:20 am  | [Details](#hype-train-guide)                                               |
 | stories                                                       | 17/10/2023, 4:13:03 am  | 11/10/2023, 1:42:38 pm  | [Details](#stories)                                                        |
 | twitch-affiliate-program-faq                                  | 17/10/2023, 3:50:30 am  | 17/10/2023, 3:50:29 am  | [Details](#twitch-affiliate-program-faq)                                   |
 | joining-the-affiliate-program                                 | 17/10/2023, 3:50:24 am  | 16/10/2023, 1:02:04 pm  | [Details](#joining-the-affiliate-program)                                  |
-| hype-train-guide                                              | 16/10/2023, 7:11:38 pm  | 11/10/2023, 7:26:20 am  | [Details](#hype-train-guide)                                               |
-| about-account-suspensions-dmca-suspensions-and-chat-bans      | 16/10/2023, 7:11:34 pm  | 11/10/2023, 7:28:35 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
-| tips-for-applying-to-the-partner-program                      | 14/10/2023, 4:19:19 am  | 14/10/2023, 4:19:19 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
 | partner-program-overview                                      | 14/10/2023, 4:05:55 am  | 03/10/2023, 4:36:18 am  | [Details](#partner-program-overview)                                       |
 | achievements                                                  | 14/10/2023, 4:00:21 am  | 08/08/2023, 11:56:27 pm | [Details](#achievements)                                                   |
 | how-to-manage-harassment-in-chat                              | 13/10/2023, 10:42:37 pm | 26/09/2023, 4:05:20 am  | [Details](#how-to-manage-harassment-in-chat)                               |
@@ -105,7 +106,6 @@ Language data is not included in the API. All page links will not have a languag
 | music-options-for-streamers                                   | 11/07/2023, 2:52:17 am  | 10/06/2023, 5:39:43 am  | [Details](#music-options-for-streamers)                                    |
 | partner-onboarding-guide                                      | 11/07/2023, 1:57:24 am  | 07/07/2023, 3:48:09 pm  | [Details](#partner-onboarding-guide)                                       |
 | guide-to-bits-history                                         | 01/07/2023, 0:06:16 pm  | 01/07/2023, 0:06:16 pm  | [Details](#guide-to-bits-history)                                          |
-| revenue                                                       | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am | [Details](#revenue)                                                        |
 | stream-manager                                                | 01/07/2023, 11:34:07 am | 01/07/2023, 11:34:06 am | [Details](#stream-manager)                                                 |
 | refunds-on-twitch                                             | 01/07/2023, 11:23:36 am | 01/07/2023, 11:23:35 am | [Details](#refunds-on-twitch)                                              |
 | ads-incentive-program-getting-started                         | 24/06/2023, 1:26:30 am  | 24/06/2023, 1:26:29 am  | [Details](#ads-incentive-program-getting-started)                          |
@@ -377,6 +377,7 @@ https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-
 
 | Title                                                                           | Last Modified          | Created                 |
 |---------------------------------------------------------------------------------|------------------------|-------------------------|
+| Infos zu Kontoeinschränkungen und Chat-Sperren                                  | 18/10/2023, 0:02:14 am | 11/10/2023, 7:28:35 am  |
 | Hesaba Uygulanan Yaptırımlar ve Sohbet Yasakları Hakkında                       | 16/10/2023, 7:11:34 pm | 11/10/2023, 7:28:35 am  |
 | About Account Enforcements and Chat Bans                                        | 10/10/2023, 6:23:57 am | 10/10/2023, 6:22:36 am  |
 | Acerca de las imposiciones de cuentas y los banneos de chat                     | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
@@ -384,7 +385,6 @@ https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-
 | Información sobre las medidas aplicadas a una cuenta y los vetos de chat        | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
 | Informacje o karach dla konta i banach na czacie                                | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
 | Informazioni sulle sanzioni agli account e sul ban dalle chat                   | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
-| Infos zu Konten-Vollstreckung und Chat-Sperren                                  | 10/10/2023, 6:23:56 am | 10/10/2023, 6:23:55 am  |
 
 
 ### account-hacked
@@ -2769,13 +2769,13 @@ https://help.twitch.tv/s/article/hype-train-guide
 
 | Title                     | Last Modified          | Created                 |
 |---------------------------|------------------------|-------------------------|
+| Leitfaden zu Hype Trains  | 18/10/2023, 0:02:06 am | 11/10/2023, 7:26:20 am  |
 | Hype Train Rehberi        | 16/10/2023, 7:11:38 pm | 11/10/2023, 7:26:20 am  |
 | Guia do Hype Train        | 11/10/2023, 7:14:41 am | 11/10/2023, 7:14:40 am  |
 | Guida all'Hype Train      | 11/10/2023, 7:14:41 am | 11/10/2023, 7:14:40 am  |
 | Guide du train de la Hype | 11/10/2023, 7:14:41 am | 11/10/2023, 7:14:40 am  |
 | Guía del Tren del Hype    | 11/10/2023, 7:14:41 am | 11/10/2023, 7:14:40 am  |
 | Guía del Tren del Hype    | 11/10/2023, 7:14:41 am | 11/10/2023, 7:14:40 am  |
-| Leitfaden zu Hype Trains  | 11/10/2023, 7:14:41 am | 11/10/2023, 7:14:40 am  |
 | Hype Train Guide          | 11/10/2023, 7:14:40 am | 11/10/2023, 7:13:45 am  |
 
 
@@ -3672,13 +3672,13 @@ https://help.twitch.tv/s/article/revenue
 
 | Title                   | Last Modified           | Created                  |
 |-------------------------|-------------------------|--------------------------|
+| Gelir Analizi           | 18/10/2023, 8:03:55 am  | 01/07/2023, 11:56:05 am  |
 | Analitica guadagni      | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Analiza zarobków        | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Analysen zu Einnahmen   | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Analytics de renda      | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Analíticas de ganancias | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Análisis de ingresos    | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
-| Gelir Analizi           | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Earnings Analytics      | 01/07/2023, 11:55:30 am | 01/07/2023, 11:55:11 am  |
 
 
@@ -4114,10 +4114,10 @@ https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program
 
 | Title                                                          | Last Modified          | Created                 |
 |----------------------------------------------------------------|------------------------|-------------------------|
+| Dicas para se inscrever no programa de parceiros               | 18/10/2023, 0:36:03 am | 14/10/2023, 4:24:22 am  |
 | Conseils de candidature au Programme de Partenariat            | 14/10/2023, 4:19:19 am | 14/10/2023, 4:19:19 am  |
 | Consejos para la solicitud de admisión al Programa de Partners | 14/10/2023, 4:19:19 am | 14/10/2023, 4:19:19 am  |
 | Consejos para solicitar la pertenencia al programa de socios   | 14/10/2023, 4:19:19 am | 14/10/2023, 4:19:19 am  |
-| Dicas para se inscrever no programa de parceiros               | 14/10/2023, 4:19:19 am | 14/10/2023, 4:19:19 am  |
 
 
 ### Tips-for-Bounty-Board-Completing-Bounties
