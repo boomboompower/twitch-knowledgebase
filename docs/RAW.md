@@ -7,13 +7,13 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| revenue                                                       | 20/10/2023, 4:37:43 am  | 01/07/2023, 11:56:05 am | [Details](#revenue)                                                        |
 | mission-based-drops                                           | 19/10/2023, 3:00:54 am  | 30/09/2023, 4:42:18 am  | [Details](#mission-based-drops)                                            |
 | hype-challenge                                                | 19/10/2023, 1:47:02 am  | 19/10/2023, 1:47:01 am  | [Details](#hype-challenge)                                                 |
 | hype-train-guide                                              | 19/10/2023, 0:26:07 am  | 11/10/2023, 7:26:20 am  | [Details](#hype-train-guide)                                               |
 | stream-display-ads                                            | 19/10/2023, 0:25:33 am  | 11/10/2023, 7:24:50 am  | [Details](#stream-display-ads)                                             |
 | tips-for-applying-to-the-partner-program                      | 18/10/2023, 10:12:04 pm | 14/10/2023, 4:24:22 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
 | about-account-suspensions-dmca-suspensions-and-chat-bans      | 18/10/2023, 10:10:03 pm | 11/10/2023, 7:28:35 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
-| revenue                                                       | 18/10/2023, 8:03:55 am  | 01/07/2023, 11:56:05 am | [Details](#revenue)                                                        |
 | stories                                                       | 17/10/2023, 4:13:03 am  | 11/10/2023, 1:42:38 pm  | [Details](#stories)                                                        |
 | twitch-affiliate-program-faq                                  | 17/10/2023, 3:50:30 am  | 17/10/2023, 3:50:29 am  | [Details](#twitch-affiliate-program-faq)                                   |
 | joining-the-affiliate-program                                 | 17/10/2023, 3:50:24 am  | 16/10/2023, 1:02:04 pm  | [Details](#joining-the-affiliate-program)                                  |
@@ -3685,11 +3685,11 @@ https://help.twitch.tv/s/article/revenue
 
 | Title                   | Last Modified           | Created                  |
 |-------------------------|-------------------------|--------------------------|
+| Analytics de renda      | 20/10/2023, 4:37:43 am  | 01/07/2023, 11:56:05 am  |
 | Gelir Analizi           | 18/10/2023, 8:03:55 am  | 01/07/2023, 11:56:05 am  |
 | Analitica guadagni      | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Analiza zarobków        | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Analysen zu Einnahmen   | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
-| Analytics de renda      | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Analíticas de ganancias | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Análisis de ingresos    | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Earnings Analytics      | 01/07/2023, 11:55:30 am | 01/07/2023, 11:55:11 am  |
