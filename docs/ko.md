@@ -44,6 +44,7 @@
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=ko)                                       |
 | Twitch Studio Mac Faq                                         | 06/09/2023, 6:14:18 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ko)                                          |
 | Moments                                                       | 01/09/2023, 2:59:11 am    | [Link](https://help.twitch.tv/s/article/moments?language=ko)                                                        |
+| Understanding Feedback Updates                                | 26/08/2023, 1:17:05 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=ko)                                 |
 
 
 

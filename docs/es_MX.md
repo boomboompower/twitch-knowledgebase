@@ -44,6 +44,10 @@
 | Twitch Studio Faq                                             | 12/09/2023, 4:03:10 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=es_MX)                                              |
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=es_MX)                                       |
 | Moments                                                       | 01/09/2023, 2:59:11 am    | [Link](https://help.twitch.tv/s/article/moments?language=es_MX)                                                        |
+| Understanding Feedback Updates                                | 26/08/2023, 1:17:35 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=es_MX)                                 |
+| Navigating The Feedback Forum                                 | 26/08/2023, 1:17:35 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=es_MX)                                  |
+| How To Provide Feedback                                       | 26/08/2023, 1:17:34 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=es_MX)                                        |
+| Tips On Feedback                                              | 26/08/2023, 1:17:32 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=es_MX)                                               |
 
 
 

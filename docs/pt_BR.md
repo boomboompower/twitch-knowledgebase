@@ -6,12 +6,12 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                                  | 20/10/2023, 4:37:48 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_BR)                                   |
+| Joining The Affiliate Program                                 | 20/10/2023, 4:37:34 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                                  |
 | Mission Based Drops                                           | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pt_BR)                                            |
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 19/10/2023, 0:25:36 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_BR)       |
 | Stream Display Ads                                            | 19/10/2023, 0:25:33 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pt_BR)                                             |
 | Tips For Applying To The Partner Program                      | 18/10/2023, 0:36:03 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=pt_BR)                       |
-| Twitch Affiliate Program Faq                                  | 17/10/2023, 3:50:30 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_BR)                                   |
-| Joining The Affiliate Program                                 | 17/10/2023, 3:50:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                                  |
 | Partner Program Overview                                      | 14/10/2023, 4:05:56 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)                                       |
 | Achievements                                                  | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_BR)                                                   |
 | How To Manage Harassment In Chat                              | 13/10/2023, 9:47:43 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_BR)                               |
@@ -44,6 +44,9 @@
 | Twitch Turbo Guide                                            | 12/09/2023, 4:03:26 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_BR)                                             |
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=pt_BR)                                       |
 | Moments                                                       | 01/09/2023, 2:59:11 am    | [Link](https://help.twitch.tv/s/article/moments?language=pt_BR)                                                        |
+| How To Provide Feedback                                       | 28/08/2023, 10:28:38 pm   | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=pt_BR)                                        |
+| Understanding Feedback Updates                                | 28/08/2023, 10:28:35 pm   | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=pt_BR)                                 |
+| Tips On Feedback                                              | 28/08/2023, 10:28:33 pm   | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=pt_BR)                                               |
 
 
 

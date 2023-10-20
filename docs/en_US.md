@@ -35,6 +35,7 @@
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:09 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=en_US)                                       |
 | Twitch Studio Mac Faq                                         | 06/09/2023, 6:14:19 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=en_US)                                          |
 | Twitch Studio Faq                                             | 06/09/2023, 6:09:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=en_US)                                              |
+| Moments                                                       | 01/09/2023, 2:59:10 am    | [Link](https://help.twitch.tv/s/article/moments?language=en_US)                                                        |
 
 
 

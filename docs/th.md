@@ -44,6 +44,10 @@
 | Twitch Turbo Guide                                            | 12/09/2023, 4:03:15 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=th)                                             |
 | Affiliate Settings Guide                                      | 08/09/2023, 1:14:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=th)                                       |
 | Moments                                                       | 01/09/2023, 2:59:11 am    | [Link](https://help.twitch.tv/s/article/moments?language=th)                                                        |
+| Tips On Feedback                                              | 26/08/2023, 1:18:38 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=th)                                               |
+| Understanding Feedback Updates                                | 26/08/2023, 1:18:37 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=th)                                 |
+| Navigating The Feedback Forum                                 | 26/08/2023, 1:18:35 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=th)                                  |
+| How To Provide Feedback                                       | 26/08/2023, 1:18:32 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=th)                                        |
 
 
 
