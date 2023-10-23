@@ -34,6 +34,7 @@
 | Suspicious User Controls                                 | 15/09/2023, 6:15:59 am    | [Link](https://help.twitch.tv/s/article/suspicious-user-controls?language=en_US)                                  |
 | Mod View                                                 | 15/09/2023, 6:15:45 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                                  |
 | Subpoint Vs Subcount                                     | 13/09/2023, 7:06:06 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=en_US)                                      |
+| Twitch Turbo Guide                                       | 09/09/2023, 4:31:00 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                                        |
 
 
 

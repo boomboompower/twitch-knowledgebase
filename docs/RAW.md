@@ -7,6 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| twitch-affiliate-program-faq                                  | 23/10/2023, 10:44:09 pm | 23/10/2023, 10:44:07 pm | [Details](#twitch-affiliate-program-faq)                                   |
+| joining-the-affiliate-program                                 | 23/10/2023, 10:44:03 pm | 23/10/2023, 10:44:01 pm | [Details](#joining-the-affiliate-program)                                  |
+| revenue                                                       | 23/10/2023, 9:02:21 pm  | 01/07/2023, 11:56:05 am | [Details](#revenue)                                                        |
 | simulcasting-guidelines                                       | 21/10/2023, 5:44:14 am  | 21/10/2023, 5:44:14 am  | [Details](#simulcasting-guidelines)                                        |
 | dac7-interview                                                | 21/10/2023, 5:24:32 am  | 21/10/2023, 5:24:32 am  | [Details](#dac7-interview)                                                 |
 | guest-star-getting-started                                    | 21/10/2023, 3:10:02 am  | 09/05/2023, 7:40:20 am  | [Details](#guest-star-getting-started)                                     |
@@ -16,7 +19,6 @@ Language data is not included in the API. All page links will not have a languag
 | guest-star-faqs                                               | 21/10/2023, 3:02:11 am  | 21/10/2023, 3:02:11 am  | [Details](#guest-star-faqs)                                                |
 | guest-star                                                    | 21/10/2023, 3:01:15 am  | 21/10/2023, 3:01:14 am  | [Details](#guest-star)                                                     |
 | featured-clips                                                | 20/10/2023, 10:55:09 pm | 20/10/2023, 10:55:07 pm | [Details](#featured-clips)                                                 |
-| revenue                                                       | 20/10/2023, 4:37:43 am  | 01/07/2023, 11:56:05 am | [Details](#revenue)                                                        |
 | mission-based-drops                                           | 19/10/2023, 3:00:54 am  | 30/09/2023, 4:42:18 am  | [Details](#mission-based-drops)                                            |
 | hype-challenge                                                | 19/10/2023, 1:47:02 am  | 19/10/2023, 1:47:01 am  | [Details](#hype-challenge)                                                 |
 | hype-train-guide                                              | 19/10/2023, 0:26:07 am  | 11/10/2023, 7:26:20 am  | [Details](#hype-train-guide)                                               |
@@ -24,8 +26,6 @@ Language data is not included in the API. All page links will not have a languag
 | tips-for-applying-to-the-partner-program                      | 18/10/2023, 10:12:04 pm | 14/10/2023, 4:24:22 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
 | about-account-suspensions-dmca-suspensions-and-chat-bans      | 18/10/2023, 10:10:03 pm | 11/10/2023, 7:28:35 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | stories                                                       | 17/10/2023, 4:13:03 am  | 11/10/2023, 1:42:38 pm  | [Details](#stories)                                                        |
-| twitch-affiliate-program-faq                                  | 17/10/2023, 3:50:30 am  | 17/10/2023, 3:50:29 am  | [Details](#twitch-affiliate-program-faq)                                   |
-| joining-the-affiliate-program                                 | 17/10/2023, 3:50:24 am  | 16/10/2023, 1:02:04 pm  | [Details](#joining-the-affiliate-program)                                  |
 | partner-program-overview                                      | 14/10/2023, 4:05:55 am  | 03/10/2023, 4:36:18 am  | [Details](#partner-program-overview)                                       |
 | achievements                                                  | 14/10/2023, 4:00:21 am  | 08/08/2023, 11:56:27 pm | [Details](#achievements)                                                   |
 | how-to-manage-harassment-in-chat                              | 13/10/2023, 10:42:37 pm | 26/09/2023, 4:05:20 am  | [Details](#how-to-manage-harassment-in-chat)                               |
@@ -2820,15 +2820,15 @@ https://help.twitch.tv/s/article/joining-guest-star
 ### joining-the-affiliate-program
 https://help.twitch.tv/s/article/joining-the-affiliate-program
 
-| Title                                           | Last Modified          | Created                 |
-|-------------------------------------------------|------------------------|-------------------------|
-| Joining the Affiliate Program                   | 17/10/2023, 3:50:24 am | 16/10/2023, 1:02:04 pm  |
-| Aderir ao Programa de Afiliados                 | 17/10/2023, 3:50:23 am | 17/10/2023, 3:50:22 am  |
-| Am Affiliate-Programm teilnehmen                | 17/10/2023, 3:50:23 am | 17/10/2023, 3:50:22 am  |
-| Come partecipare al programma per gli affiliati | 17/10/2023, 3:50:23 am | 17/10/2023, 3:50:22 am  |
-| Cómo Unirse al Programa de Afiliados            | 17/10/2023, 3:50:23 am | 17/10/2023, 3:50:22 am  |
-| Intégrer le programme d'affiliation             | 17/10/2023, 3:50:23 am | 17/10/2023, 3:50:22 am  |
-| Jak dołączyć do programu Towarzyszy             | 17/10/2023, 3:50:23 am | 17/10/2023, 3:50:22 am  |
+| Title                                           | Last Modified           | Created                  |
+|-------------------------------------------------|-------------------------|--------------------------|
+| Intégrer le programme d'affiliation             | 23/10/2023, 10:44:03 pm | 23/10/2023, 10:44:01 pm  |
+| Jak dołączyć do programu Towarzyszy             | 23/10/2023, 9:02:24 pm  | 23/10/2023, 9:02:22 pm   |
+| Am Affiliate-Programm teilnehmen                | 23/10/2023, 7:08:39 pm  | 23/10/2023, 7:08:37 pm   |
+| Come partecipare al programma per gli affiliati | 23/10/2023, 6:07:16 pm  | 23/10/2023, 6:07:13 pm   |
+| Joining the Affiliate Program                   | 17/10/2023, 3:50:24 am  | 16/10/2023, 1:02:04 pm   |
+| Aderir ao Programa de Afiliados                 | 17/10/2023, 3:50:23 am  | 17/10/2023, 3:50:22 am   |
+| Cómo Unirse al Programa de Afiliados            | 17/10/2023, 3:50:23 am  | 17/10/2023, 3:50:22 am   |
 
 
 ### languages-on-twitch
@@ -3664,11 +3664,11 @@ https://help.twitch.tv/s/article/revenue
 
 | Title                   | Last Modified           | Created                  |
 |-------------------------|-------------------------|--------------------------|
+| Analiza zarobków        | 23/10/2023, 9:02:21 pm  | 01/07/2023, 11:56:05 am  |
+| Analysen zu Einnahmen   | 23/10/2023, 7:08:43 pm  | 01/07/2023, 11:56:05 am  |
+| Analitica guadagni      | 23/10/2023, 6:07:26 pm  | 01/07/2023, 11:56:05 am  |
 | Analytics de renda      | 20/10/2023, 4:37:43 am  | 01/07/2023, 11:56:05 am  |
 | Gelir Analizi           | 18/10/2023, 8:03:55 am  | 01/07/2023, 11:56:05 am  |
-| Analitica guadagni      | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
-| Analiza zarobków        | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
-| Analysen zu Einnahmen   | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Analíticas de ganancias | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Análisis de ingresos    | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Earnings Analytics      | 01/07/2023, 11:55:30 am | 01/07/2023, 11:55:11 am  |
@@ -4172,12 +4172,12 @@ https://help.twitch.tv/s/article/twitch-account-settings
 ### twitch-affiliate-program-faq
 https://help.twitch.tv/s/article/twitch-affiliate-program-faq
 
-| Title                                                     | Last Modified          | Created                 |
-|-----------------------------------------------------------|------------------------|-------------------------|
-| Często zadawane pytania dot. Programu Towarzyszy Twitcha  | 17/10/2023, 3:50:30 am | 17/10/2023, 3:50:29 am  |
-| Domande frequenti sul programma per gli affiliati Twitch  | 17/10/2023, 3:50:30 am | 17/10/2023, 3:50:29 am  |
-| FAQ programme d'affiliation Twitch                        | 17/10/2023, 3:50:30 am | 17/10/2023, 3:50:29 am  |
-| Häufig gestellte Fragen zum Affiliate-Programm von Twitch | 17/10/2023, 3:50:30 am | 17/10/2023, 3:50:29 am  |
+| Title                                                     | Last Modified           | Created                  |
+|-----------------------------------------------------------|-------------------------|--------------------------|
+| FAQ programme d'affiliation Twitch                        | 23/10/2023, 10:44:09 pm | 23/10/2023, 10:44:07 pm  |
+| Często zadawane pytania dot. Programu Towarzyszy Twitcha  | 23/10/2023, 9:02:15 pm  | 23/10/2023, 9:02:14 pm   |
+| Häufig gestellte Fragen zum Affiliate-Programm von Twitch | 23/10/2023, 7:08:45 pm  | 23/10/2023, 7:08:43 pm   |
+| Domande frequenti sul programma per gli affiliati Twitch  | 23/10/2023, 6:07:12 pm  | 23/10/2023, 6:07:09 pm   |
 
 
 ### twitch-charity

@@ -7,6 +7,7 @@
 | Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                     |
 |------------------------------------|---------------------------|------------------------------------------------------------------------------------------|
 | Watching Twitch On Android Devices | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=el)  |
+| Twitch Turbo Guide                 | 09/09/2023, 4:30:59 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=el)                  |
 
 
 

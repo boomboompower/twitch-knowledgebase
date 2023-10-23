@@ -45,6 +45,7 @@
 | Disconnect Protection                                         | 12/09/2023, 6:13:21 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=ja)                                          |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:11:43 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=ja)  |
 | Twitch Turbo Guide                                            | 12/09/2023, 4:03:12 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                                             |
+| Twitch Studio Faq                                             | 12/09/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=ja)                                              |
 
 
 

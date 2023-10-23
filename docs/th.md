@@ -6,14 +6,14 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                                  | 23/10/2023, 4:19:09 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=th)                                   |
+| Joining The Affiliate Program                                 | 23/10/2023, 4:19:06 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=th)                                  |
 | Guest Star Getting Started                                    | 21/10/2023, 3:08:44 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=th)                                     |
 | Stream Together Guest Guide                                   | 21/10/2023, 3:06:56 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=th)                                    |
 | Guest Star Reporting                                          | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=th)                                           |
 | Stream Together Host Guide                                    | 21/10/2023, 3:02:22 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=th)                                     |
 | Guest Star Faqs                                               | 21/10/2023, 3:02:11 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=th)                                                |
 | Guest Star                                                    | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=th)                                                     |
-| Joining The Affiliate Program                                 | 20/10/2023, 8:00:45 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=th)                                  |
-| Twitch Affiliate Program Faq                                  | 20/10/2023, 8:00:41 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=th)                                   |
 | Mission Based Drops                                           | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=th)                                            |
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 19/10/2023, 0:14:08 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=th)       |
 | Stream Display Ads                                            | 19/10/2023, 0:14:06 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=th)                                             |

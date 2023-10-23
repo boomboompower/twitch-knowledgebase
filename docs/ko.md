@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                                  | 23/10/2023, 1:45:52 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ko)                                   |
+| Joining The Affiliate Program                                 | 23/10/2023, 1:45:36 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ko)                                  |
 | Guest Star Getting Started                                    | 21/10/2023, 3:08:44 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ko)                                     |
 | Stream Together Guest Guide                                   | 21/10/2023, 3:06:10 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ko)                                    |
 | Guest Star Reporting                                          | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=ko)                                           |
@@ -16,8 +18,6 @@
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 18/10/2023, 11:36:47 pm   | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=ko)       |
 | Stream Display Ads                                            | 18/10/2023, 11:36:33 pm   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ko)                                             |
 | Tips For Applying To The Partner Program                      | 18/10/2023, 10:05:03 pm   | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ko)                       |
-| Twitch Affiliate Program Faq                                  | 17/10/2023, 3:50:30 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ko)                                   |
-| Joining The Affiliate Program                                 | 17/10/2023, 3:50:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ko)                                  |
 | Partner Program Overview                                      | 14/10/2023, 4:05:56 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)                                       |
 | Achievements                                                  | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ko)                                                   |
 | How To Manage Harassment In Chat                              | 13/10/2023, 5:15:07 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ko)                               |

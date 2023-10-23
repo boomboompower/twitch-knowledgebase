@@ -13,6 +13,7 @@
 | Watching Twitch On Android Devices                       | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=pt_PT)                        |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 10/10/2023, 6:23:56 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)  |
 | Channel Analytics                                        | 21/09/2023, 6:40:55 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_PT)                                         |
+| Twitch Turbo Guide                                       | 09/09/2023, 4:30:59 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                                        |
 
 
 
