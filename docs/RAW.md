@@ -7,9 +7,11 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| leaderboards-guide                                            | 25/10/2023, 5:49:54 am  | 25/10/2023, 5:49:53 am  | [Details](#leaderboards-guide)                                             |
+| how-to-use-automod                                            | 25/10/2023, 4:50:34 am  | 14/10/2023, 10:50:37 am | [Details](#how-to-use-automod)                                             |
+| revenue                                                       | 25/10/2023, 2:24:45 am  | 01/07/2023, 11:56:05 am | [Details](#revenue)                                                        |
+| joining-the-affiliate-program                                 | 25/10/2023, 2:24:40 am  | 25/10/2023, 2:24:35 am  | [Details](#joining-the-affiliate-program)                                  |
 | twitch-affiliate-program-faq                                  | 23/10/2023, 10:44:09 pm | 23/10/2023, 10:44:07 pm | [Details](#twitch-affiliate-program-faq)                                   |
-| joining-the-affiliate-program                                 | 23/10/2023, 10:44:03 pm | 23/10/2023, 10:44:01 pm | [Details](#joining-the-affiliate-program)                                  |
-| revenue                                                       | 23/10/2023, 9:02:21 pm  | 01/07/2023, 11:56:05 am | [Details](#revenue)                                                        |
 | simulcasting-guidelines                                       | 21/10/2023, 5:44:14 am  | 21/10/2023, 5:44:14 am  | [Details](#simulcasting-guidelines)                                        |
 | dac7-interview                                                | 21/10/2023, 5:24:32 am  | 21/10/2023, 5:24:32 am  | [Details](#dac7-interview)                                                 |
 | guest-star-getting-started                                    | 21/10/2023, 3:10:02 am  | 09/05/2023, 7:40:20 am  | [Details](#guest-star-getting-started)                                     |
@@ -186,7 +188,6 @@ Language data is not included in the API. All page links will not have a languag
 | minimum-payout-threshold-countries                            | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:10:33 pm  | [Details](#minimum-payout-threshold-countries)                             |
 | how-to-use-extensions                                         | 05/11/2022, 1:14:39 am  | 26/10/2022, 7:06:42 am  | [Details](#how-to-use-extensions)                                          |
 | how-to-configure-extensions                                   | 05/11/2022, 1:14:35 am  | 26/10/2022, 7:28:24 am  | [Details](#how-to-configure-extensions)                                    |
-| leaderboards-guide                                            | 04/11/2022, 8:02:33 pm  | 27/10/2022, 11:23:43 am | [Details](#leaderboards-guide)                                             |
 | xbox-promotion-2022                                           | 02/11/2022, 3:54:04 am  | 21/10/2022, 6:27:34 am  | [Details](#xbox-promotion-2022)                                            |
 | request-to-join                                               | 01/11/2022, 10:57:36 pm | 28/10/2022, 5:48:21 am  | [Details](#request-to-join)                                                |
 | viewer-channel-point-guide                                    | 28/10/2022, 8:34:23 am  | 28/10/2022, 8:26:56 am  | [Details](#viewer-channel-point-guide)                                     |
@@ -292,7 +293,6 @@ Language data is not included in the API. All page links will not have a languag
 | bits-purchase-troubleshooting                                 | 22/10/2021, 8:53:51 am  | 20/11/2019, 3:04:44 am  | [Details](#bits-purchase-troubleshooting)                                  |
 | contacting-purchase-support                                   | 22/10/2021, 8:53:51 am  | 07/08/2020, 3:29:05 am  | [Details](#contacting-purchase-support)                                    |
 | guide-to-custom-messages                                      | 22/10/2021, 8:53:51 am  | 07/12/2018, 0:40:51 pm  | [Details](#guide-to-custom-messages)                                       |
-| how-to-use-automod                                            | 22/10/2021, 8:53:46 am  | 26/06/2021, 4:54:05 am  | [Details](#how-to-use-automod)                                             |
 | setting-up-moderation-for-your-twitch-channel                 | 22/10/2021, 8:53:46 am  | 25/09/2021, 2:36:44 am  | [Details](#setting-up-moderation-for-your-twitch-channel)                  |
 | guide-to-building-a-moderation-team                           | 22/10/2021, 8:53:46 am  | 24/09/2020, 3:51:25 am  | [Details](#guide-to-building-a-moderation-team)                            |
 | twitch-policies-and-guidelines                                | 22/10/2021, 8:53:32 am  | 21/09/2019, 3:26:16 am  | [Details](#twitch-policies-and-guidelines)                                 |
@@ -2519,18 +2519,18 @@ https://help.twitch.tv/s/article/how-to-subscribe
 ### how-to-use-automod
 https://help.twitch.tv/s/article/how-to-use-automod
 
-| Title                                | Last Modified          | Created                 |
-|--------------------------------------|------------------------|-------------------------|
-| AutoMod Nasıl Kullanılır?            | 22/10/2021, 8:53:46 am | 26/06/2021, 4:54:05 am  |
-| AutoMod 的使用方式                        | 22/10/2021, 8:53:46 am | 26/06/2021, 4:54:05 am  |
-| AutoMod 사용 방법                        | 22/10/2021, 8:53:46 am | 26/06/2021, 4:54:05 am  |
-| AutoModの使い方                          | 22/10/2021, 8:53:46 am | 26/06/2021, 4:54:05 am  |
-| Come utilizzare AutoMod              | 22/10/2021, 8:53:46 am | 26/06/2021, 4:54:05 am  |
-| Como usar o AutoMod                  | 22/10/2021, 8:53:46 am | 26/06/2021, 4:54:05 am  |
-| Como utilizar a Moderação Automática | 22/10/2021, 8:53:46 am | 26/06/2021, 4:53:26 am  |
-| Cómo usar AutoMod                    | 22/10/2021, 8:53:46 am | 26/06/2021, 4:54:05 am  |
-| How to Use AutoMod                   | 22/10/2021, 8:53:46 am | 26/06/2021, 4:52:56 am  |
-| Jak używać AutoModa                  | 22/10/2021, 8:53:46 am | 26/06/2021, 4:54:05 am  |
+| Title                                | Last Modified          | Created                  |
+|--------------------------------------|------------------------|--------------------------|
+| AutoMod Nasıl Kullanılır?            | 25/10/2023, 4:50:34 am | 14/10/2023, 10:50:37 am  |
+| AutoMod 的使用方式                        | 25/10/2023, 4:50:34 am | 14/10/2023, 10:50:37 am  |
+| AutoMod 사용 방법                        | 25/10/2023, 4:50:34 am | 14/10/2023, 10:50:37 am  |
+| AutoModの使い方                          | 25/10/2023, 4:50:34 am | 14/10/2023, 10:50:37 am  |
+| Como usar o AutoMod                  | 25/10/2023, 4:50:34 am | 14/10/2023, 10:50:37 am  |
+| Jak używać AutoModa                  | 25/10/2023, 4:50:34 am | 14/10/2023, 10:50:37 am  |
+| Come utilizzare AutoMod              | 25/10/2023, 4:50:33 am | 14/10/2023, 10:50:37 am  |
+| Cómo usar AutoMod                    | 25/10/2023, 4:50:33 am | 14/10/2023, 10:50:37 am  |
+| How to Use AutoMod                   | 25/10/2023, 4:50:33 am | 14/10/2023, 10:50:03 am  |
+| Como utilizar a Moderação Automática | 25/10/2023, 4:50:32 am | 25/10/2023, 4:50:29 am   |
 
 
 ### how-to-use-clips
@@ -2822,13 +2822,13 @@ https://help.twitch.tv/s/article/joining-the-affiliate-program
 
 | Title                                           | Last Modified           | Created                  |
 |-------------------------------------------------|-------------------------|--------------------------|
+| Cómo Unirse al Programa de Afiliados            | 25/10/2023, 2:24:40 am  | 25/10/2023, 2:24:35 am   |
 | Intégrer le programme d'affiliation             | 23/10/2023, 10:44:03 pm | 23/10/2023, 10:44:01 pm  |
 | Jak dołączyć do programu Towarzyszy             | 23/10/2023, 9:02:24 pm  | 23/10/2023, 9:02:22 pm   |
 | Am Affiliate-Programm teilnehmen                | 23/10/2023, 7:08:39 pm  | 23/10/2023, 7:08:37 pm   |
 | Come partecipare al programma per gli affiliati | 23/10/2023, 6:07:16 pm  | 23/10/2023, 6:07:13 pm   |
 | Joining the Affiliate Program                   | 17/10/2023, 3:50:24 am  | 16/10/2023, 1:02:04 pm   |
 | Aderir ao Programa de Afiliados                 | 17/10/2023, 3:50:23 am  | 17/10/2023, 3:50:22 am   |
-| Cómo Unirse al Programa de Afiliados            | 17/10/2023, 3:50:23 am  | 17/10/2023, 3:50:22 am   |
 
 
 ### languages-on-twitch
@@ -2848,16 +2848,16 @@ https://help.twitch.tv/s/article/languages-on-twitch
 ### leaderboards-guide
 https://help.twitch.tv/s/article/leaderboards-guide
 
-| Title                          | Last Modified           | Created                  |
-|--------------------------------|-------------------------|--------------------------|
-| Liderlik Sıralamaları Rehberi  | 04/11/2022, 8:02:33 pm  | 27/10/2022, 11:23:43 am  |
-| Guida alle classifiche         | 03/11/2022, 6:05:02 pm  | 27/10/2022, 11:23:43 am  |
-| Guía de tablas de puntuaciones | 03/11/2022, 2:02:03 am  | 27/10/2022, 11:23:43 am  |
-| Guía de rankings               | 03/11/2022, 2:01:31 am  | 27/10/2022, 11:23:43 am  |
-| Guia de Leaderboards           | 03/11/2022, 1:58:32 am  | 27/10/2022, 11:23:43 am  |
-| Guide des classements          | 03/11/2022, 1:47:02 am  | 27/10/2022, 11:23:43 am  |
-| Leitfaden zu Ranglisten        | 03/11/2022, 1:43:02 am  | 27/10/2022, 11:23:43 am  |
-| Leaderboards Guide             | 27/10/2022, 11:23:23 am | 27/10/2022, 11:22:48 am  |
+| Title                          | Last Modified          | Created                 |
+|--------------------------------|------------------------|-------------------------|
+| Guia de Leaderboards           | 25/10/2023, 5:49:54 am | 25/10/2023, 5:49:53 am  |
+| Guida alle classifiche         | 25/10/2023, 5:49:54 am | 25/10/2023, 5:49:53 am  |
+| Guide des classements          | 25/10/2023, 5:49:54 am | 25/10/2023, 5:49:53 am  |
+| Guía de rankings               | 25/10/2023, 5:49:54 am | 25/10/2023, 5:49:53 am  |
+| Guía de tablas de puntuaciones | 25/10/2023, 5:49:54 am | 25/10/2023, 5:49:53 am  |
+| Leaderboards Guide             | 25/10/2023, 5:49:54 am | 25/10/2023, 3:42:06 am  |
+| Leitfaden zu Ranglisten        | 25/10/2023, 5:49:54 am | 25/10/2023, 5:49:53 am  |
+| Liderlik Sıralamaları Rehberi  | 25/10/2023, 5:49:54 am | 25/10/2023, 5:49:53 am  |
 
 
 ### lifetime-subscriber-guide-for-partners
@@ -3664,13 +3664,13 @@ https://help.twitch.tv/s/article/revenue
 
 | Title                   | Last Modified           | Created                  |
 |-------------------------|-------------------------|--------------------------|
+| Analíticas de ganancias | 25/10/2023, 2:24:45 am  | 01/07/2023, 11:56:05 am  |
+| Análisis de ingresos    | 25/10/2023, 0:30:19 am  | 01/07/2023, 11:56:05 am  |
 | Analiza zarobków        | 23/10/2023, 9:02:21 pm  | 01/07/2023, 11:56:05 am  |
 | Analysen zu Einnahmen   | 23/10/2023, 7:08:43 pm  | 01/07/2023, 11:56:05 am  |
 | Analitica guadagni      | 23/10/2023, 6:07:26 pm  | 01/07/2023, 11:56:05 am  |
 | Analytics de renda      | 20/10/2023, 4:37:43 am  | 01/07/2023, 11:56:05 am  |
 | Gelir Analizi           | 18/10/2023, 8:03:55 am  | 01/07/2023, 11:56:05 am  |
-| Analíticas de ganancias | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
-| Análisis de ingresos    | 01/07/2023, 11:55:31 am | 01/07/2023, 11:55:30 am  |
 | Earnings Analytics      | 01/07/2023, 11:55:30 am | 01/07/2023, 11:55:11 am  |
 
 
