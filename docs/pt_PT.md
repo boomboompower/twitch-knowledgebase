@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| How To Use Automod                                       | 25/10/2023, 4:50:32 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_PT)                                        |
 | Twitch Affiliate Program Faq                             | 17/10/2023, 3:50:30 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)                              |
 | Joining The Affiliate Program                            | 17/10/2023, 3:50:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)                             |
 | Achievements                                             | 14/10/2023, 4:00:12 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                                              |
@@ -13,7 +14,6 @@
 | Watching Twitch On Android Devices                       | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=pt_PT)                        |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 10/10/2023, 6:23:56 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)  |
 | Channel Analytics                                        | 21/09/2023, 6:40:55 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_PT)                                         |
-| Twitch Turbo Guide                                       | 09/09/2023, 4:30:59 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                                        |
 
 
 

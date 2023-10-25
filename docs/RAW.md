@@ -7,13 +7,13 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| simulcasting-guidelines                                       | 25/10/2023, 10:35:02 pm | 21/10/2023, 2:20:54 pm  | [Details](#simulcasting-guidelines)                                        |
+| dac7-interview                                                | 25/10/2023, 10:27:07 pm | 21/10/2023, 5:28:11 am  | [Details](#dac7-interview)                                                 |
 | leaderboards-guide                                            | 25/10/2023, 5:49:54 am  | 25/10/2023, 5:49:53 am  | [Details](#leaderboards-guide)                                             |
 | how-to-use-automod                                            | 25/10/2023, 4:50:34 am  | 14/10/2023, 10:50:37 am | [Details](#how-to-use-automod)                                             |
 | revenue                                                       | 25/10/2023, 2:24:45 am  | 01/07/2023, 11:56:05 am | [Details](#revenue)                                                        |
 | joining-the-affiliate-program                                 | 25/10/2023, 2:24:40 am  | 25/10/2023, 2:24:35 am  | [Details](#joining-the-affiliate-program)                                  |
 | twitch-affiliate-program-faq                                  | 23/10/2023, 10:44:09 pm | 23/10/2023, 10:44:07 pm | [Details](#twitch-affiliate-program-faq)                                   |
-| simulcasting-guidelines                                       | 21/10/2023, 5:44:14 am  | 21/10/2023, 5:44:14 am  | [Details](#simulcasting-guidelines)                                        |
-| dac7-interview                                                | 21/10/2023, 5:24:32 am  | 21/10/2023, 5:24:32 am  | [Details](#dac7-interview)                                                 |
 | guest-star-getting-started                                    | 21/10/2023, 3:10:02 am  | 09/05/2023, 7:40:20 am  | [Details](#guest-star-getting-started)                                     |
 | stream-together-guest-guide                                   | 21/10/2023, 3:06:44 am  | 14/10/2023, 2:03:09 pm  | [Details](#stream-together-guest-guide)                                    |
 | guest-star-reporting                                          | 21/10/2023, 3:02:35 am  | 21/10/2023, 3:02:34 am  | [Details](#guest-star-reporting)                                           |
@@ -1427,16 +1427,16 @@ https://help.twitch.tv/s/article/custom-bit-badges-guide
 ### dac7-interview
 https://help.twitch.tv/s/article/dac7-interview
 
-| Title                                            | Last Modified          | Created                 |
-|--------------------------------------------------|------------------------|-------------------------|
-| Ausfüllen deines DAC7-Interviews                 | 21/10/2023, 5:24:32 am | 21/10/2023, 5:24:32 am  |
-| Compilazione del questionario DAC7               | 21/10/2023, 5:24:32 am | 21/10/2023, 5:24:32 am  |
-| Completar el cuestionario de datos fiscales DAC7 | 21/10/2023, 5:24:32 am | 21/10/2023, 5:24:32 am  |
-| Completing Your DAC7 Interview                   | 21/10/2023, 5:24:32 am | 21/10/2023, 5:24:14 am  |
-| Cuestionario DAC7                                | 21/10/2023, 5:24:32 am | 21/10/2023, 5:24:32 am  |
-| DAC7 Beyannamesinin Doldurulması                 | 21/10/2023, 5:24:32 am | 21/10/2023, 5:24:32 am  |
-| DAC7 신고서 작성하기                                    | 21/10/2023, 5:24:32 am | 21/10/2023, 5:24:32 am  |
-| DAC7インタビューを完了する                                  | 21/10/2023, 5:24:32 am | 21/10/2023, 5:24:32 am  |
+| Title                                            | Last Modified           | Created                 |
+|--------------------------------------------------|-------------------------|-------------------------|
+| Cuestionario DAC7                                | 25/10/2023, 10:27:07 pm | 21/10/2023, 5:28:11 am  |
+| DAC7 Beyannamesinin Doldurulması                 | 25/10/2023, 8:54:06 pm  | 21/10/2023, 5:28:11 am  |
+| DAC7インタビューを完了する                                  | 25/10/2023, 7:44:05 pm  | 21/10/2023, 5:28:11 am  |
+| Completar el cuestionario de datos fiscales DAC7 | 25/10/2023, 7:14:04 pm  | 21/10/2023, 5:28:11 am  |
+| Compilazione del questionario DAC7               | 25/10/2023, 6:46:06 pm  | 21/10/2023, 5:28:11 am  |
+| DAC7 신고서 작성하기                                    | 25/10/2023, 4:38:05 pm  | 21/10/2023, 5:28:11 am  |
+| Ausfüllen deines DAC7-Interviews                 | 21/10/2023, 5:24:32 am  | 21/10/2023, 5:24:32 am  |
+| Completing Your DAC7 Interview                   | 21/10/2023, 5:24:32 am  | 21/10/2023, 5:24:14 am  |
 
 
 ### date-of-birth-changes
@@ -3781,14 +3781,14 @@ https://help.twitch.tv/s/article/shoutouts
 ### simulcasting-guidelines
 https://help.twitch.tv/s/article/simulcasting-guidelines
 
-| Title                                                           | Last Modified          | Created                 |
-|-----------------------------------------------------------------|------------------------|-------------------------|
-| Directrices de streaming simultáneo                             | 21/10/2023, 5:44:14 am | 21/10/2023, 5:44:14 am  |
-| Directrices para la transmisión simultánea                      | 21/10/2023, 5:44:14 am | 21/10/2023, 5:44:14 am  |
-| Diretrizes para Transmissões Simultâneas                        | 21/10/2023, 5:44:14 am | 21/10/2023, 5:44:14 am  |
-| Eş Zamanlı Yayın İlkeleri                                       | 21/10/2023, 5:44:14 am | 21/10/2023, 5:44:14 am  |
-| Lignes de conduite de diffusion en simultané                    | 21/10/2023, 5:44:14 am | 21/10/2023, 5:44:14 am  |
-| Linee guida per le trasmissioni in diretta streaming simultanee | 21/10/2023, 5:44:14 am | 21/10/2023, 5:44:14 am  |
+| Title                                                           | Last Modified           | Created                 |
+|-----------------------------------------------------------------|-------------------------|-------------------------|
+| Directrices de streaming simultáneo                             | 25/10/2023, 10:35:02 pm | 21/10/2023, 2:20:54 pm  |
+| Directrices para la transmisión simultánea                      | 21/10/2023, 5:44:14 am  | 21/10/2023, 5:44:14 am  |
+| Diretrizes para Transmissões Simultâneas                        | 21/10/2023, 5:44:14 am  | 21/10/2023, 5:44:14 am  |
+| Eş Zamanlı Yayın İlkeleri                                       | 21/10/2023, 5:44:14 am  | 21/10/2023, 5:44:14 am  |
+| Lignes de conduite de diffusion en simultané                    | 21/10/2023, 5:44:14 am  | 21/10/2023, 5:44:14 am  |
+| Linee guida per le trasmissioni in diretta streaming simultanee | 21/10/2023, 5:44:14 am  | 21/10/2023, 5:44:14 am  |
 
 
 ### smart-notification-setting

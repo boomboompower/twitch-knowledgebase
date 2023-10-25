@@ -8,7 +8,6 @@
 |------------------------------------|---------------------------|------------------------------------------------------------------------------------------|
 | How To Manage Harassment In Chat   | 12/10/2023, 4:00:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=hu)    |
 | Watching Twitch On Android Devices | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=hu)  |
-| Gift Subscriptions                 | 08/09/2023, 9:56:46 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=hu)                  |
 
 
 

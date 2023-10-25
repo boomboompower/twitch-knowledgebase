@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| How To Use Automod                                            | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=tr)                                             |
 | Guest Star Getting Started                                    | 21/10/2023, 3:08:44 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=tr)                                     |
 | Stream Together Guest Guide                                   | 21/10/2023, 3:07:03 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=tr)                                    |
 | Guest Star Reporting                                          | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=tr)                                           |
@@ -45,7 +46,6 @@
 | Disconnect Protection                                         | 12/09/2023, 6:14:49 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=tr)                                          |
 | Subscription Cancellation Reasons                             | 12/09/2023, 6:12:32 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=tr)                              |
 | Twitch Studio Faq                                             | 12/09/2023, 4:03:13 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=tr)                                              |
-| Twitch Turbo Guide                                            | 12/09/2023, 4:02:47 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=tr)                                             |
 
 
 
