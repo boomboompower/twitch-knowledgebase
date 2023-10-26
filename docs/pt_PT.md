@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Recommended Software For Broadcasting                    | 26/10/2023, 10:41:32 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=pt_PT)                     |
 | How To Use Automod                                       | 25/10/2023, 4:50:32 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_PT)                                        |
 | Twitch Affiliate Program Faq                             | 17/10/2023, 3:50:30 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)                              |
 | Joining The Affiliate Program                            | 17/10/2023, 3:50:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)                             |

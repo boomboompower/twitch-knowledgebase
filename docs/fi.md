@@ -4,10 +4,11 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                     |
-|------------------------------------|---------------------------|------------------------------------------------------------------------------------------|
-| How To Manage Harassment In Chat   | 12/10/2023, 4:00:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fi)    |
-| Watching Twitch On Android Devices | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=fi)  |
+| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
+|---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Recommended Software For Broadcasting | 26/10/2023, 10:41:32 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=fi)  |
+| How To Manage Harassment In Chat      | 12/10/2023, 4:00:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fi)       |
+| Watching Twitch On Android Devices    | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=fi)     |
 
 
 

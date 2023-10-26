@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Getting Started Twitch Studio                                 | 26/10/2023, 10:49:43 am   | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=zh_TW)                                  |
+| Twitch Studio Mac Faq                                         | 26/10/2023, 10:49:43 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=zh_TW)                                          |
+| Recommended Software For Broadcasting                         | 26/10/2023, 10:41:35 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=zh_TW)                          |
 | How To Use Automod                                            | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=zh_TW)                                             |
 | Joining The Affiliate Program                                 | 23/10/2023, 11:36:20 am   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)                                  |
 | Twitch Affiliate Program Faq                                  | 23/10/2023, 11:36:12 am   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                                   |
@@ -45,7 +48,6 @@
 | Stream Summary                                                | 12/09/2023, 6:13:24 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=zh_TW)                                                 |
 | Disconnect Protection                                         | 12/09/2023, 6:11:39 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=zh_TW)                                          |
 | Subscription Cancellation Reasons                             | 12/09/2023, 6:11:12 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=zh_TW)                              |
-| Twitch Turbo Guide                                            | 12/09/2023, 4:03:42 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                                             |
 
 
 

@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Studio Mac Faq                                         | 26/10/2023, 10:49:43 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ko)                                          |
+| Getting Started Twitch Studio                                 | 26/10/2023, 10:49:42 am   | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=ko)                                  |
+| Recommended Software For Broadcasting                         | 26/10/2023, 10:41:34 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ko)                          |
 | How To Use Automod                                            | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ko)                                             |
 | Twitch Affiliate Program Faq                                  | 23/10/2023, 1:45:52 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ko)                                   |
 | Joining The Affiliate Program                                 | 23/10/2023, 1:45:36 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ko)                                  |
@@ -44,7 +47,6 @@
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:16:48 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=ko)  |
 | Disconnect Protection                                         | 12/09/2023, 6:14:44 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=ko)                                          |
 | How To Use Raids                                              | 12/09/2023, 6:11:56 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ko)                                               |
-| Subscription Cancellation Reasons                             | 12/09/2023, 6:09:12 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ko)                              |
 
 
 

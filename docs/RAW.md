@@ -7,12 +7,12 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| simulcasting-guidelines                                       | 26/10/2023, 10:11:06 pm | 21/10/2023, 2:20:54 pm  | [Details](#simulcasting-guidelines)                                        |
 | twitch-studio-mac-faq                                         | 26/10/2023, 10:49:43 am | 26/10/2023, 10:49:43 am | [Details](#twitch-studio-mac-faq)                                          |
 | getting-started-twitch-studio                                 | 26/10/2023, 10:49:42 am | 12/09/2023, 4:51:26 am  | [Details](#getting-started-twitch-studio)                                  |
 | recommended-software-for-broadcasting                         | 26/10/2023, 10:41:34 am | 12/09/2023, 4:48:45 am  | [Details](#recommended-software-for-broadcasting)                          |
 | bonus-sub-benefits                                            | 26/10/2023, 4:59:19 am  | 11/10/2023, 10:45:07 am | [Details](#bonus-sub-benefits)                                             |
 | dac7-interview                                                | 26/10/2023, 0:53:37 am  | 21/10/2023, 5:28:11 am  | [Details](#dac7-interview)                                                 |
-| simulcasting-guidelines                                       | 25/10/2023, 10:35:02 pm | 21/10/2023, 2:20:54 pm  | [Details](#simulcasting-guidelines)                                        |
 | leaderboards-guide                                            | 25/10/2023, 5:49:54 am  | 25/10/2023, 5:49:53 am  | [Details](#leaderboards-guide)                                             |
 | how-to-use-automod                                            | 25/10/2023, 4:50:34 am  | 14/10/2023, 10:50:37 am | [Details](#how-to-use-automod)                                             |
 | revenue                                                       | 25/10/2023, 2:24:45 am  | 01/07/2023, 11:56:05 am | [Details](#revenue)                                                        |
@@ -1528,6 +1528,7 @@ https://help.twitch.tv/s/article/discovery
 | Découverte     | 28/07/2023, 3:26:04 am | 14/07/2023, 7:07:58 am  |
 | Entdecken      | 28/07/2023, 3:26:04 am | 21/07/2023, 0:21:35 am  |
 | Keşif          | 28/07/2023, 3:26:04 am | 21/07/2023, 0:21:35 am  |
+| Odkrywaj       | 28/07/2023, 3:26:04 am | 14/07/2023, 7:07:58 am  |
 
 
 ### display-names-on-twitch
@@ -1986,7 +1987,6 @@ https://help.twitch.tv/s/article/guest-star-faqs
 | Domande frequenti su Guest Star              | 21/10/2023, 3:02:11 am | 21/10/2023, 3:02:11 am  |
 | FAQ de Guest Star                            | 21/10/2023, 3:02:11 am | 21/10/2023, 3:02:11 am  |
 | FAQs zu Guest Star                           | 21/10/2023, 3:02:11 am | 21/10/2023, 3:02:11 am  |
-| Konuk Yıldız hakkında SSS                    | 21/10/2023, 3:02:11 am | 21/10/2023, 3:02:11 am  |
 
 
 ### guest-star-getting-started
@@ -1999,7 +1999,6 @@ https://help.twitch.tv/s/article/guest-star-getting-started
 | Erste Schritte mit Guest Star        | 21/10/2023, 3:08:44 am | 21/10/2023, 3:08:43 am  |
 | Introducción a Estrella Invitada     | 21/10/2023, 3:08:44 am | 21/10/2023, 3:08:43 am  |
 | Introducción a Guest Star            | 21/10/2023, 3:08:44 am | 21/10/2023, 3:08:43 am  |
-| Konuk Yıldız - Başlarken             | 21/10/2023, 3:08:44 am | 21/10/2023, 3:08:43 am  |
 
 
 ### guest-star-mod-view
@@ -3127,6 +3126,7 @@ https://help.twitch.tv/s/article/mission-based-drops
 | Como descobrir e resgatar drops na Twitch           | 19/10/2023, 3:00:53 am | 19/10/2023, 3:00:51 am  |
 | Cómo descubrir y reclamar Drops en Twitch           | 19/10/2023, 3:00:53 am | 19/10/2023, 3:00:51 am  |
 | Cómo descubrir y reclamar Drops en Twitch           | 19/10/2023, 3:00:53 am | 19/10/2023, 3:00:51 am  |
+| Odkrywanie i odbieranie dropów na Twitchu           | 19/10/2023, 3:00:53 am | 19/10/2023, 3:00:51 am  |
 
 
 ### mobile-creator-mode
@@ -3792,12 +3792,12 @@ https://help.twitch.tv/s/article/simulcasting-guidelines
 
 | Title                                                           | Last Modified           | Created                 |
 |-----------------------------------------------------------------|-------------------------|-------------------------|
+| Directrices para la transmisión simultánea                      | 26/10/2023, 10:11:06 pm | 21/10/2023, 2:20:54 pm  |
+| Lignes de conduite de diffusion en simultané                    | 26/10/2023, 9:44:02 pm  | 21/10/2023, 2:20:54 pm  |
+| Eş Zamanlı Yayın İlkeleri                                       | 26/10/2023, 9:32:02 pm  | 21/10/2023, 2:20:54 pm  |
+| Linee guida per le trasmissioni in diretta streaming simultanee | 26/10/2023, 6:21:35 pm  | 21/10/2023, 2:20:54 pm  |
+| Diretrizes para Transmissões Simultâneas                        | 26/10/2023, 0:17:32 pm  | 21/10/2023, 2:20:54 pm  |
 | Directrices de streaming simultáneo                             | 25/10/2023, 10:35:02 pm | 21/10/2023, 2:20:54 pm  |
-| Directrices para la transmisión simultánea                      | 21/10/2023, 5:44:14 am  | 21/10/2023, 5:44:14 am  |
-| Diretrizes para Transmissões Simultâneas                        | 21/10/2023, 5:44:14 am  | 21/10/2023, 5:44:14 am  |
-| Eş Zamanlı Yayın İlkeleri                                       | 21/10/2023, 5:44:14 am  | 21/10/2023, 5:44:14 am  |
-| Lignes de conduite de diffusion en simultané                    | 21/10/2023, 5:44:14 am  | 21/10/2023, 5:44:14 am  |
-| Linee guida per le trasmissioni in diretta streaming simultanee | 21/10/2023, 5:44:14 am  | 21/10/2023, 5:44:14 am  |
 
 
 ### smart-notification-setting

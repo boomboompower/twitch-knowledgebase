@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Studio Mac Faq                                         | 26/10/2023, 10:49:43 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ja)                                          |
+| Getting Started Twitch Studio                                 | 26/10/2023, 10:49:42 am   | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=ja)                                  |
+| Recommended Software For Broadcasting                         | 26/10/2023, 10:41:34 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ja)                          |
 | How To Use Automod                                            | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ja)                                             |
 | Twitch Affiliate Program Faq                                  | 23/10/2023, 2:49:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                                   |
 | Joining The Affiliate Program                                 | 23/10/2023, 2:49:05 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ja)                                  |
@@ -35,7 +38,6 @@
 | Mod View                                                      | 19/09/2023, 10:12:03 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                                       |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:43 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ja)                                     |
 | Subpoint Vs Subcount                                          | 13/09/2023, 7:06:07 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ja)                                           |
-| Twitch Studio Mac Faq                                         | 12/09/2023, 11:03:58 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ja)                                          |
 | Hindsight 2020                                                | 12/09/2023, 6:27:07 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=ja)                                                 |
 | Channel Points Faq                                            | 12/09/2023, 6:26:45 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ja)                                             |
 | Guest Star Audio                                              | 12/09/2023, 6:23:44 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=ja)                                               |
@@ -45,7 +47,6 @@
 | Subscription Cancellation Reasons                             | 12/09/2023, 6:14:31 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ja)                              |
 | Disconnect Protection                                         | 12/09/2023, 6:13:21 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=ja)                                          |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:11:43 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=ja)  |
-| Twitch Turbo Guide                                            | 12/09/2023, 4:03:12 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                                             |
 
 
 

@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Twitch Studio Mac Faq                                         | 26/10/2023, 10:49:43 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=pt_BR)                                          |
+| Getting Started Twitch Studio                                 | 26/10/2023, 10:49:42 am   | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=pt_BR)                                  |
+| Recommended Software For Broadcasting                         | 26/10/2023, 10:41:34 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=pt_BR)                          |
 | How To Use Automod                                            | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_BR)                                             |
 | Guest Star Getting Started                                    | 21/10/2023, 3:08:44 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=pt_BR)                                     |
 | Stream Together Guest Guide                                   | 21/10/2023, 3:06:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=pt_BR)                                    |
@@ -25,7 +28,6 @@
 | Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=pt_BR)                                        |
 | Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=pt_BR)                             |
 | Brand Surveys                                                 | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=pt_BR)                                                  |
-| Twitch Studio Mac Faq                                         | 06/10/2023, 4:35:36 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=pt_BR)                                          |
 | Twitch Studio Faq                                             | 06/10/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=pt_BR)                                              |
 | Experiments                                                   | 05/10/2023, 4:02:09 am    | [Link](https://help.twitch.tv/s/article/experiments?language=pt_BR)                                                    |
 | Broadcasting Guidelines                                       | 29/09/2023, 11:52:37 pm   | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=pt_BR)                                        |
@@ -46,7 +48,6 @@
 | Disconnect Protection                                         | 12/09/2023, 6:16:53 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=pt_BR)                                          |
 | How To Use Raids                                              | 12/09/2023, 6:16:07 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=pt_BR)                                               |
 | Subscription Cancellation Reasons                             | 12/09/2023, 6:16:03 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=pt_BR)                              |
-| Twitch Turbo Guide                                            | 12/09/2023, 4:03:26 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_BR)                                             |
 
 
 

@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Studio Mac Faq                                         | 26/10/2023, 10:49:43 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ru)                                          |
+| Getting Started Twitch Studio                                 | 26/10/2023, 10:49:42 am   | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=ru)                                  |
+| Recommended Software For Broadcasting                         | 26/10/2023, 10:41:34 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ru)                          |
 | How To Use Automod                                            | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ru)                                             |
 | Joining The Affiliate Program                                 | 25/10/2023, 1:20:12 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ru)                                  |
 | Twitch Affiliate Program Faq                                  | 25/10/2023, 1:20:09 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ru)                                   |

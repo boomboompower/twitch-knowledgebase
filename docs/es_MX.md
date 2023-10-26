@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Twitch Studio Mac Faq                                         | 26/10/2023, 10:49:43 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=es_MX)                                          |
+| Getting Started Twitch Studio                                 | 26/10/2023, 10:49:42 am   | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=es_MX)                                  |
+| Recommended Software For Broadcasting                         | 26/10/2023, 10:41:34 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es_MX)                          |
 | How To Use Automod                                            | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es_MX)                                             |
 | Twitch Affiliate Program Faq                                  | 25/10/2023, 2:24:41 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                                   |
 | Joining The Affiliate Program                                 | 25/10/2023, 2:24:40 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                                  |
@@ -35,7 +38,6 @@
 | Ban Evasion                                                   | 19/09/2023, 7:57:35 pm    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=es_MX)                                                    |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:38 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                                     |
 | Subpoint Vs Subcount                                          | 13/09/2023, 7:06:07 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=es_MX)                                           |
-| Twitch Studio Mac Faq                                         | 12/09/2023, 11:03:56 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=es_MX)                                          |
 | Channel Points Faq                                            | 12/09/2023, 6:26:33 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=es_MX)                                             |
 | Guest Star Audio                                              | 12/09/2023, 6:22:19 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=es_MX)                                               |
 | Languages On Twitch                                           | 12/09/2023, 6:19:59 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es_MX)                                            |
@@ -45,7 +47,6 @@
 | Stream Summary                                                | 12/09/2023, 6:16:30 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es_MX)                                                 |
 | Disconnect Protection                                         | 12/09/2023, 6:12:26 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=es_MX)                                          |
 | Subscription Cancellation Reasons                             | 12/09/2023, 6:12:23 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=es_MX)                              |
-| Twitch Turbo Guide                                            | 12/09/2023, 4:03:41 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es_MX)                                             |
 
 
 

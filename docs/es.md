@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Studio Mac Faq                                         | 26/10/2023, 10:49:43 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=es)                                          |
+| Getting Started Twitch Studio                                 | 26/10/2023, 10:49:42 am   | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=es)                                  |
+| Recommended Software For Broadcasting                         | 26/10/2023, 10:41:34 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es)                          |
 | How To Use Automod                                            | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es)                                             |
 | Twitch Affiliate Program Faq                                  | 25/10/2023, 0:30:07 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                                   |
 | Joining The Affiliate Program                                 | 25/10/2023, 0:30:07 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es)                                  |
@@ -35,7 +38,6 @@
 | Mod View                                                      | 19/09/2023, 10:10:38 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=es)                                                       |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:52 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es)                                     |
 | Subpoint Vs Subcount                                          | 13/09/2023, 7:06:06 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=es)                                           |
-| Twitch Studio Mac Faq                                         | 12/09/2023, 11:03:56 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=es)                                          |
 | Hindsight 2020                                                | 12/09/2023, 6:27:14 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=es)                                                 |
 | Guest Star Audio                                              | 12/09/2023, 6:23:18 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=es)                                               |
 | Languages On Twitch                                           | 12/09/2023, 6:21:55 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es)                                            |
@@ -44,8 +46,6 @@
 | Stream Summary                                                | 12/09/2023, 6:12:19 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es)                                                 |
 | How To Use Raids                                              | 12/09/2023, 6:12:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=es)                                               |
 | Disconnect Protection                                         | 12/09/2023, 6:11:28 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=es)                                          |
-| Subscription Cancellation Reasons                             | 12/09/2023, 6:09:13 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=es)                              |
-| Twitch Turbo Guide                                            | 12/09/2023, 4:03:25 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es)                                             |
 
 
 
