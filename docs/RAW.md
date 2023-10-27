@@ -7,6 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| guest-star-getting-started                                    | 27/10/2023, 9:19:03 am  | 12/09/2023, 6:14:33 am  | [Details](#guest-star-getting-started)                                     |
+| stream-together-guest-guide                                   | 27/10/2023, 9:06:03 am  | 27/10/2023, 9:06:01 am  | [Details](#stream-together-guest-guide)                                    |
+| stream-together-host-guide                                    | 27/10/2023, 9:06:03 am  | 14/10/2023, 2:04:34 pm  | [Details](#stream-together-host-guide)                                     |
+| guest-star-faqs                                               | 27/10/2023, 0:52:35 am  | 14/10/2023, 2:01:47 pm  | [Details](#guest-star-faqs)                                                |
 | simulcasting-guidelines                                       | 26/10/2023, 10:11:06 pm | 21/10/2023, 2:20:54 pm  | [Details](#simulcasting-guidelines)                                        |
 | twitch-studio-mac-faq                                         | 26/10/2023, 10:49:43 am | 26/10/2023, 10:49:43 am | [Details](#twitch-studio-mac-faq)                                          |
 | getting-started-twitch-studio                                 | 26/10/2023, 10:49:42 am | 12/09/2023, 4:51:26 am  | [Details](#getting-started-twitch-studio)                                  |
@@ -18,11 +22,7 @@ Language data is not included in the API. All page links will not have a languag
 | revenue                                                       | 25/10/2023, 2:24:45 am  | 01/07/2023, 11:56:05 am | [Details](#revenue)                                                        |
 | joining-the-affiliate-program                                 | 25/10/2023, 2:24:40 am  | 25/10/2023, 2:24:35 am  | [Details](#joining-the-affiliate-program)                                  |
 | twitch-affiliate-program-faq                                  | 23/10/2023, 10:44:09 pm | 23/10/2023, 10:44:07 pm | [Details](#twitch-affiliate-program-faq)                                   |
-| guest-star-getting-started                                    | 21/10/2023, 3:10:02 am  | 09/05/2023, 7:40:20 am  | [Details](#guest-star-getting-started)                                     |
-| stream-together-guest-guide                                   | 21/10/2023, 3:06:44 am  | 14/10/2023, 2:03:09 pm  | [Details](#stream-together-guest-guide)                                    |
 | guest-star-reporting                                          | 21/10/2023, 3:02:35 am  | 21/10/2023, 3:02:34 am  | [Details](#guest-star-reporting)                                           |
-| stream-together-host-guide                                    | 21/10/2023, 3:02:22 am  | 21/10/2023, 3:02:22 am  | [Details](#stream-together-host-guide)                                     |
-| guest-star-faqs                                               | 21/10/2023, 3:02:11 am  | 21/10/2023, 3:02:11 am  | [Details](#guest-star-faqs)                                                |
 | guest-star                                                    | 21/10/2023, 3:01:15 am  | 21/10/2023, 3:01:14 am  | [Details](#guest-star)                                                     |
 | featured-clips                                                | 20/10/2023, 10:55:09 pm | 20/10/2023, 10:55:07 pm | [Details](#featured-clips)                                                 |
 | mission-based-drops                                           | 19/10/2023, 3:00:54 am  | 30/09/2023, 4:42:18 am  | [Details](#mission-based-drops)                                            |
@@ -1981,24 +1981,23 @@ https://help.twitch.tv/s/article/guest-star-audio
 ### guest-star-faqs
 https://help.twitch.tv/s/article/guest-star-faqs
 
-| Title                                        | Last Modified          | Created                 |
-|----------------------------------------------|------------------------|-------------------------|
-| Często zadawane pytania dotyczące Guest Star | 21/10/2023, 3:02:11 am | 21/10/2023, 3:02:11 am  |
-| Domande frequenti su Guest Star              | 21/10/2023, 3:02:11 am | 21/10/2023, 3:02:11 am  |
-| FAQ de Guest Star                            | 21/10/2023, 3:02:11 am | 21/10/2023, 3:02:11 am  |
-| FAQs zu Guest Star                           | 21/10/2023, 3:02:11 am | 21/10/2023, 3:02:11 am  |
+| Title                         | Last Modified           | Created                 |
+|-------------------------------|-------------------------|-------------------------|
+| FAQ de Streamer ensemble      | 27/10/2023, 0:52:35 am  | 14/10/2023, 2:01:47 pm  |
+| FAQ sullo streaming congiunto | 26/10/2023, 11:45:34 pm | 14/10/2023, 2:01:47 pm  |
+| FAQs zu Guest Star            | 21/10/2023, 3:02:11 am  | 21/10/2023, 3:02:11 am  |
 
 
 ### guest-star-getting-started
 https://help.twitch.tv/s/article/guest-star-getting-started
 
-| Title                                | Last Modified          | Created                 |
-|--------------------------------------|------------------------|-------------------------|
-| Getting Started with Stream Together | 21/10/2023, 3:10:02 am | 09/05/2023, 7:40:20 am  |
-| Começando a usar o Guest Star        | 21/10/2023, 3:08:44 am | 21/10/2023, 3:08:43 am  |
-| Erste Schritte mit Guest Star        | 21/10/2023, 3:08:44 am | 21/10/2023, 3:08:43 am  |
-| Introducción a Estrella Invitada     | 21/10/2023, 3:08:44 am | 21/10/2023, 3:08:43 am  |
-| Introducción a Guest Star            | 21/10/2023, 3:08:44 am | 21/10/2023, 3:08:43 am  |
+| Title                                | Last Modified           | Created                 |
+|--------------------------------------|-------------------------|-------------------------|
+| Começando a usar o Streamando Juntos | 27/10/2023, 9:19:03 am  | 12/09/2023, 6:14:33 am  |
+| Introducción a Streamear juntos      | 26/10/2023, 11:53:03 pm | 12/09/2023, 6:12:24 am  |
+| Getting Started with Stream Together | 21/10/2023, 3:10:02 am  | 09/05/2023, 7:40:20 am  |
+| Erste Schritte mit Guest Star        | 21/10/2023, 3:08:44 am  | 21/10/2023, 3:08:43 am  |
+| Introducción a Estrella Invitada     | 21/10/2023, 3:08:44 am  | 21/10/2023, 3:08:43 am  |
 
 
 ### guest-star-mod-view
@@ -3871,31 +3870,32 @@ https://help.twitch.tv/s/article/stream-summary
 ### stream-together-guest-guide
 https://help.twitch.tv/s/article/stream-together-guest-guide
 
-| Title                                   | Last Modified          | Created                 |
-|-----------------------------------------|------------------------|-------------------------|
-| Guía de Streamear juntos para invitados | 21/10/2023, 3:06:44 am | 14/10/2023, 2:03:09 pm  |
-| Guía de Streamear juntos para Guests    | 21/10/2023, 3:06:37 am | 14/10/2023, 2:03:09 pm  |
-| Guia do Convidado do Streamando Juntos  | 21/10/2023, 3:06:24 am | 14/10/2023, 2:03:09 pm  |
+| Title                                   | Last Modified           | Created                  |
+|-----------------------------------------|-------------------------|--------------------------|
+| Guia do Convidado do Streamando Juntos  | 27/10/2023, 9:06:03 am  | 27/10/2023, 9:06:01 am   |
+| Guía de Streamear juntos para Guests    | 26/10/2023, 11:56:05 pm | 26/10/2023, 11:56:02 pm  |
+| Guía de Streamear juntos para invitados | 21/10/2023, 3:06:44 am  | 14/10/2023, 2:03:09 pm   |
 
 
 ### stream-together-host-guide
 https://help.twitch.tv/s/article/stream-together-host-guide
 
-| Title                                     | Last Modified          | Created                 |
-|-------------------------------------------|------------------------|-------------------------|
-| Guia do Streamando Juntos para o host     | 21/10/2023, 3:02:22 am | 21/10/2023, 3:02:22 am  |
-| Guía de Streamear juntos para anfitriones | 21/10/2023, 3:02:22 am | 21/10/2023, 3:02:22 am  |
-| Guía de Streamear juntos para Hosts       | 21/10/2023, 3:02:22 am | 21/10/2023, 3:02:22 am  |
+| Title                                     | Last Modified           | Created                 |
+|-------------------------------------------|-------------------------|-------------------------|
+| Guia do Streamando Juntos para o host     | 27/10/2023, 9:06:03 am  | 14/10/2023, 2:04:34 pm  |
+| Guía de Streamear juntos para Hosts       | 26/10/2023, 11:53:05 pm | 14/10/2023, 2:04:34 pm  |
+| Guía de Streamear juntos para anfitriones | 21/10/2023, 3:02:22 am  | 21/10/2023, 3:02:22 am  |
 
 
 ### stream-with-pride
 https://help.twitch.tv/s/article/stream-with-pride
 
-| Title                                     | Last Modified          | Created                 |
-|-------------------------------------------|------------------------|-------------------------|
-| Domande frequenti su Streaming con Pride  | 22/10/2021, 8:54:27 am | 01/07/2020, 6:27:31 pm  |
-| FAQ - Streamez avec Pride                 | 22/10/2021, 8:54:26 am | 01/07/2020, 7:18:31 pm  |
-| FAQs sobre o evento Transmita com Orgulho | 22/10/2021, 8:54:26 am | 01/07/2020, 3:41:31 am  |
+| Title                                                               | Last Modified          | Created                  |
+|---------------------------------------------------------------------|------------------------|--------------------------|
+| Domande frequenti su Streaming con Pride                            | 22/10/2021, 8:54:27 am | 01/07/2020, 6:27:31 pm   |
+| Odpowiedzi na często zadawane pytania dotyczące streamowania z dumą | 22/10/2021, 8:54:27 am | 02/07/2020, 10:30:01 pm  |
+| FAQ - Streamez avec Pride                                           | 22/10/2021, 8:54:26 am | 01/07/2020, 7:18:31 pm   |
+| FAQs sobre o evento Transmita com Orgulho                           | 22/10/2021, 8:54:26 am | 01/07/2020, 3:41:31 am   |
 
 
 ### streamer-community-survey
