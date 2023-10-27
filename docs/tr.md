@@ -6,16 +6,16 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Stream Together Host Guide                                    | 26/10/2023, 10:28:40 pm   | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=tr)                                     |
+| Stream Together Guest Guide                                   | 26/10/2023, 10:28:36 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=tr)                                    |
+| Guest Star Getting Started                                    | 26/10/2023, 10:20:14 pm   | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=tr)                                     |
+| Guest Star Faqs                                               | 26/10/2023, 10:20:11 pm   | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=tr)                                                |
 | Getting Started Twitch Studio                                 | 26/10/2023, 10:49:43 am   | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=tr)                                  |
 | Twitch Studio Mac Faq                                         | 26/10/2023, 10:49:43 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=tr)                                          |
 | Recommended Software For Broadcasting                         | 26/10/2023, 10:41:35 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=tr)                          |
 | Twitch Affiliate Program Faq                                  | 25/10/2023, 7:46:33 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=tr)                                   |
 | How To Use Automod                                            | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=tr)                                             |
-| Guest Star Getting Started                                    | 21/10/2023, 3:08:44 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=tr)                                     |
-| Stream Together Guest Guide                                   | 21/10/2023, 3:07:03 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=tr)                                    |
 | Guest Star Reporting                                          | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=tr)                                           |
-| Stream Together Host Guide                                    | 21/10/2023, 3:02:22 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=tr)                                     |
-| Guest Star Faqs                                               | 21/10/2023, 3:02:11 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=tr)                                                |
 | Guest Star                                                    | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=tr)                                                     |
 | Mission Based Drops                                           | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=tr)                                            |
 | Joining The Affiliate Program                                 | 18/10/2023, 8:03:45 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=tr)                                  |
@@ -46,7 +46,6 @@
 | Stream Summary                                                | 12/09/2023, 6:16:26 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=tr)                                                 |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:15:29 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=tr)  |
 | Disconnect Protection                                         | 12/09/2023, 6:14:49 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=tr)                                          |
-| Subscription Cancellation Reasons                             | 12/09/2023, 6:12:32 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=tr)                              |
 
 
 

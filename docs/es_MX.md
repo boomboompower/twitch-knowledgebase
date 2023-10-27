@@ -6,17 +6,17 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Guest Star Faqs                                               | 26/10/2023, 11:56:13 pm   | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=es_MX)                                                |
+| Stream Together Guest Guide                                   | 26/10/2023, 11:56:05 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=es_MX)                                    |
+| Stream Together Host Guide                                    | 26/10/2023, 11:53:05 pm   | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=es_MX)                                     |
+| Guest Star Getting Started                                    | 26/10/2023, 11:53:03 pm   | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es_MX)                                     |
 | Twitch Studio Mac Faq                                         | 26/10/2023, 10:49:43 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=es_MX)                                          |
 | Getting Started Twitch Studio                                 | 26/10/2023, 10:49:42 am   | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=es_MX)                                  |
 | Recommended Software For Broadcasting                         | 26/10/2023, 10:41:34 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es_MX)                          |
 | How To Use Automod                                            | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es_MX)                                             |
 | Twitch Affiliate Program Faq                                  | 25/10/2023, 2:24:41 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                                   |
 | Joining The Affiliate Program                                 | 25/10/2023, 2:24:40 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                                  |
-| Guest Star Getting Started                                    | 21/10/2023, 3:08:44 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es_MX)                                     |
-| Stream Together Guest Guide                                   | 21/10/2023, 3:06:37 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=es_MX)                                    |
 | Guest Star Reporting                                          | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=es_MX)                                           |
-| Stream Together Host Guide                                    | 21/10/2023, 3:02:22 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=es_MX)                                     |
-| Guest Star Faqs                                               | 21/10/2023, 3:02:11 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=es_MX)                                                |
 | Guest Star                                                    | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=es_MX)                                                     |
 | Mission Based Drops                                           | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                                            |
 | Tips For Applying To The Partner Program                      | 18/10/2023, 10:12:04 pm   | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=es_MX)                       |
@@ -45,8 +45,6 @@
 | How To Use Raids                                              | 12/09/2023, 6:17:31 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=es_MX)                                               |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:16:48 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=es_MX)  |
 | Stream Summary                                                | 12/09/2023, 6:16:30 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es_MX)                                                 |
-| Disconnect Protection                                         | 12/09/2023, 6:12:26 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=es_MX)                                          |
-| Subscription Cancellation Reasons                             | 12/09/2023, 6:12:23 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=es_MX)                              |
 
 
 

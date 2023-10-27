@@ -43,9 +43,6 @@
 | Languages On Twitch                                           | 12/09/2023, 6:21:55 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es)                                            |
 | Channel Points Faq                                            | 12/09/2023, 6:18:02 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=es)                                             |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:17:35 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=es)  |
-| Stream Summary                                                | 12/09/2023, 6:12:19 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es)                                                 |
-| How To Use Raids                                              | 12/09/2023, 6:12:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=es)                                               |
-| Disconnect Protection                                         | 12/09/2023, 6:11:28 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=es)                                          |
 
 
 

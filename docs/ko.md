@@ -46,7 +46,6 @@
 | Languages On Twitch                                           | 12/09/2023, 6:20:25 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ko)                                            |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:16:48 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=ko)  |
 | Disconnect Protection                                         | 12/09/2023, 6:14:44 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=ko)                                          |
-| How To Use Raids                                              | 12/09/2023, 6:11:56 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ko)                                               |
 
 
 

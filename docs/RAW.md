@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| guest-star-getting-started                                    | 27/10/2023, 9:19:03 am  | 12/09/2023, 6:14:33 am  | [Details](#guest-star-getting-started)                                     |
+| guest-star-getting-started                                    | 27/10/2023, 8:59:07 pm  | 12/09/2023, 6:12:53 am  | [Details](#guest-star-getting-started)                                     |
 | stream-together-guest-guide                                   | 27/10/2023, 9:06:03 am  | 27/10/2023, 9:06:01 am  | [Details](#stream-together-guest-guide)                                    |
 | stream-together-host-guide                                    | 27/10/2023, 9:06:03 am  | 14/10/2023, 2:04:34 pm  | [Details](#stream-together-host-guide)                                     |
 | guest-star-faqs                                               | 27/10/2023, 0:52:35 am  | 14/10/2023, 2:01:47 pm  | [Details](#guest-star-faqs)                                                |
@@ -1985,7 +1985,6 @@ https://help.twitch.tv/s/article/guest-star-faqs
 |-------------------------------|-------------------------|-------------------------|
 | FAQ de Streamer ensemble      | 27/10/2023, 0:52:35 am  | 14/10/2023, 2:01:47 pm  |
 | FAQ sullo streaming congiunto | 26/10/2023, 11:45:34 pm | 14/10/2023, 2:01:47 pm  |
-| FAQs zu Guest Star            | 21/10/2023, 3:02:11 am  | 21/10/2023, 3:02:11 am  |
 
 
 ### guest-star-getting-started
@@ -1993,10 +1992,10 @@ https://help.twitch.tv/s/article/guest-star-getting-started
 
 | Title                                | Last Modified           | Created                 |
 |--------------------------------------|-------------------------|-------------------------|
+| Erste Schritte mit Stream Together   | 27/10/2023, 8:59:07 pm  | 12/09/2023, 6:12:53 am  |
 | Começando a usar o Streamando Juntos | 27/10/2023, 9:19:03 am  | 12/09/2023, 6:14:33 am  |
 | Introducción a Streamear juntos      | 26/10/2023, 11:53:03 pm | 12/09/2023, 6:12:24 am  |
 | Getting Started with Stream Together | 21/10/2023, 3:10:02 am  | 09/05/2023, 7:40:20 am  |
-| Erste Schritte mit Guest Star        | 21/10/2023, 3:08:44 am  | 21/10/2023, 3:08:43 am  |
 | Introducción a Estrella Invitada     | 21/10/2023, 3:08:44 am  | 21/10/2023, 3:08:43 am  |
 
 
@@ -2793,14 +2792,15 @@ https://help.twitch.tv/s/article/hype-train-guide
 ### hyper-scape
 https://help.twitch.tv/s/article/hyper-scape
 
-| Title                            | Last Modified          | Created                 |
-|----------------------------------|------------------------|-------------------------|
-| Domande frequenti su Hyper Scape | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
-| Hyper Scape FAQ                  | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
-| Hyper Scape FAQs                 | 22/10/2021, 8:54:27 am | 12/08/2020, 5:48:03 am  |
-| Hyper Scape hakkında SSS         | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:16 am  |
-| FAQ Hyper Scape                  | 22/10/2021, 8:54:26 am | 13/08/2020, 4:50:31 am  |
-| FAQs zu Hyper Scape              | 22/10/2021, 8:54:26 am | 12/08/2020, 5:49:15 am  |
+| Title                                                        | Last Modified          | Created                 |
+|--------------------------------------------------------------|------------------------|-------------------------|
+| Domande frequenti su Hyper Scape                             | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
+| Hyper Scape FAQ                                              | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
+| Hyper Scape FAQs                                             | 22/10/2021, 8:54:27 am | 12/08/2020, 5:48:03 am  |
+| Hyper Scape hakkında SSS                                     | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:16 am  |
+| Odpowiedzi na często zadawane pytania związane z Hyper Scape | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
+| FAQ Hyper Scape                                              | 22/10/2021, 8:54:26 am | 13/08/2020, 4:50:31 am  |
+| FAQs zu Hyper Scape                                          | 22/10/2021, 8:54:26 am | 12/08/2020, 5:49:15 am  |
 
 
 ### ingame-overlay
