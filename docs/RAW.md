@@ -7,17 +7,18 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| guest-star-getting-started                                    | 27/10/2023, 8:59:07 pm  | 12/09/2023, 6:12:53 am  | [Details](#guest-star-getting-started)                                     |
-| stream-together-guest-guide                                   | 27/10/2023, 9:06:03 am  | 27/10/2023, 9:06:01 am  | [Details](#stream-together-guest-guide)                                    |
-| stream-together-host-guide                                    | 27/10/2023, 9:06:03 am  | 14/10/2023, 2:04:34 pm  | [Details](#stream-together-host-guide)                                     |
+| ban-evasion                                                   | 28/10/2023, 5:03:42 am  | 27/10/2023, 4:46:39 am  | [Details](#ban-evasion)                                                    |
+| recommended-software-for-broadcasting                         | 28/10/2023, 5:03:39 am  | 26/10/2023, 10:54:54 am | [Details](#recommended-software-for-broadcasting)                          |
+| getting-started-twitch-studio                                 | 28/10/2023, 5:03:37 am  | 26/10/2023, 10:54:37 am | [Details](#getting-started-twitch-studio)                                  |
+| twitch-studio-mac-faq                                         | 28/10/2023, 4:27:08 am  | 28/10/2023, 4:27:05 am  | [Details](#twitch-studio-mac-faq)                                          |
+| leaderboards-guide                                            | 28/10/2023, 4:24:51 am  | 25/10/2023, 5:49:11 am  | [Details](#leaderboards-guide)                                             |
+| guest-star-getting-started                                    | 27/10/2023, 11:31:07 pm | 12/09/2023, 6:12:52 am  | [Details](#guest-star-getting-started)                                     |
+| stream-together-guest-guide                                   | 27/10/2023, 11:31:03 pm | 27/10/2023, 11:31:01 pm | [Details](#stream-together-guest-guide)                                    |
+| stream-together-host-guide                                    | 27/10/2023, 11:31:03 pm | 14/10/2023, 2:04:34 pm  | [Details](#stream-together-host-guide)                                     |
 | guest-star-faqs                                               | 27/10/2023, 0:52:35 am  | 14/10/2023, 2:01:47 pm  | [Details](#guest-star-faqs)                                                |
 | simulcasting-guidelines                                       | 26/10/2023, 10:11:06 pm | 21/10/2023, 2:20:54 pm  | [Details](#simulcasting-guidelines)                                        |
-| twitch-studio-mac-faq                                         | 26/10/2023, 10:49:43 am | 26/10/2023, 10:49:43 am | [Details](#twitch-studio-mac-faq)                                          |
-| getting-started-twitch-studio                                 | 26/10/2023, 10:49:42 am | 12/09/2023, 4:51:26 am  | [Details](#getting-started-twitch-studio)                                  |
-| recommended-software-for-broadcasting                         | 26/10/2023, 10:41:34 am | 12/09/2023, 4:48:45 am  | [Details](#recommended-software-for-broadcasting)                          |
 | bonus-sub-benefits                                            | 26/10/2023, 4:59:19 am  | 11/10/2023, 10:45:07 am | [Details](#bonus-sub-benefits)                                             |
 | dac7-interview                                                | 26/10/2023, 0:53:37 am  | 21/10/2023, 5:28:11 am  | [Details](#dac7-interview)                                                 |
-| leaderboards-guide                                            | 25/10/2023, 5:49:54 am  | 25/10/2023, 5:49:53 am  | [Details](#leaderboards-guide)                                             |
 | how-to-use-automod                                            | 25/10/2023, 4:50:34 am  | 14/10/2023, 10:50:37 am | [Details](#how-to-use-automod)                                             |
 | revenue                                                       | 25/10/2023, 2:24:45 am  | 01/07/2023, 11:56:05 am | [Details](#revenue)                                                        |
 | joining-the-affiliate-program                                 | 25/10/2023, 2:24:40 am  | 25/10/2023, 2:24:35 am  | [Details](#joining-the-affiliate-program)                                  |
@@ -57,7 +58,6 @@ Language data is not included in the API. All page links will not have a languag
 | bounty-board-program-information-and-faq                      | 23/09/2023, 2:16:34 am  | 12/09/2023, 4:15:15 am  | [Details](#bounty-board-program-information-and-faq)                       |
 | channel-analytics                                             | 21/09/2023, 9:11:38 am  | 21/09/2023, 6:39:29 am  | [Details](#channel-analytics)                                              |
 | how-to-use-clips                                              | 20/09/2023, 7:32:44 am  | 20/09/2023, 7:31:52 am  | [Details](#how-to-use-clips)                                               |
-| ban-evasion                                                   | 20/09/2023, 0:28:33 am  | 15/09/2023, 8:31:51 am  | [Details](#ban-evasion)                                                    |
 | mod-view                                                      | 19/09/2023, 10:15:03 pm | 15/09/2023, 8:30:47 am  | [Details](#mod-view)                                                       |
 | affiliate-onboarding-guide                                    | 19/09/2023, 9:07:52 am  | 19/09/2023, 7:26:14 am  | [Details](#affiliate-onboarding-guide)                                     |
 | subpoint-vs-subcount                                          | 13/09/2023, 7:06:08 am  | 06/09/2023, 10:23:44 am | [Details](#subpoint-vs-subcount)                                           |
@@ -801,15 +801,15 @@ https://help.twitch.tv/s/article/authy-faq
 ### ban-evasion
 https://help.twitch.tv/s/article/ban-evasion
 
-| Title                                                    | Last Modified           | Created                 |
-|----------------------------------------------------------|-------------------------|-------------------------|
-| Comandi Utenti sospetti                                  | 20/09/2023, 0:28:33 am  | 15/09/2023, 8:31:51 am  |
-| Controles para usuários suspeitos                        | 19/09/2023, 10:13:06 pm | 15/09/2023, 8:31:51 am  |
-| Contrôles d'utilisateurs suspects                        | 19/09/2023, 10:11:33 pm | 15/09/2023, 8:31:51 am  |
-| Controles de usuario sospechoso                          | 19/09/2023, 10:10:40 pm | 15/09/2023, 8:31:51 am  |
-| Einstellungen für verdächtige Benutzer                   | 19/09/2023, 10:10:04 pm | 15/09/2023, 8:31:51 am  |
-| Controles de usuarios sospechosos                        | 19/09/2023, 7:57:35 pm  | 15/09/2023, 8:31:51 am  |
-| Korzystanie z funkcji kontroli podejrzanych użytkowników | 19/09/2023, 6:41:33 pm  | 15/09/2023, 8:31:51 am  |
+| Title                                                    | Last Modified          | Created                 |
+|----------------------------------------------------------|------------------------|-------------------------|
+| Contrôles d'utilisateurs suspects                        | 28/10/2023, 5:03:42 am | 27/10/2023, 4:46:39 am  |
+| Controles de usuario sospechoso                          | 28/10/2023, 5:03:40 am | 27/10/2023, 4:46:39 am  |
+| Einstellungen für verdächtige Benutzer                   | 28/10/2023, 5:03:39 am | 27/10/2023, 4:46:39 am  |
+| Comandi Utenti sospetti                                  | 28/10/2023, 5:03:34 am | 27/10/2023, 4:46:39 am  |
+| Korzystanie z funkcji kontroli podejrzanych użytkowników | 28/10/2023, 5:03:34 am | 27/10/2023, 4:46:39 am  |
+| Controles para usuários suspeitos                        | 28/10/2023, 5:03:16 am | 27/10/2023, 4:46:39 am  |
+| Controles de usuarios sospechosos                        | 28/10/2023, 5:03:15 am | 27/10/2023, 4:46:39 am  |
 
 
 ### basic-troubleshooting-tips
@@ -1809,12 +1809,12 @@ https://help.twitch.tv/s/article/geoblocking
 ### getting-started-twitch-studio
 https://help.twitch.tv/s/article/getting-started-twitch-studio
 
-| Title                              | Last Modified           | Created                 |
-|------------------------------------|-------------------------|-------------------------|
-| Bien commencer avec Twitch Studio  | 26/10/2023, 10:49:42 am | 12/09/2023, 4:51:26 am  |
-| Getting Started with Twitch Studio | 26/10/2023, 10:49:42 am | 12/09/2023, 4:50:53 am  |
-| Introdução ao Twitch Studio        | 26/10/2023, 10:49:42 am | 12/09/2023, 4:51:26 am  |
-| Erste Schritte mit Twitch Studio   | 26/10/2023, 10:49:41 am | 12/09/2023, 4:51:26 am  |
+| Title                              | Last Modified           | Created                  |
+|------------------------------------|-------------------------|--------------------------|
+| Introdução ao Twitch Studio        | 28/10/2023, 5:03:37 am  | 26/10/2023, 10:54:37 am  |
+| Bien commencer avec Twitch Studio  | 28/10/2023, 5:03:32 am  | 26/10/2023, 10:54:37 am  |
+| Erste Schritte mit Twitch Studio   | 28/10/2023, 5:03:29 am  | 26/10/2023, 10:54:37 am  |
+| Getting Started with Twitch Studio | 26/10/2023, 10:49:42 am | 12/09/2023, 4:50:53 am   |
 
 
 ### getting-started-with-amazon-associates
@@ -1992,11 +1992,11 @@ https://help.twitch.tv/s/article/guest-star-getting-started
 
 | Title                                | Last Modified           | Created                 |
 |--------------------------------------|-------------------------|-------------------------|
+| Empezar a usar Streamear juntos      | 27/10/2023, 11:31:07 pm | 12/09/2023, 6:12:52 am  |
 | Erste Schritte mit Stream Together   | 27/10/2023, 8:59:07 pm  | 12/09/2023, 6:12:53 am  |
 | Começando a usar o Streamando Juntos | 27/10/2023, 9:19:03 am  | 12/09/2023, 6:14:33 am  |
 | Introducción a Streamear juntos      | 26/10/2023, 11:53:03 pm | 12/09/2023, 6:12:24 am  |
 | Getting Started with Stream Together | 21/10/2023, 3:10:02 am  | 09/05/2023, 7:40:20 am  |
-| Introducción a Estrella Invitada     | 21/10/2023, 3:08:44 am  | 21/10/2023, 3:08:43 am  |
 
 
 ### guest-star-mod-view
@@ -2858,14 +2858,14 @@ https://help.twitch.tv/s/article/leaderboards-guide
 
 | Title                          | Last Modified          | Created                 |
 |--------------------------------|------------------------|-------------------------|
-| Guia de Leaderboards           | 25/10/2023, 5:49:54 am | 25/10/2023, 5:49:53 am  |
-| Guida alle classifiche         | 25/10/2023, 5:49:54 am | 25/10/2023, 5:49:53 am  |
-| Guide des classements          | 25/10/2023, 5:49:54 am | 25/10/2023, 5:49:53 am  |
-| Guía de rankings               | 25/10/2023, 5:49:54 am | 25/10/2023, 5:49:53 am  |
-| Guía de tablas de puntuaciones | 25/10/2023, 5:49:54 am | 25/10/2023, 5:49:53 am  |
+| Guia de Leaderboards           | 28/10/2023, 4:24:51 am | 25/10/2023, 5:49:11 am  |
+| Guide des classements          | 28/10/2023, 4:24:48 am | 25/10/2023, 5:49:11 am  |
+| Leitfaden zu Ranglisten        | 28/10/2023, 4:24:46 am | 25/10/2023, 5:49:11 am  |
+| Guía de tablas de puntuaciones | 28/10/2023, 4:24:43 am | 25/10/2023, 5:49:11 am  |
+| Guida alle classifiche         | 28/10/2023, 4:24:35 am | 25/10/2023, 5:49:11 am  |
+| Guía de rankings               | 28/10/2023, 4:24:33 am | 25/10/2023, 5:49:11 am  |
+| Liderlik Sıralamaları Rehberi  | 28/10/2023, 4:24:32 am | 25/10/2023, 5:49:11 am  |
 | Leaderboards Guide             | 25/10/2023, 5:49:54 am | 25/10/2023, 3:42:06 am  |
-| Leitfaden zu Ranglisten        | 25/10/2023, 5:49:54 am | 25/10/2023, 5:49:53 am  |
-| Liderlik Sıralamaları Rehberi  | 25/10/2023, 5:49:54 am | 25/10/2023, 5:49:53 am  |
 
 
 ### lifetime-subscriber-guide-for-partners
@@ -3593,8 +3593,8 @@ https://help.twitch.tv/s/article/recommended-software-for-broadcasting
 
 | Title                                     | Last Modified           | Created                  |
 |-------------------------------------------|-------------------------|--------------------------|
-| Logiciels recommandés pour la diffusion   | 26/10/2023, 10:41:34 am | 12/09/2023, 4:48:45 am   |
-| Empfohlene Streaming-Software             | 26/10/2023, 10:41:33 am | 12/09/2023, 4:48:45 am   |
+| Logiciels recommandés pour la diffusion   | 28/10/2023, 5:03:39 am  | 26/10/2023, 10:54:54 am  |
+| Empfohlene Streaming-Software             | 28/10/2023, 5:03:10 am  | 26/10/2023, 10:54:54 am  |
 | Anbefalet software til streaming          | 26/10/2023, 10:41:32 am | 26/10/2023, 10:41:29 am  |
 | Doporučený software pro vysílající        | 26/10/2023, 10:41:32 am | 26/10/2023, 10:41:29 am  |
 | Lähetyksiä varten suositellut ohjelmistot | 26/10/2023, 10:41:32 am | 26/10/2023, 10:41:29 am  |
@@ -3872,9 +3872,9 @@ https://help.twitch.tv/s/article/stream-together-guest-guide
 
 | Title                                   | Last Modified           | Created                  |
 |-----------------------------------------|-------------------------|--------------------------|
+| Guía de Streamear juntos para invitados | 27/10/2023, 11:31:03 pm | 27/10/2023, 11:31:01 pm  |
 | Guia do Convidado do Streamando Juntos  | 27/10/2023, 9:06:03 am  | 27/10/2023, 9:06:01 am   |
 | Guía de Streamear juntos para Guests    | 26/10/2023, 11:56:05 pm | 26/10/2023, 11:56:02 pm  |
-| Guía de Streamear juntos para invitados | 21/10/2023, 3:06:44 am  | 14/10/2023, 2:03:09 pm   |
 
 
 ### stream-together-host-guide
@@ -3882,9 +3882,9 @@ https://help.twitch.tv/s/article/stream-together-host-guide
 
 | Title                                     | Last Modified           | Created                 |
 |-------------------------------------------|-------------------------|-------------------------|
+| Guía de Streamear juntos para anfitriones | 27/10/2023, 11:31:03 pm | 14/10/2023, 2:04:34 pm  |
 | Guia do Streamando Juntos para o host     | 27/10/2023, 9:06:03 am  | 14/10/2023, 2:04:34 pm  |
 | Guía de Streamear juntos para Hosts       | 26/10/2023, 11:53:05 pm | 14/10/2023, 2:04:34 pm  |
-| Guía de Streamear juntos para anfitriones | 21/10/2023, 3:02:22 am  | 21/10/2023, 3:02:22 am  |
 
 
 ### stream-with-pride
@@ -4415,14 +4415,14 @@ https://help.twitch.tv/s/article/twitch-studio-faq
 ### twitch-studio-mac-faq
 https://help.twitch.tv/s/article/twitch-studio-mac-faq
 
-| Title                                                                   | Last Modified           | Created                  |
-|-------------------------------------------------------------------------|-------------------------|--------------------------|
-| Beta para Mac do Twitch Studio - Detalhes e perguntas frequentes        | 26/10/2023, 10:49:43 am | 26/10/2023, 10:49:43 am  |
-| Detalles y preguntas frecuentes sobre la beta de Twitch Studio para Mac | 26/10/2023, 10:49:43 am | 26/10/2023, 10:49:43 am  |
-| Dettagli e FAQ sulla beta di Twitch Studio per Mac                      | 26/10/2023, 10:49:43 am | 26/10/2023, 10:49:43 am  |
-| Détails et FAQ de la bêta de Twitch Studio Mac                          | 26/10/2023, 10:49:43 am | 26/10/2023, 10:49:43 am  |
-| Información y preguntas frecuentes de la beta de Twitch Studio para Mac | 26/10/2023, 10:49:43 am | 26/10/2023, 10:49:43 am  |
-| Mac版Twitch Studio Betaの詳細とよくある質問                                        | 26/10/2023, 10:49:43 am | 26/10/2023, 10:49:43 am  |
+| Title                                                                   | Last Modified          | Created                 |
+|-------------------------------------------------------------------------|------------------------|-------------------------|
+| Détails et FAQ de la bêta de Twitch Studio Mac                          | 28/10/2023, 4:27:08 am | 28/10/2023, 4:27:05 am  |
+| Dettagli e FAQ sulla beta di Twitch Studio per Mac                      | 28/10/2023, 4:27:04 am | 28/10/2023, 4:27:02 am  |
+| Beta para Mac do Twitch Studio - Detalhes e perguntas frequentes        | 28/10/2023, 4:26:09 am | 28/10/2023, 4:26:07 am  |
+| Información y preguntas frecuentes de la beta de Twitch Studio para Mac | 28/10/2023, 4:26:05 am | 28/10/2023, 4:26:03 am  |
+| Mac版Twitch Studio Betaの詳細とよくある質問                                        | 28/10/2023, 4:26:03 am | 28/10/2023, 4:26:01 am  |
+| Detalles y preguntas frecuentes sobre la beta de Twitch Studio para Mac | 28/10/2023, 4:26:02 am | 28/10/2023, 4:26:01 am  |
 
 
 ### twitch-studio-updates
