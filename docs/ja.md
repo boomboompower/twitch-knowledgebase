@@ -6,13 +6,14 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Getting Started Twitch Studio                            | 28/10/2023, 5:03:57 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=ja)                             |
+| Recommended Software For Broadcasting                    | 28/10/2023, 5:03:36 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ja)                     |
+| Ban Evasion                                              | 28/10/2023, 5:03:11 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=ja)                                               |
+| Twitch Studio Mac Faq                                    | 28/10/2023, 4:26:03 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ja)                                     |
 | Guest Star Faqs                                          | 26/10/2023, 7:25:10 pm    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=ja)                                           |
 | Stream Together Guest Guide                              | 26/10/2023, 7:25:07 pm    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ja)                               |
 | Stream Together Host Guide                               | 26/10/2023, 7:25:04 pm    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ja)                                |
 | Guest Star Getting Started                               | 26/10/2023, 7:25:04 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ja)                                |
-| Twitch Studio Mac Faq                                    | 26/10/2023, 10:49:43 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ja)                                     |
-| Getting Started Twitch Studio                            | 26/10/2023, 10:49:42 am   | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=ja)                             |
-| Recommended Software For Broadcasting                    | 26/10/2023, 10:41:34 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ja)                     |
 | How To Use Automod                                       | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ja)                                        |
 | Twitch Affiliate Program Faq                             | 23/10/2023, 2:49:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                              |
 | Joining The Affiliate Program                            | 23/10/2023, 2:49:05 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ja)                             |
@@ -34,7 +35,6 @@
 | Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=ja)                  |
 | Channel Analytics                                        | 21/09/2023, 9:11:41 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ja)                                         |
 | How To Use Clips                                         | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                          |
-| Ban Evasion                                              | 19/09/2023, 10:12:08 pm   | [Link](https://help.twitch.tv/s/article/ban-evasion?language=ja)                                               |
 | Mod View                                                 | 19/09/2023, 10:12:03 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                                  |
 | Affiliate Onboarding Guide                               | 19/09/2023, 9:07:43 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ja)                                |
 | Subpoint Vs Subcount                                     | 13/09/2023, 7:06:07 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ja)                                      |
@@ -43,9 +43,6 @@
 | Guest Star Audio                                         | 12/09/2023, 6:23:44 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=ja)                                          |
 | How To Use Raids                                         | 12/09/2023, 6:17:29 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ja)                                          |
 | Stream Summary                                           | 12/09/2023, 6:16:36 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ja)                                            |
-| Languages On Twitch                                      | 12/09/2023, 6:15:44 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ja)                                       |
-| Subscription Cancellation Reasons                        | 12/09/2023, 6:14:31 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ja)                         |
-| Disconnect Protection                                    | 12/09/2023, 6:13:21 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=ja)                                     |
 
 
 

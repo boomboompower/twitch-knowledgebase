@@ -6,17 +6,18 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Twitch Studio Mac Faq                                         | 26/10/2023, 10:49:43 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ru)                                          |
-| Getting Started Twitch Studio                                 | 26/10/2023, 10:49:42 am   | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=ru)                                  |
-| Recommended Software For Broadcasting                         | 26/10/2023, 10:41:34 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ru)                          |
+| Getting Started Twitch Studio                                 | 28/10/2023, 5:03:25 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=ru)                                  |
+| Recommended Software For Broadcasting                         | 28/10/2023, 5:03:21 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ru)                          |
+| Ban Evasion                                                   | 28/10/2023, 5:03:06 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=ru)                                                    |
+| Twitch Studio Mac Faq                                         | 28/10/2023, 4:27:18 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ru)                                          |
+| Stream Together Guest Guide                                   | 28/10/2023, 0:44:15 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ru)                                    |
+| Guest Star Faqs                                               | 28/10/2023, 0:44:14 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=ru)                                                |
+| Stream Together Host Guide                                    | 28/10/2023, 0:44:13 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ru)                                     |
+| Guest Star Getting Started                                    | 28/10/2023, 0:44:09 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ru)                                     |
 | How To Use Automod                                            | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ru)                                             |
 | Joining The Affiliate Program                                 | 25/10/2023, 1:20:12 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ru)                                  |
 | Twitch Affiliate Program Faq                                  | 25/10/2023, 1:20:09 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ru)                                   |
-| Guest Star Getting Started                                    | 21/10/2023, 3:08:44 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ru)                                     |
-| Stream Together Guest Guide                                   | 21/10/2023, 3:06:31 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ru)                                    |
 | Guest Star Reporting                                          | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=ru)                                           |
-| Stream Together Host Guide                                    | 21/10/2023, 3:02:22 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ru)                                     |
-| Guest Star Faqs                                               | 21/10/2023, 3:02:11 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=ru)                                                |
 | Guest Star                                                    | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=ru)                                                     |
 | Mission Based Drops                                           | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ru)                                            |
 | Tips For Applying To The Partner Program                      | 18/10/2023, 9:04:04 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ru)                       |
@@ -35,7 +36,6 @@
 | Channel Analytics                                             | 21/09/2023, 9:11:45 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ru)                                              |
 | How To Use Clips                                              | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ru)                                               |
 | Mod View                                                      | 19/09/2023, 10:14:06 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=ru)                                                       |
-| Ban Evasion                                                   | 19/09/2023, 10:14:03 pm   | [Link](https://help.twitch.tv/s/article/ban-evasion?language=ru)                                                    |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:55 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ru)                                     |
 | Subpoint Vs Subcount                                          | 13/09/2023, 7:06:07 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ru)                                           |
 | Twitch Studio Faq                                             | 12/09/2023, 8:38:33 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=ru)                                              |
@@ -45,7 +45,6 @@
 | Stream Summary                                                | 12/09/2023, 6:21:36 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ru)                                                 |
 | Languages On Twitch                                           | 12/09/2023, 6:20:06 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ru)                                            |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:16:53 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=ru)  |
-| Disconnect Protection                                         | 12/09/2023, 6:13:16 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=ru)                                          |
 
 
 
