@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Games Irl And Music Directories                          | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=en_US)                           |
+| Nintendo Switch                                          | 01/11/2023, 5:04:10 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=en_US)                                           |
 | Experiments                                              | 31/10/2023, 7:48:47 am    | [Link](https://help.twitch.tv/s/article/experiments?language=en_US)                                               |
 | Twitch Studio Mac Faq                                    | 26/10/2023, 10:49:44 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=en_US)                                     |
 | Getting Started Twitch Studio                            | 26/10/2023, 10:49:42 am   | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=en_US)                             |
