@@ -7,6 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| games-irl-and-music-directories                               | 01/11/2023, 10:35:39 am | 01/11/2023, 10:35:38 am | [Details](#games-irl-and-music-directories)                                |
+| nintendo-switch                                               | 01/11/2023, 5:04:10 am  | 01/11/2023, 5:04:08 am  | [Details](#nintendo-switch)                                                |
 | experiments                                                   | 31/10/2023, 7:47:45 am  | 31/10/2023, 7:47:44 am  | [Details](#experiments)                                                    |
 | ban-evasion                                                   | 28/10/2023, 5:03:42 am  | 27/10/2023, 4:46:39 am  | [Details](#ban-evasion)                                                    |
 | recommended-software-for-broadcasting                         | 28/10/2023, 5:03:39 am  | 26/10/2023, 10:54:54 am | [Details](#recommended-software-for-broadcasting)                          |
@@ -203,7 +205,6 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-use-squad-stream                                       | 21/10/2022, 7:26:47 am  | 30/09/2022, 8:30:40 am  | [Details](#how-to-use-squad-stream)                                        |
 | earning-revenue-from-bits-in-extensions                       | 21/10/2022, 7:25:42 am  | 30/09/2022, 7:54:28 am  | [Details](#earning-revenue-from-bits-in-extensions)                        |
 | earning-revenue-from-bits-in-extensions-beta                  | 21/10/2022, 7:25:40 am  | 21/10/2022, 7:25:39 am  | [Details](#earning-revenue-from-bits-in-extensions-beta)                   |
-| esports-directory                                             | 21/10/2022, 7:24:58 am  | 30/09/2022, 7:49:57 am  | [Details](#esports-directory)                                              |
 | supported-browsers                                            | 17/10/2022, 11:06:32 pm | 08/10/2022, 4:10:03 am  | [Details](#supported-browsers)                                             |
 | twitch-content-sharing-guidelines                             | 13/10/2022, 7:53:07 am  | 27/09/2022, 8:52:24 am  | [Details](#twitch-content-sharing-guidelines)                              |
 | follow-cue                                                    | 30/09/2022, 5:59:59 am  | 28/09/2022, 10:02:08 am | [Details](#follow-cue)                                                     |
@@ -223,7 +224,6 @@ Language data is not included in the API. All page links will not have a languag
 | emote-guidelines                                              | 05/08/2022, 10:41:34 pm | 02/08/2022, 6:37:09 am  | [Details](#emote-guidelines)                                               |
 | scene-importing                                               | 03/08/2022, 5:54:38 am  | 03/08/2022, 5:54:35 am  | [Details](#scene-importing)                                                |
 | channel-points-predictions                                    | 30/07/2022, 4:23:37 am  | 30/07/2022, 4:23:24 am  | [Details](#channel-points-predictions)                                     |
-| games-irl-and-music-directories                               | 28/07/2022, 3:03:22 am  | 30/06/2022, 8:03:56 am  | [Details](#games-irl-and-music-directories)                                |
 | how-do-i-stream-faq                                           | 20/07/2022, 6:19:45 am  | 20/07/2022, 6:19:17 am  | [Details](#how-do-i-stream-faq)                                            |
 | payout-details-faq                                            | 13/07/2022, 3:11:03 am  | 29/06/2022, 8:26:24 am  | [Details](#payout-details-faq)                                             |
 | rejected-payout-faq                                           | 13/07/2022, 3:10:35 am  | 29/06/2022, 0:32:52 pm  | [Details](#rejected-payout-faq)                                            |
@@ -234,8 +234,8 @@ Language data is not included in the API. All page links will not have a languag
 | understanding-viewer-count-vs-users-in-chat                   | 05/05/2022, 11:11:07 pm | 28/04/2022, 9:36:13 am  | [Details](#understanding-viewer-count-vs-users-in-chat)                    |
 | mastercard-spring-promotion-us                                | 04/05/2022, 7:21:51 am  | 04/05/2022, 7:21:06 am  | [Details](#mastercard-spring-promotion-us)                                 |
 | how-to-use-the-friends-feature                                | 29/04/2022, 5:56:25 am  | 22/04/2022, 5:38:53 am  | [Details](#how-to-use-the-friends-feature)                                 |
+| twitch-on-lg-tv                                               | 28/04/2022, 10:41:18 pm | 23/04/2022, 2:15:40 am  | [Details](#twitch-on-lg-tv)                                                |
 | children-on-twitch                                            | 28/04/2022, 10:41:15 pm | 23/04/2022, 2:16:59 am  | [Details](#children-on-twitch)                                             |
-| twitch-on-lg-tv                                               | 28/04/2022, 9:21:03 pm  | 23/04/2022, 2:15:40 am  | [Details](#twitch-on-lg-tv)                                                |
 | twitch-on-apple-tv                                            | 28/04/2022, 8:23:04 pm  | 23/04/2022, 2:15:17 am  | [Details](#twitch-on-apple-tv)                                             |
 | how-to-get-and-use-the-ps-app                                 | 15/04/2022, 1:48:34 am  | 09/04/2022, 2:51:31 am  | [Details](#how-to-get-and-use-the-ps-app)                                  |
 | official-twitch-channel-chat-rules                            | 14/04/2022, 9:48:03 pm  | 09/04/2022, 2:51:10 am  | [Details](#official-twitch-channel-chat-rules)                             |
@@ -251,7 +251,6 @@ Language data is not included in the API. All page links will not have a languag
 | advanced-audio-mixer                                          | 18/02/2022, 8:17:05 pm  | 18/02/2022, 8:17:02 pm  | [Details](#advanced-audio-mixer)                                           |
 | twitch-studio-updates                                         | 18/02/2022, 8:07:11 pm  | 18/02/2022, 8:07:01 pm  | [Details](#twitch-studio-updates)                                          |
 | network-enforcement-act                                       | 18/02/2022, 7:50:06 pm  | 18/02/2022, 7:50:04 pm  | [Details](#network-enforcement-act)                                        |
-| nintendo-switch                                               | 18/02/2022, 7:49:38 pm  | 18/02/2022, 7:49:35 pm  | [Details](#nintendo-switch)                                                |
 | studio-obs-ndi                                                | 18/02/2022, 7:47:33 pm  | 18/02/2022, 7:47:30 pm  | [Details](#studio-obs-ndi)                                                 |
 | how-to-handle-view-follow-bots                                | 18/02/2022, 2:33:34 am  | 18/02/2022, 2:33:31 am  | [Details](#how-to-handle-view-follow-bots)                                 |
 | studio-ui                                                     | 18/02/2022, 1:48:03 am  | 18/02/2022, 1:48:01 am  | [Details](#studio-ui)                                                      |
@@ -699,6 +698,7 @@ https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual
 | Amazon 稅務資料問卷與美國國家稅務局 IRS 年度申報表常見問題                                                                               | 12/09/2023, 6:17:03 am | 12/09/2023, 6:17:01 am  |
 | Amazon Vergi Bilgi Formu ve IRS Yıllık Raporu Hakkında SSS                                                        | 12/09/2023, 6:15:29 am | 12/09/2023, 6:15:28 am  |
 | Domande frequenti relative al questionario sui dati fiscali per Amazon e alla rendicontazione contabile per l'IRS | 12/09/2023, 6:14:44 am | 12/09/2023, 6:14:42 am  |
+| Odpowiedzi na najczęściej zadawane pytania dotyczące kwestionariusza podatkowego Amazon i rocznego raportu IRS.   | 12/09/2023, 6:12:52 am | 12/09/2023, 6:12:50 am  |
 | Amazon税務情報インタビューとIRS年次報告書に関するよくある質問                                                                               | 12/09/2023, 6:11:43 am | 12/09/2023, 6:11:41 am  |
 | FAQs zum Amazon Steuerinterview und zum jährlichen Bericht an die IRS                                             | 12/09/2023, 6:11:33 am | 12/09/2023, 6:11:31 am  |
 | Amazon Tax Information Interview and IRS Annual Reporting FAQ                                                     | 08/09/2023, 1:58:11 am | 11/03/2022, 9:27:23 am  |
@@ -760,14 +760,15 @@ https://help.twitch.tv/s/article/appleshareplay
 ### artist-badge-attribution
 https://help.twitch.tv/s/article/artist-badge-attribution
 
-| Title                              | Last Modified          | Created                  |
-|------------------------------------|------------------------|--------------------------|
-| Distintivo de Artista e Atribuição | 24/02/2023, 1:47:42 am | 24/02/2023, 1:47:32 am   |
-| Emblema de artista y atribución    | 20/05/2022, 3:31:41 am | 20/05/2022, 3:31:39 am   |
-| Attribution et badge d'artiste     | 20/05/2022, 3:31:38 am | 20/05/2022, 3:31:35 am   |
-| Künstler-Abzeichen und -Credits    | 20/05/2022, 3:31:37 am | 20/05/2022, 3:31:35 am   |
-| Emblema de artista y atribución    | 20/05/2022, 3:31:34 am | 20/05/2022, 3:31:31 am   |
-| Artist Badge and Attribution       | 20/05/2022, 3:10:39 am | 19/05/2022, 10:19:03 am  |
+| Title                                   | Last Modified          | Created                  |
+|-----------------------------------------|------------------------|--------------------------|
+| Distintivo de Artista e Atribuição      | 24/02/2023, 1:47:42 am | 24/02/2023, 1:47:32 am   |
+| Odznaka artysty i przypisanie autorstwa | 20/05/2022, 3:31:45 am | 20/05/2022, 3:31:43 am   |
+| Emblema de artista y atribución         | 20/05/2022, 3:31:41 am | 20/05/2022, 3:31:39 am   |
+| Attribution et badge d'artiste          | 20/05/2022, 3:31:38 am | 20/05/2022, 3:31:35 am   |
+| Künstler-Abzeichen und -Credits         | 20/05/2022, 3:31:37 am | 20/05/2022, 3:31:35 am   |
+| Emblema de artista y atribución         | 20/05/2022, 3:31:34 am | 20/05/2022, 3:31:31 am   |
+| Artist Badge and Attribution            | 20/05/2022, 3:10:39 am | 19/05/2022, 10:19:03 am  |
 
 
 ### audio-ads
@@ -1009,12 +1010,13 @@ https://help.twitch.tv/s/article/capturing-sources
 ### celebrate-kpop
 https://help.twitch.tv/s/article/celebrate-kpop
 
-| Title                                            | Last Modified           | Created                 |
-|--------------------------------------------------|-------------------------|-------------------------|
-| FAQ K-Pop Stans Unite                            | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
-| Häufig gestellte Fragen zu "K-Pop-Fans hierher!" | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
-| K-Pop Hayranları Birleşiyor SSS                  | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
-| KPop Stans Unite FAQs                            | 30/09/2021, 11:26:49 am | 16/10/2020, 3:02:08 am  |
+| Title                                                                                      | Last Modified           | Created                 |
+|--------------------------------------------------------------------------------------------|-------------------------|-------------------------|
+| FAQ K-Pop Stans Unite                                                                      | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
+| Häufig gestellte Fragen zu "K-Pop-Fans hierher!"                                           | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
+| K-Pop Hayranları Birleşiyor SSS                                                            | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
+| KPop Stans Unite FAQs                                                                      | 30/09/2021, 11:26:49 am | 16/10/2020, 3:02:08 am  |
+| Odpowiedzi na najczęściej zadawane pytania związane z wydarzeniem Fani K-popu, łączcie się | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
 
 
 ### Changes-to-Subscription-Badges-and-Resub-Messages
@@ -1655,22 +1657,6 @@ https://help.twitch.tv/s/article/engagement
 | Engagement Analytics        | 13/05/2023, 6:34:34 am  | 13/05/2023, 6:34:13 am  |
 
 
-### esports-directory
-https://help.twitch.tv/s/article/esports-directory
-
-| Title                 | Last Modified          | Created                 |
-|-----------------------|------------------------|-------------------------|
-| Directorio de esports | 21/10/2022, 7:24:58 am | 30/09/2022, 7:49:57 am  |
-| Directorio de esports | 21/10/2022, 7:24:58 am | 30/09/2022, 7:49:57 am  |
-| Directory Esports     | 21/10/2022, 7:24:58 am | 30/09/2022, 7:49:57 am  |
-| Diretório de esports  | 21/10/2022, 7:24:58 am | 30/09/2022, 7:49:57 am  |
-| Espor Dizini          | 21/10/2022, 7:24:58 am | 30/09/2022, 7:49:57 am  |
-| Esports Directory     | 21/10/2022, 7:24:58 am | 30/09/2022, 7:49:34 am  |
-| Esportsカテゴリー          | 21/10/2022, 7:24:58 am | 30/09/2022, 7:49:57 am  |
-| e스포츠 디렉터리             | 21/10/2022, 7:24:58 am | 30/09/2022, 7:49:57 am  |
-| Katalog esportu       | 21/10/2022, 7:24:58 am | 30/09/2022, 7:49:57 am  |
-
-
 ### experiments
 https://help.twitch.tv/s/article/experiments
 
@@ -1785,14 +1771,14 @@ https://help.twitch.tv/s/article/founders-badge
 ### games-irl-and-music-directories
 https://help.twitch.tv/s/article/games-irl-and-music-directories
 
-| Title                                   | Last Modified          | Created                 |
-|-----------------------------------------|------------------------|-------------------------|
-| Directorios de juegos, IRL y música     | 28/07/2022, 3:03:22 am | 30/06/2022, 8:03:56 am  |
-| Directorios de juegos, IRL y música     | 28/07/2022, 3:03:22 am | 30/06/2022, 8:03:56 am  |
-| Directory Giochi, IRL e Musica          | 28/07/2022, 3:03:22 am | 30/06/2022, 8:03:56 am  |
-| Diretórios de Jogos, Vida Real e Música | 28/07/2022, 3:03:22 am | 30/06/2022, 8:03:56 am  |
-| Games, IRL, and Music Directories       | 28/07/2022, 3:03:22 am | 29/06/2022, 6:24:09 am  |
-| Katalogi „Gry”, „IRL” i „Muzyka”        | 28/07/2022, 3:03:22 am | 30/06/2022, 8:03:56 am  |
+| Title                                                | Last Modified           | Created                  |
+|------------------------------------------------------|-------------------------|--------------------------|
+| Directorios de juegos, IRL y música                  | 01/11/2023, 10:35:39 am | 01/11/2023, 10:35:38 am  |
+| Directorios de juegos, IRL y música                  | 01/11/2023, 10:35:39 am | 01/11/2023, 10:35:38 am  |
+| Directory Giochi, IRL e Musica                       | 01/11/2023, 10:35:39 am | 01/11/2023, 10:35:38 am  |
+| Diretórios de Jogos, Vida Real e Música              | 01/11/2023, 10:35:39 am | 01/11/2023, 10:35:38 am  |
+| Games, IRL, Music, Esports, and Creative Directories | 01/11/2023, 10:35:39 am | 01/11/2023, 10:34:56 am  |
+| Katalogi „Gry”, „IRL” i „Muzyka”                     | 01/11/2023, 10:35:39 am | 01/11/2023, 10:35:38 am  |
 
 
 ### geoblocking
@@ -2221,6 +2207,7 @@ https://help.twitch.tv/s/article/how-to-appeal-flagged-content
 | Title                                                   | Last Modified           | Created                 |
 |---------------------------------------------------------|-------------------------|-------------------------|
 | Comment faire appel pour une piste audio désactivée     | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:24:35 am  |
+| Odwołania od wyciszonego dźwięku                        | 09/08/2023, 8:34:35 pm  | 02/08/2023, 3:24:35 am  |
 | Come fare ricorso per l'audio disattivato               | 09/08/2023, 5:39:03 pm  | 02/08/2023, 3:24:35 am  |
 | Como apelar de áudio silenciado                         | 09/08/2023, 5:55:06 am  | 02/08/2023, 3:24:35 am  |
 | Cómo apelar ante audio silenciado                       | 09/08/2023, 2:49:38 am  | 02/08/2023, 3:24:35 am  |
@@ -3314,17 +3301,17 @@ https://help.twitch.tv/s/article/new-device-and-location-verification
 ### nintendo-switch
 https://help.twitch.tv/s/article/nintendo-switch
 
-| Title                                      | Last Modified          | Created                  |
-|--------------------------------------------|------------------------|--------------------------|
-| Aplicación de Twitch para Nintendo Switch™ | 18/02/2022, 7:49:38 pm | 18/02/2022, 7:49:35 pm   |
-| Aplikacja Twitcha na Nintendo Switch™      | 12/11/2021, 4:48:16 am | 10/11/2021, 11:06:01 pm  |
-| Aplicación de Twitch para Nintendo Switch™ | 12/11/2021, 4:48:14 am | 10/11/2021, 10:26:01 pm  |
-| Aplicativo da Twitch no Nintendo Switch™   | 12/11/2021, 4:48:14 am | 04/11/2021, 11:05:31 pm  |
-| App Twitch per Nintendo Switch™            | 12/11/2021, 4:48:14 am | 10/11/2021, 8:59:31 pm   |
-| Application Twitch sur Nintendo Switch™    | 12/11/2021, 4:48:14 am | 09/11/2021, 3:25:31 pm   |
-| Nintendo Switch™ Twitch 앱                  | 12/11/2021, 4:48:14 am | 04/11/2021, 8:17:31 pm   |
-| Nintendo Switch™ 版 Twitch App              | 12/11/2021, 4:48:14 am | 09/11/2021, 9:48:31 pm   |
-| Nintendo Switch™版のTwitchアプリ                | 12/11/2021, 4:48:14 am | 10/11/2021, 10:15:01 am  |
+| Title                                      | Last Modified          | Created                 |
+|--------------------------------------------|------------------------|-------------------------|
+| Aplicación de Twitch para Nintendo Switch™ | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
+| Aplicación de Twitch para Nintendo Switch™ | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
+| Aplicativo da Twitch no Nintendo Switch™   | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
+| Aplikacja Twitcha na Nintendo Switch™      | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
+| App Twitch per Nintendo Switch™            | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
+| Application Twitch sur Nintendo Switch™    | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
+| Nintendo Switch™ Twitch 앱                  | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
+| Nintendo Switch™ 版 Twitch App              | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:09 am  |
+| Nintendo Switch™版のTwitchアプリ                | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
 
 
 ### not-receiving-sms
@@ -3384,6 +3371,7 @@ https://help.twitch.tv/s/article/overview-of-audio
 |------------------------------------------------|------------------------|-------------------------|
 | Aperçu audio de Twitch Studio                  | 22/10/2021, 8:54:20 am | 20/10/2020, 5:51:48 am  |
 | Descripción general del audio en Twitch Studio | 22/10/2021, 8:54:20 am | 20/10/2020, 5:51:48 am  |
+| Omówienie audio w Twitch Studio                | 22/10/2021, 8:54:20 am | 20/10/2020, 5:51:48 am  |
 
 
 ### partner-cheermote-guide
@@ -4270,6 +4258,7 @@ https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq
 | Apoio na Loja de Merchandise da Twitch - Perguntas Frequentes            | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Dokument FAQ sklepu z artykułami promocyjnymi Twitch                     | 22/10/2021, 8:53:51 am | 07/08/2020, 3:22:52 am  |
 | Nejčastější dotazy k podpoře pro obchod s reklamním zbožím z Twitche     | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
+| Ofte stillede spørgsmål om Twitchs merchandise-butik                     | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Domande frequenti sull'assistenza agli acquisti del merchandising Twitch | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 | FAQ des produits dérivés Twitch                                          | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 
@@ -4301,15 +4290,16 @@ https://help.twitch.tv/s/article/twitch-on-apple-tv
 ### twitch-on-lg-tv
 https://help.twitch.tv/s/article/twitch-on-lg-tv
 
-| Title                              | Last Modified          | Created                 |
-|------------------------------------|------------------------|-------------------------|
-| Cómo ver Twitch en un televisor LG | 28/04/2022, 9:21:03 pm | 23/04/2022, 2:15:40 am  |
-| LG TV에서 Twitch 시청하기                | 28/04/2022, 8:27:33 pm | 23/04/2022, 2:15:40 am  |
-| LGテレビでTwitchを視聴                    | 28/04/2022, 7:54:37 pm | 23/04/2022, 2:15:40 am  |
-| Guardare Twitch su una TV LG       | 28/04/2022, 5:54:03 pm | 23/04/2022, 2:15:40 am  |
-| Assistindo à Twitch em uma TV LG   | 28/04/2022, 0:11:33 pm | 23/04/2022, 2:15:40 am  |
-| Cómo ver Twitch en un televisor LG | 28/04/2022, 1:33:34 am | 23/04/2022, 2:15:40 am  |
-| LG TV'de Twitch izleme             | 27/04/2022, 5:59:03 pm | 23/04/2022, 2:15:40 am  |
+| Title                               | Last Modified           | Created                 |
+|-------------------------------------|-------------------------|-------------------------|
+| Oglądanie Twitcha na telewizorze LG | 28/04/2022, 10:41:18 pm | 23/04/2022, 2:15:40 am  |
+| Cómo ver Twitch en un televisor LG  | 28/04/2022, 9:21:03 pm  | 23/04/2022, 2:15:40 am  |
+| LG TV에서 Twitch 시청하기                 | 28/04/2022, 8:27:33 pm  | 23/04/2022, 2:15:40 am  |
+| LGテレビでTwitchを視聴                     | 28/04/2022, 7:54:37 pm  | 23/04/2022, 2:15:40 am  |
+| Guardare Twitch su una TV LG        | 28/04/2022, 5:54:03 pm  | 23/04/2022, 2:15:40 am  |
+| Assistindo à Twitch em uma TV LG    | 28/04/2022, 0:11:33 pm  | 23/04/2022, 2:15:40 am  |
+| Cómo ver Twitch en un televisor LG  | 28/04/2022, 1:33:34 am  | 23/04/2022, 2:15:40 am  |
+| LG TV'de Twitch izleme              | 27/04/2022, 5:59:03 pm  | 23/04/2022, 2:15:40 am  |
 
 
 ### twitch-policies-and-guidelines
@@ -4593,6 +4583,7 @@ https://help.twitch.tv/s/article/watching-twitch-on-android-devices
 | Anzeigen von Twitch-Inhalten auf Android-Geräten | 11/10/2023, 8:54:06 am | 11/10/2023, 8:54:05 am  |
 | Assistindo à Twitch em dispositivos Android      | 11/10/2023, 8:54:06 am | 11/10/2023, 8:54:06 am  |
 | Come guardare Twitch sui dispositivi Android     | 11/10/2023, 8:54:06 am | 11/10/2023, 8:54:05 am  |
+| Oglądanie Twitcha na urządzeniach z Androidem    | 11/10/2023, 8:54:06 am | 11/10/2023, 8:54:06 am  |
 
 
 ### watching-twitch-on-ios-devices
@@ -4606,6 +4597,7 @@ https://help.twitch.tv/s/article/watching-twitch-on-ios-devices
 | Come guardare Twitch sui dispositivi iOS     | 22/10/2021, 8:54:13 am | 27/02/2019, 3:40:44 pm  |
 | iOS Cihazlarında Twitch İzlemek              | 22/10/2021, 8:54:13 am | 27/02/2019, 2:57:56 pm  |
 | iOS 기기에서 Twitch 시청하기                         | 22/10/2021, 8:54:13 am | 27/02/2019, 3:19:13 pm  |
+| Oglądanie Twitcha na urządzeniach z iOS      | 22/10/2021, 8:54:13 am | 27/02/2019, 3:42:45 pm  |
 
 
 ### when-am-i-getting-paid
