@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| featured-clips                                                | 02/11/2023, 3:02:29 am  | 25/10/2023, 6:37:08 am  | [Details](#featured-clips)                                                 |
 | games-irl-and-music-directories                               | 01/11/2023, 10:35:39 am | 01/11/2023, 10:35:38 am | [Details](#games-irl-and-music-directories)                                |
 | nintendo-switch                                               | 01/11/2023, 5:04:10 am  | 01/11/2023, 5:04:08 am  | [Details](#nintendo-switch)                                                |
 | experiments                                                   | 31/10/2023, 7:47:45 am  | 31/10/2023, 7:47:44 am  | [Details](#experiments)                                                    |
@@ -28,7 +29,6 @@ Language data is not included in the API. All page links will not have a languag
 | twitch-affiliate-program-faq                                  | 23/10/2023, 10:44:09 pm | 23/10/2023, 10:44:07 pm | [Details](#twitch-affiliate-program-faq)                                   |
 | guest-star-reporting                                          | 21/10/2023, 3:02:35 am  | 21/10/2023, 3:02:34 am  | [Details](#guest-star-reporting)                                           |
 | guest-star                                                    | 21/10/2023, 3:01:15 am  | 21/10/2023, 3:01:14 am  | [Details](#guest-star)                                                     |
-| featured-clips                                                | 20/10/2023, 10:55:09 pm | 20/10/2023, 10:55:07 pm | [Details](#featured-clips)                                                 |
 | mission-based-drops                                           | 19/10/2023, 3:00:54 am  | 30/09/2023, 4:42:18 am  | [Details](#mission-based-drops)                                            |
 | hype-challenge                                                | 19/10/2023, 1:47:02 am  | 19/10/2023, 1:47:01 am  | [Details](#hype-challenge)                                                 |
 | hype-train-guide                                              | 19/10/2023, 0:26:07 am  | 11/10/2023, 7:26:20 am  | [Details](#hype-train-guide)                                               |
@@ -1700,15 +1700,15 @@ https://help.twitch.tv/s/article/failed-payments
 ### featured-clips
 https://help.twitch.tv/s/article/featured-clips
 
-| Title               | Last Modified           | Created                  |
-|---------------------|-------------------------|--------------------------|
-| Clips destacados    | 20/10/2023, 10:55:09 pm | 20/10/2023, 10:55:07 pm  |
-| Clipes em destaque  | 12/09/2023, 4:05:18 am  | 30/08/2023, 8:21:20 am   |
-| Clips destacados    | 12/09/2023, 4:05:10 am  | 30/08/2023, 8:21:20 am   |
-| Ausgewählte Clips   | 12/09/2023, 4:05:01 am  | 30/08/2023, 8:21:20 am   |
-| Clips à la une      | 12/09/2023, 4:04:58 am  | 30/08/2023, 8:21:20 am   |
-| Clip in primo piano | 06/09/2023, 11:35:34 pm | 30/08/2023, 8:21:20 am   |
-| Featured Clips      | 30/08/2023, 8:20:55 am  | 30/08/2023, 8:17:12 am   |
+| Title               | Last Modified          | Created                 |
+|---------------------|------------------------|-------------------------|
+| Ausgewählte Clips   | 02/11/2023, 3:02:29 am | 25/10/2023, 6:37:08 am  |
+| Clip in primo piano | 02/11/2023, 3:02:29 am | 25/10/2023, 6:37:08 am  |
+| Clipes em destaque  | 02/11/2023, 3:02:29 am | 25/10/2023, 6:37:08 am  |
+| Clips destacados    | 02/11/2023, 3:02:29 am | 25/10/2023, 6:37:08 am  |
+| Clips destacados    | 02/11/2023, 3:02:29 am | 25/10/2023, 6:37:08 am  |
+| Clips à la une      | 02/11/2023, 3:02:29 am | 25/10/2023, 6:37:08 am  |
+| Featured Clips      | 02/11/2023, 3:02:29 am | 25/10/2023, 3:37:11 am  |
 
 
 ### first-steps-for-new-affiliates
