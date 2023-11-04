@@ -7,6 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| partner-program-overview                                      | 04/11/2023, 5:24:54 am  | 28/10/2023, 9:24:40 am  | [Details](#partner-program-overview)                                       |
+| minimum-payout-threshold                                      | 04/11/2023, 4:34:32 am  | 04/11/2023, 4:34:31 am  | [Details](#minimum-payout-threshold)                                       |
 | streamer-read-ads                                             | 03/11/2023, 10:20:09 am | 04/10/2023, 0:18:43 pm  | [Details](#streamer-read-ads)                                              |
 | channel-skins                                                 | 03/11/2023, 10:19:31 am | 04/10/2023, 0:18:22 pm  | [Details](#channel-skins)                                                  |
 | featured-clips                                                | 02/11/2023, 1:30:09 pm  | 02/11/2023, 1:30:08 pm  | [Details](#featured-clips)                                                 |
@@ -38,7 +40,6 @@ Language data is not included in the API. All page links will not have a languag
 | tips-for-applying-to-the-partner-program                      | 18/10/2023, 10:12:04 pm | 14/10/2023, 4:24:22 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
 | about-account-suspensions-dmca-suspensions-and-chat-bans      | 18/10/2023, 10:10:03 pm | 11/10/2023, 7:28:35 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | stories                                                       | 17/10/2023, 4:13:03 am  | 11/10/2023, 1:42:38 pm  | [Details](#stories)                                                        |
-| partner-program-overview                                      | 14/10/2023, 4:05:55 am  | 03/10/2023, 4:36:18 am  | [Details](#partner-program-overview)                                       |
 | achievements                                                  | 14/10/2023, 4:00:21 am  | 08/08/2023, 11:56:27 pm | [Details](#achievements)                                                   |
 | how-to-manage-harassment-in-chat                              | 13/10/2023, 10:42:37 pm | 26/09/2023, 4:05:20 am  | [Details](#how-to-manage-harassment-in-chat)                               |
 | content-classification-labels                                 | 12/10/2023, 8:35:39 pm  | 03/10/2023, 0:41:59 pm  | [Details](#content-classification-labels)                                  |
@@ -191,7 +192,6 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-use-twitch-showcase                                    | 06/12/2022, 1:27:04 am  | 02/12/2022, 4:40:24 am  | [Details](#how-to-use-twitch-showcase)                                     |
 | chat-commands                                                 | 19/11/2022, 2:02:32 am  | 19/11/2022, 2:02:30 am  | [Details](#chat-commands)                                                  |
 | xbox-broadcast                                                | 17/11/2022, 11:24:03 pm | 17/11/2022, 11:24:02 pm | [Details](#xbox-broadcast)                                                 |
-| minimum-payout-threshold                                      | 15/11/2022, 4:58:06 am  | 09/11/2022, 0:14:16 pm  | [Details](#minimum-payout-threshold)                                       |
 | minimum-payout-threshold-countries                            | 15/11/2022, 4:57:48 am  | 09/11/2022, 0:10:33 pm  | [Details](#minimum-payout-threshold-countries)                             |
 | how-to-use-extensions                                         | 05/11/2022, 1:14:39 am  | 26/10/2022, 7:06:42 am  | [Details](#how-to-use-extensions)                                          |
 | how-to-configure-extensions                                   | 05/11/2022, 1:14:35 am  | 26/10/2022, 7:28:24 am  | [Details](#how-to-configure-extensions)                                    |
@@ -3089,11 +3089,11 @@ https://help.twitch.tv/s/article/minimum-payout-threshold
 
 | Title                            | Last Modified          | Created                  |
 |----------------------------------|------------------------|--------------------------|
+| 50ドルの支払い下限額                      | 04/11/2023, 4:34:32 am | 04/11/2023, 4:34:31 am   |
 | $50 Minimum Payout Threshold     | 15/11/2022, 4:58:06 am | 09/11/2022, 0:14:16 pm   |
 | $50 款項發放最低門檻                     | 15/11/2022, 4:58:06 am | 11/11/2022, 7:00:35 pm   |
 | $50 최소 지급 기준액                    | 15/11/2022, 4:58:06 am | 12/11/2022, 0:30:05 am   |
 | 50 $ Ödeme Eşiği                 | 15/11/2022, 4:58:06 am | 10/11/2022, 8:42:34 pm   |
-| 50ドルの支払い下限額                      | 15/11/2022, 4:58:06 am | 14/11/2022, 1:56:33 pm   |
 | Mindestauszahlungsgrenze von 50$ | 15/11/2022, 4:58:06 am | 11/11/2022, 11:10:02 pm  |
 
 
@@ -3437,8 +3437,8 @@ https://help.twitch.tv/s/article/partner-program-overview
 
 | Title                                                | Last Modified          | Created                 |
 |------------------------------------------------------|------------------------|-------------------------|
-| Das Partnerprogramm von Twitch im Überblick          | 14/10/2023, 4:05:55 am | 03/10/2023, 4:36:18 am  |
-| Descripción general del programa de socios de Twitch | 14/10/2023, 4:05:55 am | 03/10/2023, 4:36:18 am  |
+| Descripción general del programa de socios de Twitch | 04/11/2023, 5:24:54 am | 28/10/2023, 9:24:40 am  |
+| Das Partnerprogramm von Twitch im Überblick          | 04/11/2023, 5:21:54 am | 28/10/2023, 9:24:40 am  |
 
 
 ### partner-settings-guide
