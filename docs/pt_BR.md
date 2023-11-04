@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Partner Program Overview                                      | 04/11/2023, 5:24:22 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)                                       |
 | Games Irl And Music Directories                               | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=pt_BR)                                |
 | Nintendo Switch                                               | 01/11/2023, 5:04:10 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=pt_BR)                                                |
 | Experiments                                                   | 31/10/2023, 7:47:45 am    | [Link](https://help.twitch.tv/s/article/experiments?language=pt_BR)                                                    |
@@ -26,7 +27,6 @@
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 19/10/2023, 0:25:36 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_BR)       |
 | Stream Display Ads                                            | 19/10/2023, 0:25:33 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pt_BR)                                             |
 | Tips For Applying To The Partner Program                      | 18/10/2023, 0:36:03 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=pt_BR)                       |
-| Partner Program Overview                                      | 14/10/2023, 4:05:56 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)                                       |
 | Achievements                                                  | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_BR)                                                   |
 | How To Manage Harassment In Chat                              | 13/10/2023, 9:47:43 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_BR)                               |
 | Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=pt_BR)                                        |

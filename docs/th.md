@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Partner Program Overview                                 | 04/11/2023, 5:25:06 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)                                  |
 | Games Irl And Music Directories                          | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=th)                           |
 | Nintendo Switch                                          | 01/11/2023, 5:04:10 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=th)                                           |
 | Stream Together Guest Guide                              | 01/11/2023, 0:42:38 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=th)                               |
@@ -26,7 +27,6 @@
 | About Account Suspensions Dmca Suspensions And Chat Bans | 19/10/2023, 0:14:08 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=th)  |
 | Stream Display Ads                                       | 19/10/2023, 0:14:06 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=th)                                        |
 | Tips For Applying To The Partner Program                 | 19/10/2023, 0:09:08 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=th)                  |
-| Partner Program Overview                                 | 14/10/2023, 4:05:56 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)                                  |
 | Achievements                                             | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=th)                                              |
 | How To Manage Harassment In Chat                         | 14/10/2023, 0:25:38 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=th)                          |
 | Dmca And Copyright Faqs                                  | 11/10/2023, 9:24:44 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=th)                                   |
@@ -47,8 +47,6 @@
 | Languages On Twitch                                      | 12/09/2023, 6:22:14 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=th)                                       |
 | How To Use Raids                                         | 12/09/2023, 6:17:35 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=th)                                          |
 | Subscription Cancellation Reasons                        | 12/09/2023, 6:14:40 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=th)                         |
-| Disconnect Protection                                    | 12/09/2023, 6:14:01 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=th)                                     |
-| Stream Summary                                           | 12/09/2023, 6:13:58 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=th)                                            |
 
 
 
