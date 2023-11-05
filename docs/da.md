@@ -22,7 +22,6 @@
 | Account Hacked                                                | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=da)                                                 |
 | How To Appeal Flagged Content                                 | 02/08/2023, 3:24:17 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=da)                                  |
 | Creating An Account With Twitch                               | 11/07/2023, 2:20:34 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=da)                                |
-| Twitch Prime Partner Guide                                    | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=da)                                     |
 
 
 
@@ -31,6 +30,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Prime Partner Guide                         | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=da)                          |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:14 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=da)  |
 | Guide To Tags                                      | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=da)                                       |
 | Two Factor Authentication With Authy               | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=da)                |
@@ -40,7 +40,6 @@
 | How To Use Extensions                              | 26/10/2022, 7:04:49 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=da)                               |
 | Earning Revenue From Bits In Extensions Beta       | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=da)        |
 | Twitch Content Sharing Guidelines                  | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=da)                   |
-| How To Use Raids                                   | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=da)                                    |
 
 
 
@@ -49,6 +48,7 @@
 
 | Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
 |-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| How To Use Raids                    | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=da)                     |
 | Community Meetups Powered By Twitch | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=da)  |
 
 

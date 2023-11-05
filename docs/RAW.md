@@ -7,11 +7,11 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| featured-clips                                                | 05/11/2023, 11:01:19 pm | 02/11/2023, 1:31:06 pm  | [Details](#featured-clips)                                                 |
 | partner-program-overview                                      | 04/11/2023, 5:24:54 am  | 28/10/2023, 9:24:40 am  | [Details](#partner-program-overview)                                       |
 | minimum-payout-threshold                                      | 04/11/2023, 4:34:32 am  | 04/11/2023, 4:34:31 am  | [Details](#minimum-payout-threshold)                                       |
 | streamer-read-ads                                             | 03/11/2023, 10:20:09 am | 04/10/2023, 0:18:43 pm  | [Details](#streamer-read-ads)                                              |
 | channel-skins                                                 | 03/11/2023, 10:19:31 am | 04/10/2023, 0:18:22 pm  | [Details](#channel-skins)                                                  |
-| featured-clips                                                | 02/11/2023, 1:30:09 pm  | 02/11/2023, 1:30:08 pm  | [Details](#featured-clips)                                                 |
 | games-irl-and-music-directories                               | 01/11/2023, 10:35:39 am | 01/11/2023, 10:35:38 am | [Details](#games-irl-and-music-directories)                                |
 | nintendo-switch                                               | 01/11/2023, 5:04:10 am  | 01/11/2023, 5:04:08 am  | [Details](#nintendo-switch)                                                |
 | experiments                                                   | 31/10/2023, 7:47:45 am  | 31/10/2023, 7:47:44 am  | [Details](#experiments)                                                    |
@@ -1712,15 +1712,15 @@ https://help.twitch.tv/s/article/failed-payments
 ### featured-clips
 https://help.twitch.tv/s/article/featured-clips
 
-| Title               | Last Modified          | Created                 |
-|---------------------|------------------------|-------------------------|
-| Ausgewählte Clips   | 02/11/2023, 1:30:09 pm | 02/11/2023, 1:30:08 pm  |
-| Clip in primo piano | 02/11/2023, 1:30:09 pm | 02/11/2023, 1:30:08 pm  |
-| Clipes em destaque  | 02/11/2023, 1:30:09 pm | 02/11/2023, 1:30:08 pm  |
-| Clips destacados    | 02/11/2023, 1:30:09 pm | 02/11/2023, 1:30:08 pm  |
-| Clips destacados    | 02/11/2023, 1:30:09 pm | 02/11/2023, 1:30:08 pm  |
-| Clips à la une      | 02/11/2023, 1:30:09 pm | 02/11/2023, 1:30:08 pm  |
-| Featured Clips      | 02/11/2023, 1:30:09 pm | 02/11/2023, 1:29:57 pm  |
+| Title               | Last Modified           | Created                 |
+|---------------------|-------------------------|-------------------------|
+| Clip in primo piano | 05/11/2023, 11:01:19 pm | 02/11/2023, 1:31:06 pm  |
+| Clips destacados    | 05/11/2023, 11:01:17 pm | 02/11/2023, 1:31:06 pm  |
+| Clips destacados    | 05/11/2023, 11:01:15 pm | 02/11/2023, 1:31:06 pm  |
+| Clips à la une      | 05/11/2023, 11:01:08 pm | 02/11/2023, 1:31:06 pm  |
+| Clipes em destaque  | 05/11/2023, 11:01:04 pm | 02/11/2023, 1:31:06 pm  |
+| Ausgewählte Clips   | 05/11/2023, 11:01:02 pm | 02/11/2023, 1:31:06 pm  |
+| Featured Clips      | 02/11/2023, 1:30:09 pm  | 02/11/2023, 1:29:57 pm  |
 
 
 ### first-steps-for-new-affiliates

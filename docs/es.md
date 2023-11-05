@@ -53,6 +53,9 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Stream Summary                         | 12/09/2023, 6:12:19 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es)                          |
+| How To Use Raids                       | 12/09/2023, 6:12:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=es)                        |
+| Disconnect Protection                  | 12/09/2023, 6:11:28 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=es)                   |
 | Subscription Cancellation Reasons      | 12/09/2023, 6:09:13 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=es)       |
 | Twitch Turbo Guide                     | 12/09/2023, 4:03:25 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es)                      |
 | Twitch Studio Faq                      | 12/09/2023, 4:03:09 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=es)                       |
@@ -144,7 +147,6 @@
 | Earning Revenue From Bits In Extensions            | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=es)             |
 | Supported Browsers                                 | 17/10/2022, 6:33:34 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=es)                                  |
 | Twitch Content Sharing Guidelines                  | 13/10/2022, 7:53:06 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=es)                   |
-| Charitable Donations                               | 27/09/2022, 4:59:33 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=es)                                |
 
 
 
@@ -153,6 +155,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Charitable Donations                        | 27/09/2022, 4:59:33 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=es)                         |
 | Affiliate Emote Prefix Change               | 21/09/2022, 4:59:49 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=es)                |
 | Boost Train                                 | 20/09/2022, 2:34:35 am    | [Link](https://help.twitch.tv/s/article/boost-train?language=es)                                  |
 | Ingame Overlay                              | 14/09/2022, 1:36:33 am    | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=es)                               |
@@ -162,7 +165,6 @@
 | Emote Guidelines                            | 05/08/2022, 10:11:06 pm   | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es)                             |
 | Scene Importing                             | 03/08/2022, 5:54:37 am    | [Link](https://help.twitch.tv/s/article/scene-importing?language=es)                              |
 | Channel Points Predictions                  | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=es)                   |
-| Games Irl And Music Directories             | 28/07/2022, 3:03:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=es)              |
 | How To File A Video Playback Issue          | 08/07/2022, 10:40:03 pm   | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=es)           |
 | Artist Badge Attribution                    | 20/05/2022, 3:31:41 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=es)                     |
 | Creating A Strong Password                  | 18/05/2022, 0:39:26 am    | [Link](https://help.twitch.tv/s/article/creating-a-strong-password?language=es)                   |
@@ -182,7 +184,6 @@
 | Streamer Community Survey                   | 18/02/2022, 8:19:05 pm    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=es)                    |
 | Advanced Audio Mixer                        | 18/02/2022, 8:17:05 pm    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=es)                         |
 | Twitch Studio Updates                       | 18/02/2022, 8:07:11 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-updates?language=es)                        |
-| Nintendo Switch                             | 18/02/2022, 7:49:38 pm    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=es)                              |
 | Studio Obs Ndi                              | 18/02/2022, 7:47:33 pm    | [Link](https://help.twitch.tv/s/article/studio-obs-ndi?language=es)                               |
 | How To Handle View Follow Bots              | 18/02/2022, 2:33:34 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=es)               |
 | Studio Ui                                   | 18/02/2022, 1:48:03 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=es)                                    |

@@ -47,6 +47,7 @@
 | Stream Summary                                                | 12/09/2023, 6:21:36 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ru)                                                 |
 | Languages On Twitch                                           | 12/09/2023, 6:20:06 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ru)                                            |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:16:53 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=ru)  |
+| Disconnect Protection                                         | 12/09/2023, 6:13:16 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=ru)                                          |
 
 
 
@@ -55,6 +56,8 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| How To Use Raids                       | 12/09/2023, 6:12:00 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ru)                        |
+| Subscription Cancellation Reasons      | 12/09/2023, 6:11:14 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ru)       |
 | Twitch Turbo Guide                     | 12/09/2023, 4:02:43 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ru)                      |
 | Affiliate Settings Guide               | 08/09/2023, 1:14:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=ru)                |
 | Moments                                | 01/09/2023, 2:59:11 am    | [Link](https://help.twitch.tv/s/article/moments?language=ru)                                 |
@@ -94,7 +97,6 @@
 | Twitch Stream Key Faq                  | 30/05/2023, 4:42:38 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ru)                   |
 | Local Recording                        | 30/05/2023, 4:42:36 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=ru)                         |
 | Prime Gaming Revenue Guide             | 30/05/2023, 4:42:33 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ru)              |
-| Local Sub Price Countries              | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ru)               |
 
 
 
@@ -162,7 +164,6 @@
 | Emote Guidelines                            | 05/08/2022, 10:55:07 pm   | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=ru)                             |
 | Scene Importing                             | 02/08/2022, 5:27:14 pm    | [Link](https://help.twitch.tv/s/article/scene-importing?language=ru)                              |
 | Channel Points Predictions                  | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=ru)                   |
-| Games Irl And Music Directories             | 28/07/2022, 3:03:23 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=ru)              |
 | How To File A Video Playback Issue          | 08/07/2022, 5:11:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=ru)           |
 | Artist Badge Attribution                    | 20/05/2022, 3:31:52 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=ru)                     |
 | Creating A Strong Password                  | 18/05/2022, 0:39:26 am    | [Link](https://help.twitch.tv/s/article/creating-a-strong-password?language=ru)                   |
@@ -185,7 +186,6 @@
 | Modified Emotes                             | 19/11/2021, 5:13:45 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=ru)                              |
 | Emote Library                               | 19/11/2021, 5:13:08 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=ru)                                |
 | Default Emotes                              | 19/11/2021, 5:12:25 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=ru)                               |
-| Nintendo Switch                             | 12/11/2021, 4:48:16 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=ru)                              |
 | Broadcast Guidelines                        | 02/11/2021, 1:25:23 am    | [Link](https://help.twitch.tv/s/article/broadcast-guidelines?language=ru)                         |
 | Hyper Scape                                 | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/hyper-scape?language=ru)                                  |
 | Stream With Pride                           | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=ru)                            |
@@ -240,6 +240,8 @@
 | Amazon Associates                                 | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/amazon-associates?language=ru)                                  |
 | Low Latency Video                                 | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/low-latency-video?language=ru)                                  |
 | Nba G League Co Streaming Guide                   | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide?language=ru)                    |
+| How To Use Go Live Notifications                  | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=ru)                   |
+| How To Use Collections                            | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-collections?language=ru)                             |
 
 
 
@@ -248,8 +250,6 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
-| How To Use Go Live Notifications       | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=ru)        |
-| How To Use Collections                 | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-collections?language=ru)                  |
 | Where Are My Notifications             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=ru)              |
 | Streamer Notifications Preferences     | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=ru)      |
 | Smart Notification Setting             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ru)              |

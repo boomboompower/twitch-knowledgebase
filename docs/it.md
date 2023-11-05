@@ -57,6 +57,7 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Subscription Cancellation Reasons      | 12/09/2023, 6:12:32 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=it)       |
 | Twitch Turbo Guide                     | 12/09/2023, 4:02:43 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=it)                      |
 | Affiliate Settings Guide               | 08/09/2023, 1:14:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=it)                |
 | Moments                                | 01/09/2023, 2:59:11 am    | [Link](https://help.twitch.tv/s/article/moments?language=it)                                 |
@@ -96,7 +97,6 @@
 | Prime Gaming Revenue Guide             | 30/05/2023, 5:46:41 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)              |
 | Payout History Dashboard Guide         | 30/05/2023, 5:46:37 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=it)          |
 | Local Recording                        | 30/05/2023, 5:46:33 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=it)                         |
-| Local Sub Price Countries              | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=it)               |
 
 
 
@@ -146,7 +146,6 @@
 | Earning Revenue From Bits In Extensions            | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=it)             |
 | Supported Browsers                                 | 17/10/2022, 7:10:05 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=it)                                  |
 | Twitch Content Sharing Guidelines                  | 13/10/2022, 7:53:06 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=it)                   |
-| Charitable Donations                               | 27/09/2022, 11:46:35 pm   | [Link](https://help.twitch.tv/s/article/charitable-donations?language=it)                                |
 
 
 
@@ -155,6 +154,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Charitable Donations                        | 27/09/2022, 11:46:35 pm   | [Link](https://help.twitch.tv/s/article/charitable-donations?language=it)                         |
 | Affiliate Emote Prefix Change               | 21/09/2022, 4:59:49 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=it)                |
 | Boost Train                                 | 20/09/2022, 2:34:35 am    | [Link](https://help.twitch.tv/s/article/boost-train?language=it)                                  |
 | Ingame Overlay                              | 15/09/2022, 7:31:34 pm    | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=it)                               |
@@ -164,7 +164,6 @@
 | Emote Guidelines                            | 05/08/2022, 5:29:07 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=it)                             |
 | Scene Importing                             | 03/08/2022, 5:52:52 am    | [Link](https://help.twitch.tv/s/article/scene-importing?language=it)                              |
 | Channel Points Predictions                  | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=it)                   |
-| Games Irl And Music Directories             | 28/07/2022, 3:03:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=it)              |
 | How To File A Video Playback Issue          | 08/07/2022, 7:30:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=it)           |
 | Artist Badge Attribution                    | 20/05/2022, 3:31:49 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=it)                     |
 | Creating A Strong Password                  | 18/05/2022, 0:39:26 am    | [Link](https://help.twitch.tv/s/article/creating-a-strong-password?language=it)                   |
@@ -187,13 +186,13 @@
 | Modified Emotes                             | 19/11/2021, 5:13:44 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=it)                              |
 | Emote Library                               | 19/11/2021, 5:13:43 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=it)                                |
 | Default Emotes                              | 19/11/2021, 5:12:28 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=it)                               |
-| Nintendo Switch                             | 12/11/2021, 4:48:14 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=it)                              |
 | Broadcast Guidelines                        | 02/11/2021, 1:25:22 am    | [Link](https://help.twitch.tv/s/article/broadcast-guidelines?language=it)                         |
 | Hyper Scape                                 | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/hyper-scape?language=it)                                  |
 | Stream With Pride                           | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=it)                            |
 | Rpg Megacheer                               | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=it)                                |
 | Megacheer Food Fight                        | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=it)                         |
 | Community Meetups Powered By Twitch         | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=it)          |
+| Advanced Audio Mixer                        | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=it)                         |
 
 
 
@@ -202,8 +201,6 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
-| Advanced Audio Mixer                              | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=it)                               |
-| Studio Ui                                         | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=it)                                          |
 | Scene Transitions                                 | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/scene-transitions?language=it)                                  |
 | Setting Up Alerts                                 | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/setting-up-alerts?language=it)                                  |
 | Overview Of Audio                                 | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/overview-of-audio?language=it)                                  |

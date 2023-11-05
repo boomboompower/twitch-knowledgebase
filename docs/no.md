@@ -22,7 +22,6 @@
 | Account Hacked                                                | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=no)                                                 |
 | Twitch Teams                                                  | 28/07/2023, 3:24:45 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=no)                                                   |
 | Creating An Account With Twitch                               | 11/07/2023, 2:20:34 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=no)                                |
-| Twitch Prime Partner Guide                                    | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=no)                                     |
 
 
 
@@ -31,6 +30,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Prime Partner Guide                         | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=no)                          |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:14 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=no)  |
 | Guide To Tags                                      | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=no)                                       |
 | Two Factor Authentication With Authy               | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=no)                |
@@ -39,8 +39,6 @@
 | Chat Commands                                      | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=no)                                       |
 | Channel Page Setup                                 | 28/10/2022, 8:22:51 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=no)                                  |
 | Earning Revenue From Bits In Extensions Beta       | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=no)        |
-| Twitch Content Sharing Guidelines                  | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=no)                   |
-| How To Use Raids                                   | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=no)                                    |
 
 
 
@@ -49,6 +47,7 @@
 
 | Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
 |-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| How To Use Raids            | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=no)             |
 | A Tour Of Your Channel Page | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=no)  |
 
 
@@ -65,6 +64,7 @@
 | Guide To Custom Messages                          | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=no)                           |
 | Ad Offer Faq                                      | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=no)                                       |
 | Recommended Hardware For Broadcasting             | 22/10/2021, 8:53:11 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=no)              |
+| Getting Started With Amazon Associates            | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=no)             |
 
 
 
@@ -73,7 +73,6 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
-| Getting Started With Amazon Associates | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=no)  |
 | Streamer Notifications Preferences     | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=no)      |
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=no)  |
 
