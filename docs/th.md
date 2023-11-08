@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Follower Emotes                                          | 08/11/2023, 11:26:43 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=th)                                           |
 | Partner Program Overview                                 | 04/11/2023, 5:25:06 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)                                  |
 | Games Irl And Music Directories                          | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=th)                           |
 | Nintendo Switch                                          | 01/11/2023, 5:04:10 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=th)                                           |
@@ -46,9 +47,6 @@
 | Guest Star Audio                                         | 12/09/2023, 6:23:17 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=th)                                          |
 | Languages On Twitch                                      | 12/09/2023, 6:22:14 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=th)                                       |
 | How To Use Raids                                         | 12/09/2023, 6:17:35 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=th)                                          |
-| Subscription Cancellation Reasons                        | 12/09/2023, 6:14:40 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=th)                         |
-| Disconnect Protection                                    | 12/09/2023, 6:14:01 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=th)                                     |
-| Stream Summary                                           | 12/09/2023, 6:13:58 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=th)                                            |
 
 
 

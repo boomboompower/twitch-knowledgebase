@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Follower Emotes                                               | 08/11/2023, 11:26:22 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=fr)                                                |
 | Partner Program Overview                                      | 04/11/2023, 5:21:49 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=fr)                                       |
 | Games Irl And Music Directories                               | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=fr)                                |
 | Nintendo Switch                                               | 01/11/2023, 5:04:10 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=fr)                                                |
@@ -49,7 +50,6 @@
 | Channel Points Faq                                            | 12/09/2023, 6:17:40 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=fr)                                             |
 | How To Use Raids                                              | 12/09/2023, 6:17:29 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=fr)                                               |
 | Disconnect Protection                                         | 12/09/2023, 6:15:31 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=fr)                                          |
-| Subscription Cancellation Reasons                             | 12/09/2023, 6:14:43 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=fr)                              |
 
 
 

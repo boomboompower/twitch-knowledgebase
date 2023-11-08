@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Follower Emotes                                               | 08/11/2023, 11:26:30 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=ko)                                                |
 | Partner Program Overview                                      | 04/11/2023, 5:23:01 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)                                       |
 | Games Irl And Music Directories                               | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=ko)                                |
 | Nintendo Switch                                               | 01/11/2023, 5:04:10 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=ko)                                                |
@@ -47,7 +48,6 @@
 | Hindsight 2020                                                | 12/09/2023, 6:21:03 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=ko)                                                 |
 | Languages On Twitch                                           | 12/09/2023, 6:20:25 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ko)                                            |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:16:48 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=ko)  |
-| Disconnect Protection                                         | 12/09/2023, 6:14:44 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=ko)                                          |
 
 
 

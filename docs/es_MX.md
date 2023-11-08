@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Follower Emotes                                               | 08/11/2023, 11:26:39 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=es_MX)                                                |
 | Partner Program Overview                                      | 04/11/2023, 5:24:43 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)                                       |
 | Games Irl And Music Directories                               | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=es_MX)                                |
 | Nintendo Switch                                               | 01/11/2023, 5:04:10 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=es_MX)                                                |
