@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| follower-emotes                                               | 08/11/2023, 11:26:40 am | 28/10/2023, 9:26:59 am  | [Details](#follower-emotes)                                                |
 | featured-clips                                                | 05/11/2023, 11:01:19 pm | 02/11/2023, 1:31:06 pm  | [Details](#featured-clips)                                                 |
 | partner-program-overview                                      | 04/11/2023, 5:24:54 am  | 28/10/2023, 9:24:40 am  | [Details](#partner-program-overview)                                       |
 | minimum-payout-threshold                                      | 04/11/2023, 4:34:32 am  | 04/11/2023, 4:34:31 am  | [Details](#minimum-payout-threshold)                                       |
@@ -183,7 +184,6 @@ Language data is not included in the API. All page links will not have a languag
 | twitch-research-surveys                                       | 03/01/2023, 9:17:37 am  | 03/01/2023, 9:17:37 am  | [Details](#twitch-research-surveys)                                        |
 | how-to-use-polls                                              | 03/01/2023, 8:49:10 am  | 30/11/2022, 11:18:17 am | [Details](#how-to-use-polls)                                               |
 | annual-recap                                                  | 17/12/2022, 2:22:32 am  | 17/12/2022, 2:22:31 am  | [Details](#annual-recap)                                                   |
-| follower-emotes                                               | 15/12/2022, 7:29:48 am  | 09/12/2022, 11:00:21 am | [Details](#follower-emotes)                                                |
 | live-viewer-feedback                                          | 10/12/2022, 8:46:52 am  | 10/12/2022, 8:42:17 am  | [Details](#live-viewer-feedback)                                           |
 | how-to-use-host-mode                                          | 10/12/2022, 8:09:10 am  | 10/12/2022, 8:09:09 am  | [Details](#how-to-use-host-mode)                                           |
 | your-first-payout-walkthrough                                 | 10/12/2022, 1:47:35 am  | 06/12/2022, 10:18:50 am | [Details](#your-first-payout-walkthrough)                                  |
@@ -1758,15 +1758,15 @@ https://help.twitch.tv/s/article/follow-cue
 ### follower-emotes
 https://help.twitch.tv/s/article/follower-emotes
 
-| Title                    | Last Modified          | Created                  |
-|--------------------------|------------------------|--------------------------|
-| Emotes de Seguidor       | 15/12/2022, 7:29:48 am | 09/12/2022, 11:00:21 am  |
-| Emoticon per i follower  | 15/12/2022, 7:29:48 am | 09/12/2022, 11:00:21 am  |
-| Emoticonos de seguidor   | 15/12/2022, 7:29:48 am | 09/12/2022, 11:00:21 am  |
-| Emotki dla obserwujących | 15/12/2022, 7:29:48 am | 09/12/2022, 11:00:21 am  |
-| Emoticonos de seguidor   | 15/12/2022, 7:29:47 am | 09/12/2022, 11:00:21 am  |
-| Follower Emotes          | 15/12/2022, 7:29:47 am | 08/12/2022, 9:08:50 am   |
-| Follower-Emotes          | 15/12/2022, 7:29:47 am | 09/12/2022, 11:00:21 am  |
+| Title                    | Last Modified           | Created                 |
+|--------------------------|-------------------------|-------------------------|
+| Emoticonos de seguidor   | 08/11/2023, 11:26:40 am | 28/10/2023, 9:26:59 am  |
+| Emoticonos de seguidor   | 08/11/2023, 11:26:39 am | 28/10/2023, 9:26:59 am  |
+| Emotes de Seguidor       | 08/11/2023, 11:26:35 am | 28/10/2023, 9:26:59 am  |
+| Emotki dla obserwujących | 08/11/2023, 11:26:33 am | 28/10/2023, 9:26:59 am  |
+| Emoticon per i follower  | 08/11/2023, 11:26:26 am | 28/10/2023, 9:26:59 am  |
+| Follower-Emotes          | 08/11/2023, 11:26:24 am | 28/10/2023, 9:26:59 am  |
+| Follower Emotes          | 08/11/2023, 7:30:04 am  | 26/10/2023, 7:53:57 am  |
 
 
 ### founders-badge
