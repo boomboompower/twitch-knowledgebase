@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| how-to-use-clips                                              | 09/11/2023, 9:00:16 am  | 20/09/2023, 7:33:40 am  | [Details](#how-to-use-clips)                                               |
 | follower-emotes                                               | 08/11/2023, 11:26:40 am | 28/10/2023, 9:26:59 am  | [Details](#follower-emotes)                                                |
 | featured-clips                                                | 05/11/2023, 11:01:19 pm | 02/11/2023, 1:31:06 pm  | [Details](#featured-clips)                                                 |
 | partner-program-overview                                      | 04/11/2023, 5:24:54 am  | 28/10/2023, 9:24:40 am  | [Details](#partner-program-overview)                                       |
@@ -63,7 +64,6 @@ Language data is not included in the API. All page links will not have a languag
 | partner-plus-abuse                                            | 26/09/2023, 3:33:33 am  | 26/09/2023, 3:33:31 am  | [Details](#partner-plus-abuse)                                             |
 | bounty-board-program-information-and-faq                      | 23/09/2023, 2:16:34 am  | 12/09/2023, 4:15:15 am  | [Details](#bounty-board-program-information-and-faq)                       |
 | channel-analytics                                             | 21/09/2023, 9:11:38 am  | 21/09/2023, 6:39:29 am  | [Details](#channel-analytics)                                              |
-| how-to-use-clips                                              | 20/09/2023, 7:32:44 am  | 20/09/2023, 7:31:52 am  | [Details](#how-to-use-clips)                                               |
 | mod-view                                                      | 19/09/2023, 10:15:03 pm | 15/09/2023, 8:30:47 am  | [Details](#mod-view)                                                       |
 | affiliate-onboarding-guide                                    | 19/09/2023, 9:07:52 am  | 19/09/2023, 7:26:14 am  | [Details](#affiliate-onboarding-guide)                                     |
 | subpoint-vs-subcount                                          | 13/09/2023, 7:06:08 am  | 06/09/2023, 10:23:44 am | [Details](#subpoint-vs-subcount)                                           |
@@ -2544,14 +2544,14 @@ https://help.twitch.tv/s/article/how-to-use-clips
 
 | Title                                                                | Last Modified          | Created                 |
 |----------------------------------------------------------------------|------------------------|-------------------------|
-| How to Use Create, Edit, and Share Clips                             | 20/09/2023, 7:32:44 am | 20/09/2023, 7:31:52 am  |
-| Come usare, creare, modificare e condividere le clip                 | 20/09/2023, 7:32:42 am | 20/09/2023, 7:32:42 am  |
-| Comment créer, éditer et partager des clips                          | 20/09/2023, 7:32:42 am | 20/09/2023, 7:32:42 am  |
-| Como usar, criar, editar e compartilhar clipes                       | 20/09/2023, 7:32:42 am | 20/09/2023, 7:32:42 am  |
-| Cómo crear, editar y compartir clips                                 | 20/09/2023, 7:32:42 am | 20/09/2023, 7:32:42 am  |
-| Cómo crear, editar y compartir clips                                 | 20/09/2023, 7:32:42 am | 20/09/2023, 7:32:42 am  |
-| Jak tworzyć, edytować i udostępniać klipy oraz jak z nich korzystać? | 20/09/2023, 7:32:42 am | 20/09/2023, 7:32:42 am  |
-| Klip oluşturma, düzenleme ve paylaşma                                | 20/09/2023, 7:32:42 am | 20/09/2023, 7:32:42 am  |
+| How to Use Create, Edit, and Share Clips                             | 09/11/2023, 9:00:16 am | 20/09/2023, 7:33:40 am  |
+| Come usare, creare, modificare e condividere le clip                 | 09/11/2023, 9:00:15 am | 09/11/2023, 9:00:13 am  |
+| Comment créer, éditer et partager des clips                          | 09/11/2023, 9:00:15 am | 09/11/2023, 9:00:13 am  |
+| Como usar, criar, editar e compartilhar clipes                       | 09/11/2023, 9:00:15 am | 09/11/2023, 9:00:13 am  |
+| Cómo crear, editar y compartir clips                                 | 09/11/2023, 9:00:15 am | 09/11/2023, 9:00:13 am  |
+| Cómo crear, editar y compartir clips                                 | 09/11/2023, 9:00:15 am | 09/11/2023, 9:00:13 am  |
+| Jak tworzyć, edytować i udostępniać klipy oraz jak z nich korzystać? | 09/11/2023, 9:00:15 am | 09/11/2023, 9:00:13 am  |
+| Klip oluşturma, düzenleme ve paylaşma                                | 09/11/2023, 9:00:15 am | 09/11/2023, 9:00:13 am  |
 
 
 ### how-to-use-collections
