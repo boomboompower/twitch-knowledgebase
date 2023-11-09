@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                              | 09/11/2023, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                               |
 | Follower Emotes                                               | 08/11/2023, 11:26:40 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=es)                                                |
 | Partner Program Overview                                      | 04/11/2023, 5:24:54 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                                       |
 | Games Irl And Music Directories                               | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=es)                                |
@@ -37,7 +38,6 @@
 | Ads Manager                                                   | 29/09/2023, 3:02:46 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=es)                                                    |
 | Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=es)                       |
 | Channel Analytics                                             | 21/09/2023, 9:11:44 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=es)                                              |
-| How To Use Clips                                              | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                               |
 | Mod View                                                      | 19/09/2023, 10:10:38 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=es)                                                       |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:52 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es)                                     |
 | Subpoint Vs Subcount                                          | 13/09/2023, 7:06:06 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=es)                                           |

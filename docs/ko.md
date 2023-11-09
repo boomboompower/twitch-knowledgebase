@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                              | 09/11/2023, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ko)                                               |
 | Follower Emotes                                               | 08/11/2023, 11:26:30 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=ko)                                                |
 | Partner Program Overview                                      | 04/11/2023, 5:23:01 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)                                       |
 | Games Irl And Music Directories                               | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=ko)                                |
@@ -37,7 +38,6 @@
 | Ads Manager                                                   | 29/09/2023, 3:02:46 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ko)                                                    |
 | Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=ko)                       |
 | Channel Analytics                                             | 21/09/2023, 9:11:49 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ko)                                              |
-| How To Use Clips                                              | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ko)                                               |
 | Mod View                                                      | 19/09/2023, 10:12:33 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=ko)                                                       |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:33 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ko)                                     |
 | Subpoint Vs Subcount                                          | 13/09/2023, 7:06:07 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ko)                                           |
@@ -48,6 +48,7 @@
 | Hindsight 2020                                                | 12/09/2023, 6:21:03 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=ko)                                                 |
 | Languages On Twitch                                           | 12/09/2023, 6:20:25 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ko)                                            |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:16:48 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=ko)  |
+| Disconnect Protection                                         | 12/09/2023, 6:14:44 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=ko)                                          |
 
 
 

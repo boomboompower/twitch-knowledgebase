@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                         | 09/11/2023, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                          |
 | Follower Emotes                                          | 08/11/2023, 11:26:24 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=de)                                           |
 | Partner Program Overview                                 | 04/11/2023, 5:21:54 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                  |
 | Games Irl And Music Directories                          | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=de)                           |
@@ -40,7 +41,6 @@
 | Ads Manager                                              | 29/09/2023, 3:02:45 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=de)                                               |
 | Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=de)                  |
 | Channel Analytics                                        | 21/09/2023, 9:11:43 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=de)                                         |
-| How To Use Clips                                         | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                          |
 | Mod View                                                 | 19/09/2023, 10:10:04 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                                  |
 | Affiliate Onboarding Guide                               | 19/09/2023, 9:07:48 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=de)                                |
 | Twitch Studio Faq                                        | 14/09/2023, 9:28:05 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=de)                                         |

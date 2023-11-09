@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                         | 09/11/2023, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                          |
 | Follower Emotes                                          | 08/11/2023, 11:26:28 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=ja)                                           |
 | Guest Star Faqs                                          | 07/11/2023, 3:18:02 pm    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=ja)                                           |
 | Guest Star Getting Started                               | 07/11/2023, 3:16:03 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ja)                                |
@@ -38,7 +39,6 @@
 | Ads Manager                                              | 29/09/2023, 3:02:46 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ja)                                               |
 | Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=ja)                  |
 | Channel Analytics                                        | 21/09/2023, 9:11:41 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ja)                                         |
-| How To Use Clips                                         | 20/09/2023, 7:32:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                          |
 | Mod View                                                 | 19/09/2023, 10:12:03 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                                  |
 | Affiliate Onboarding Guide                               | 19/09/2023, 9:07:43 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ja)                                |
 | Subpoint Vs Subcount                                     | 13/09/2023, 7:06:07 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ja)                                      |
@@ -48,6 +48,7 @@
 | How To Use Raids                                         | 12/09/2023, 6:17:29 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ja)                                          |
 | Stream Summary                                           | 12/09/2023, 6:16:36 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ja)                                            |
 | Languages On Twitch                                      | 12/09/2023, 6:15:44 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ja)                                       |
+| Subscription Cancellation Reasons                        | 12/09/2023, 6:14:31 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ja)                         |
 
 
 
