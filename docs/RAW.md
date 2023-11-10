@@ -7,21 +7,21 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| nintendo-switch                                               | 10/11/2023, 10:52:32 pm | 31/10/2023, 8:41:40 am  | [Details](#nintendo-switch)                                                |
+| hype-chat-for-streamers                                       | 10/11/2023, 10:49:32 pm | 08/11/2023, 6:34:00 am  | [Details](#hype-chat-for-streamers)                                        |
+| partner-program-overview                                      | 10/11/2023, 10:47:36 pm | 10/11/2023, 10:47:35 pm | [Details](#partner-program-overview)                                       |
+| hype-chat-pricing-by-country                                  | 10/11/2023, 10:47:34 pm | 08/11/2023, 6:34:25 am  | [Details](#hype-chat-pricing-by-country)                                   |
+| hype-chat-by-twitch                                           | 10/11/2023, 10:13:32 pm | 08/11/2023, 6:33:40 am  | [Details](#hype-chat-by-twitch)                                            |
 | guide-to-cheering-with-bits                                   | 10/11/2023, 10:15:22 am | 10/11/2023, 10:15:08 am | [Details](#guide-to-cheering-with-bits)                                    |
 | how-to-purchase-bits                                          | 10/11/2023, 7:04:34 am  | 09/08/2023, 5:27:11 pm  | [Details](#how-to-purchase-bits)                                           |
-| hype-chat-for-streamers                                       | 10/11/2023, 5:13:05 am  | 10/11/2023, 5:13:04 am  | [Details](#hype-chat-for-streamers)                                        |
-| hype-chat-by-twitch                                           | 10/11/2023, 5:13:03 am  | 10/11/2023, 5:13:02 am  | [Details](#hype-chat-by-twitch)                                            |
 | hype-chat-faq                                                 | 10/11/2023, 5:01:17 am  | 10/11/2023, 5:01:16 am  | [Details](#hype-chat-faq)                                                  |
 | affiliate-settings-guide                                      | 10/11/2023, 4:57:15 am  | 14/10/2023, 9:36:30 am  | [Details](#affiliate-settings-guide)                                       |
 | partner-settings-guide                                        | 10/11/2023, 4:57:08 am  | 14/10/2023, 9:35:07 am  | [Details](#partner-settings-guide)                                         |
-| hype-chat-pricing-by-country                                  | 10/11/2023, 4:56:09 am  | 10/11/2023, 4:56:08 am  | [Details](#hype-chat-pricing-by-country)                                   |
 | guide-to-bits-history                                         | 10/11/2023, 4:55:47 am  | 10/11/2023, 4:55:47 am  | [Details](#guide-to-bits-history)                                          |
 | cheering-for-partners-affiliates                              | 10/11/2023, 4:55:30 am  | 10/11/2023, 4:55:29 am  | [Details](#cheering-for-partners-affiliates)                               |
-| nintendo-switch                                               | 10/11/2023, 4:36:34 am  | 31/10/2023, 8:41:40 am  | [Details](#nintendo-switch)                                                |
 | how-to-use-clips                                              | 09/11/2023, 9:00:16 am  | 20/09/2023, 7:33:40 am  | [Details](#how-to-use-clips)                                               |
 | follower-emotes                                               | 08/11/2023, 11:26:40 am | 28/10/2023, 9:26:59 am  | [Details](#follower-emotes)                                                |
 | featured-clips                                                | 05/11/2023, 11:01:19 pm | 02/11/2023, 1:31:06 pm  | [Details](#featured-clips)                                                 |
-| partner-program-overview                                      | 04/11/2023, 5:24:54 am  | 28/10/2023, 9:24:40 am  | [Details](#partner-program-overview)                                       |
 | minimum-payout-threshold                                      | 04/11/2023, 4:34:32 am  | 04/11/2023, 4:34:31 am  | [Details](#minimum-payout-threshold)                                       |
 | streamer-read-ads                                             | 03/11/2023, 10:20:09 am | 04/10/2023, 0:18:43 pm  | [Details](#streamer-read-ads)                                              |
 | channel-skins                                                 | 03/11/2023, 10:19:31 am | 04/10/2023, 0:18:22 pm  | [Details](#channel-skins)                                                  |
@@ -2726,13 +2726,13 @@ https://help.twitch.tv/s/article/hype-challenge
 ### hype-chat-by-twitch
 https://help.twitch.tv/s/article/hype-chat-by-twitch
 
-| Title                    | Last Modified          | Created                 |
-|--------------------------|------------------------|-------------------------|
-| Hype Chat คืออะไร?       | 10/11/2023, 5:13:03 am | 10/11/2023, 5:13:02 am  |
-| Cosa sono gli Hype Chat? | 10/11/2023, 4:55:39 am | 10/11/2023, 4:55:38 am  |
-| Czym jest Hype Chat?     | 10/11/2023, 4:55:39 am | 10/11/2023, 4:55:38 am  |
-| Hype Chat 是什麼？           | 10/11/2023, 4:55:39 am | 10/11/2023, 4:55:38 am  |
-| O que é um Hype Chat?    | 10/11/2023, 4:55:39 am | 10/11/2023, 4:55:38 am  |
+| Title                    | Last Modified           | Created                 |
+|--------------------------|-------------------------|-------------------------|
+| Czym jest Hype Chat?     | 10/11/2023, 10:13:32 pm | 08/11/2023, 6:33:40 am  |
+| Hype Chat 是什麼？           | 10/11/2023, 9:20:04 pm  | 08/11/2023, 6:33:40 am  |
+| O que é um Hype Chat?    | 10/11/2023, 9:18:04 pm  | 08/11/2023, 6:33:40 am  |
+| Hype Chat คืออะไร?       | 10/11/2023, 5:13:03 am  | 10/11/2023, 5:13:02 am  |
+| Cosa sono gli Hype Chat? | 10/11/2023, 4:55:39 am  | 10/11/2023, 4:55:38 am  |
 
 
 ### hype-chat-faq
@@ -2751,28 +2751,28 @@ https://help.twitch.tv/s/article/hype-chat-faq
 ### hype-chat-for-streamers
 https://help.twitch.tv/s/article/hype-chat-for-streamers
 
-| Title                        | Last Modified          | Created                 |
-|------------------------------|------------------------|-------------------------|
-| Hype Chat สำหรับสตรีมเมอร์   | 10/11/2023, 5:13:05 am | 10/11/2023, 5:13:04 am  |
-| Hype Chat dla streamerów     | 10/11/2023, 4:55:57 am | 10/11/2023, 4:55:57 am  |
-| Hype Chat For Streamers      | 10/11/2023, 4:55:57 am | 08/11/2023, 4:29:39 am  |
-| Hype Chat para streamers     | 10/11/2023, 4:55:57 am | 08/11/2023, 6:34:00 am  |
-| Hype Chat para streamers     | 10/11/2023, 4:55:57 am | 10/11/2023, 4:55:57 am  |
-| Hype Chat para streamers     | 10/11/2023, 4:55:57 am | 10/11/2023, 4:55:57 am  |
-| Hype Chat per gli streamer   | 10/11/2023, 4:55:57 am | 10/11/2023, 4:55:57 am  |
-| Hype Chat pour les Streamers | 10/11/2023, 4:55:57 am | 10/11/2023, 4:55:57 am  |
-| Hype Chat：實況主篇               | 10/11/2023, 4:55:57 am | 10/11/2023, 4:55:57 am  |
-| Hype-Chat für Streamer       | 10/11/2023, 4:55:57 am | 10/11/2023, 4:55:57 am  |
+| Title                        | Last Modified           | Created                 |
+|------------------------------|-------------------------|-------------------------|
+| Hype Chat pour les Streamers | 10/11/2023, 10:49:32 pm | 08/11/2023, 6:34:00 am  |
+| Hype-Chat für Streamer       | 10/11/2023, 10:47:45 pm | 08/11/2023, 6:34:00 am  |
+| Hype Chat dla streamerów     | 10/11/2023, 10:13:32 pm | 08/11/2023, 6:34:00 am  |
+| Hype Chat para streamers     | 10/11/2023, 10:12:36 pm | 08/11/2023, 6:34:00 am  |
+| Hype Chat：實況主篇               | 10/11/2023, 9:20:18 pm  | 08/11/2023, 6:34:00 am  |
+| Hype Chat para streamers     | 10/11/2023, 9:18:04 pm  | 08/11/2023, 6:34:00 am  |
+| Hype Chat สำหรับสตรีมเมอร์   | 10/11/2023, 5:13:05 am  | 10/11/2023, 5:13:04 am  |
+| Hype Chat For Streamers      | 10/11/2023, 4:55:57 am  | 08/11/2023, 4:29:39 am  |
+| Hype Chat para streamers     | 10/11/2023, 4:55:57 am  | 08/11/2023, 6:34:00 am  |
+| Hype Chat per gli streamer   | 10/11/2023, 4:55:57 am  | 10/11/2023, 4:55:57 am  |
 
 
 ### hype-chat-pricing-by-country
 https://help.twitch.tv/s/article/hype-chat-pricing-by-country
 
-| Title                        | Last Modified          | Created                 |
-|------------------------------|------------------------|-------------------------|
-| Ceny Hype Chatu według kraju | 10/11/2023, 4:56:09 am | 10/11/2023, 4:56:08 am  |
-| Hype Chat Pricing by Country | 10/11/2023, 4:56:09 am | 08/11/2023, 4:31:02 am  |
-| Hype-Chat-Peise nach Land    | 10/11/2023, 4:56:09 am | 10/11/2023, 4:56:08 am  |
+| Title                        | Last Modified           | Created                 |
+|------------------------------|-------------------------|-------------------------|
+| Hype-Chat-Peise nach Land    | 10/11/2023, 10:47:34 pm | 08/11/2023, 6:34:25 am  |
+| Ceny Hype Chatu według kraju | 10/11/2023, 10:13:38 pm | 08/11/2023, 6:34:25 am  |
+| Hype Chat Pricing by Country | 10/11/2023, 4:56:09 am  | 08/11/2023, 4:31:02 am  |
 
 
 ### hype-train-guide
@@ -3315,17 +3315,17 @@ https://help.twitch.tv/s/article/new-device-and-location-verification
 ### nintendo-switch
 https://help.twitch.tv/s/article/nintendo-switch
 
-| Title                                      | Last Modified          | Created                 |
-|--------------------------------------------|------------------------|-------------------------|
-| Aplicación de Twitch para Nintendo Switch™ | 10/11/2023, 4:36:34 am | 31/10/2023, 8:41:40 am  |
-| Aplicación de Twitch para Nintendo Switch™ | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
-| Aplicativo da Twitch no Nintendo Switch™   | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
-| Aplikacja Twitcha na Nintendo Switch™      | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
-| App Twitch per Nintendo Switch™            | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
-| Application Twitch sur Nintendo Switch™    | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
-| Nintendo Switch™ Twitch 앱                  | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
-| Nintendo Switch™ 版 Twitch App              | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:09 am  |
-| Nintendo Switch™版のTwitchアプリ                | 01/11/2023, 5:04:10 am | 01/11/2023, 5:04:08 am  |
+| Title                                      | Last Modified           | Created                 |
+|--------------------------------------------|-------------------------|-------------------------|
+| Application Twitch sur Nintendo Switch™    | 10/11/2023, 10:52:32 pm | 31/10/2023, 8:41:40 am  |
+| Aplikacja Twitcha na Nintendo Switch™      | 10/11/2023, 10:23:32 pm | 31/10/2023, 8:41:40 am  |
+| Aplicación de Twitch para Nintendo Switch™ | 10/11/2023, 10:12:03 pm | 31/10/2023, 8:41:40 am  |
+| Nintendo Switch™ Twitch 앱                  | 10/11/2023, 9:29:40 pm  | 31/10/2023, 8:41:40 am  |
+| Nintendo Switch™ 版 Twitch App              | 10/11/2023, 9:22:09 pm  | 31/10/2023, 8:41:40 am  |
+| Aplicativo da Twitch no Nintendo Switch™   | 10/11/2023, 9:20:08 pm  | 31/10/2023, 8:41:40 am  |
+| Nintendo Switch™版のTwitchアプリ                | 10/11/2023, 7:49:34 pm  | 31/10/2023, 8:41:40 am  |
+| App Twitch per Nintendo Switch™            | 10/11/2023, 7:39:35 pm  | 31/10/2023, 8:41:40 am  |
+| Aplicación de Twitch para Nintendo Switch™ | 10/11/2023, 4:36:34 am  | 31/10/2023, 8:41:40 am  |
 
 
 ### not-receiving-sms
@@ -3439,10 +3439,10 @@ https://help.twitch.tv/s/article/partner-plus-abuse
 ### partner-program-overview
 https://help.twitch.tv/s/article/partner-program-overview
 
-| Title                                                | Last Modified          | Created                 |
-|------------------------------------------------------|------------------------|-------------------------|
-| Descripción general del programa de socios de Twitch | 04/11/2023, 5:24:54 am | 28/10/2023, 9:24:40 am  |
-| Das Partnerprogramm von Twitch im Überblick          | 04/11/2023, 5:21:54 am | 28/10/2023, 9:24:40 am  |
+| Title                                                | Last Modified           | Created                  |
+|------------------------------------------------------|-------------------------|--------------------------|
+| Das Partnerprogramm von Twitch im Überblick          | 10/11/2023, 10:47:36 pm | 10/11/2023, 10:47:35 pm  |
+| Descripción general del programa de socios de Twitch | 10/11/2023, 10:12:07 pm | 10/11/2023, 10:12:05 pm  |
 
 
 ### partner-settings-guide
