@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Sponsorship Experiments Faq                              | 14/11/2023, 4:34:04 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=de)                               |
 | Nintendo Switch                                          | 10/11/2023, 10:47:40 pm   | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=de)                                           |
 | Partner Program Overview                                 | 10/11/2023, 10:47:36 pm   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                  |
 | Guide To Cheering With Bits                              | 10/11/2023, 10:15:20 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=de)                               |
@@ -50,8 +51,6 @@
 | Subpoint Vs Subcount                                     | 13/09/2023, 7:06:06 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=de)                                      |
 | Channel Points Faq                                       | 12/09/2023, 6:23:35 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=de)                                        |
 | Guest Star Audio                                         | 12/09/2023, 6:22:19 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=de)                                          |
-| Languages On Twitch                                      | 12/09/2023, 6:19:49 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=de)                                       |
-| Hindsight 2020                                           | 12/09/2023, 6:19:22 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=de)                                            |
 
 
 

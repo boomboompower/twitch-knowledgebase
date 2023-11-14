@@ -4,52 +4,52 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
-|---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Nintendo Switch                                               | 10/11/2023, 9:20:08 pm    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=pt_BR)                                                |
-| Partner Program Overview                                      | 10/11/2023, 9:20:05 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)                                       |
-| Guide To Cheering With Bits                                   | 10/11/2023, 10:15:20 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_BR)                                    |
-| Affiliate Settings Guide                                      | 10/11/2023, 4:57:15 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=pt_BR)                                       |
-| Partner Settings Guide                                        | 10/11/2023, 4:57:08 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=pt_BR)                                         |
-| How To Use Clips                                              | 09/11/2023, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                               |
-| Follower Emotes                                               | 08/11/2023, 11:26:35 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=pt_BR)                                                |
-| Games Irl And Music Directories                               | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=pt_BR)                                |
-| Experiments                                                   | 31/10/2023, 7:47:45 am    | [Link](https://help.twitch.tv/s/article/experiments?language=pt_BR)                                                    |
-| Recommended Software For Broadcasting                         | 28/10/2023, 5:03:39 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=pt_BR)                          |
-| Getting Started Twitch Studio                                 | 28/10/2023, 5:03:37 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=pt_BR)                                  |
-| Ban Evasion                                                   | 28/10/2023, 5:03:16 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=pt_BR)                                                    |
-| Twitch Studio Mac Faq                                         | 28/10/2023, 4:26:09 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=pt_BR)                                          |
-| Guest Star Faqs                                               | 27/10/2023, 9:19:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=pt_BR)                                                |
-| Guest Star Getting Started                                    | 27/10/2023, 9:19:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=pt_BR)                                     |
-| Stream Together Guest Guide                                   | 27/10/2023, 9:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=pt_BR)                                    |
-| Stream Together Host Guide                                    | 27/10/2023, 9:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=pt_BR)                                     |
-| How To Use Automod                                            | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_BR)                                             |
-| Guest Star Reporting                                          | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=pt_BR)                                           |
-| Guest Star                                                    | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=pt_BR)                                                     |
-| Twitch Affiliate Program Faq                                  | 20/10/2023, 4:37:48 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_BR)                                   |
-| Joining The Affiliate Program                                 | 20/10/2023, 4:37:34 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                                  |
-| Mission Based Drops                                           | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pt_BR)                                            |
-| About Account Suspensions Dmca Suspensions And Chat Bans      | 19/10/2023, 0:25:36 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_BR)       |
-| Stream Display Ads                                            | 19/10/2023, 0:25:33 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pt_BR)                                             |
-| Tips For Applying To The Partner Program                      | 18/10/2023, 0:36:03 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=pt_BR)                       |
-| Achievements                                                  | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_BR)                                                   |
-| How To Manage Harassment In Chat                              | 13/10/2023, 9:47:43 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_BR)                               |
-| Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=pt_BR)                                        |
-| Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=pt_BR)                             |
-| Brand Surveys                                                 | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=pt_BR)                                                  |
-| Twitch Studio Faq                                             | 06/10/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=pt_BR)                                              |
-| Broadcasting Guidelines                                       | 29/09/2023, 11:52:37 pm   | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=pt_BR)                                        |
-| Ads Manager                                                   | 29/09/2023, 3:02:47 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=pt_BR)                                                    |
-| Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=pt_BR)                       |
-| Channel Analytics                                             | 21/09/2023, 9:11:34 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_BR)                                              |
-| Mod View                                                      | 19/09/2023, 10:13:03 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=pt_BR)                                                       |
-| Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:41 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pt_BR)                                     |
-| Subpoint Vs Subcount                                          | 13/09/2023, 7:06:07 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=pt_BR)                                           |
-| Hindsight 2020                                                | 12/09/2023, 6:23:56 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=pt_BR)                                                 |
-| Guest Star Audio                                              | 12/09/2023, 6:23:48 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=pt_BR)                                               |
-| Channel Points Faq                                            | 12/09/2023, 6:23:31 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=pt_BR)                                             |
-| Languages On Twitch                                           | 12/09/2023, 6:20:51 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=pt_BR)                                            |
-| Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:20:14 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pt_BR)  |
+| Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
+|----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Sponsorship Experiments Faq                              | 14/11/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=pt_BR)                               |
+| Nintendo Switch                                          | 10/11/2023, 9:20:08 pm    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=pt_BR)                                           |
+| Partner Program Overview                                 | 10/11/2023, 9:20:05 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)                                  |
+| Guide To Cheering With Bits                              | 10/11/2023, 10:15:20 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_BR)                               |
+| Affiliate Settings Guide                                 | 10/11/2023, 4:57:15 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=pt_BR)                                  |
+| Partner Settings Guide                                   | 10/11/2023, 4:57:08 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=pt_BR)                                    |
+| How To Use Clips                                         | 09/11/2023, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                          |
+| Follower Emotes                                          | 08/11/2023, 11:26:35 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=pt_BR)                                           |
+| Games Irl And Music Directories                          | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=pt_BR)                           |
+| Experiments                                              | 31/10/2023, 7:47:45 am    | [Link](https://help.twitch.tv/s/article/experiments?language=pt_BR)                                               |
+| Recommended Software For Broadcasting                    | 28/10/2023, 5:03:39 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=pt_BR)                     |
+| Getting Started Twitch Studio                            | 28/10/2023, 5:03:37 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=pt_BR)                             |
+| Ban Evasion                                              | 28/10/2023, 5:03:16 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=pt_BR)                                               |
+| Twitch Studio Mac Faq                                    | 28/10/2023, 4:26:09 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=pt_BR)                                     |
+| Guest Star Faqs                                          | 27/10/2023, 9:19:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=pt_BR)                                           |
+| Guest Star Getting Started                               | 27/10/2023, 9:19:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=pt_BR)                                |
+| Stream Together Guest Guide                              | 27/10/2023, 9:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=pt_BR)                               |
+| Stream Together Host Guide                               | 27/10/2023, 9:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=pt_BR)                                |
+| How To Use Automod                                       | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_BR)                                        |
+| Guest Star Reporting                                     | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=pt_BR)                                      |
+| Guest Star                                               | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=pt_BR)                                                |
+| Twitch Affiliate Program Faq                             | 20/10/2023, 4:37:48 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_BR)                              |
+| Joining The Affiliate Program                            | 20/10/2023, 4:37:34 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                             |
+| Mission Based Drops                                      | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pt_BR)                                       |
+| About Account Suspensions Dmca Suspensions And Chat Bans | 19/10/2023, 0:25:36 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_BR)  |
+| Stream Display Ads                                       | 19/10/2023, 0:25:33 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pt_BR)                                        |
+| Tips For Applying To The Partner Program                 | 18/10/2023, 0:36:03 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=pt_BR)                  |
+| Achievements                                             | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_BR)                                              |
+| How To Manage Harassment In Chat                         | 13/10/2023, 9:47:43 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_BR)                          |
+| Dmca And Copyright Faqs                                  | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=pt_BR)                                   |
+| Watching Twitch On Android Devices                       | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=pt_BR)                        |
+| Brand Surveys                                            | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=pt_BR)                                             |
+| Twitch Studio Faq                                        | 06/10/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=pt_BR)                                         |
+| Broadcasting Guidelines                                  | 29/09/2023, 11:52:37 pm   | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=pt_BR)                                   |
+| Ads Manager                                              | 29/09/2023, 3:02:47 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=pt_BR)                                               |
+| Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=pt_BR)                  |
+| Channel Analytics                                        | 21/09/2023, 9:11:34 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_BR)                                         |
+| Mod View                                                 | 19/09/2023, 10:13:03 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=pt_BR)                                                  |
+| Affiliate Onboarding Guide                               | 19/09/2023, 9:07:41 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pt_BR)                                |
+| Subpoint Vs Subcount                                     | 13/09/2023, 7:06:07 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=pt_BR)                                      |
+| Hindsight 2020                                           | 12/09/2023, 6:23:56 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=pt_BR)                                            |
+| Guest Star Audio                                         | 12/09/2023, 6:23:48 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=pt_BR)                                          |
+| Channel Points Faq                                       | 12/09/2023, 6:23:31 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=pt_BR)                                        |
+| Languages On Twitch                                      | 12/09/2023, 6:20:51 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=pt_BR)                                       |
 
 
 

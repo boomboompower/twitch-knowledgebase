@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Sponsorship Experiments Faq                              | 14/11/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=zh_TW)                               |
 | Nintendo Switch                                          | 10/11/2023, 9:22:09 pm    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=zh_TW)                                           |
 | Partner Program Overview                                 | 10/11/2023, 9:22:05 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                                  |
 | Guide To Cheering With Bits                              | 10/11/2023, 10:15:20 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=zh_TW)                               |
@@ -47,8 +48,6 @@
 | Twitch Studio Faq                                        | 12/09/2023, 6:19:33 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=zh_TW)                                         |
 | Channel Points Faq                                       | 12/09/2023, 6:26:22 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=zh_TW)                                        |
 | Guest Star Audio                                         | 12/09/2023, 6:23:06 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=zh_TW)                                          |
-| Languages On Twitch                                      | 12/09/2023, 6:20:21 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=zh_TW)                                       |
-| Hindsight 2020                                           | 12/09/2023, 6:18:48 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=zh_TW)                                            |
 
 
 

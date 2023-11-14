@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Sponsorship Experiments Faq                              | 14/11/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=pl)                               |
 | Partner Program Overview                                 | 10/11/2023, 10:23:40 pm   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pl)                                  |
 | Nintendo Switch                                          | 10/11/2023, 10:23:32 pm   | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=pl)                                           |
 | Guide To Cheering With Bits                              | 10/11/2023, 10:15:20 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pl)                               |
