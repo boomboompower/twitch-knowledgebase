@@ -7,6 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| sponsorship-experiments-faq                                   | 14/11/2023, 4:34:05 am  | 04/10/2023, 0:17:21 pm  | [Details](#sponsorship-experiments-faq)                                    |
+| how-to-use-badges                                             | 14/11/2023, 3:59:33 am  | 02/11/2023, 1:22:13 pm  | [Details](#how-to-use-badges)                                              |
+| how-to-use-emotes                                             | 14/11/2023, 3:59:17 am  | 02/11/2023, 1:19:21 pm  | [Details](#how-to-use-emotes)                                              |
 | nintendo-switch                                               | 10/11/2023, 10:52:32 pm | 31/10/2023, 8:41:40 am  | [Details](#nintendo-switch)                                                |
 | hype-chat-for-streamers                                       | 10/11/2023, 10:49:32 pm | 08/11/2023, 6:34:00 am  | [Details](#hype-chat-for-streamers)                                        |
 | partner-program-overview                                      | 10/11/2023, 10:47:36 pm | 10/11/2023, 10:47:35 pm | [Details](#partner-program-overview)                                       |
@@ -205,7 +208,7 @@ Language data is not included in the API. All page links will not have a languag
 | amazon-music                                                  | 26/10/2022, 8:48:55 pm  | 26/10/2022, 8:48:29 pm  | [Details](#amazon-music)                                                   |
 | how-to-contact-extension-developer                            | 26/10/2022, 7:44:01 am  | 26/10/2022, 7:43:31 am  | [Details](#how-to-contact-extension-developer)                             |
 | how-to-use-squad-stream                                       | 21/10/2022, 7:26:47 am  | 30/09/2022, 8:30:40 am  | [Details](#how-to-use-squad-stream)                                        |
-| earning-revenue-from-bits-in-extensions                       | 21/10/2022, 7:25:42 am  | 30/09/2022, 7:54:28 am  | [Details](#earning-revenue-from-bits-in-extensions)                        |
+| earning-revenue-from-bits-in-extensions                       | 21/10/2022, 7:25:41 am  | 30/09/2022, 7:54:28 am  | [Details](#earning-revenue-from-bits-in-extensions)                        |
 | earning-revenue-from-bits-in-extensions-beta                  | 21/10/2022, 7:25:40 am  | 21/10/2022, 7:25:39 am  | [Details](#earning-revenue-from-bits-in-extensions-beta)                   |
 | supported-browsers                                            | 17/10/2022, 11:06:32 pm | 08/10/2022, 4:10:03 am  | [Details](#supported-browsers)                                             |
 | twitch-content-sharing-guidelines                             | 13/10/2022, 7:53:07 am  | 27/09/2022, 8:52:24 am  | [Details](#twitch-content-sharing-guidelines)                              |
@@ -430,7 +433,6 @@ https://help.twitch.tv/s/article/achievements
 |--------------|------------------------|--------------------------|
 | Başarılar    | 14/10/2023, 4:00:21 am | 08/08/2023, 11:56:27 pm  |
 | Conquistas   | 14/10/2023, 4:00:21 am | 08/08/2023, 11:56:27 pm  |
-| Obiettivi    | 14/10/2023, 4:00:21 am | 08/08/2023, 11:56:27 pm  |
 | Achievements | 14/10/2023, 4:00:20 am | 08/08/2023, 11:52:58 pm  |
 | Achievements | 14/10/2023, 4:00:20 am | 08/08/2023, 11:56:27 pm  |
 | Logros       | 14/10/2023, 4:00:20 am | 08/08/2023, 11:56:27 pm  |
@@ -699,7 +701,6 @@ https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual
 | Amazon 稅務資料問卷與美國國家稅務局 IRS 年度申報表常見問題                                                                               | 12/09/2023, 6:17:03 am | 12/09/2023, 6:17:01 am  |
 | Amazon Vergi Bilgi Formu ve IRS Yıllık Raporu Hakkında SSS                                                        | 12/09/2023, 6:15:29 am | 12/09/2023, 6:15:28 am  |
 | Domande frequenti relative al questionario sui dati fiscali per Amazon e alla rendicontazione contabile per l'IRS | 12/09/2023, 6:14:44 am | 12/09/2023, 6:14:42 am  |
-| Odpowiedzi na najczęściej zadawane pytania dotyczące kwestionariusza podatkowego Amazon i rocznego raportu IRS.   | 12/09/2023, 6:12:52 am | 12/09/2023, 6:12:50 am  |
 | Amazon税務情報インタビューとIRS年次報告書に関するよくある質問                                                                               | 12/09/2023, 6:11:43 am | 12/09/2023, 6:11:41 am  |
 | FAQs zum Amazon Steuerinterview und zum jährlichen Bericht an die IRS                                             | 12/09/2023, 6:11:33 am | 12/09/2023, 6:11:31 am  |
 | Amazon Tax Information Interview and IRS Annual Reporting FAQ                                                     | 08/09/2023, 1:58:11 am | 11/03/2022, 9:27:23 am  |
@@ -761,15 +762,14 @@ https://help.twitch.tv/s/article/appleshareplay
 ### artist-badge-attribution
 https://help.twitch.tv/s/article/artist-badge-attribution
 
-| Title                                   | Last Modified          | Created                  |
-|-----------------------------------------|------------------------|--------------------------|
-| Distintivo de Artista e Atribuição      | 24/02/2023, 1:47:42 am | 24/02/2023, 1:47:32 am   |
-| Odznaka artysty i przypisanie autorstwa | 20/05/2022, 3:31:45 am | 20/05/2022, 3:31:43 am   |
-| Emblema de artista y atribución         | 20/05/2022, 3:31:41 am | 20/05/2022, 3:31:39 am   |
-| Attribution et badge d'artiste          | 20/05/2022, 3:31:38 am | 20/05/2022, 3:31:35 am   |
-| Künstler-Abzeichen und -Credits         | 20/05/2022, 3:31:37 am | 20/05/2022, 3:31:35 am   |
-| Emblema de artista y atribución         | 20/05/2022, 3:31:34 am | 20/05/2022, 3:31:31 am   |
-| Artist Badge and Attribution            | 20/05/2022, 3:10:39 am | 19/05/2022, 10:19:03 am  |
+| Title                              | Last Modified          | Created                  |
+|------------------------------------|------------------------|--------------------------|
+| Distintivo de Artista e Atribuição | 24/02/2023, 1:47:42 am | 24/02/2023, 1:47:32 am   |
+| Emblema de artista y atribución    | 20/05/2022, 3:31:41 am | 20/05/2022, 3:31:39 am   |
+| Attribution et badge d'artiste     | 20/05/2022, 3:31:38 am | 20/05/2022, 3:31:35 am   |
+| Künstler-Abzeichen und -Credits    | 20/05/2022, 3:31:37 am | 20/05/2022, 3:31:35 am   |
+| Emblema de artista y atribución    | 20/05/2022, 3:31:34 am | 20/05/2022, 3:31:31 am   |
+| Artist Badge and Attribution       | 20/05/2022, 3:10:39 am | 19/05/2022, 10:19:03 am  |
 
 
 ### audio-ads
@@ -1011,13 +1011,12 @@ https://help.twitch.tv/s/article/capturing-sources
 ### celebrate-kpop
 https://help.twitch.tv/s/article/celebrate-kpop
 
-| Title                                                                                      | Last Modified           | Created                 |
-|--------------------------------------------------------------------------------------------|-------------------------|-------------------------|
-| FAQ K-Pop Stans Unite                                                                      | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
-| Häufig gestellte Fragen zu "K-Pop-Fans hierher!"                                           | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
-| K-Pop Hayranları Birleşiyor SSS                                                            | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
-| KPop Stans Unite FAQs                                                                      | 30/09/2021, 11:26:49 am | 16/10/2020, 3:02:08 am  |
-| Odpowiedzi na najczęściej zadawane pytania związane z wydarzeniem Fani K-popu, łączcie się | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
+| Title                                            | Last Modified           | Created                 |
+|--------------------------------------------------|-------------------------|-------------------------|
+| FAQ K-Pop Stans Unite                            | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
+| Häufig gestellte Fragen zu "K-Pop-Fans hierher!" | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
+| K-Pop Hayranları Birleşiyor SSS                  | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  |
+| KPop Stans Unite FAQs                            | 30/09/2021, 11:26:49 am | 16/10/2020, 3:02:08 am  |
 
 
 ### Changes-to-Subscription-Badges-and-Resub-Messages
@@ -1428,16 +1427,14 @@ https://help.twitch.tv/s/article/creator-dashboard
 ### creator-goals
 https://help.twitch.tv/s/article/creator-goals
 
-| Title                 | Last Modified           | Created                 |
-|-----------------------|-------------------------|-------------------------|
-| Creator-Ziele         | 15/03/2023, 11:51:03 pm | 09/03/2023, 4:21:38 am  |
-| metas de creador      | 15/03/2023, 11:32:08 pm | 09/03/2023, 4:21:38 am  |
-| Objectifs de créateur | 15/03/2023, 11:14:34 pm | 09/03/2023, 4:21:38 am  |
-| cele twórcy           | 15/03/2023, 11:13:38 pm | 09/03/2023, 4:21:38 am  |
-| Obiettivi streamer    | 15/03/2023, 7:22:33 pm  | 09/03/2023, 4:21:38 am  |
-| Metas do Criador      | 14/03/2023, 11:39:34 pm | 09/03/2023, 4:21:38 am  |
-| Metas de creador      | 14/03/2023, 10:37:34 pm | 09/03/2023, 4:21:38 am  |
-| Creator Goals         | 09/03/2023, 4:21:18 am  | 09/03/2023, 4:19:11 am  |
+| Title            | Last Modified           | Created                 |
+|------------------|-------------------------|-------------------------|
+| Creator-Ziele    | 15/03/2023, 11:51:03 pm | 09/03/2023, 4:21:38 am  |
+| metas de creador | 15/03/2023, 11:32:08 pm | 09/03/2023, 4:21:38 am  |
+| cele twórcy      | 15/03/2023, 11:13:38 pm | 09/03/2023, 4:21:38 am  |
+| Metas do Criador | 14/03/2023, 11:39:34 pm | 09/03/2023, 4:21:38 am  |
+| Metas de creador | 14/03/2023, 10:37:34 pm | 09/03/2023, 4:21:38 am  |
+| Creator Goals    | 09/03/2023, 4:21:18 am  | 09/03/2023, 4:19:11 am  |
 
 
 ### custom-bit-badges-guide
@@ -1544,7 +1541,6 @@ https://help.twitch.tv/s/article/discovery
 | Découverte     | 28/07/2023, 3:26:04 am | 14/07/2023, 7:07:58 am  |
 | Entdecken      | 28/07/2023, 3:26:04 am | 21/07/2023, 0:21:35 am  |
 | Keşif          | 28/07/2023, 3:26:04 am | 21/07/2023, 0:21:35 am  |
-| Odkrywaj       | 28/07/2023, 3:26:04 am | 14/07/2023, 7:07:58 am  |
 
 
 ### display-names-on-twitch
@@ -1581,7 +1577,6 @@ https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions
 
 | Title                                                      | Last Modified          | Created                 |
 |------------------------------------------------------------|------------------------|-------------------------|
-| Obter renda com o uso de Bits em extensões                 | 21/10/2022, 7:25:42 am | 30/09/2022, 7:54:28 am  |
 | Come guadagnare ricavi dai bit nelle estensioni            | 21/10/2022, 7:25:41 am | 30/09/2022, 7:54:28 am  |
 | Cómo Ganar Ingresos con Bits en Extensiones                | 21/10/2022, 7:25:41 am | 30/09/2022, 7:54:28 am  |
 | Cómo obtener ingresos con los Bits en extensiones          | 21/10/2022, 7:25:41 am | 30/09/2022, 7:54:28 am  |
@@ -2221,7 +2216,6 @@ https://help.twitch.tv/s/article/how-to-appeal-flagged-content
 | Title                                                   | Last Modified           | Created                 |
 |---------------------------------------------------------|-------------------------|-------------------------|
 | Comment faire appel pour une piste audio désactivée     | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:24:35 am  |
-| Odwołania od wyciszonego dźwięku                        | 09/08/2023, 8:34:35 pm  | 02/08/2023, 3:24:35 am  |
 | Come fare ricorso per l'audio disattivato               | 09/08/2023, 5:39:03 pm  | 02/08/2023, 3:24:35 am  |
 | Como apelar de áudio silenciado                         | 09/08/2023, 5:55:06 am  | 02/08/2023, 3:24:35 am  |
 | Cómo apelar ante audio silenciado                       | 09/08/2023, 2:49:38 am  | 02/08/2023, 3:24:35 am  |
@@ -2542,6 +2536,20 @@ https://help.twitch.tv/s/article/how-to-use-automod
 | Como utilizar a Moderação Automática | 25/10/2023, 4:50:32 am | 25/10/2023, 4:50:29 am   |
 
 
+### how-to-use-badges
+https://help.twitch.tv/s/article/how-to-use-badges
+
+| Title                        | Last Modified          | Created                  |
+|------------------------------|------------------------|--------------------------|
+| Come usare gli stemmi        | 14/11/2023, 3:59:33 am | 02/11/2023, 1:22:13 pm   |
+| Comment utiliser les badges? | 14/11/2023, 3:59:33 am | 02/11/2023, 1:22:13 pm   |
+| Como usar distintivos        | 14/11/2023, 3:59:33 am | 02/11/2023, 1:22:13 pm   |
+| Cómo usar emblemas           | 14/11/2023, 3:59:33 am | 02/11/2023, 1:22:13 pm   |
+| Cómo usar emblemas           | 14/11/2023, 3:59:33 am | 02/11/2023, 1:22:13 pm   |
+| How to Use Badges            | 14/11/2023, 3:59:33 am | 28/10/2023, 10:21:41 am  |
+| Jak używać odznak?           | 14/11/2023, 3:59:33 am | 02/11/2023, 1:22:13 pm   |
+
+
 ### how-to-use-clips
 https://help.twitch.tv/s/article/how-to-use-clips
 
@@ -2569,6 +2577,20 @@ https://help.twitch.tv/s/article/how-to-use-collections
 | Cómo usar Colecciones        | 22/10/2021, 8:53:05 am | 13/10/2020, 5:05:49 am  |
 | Cómo utilizar Recopilaciones | 22/10/2021, 8:53:05 am | 13/10/2020, 5:05:49 am  |
 | Como usar as coleções        | 22/10/2021, 8:53:04 am | 13/10/2020, 5:05:49 am  |
+
+
+### how-to-use-emotes
+https://help.twitch.tv/s/article/how-to-use-emotes
+
+| Title                            | Last Modified          | Created                  |
+|----------------------------------|------------------------|--------------------------|
+| Come utilizzare le emoticon      | 14/11/2023, 3:59:17 am | 02/11/2023, 1:19:21 pm   |
+| Como usar emotes                 | 14/11/2023, 3:59:17 am | 02/11/2023, 1:19:21 pm   |
+| Jak używać tych emotek?          | 14/11/2023, 3:59:17 am | 02/11/2023, 1:19:21 pm   |
+| Comment utiliser les émoticônes? | 14/11/2023, 3:59:16 am | 02/11/2023, 1:19:21 pm   |
+| Cómo usar emotes                 | 14/11/2023, 3:59:16 am | 02/11/2023, 1:19:21 pm   |
+| Cómo usar emoticonos             | 14/11/2023, 3:59:16 am | 02/11/2023, 1:19:21 pm   |
+| How to Use Emotes                | 14/11/2023, 3:59:16 am | 28/10/2023, 11:21:24 am  |
 
 
 ### how-to-use-extensions
@@ -2793,15 +2815,14 @@ https://help.twitch.tv/s/article/hype-train-guide
 ### hyper-scape
 https://help.twitch.tv/s/article/hyper-scape
 
-| Title                                                        | Last Modified          | Created                 |
-|--------------------------------------------------------------|------------------------|-------------------------|
-| Domande frequenti su Hyper Scape                             | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
-| Hyper Scape FAQ                                              | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
-| Hyper Scape FAQs                                             | 22/10/2021, 8:54:27 am | 12/08/2020, 5:48:03 am  |
-| Hyper Scape hakkında SSS                                     | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:16 am  |
-| Odpowiedzi na często zadawane pytania związane z Hyper Scape | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
-| FAQ Hyper Scape                                              | 22/10/2021, 8:54:26 am | 13/08/2020, 4:50:31 am  |
-| FAQs zu Hyper Scape                                          | 22/10/2021, 8:54:26 am | 12/08/2020, 5:49:15 am  |
+| Title                            | Last Modified          | Created                 |
+|----------------------------------|------------------------|-------------------------|
+| Domande frequenti su Hyper Scape | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
+| Hyper Scape FAQ                  | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
+| Hyper Scape FAQs                 | 22/10/2021, 8:54:27 am | 12/08/2020, 5:48:03 am  |
+| Hyper Scape hakkında SSS         | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:16 am  |
+| FAQ Hyper Scape                  | 22/10/2021, 8:54:26 am | 13/08/2020, 4:50:31 am  |
+| FAQs zu Hyper Scape              | 22/10/2021, 8:54:26 am | 12/08/2020, 5:49:15 am  |
 
 
 ### ingame-overlay
@@ -3126,7 +3147,6 @@ https://help.twitch.tv/s/article/mission-based-drops
 | Como descobrir e resgatar drops na Twitch           | 19/10/2023, 3:00:53 am | 19/10/2023, 3:00:51 am  |
 | Cómo descubrir y reclamar Drops en Twitch           | 19/10/2023, 3:00:53 am | 19/10/2023, 3:00:51 am  |
 | Cómo descubrir y reclamar Drops en Twitch           | 19/10/2023, 3:00:53 am | 19/10/2023, 3:00:51 am  |
-| Odkrywanie i odbieranie dropów na Twitchu           | 19/10/2023, 3:00:53 am | 19/10/2023, 3:00:51 am  |
 
 
 ### mobile-creator-mode
@@ -3803,6 +3823,16 @@ https://help.twitch.tv/s/article/smart-notification-setting
 | Notificações inteligentes              | 22/10/2021, 8:52:22 am | 05/11/2020, 2:29:40 am   |
 
 
+### sponsorship-experiments-faq
+https://help.twitch.tv/s/article/sponsorship-experiments-faq
+
+| Title                                       | Last Modified          | Created                 |
+|---------------------------------------------|------------------------|-------------------------|
+| Eksperymenty sponsorskie – FAQ              | 14/11/2023, 4:34:05 am | 04/10/2023, 0:17:21 pm  |
+| FAQ sull'esperimento delle sponsorizzazioni | 14/11/2023, 4:34:05 am | 04/10/2023, 0:17:21 pm  |
+| FAQ sur les expériences de parrainage       | 14/11/2023, 4:34:04 am | 04/10/2023, 0:17:21 pm  |
+
+
 ### stories
 https://help.twitch.tv/s/article/stories
 
@@ -3878,12 +3908,11 @@ https://help.twitch.tv/s/article/stream-together-host-guide
 ### stream-with-pride
 https://help.twitch.tv/s/article/stream-with-pride
 
-| Title                                                               | Last Modified          | Created                  |
-|---------------------------------------------------------------------|------------------------|--------------------------|
-| Domande frequenti su Streaming con Pride                            | 22/10/2021, 8:54:27 am | 01/07/2020, 6:27:31 pm   |
-| Odpowiedzi na często zadawane pytania dotyczące streamowania z dumą | 22/10/2021, 8:54:27 am | 02/07/2020, 10:30:01 pm  |
-| FAQ - Streamez avec Pride                                           | 22/10/2021, 8:54:26 am | 01/07/2020, 7:18:31 pm   |
-| FAQs sobre o evento Transmita com Orgulho                           | 22/10/2021, 8:54:26 am | 01/07/2020, 3:41:31 am   |
+| Title                                     | Last Modified          | Created                 |
+|-------------------------------------------|------------------------|-------------------------|
+| Domande frequenti su Streaming con Pride  | 22/10/2021, 8:54:27 am | 01/07/2020, 6:27:31 pm  |
+| FAQ - Streamez avec Pride                 | 22/10/2021, 8:54:26 am | 01/07/2020, 7:18:31 pm  |
+| FAQs sobre o evento Transmita com Orgulho | 22/10/2021, 8:54:26 am | 01/07/2020, 3:41:31 am  |
 
 
 ### streamer-community-survey
@@ -3940,7 +3969,6 @@ https://help.twitch.tv/s/article/studio-obs-ndi
 | Come utilizzare il toolkit OBS-NDI con Twitch Studio       | 13/01/2022, 9:50:51 am | 08/12/2021, 7:57:52 am  |
 | Cómo usar el kit de herramientas OBS-NDI con Twitch Studio | 13/01/2022, 9:50:51 am | 08/12/2021, 7:57:52 am  |
 | Korzystanie z zestawu narzędzi OBS-NDI w Twitch Studio     | 13/01/2022, 9:50:51 am | 08/12/2021, 7:57:52 am  |
-| OBS-NDI Araç Setinin Twitch Studio ile kullanımı           | 13/01/2022, 9:50:51 am | 08/12/2021, 7:57:52 am  |
 | How to use OBS-NDI Toolkit with Twitch Studio              | 08/12/2021, 7:57:25 am | 08/12/2021, 7:20:11 am  |
 
 
@@ -4073,7 +4101,6 @@ https://help.twitch.tv/s/article/supported-browsers
 |----------------------------|-------------------------|-------------------------|
 | Navigateurs pris en charge | 17/10/2022, 11:06:32 pm | 08/10/2022, 4:10:03 am  |
 | Navegadores compatibles    | 17/10/2022, 10:27:32 pm | 08/10/2022, 4:10:03 am  |
-| Obsługiwane przeglądarki   | 17/10/2022, 9:53:33 pm  | 08/10/2022, 4:10:03 am  |
 | Browser supportati         | 17/10/2022, 7:10:05 pm  | 08/10/2022, 4:10:03 am  |
 | Desteklenen Tarayıcılar    | 17/10/2022, 6:46:04 pm  | 08/10/2022, 4:10:03 am  |
 | Navegadores compatibles    | 17/10/2022, 6:33:34 pm  | 08/10/2022, 4:10:03 am  |
@@ -4269,7 +4296,6 @@ https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq
 | Apoio na Loja de Merchandise da Twitch - Perguntas Frequentes            | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Dokument FAQ sklepu z artykułami promocyjnymi Twitch                     | 22/10/2021, 8:53:51 am | 07/08/2020, 3:22:52 am  |
 | Nejčastější dotazy k podpoře pro obchod s reklamním zbožím z Twitche     | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
-| Ofte stillede spørgsmål om Twitchs merchandise-butik                     | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Domande frequenti sull'assistenza agli acquisti del merchandising Twitch | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 | FAQ des produits dérivés Twitch                                          | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 
@@ -4384,15 +4410,13 @@ https://help.twitch.tv/s/article/twitch-stream-key-faq
 ### twitch-studio-creator-goals
 https://help.twitch.tv/s/article/twitch-studio-creator-goals
 
-| Title                                  | Last Modified          | Created                 |
-|----------------------------------------|------------------------|-------------------------|
-| Metas de creador de Twitch Studio      | 17/02/2022, 9:27:35 pm | 17/02/2022, 9:27:31 pm  |
-| Cele twórcy w Twitch Studio            | 22/10/2021, 8:54:20 am | 26/08/2021, 4:03:03 am  |
-| Metas de creador de Twitch Studio      | 22/10/2021, 8:54:20 am | 26/08/2021, 4:03:09 am  |
-| Obiettivi streamer Twitch Studio       | 22/10/2021, 8:54:20 am | 26/08/2021, 4:03:15 am  |
-| Creator-Ziele in Twitch Studio         | 22/10/2021, 8:54:19 am | 26/08/2021, 4:02:55 am  |
-| Metas do Criador no Twitch Studio      | 22/10/2021, 8:54:19 am | 26/08/2021, 4:03:18 am  |
-| Objectifs de créateur de Twitch Studio | 22/10/2021, 8:54:19 am | 26/08/2021, 4:03:12 am  |
+| Title                             | Last Modified          | Created                 |
+|-----------------------------------|------------------------|-------------------------|
+| Metas de creador de Twitch Studio | 17/02/2022, 9:27:35 pm | 17/02/2022, 9:27:31 pm  |
+| Cele twórcy w Twitch Studio       | 22/10/2021, 8:54:20 am | 26/08/2021, 4:03:03 am  |
+| Metas de creador de Twitch Studio | 22/10/2021, 8:54:20 am | 26/08/2021, 4:03:09 am  |
+| Creator-Ziele in Twitch Studio    | 22/10/2021, 8:54:19 am | 26/08/2021, 4:02:55 am  |
+| Metas do Criador no Twitch Studio | 22/10/2021, 8:54:19 am | 26/08/2021, 4:03:18 am  |
 
 
 ### twitch-studio-faq
