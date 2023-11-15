@@ -7,6 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| cheering-for-partners-affiliates                              | 15/11/2023, 4:06:04 am  | 08/11/2023, 6:39:03 am  | [Details](#cheering-for-partners-affiliates)                               |
+| guide-to-cheering-with-bits                                   | 15/11/2023, 4:06:03 am  | 08/11/2023, 6:38:45 am  | [Details](#guide-to-cheering-with-bits)                                    |
 | sponsorship-experiments-faq                                   | 14/11/2023, 4:34:05 am  | 04/10/2023, 0:17:21 pm  | [Details](#sponsorship-experiments-faq)                                    |
 | how-to-use-badges                                             | 14/11/2023, 3:59:33 am  | 02/11/2023, 1:22:13 pm  | [Details](#how-to-use-badges)                                              |
 | how-to-use-emotes                                             | 14/11/2023, 3:59:17 am  | 02/11/2023, 1:19:21 pm  | [Details](#how-to-use-emotes)                                              |
@@ -15,13 +17,11 @@ Language data is not included in the API. All page links will not have a languag
 | partner-program-overview                                      | 10/11/2023, 10:47:36 pm | 10/11/2023, 10:47:35 pm | [Details](#partner-program-overview)                                       |
 | hype-chat-pricing-by-country                                  | 10/11/2023, 10:47:34 pm | 08/11/2023, 6:34:25 am  | [Details](#hype-chat-pricing-by-country)                                   |
 | hype-chat-by-twitch                                           | 10/11/2023, 10:13:32 pm | 08/11/2023, 6:33:40 am  | [Details](#hype-chat-by-twitch)                                            |
-| guide-to-cheering-with-bits                                   | 10/11/2023, 10:15:22 am | 10/11/2023, 10:15:08 am | [Details](#guide-to-cheering-with-bits)                                    |
 | how-to-purchase-bits                                          | 10/11/2023, 7:04:34 am  | 09/08/2023, 5:27:11 pm  | [Details](#how-to-purchase-bits)                                           |
 | hype-chat-faq                                                 | 10/11/2023, 5:01:17 am  | 10/11/2023, 5:01:16 am  | [Details](#hype-chat-faq)                                                  |
 | affiliate-settings-guide                                      | 10/11/2023, 4:57:15 am  | 14/10/2023, 9:36:30 am  | [Details](#affiliate-settings-guide)                                       |
 | partner-settings-guide                                        | 10/11/2023, 4:57:08 am  | 14/10/2023, 9:35:07 am  | [Details](#partner-settings-guide)                                         |
 | guide-to-bits-history                                         | 10/11/2023, 4:55:47 am  | 10/11/2023, 4:55:47 am  | [Details](#guide-to-bits-history)                                          |
-| cheering-for-partners-affiliates                              | 10/11/2023, 4:55:30 am  | 10/11/2023, 4:55:29 am  | [Details](#cheering-for-partners-affiliates)                               |
 | how-to-use-clips                                              | 09/11/2023, 9:00:16 am  | 20/09/2023, 7:33:40 am  | [Details](#how-to-use-clips)                                               |
 | follower-emotes                                               | 08/11/2023, 11:26:40 am | 28/10/2023, 9:26:59 am  | [Details](#follower-emotes)                                                |
 | featured-clips                                                | 05/11/2023, 11:01:19 pm | 02/11/2023, 1:31:06 pm  | [Details](#featured-clips)                                                 |
@@ -1208,17 +1208,17 @@ https://help.twitch.tv/s/article/cheering-experiment-2022
 ### cheering-for-partners-affiliates
 https://help.twitch.tv/s/article/cheering-for-partners-affiliates
 
-| Title                                        | Last Modified          | Created                 |
-|----------------------------------------------|------------------------|-------------------------|
-| Cheering für Partner & Affiliates            | 10/11/2023, 4:55:30 am | 10/11/2023, 4:55:29 am  |
-| Cheering: dla Partnerów i Towarzyszy         | 10/11/2023, 4:55:30 am | 10/11/2023, 4:55:29 am  |
-| Cheering: for Partners & Affiliates          | 10/11/2023, 4:55:30 am | 07/11/2023, 3:04:06 pm  |
-| Cheering: para Parceiros e Afiliados         | 10/11/2023, 4:55:30 am | 10/11/2023, 4:55:29 am  |
-| Cheering: para Partners y Afiliados          | 10/11/2023, 4:55:30 am | 10/11/2023, 4:55:29 am  |
-| Cheering: สำหรับรูกี้และพันธมิตร             | 10/11/2023, 4:55:30 am | 10/11/2023, 4:55:29 am  |
-| Cheering：合作夥伴和實況盟友                           | 10/11/2023, 4:55:30 am | 10/11/2023, 4:55:29 am  |
-| Cheers: guía para socios y afiliados         | 10/11/2023, 4:55:30 am | 10/11/2023, 4:55:29 am  |
-| Cheers: pour les partenaires et les affiliés | 10/11/2023, 4:55:30 am | 10/11/2023, 4:55:29 am  |
+| Title                                        | Last Modified           | Created                 |
+|----------------------------------------------|-------------------------|-------------------------|
+| Cheering: para Parceiros e Afiliados         | 15/11/2023, 4:06:04 am  | 08/11/2023, 6:39:03 am  |
+| Cheering: para Partners y Afiliados          | 15/11/2023, 2:48:33 am  | 08/11/2023, 6:39:03 am  |
+| Cheering: สำหรับรูกี้และพันธมิตร             | 14/11/2023, 11:54:06 pm | 08/11/2023, 6:39:03 am  |
+| Cheering für Partner & Affiliates            | 10/11/2023, 4:55:30 am  | 10/11/2023, 4:55:29 am  |
+| Cheering: dla Partnerów i Towarzyszy         | 10/11/2023, 4:55:30 am  | 10/11/2023, 4:55:29 am  |
+| Cheering: for Partners & Affiliates          | 10/11/2023, 4:55:30 am  | 07/11/2023, 3:04:06 pm  |
+| Cheering：合作夥伴和實況盟友                           | 10/11/2023, 4:55:30 am  | 10/11/2023, 4:55:29 am  |
+| Cheers: guía para socios y afiliados         | 10/11/2023, 4:55:30 am  | 10/11/2023, 4:55:29 am  |
+| Cheers: pour les partenaires et les affiliés | 10/11/2023, 4:55:30 am  | 10/11/2023, 4:55:29 am  |
 
 
 ### children-on-twitch
@@ -2068,14 +2068,14 @@ https://help.twitch.tv/s/article/guide-to-cheering-with-bits
 
 | Title                                  | Last Modified           | Created                  |
 |----------------------------------------|-------------------------|--------------------------|
+| Guia de Cheering com Bits              | 15/11/2023, 4:06:03 am  | 08/11/2023, 6:38:45 am   |
+| Guía para enviar Cheers con Bits       | 15/11/2023, 2:48:34 am  | 08/11/2023, 6:38:45 am   |
 | Guide to Cheering with Bits            | 10/11/2023, 10:15:22 am | 10/11/2023, 10:15:08 am  |
 | Bit ile Cheer Kılavuzu                 | 10/11/2023, 10:15:20 am | 10/11/2023, 10:15:20 am  |
 | Comment envoyer des Cheers et des Bits | 10/11/2023, 10:15:20 am | 10/11/2023, 10:15:20 am  |
-| Guia de Cheering com Bits              | 10/11/2023, 10:15:20 am | 10/11/2023, 10:15:20 am  |
 | Guia do Cheering com Bits              | 10/11/2023, 10:15:20 am | 10/11/2023, 10:15:20 am  |
 | Guida al tifo con i bit                | 10/11/2023, 10:15:20 am | 10/11/2023, 10:15:20 am  |
 | Guide to Cheering with Bits            | 10/11/2023, 10:15:20 am | 10/11/2023, 10:15:20 am  |
-| Guía para enviar Cheers con Bits       | 10/11/2023, 10:15:20 am | 10/11/2023, 10:15:20 am  |
 | Guía para enviar Cheers con Bits       | 10/11/2023, 10:15:20 am | 10/11/2023, 10:15:20 am  |
 | Leitfaden zu Cheering mit Bits         | 10/11/2023, 10:15:20 am | 10/11/2023, 10:15:20 am  |
 
