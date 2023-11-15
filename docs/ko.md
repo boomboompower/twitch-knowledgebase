@@ -50,7 +50,6 @@
 | Channel Points Faq                                       | 12/09/2023, 6:23:04 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ko)                                        |
 | Stream Summary                                           | 12/09/2023, 6:21:48 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ko)                                            |
 | Hindsight 2020                                           | 12/09/2023, 6:21:03 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=ko)                                            |
-| Languages On Twitch                                      | 12/09/2023, 6:20:25 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ko)                                       |
 
 
 

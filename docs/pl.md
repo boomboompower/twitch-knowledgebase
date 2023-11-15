@@ -49,7 +49,6 @@
 | Hindsight 2020                                           | 12/09/2023, 6:27:15 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=pl)                                            |
 | Channel Points Faq                                       | 12/09/2023, 6:23:08 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=pl)                                        |
 | Guest Star Audio                                         | 12/09/2023, 6:22:58 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=pl)                                          |
-| Languages On Twitch                                      | 12/09/2023, 6:20:21 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=pl)                                       |
 
 
 
