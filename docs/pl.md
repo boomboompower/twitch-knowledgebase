@@ -6,10 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Guide To Cheering With Bits                              | 15/11/2023, 10:23:03 pm   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pl)                               |
 | Sponsorship Experiments Faq                              | 14/11/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=pl)                               |
 | Partner Program Overview                                 | 10/11/2023, 10:23:40 pm   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pl)                                  |
 | Nintendo Switch                                          | 10/11/2023, 10:23:32 pm   | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=pl)                                           |
-| Guide To Cheering With Bits                              | 10/11/2023, 10:15:20 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pl)                               |
 | Affiliate Settings Guide                                 | 10/11/2023, 4:57:15 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=pl)                                  |
 | Partner Settings Guide                                   | 10/11/2023, 4:57:08 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=pl)                                    |
 | How To Use Clips                                         | 09/11/2023, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pl)                                          |
@@ -49,6 +49,7 @@
 | Hindsight 2020                                           | 12/09/2023, 6:27:15 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=pl)                                            |
 | Channel Points Faq                                       | 12/09/2023, 6:23:08 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=pl)                                        |
 | Guest Star Audio                                         | 12/09/2023, 6:22:58 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=pl)                                          |
+| Languages On Twitch                                      | 12/09/2023, 6:20:21 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=pl)                                       |
 
 
 

@@ -6,10 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Guide To Cheering With Bits                              | 15/11/2023, 5:13:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ja)                               |
 | Sponsorship Experiments Faq                              | 14/11/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=ja)                               |
 | Partner Program Overview                                 | 10/11/2023, 7:49:36 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                                  |
 | Nintendo Switch                                          | 10/11/2023, 7:49:34 pm    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=ja)                                           |
-| Guide To Cheering With Bits                              | 10/11/2023, 10:15:20 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ja)                               |
 | Affiliate Settings Guide                                 | 10/11/2023, 4:57:15 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=ja)                                  |
 | Partner Settings Guide                                   | 10/11/2023, 4:57:08 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=ja)                                    |
 | How To Use Clips                                         | 09/11/2023, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                          |

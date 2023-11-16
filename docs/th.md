@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Guide To Cheering With Bits                              | 14/11/2023, 11:54:04 pm   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=th)                               |
+| Guide To Cheering With Bits                              | 16/11/2023, 0:43:35 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=th)                               |
 | Sponsorship Experiments Faq                              | 14/11/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=th)                               |
 | Partner Program Overview                                 | 10/11/2023, 5:14:02 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)                                  |
 | Affiliate Settings Guide                                 | 10/11/2023, 4:57:16 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=th)                                  |

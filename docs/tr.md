@@ -6,8 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Guide To Cheering With Bits                              | 15/11/2023, 10:03:33 pm   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=tr)                               |
 | Sponsorship Experiments Faq                              | 14/11/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=tr)                               |
-| Guide To Cheering With Bits                              | 10/11/2023, 10:15:20 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=tr)                               |
 | Affiliate Settings Guide                                 | 10/11/2023, 4:57:16 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=tr)                                  |
 | Partner Settings Guide                                   | 10/11/2023, 4:57:09 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=tr)                                    |
 | Nintendo Switch                                          | 09/11/2023, 10:08:09 pm   | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=tr)                                           |
