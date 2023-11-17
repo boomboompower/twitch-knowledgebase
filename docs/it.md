@@ -48,9 +48,6 @@
 | Twitch Studio Faq                                        | 12/09/2023, 5:49:37 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=it)                                         |
 | Hindsight 2020                                           | 12/09/2023, 6:27:03 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=it)                                            |
 | Channel Points Faq                                       | 12/09/2023, 6:26:17 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=it)                                        |
-| Languages On Twitch                                      | 12/09/2023, 6:22:16 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=it)                                       |
-| Stream Summary                                           | 12/09/2023, 6:21:51 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=it)                                            |
-| Guest Star Audio                                         | 12/09/2023, 6:21:39 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=it)                                          |
 
 
 
