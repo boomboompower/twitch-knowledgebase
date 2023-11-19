@@ -57,6 +57,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Languages On Twitch                                           | 12/09/2023, 6:22:14 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=th)                                            |
 | How To Use Raids                                              | 12/09/2023, 6:17:35 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=th)                                               |
 | Subscription Cancellation Reasons                             | 12/09/2023, 6:14:40 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=th)                              |
 | Disconnect Protection                                         | 12/09/2023, 6:14:01 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=th)                                          |
@@ -94,7 +95,6 @@
 | Refunds On Twitch                                             | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=th)                                              |
 | Video On Demand                                               | 24/06/2023, 0:46:15 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=th)                                                |
 | Patch Notes 19                                                | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=th)                                                 |
-| Twitch Music Getting Started                                  | 02/06/2023, 11:26:33 pm   | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=th)                                   |
 
 
 
@@ -103,6 +103,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                       | 02/06/2023, 11:26:33 pm   | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=th)                        |
 | Twitch Stream Key Faq                              | 30/05/2023, 3:45:15 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=th)                               |
 | Local Recording                                    | 30/05/2023, 3:45:13 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=th)                                     |
 | Payout History Dashboard Guide                     | 30/05/2023, 3:45:05 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=th)                      |
@@ -146,7 +147,6 @@
 | Cheering Experiment 2022                           | 27/10/2022, 11:02:36 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=th)                            |
 | How To Use Squad Stream                            | 21/10/2022, 7:26:47 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=th)                             |
 | Earning Revenue From Bits In Extensions            | 21/10/2022, 7:25:42 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=th)             |
-| Supported Browsers                                 | 17/10/2022, 7:47:04 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=th)                                  |
 
 
 
@@ -155,10 +155,10 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Supported Browsers                            | 17/10/2022, 7:47:04 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=th)                             |
 | Twitch Content Sharing Guidelines             | 13/10/2022, 7:53:07 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=th)              |
 | Charitable Donations                          | 27/09/2022, 11:46:37 pm   | [Link](https://help.twitch.tv/s/article/charitable-donations?language=th)                           |
 | Affiliate Emote Prefix Change                 | 21/09/2022, 4:59:50 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=th)                  |
-| Boost Train                                   | 20/09/2022, 2:34:36 am    | [Link](https://help.twitch.tv/s/article/boost-train?language=th)                                    |
 | Ingame Overlay                                | 15/09/2022, 2:25:06 pm    | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=th)                                 |
 | Twitch Chat Badges Guide                      | 24/08/2022, 11:17:34 pm   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=th)                       |
 | Mobile Creator Mode                           | 22/08/2022, 9:51:04 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=th)                            |

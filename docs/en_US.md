@@ -87,7 +87,6 @@
 | Patch Notes 19                                                | 23/06/2023, 6:40:33 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=en_US)                                                 |
 | Video On Demand                                               | 20/06/2023, 0:12:52 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                                |
 | Music Options For Streamers                                   | 10/06/2023, 5:39:19 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=en_US)                                    |
-| Twitch Music Getting Started                                  | 31/05/2023, 2:32:54 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=en_US)                                   |
 
 
 
@@ -96,6 +95,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                       | 31/05/2023, 2:32:54 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=en_US)                        |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                           |
 | Prime Gaming Revenue Guide                         | 24/05/2023, 4:02:47 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)                          |
 | Payout History Dashboard Guide                     | 24/05/2023, 4:02:24 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=en_US)                      |
@@ -109,7 +109,6 @@
 | Guide To Tags                                      | 04/05/2023, 2:37:28 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=en_US)                                       |
 | Languages On Twitch                                | 03/05/2023, 8:07:00 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=en_US)                                 |
 | Chat Highlights                                    | 12/04/2023, 4:05:40 am    | [Link](https://help.twitch.tv/s/article/chat-highlights?language=en_US)                                     |
-| Sponsorship Experiments Faq                        | 05/04/2023, 6:21:36 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=en_US)                         |
 | How To File A User Report                          | 05/04/2023, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=en_US)                           |
 | Picture By Picture Ads                             | 30/03/2023, 8:16:39 am    | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=en_US)                              |
 | Disabling Prerolls                                 | 30/03/2023, 8:16:29 am    | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=en_US)                                  |
@@ -141,8 +140,6 @@
 | Cheering Experiment 2022                           | 27/10/2022, 11:02:37 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=en_US)                            |
 | How To Use Extensions                              | 26/10/2022, 7:05:22 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=en_US)                               |
 | How To Use Squad Stream                            | 21/10/2022, 7:26:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=en_US)                             |
-| Earning Revenue From Bits In Extensions            | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=en_US)             |
-| Managing Your Phone Number                         | 19/10/2022, 4:49:28 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=en_US)                          |
 
 
 
@@ -151,12 +148,13 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Earning Revenue From Bits In Extensions     | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=en_US)      |
+| Managing Your Phone Number                  | 19/10/2022, 4:49:28 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=en_US)                   |
 | Twitch Content Sharing Guidelines           | 13/10/2022, 7:53:06 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=en_US)            |
 | Supported Browsers                          | 30/09/2022, 5:29:06 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=en_US)                           |
 | How To Use Raids                            | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=en_US)                             |
 | Charitable Donations                        | 22/09/2022, 4:41:17 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=en_US)                         |
 | Affiliate Emote Prefix Change               | 21/09/2022, 4:59:49 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=en_US)                |
-| Boost Train                                 | 20/09/2022, 2:34:35 am    | [Link](https://help.twitch.tv/s/article/boost-train?language=en_US)                                  |
 | Ingame Overlay                              | 09/09/2022, 6:36:15 am    | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=en_US)                               |
 | Mobile Creator Mode                         | 20/08/2022, 5:21:40 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=en_US)                          |
 | Twitch Chat Badges Guide                    | 17/08/2022, 6:59:29 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                     |

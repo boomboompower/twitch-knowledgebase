@@ -55,6 +55,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Languages On Twitch                                           | 12/09/2023, 6:21:55 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es)                                            |
 | Channel Points Faq                                            | 12/09/2023, 6:18:02 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=es)                                             |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:17:35 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=es)  |
 | Stream Summary                                                | 12/09/2023, 6:12:19 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es)                                                 |
@@ -145,7 +146,6 @@
 | Cheering Experiment 2022                           | 27/10/2022, 11:02:36 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=es)                            |
 | Managing Your Phone Number                         | 27/10/2022, 3:48:39 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es)                          |
 | How To Use Squad Stream                            | 21/10/2022, 7:26:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=es)                             |
-| Earning Revenue From Bits In Extensions            | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=es)             |
 
 
 
@@ -154,11 +154,11 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Earning Revenue From Bits In Extensions     | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=es)      |
 | Supported Browsers                          | 17/10/2022, 6:33:34 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=es)                           |
 | Twitch Content Sharing Guidelines           | 13/10/2022, 7:53:06 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=es)            |
 | Charitable Donations                        | 27/09/2022, 4:59:33 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=es)                         |
 | Affiliate Emote Prefix Change               | 21/09/2022, 4:59:49 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=es)                |
-| Boost Train                                 | 20/09/2022, 2:34:35 am    | [Link](https://help.twitch.tv/s/article/boost-train?language=es)                                  |
 | Ingame Overlay                              | 14/09/2022, 1:36:33 am    | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=es)                               |
 | Twitch Chat Badges Guide                    | 24/08/2022, 10:10:08 pm   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es)                     |
 | Mobile Creator Mode                         | 22/08/2022, 8:16:34 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=es)                          |

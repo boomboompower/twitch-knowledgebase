@@ -28,22 +28,22 @@
 ## Article-3
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
-| Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                               |
-|----------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------|
-| Prime Gaming Revenue Guide                   | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=cs)                    |
-| Stream Summary                               | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=cs)                                |
-| Chat Commands                                | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=cs)                                 |
-| Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=cs)  |
+| Name                       | Last Updated (dd/mm/yyyy) | Link                                                                             |
+|----------------------------|---------------------------|----------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=cs)  |
+| Stream Summary             | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=cs)              |
+| Chat Commands              | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=cs)               |
 
 
 
 ## Article-4
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
-| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
-|-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
-| Twitch Content Sharing Guidelines   | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=cs)    |
-| Community Meetups Powered By Twitch | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=cs)  |
+| Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                               |
+|----------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------|
+| Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=cs)  |
+| Twitch Content Sharing Guidelines            | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=cs)             |
+| Community Meetups Powered By Twitch          | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=cs)           |
 
 
 

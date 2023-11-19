@@ -38,27 +38,27 @@
 ## Article-3
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
-| Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                                  |
-|----------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------|
-| Twitch Prime Partner Guide                   | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=pt_PT)                    |
-| How To File A User Report                    | 05/04/2023, 6:11:02 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=pt_PT)                     |
-| Two Factor Authentication With Authy         | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)          |
-| Stream Summary                               | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                                |
-| How To Use Host Mode                         | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=pt_PT)                          |
-| Chat Commands                                | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_PT)                                 |
-| Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=pt_PT)  |
+| Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                          |
+|--------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
+| Twitch Prime Partner Guide           | 24/05/2023, 4:02:36 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=pt_PT)            |
+| How To File A User Report            | 05/04/2023, 6:11:02 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=pt_PT)             |
+| Two Factor Authentication With Authy | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)  |
+| Stream Summary                       | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                        |
+| How To Use Host Mode                 | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=pt_PT)                  |
+| Chat Commands                        | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_PT)                         |
 
 
 
 ## Article-4
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
-| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
-|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
-| Twitch Content Sharing Guidelines   | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=pt_PT)    |
-| A Tour Of Your Channel Page         | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=pt_PT)          |
-| How To Subscribe                    | 16/06/2022, 8:35:16 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                     |
-| Community Meetups Powered By Twitch | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=pt_PT)  |
+| Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                                  |
+|----------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------|
+| Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=pt_PT)  |
+| Twitch Content Sharing Guidelines            | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=pt_PT)             |
+| A Tour Of Your Channel Page                  | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=pt_PT)                   |
+| How To Subscribe                             | 16/06/2022, 8:35:16 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                              |
+| Community Meetups Powered By Twitch          | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=pt_PT)           |
 
 
 

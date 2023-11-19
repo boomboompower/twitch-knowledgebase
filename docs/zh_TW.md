@@ -56,6 +56,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Languages On Twitch                                           | 12/09/2023, 6:20:21 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=zh_TW)                                            |
+| Hindsight 2020                                                | 12/09/2023, 6:18:48 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=zh_TW)                                                 |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:17:03 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=zh_TW)  |
 | How To Use Raids                                              | 12/09/2023, 6:16:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=zh_TW)                                               |
 | Stream Summary                                                | 12/09/2023, 6:13:24 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=zh_TW)                                                 |
@@ -96,11 +98,6 @@
 | Refunds On Twitch                                             | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=zh_TW)                                              |
 | Video On Demand                                               | 24/06/2023, 0:46:10 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                                |
 | Patch Notes 19                                                | 23/06/2023, 6:48:20 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=zh_TW)                                                 |
-| Twitch Music Getting Started                                  | 05/06/2023, 5:39:41 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=zh_TW)                                   |
-| Twitch Stream Key Faq                                         | 30/05/2023, 7:10:55 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=zh_TW)                                          |
-| Prime Gaming Revenue Guide                                    | 30/05/2023, 7:10:39 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                                     |
-| Payout History Dashboard Guide                                | 30/05/2023, 7:10:37 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=zh_TW)                                 |
-| Local Recording                                               | 30/05/2023, 7:10:33 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=zh_TW)                                                |
 
 
 
@@ -109,6 +106,11 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                       | 05/06/2023, 5:39:41 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=zh_TW)                        |
+| Twitch Stream Key Faq                              | 30/05/2023, 7:10:55 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=zh_TW)                               |
+| Prime Gaming Revenue Guide                         | 30/05/2023, 7:10:39 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                          |
+| Payout History Dashboard Guide                     | 30/05/2023, 7:10:37 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=zh_TW)                      |
+| Local Recording                                    | 30/05/2023, 7:10:33 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=zh_TW)                                     |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                           |
 | Emote Analytics                                    | 22/05/2023, 0:36:03 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=zh_TW)                                     |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=zh_TW)  |
@@ -157,7 +159,6 @@
 | Twitch Content Sharing Guidelines           | 13/10/2022, 7:53:07 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=zh_TW)            |
 | Charitable Donations                        | 26/09/2022, 7:25:03 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=zh_TW)                         |
 | Affiliate Emote Prefix Change               | 21/09/2022, 4:59:50 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=zh_TW)                |
-| Boost Train                                 | 20/09/2022, 2:34:36 am    | [Link](https://help.twitch.tv/s/article/boost-train?language=zh_TW)                                  |
 | Ingame Overlay                              | 14/09/2022, 5:42:36 pm    | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=zh_TW)                               |
 | Twitch Chat Badges Guide                    | 24/08/2022, 4:43:04 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                     |
 | Mobile Creator Mode                         | 22/08/2022, 5:57:36 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=zh_TW)                          |
@@ -190,8 +191,6 @@
 | Broadcast Guidelines                        | 02/11/2021, 1:25:23 am    | [Link](https://help.twitch.tv/s/article/broadcast-guidelines?language=zh_TW)                         |
 | Hyper Scape                                 | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/hyper-scape?language=zh_TW)                                  |
 | Stream With Pride                           | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=zh_TW)                            |
-| Rpg Megacheer                               | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=zh_TW)                                |
-| Megacheer Food Fight                        | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=zh_TW)                         |
 
 
 
@@ -200,6 +199,7 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                       |
 |---------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------|
+| Megacheer Food Fight                              | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=zh_TW)                               |
 | Community Meetups Powered By Twitch               | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=zh_TW)                |
 | Advanced Audio Mixer                              | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=zh_TW)                               |
 | Studio Ui                                         | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=zh_TW)                                          |
@@ -238,7 +238,6 @@
 | Recommended Hardware For Broadcasting             | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=zh_TW)              |
 | Amazon Associates                                 | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/amazon-associates?language=zh_TW)                                  |
 | Low Latency Video                                 | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/low-latency-video?language=zh_TW)                                  |
-| Nba G League Co Streaming Guide                   | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide?language=zh_TW)                    |
 
 
 
@@ -247,6 +246,7 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| How To Use Go Live Notifications       | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=zh_TW)        |
 | How To Use Collections                 | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-collections?language=zh_TW)                  |
 | Where Are My Notifications             | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=zh_TW)              |
 | Streamer Notifications Preferences     | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=zh_TW)      |

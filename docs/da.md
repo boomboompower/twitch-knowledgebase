@@ -38,18 +38,18 @@
 | How To Use Host Mode                               | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=da)                                |
 | Chat Commands                                      | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=da)                                       |
 | How To Use Extensions                              | 26/10/2022, 7:04:49 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=da)                               |
-| Earning Revenue From Bits In Extensions Beta       | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=da)        |
 
 
 
 ## Article-4
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
-| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
-|-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
-| Twitch Content Sharing Guidelines   | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=da)    |
-| How To Use Raids                    | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=da)                     |
-| Community Meetups Powered By Twitch | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=da)  |
+| Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                               |
+|----------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------|
+| Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=da)  |
+| Twitch Content Sharing Guidelines            | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=da)             |
+| How To Use Raids                             | 28/09/2022, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=da)                              |
+| Community Meetups Powered By Twitch          | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=da)           |
 
 
 

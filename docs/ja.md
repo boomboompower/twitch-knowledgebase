@@ -146,7 +146,6 @@
 | Managing Your Phone Number                         | 27/10/2022, 3:53:34 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ja)                          |
 | Cheering Experiment 2022                           | 27/10/2022, 11:02:36 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=ja)                            |
 | How To Use Squad Stream                            | 21/10/2022, 7:26:47 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=ja)                             |
-| Earning Revenue From Bits In Extensions            | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=ja)             |
 
 
 
@@ -155,11 +154,11 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Earning Revenue From Bits In Extensions     | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=ja)      |
 | Supported Browsers                          | 17/10/2022, 5:10:11 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=ja)                           |
 | Twitch Content Sharing Guidelines           | 13/10/2022, 7:53:06 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=ja)            |
 | Charitable Donations                        | 27/09/2022, 4:57:33 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=ja)                         |
 | Affiliate Emote Prefix Change               | 21/09/2022, 4:59:50 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=ja)                |
-| Boost Train                                 | 20/09/2022, 2:34:35 am    | [Link](https://help.twitch.tv/s/article/boost-train?language=ja)                                  |
 | Ingame Overlay                              | 14/09/2022, 0:37:04 pm    | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=ja)                               |
 | Twitch Chat Badges Guide                    | 24/08/2022, 2:24:36 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                     |
 | Mobile Creator Mode                         | 22/08/2022, 7:05:36 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=ja)                          |

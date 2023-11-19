@@ -57,6 +57,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Languages On Twitch                                           | 12/09/2023, 6:20:21 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=pl)                                            |
 | How To Use Raids                                              | 12/09/2023, 6:16:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=pl)                                               |
 | Disconnect Protection                                         | 12/09/2023, 6:14:00 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=pl)                                          |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:12:52 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pl)  |
@@ -95,10 +96,6 @@
 | Video On Demand                                               | 24/06/2023, 0:46:15 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pl)                                                |
 | Patch Notes 19                                                | 23/06/2023, 6:48:01 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=pl)                                                 |
 | Twitch Music Getting Started                                  | 05/06/2023, 8:20:08 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=pl)                                   |
-| Twitch Stream Key Faq                                         | 30/05/2023, 8:32:13 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=pl)                                          |
-| Local Recording                                               | 30/05/2023, 8:32:10 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=pl)                                                |
-| Payout History Dashboard Guide                                | 30/05/2023, 8:32:07 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=pl)                                 |
-| Prime Gaming Revenue Guide                                    | 30/05/2023, 8:32:05 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pl)                                     |
 
 
 
@@ -107,6 +104,10 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Stream Key Faq                              | 30/05/2023, 8:32:13 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=pl)                               |
+| Local Recording                                    | 30/05/2023, 8:32:10 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=pl)                                     |
+| Payout History Dashboard Guide                     | 30/05/2023, 8:32:07 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=pl)                      |
+| Prime Gaming Revenue Guide                         | 30/05/2023, 8:32:05 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pl)                          |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pl)                           |
 | Emote Analytics                                    | 23/05/2023, 6:24:07 pm    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=pl)                                     |
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:16 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=pl)  |
@@ -145,8 +146,6 @@
 | Managing Your Phone Number                         | 27/10/2022, 8:54:33 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=pl)                          |
 | Cheering Experiment 2022                           | 27/10/2022, 11:02:36 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=pl)                            |
 | How To Use Squad Stream                            | 21/10/2022, 7:26:47 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=pl)                             |
-| Earning Revenue From Bits In Extensions            | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=pl)             |
-| Supported Browsers                                 | 17/10/2022, 9:53:33 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=pl)                                  |
 
 
 
@@ -155,10 +154,11 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Earning Revenue From Bits In Extensions     | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=pl)      |
+| Supported Browsers                          | 17/10/2022, 9:53:33 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=pl)                           |
 | Twitch Content Sharing Guidelines           | 13/10/2022, 7:53:07 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=pl)            |
 | Charitable Donations                        | 28/09/2022, 0:10:55 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=pl)                         |
 | Affiliate Emote Prefix Change               | 21/09/2022, 4:59:50 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=pl)                |
-| Boost Train                                 | 20/09/2022, 2:34:36 am    | [Link](https://help.twitch.tv/s/article/boost-train?language=pl)                                  |
 | Ingame Overlay                              | 12/09/2022, 8:49:34 pm    | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=pl)                               |
 | Twitch Chat Badges Guide                    | 24/08/2022, 6:33:04 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=pl)                     |
 | Mobile Creator Mode                         | 22/08/2022, 11:07:39 pm   | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=pl)                          |

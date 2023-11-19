@@ -56,6 +56,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Languages On Twitch                                           | 12/09/2023, 6:22:16 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=it)                                            |
+| Stream Summary                                                | 12/09/2023, 6:21:51 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=it)                                                 |
+| Guest Star Audio                                              | 12/09/2023, 6:21:39 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=it)                                               |
 | How To Use Raids                                              | 12/09/2023, 6:17:35 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=it)                                               |
 | Disconnect Protection                                         | 12/09/2023, 6:17:07 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=it)                                          |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:14:44 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=it)  |
@@ -143,8 +146,6 @@
 | Managing Your Phone Number                         | 27/10/2022, 7:06:04 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=it)                          |
 | Cheering Experiment 2022                           | 27/10/2022, 11:02:36 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=it)                            |
 | How To Use Squad Stream                            | 21/10/2022, 7:26:47 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=it)                             |
-| Earning Revenue From Bits In Extensions            | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=it)             |
-| Supported Browsers                                 | 17/10/2022, 7:10:05 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=it)                                  |
 
 
 
@@ -153,10 +154,11 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Earning Revenue From Bits In Extensions     | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=it)      |
+| Supported Browsers                          | 17/10/2022, 7:10:05 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=it)                           |
 | Twitch Content Sharing Guidelines           | 13/10/2022, 7:53:06 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=it)            |
 | Charitable Donations                        | 27/09/2022, 11:46:35 pm   | [Link](https://help.twitch.tv/s/article/charitable-donations?language=it)                         |
 | Affiliate Emote Prefix Change               | 21/09/2022, 4:59:49 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=it)                |
-| Boost Train                                 | 20/09/2022, 2:34:35 am    | [Link](https://help.twitch.tv/s/article/boost-train?language=it)                                  |
 | Ingame Overlay                              | 15/09/2022, 7:31:34 pm    | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=it)                               |
 | Twitch Chat Badges Guide                    | 24/08/2022, 5:57:34 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=it)                     |
 | Mobile Creator Mode                         | 22/08/2022, 6:47:04 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=it)                          |
