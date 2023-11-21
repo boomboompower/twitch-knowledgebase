@@ -7,9 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| how-to-use-emotes                                             | 21/11/2023, 10:19:19 am | 21/11/2023, 10:19:19 am | [Details](#how-to-use-emotes)                                              |
 | cheering-for-partners-affiliates                              | 16/11/2023, 0:43:32 am  | 16/11/2023, 0:43:31 am  | [Details](#cheering-for-partners-affiliates)                               |
 | guide-to-cheering-with-bits                                   | 15/11/2023, 11:33:02 pm | 08/11/2023, 6:38:45 am  | [Details](#guide-to-cheering-with-bits)                                    |
-| how-to-use-emotes                                             | 15/11/2023, 11:01:22 pm | 15/11/2023, 11:01:20 pm | [Details](#how-to-use-emotes)                                              |
 | hype-chat-for-streamers                                       | 15/11/2023, 7:09:07 pm  | 08/11/2023, 6:34:00 am  | [Details](#hype-chat-for-streamers)                                        |
 | hype-chat-by-twitch                                           | 15/11/2023, 7:09:02 pm  | 08/11/2023, 6:33:40 am  | [Details](#hype-chat-by-twitch)                                            |
 | sponsorship-experiments-faq                                   | 14/11/2023, 4:34:05 am  | 04/10/2023, 0:17:21 pm  | [Details](#sponsorship-experiments-faq)                                    |
@@ -2561,13 +2561,13 @@ https://help.twitch.tv/s/article/how-to-use-emotes
 
 | Title                            | Last Modified           | Created                  |
 |----------------------------------|-------------------------|--------------------------|
-| Jak używać tych emotek?          | 15/11/2023, 11:01:22 pm | 15/11/2023, 11:01:20 pm  |
-| Cómo usar emotes                 | 15/11/2023, 11:01:17 pm | 15/11/2023, 11:01:16 pm  |
-| Cómo usar emoticonos             | 15/11/2023, 11:01:17 pm | 15/11/2023, 11:01:16 pm  |
-| Como usar emotes                 | 15/11/2023, 11:01:13 pm | 15/11/2023, 11:01:12 pm  |
-| Comment utiliser les émoticônes? | 15/11/2023, 11:01:11 pm | 15/11/2023, 11:01:10 pm  |
-| Come utilizzare le emoticon      | 15/11/2023, 11:01:09 pm | 15/11/2023, 11:01:08 pm  |
-| How to Use Emotes                | 14/11/2023, 3:59:16 am  | 28/10/2023, 11:21:24 am  |
+| Come utilizzare le emoticon      | 21/11/2023, 10:19:19 am | 21/11/2023, 10:19:19 am  |
+| Comment utiliser les émoticônes? | 21/11/2023, 10:19:19 am | 21/11/2023, 10:19:19 am  |
+| Como usar emotes                 | 21/11/2023, 10:19:19 am | 21/11/2023, 10:19:19 am  |
+| Cómo usar emotes                 | 21/11/2023, 10:19:19 am | 21/11/2023, 10:19:19 am  |
+| Cómo usar emoticonos             | 21/11/2023, 10:19:19 am | 21/11/2023, 10:19:19 am  |
+| How to Use Emotes                | 21/11/2023, 10:19:19 am | 21/11/2023, 10:15:32 am  |
+| Jak używać tych emotek?          | 21/11/2023, 10:19:19 am | 21/11/2023, 10:19:19 am  |
 
 
 ### how-to-use-extensions
