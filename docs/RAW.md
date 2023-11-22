@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| bits-price-adjustment                                         | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am | [Details](#bits-price-adjustment)                                          |
 | how-to-use-emotes                                             | 21/11/2023, 10:19:19 am | 21/11/2023, 10:19:19 am | [Details](#how-to-use-emotes)                                              |
 | cheering-for-partners-affiliates                              | 16/11/2023, 0:43:32 am  | 16/11/2023, 0:43:31 am  | [Details](#cheering-for-partners-affiliates)                               |
 | guide-to-cheering-with-bits                                   | 15/11/2023, 11:33:02 pm | 08/11/2023, 6:38:45 am  | [Details](#guide-to-cheering-with-bits)                                    |
@@ -106,7 +107,6 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-appeal-flagged-content                                 | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
 | guide-to-broadcast-health                                     | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:21:56 am  | [Details](#guide-to-broadcast-health)                                      |
 | affiliate-or-partner-anniversary-settings                     | 04/08/2023, 8:45:32 pm  | 04/08/2023, 8:45:31 pm  | [Details](#affiliate-or-partner-anniversary-settings)                      |
-| bits-price-adjustment                                         | 04/08/2023, 2:04:58 pm  | 04/08/2023, 2:04:57 pm  | [Details](#bits-price-adjustment)                                          |
 | not-receiving-sms                                             | 04/08/2023, 0:16:03 am  | 04/08/2023, 0:16:01 am  | [Details](#not-receiving-sms)                                              |
 | new-device-and-location-verification                          | 03/08/2023, 9:28:41 pm  | 26/07/2023, 9:59:50 am  | [Details](#new-device-and-location-verification)                           |
 | authy-faq                                                     | 03/08/2023, 9:28:36 pm  | 26/07/2023, 10:23:51 am | [Details](#authy-faq)                                                      |
@@ -825,16 +825,16 @@ https://help.twitch.tv/s/article/basic-troubleshooting-tips
 ### bits-price-adjustment
 https://help.twitch.tv/s/article/bits-price-adjustment
 
-| Title                          | Last Modified          | Created                  |
-|--------------------------------|------------------------|--------------------------|
-| Ajuste de precios de Bits      | 04/08/2023, 2:04:58 pm | 04/08/2023, 2:04:57 pm   |
-| Ajuste de preço dos Bits       | 04/08/2023, 2:04:55 pm | 04/08/2023, 2:04:54 pm   |
-| Ajuste del precio de los Bits  | 04/08/2023, 2:04:48 pm | 04/08/2023, 2:04:45 pm   |
-| Ajustement des prix des Bits   | 04/08/2023, 2:04:47 pm | 04/08/2023, 2:04:45 pm   |
-| Bit Fiyat Düzenlemesi          | 04/08/2023, 2:04:44 pm | 04/08/2023, 2:04:42 pm   |
-| Adeguamento del prezzo dei bit | 04/08/2023, 2:04:41 pm | 04/08/2023, 2:04:40 pm   |
-| Korekta ceny Bitsów            | 04/08/2023, 2:04:39 pm | 04/08/2023, 2:04:36 pm   |
-| Bits Price Adjustment          | 16/11/2022, 6:10:31 am | 05/11/2022, 11:00:01 am  |
+| Title                          | Last Modified           | Created                  |
+|--------------------------------|-------------------------|--------------------------|
+| Adeguamento del prezzo dei bit | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
+| Ajuste de precios de Bits      | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
+| Ajuste de preço dos Bits       | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
+| Ajuste del precio de los Bits  | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
+| Ajustement des prix des Bits   | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
+| Bit Fiyat Düzenlemesi          | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
+| Korekta ceny Bitsów            | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
+| Bits Price Adjustment          | 22/11/2023, 10:47:04 am | 22/11/2023, 10:46:50 am  |
 
 
 ### bits-purchase-troubleshooting
