@@ -7,10 +7,12 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| how-to-manage-harassment-in-chat                              | 23/11/2023, 8:05:31 am  | 23/11/2023, 8:05:03 am  | [Details](#how-to-manage-harassment-in-chat)                               |
+| guide-to-cheering-with-bits                                   | 23/11/2023, 7:47:05 am  | 21/11/2023, 1:02:49 pm  | [Details](#guide-to-cheering-with-bits)                                    |
+| subscriber-badge-guide                                        | 23/11/2023, 1:30:35 am  | 14/10/2023, 9:38:42 am  | [Details](#subscriber-badge-guide)                                         |
 | bits-price-adjustment                                         | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am | [Details](#bits-price-adjustment)                                          |
 | how-to-use-emotes                                             | 21/11/2023, 10:19:19 am | 21/11/2023, 10:19:19 am | [Details](#how-to-use-emotes)                                              |
 | cheering-for-partners-affiliates                              | 16/11/2023, 0:43:32 am  | 16/11/2023, 0:43:31 am  | [Details](#cheering-for-partners-affiliates)                               |
-| guide-to-cheering-with-bits                                   | 15/11/2023, 11:33:02 pm | 08/11/2023, 6:38:45 am  | [Details](#guide-to-cheering-with-bits)                                    |
 | hype-chat-for-streamers                                       | 15/11/2023, 7:09:07 pm  | 08/11/2023, 6:34:00 am  | [Details](#hype-chat-for-streamers)                                        |
 | hype-chat-by-twitch                                           | 15/11/2023, 7:09:02 pm  | 08/11/2023, 6:33:40 am  | [Details](#hype-chat-by-twitch)                                            |
 | sponsorship-experiments-faq                                   | 14/11/2023, 4:34:05 am  | 04/10/2023, 0:17:21 pm  | [Details](#sponsorship-experiments-faq)                                    |
@@ -57,7 +59,6 @@ Language data is not included in the API. All page links will not have a languag
 | about-account-suspensions-dmca-suspensions-and-chat-bans      | 18/10/2023, 10:10:03 pm | 11/10/2023, 7:28:35 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | stories                                                       | 17/10/2023, 4:13:03 am  | 11/10/2023, 1:42:38 pm  | [Details](#stories)                                                        |
 | achievements                                                  | 14/10/2023, 4:00:21 am  | 08/08/2023, 11:56:27 pm | [Details](#achievements)                                                   |
-| how-to-manage-harassment-in-chat                              | 13/10/2023, 10:42:37 pm | 26/09/2023, 4:05:20 am  | [Details](#how-to-manage-harassment-in-chat)                               |
 | content-classification-labels                                 | 12/10/2023, 8:35:39 pm  | 03/10/2023, 0:41:59 pm  | [Details](#content-classification-labels)                                  |
 | dmca-and-copyright-faqs                                       | 11/10/2023, 9:24:44 am  | 21/09/2023, 3:18:44 am  | [Details](#dmca-and-copyright-faqs)                                        |
 | watching-twitch-on-android-devices                            | 11/10/2023, 8:54:06 am  | 11/10/2023, 8:54:05 am  | [Details](#watching-twitch-on-android-devices)                             |
@@ -300,7 +301,6 @@ Language data is not included in the API. All page links will not have a languag
 | setting-up-moderation-for-your-twitch-channel                 | 22/10/2021, 8:53:46 am  | 25/09/2021, 2:36:44 am  | [Details](#setting-up-moderation-for-your-twitch-channel)                  |
 | guide-to-building-a-moderation-team                           | 22/10/2021, 8:53:46 am  | 24/09/2020, 3:51:25 am  | [Details](#guide-to-building-a-moderation-team)                            |
 | twitch-policies-and-guidelines                                | 22/10/2021, 8:53:32 am  | 21/09/2019, 3:26:16 am  | [Details](#twitch-policies-and-guidelines)                                 |
-| subscriber-badge-guide                                        | 22/10/2021, 8:53:25 am  | 15/07/2021, 7:55:28 am  | [Details](#subscriber-badge-guide)                                         |
 | ad-offer-faq                                                  | 22/10/2021, 8:53:25 am  | 26/10/2019, 3:01:56 am  | [Details](#ad-offer-faq)                                                   |
 | partner-help-and-contact-information                          | 22/10/2021, 8:53:25 am  | 22/01/2020, 1:24:41 am  | [Details](#partner-help-and-contact-information)                           |
 | making-the-most-of-channel-points                             | 22/10/2021, 8:53:25 am  | 08/01/2020, 8:57:52 am  | [Details](#making-the-most-of-channel-points)                              |
@@ -2043,18 +2043,18 @@ https://help.twitch.tv/s/article/guide-to-building-a-moderation-team
 ### guide-to-cheering-with-bits
 https://help.twitch.tv/s/article/guide-to-cheering-with-bits
 
-| Title                                  | Last Modified           | Created                  |
-|----------------------------------------|-------------------------|--------------------------|
-| Comment envoyer des Cheers et des Bits | 15/11/2023, 11:33:02 pm | 08/11/2023, 6:38:45 am   |
-| Leitfaden zu Cheering mit Bits         | 15/11/2023, 10:29:05 pm | 08/11/2023, 6:38:45 am   |
-| Bit ile Cheer Kılavuzu                 | 15/11/2023, 10:03:33 pm | 08/11/2023, 6:38:45 am   |
-| Guida al tifo con i bit                | 15/11/2023, 7:19:36 pm  | 08/11/2023, 6:38:45 am   |
-| Guía para enviar Cheers con Bits       | 15/11/2023, 7:06:16 pm  | 08/11/2023, 6:38:45 am   |
-| Guia de Cheering com Bits              | 15/11/2023, 4:06:03 am  | 08/11/2023, 6:38:45 am   |
-| Guía para enviar Cheers con Bits       | 15/11/2023, 2:48:34 am  | 08/11/2023, 6:38:45 am   |
-| Guide to Cheering with Bits            | 10/11/2023, 10:15:22 am | 10/11/2023, 10:15:08 am  |
-| Guia do Cheering com Bits              | 10/11/2023, 10:15:20 am | 10/11/2023, 10:15:20 am  |
-| Guide to Cheering with Bits            | 10/11/2023, 10:15:20 am | 10/11/2023, 10:15:20 am  |
+| Title                                  | Last Modified          | Created                 |
+|----------------------------------------|------------------------|-------------------------|
+| Guide to Cheering with Bits            | 23/11/2023, 7:47:05 am | 21/11/2023, 1:02:49 pm  |
+| Bit ile Cheer Kılavuzu                 | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
+| Comment envoyer des Cheers et des Bits | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
+| Guia de Cheering com Bits              | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
+| Guia do Cheering com Bits              | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
+| Guida al tifo con i bit                | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
+| Guide to Cheering with Bits            | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
+| Guía para enviar Cheers con Bits       | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
+| Guía para enviar Cheers con Bits       | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
+| Leitfaden zu Cheering mit Bits         | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
 
 
 ### guide-to-closed-captions
@@ -2393,21 +2393,21 @@ https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click
 ### how-to-manage-harassment-in-chat
 https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat
 
-| Title                                       | Last Modified           | Created                 |
-|---------------------------------------------|-------------------------|-------------------------|
-| Cómo gestionar el acoso en un chat          | 13/10/2023, 10:42:37 pm | 26/09/2023, 4:05:20 am  |
-| Jak radzić sobie z napastowaniem na czacie? | 13/10/2023, 9:25:34 pm  | 26/09/2023, 4:05:20 am  |
-| Como gerenciar assédio no chat              | 13/10/2023, 9:47:43 am  | 26/09/2023, 4:05:20 am  |
-| Cómo gestionar el acoso en un chat          | 13/10/2023, 1:34:06 am  | 26/09/2023, 4:05:20 am  |
-| Come gestire le molestie in chat            | 12/10/2023, 4:00:57 am  | 26/09/2023, 4:05:20 am  |
-| Como lidar com o assédio no chat            | 12/10/2023, 4:00:57 am  | 12/10/2023, 4:00:55 am  |
-| Gérer le harcèlement dans le chat           | 12/10/2023, 4:00:57 am  | 26/09/2023, 4:05:20 am  |
-| Hogyan kezeld a chat közbeni zaklatást?     | 12/10/2023, 4:00:57 am  | 12/10/2023, 4:00:55 am  |
-| How to Manage Harassment in Chat            | 12/10/2023, 4:00:57 am  | 20/09/2023, 4:02:28 am  |
-| Hur man hanterar trakasserier i chatten     | 12/10/2023, 4:00:57 am  | 12/10/2023, 4:00:55 am  |
-| Hvordan håndtere trakassering i chatten     | 12/10/2023, 4:00:57 am  | 12/10/2023, 4:00:55 am  |
-| Häirinnän käsittely chatissa                | 12/10/2023, 4:00:57 am  | 12/10/2023, 4:00:55 am  |
-| Jak zvládat obtěžování v chatu              | 12/10/2023, 4:00:57 am  | 12/10/2023, 4:00:55 am  |
+| Title                                       | Last Modified          | Created                 |
+|---------------------------------------------|------------------------|-------------------------|
+| How to Manage Harassment in Chat            | 23/11/2023, 8:05:31 am | 23/11/2023, 8:05:03 am  |
+| Come gestire le molestie in chat            | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
+| Como gerenciar assédio no chat              | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
+| Como lidar com o assédio no chat            | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
+| Cómo gestionar el acoso en un chat          | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
+| Cómo gestionar el acoso en un chat          | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
+| Gérer le harcèlement dans le chat           | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
+| Hogyan kezeld a chat közbeni zaklatást?     | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
+| Hur man hanterar trakasserier i chatten     | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
+| Hvordan håndtere trakassering i chatten     | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
+| Häirinnän käsittely chatissa                | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
+| Jak radzić sobie z napastowaniem na czacie? | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
+| Jak zvládat obtěžování v chatu              | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
 
 
 ### how-to-perform-a-traceroute-to-twitch
@@ -3996,13 +3996,13 @@ https://help.twitch.tv/s/article/subscriber-badge-guide
 
 | Title                                         | Last Modified          | Created                 |
 |-----------------------------------------------|------------------------|-------------------------|
-| Abone Rozeti Rehberi                          | 22/10/2021, 8:53:25 am | 15/07/2021, 7:55:28 am  |
-| Guía de emblemas de suscriptor                | 22/10/2021, 8:53:24 am | 15/07/2021, 7:55:28 am  |
-| Guida agli stemmi per abbonati                | 22/10/2021, 8:53:23 am | 15/07/2021, 7:55:28 am  |
-| Guide relatif aux badges réservés aux abonnés | 22/10/2021, 8:53:23 am | 15/07/2021, 7:55:28 am  |
-| Guía de emblemas de suscriptor                | 22/10/2021, 8:53:23 am | 15/07/2021, 7:55:28 am  |
-| Anleitung zu Abonnenten-Abzeichen             | 22/10/2021, 8:53:22 am | 15/07/2021, 7:55:28 am  |
-| Guia do distintivo de inscrito                | 22/10/2021, 8:53:22 am | 15/07/2021, 7:55:28 am  |
+| Abone Rozeti Rehberi                          | 23/11/2023, 1:30:35 am | 14/10/2023, 9:38:42 am  |
+| Guia do distintivo de inscrito                | 23/11/2023, 1:30:34 am | 14/10/2023, 9:38:42 am  |
+| Guida agli stemmi per abbonati                | 23/11/2023, 1:30:34 am | 14/10/2023, 9:38:42 am  |
+| Guide relatif aux badges réservés aux abonnés | 23/11/2023, 1:30:34 am | 14/10/2023, 9:38:42 am  |
+| Guía de emblemas de suscriptor                | 23/11/2023, 1:30:34 am | 14/10/2023, 9:38:42 am  |
+| Guía de emblemas de suscriptor                | 23/11/2023, 1:30:34 am | 14/10/2023, 9:38:42 am  |
+| Anleitung zu Abonnenten-Abzeichen             | 23/11/2023, 1:30:33 am | 14/10/2023, 9:38:42 am  |
 
 
 ### subscriber-emote-guide
