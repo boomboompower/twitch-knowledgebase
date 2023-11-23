@@ -6,8 +6,8 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| How To Manage Harassment In Chat      | 23/11/2023, 8:05:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=cs)       |
 | Recommended Software For Broadcasting | 26/10/2023, 10:41:32 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=cs)  |
-| How To Manage Harassment In Chat      | 12/10/2023, 4:00:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=cs)       |
 | Watching Twitch On Android Devices    | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=cs)     |
 
 
