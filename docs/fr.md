@@ -56,6 +56,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Guest Star Audio                                              | 12/09/2023, 6:23:38 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=fr)                                               |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 12/09/2023, 6:20:14 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=fr)  |
 | Stream Summary                                                | 12/09/2023, 6:19:29 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=fr)                                                 |
 | Languages On Twitch                                           | 12/09/2023, 6:19:02 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=fr)                                            |
@@ -95,7 +96,6 @@
 | Refunds On Twitch                                             | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=fr)                                              |
 | Video On Demand                                               | 24/06/2023, 0:46:10 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=fr)                                                |
 | Patch Notes 19                                                | 23/06/2023, 6:48:20 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=fr)                                                 |
-| Twitch Music Getting Started                                  | 06/06/2023, 1:32:40 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=fr)                                   |
 
 
 
@@ -104,6 +104,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                       | 06/06/2023, 1:32:40 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=fr)                        |
 | Local Recording                                    | 31/05/2023, 0:13:18 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=fr)                                     |
 | Twitch Stream Key Faq                              | 31/05/2023, 0:13:14 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=fr)                               |
 | Payout History Dashboard Guide                     | 31/05/2023, 0:13:12 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=fr)                      |
@@ -145,7 +146,6 @@
 | Channel Page Setup                                 | 28/10/2022, 8:22:51 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=fr)                                  |
 | Managing Your Phone Number                         | 27/10/2022, 8:45:04 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=fr)                          |
 | Cheering Experiment 2022                           | 27/10/2022, 11:02:36 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=fr)                            |
-| How To Use Squad Stream                            | 21/10/2022, 7:26:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=fr)                             |
 
 
 
@@ -154,6 +154,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| How To Use Squad Stream                     | 21/10/2022, 7:26:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=fr)                      |
 | Earning Revenue From Bits In Extensions     | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=fr)      |
 | Supported Browsers                          | 17/10/2022, 11:06:32 pm   | [Link](https://help.twitch.tv/s/article/supported-browsers?language=fr)                           |
 | Twitch Content Sharing Guidelines           | 13/10/2022, 7:53:06 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=fr)            |
@@ -190,8 +191,6 @@
 | Default Emotes                              | 19/11/2021, 5:12:28 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=fr)                               |
 | Broadcast Guidelines                        | 02/11/2021, 1:25:22 am    | [Link](https://help.twitch.tv/s/article/broadcast-guidelines?language=fr)                         |
 | Advanced Audio Mixer                        | 27/10/2021, 8:23:48 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=fr)                         |
-| Hyper Scape                                 | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/hyper-scape?language=fr)                                  |
-| Stream With Pride                           | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=fr)                            |
 
 
 
@@ -200,6 +199,8 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Stream With Pride                                 | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=fr)                                  |
+| Rpg Megacheer                                     | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=fr)                                      |
 | Megacheer Food Fight                              | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=fr)                               |
 | Community Meetups Powered By Twitch               | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=fr)                |
 | Studio Ui                                         | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=fr)                                          |
@@ -232,7 +233,6 @@
 | Tips For Bounty Board Completing Bounties         | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/Tips-for-Bounty-Board-Completing-Bounties?language=fr)          |
 | Ad Offer Faq                                      | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=fr)                                       |
 | Custom Bit Badges Guide                           | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=fr)                            |
-| Subscriber Badge Guide                            | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=fr)                             |
 | Contacting Partner Help                           | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=fr)                            |
 | Audio Ads                                         | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/audio-ads?language=fr)                                          |
 | Streamer Community Survey                         | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=fr)                          |
@@ -240,6 +240,7 @@
 | Recommended Hardware For Broadcasting             | 22/10/2021, 8:53:11 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=fr)              |
 | Amazon Associates                                 | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/amazon-associates?language=fr)                                  |
 | Low Latency Video                                 | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/low-latency-video?language=fr)                                  |
+| Nba G League Co Streaming Guide                   | 22/10/2021, 8:53:04 am    | [Link](https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide?language=fr)                    |
 
 
 

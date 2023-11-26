@@ -56,6 +56,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Channel Points Faq                                            | 12/09/2023, 6:23:04 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ko)                                             |
 | Stream Summary                                                | 12/09/2023, 6:21:48 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ko)                                                 |
 | Hindsight 2020                                                | 12/09/2023, 6:21:03 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=ko)                                                 |
 | Languages On Twitch                                           | 12/09/2023, 6:20:25 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ko)                                            |
@@ -234,7 +235,6 @@
 | Streamer Community Survey                         | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=ko)                          |
 | Ad Offer Faq                                      | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=ko)                                       |
 | Custom Bit Badges Guide                           | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=ko)                            |
-| Subscriber Badge Guide                            | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ko)                             |
 | Contacting Partner Help                           | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=ko)                            |
 | Extensions Switch With Your Game Selection        | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection?language=ko)         |
 | Recommended Hardware For Broadcasting             | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=ko)              |

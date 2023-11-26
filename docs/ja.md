@@ -57,6 +57,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Guest Star Audio                                              | 12/09/2023, 6:23:44 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=ja)                                               |
 | How To Use Raids                                              | 12/09/2023, 6:17:29 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ja)                                               |
 | Stream Summary                                                | 12/09/2023, 6:16:36 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ja)                                                 |
 | Languages On Twitch                                           | 12/09/2023, 6:15:44 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ja)                                            |
@@ -94,8 +95,6 @@
 | Music Options For Streamers                                   | 11/07/2023, 2:52:16 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=ja)                                    |
 | Refunds On Twitch                                             | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ja)                                              |
 | Video On Demand                                               | 24/06/2023, 0:46:15 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                                                |
-| Patch Notes 19                                                | 23/06/2023, 6:48:01 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=ja)                                                 |
-| Twitch Music Getting Started                                  | 05/06/2023, 6:29:14 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ja)                                   |
 
 
 
@@ -104,6 +103,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Patch Notes 19                                     | 23/06/2023, 6:48:01 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=ja)                                      |
+| Twitch Music Getting Started                       | 05/06/2023, 6:29:14 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ja)                        |
 | Twitch Stream Key Faq                              | 30/05/2023, 4:46:12 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ja)                               |
 | Local Recording                                    | 30/05/2023, 4:46:10 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=ja)                                     |
 | Payout History Dashboard Guide                     | 30/05/2023, 4:46:07 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=ja)                      |
@@ -233,7 +234,6 @@
 | Streamer Community Survey                         | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=ja)                          |
 | Ad Offer Faq                                      | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=ja)                                       |
 | Custom Bit Badges Guide                           | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=ja)                            |
-| Subscriber Badge Guide                            | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ja)                             |
 | Contacting Partner Help                           | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=ja)                            |
 | Extensions Switch With Your Game Selection        | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection?language=ja)         |
 | Recommended Hardware For Broadcasting             | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=ja)              |

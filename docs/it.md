@@ -96,7 +96,6 @@
 | Refunds On Twitch                                             | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=it)                                              |
 | Video On Demand                                               | 24/06/2023, 0:46:10 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=it)                                                |
 | Patch Notes 19                                                | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=it)                                                 |
-| Twitch Music Getting Started                                  | 05/06/2023, 7:07:13 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=it)                                   |
 
 
 
@@ -105,6 +104,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                       | 05/06/2023, 7:07:13 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=it)                        |
 | Twitch Stream Key Faq                              | 30/05/2023, 5:46:47 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=it)                               |
 | Prime Gaming Revenue Guide                         | 30/05/2023, 5:46:41 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)                          |
 | Payout History Dashboard Guide                     | 30/05/2023, 5:46:37 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=it)                      |
@@ -236,7 +236,6 @@
 | Audio Ads                                         | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/audio-ads?language=it)                                          |
 | Streamer Community Survey                         | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=it)                          |
 | Custom Bit Badges Guide                           | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=it)                            |
-| Subscriber Badge Guide                            | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=it)                             |
 | Extensions Switch With Your Game Selection        | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection?language=it)         |
 | Recommended Hardware For Broadcasting             | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=it)              |
 | Amazon Associates                                 | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/amazon-associates?language=it)                                  |

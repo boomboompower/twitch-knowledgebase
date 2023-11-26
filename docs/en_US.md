@@ -85,9 +85,6 @@
 | Managing Roles For Your Channel                               | 11/07/2023, 2:22:54 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=en_US)                                |
 | Creating An Account With Twitch                               | 11/07/2023, 2:20:36 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=en_US)                                |
 | Refunds On Twitch                                             | 01/07/2023, 11:23:37 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=en_US)                                              |
-| Patch Notes 19                                                | 23/06/2023, 6:40:33 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=en_US)                                                 |
-| Video On Demand                                               | 20/06/2023, 0:12:52 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                                |
-| Music Options For Streamers                                   | 10/06/2023, 5:39:19 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=en_US)                                    |
 
 
 
@@ -96,6 +93,9 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Patch Notes 19                                     | 23/06/2023, 6:40:33 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=en_US)                                      |
+| Video On Demand                                    | 20/06/2023, 0:12:52 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                     |
+| Music Options For Streamers                        | 10/06/2023, 5:39:19 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=en_US)                         |
 | Twitch Music Getting Started                       | 31/05/2023, 2:32:54 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=en_US)                        |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                           |
 | Prime Gaming Revenue Guide                         | 24/05/2023, 4:02:47 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)                          |
@@ -140,7 +140,6 @@
 | Request To Join                                    | 28/10/2022, 5:59:18 am    | [Link](https://help.twitch.tv/s/article/request-to-join?language=en_US)                                     |
 | Cheering Experiment 2022                           | 27/10/2022, 11:02:37 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=en_US)                            |
 | How To Use Extensions                              | 26/10/2022, 7:05:22 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=en_US)                               |
-| How To Use Squad Stream                            | 21/10/2022, 7:26:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=en_US)                             |
 
 
 
@@ -149,6 +148,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| How To Use Squad Stream                     | 21/10/2022, 7:26:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=en_US)                      |
 | Earning Revenue From Bits In Extensions     | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=en_US)      |
 | Managing Your Phone Number                  | 19/10/2022, 4:49:28 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=en_US)                   |
 | Twitch Content Sharing Guidelines           | 13/10/2022, 7:53:06 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=en_US)            |
@@ -241,7 +241,6 @@
 | Tips For Bounty Board Completing Bounties         | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/Tips-for-Bounty-Board-Completing-Bounties?language=en_US)          |
 | Surge Pricing Faq                                 | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/surge-pricing-faq?language=en_US)                                  |
 | Custom Bit Badges Guide                           | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=en_US)                            |
-| Subscriber Badge Guide                            | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=en_US)                             |
 | Contacting Partner Help                           | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=en_US)                            |
 | Extensions Switch With Your Game Selection        | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection?language=en_US)         |
 | Pools Hottubs Beaches                             | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/pools-hottubs-beaches?language=en_US)                              |

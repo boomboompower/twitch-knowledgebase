@@ -54,6 +54,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Channel Points Faq                                            | 12/09/2023, 6:23:02 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=tr)                                             |
+| Guest Star Audio                                              | 12/09/2023, 6:22:58 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=tr)                                               |
 | How To Use Raids                                              | 12/09/2023, 6:21:31 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=tr)                                               |
 | Languages On Twitch                                           | 12/09/2023, 6:19:48 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=tr)                                            |
 | Hindsight 2020                                                | 12/09/2023, 6:18:50 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=tr)                                                 |
@@ -93,7 +95,6 @@
 | Partner Onboarding Guide                                      | 11/07/2023, 1:57:23 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=tr)                                       |
 | Refunds On Twitch                                             | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=tr)                                              |
 | Video On Demand                                               | 24/06/2023, 0:46:09 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=tr)                                                |
-| Patch Notes 19                                                | 23/06/2023, 6:48:01 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=tr)                                                 |
 
 
 
@@ -102,6 +103,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Patch Notes 19                                     | 23/06/2023, 6:48:01 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=tr)                                      |
 | Twitch Music Getting Started                       | 02/06/2023, 6:30:14 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=tr)                        |
 | Local Sub Price Countries                          | 26/05/2023, 3:15:13 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=tr)                           |
 | Local Recording                                    | 25/05/2023, 7:51:49 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=tr)                                     |
@@ -144,8 +146,6 @@
 | Channel Page Setup                                 | 28/10/2022, 8:22:51 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=tr)                                  |
 | Cheering Experiment 2022                           | 27/10/2022, 11:02:36 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=tr)                            |
 | Managing Your Phone Number                         | 25/10/2022, 8:05:32 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=tr)                          |
-| How To Use Squad Stream                            | 21/10/2022, 7:26:47 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=tr)                             |
-| Earning Revenue From Bits In Extensions            | 21/10/2022, 7:25:42 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=tr)             |
 
 
 
@@ -154,6 +154,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Earning Revenue From Bits In Extensions     | 21/10/2022, 7:25:42 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=tr)      |
 | Supported Browsers                          | 17/10/2022, 6:46:04 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=tr)                           |
 | Twitch Content Sharing Guidelines           | 13/10/2022, 7:53:07 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=tr)            |
 | Charitable Donations                        | 27/09/2022, 5:00:34 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=tr)                         |
@@ -232,7 +233,6 @@
 | Streamer Community Survey                        | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=tr)                         |
 | Ad Offer Faq                                     | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=tr)                                      |
 | Custom Bit Badges Guide                          | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=tr)                           |
-| Subscriber Badge Guide                           | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=tr)                            |
 | Contacting Partner Help                          | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=tr)                           |
 | Extensions Switch With Your Game Selection       | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection?language=tr)        |
 | Recommended Hardware For Broadcasting            | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=tr)             |
