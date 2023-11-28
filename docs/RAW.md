@@ -7,15 +7,15 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| ads-manager                                                   | 28/11/2023, 10:48:06 pm | 23/11/2023, 7:34:03 am  | [Details](#ads-manager)                                                    |
+| subscriber-badge-guide                                        | 28/11/2023, 10:46:34 pm | 23/11/2023, 1:30:56 am  | [Details](#subscriber-badge-guide)                                         |
+| guide-to-cheering-with-bits                                   | 28/11/2023, 10:46:33 pm | 21/11/2023, 1:03:29 pm  | [Details](#guide-to-cheering-with-bits)                                    |
 | alerts-by-twitch                                              | 28/11/2023, 9:20:04 am  | 28/11/2023, 9:20:04 am  | [Details](#alerts-by-twitch)                                               |
 | alerts-by-twitch-faq                                          | 28/11/2023, 9:18:35 am  | 28/11/2023, 9:18:35 am  | [Details](#alerts-by-twitch-faq)                                           |
 | stream-manager                                                | 28/11/2023, 9:16:26 am  | 28/11/2023, 9:16:26 am  | [Details](#stream-manager)                                                 |
 | alerts-by-twitch-events                                       | 28/11/2023, 9:16:21 am  | 28/11/2023, 9:16:20 am  | [Details](#alerts-by-twitch-events)                                        |
 | creator-chat-and-events                                       | 28/11/2023, 9:16:14 am  | 28/11/2023, 9:16:13 am  | [Details](#creator-chat-and-events)                                        |
-| ads-manager                                                   | 28/11/2023, 5:06:06 am  | 23/11/2023, 7:32:23 am  | [Details](#ads-manager)                                                    |
 | how-to-manage-harassment-in-chat                              | 23/11/2023, 8:05:31 am  | 23/11/2023, 8:05:03 am  | [Details](#how-to-manage-harassment-in-chat)                               |
-| guide-to-cheering-with-bits                                   | 23/11/2023, 7:47:05 am  | 21/11/2023, 1:02:49 pm  | [Details](#guide-to-cheering-with-bits)                                    |
-| subscriber-badge-guide                                        | 23/11/2023, 1:30:35 am  | 14/10/2023, 9:38:42 am  | [Details](#subscriber-badge-guide)                                         |
 | bits-price-adjustment                                         | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am | [Details](#bits-price-adjustment)                                          |
 | how-to-use-emotes                                             | 21/11/2023, 10:19:19 am | 21/11/2023, 10:19:19 am | [Details](#how-to-use-emotes)                                              |
 | cheering-for-partners-affiliates                              | 16/11/2023, 0:43:32 am  | 16/11/2023, 0:43:31 am  | [Details](#cheering-for-partners-affiliates)                               |
@@ -495,15 +495,15 @@ https://help.twitch.tv/s/article/ads-incentive-program-getting-started
 ### ads-manager
 https://help.twitch.tv/s/article/ads-manager
 
-| Title                       | Last Modified          | Created                 |
-|-----------------------------|------------------------|-------------------------|
-| Ads Manager                 | 28/11/2023, 5:06:06 am | 23/11/2023, 7:32:23 am  |
-| Administrador de anuncios   | 28/11/2023, 5:06:05 am | 28/11/2023, 5:06:03 am  |
-| Gerenciador de anúncios     | 28/11/2023, 5:06:05 am | 28/11/2023, 5:06:03 am  |
-| Gestionnaire des publicités | 28/11/2023, 5:06:05 am | 28/11/2023, 5:06:03 am  |
-| Gestor de anuncios          | 28/11/2023, 5:06:05 am | 28/11/2023, 5:06:03 am  |
-| Gestore annunci             | 28/11/2023, 5:06:05 am | 28/11/2023, 5:06:03 am  |
-| Menedżer reklam             | 28/11/2023, 5:06:05 am | 28/11/2023, 5:06:03 am  |
+| Title                       | Last Modified           | Created                 |
+|-----------------------------|-------------------------|-------------------------|
+| Menedżer reklam             | 28/11/2023, 10:48:06 pm | 23/11/2023, 7:34:03 am  |
+| Administrador de anuncios   | 28/11/2023, 10:20:04 pm | 23/11/2023, 7:34:03 am  |
+| Gerenciador de anúncios     | 28/11/2023, 10:03:39 pm | 23/11/2023, 7:34:03 am  |
+| Gestionnaire des publicités | 28/11/2023, 9:55:04 pm  | 23/11/2023, 7:34:03 am  |
+| Gestor de anuncios          | 28/11/2023, 8:00:05 pm  | 23/11/2023, 7:34:03 am  |
+| Gestore annunci             | 28/11/2023, 7:34:34 pm  | 23/11/2023, 7:34:03 am  |
+| Ads Manager                 | 28/11/2023, 5:06:06 am  | 23/11/2023, 7:32:23 am  |
 
 
 ### advanced-audio-mixer
@@ -2043,18 +2043,18 @@ https://help.twitch.tv/s/article/guide-to-building-a-moderation-team
 ### guide-to-cheering-with-bits
 https://help.twitch.tv/s/article/guide-to-cheering-with-bits
 
-| Title                                  | Last Modified          | Created                 |
-|----------------------------------------|------------------------|-------------------------|
-| Guide to Cheering with Bits            | 23/11/2023, 7:47:05 am | 21/11/2023, 1:02:49 pm  |
-| Bit ile Cheer Kılavuzu                 | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
-| Comment envoyer des Cheers et des Bits | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
-| Guia de Cheering com Bits              | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
-| Guia do Cheering com Bits              | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
-| Guida al tifo con i bit                | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
-| Guide to Cheering with Bits            | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
-| Guía para enviar Cheers con Bits       | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
-| Guía para enviar Cheers con Bits       | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
-| Leitfaden zu Cheering mit Bits         | 23/11/2023, 7:47:03 am | 23/11/2023, 7:47:02 am  |
+| Title                                  | Last Modified           | Created                 |
+|----------------------------------------|-------------------------|-------------------------|
+| Bit ile Cheer Kılavuzu                 | 28/11/2023, 10:46:33 pm | 21/11/2023, 1:03:29 pm  |
+| Guide to Cheering with Bits            | 23/11/2023, 7:47:05 am  | 21/11/2023, 1:02:49 pm  |
+| Comment envoyer des Cheers et des Bits | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
+| Guia de Cheering com Bits              | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
+| Guia do Cheering com Bits              | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
+| Guida al tifo con i bit                | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
+| Guide to Cheering with Bits            | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
+| Guía para enviar Cheers con Bits       | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
+| Guía para enviar Cheers con Bits       | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
+| Leitfaden zu Cheering mit Bits         | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
 
 
 ### guide-to-closed-captions
@@ -3994,15 +3994,15 @@ https://help.twitch.tv/s/article/subpoint-vs-subcount
 ### subscriber-badge-guide
 https://help.twitch.tv/s/article/subscriber-badge-guide
 
-| Title                                         | Last Modified          | Created                 |
-|-----------------------------------------------|------------------------|-------------------------|
-| Abone Rozeti Rehberi                          | 23/11/2023, 1:30:35 am | 14/10/2023, 9:38:42 am  |
-| Guia do distintivo de inscrito                | 23/11/2023, 1:30:34 am | 14/10/2023, 9:38:42 am  |
-| Guida agli stemmi per abbonati                | 23/11/2023, 1:30:34 am | 14/10/2023, 9:38:42 am  |
-| Guide relatif aux badges réservés aux abonnés | 23/11/2023, 1:30:34 am | 14/10/2023, 9:38:42 am  |
-| Guía de emblemas de suscriptor                | 23/11/2023, 1:30:34 am | 14/10/2023, 9:38:42 am  |
-| Guía de emblemas de suscriptor                | 23/11/2023, 1:30:34 am | 14/10/2023, 9:38:42 am  |
-| Anleitung zu Abonnenten-Abzeichen             | 23/11/2023, 1:30:33 am | 14/10/2023, 9:38:42 am  |
+| Title                                         | Last Modified           | Created                 |
+|-----------------------------------------------|-------------------------|-------------------------|
+| Abone Rozeti Rehberi                          | 28/11/2023, 10:46:34 pm | 23/11/2023, 1:30:56 am  |
+| Guia do distintivo de inscrito                | 23/11/2023, 1:30:34 am  | 14/10/2023, 9:38:42 am  |
+| Guida agli stemmi per abbonati                | 23/11/2023, 1:30:34 am  | 14/10/2023, 9:38:42 am  |
+| Guide relatif aux badges réservés aux abonnés | 23/11/2023, 1:30:34 am  | 14/10/2023, 9:38:42 am  |
+| Guía de emblemas de suscriptor                | 23/11/2023, 1:30:34 am  | 14/10/2023, 9:38:42 am  |
+| Guía de emblemas de suscriptor                | 23/11/2023, 1:30:34 am  | 14/10/2023, 9:38:42 am  |
+| Anleitung zu Abonnenten-Abzeichen             | 23/11/2023, 1:30:33 am  | 14/10/2023, 9:38:42 am  |
 
 
 ### subscriber-emote-guide

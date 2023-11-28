@@ -6,6 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Alerts By Twitch                                         | 28/11/2023, 9:20:05 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=en_US)                                          |
+| Alerts By Twitch Faq                                     | 28/11/2023, 9:18:36 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=en_US)                                      |
+| Alerts By Twitch Events                                  | 28/11/2023, 9:16:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                                   |
+| Ads Manager                                              | 28/11/2023, 5:06:06 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=en_US)                                               |
 | How To Manage Harassment In Chat                         | 23/11/2023, 8:05:31 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=en_US)                          |
 | Guide To Cheering With Bits                              | 23/11/2023, 7:47:05 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=en_US)                               |
 | Subscriber Badge Guide                                   | 23/11/2023, 1:30:33 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=en_US)                                    |
@@ -38,14 +42,12 @@
 | Brand Surveys                                            | 11/10/2023, 4:01:25 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=en_US)                                             |
 | Stream Display Ads                                       | 11/10/2023, 3:21:25 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                                        |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 10/10/2023, 6:23:57 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=en_US)  |
-| Ads Manager                                              | 29/09/2023, 3:02:46 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=en_US)                                               |
 | Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=en_US)                  |
 | Channel Analytics                                        | 21/09/2023, 6:41:00 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=en_US)                                         |
 | Broadcasting Guidelines                                  | 21/09/2023, 3:09:57 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                                   |
 | Affiliate Onboarding Guide                               | 19/09/2023, 7:23:28 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=en_US)                                |
 | Suspicious User Controls                                 | 15/09/2023, 6:15:59 am    | [Link](https://help.twitch.tv/s/article/suspicious-user-controls?language=en_US)                                  |
 | Mod View                                                 | 15/09/2023, 6:15:45 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                                  |
-| Subpoint Vs Subcount                                     | 13/09/2023, 7:06:06 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=en_US)                                      |
 
 
 
