@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Alerts By Twitch                                         | 28/11/2023, 9:20:05 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=en_US)                                          |
+| Alerts By Twitch                                         | 29/11/2023, 9:13:51 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=en_US)                                          |
 | Alerts By Twitch Faq                                     | 28/11/2023, 9:18:36 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=en_US)                                      |
 | Alerts By Twitch Events                                  | 28/11/2023, 9:16:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                                   |
 | Ads Manager                                              | 28/11/2023, 5:06:06 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=en_US)                                               |
@@ -45,9 +45,6 @@
 | Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=en_US)                  |
 | Channel Analytics                                        | 21/09/2023, 6:41:00 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=en_US)                                         |
 | Broadcasting Guidelines                                  | 21/09/2023, 3:09:57 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                                   |
-| Affiliate Onboarding Guide                               | 19/09/2023, 7:23:28 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=en_US)                                |
-| Suspicious User Controls                                 | 15/09/2023, 6:15:59 am    | [Link](https://help.twitch.tv/s/article/suspicious-user-controls?language=en_US)                                  |
-| Mod View                                                 | 15/09/2023, 6:15:45 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                                  |
 
 
 
