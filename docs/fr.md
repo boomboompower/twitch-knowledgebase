@@ -47,7 +47,6 @@
 | Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=fr)                  |
 | Channel Analytics                                        | 21/09/2023, 9:11:36 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=fr)                                         |
 | Mod View                                                 | 19/09/2023, 10:11:32 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=fr)                                                  |
-| Affiliate Onboarding Guide                               | 19/09/2023, 9:07:46 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=fr)                                |
 
 
 

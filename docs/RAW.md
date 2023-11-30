@@ -7,10 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| partner-settings-guide                                        | 30/11/2023, 10:05:33 pm | 30/11/2023, 10:05:31 pm | [Details](#partner-settings-guide)                                         |
+| subscriber-badge-guide                                        | 30/11/2023, 9:59:06 pm  | 23/11/2023, 1:30:56 am  | [Details](#subscriber-badge-guide)                                         |
+| guide-to-cheering-with-bits                                   | 30/11/2023, 9:59:04 pm  | 21/11/2023, 1:03:29 pm  | [Details](#guide-to-cheering-with-bits)                                    |
 | alerts-by-twitch                                              | 29/11/2023, 9:13:50 am  | 29/11/2023, 9:13:49 am  | [Details](#alerts-by-twitch)                                               |
-| guide-to-cheering-with-bits                                   | 29/11/2023, 7:07:38 am  | 21/11/2023, 1:03:29 pm  | [Details](#guide-to-cheering-with-bits)                                    |
-| subscriber-badge-guide                                        | 29/11/2023, 7:07:36 am  | 23/11/2023, 1:30:56 am  | [Details](#subscriber-badge-guide)                                         |
-| partner-settings-guide                                        | 29/11/2023, 6:55:05 am  | 29/11/2023, 6:55:03 am  | [Details](#partner-settings-guide)                                         |
 | ads-manager                                                   | 28/11/2023, 10:48:06 pm | 23/11/2023, 7:34:03 am  | [Details](#ads-manager)                                                    |
 | alerts-by-twitch-faq                                          | 28/11/2023, 9:18:35 am  | 28/11/2023, 9:18:35 am  | [Details](#alerts-by-twitch-faq)                                           |
 | stream-manager                                                | 28/11/2023, 9:16:26 am  | 28/11/2023, 9:16:26 am  | [Details](#stream-manager)                                                 |
@@ -2045,14 +2045,14 @@ https://help.twitch.tv/s/article/guide-to-cheering-with-bits
 
 | Title                                  | Last Modified           | Created                 |
 |----------------------------------------|-------------------------|-------------------------|
+| Guía para enviar Cheers con Bits       | 30/11/2023, 9:59:04 pm  | 21/11/2023, 1:03:29 pm  |
+| Comment envoyer des Cheers et des Bits | 30/11/2023, 9:52:34 pm  | 21/11/2023, 1:03:29 pm  |
+| Guida al tifo con i bit                | 30/11/2023, 8:14:09 pm  | 21/11/2023, 1:03:29 pm  |
 | Guia de Cheering com Bits              | 29/11/2023, 7:07:38 am  | 21/11/2023, 1:03:29 pm  |
 | Bit ile Cheer Kılavuzu                 | 28/11/2023, 10:46:33 pm | 21/11/2023, 1:03:29 pm  |
 | Guide to Cheering with Bits            | 23/11/2023, 7:47:05 am  | 21/11/2023, 1:02:49 pm  |
-| Comment envoyer des Cheers et des Bits | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
 | Guia do Cheering com Bits              | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
-| Guida al tifo con i bit                | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
 | Guide to Cheering with Bits            | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
-| Guía para enviar Cheers con Bits       | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
 | Guía para enviar Cheers con Bits       | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
 | Leitfaden zu Cheering mit Bits         | 23/11/2023, 7:47:03 am  | 23/11/2023, 7:47:02 am  |
 
@@ -3447,14 +3447,14 @@ https://help.twitch.tv/s/article/partner-program-overview
 ### partner-settings-guide
 https://help.twitch.tv/s/article/partner-settings-guide
 
-| Title                              | Last Modified          | Created                 |
-|------------------------------------|------------------------|-------------------------|
-| Guia de configurações de Parceiro  | 29/11/2023, 6:55:05 am | 29/11/2023, 6:55:03 am  |
-| Guida alle impostazioni partner    | 10/11/2023, 4:57:08 am | 14/10/2023, 9:35:07 am  |
-| Guide des paramètres du partenaire | 10/11/2023, 4:57:08 am | 14/10/2023, 9:35:07 am  |
-| Guía de configuración de Partner   | 10/11/2023, 4:57:08 am | 14/10/2023, 9:35:07 am  |
-| Guía de configuración de socios    | 10/11/2023, 4:57:08 am | 14/10/2023, 9:35:07 am  |
-| Leitfaden zu Partnereinstellungen  | 10/11/2023, 4:57:07 am | 14/10/2023, 9:35:07 am  |
+| Title                              | Last Modified           | Created                  |
+|------------------------------------|-------------------------|--------------------------|
+| Guide des paramètres du partenaire | 30/11/2023, 10:05:33 pm | 30/11/2023, 10:05:31 pm  |
+| Guía de configuración de Partner   | 30/11/2023, 9:58:12 pm  | 30/11/2023, 9:58:10 pm   |
+| Guida alle impostazioni partner    | 30/11/2023, 8:15:05 pm  | 30/11/2023, 8:15:03 pm   |
+| Guia de configurações de Parceiro  | 29/11/2023, 6:55:05 am  | 29/11/2023, 6:55:03 am   |
+| Guía de configuración de socios    | 10/11/2023, 4:57:08 am  | 14/10/2023, 9:35:07 am   |
+| Leitfaden zu Partnereinstellungen  | 10/11/2023, 4:57:07 am  | 14/10/2023, 9:35:07 am   |
 
 
 ### payout-balance-faq
@@ -3996,11 +3996,11 @@ https://help.twitch.tv/s/article/subscriber-badge-guide
 
 | Title                                         | Last Modified           | Created                 |
 |-----------------------------------------------|-------------------------|-------------------------|
+| Guía de emblemas de suscriptor                | 30/11/2023, 9:59:06 pm  | 23/11/2023, 1:30:56 am  |
+| Guide relatif aux badges réservés aux abonnés | 30/11/2023, 9:52:37 pm  | 23/11/2023, 1:30:56 am  |
+| Guida agli stemmi per abbonati                | 30/11/2023, 8:14:11 pm  | 23/11/2023, 1:30:56 am  |
 | Guia do distintivo de inscrito                | 29/11/2023, 7:07:36 am  | 23/11/2023, 1:30:56 am  |
 | Abone Rozeti Rehberi                          | 28/11/2023, 10:46:34 pm | 23/11/2023, 1:30:56 am  |
-| Guida agli stemmi per abbonati                | 23/11/2023, 1:30:34 am  | 14/10/2023, 9:38:42 am  |
-| Guide relatif aux badges réservés aux abonnés | 23/11/2023, 1:30:34 am  | 14/10/2023, 9:38:42 am  |
-| Guía de emblemas de suscriptor                | 23/11/2023, 1:30:34 am  | 14/10/2023, 9:38:42 am  |
 | Guía de emblemas de suscriptor                | 23/11/2023, 1:30:34 am  | 14/10/2023, 9:38:42 am  |
 | Anleitung zu Abonnenten-Abzeichen             | 23/11/2023, 1:30:33 am  | 14/10/2023, 9:38:42 am  |
 
