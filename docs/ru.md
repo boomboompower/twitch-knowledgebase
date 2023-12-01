@@ -6,18 +6,18 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Alerts By Twitch Events                                  | 30/11/2023, 10:55:04 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ru)                                   |
+| Guide To Cheering With Bits                              | 30/11/2023, 10:54:41 pm   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ru)                               |
+| Subscriber Badge Guide                                   | 30/11/2023, 10:54:38 pm   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ru)                                    |
+| Partner Settings Guide                                   | 30/11/2023, 10:54:34 pm   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=ru)                                    |
 | Alerts By Twitch                                         | 29/11/2023, 9:13:50 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=ru)                                          |
 | Ads Manager                                              | 28/11/2023, 6:09:04 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ru)                                               |
 | Alerts By Twitch Faq                                     | 28/11/2023, 9:18:35 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=ru)                                      |
-| Alerts By Twitch Events                                  | 28/11/2023, 9:16:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ru)                                   |
 | How To Manage Harassment In Chat                         | 23/11/2023, 8:05:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ru)                          |
-| Guide To Cheering With Bits                              | 23/11/2023, 7:47:03 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ru)                               |
-| Subscriber Badge Guide                                   | 23/11/2023, 1:30:34 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ru)                                    |
 | Sponsorship Experiments Faq                              | 14/11/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=ru)                               |
 | Partner Program Overview                                 | 10/11/2023, 11:09:46 pm   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ru)                                  |
 | Nintendo Switch                                          | 10/11/2023, 11:09:40 pm   | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=ru)                                           |
 | Affiliate Settings Guide                                 | 10/11/2023, 4:57:15 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=ru)                                  |
-| Partner Settings Guide                                   | 10/11/2023, 4:57:08 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=ru)                                    |
 | How To Use Clips                                         | 09/11/2023, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ru)                                          |
 | Follower Emotes                                          | 08/11/2023, 11:26:37 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=ru)                                           |
 | Games Irl And Music Directories                          | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=ru)                           |

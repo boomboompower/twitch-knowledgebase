@@ -6,10 +6,11 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Alerts By Twitch Events                                  | 29/11/2023, 11:37:44 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=th)                                   |
-| Guide To Cheering With Bits                              | 29/11/2023, 11:28:37 pm   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=th)                               |
-| Subscriber Badge Guide                                   | 29/11/2023, 11:28:34 pm   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=th)                                    |
-| Partner Settings Guide                                   | 29/11/2023, 11:04:07 pm   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=th)                                    |
+| Alerts By Twitch Events                                  | 30/11/2023, 9:25:03 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=th)                                   |
+| Partner Settings Guide                                   | 30/11/2023, 9:17:37 pm    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=th)                                    |
+| Subscriber Badge Guide                                   | 30/11/2023, 9:15:05 pm    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=th)                                    |
+| Guide To Cheering With Bits                              | 30/11/2023, 9:15:03 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=th)                               |
+| Games Irl And Music Directories                          | 30/11/2023, 9:07:02 pm    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=th)                           |
 | Alerts By Twitch                                         | 29/11/2023, 9:13:50 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=th)                                          |
 | Ads Manager                                              | 29/11/2023, 0:16:03 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=th)                                               |
 | Alerts By Twitch Faq                                     | 28/11/2023, 9:18:35 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=th)                                      |
@@ -19,7 +20,6 @@
 | Affiliate Settings Guide                                 | 10/11/2023, 4:57:16 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=th)                                  |
 | How To Use Clips                                         | 09/11/2023, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=th)                                          |
 | Follower Emotes                                          | 08/11/2023, 11:26:43 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=th)                                           |
-| Games Irl And Music Directories                          | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=th)                           |
 | Nintendo Switch                                          | 01/11/2023, 5:04:10 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=th)                                           |
 | Stream Together Guest Guide                              | 01/11/2023, 0:42:38 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=th)                               |
 | Guest Star Faqs                                          | 01/11/2023, 0:42:37 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=th)                                           |
