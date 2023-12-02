@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| simulcasting-guidelines                                       | 02/12/2023, 3:35:01 pm  | 21/11/2023, 0:02:15 pm  | [Details](#simulcasting-guidelines)                                        |
 | channel-analytics                                             | 02/12/2023, 9:45:33 am  | 02/12/2023, 9:44:14 am  | [Details](#channel-analytics)                                              |
 | date-of-birth-changes                                         | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:31:44 am  | [Details](#date-of-birth-changes)                                          |
 | how-to-use-clips                                              | 02/12/2023, 7:52:25 am  | 22/11/2023, 10:40:23 am | [Details](#how-to-use-clips)                                               |
@@ -50,7 +51,6 @@ Language data is not included in the API. All page links will not have a languag
 | stream-together-guest-guide                                   | 27/10/2023, 11:31:03 pm | 27/10/2023, 11:31:01 pm | [Details](#stream-together-guest-guide)                                    |
 | stream-together-host-guide                                    | 27/10/2023, 11:31:03 pm | 14/10/2023, 2:04:34 pm  | [Details](#stream-together-host-guide)                                     |
 | guest-star-faqs                                               | 27/10/2023, 0:52:35 am  | 14/10/2023, 2:01:47 pm  | [Details](#guest-star-faqs)                                                |
-| simulcasting-guidelines                                       | 26/10/2023, 10:11:06 pm | 21/10/2023, 2:20:54 pm  | [Details](#simulcasting-guidelines)                                        |
 | bonus-sub-benefits                                            | 26/10/2023, 4:59:19 am  | 11/10/2023, 10:45:07 am | [Details](#bonus-sub-benefits)                                             |
 | dac7-interview                                                | 26/10/2023, 0:53:37 am  | 21/10/2023, 5:28:11 am  | [Details](#dac7-interview)                                                 |
 | how-to-use-automod                                            | 25/10/2023, 4:50:34 am  | 14/10/2023, 10:50:37 am | [Details](#how-to-use-automod)                                             |
@@ -3776,14 +3776,14 @@ https://help.twitch.tv/s/article/shoutouts
 ### simulcasting-guidelines
 https://help.twitch.tv/s/article/simulcasting-guidelines
 
-| Title                                                           | Last Modified           | Created                 |
-|-----------------------------------------------------------------|-------------------------|-------------------------|
-| Directrices para la transmisión simultánea                      | 26/10/2023, 10:11:06 pm | 21/10/2023, 2:20:54 pm  |
-| Lignes de conduite de diffusion en simultané                    | 26/10/2023, 9:44:02 pm  | 21/10/2023, 2:20:54 pm  |
-| Eş Zamanlı Yayın İlkeleri                                       | 26/10/2023, 9:32:02 pm  | 21/10/2023, 2:20:54 pm  |
-| Linee guida per le trasmissioni in diretta streaming simultanee | 26/10/2023, 6:21:35 pm  | 21/10/2023, 2:20:54 pm  |
-| Diretrizes para Transmissões Simultâneas                        | 26/10/2023, 0:17:32 pm  | 21/10/2023, 2:20:54 pm  |
-| Directrices de streaming simultáneo                             | 25/10/2023, 10:35:02 pm | 21/10/2023, 2:20:54 pm  |
+| Title                                                           | Last Modified          | Created                 |
+|-----------------------------------------------------------------|------------------------|-------------------------|
+| Lignes de conduite de diffusion en simultané                    | 02/12/2023, 3:35:01 pm | 21/11/2023, 0:02:15 pm  |
+| Directrices de streaming simultáneo                             | 02/12/2023, 3:33:17 pm | 02/12/2023, 3:33:16 pm  |
+| Directrices para la transmisión simultánea                      | 02/12/2023, 3:33:17 pm | 02/12/2023, 3:33:16 pm  |
+| Diretrizes para Transmissões Simultâneas                        | 02/12/2023, 3:33:17 pm | 02/12/2023, 3:33:16 pm  |
+| Eş Zamanlı Yayın İlkeleri                                       | 02/12/2023, 3:33:17 pm | 02/12/2023, 3:33:16 pm  |
+| Linee guida per le trasmissioni in diretta streaming simultanee | 02/12/2023, 3:33:17 pm | 02/12/2023, 3:33:16 pm  |
 
 
 ### smart-notification-setting
