@@ -7,6 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| channel-analytics                                             | 02/12/2023, 9:45:33 am  | 02/12/2023, 9:44:14 am  | [Details](#channel-analytics)                                              |
+| date-of-birth-changes                                         | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:31:44 am  | [Details](#date-of-birth-changes)                                          |
+| how-to-use-clips                                              | 02/12/2023, 7:52:25 am  | 22/11/2023, 10:40:23 am | [Details](#how-to-use-clips)                                               |
 | alerts-by-twitch-events                                       | 30/11/2023, 11:55:35 pm | 26/07/2023, 4:13:10 am  | [Details](#alerts-by-twitch-events)                                        |
 | subscriber-badge-guide                                        | 30/11/2023, 11:48:37 pm | 23/11/2023, 1:30:56 am  | [Details](#subscriber-badge-guide)                                         |
 | guide-to-cheering-with-bits                                   | 30/11/2023, 11:48:33 pm | 21/11/2023, 1:03:29 pm  | [Details](#guide-to-cheering-with-bits)                                    |
@@ -31,7 +34,6 @@ Language data is not included in the API. All page links will not have a languag
 | hype-chat-faq                                                 | 10/11/2023, 5:01:17 am  | 10/11/2023, 5:01:16 am  | [Details](#hype-chat-faq)                                                  |
 | affiliate-settings-guide                                      | 10/11/2023, 4:57:15 am  | 14/10/2023, 9:36:30 am  | [Details](#affiliate-settings-guide)                                       |
 | guide-to-bits-history                                         | 10/11/2023, 4:55:47 am  | 10/11/2023, 4:55:47 am  | [Details](#guide-to-bits-history)                                          |
-| how-to-use-clips                                              | 09/11/2023, 9:00:16 am  | 20/09/2023, 7:33:40 am  | [Details](#how-to-use-clips)                                               |
 | follower-emotes                                               | 08/11/2023, 11:26:40 am | 28/10/2023, 9:26:59 am  | [Details](#follower-emotes)                                                |
 | featured-clips                                                | 05/11/2023, 11:01:19 pm | 02/11/2023, 1:31:06 pm  | [Details](#featured-clips)                                                 |
 | minimum-payout-threshold                                      | 04/11/2023, 4:34:32 am  | 04/11/2023, 4:34:31 am  | [Details](#minimum-payout-threshold)                                       |
@@ -82,7 +84,6 @@ Language data is not included in the API. All page links will not have a languag
 | broadcasting-guidelines                                       | 29/09/2023, 11:52:37 pm | 29/09/2023, 11:52:35 pm | [Details](#broadcasting-guidelines)                                        |
 | partner-plus-abuse                                            | 26/09/2023, 3:33:33 am  | 26/09/2023, 3:33:31 am  | [Details](#partner-plus-abuse)                                             |
 | bounty-board-program-information-and-faq                      | 23/09/2023, 2:16:34 am  | 12/09/2023, 4:15:15 am  | [Details](#bounty-board-program-information-and-faq)                       |
-| channel-analytics                                             | 21/09/2023, 9:11:38 am  | 21/09/2023, 6:39:29 am  | [Details](#channel-analytics)                                              |
 | mod-view                                                      | 19/09/2023, 10:15:03 pm | 15/09/2023, 8:30:47 am  | [Details](#mod-view)                                                       |
 | affiliate-onboarding-guide                                    | 19/09/2023, 9:07:52 am  | 19/09/2023, 7:26:14 am  | [Details](#affiliate-onboarding-guide)                                     |
 | subpoint-vs-subcount                                          | 13/09/2023, 7:06:08 am  | 06/09/2023, 10:23:44 am | [Details](#subpoint-vs-subcount)                                           |
@@ -235,7 +236,6 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-file-a-video-playback-issue                            | 08/07/2022, 10:40:03 pm | 02/07/2022, 3:51:09 am  | [Details](#how-to-file-a-video-playback-issue)                             |
 | notifications-inbox                                           | 10/06/2022, 7:48:35 pm  | 08/06/2022, 3:07:59 am  | [Details](#notifications-inbox)                                            |
 | creating-a-strong-password                                    | 18/05/2022, 0:39:26 am  | 18/05/2022, 0:39:25 am  | [Details](#creating-a-strong-password)                                     |
-| date-of-birth-changes                                         | 13/05/2022, 2:48:03 am  | 22/04/2022, 2:21:15 am  | [Details](#date-of-birth-changes)                                          |
 | understanding-viewer-count-vs-users-in-chat                   | 05/05/2022, 11:11:07 pm | 28/04/2022, 9:36:13 am  | [Details](#understanding-viewer-count-vs-users-in-chat)                    |
 | mastercard-spring-promotion-us                                | 04/05/2022, 7:21:51 am  | 04/05/2022, 7:21:06 am  | [Details](#mastercard-spring-promotion-us)                                 |
 | how-to-use-the-friends-feature                                | 29/04/2022, 5:56:25 am  | 22/04/2022, 5:38:53 am  | [Details](#how-to-use-the-friends-feature)                                 |
@@ -1011,9 +1011,9 @@ https://help.twitch.tv/s/article/channel-analytics
 
 | Title                     | Last Modified          | Created                 |
 |---------------------------|------------------------|-------------------------|
-| Kanal Analizi Genel Bakış | 21/09/2023, 9:11:38 am | 21/09/2023, 6:39:29 am  |
-| Analytics Overview        | 21/09/2023, 6:41:00 am | 21/09/2023, 6:38:38 am  |
-| Análise de Canal          | 21/09/2023, 6:40:55 am | 21/09/2023, 6:40:54 am  |
+| Analytics Overview        | 02/12/2023, 9:45:33 am | 02/12/2023, 9:44:14 am  |
+| Análise de Canal          | 02/12/2023, 9:45:29 am | 02/12/2023, 9:45:28 am  |
+| Kanal Analizi Genel Bakış | 02/12/2023, 9:45:29 am | 02/12/2023, 9:45:28 am  |
 
 
 ### channel-page-setup
@@ -1445,13 +1445,13 @@ https://help.twitch.tv/s/article/date-of-birth-changes
 
 | Title                               | Last Modified          | Created                 |
 |-------------------------------------|------------------------|-------------------------|
-| Date of Birth Changes               | 13/05/2022, 2:48:03 am | 22/04/2022, 2:21:15 am  |
-| Alterações na data de nascimento    | 13/05/2022, 2:48:02 am | 13/05/2022, 2:48:02 am  |
-| Cambios en la fecha de nacimiento   | 13/05/2022, 2:48:02 am | 13/05/2022, 2:48:02 am  |
-| Cambios en la fecha de nacimiento   | 13/05/2022, 2:48:02 am | 13/05/2022, 2:48:02 am  |
-| Changements de la date de naissance | 13/05/2022, 2:48:02 am | 13/05/2022, 2:48:02 am  |
-| Doğum tarihi değişikliği            | 13/05/2022, 2:48:02 am | 13/05/2022, 2:48:02 am  |
-| Modifiche alla data di nascita      | 13/05/2022, 2:48:02 am | 13/05/2022, 2:48:02 am  |
+| Alterações na data de nascimento    | 02/12/2023, 9:31:45 am | 02/12/2023, 9:31:44 am  |
+| Cambios en la fecha de nacimiento   | 02/12/2023, 9:31:45 am | 02/12/2023, 9:31:44 am  |
+| Cambios en la fecha de nacimiento   | 02/12/2023, 9:31:45 am | 02/12/2023, 9:31:44 am  |
+| Changements de la date de naissance | 02/12/2023, 9:31:45 am | 02/12/2023, 9:31:44 am  |
+| Date of Birth Changes               | 02/12/2023, 9:31:45 am | 02/12/2023, 9:30:54 am  |
+| Doğum tarihi değişikliği            | 02/12/2023, 9:31:45 am | 02/12/2023, 9:31:44 am  |
+| Modifiche alla data di nascita      | 02/12/2023, 9:31:45 am | 02/12/2023, 9:31:44 am  |
 
 
 ### default-emotes
@@ -2530,16 +2530,16 @@ https://help.twitch.tv/s/article/how-to-use-badges
 ### how-to-use-clips
 https://help.twitch.tv/s/article/how-to-use-clips
 
-| Title                                                                | Last Modified          | Created                 |
-|----------------------------------------------------------------------|------------------------|-------------------------|
-| How to Use Create, Edit, and Share Clips                             | 09/11/2023, 9:00:16 am | 20/09/2023, 7:33:40 am  |
-| Come usare, creare, modificare e condividere le clip                 | 09/11/2023, 9:00:15 am | 09/11/2023, 9:00:13 am  |
-| Comment créer, éditer et partager des clips                          | 09/11/2023, 9:00:15 am | 09/11/2023, 9:00:13 am  |
-| Como usar, criar, editar e compartilhar clipes                       | 09/11/2023, 9:00:15 am | 09/11/2023, 9:00:13 am  |
-| Cómo crear, editar y compartir clips                                 | 09/11/2023, 9:00:15 am | 09/11/2023, 9:00:13 am  |
-| Cómo crear, editar y compartir clips                                 | 09/11/2023, 9:00:15 am | 09/11/2023, 9:00:13 am  |
-| Jak tworzyć, edytować i udostępniać klipy oraz jak z nich korzystać? | 09/11/2023, 9:00:15 am | 09/11/2023, 9:00:13 am  |
-| Klip oluşturma, düzenleme ve paylaşma                                | 09/11/2023, 9:00:15 am | 09/11/2023, 9:00:13 am  |
+| Title                                                                | Last Modified          | Created                  |
+|----------------------------------------------------------------------|------------------------|--------------------------|
+| How to Use Create, Edit, and Share Clips                             | 02/12/2023, 7:52:25 am | 22/11/2023, 10:40:23 am  |
+| Come usare, creare, modificare e condividere le clip                 | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
+| Comment créer, éditer et partager des clips                          | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
+| Como usar, criar, editar e compartilhar clipes                       | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
+| Cómo crear, editar y compartir clips                                 | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
+| Cómo crear, editar y compartir clips                                 | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
+| Jak tworzyć, edytować i udostępniać klipy oraz jak z nich korzystać? | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
+| Klip oluşturma, düzenleme ve paylaşma                                | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:23 am   |
 
 
 ### how-to-use-collections
