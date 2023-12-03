@@ -7,8 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| simulcasting-guidelines                                       | 02/12/2023, 3:35:01 pm  | 21/11/2023, 0:02:15 pm  | [Details](#simulcasting-guidelines)                                        |
-| channel-analytics                                             | 02/12/2023, 9:45:33 am  | 02/12/2023, 9:44:14 am  | [Details](#channel-analytics)                                              |
+| simulcasting-guidelines                                       | 03/12/2023, 8:18:47 am  | 21/11/2023, 0:02:15 pm  | [Details](#simulcasting-guidelines)                                        |
+| channel-analytics                                             | 03/12/2023, 8:18:35 am  | 02/12/2023, 10:04:46 am | [Details](#channel-analytics)                                              |
+| affiliate-settings-guide                                      | 03/12/2023, 8:17:28 am  | 03/12/2023, 8:17:25 am  | [Details](#affiliate-settings-guide)                                       |
 | date-of-birth-changes                                         | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:31:44 am  | [Details](#date-of-birth-changes)                                          |
 | how-to-use-clips                                              | 02/12/2023, 7:52:25 am  | 22/11/2023, 10:40:23 am | [Details](#how-to-use-clips)                                               |
 | alerts-by-twitch-events                                       | 30/11/2023, 11:55:35 pm | 26/07/2023, 4:13:10 am  | [Details](#alerts-by-twitch-events)                                        |
@@ -33,7 +34,6 @@ Language data is not included in the API. All page links will not have a languag
 | hype-chat-pricing-by-country                                  | 10/11/2023, 10:47:34 pm | 08/11/2023, 6:34:25 am  | [Details](#hype-chat-pricing-by-country)                                   |
 | how-to-purchase-bits                                          | 10/11/2023, 7:04:34 am  | 09/08/2023, 5:27:11 pm  | [Details](#how-to-purchase-bits)                                           |
 | hype-chat-faq                                                 | 10/11/2023, 5:01:17 am  | 10/11/2023, 5:01:16 am  | [Details](#hype-chat-faq)                                                  |
-| affiliate-settings-guide                                      | 10/11/2023, 4:57:15 am  | 14/10/2023, 9:36:30 am  | [Details](#affiliate-settings-guide)                                       |
 | guide-to-bits-history                                         | 10/11/2023, 4:55:47 am  | 10/11/2023, 4:55:47 am  | [Details](#guide-to-bits-history)                                          |
 | follower-emotes                                               | 08/11/2023, 11:26:40 am | 28/10/2023, 9:26:59 am  | [Details](#follower-emotes)                                                |
 | featured-clips                                                | 05/11/2023, 11:01:19 pm | 02/11/2023, 1:31:06 pm  | [Details](#featured-clips)                                                 |
@@ -563,13 +563,13 @@ https://help.twitch.tv/s/article/affiliate-settings-guide
 
 | Title                                | Last Modified          | Created                 |
 |--------------------------------------|------------------------|-------------------------|
-| Guia de configurações para Afiliados | 10/11/2023, 4:57:15 am | 14/10/2023, 9:36:30 am  |
-| Guida alle impostazioni affiliato    | 10/11/2023, 4:57:15 am | 14/10/2023, 9:36:30 am  |
-| Guide des paramètres d'affiliation   | 10/11/2023, 4:57:15 am | 14/10/2023, 9:36:30 am  |
-| Guía de configuración de Afiliados   | 10/11/2023, 4:57:15 am | 14/10/2023, 9:36:30 am  |
+| Guide des paramètres d'affiliation   | 03/12/2023, 8:17:28 am | 03/12/2023, 8:17:25 am  |
+| Leitfaden zu Affiliate-Einstellungen | 03/12/2023, 8:17:24 am | 03/12/2023, 8:17:21 am  |
+| Guida alle impostazioni affiliato    | 03/12/2023, 8:17:21 am | 03/12/2023, 8:17:19 am  |
+| Guia de configurações para Afiliados | 03/12/2023, 8:17:18 am | 03/12/2023, 8:17:15 am  |
+| Guía de configuración de Afiliados   | 03/12/2023, 8:17:17 am | 03/12/2023, 8:17:15 am  |
+| Guía de configuración de afiliados   | 03/12/2023, 8:17:05 am | 03/12/2023, 8:17:02 am  |
 | Affiliate Settings Guide             | 10/11/2023, 4:57:14 am | 14/10/2023, 9:25:59 am  |
-| Guía de configuración de afiliados   | 10/11/2023, 4:57:14 am | 14/10/2023, 9:36:30 am  |
-| Leitfaden zu Affiliate-Einstellungen | 10/11/2023, 4:57:14 am | 14/10/2023, 9:36:30 am  |
 
 
 ### alerts-by-twitch
@@ -1009,11 +1009,11 @@ https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messag
 ### channel-analytics
 https://help.twitch.tv/s/article/channel-analytics
 
-| Title                     | Last Modified          | Created                 |
-|---------------------------|------------------------|-------------------------|
-| Analytics Overview        | 02/12/2023, 9:45:33 am | 02/12/2023, 9:44:14 am  |
-| Análise de Canal          | 02/12/2023, 9:45:29 am | 02/12/2023, 9:45:28 am  |
-| Kanal Analizi Genel Bakış | 02/12/2023, 9:45:29 am | 02/12/2023, 9:45:28 am  |
+| Title                     | Last Modified          | Created                  |
+|---------------------------|------------------------|--------------------------|
+| Kanal Analizi Genel Bakış | 03/12/2023, 8:18:35 am | 02/12/2023, 10:04:46 am  |
+| Analytics Overview        | 02/12/2023, 9:45:33 am | 02/12/2023, 9:44:14 am   |
+| Análise de Canal          | 02/12/2023, 9:45:29 am | 02/12/2023, 9:45:28 am   |
 
 
 ### channel-page-setup
@@ -3778,12 +3778,12 @@ https://help.twitch.tv/s/article/simulcasting-guidelines
 
 | Title                                                           | Last Modified          | Created                 |
 |-----------------------------------------------------------------|------------------------|-------------------------|
-| Lignes de conduite de diffusion en simultané                    | 02/12/2023, 3:35:01 pm | 21/11/2023, 0:02:15 pm  |
-| Directrices de streaming simultáneo                             | 02/12/2023, 3:33:17 pm | 02/12/2023, 3:33:16 pm  |
-| Directrices para la transmisión simultánea                      | 02/12/2023, 3:33:17 pm | 02/12/2023, 3:33:16 pm  |
-| Diretrizes para Transmissões Simultâneas                        | 02/12/2023, 3:33:17 pm | 02/12/2023, 3:33:16 pm  |
-| Eş Zamanlı Yayın İlkeleri                                       | 02/12/2023, 3:33:17 pm | 02/12/2023, 3:33:16 pm  |
-| Linee guida per le trasmissioni in diretta streaming simultanee | 02/12/2023, 3:33:17 pm | 02/12/2023, 3:33:16 pm  |
+| Linee guida per le trasmissioni in diretta streaming simultanee | 03/12/2023, 8:18:47 am | 21/11/2023, 0:02:15 pm  |
+| Diretrizes para Transmissões Simultâneas                        | 03/12/2023, 8:18:39 am | 21/11/2023, 0:02:15 pm  |
+| Lignes de conduite de diffusion en simultané                    | 03/12/2023, 8:18:37 am | 02/12/2023, 3:37:43 pm  |
+| Directrices de streaming simultáneo                             | 03/12/2023, 8:18:19 am | 21/11/2023, 0:02:15 pm  |
+| Eş Zamanlı Yayın İlkeleri                                       | 03/12/2023, 8:18:16 am | 21/11/2023, 0:02:15 pm  |
+| Directrices para la transmisión simultánea                      | 03/12/2023, 8:18:14 am | 21/11/2023, 0:02:15 pm  |
 
 
 ### smart-notification-setting
