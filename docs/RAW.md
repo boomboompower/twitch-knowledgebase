@@ -7,6 +7,11 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| stream-manager                                                | 04/12/2023, 10:37:43 pm | 01/07/2023, 11:50:44 am | [Details](#stream-manager)                                                 |
+| alerts-by-twitch                                              | 04/12/2023, 10:37:40 pm | 26/07/2023, 4:19:41 am  | [Details](#alerts-by-twitch)                                               |
+| creator-chat-and-events                                       | 04/12/2023, 10:37:34 pm | 29/11/2023, 9:12:54 am  | [Details](#creator-chat-and-events)                                        |
+| setup-third-party-events                                      | 04/12/2023, 10:37:31 pm | 29/11/2023, 9:16:36 am  | [Details](#setup-third-party-events)                                       |
+| alerts-by-twitch-faq                                          | 04/12/2023, 7:45:08 pm  | 26/07/2023, 4:14:58 am  | [Details](#alerts-by-twitch-faq)                                           |
 | simulcasting-guidelines                                       | 03/12/2023, 8:18:47 am  | 21/11/2023, 0:02:15 pm  | [Details](#simulcasting-guidelines)                                        |
 | channel-analytics                                             | 03/12/2023, 8:18:35 am  | 02/12/2023, 10:04:46 am | [Details](#channel-analytics)                                              |
 | affiliate-settings-guide                                      | 03/12/2023, 8:17:28 am  | 03/12/2023, 8:17:25 am  | [Details](#affiliate-settings-guide)                                       |
@@ -16,11 +21,7 @@ Language data is not included in the API. All page links will not have a languag
 | subscriber-badge-guide                                        | 30/11/2023, 11:48:37 pm | 23/11/2023, 1:30:56 am  | [Details](#subscriber-badge-guide)                                         |
 | guide-to-cheering-with-bits                                   | 30/11/2023, 11:48:33 pm | 21/11/2023, 1:03:29 pm  | [Details](#guide-to-cheering-with-bits)                                    |
 | partner-settings-guide                                        | 30/11/2023, 11:46:04 pm | 30/11/2023, 11:46:02 pm | [Details](#partner-settings-guide)                                         |
-| alerts-by-twitch                                              | 29/11/2023, 9:13:50 am  | 29/11/2023, 9:13:49 am  | [Details](#alerts-by-twitch)                                               |
 | ads-manager                                                   | 28/11/2023, 10:48:06 pm | 23/11/2023, 7:34:03 am  | [Details](#ads-manager)                                                    |
-| alerts-by-twitch-faq                                          | 28/11/2023, 9:18:35 am  | 28/11/2023, 9:18:35 am  | [Details](#alerts-by-twitch-faq)                                           |
-| stream-manager                                                | 28/11/2023, 9:16:26 am  | 28/11/2023, 9:16:26 am  | [Details](#stream-manager)                                                 |
-| creator-chat-and-events                                       | 28/11/2023, 9:16:14 am  | 28/11/2023, 9:16:13 am  | [Details](#creator-chat-and-events)                                        |
 | how-to-manage-harassment-in-chat                              | 23/11/2023, 8:05:31 am  | 23/11/2023, 8:05:03 am  | [Details](#how-to-manage-harassment-in-chat)                               |
 | bits-price-adjustment                                         | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am | [Details](#bits-price-adjustment)                                          |
 | how-to-use-emotes                                             | 21/11/2023, 10:19:19 am | 21/11/2023, 10:19:19 am | [Details](#how-to-use-emotes)                                              |
@@ -575,15 +576,15 @@ https://help.twitch.tv/s/article/affiliate-settings-guide
 ### alerts-by-twitch
 https://help.twitch.tv/s/article/alerts-by-twitch
 
-| Title             | Last Modified          | Created                 |
-|-------------------|------------------------|-------------------------|
-| Alertas da Twitch | 29/11/2023, 9:13:50 am | 29/11/2023, 9:13:49 am  |
-| Alertas de Twitch | 29/11/2023, 9:13:50 am | 29/11/2023, 9:13:49 am  |
-| Alertas de Twitch | 29/11/2023, 9:13:50 am | 29/11/2023, 9:13:49 am  |
-| Alertes de Twitch | 29/11/2023, 9:13:50 am | 29/11/2023, 9:13:49 am  |
-| Alerts von Twitch | 29/11/2023, 9:13:50 am | 29/11/2023, 9:13:49 am  |
-| Alerty od Twitcha | 29/11/2023, 9:13:50 am | 29/11/2023, 9:13:49 am  |
-| Avvisi di Twitch  | 29/11/2023, 9:13:50 am | 29/11/2023, 9:13:49 am  |
+| Title             | Last Modified           | Created                 |
+|-------------------|-------------------------|-------------------------|
+| Alertas da Twitch | 04/12/2023, 10:37:40 pm | 26/07/2023, 4:19:41 am  |
+| Alertas de Twitch | 04/12/2023, 10:17:03 pm | 26/07/2023, 4:19:41 am  |
+| Alertas de Twitch | 04/12/2023, 9:57:33 pm  | 26/07/2023, 4:19:41 am  |
+| Avvisi di Twitch  | 04/12/2023, 7:45:08 pm  | 26/07/2023, 4:19:41 am  |
+| Alertes de Twitch | 29/11/2023, 9:13:50 am  | 29/11/2023, 9:13:49 am  |
+| Alerts von Twitch | 29/11/2023, 9:13:50 am  | 29/11/2023, 9:13:49 am  |
+| Alerty od Twitcha | 29/11/2023, 9:13:50 am  | 29/11/2023, 9:13:49 am  |
 
 
 ### alerts-by-twitch-css
@@ -624,9 +625,9 @@ https://help.twitch.tv/s/article/alerts-by-twitch-faq
 
 | Title                                    | Last Modified          | Created                 |
 |------------------------------------------|------------------------|-------------------------|
+| Domande frequenti sugli avvisi di Twitch | 04/12/2023, 7:45:08 pm | 26/07/2023, 4:14:58 am  |
 | Alerts von Twitch– FAQ                   | 28/11/2023, 9:18:35 am | 28/11/2023, 9:18:35 am  |
 | Alerty od Twitcha – FAQ                  | 28/11/2023, 9:18:35 am | 28/11/2023, 9:18:35 am  |
-| Domande frequenti sugli Avvisi di Twitch | 28/11/2023, 9:18:35 am | 28/11/2023, 9:18:35 am  |
 | FAQ des alertes de Twitch                | 28/11/2023, 9:18:35 am | 28/11/2023, 9:18:35 am  |
 
 
@@ -700,7 +701,6 @@ https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual
 | Amazon 稅務資料問卷與美國國家稅務局 IRS 年度申報表常見問題                                                                               | 12/09/2023, 6:17:03 am | 12/09/2023, 6:17:01 am  |
 | Amazon Vergi Bilgi Formu ve IRS Yıllık Raporu Hakkında SSS                                                        | 12/09/2023, 6:15:29 am | 12/09/2023, 6:15:28 am  |
 | Domande frequenti relative al questionario sui dati fiscali per Amazon e alla rendicontazione contabile per l'IRS | 12/09/2023, 6:14:44 am | 12/09/2023, 6:14:42 am  |
-| Odpowiedzi na najczęściej zadawane pytania dotyczące kwestionariusza podatkowego Amazon i rocznego raportu IRS.   | 12/09/2023, 6:12:52 am | 12/09/2023, 6:12:50 am  |
 | Amazon税務情報インタビューとIRS年次報告書に関するよくある質問                                                                               | 12/09/2023, 6:11:43 am | 12/09/2023, 6:11:41 am  |
 | FAQs zum Amazon Steuerinterview und zum jährlichen Bericht an die IRS                                             | 12/09/2023, 6:11:33 am | 12/09/2023, 6:11:31 am  |
 | Amazon Tax Information Interview and IRS Annual Reporting FAQ                                                     | 08/09/2023, 1:58:11 am | 11/03/2022, 9:27:23 am  |
@@ -1367,16 +1367,16 @@ https://help.twitch.tv/s/article/creating-highlights-and-stream-markers
 ### creator-chat-and-events
 https://help.twitch.tv/s/article/creator-chat-and-events
 
-| Title                         | Last Modified          | Created                 |
-|-------------------------------|------------------------|-------------------------|
-| Chat & Events (Beta)          | 28/11/2023, 9:16:14 am | 28/11/2023, 9:16:13 am  |
-| Chat and Events (Beta)        | 28/11/2023, 9:16:14 am | 28/11/2023, 8:25:07 am  |
-| Chat e Eventos (Beta)         | 28/11/2023, 9:16:14 am | 28/11/2023, 9:16:13 am  |
-| Chat ed eventi (Beta)         | 28/11/2023, 9:16:14 am | 28/11/2023, 9:16:13 am  |
-| Chat et événements (bêta)     | 28/11/2023, 9:16:14 am | 28/11/2023, 9:16:13 am  |
-| Chat y eventos (beta)         | 28/11/2023, 9:16:14 am | 28/11/2023, 9:16:13 am  |
-| Chat y eventos (versión beta) | 28/11/2023, 9:16:14 am | 28/11/2023, 9:16:13 am  |
-| Czat i Wydarzenia (beta)      | 28/11/2023, 9:16:14 am | 28/11/2023, 9:16:13 am  |
+| Title                         | Last Modified           | Created                 |
+|-------------------------------|-------------------------|-------------------------|
+| Chat e Eventos (Beta)         | 04/12/2023, 10:37:34 pm | 29/11/2023, 9:12:54 am  |
+| Chat y eventos (beta)         | 04/12/2023, 10:17:03 pm | 29/11/2023, 9:12:54 am  |
+| Chat y eventos (versión beta) | 04/12/2023, 9:57:35 pm  | 29/11/2023, 9:12:54 am  |
+| Chat ed eventi (Beta)         | 04/12/2023, 7:45:03 pm  | 29/11/2023, 9:12:54 am  |
+| Chat & Events (Beta)          | 28/11/2023, 9:16:14 am  | 28/11/2023, 9:16:13 am  |
+| Chat and Events (Beta)        | 28/11/2023, 9:16:14 am  | 28/11/2023, 8:25:07 am  |
+| Chat et événements (bêta)     | 28/11/2023, 9:16:14 am  | 28/11/2023, 9:16:13 am  |
+| Czat i Wydarzenia (beta)      | 28/11/2023, 9:16:14 am  | 28/11/2023, 9:16:13 am  |
 
 
 ### creator-chat-highlights
@@ -2792,15 +2792,14 @@ https://help.twitch.tv/s/article/hype-train-guide
 ### hyper-scape
 https://help.twitch.tv/s/article/hyper-scape
 
-| Title                                                        | Last Modified          | Created                 |
-|--------------------------------------------------------------|------------------------|-------------------------|
-| Domande frequenti su Hyper Scape                             | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
-| Hyper Scape FAQ                                              | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
-| Hyper Scape FAQs                                             | 22/10/2021, 8:54:27 am | 12/08/2020, 5:48:03 am  |
-| Hyper Scape hakkında SSS                                     | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:16 am  |
-| Odpowiedzi na często zadawane pytania związane z Hyper Scape | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
-| FAQ Hyper Scape                                              | 22/10/2021, 8:54:26 am | 13/08/2020, 4:50:31 am  |
-| FAQs zu Hyper Scape                                          | 22/10/2021, 8:54:26 am | 12/08/2020, 5:49:15 am  |
+| Title                            | Last Modified          | Created                 |
+|----------------------------------|------------------------|-------------------------|
+| Domande frequenti su Hyper Scape | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
+| Hyper Scape FAQ                  | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
+| Hyper Scape FAQs                 | 22/10/2021, 8:54:27 am | 12/08/2020, 5:48:03 am  |
+| Hyper Scape hakkında SSS         | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:16 am  |
+| FAQ Hyper Scape                  | 22/10/2021, 8:54:26 am | 13/08/2020, 4:50:31 am  |
+| FAQs zu Hyper Scape              | 22/10/2021, 8:54:26 am | 12/08/2020, 5:49:15 am  |
 
 
 ### ingame-overlay
@@ -3125,7 +3124,6 @@ https://help.twitch.tv/s/article/mission-based-drops
 | Como descobrir e resgatar drops na Twitch           | 19/10/2023, 3:00:53 am | 19/10/2023, 3:00:51 am  |
 | Cómo descubrir y reclamar Drops en Twitch           | 19/10/2023, 3:00:53 am | 19/10/2023, 3:00:51 am  |
 | Cómo descubrir y reclamar Drops en Twitch           | 19/10/2023, 3:00:53 am | 19/10/2023, 3:00:51 am  |
-| Odkrywanie i odbieranie dropów na Twitchu           | 19/10/2023, 3:00:53 am | 19/10/2023, 3:00:51 am  |
 
 
 ### mobile-creator-mode
@@ -3759,6 +3757,17 @@ https://help.twitch.tv/s/article/setup-alerts-by-twitch
 | Konfigurowanie alertów na Twitchu      | 26/07/2023, 4:07:02 am | 26/07/2023, 4:07:02 am  |
 
 
+### setup-third-party-events
+https://help.twitch.tv/s/article/setup-third-party-events
+
+| Title                                           | Last Modified           | Created                 |
+|-------------------------------------------------|-------------------------|-------------------------|
+| Configurando eventos de terceiros na Twitch     | 04/12/2023, 10:37:31 pm | 29/11/2023, 9:16:36 am  |
+| Cómo configurar eventos de terceros en Twitch   | 04/12/2023, 10:17:11 pm | 29/11/2023, 9:16:36 am  |
+| Configurar eventos externos en Twitch           | 04/12/2023, 9:57:32 pm  | 29/11/2023, 9:16:36 am  |
+| Configurare gli eventi di terze parti su Twitch | 04/12/2023, 7:45:05 pm  | 29/11/2023, 9:16:36 am  |
+
+
 ### shoutouts
 https://help.twitch.tv/s/article/shoutouts
 
@@ -3845,14 +3854,14 @@ https://help.twitch.tv/s/article/stream-display-ads
 ### stream-manager
 https://help.twitch.tv/s/article/stream-manager
 
-| Title                        | Last Modified          | Created                 |
-|------------------------------|------------------------|-------------------------|
-| Administrador de stream      | 28/11/2023, 9:16:26 am | 28/11/2023, 9:16:26 am  |
-| Gerenciamento de transmissão | 28/11/2023, 9:16:26 am | 28/11/2023, 9:16:26 am  |
-| Gestionnaire de stream       | 28/11/2023, 9:16:26 am | 28/11/2023, 9:16:26 am  |
-| Gestor del stream            | 28/11/2023, 9:16:26 am | 28/11/2023, 9:16:26 am  |
-| Gestore streaming            | 28/11/2023, 9:16:26 am | 28/11/2023, 9:16:26 am  |
-| Menedżer transmisji          | 28/11/2023, 9:16:26 am | 28/11/2023, 9:16:26 am  |
+| Title                        | Last Modified           | Created                  |
+|------------------------------|-------------------------|--------------------------|
+| Gerenciamento de transmissão | 04/12/2023, 10:37:43 pm | 01/07/2023, 11:50:44 am  |
+| Gestor del stream            | 04/12/2023, 10:17:10 pm | 27/09/2022, 9:10:11 am   |
+| Administrador de stream      | 04/12/2023, 9:57:40 pm  | 01/07/2023, 11:50:44 am  |
+| Gestore streaming            | 04/12/2023, 7:45:10 pm  | 01/07/2023, 11:50:44 am  |
+| Gestionnaire de stream       | 28/11/2023, 9:16:26 am  | 28/11/2023, 9:16:26 am   |
+| Menedżer transmisji          | 28/11/2023, 9:16:26 am  | 28/11/2023, 9:16:26 am   |
 
 
 ### stream-summary
@@ -3887,12 +3896,11 @@ https://help.twitch.tv/s/article/stream-together-host-guide
 ### stream-with-pride
 https://help.twitch.tv/s/article/stream-with-pride
 
-| Title                                                               | Last Modified          | Created                  |
-|---------------------------------------------------------------------|------------------------|--------------------------|
-| Domande frequenti su Streaming con Pride                            | 22/10/2021, 8:54:27 am | 01/07/2020, 6:27:31 pm   |
-| Odpowiedzi na często zadawane pytania dotyczące streamowania z dumą | 22/10/2021, 8:54:27 am | 02/07/2020, 10:30:01 pm  |
-| FAQ - Streamez avec Pride                                           | 22/10/2021, 8:54:26 am | 01/07/2020, 7:18:31 pm   |
-| FAQs sobre o evento Transmita com Orgulho                           | 22/10/2021, 8:54:26 am | 01/07/2020, 3:41:31 am   |
+| Title                                     | Last Modified          | Created                 |
+|-------------------------------------------|------------------------|-------------------------|
+| Domande frequenti su Streaming con Pride  | 22/10/2021, 8:54:27 am | 01/07/2020, 6:27:31 pm  |
+| FAQ - Streamez avec Pride                 | 22/10/2021, 8:54:26 am | 01/07/2020, 7:18:31 pm  |
+| FAQs sobre o evento Transmita com Orgulho | 22/10/2021, 8:54:26 am | 01/07/2020, 3:41:31 am  |
 
 
 ### streamer-community-survey

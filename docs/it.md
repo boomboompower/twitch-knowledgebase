@@ -47,6 +47,7 @@
 | Broadcasting Guidelines                                  | 29/09/2023, 5:47:07 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=it)                                   |
 | Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=it)                  |
 | Mod View                                                 | 20/09/2023, 0:28:33 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=it)                                                  |
+| Affiliate Onboarding Guide                               | 19/09/2023, 9:07:41 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=it)                                |
 
 
 

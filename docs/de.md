@@ -49,6 +49,9 @@
 | Patch Notes 19                                           | 10/10/2023, 9:44:04 pm    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=de)                                            |
 | Broadcasting Guidelines                                  | 29/09/2023, 10:03:38 pm   | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=de)                                   |
 | Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=de)                  |
+| Mod View                                                 | 19/09/2023, 10:10:04 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                                  |
+| Affiliate Onboarding Guide                               | 19/09/2023, 9:07:48 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=de)                                |
+| Twitch Studio Faq                                        | 14/09/2023, 9:28:05 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=de)                                         |
 
 
 

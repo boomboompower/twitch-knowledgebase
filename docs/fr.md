@@ -46,6 +46,9 @@
 | Brand Surveys                                            | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=fr)                                             |
 | Broadcasting Guidelines                                  | 30/09/2023, 0:10:33 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=fr)                                   |
 | Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=fr)                  |
+| Mod View                                                 | 19/09/2023, 10:11:32 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=fr)                                                  |
+| Affiliate Onboarding Guide                               | 19/09/2023, 9:07:46 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=fr)                                |
+| Subpoint Vs Subcount                                     | 13/09/2023, 7:06:07 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=fr)                                      |
 
 
 
