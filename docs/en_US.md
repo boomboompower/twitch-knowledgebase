@@ -45,10 +45,6 @@
 | Stream Display Ads                                       | 11/10/2023, 3:21:25 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                                        |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 10/10/2023, 6:23:57 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=en_US)  |
 | Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=en_US)                  |
-| Broadcasting Guidelines                                  | 21/09/2023, 3:09:57 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                                   |
-| Affiliate Onboarding Guide                               | 19/09/2023, 7:23:28 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=en_US)                                |
-| Suspicious User Controls                                 | 15/09/2023, 6:15:59 am    | [Link](https://help.twitch.tv/s/article/suspicious-user-controls?language=en_US)                                  |
-| Mod View                                                 | 15/09/2023, 6:15:45 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                                  |
 
 
 

@@ -6,16 +6,16 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Ads Manager                                              | 05/12/2023, 0:03:36 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=pt_BR)                                               |
+| Alerts By Twitch Events                                  | 04/12/2023, 10:37:41 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=pt_BR)                                   |
+| Alerts By Twitch                                         | 04/12/2023, 10:37:40 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=pt_BR)                                          |
+| Alerts By Twitch Faq                                     | 04/12/2023, 10:37:37 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=pt_BR)                                      |
 | Channel Analytics                                        | 03/12/2023, 8:18:05 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_BR)                                         |
 | Affiliate Settings Guide                                 | 03/12/2023, 8:17:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=pt_BR)                                  |
 | How To Use Clips                                         | 02/12/2023, 7:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                          |
-| Alerts By Twitch                                         | 29/11/2023, 9:13:50 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=pt_BR)                                          |
 | Guide To Cheering With Bits                              | 29/11/2023, 7:07:38 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_BR)                               |
 | Subscriber Badge Guide                                   | 29/11/2023, 7:07:36 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=pt_BR)                                    |
 | Partner Settings Guide                                   | 29/11/2023, 6:55:05 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=pt_BR)                                    |
-| Ads Manager                                              | 28/11/2023, 10:03:39 pm   | [Link](https://help.twitch.tv/s/article/ads-manager?language=pt_BR)                                               |
-| Alerts By Twitch Faq                                     | 28/11/2023, 9:18:35 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=pt_BR)                                      |
-| Alerts By Twitch Events                                  | 28/11/2023, 9:16:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=pt_BR)                                   |
 | How To Manage Harassment In Chat                         | 23/11/2023, 8:05:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_BR)                          |
 | Sponsorship Experiments Faq                              | 14/11/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=pt_BR)                               |
 | Nintendo Switch                                          | 10/11/2023, 9:20:08 pm    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=pt_BR)                                           |
@@ -47,8 +47,6 @@
 | Twitch Studio Faq                                        | 06/10/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=pt_BR)                                         |
 | Broadcasting Guidelines                                  | 29/09/2023, 11:52:37 pm   | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=pt_BR)                                   |
 | Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=pt_BR)                  |
-| Mod View                                                 | 19/09/2023, 10:13:03 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=pt_BR)                                                  |
-| Affiliate Onboarding Guide                               | 19/09/2023, 9:07:41 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pt_BR)                                |
 
 
 

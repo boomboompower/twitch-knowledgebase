@@ -7,6 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| 2023-updated-monetized-streamer-agreement                     | 05/12/2023, 2:29:24 pm  | 09/06/2023, 1:09:06 pm  | [Details](#2023-updated-monetized-streamer-agreement)                      |
+| ads-manager                                                   | 05/12/2023, 0:03:36 pm  | 02/12/2023, 11:05:48 am | [Details](#ads-manager)                                                    |
 | stream-together-favorite                                      | 05/12/2023, 4:43:01 am  | 23/11/2023, 8:53:17 am  | [Details](#stream-together-favorite)                                       |
 | stream-manager                                                | 05/12/2023, 0:30:40 am  | 01/07/2023, 11:50:44 am | [Details](#stream-manager)                                                 |
 | alerts-by-twitch                                              | 05/12/2023, 0:30:38 am  | 26/07/2023, 4:19:41 am  | [Details](#alerts-by-twitch)                                               |
@@ -22,7 +24,6 @@ Language data is not included in the API. All page links will not have a languag
 | subscriber-badge-guide                                        | 30/11/2023, 11:48:37 pm | 23/11/2023, 1:30:56 am  | [Details](#subscriber-badge-guide)                                         |
 | guide-to-cheering-with-bits                                   | 30/11/2023, 11:48:33 pm | 21/11/2023, 1:03:29 pm  | [Details](#guide-to-cheering-with-bits)                                    |
 | partner-settings-guide                                        | 30/11/2023, 11:46:04 pm | 30/11/2023, 11:46:02 pm | [Details](#partner-settings-guide)                                         |
-| ads-manager                                                   | 28/11/2023, 10:48:06 pm | 23/11/2023, 7:34:03 am  | [Details](#ads-manager)                                                    |
 | how-to-manage-harassment-in-chat                              | 23/11/2023, 8:05:31 am  | 23/11/2023, 8:05:03 am  | [Details](#how-to-manage-harassment-in-chat)                               |
 | bits-price-adjustment                                         | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am | [Details](#bits-price-adjustment)                                          |
 | how-to-use-emotes                                             | 21/11/2023, 10:19:19 am | 21/11/2023, 10:19:19 am | [Details](#how-to-use-emotes)                                              |
@@ -138,7 +139,6 @@ Language data is not included in the API. All page links will not have a languag
 | refunds-on-twitch                                             | 01/07/2023, 11:23:36 am | 01/07/2023, 11:23:35 am | [Details](#refunds-on-twitch)                                              |
 | ads-incentive-program-getting-started                         | 24/06/2023, 1:26:30 am  | 24/06/2023, 1:26:29 am  | [Details](#ads-incentive-program-getting-started)                          |
 | video-on-demand                                               | 24/06/2023, 0:46:15 am  | 20/06/2023, 0:14:22 am  | [Details](#video-on-demand)                                                |
-| 2023-updated-monetized-streamer-agreement                     | 23/06/2023, 2:38:05 am  | 23/06/2023, 2:38:05 am  | [Details](#2023-updated-monetized-streamer-agreement)                      |
 | android-purchases                                             | 06/06/2023, 6:59:18 am  | 25/05/2023, 10:43:54 am | [Details](#android-purchases)                                              |
 | local-recording                                               | 31/05/2023, 0:13:18 am  | 23/05/2023, 0:17:33 pm  | [Details](#local-recording)                                                |
 | twitch-stream-key-faq                                         | 31/05/2023, 0:13:14 am  | 27/04/2023, 3:57:31 am  | [Details](#twitch-stream-key-faq)                                          |
@@ -348,17 +348,17 @@ Language data is not included in the API. All page links will not have a languag
 ### 2023-updated-monetized-streamer-agreement
 https://help.twitch.tv/s/article/2023-updated-monetized-streamer-agreement
 
-| Title                                                                     | Last Modified          | Created                 |
-|---------------------------------------------------------------------------|------------------------|-------------------------|
-| 2023 Twitch 수익 창출 스트리머 계약서 업데이트                                           | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
-| 2023 Updated Monetized Streamer Agreement                                 | 23/06/2023, 2:38:05 am | 23/06/2023, 2:37:42 am  |
-| 2023 年更新版的實況主營收協議                                                         | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
-| Accord de monétisation pour le streaming sur Twitch actualisé (2023)      | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
-| Accordo di monetizzazione per gli streamer Twitch aggiornato al 2023      | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
-| Acuerdo de Streamer Monetizado actualizado en 2023                        | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
-| Acuerdo de streamer monetizado de Twitch actualizado a 2023               | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
-| Aktualisierte Monetarisierungsvereinbarung für Twitch-Streamer:innen 2023 | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
-| Contrato de Monetização Twitch para Streamers Atualizado 2023             | 23/06/2023, 2:38:05 am | 23/06/2023, 2:38:05 am  |
+| Title                                                                     | Last Modified          | Created                  |
+|---------------------------------------------------------------------------|------------------------|--------------------------|
+| 2023 Twitch 수익 창출 스트리머 계약서 업데이트                                           | 05/12/2023, 2:29:24 pm | 09/06/2023, 1:09:06 pm   |
+| 2023 Updated Monetized Streamer Agreement                                 | 05/12/2023, 2:29:24 pm | 14/11/2023, 11:16:05 am  |
+| 2023 年更新版的實況主營收協議                                                         | 05/12/2023, 2:29:24 pm | 09/06/2023, 1:09:06 pm   |
+| Accord de monétisation pour le streaming sur Twitch actualisé (2023)      | 05/12/2023, 2:29:24 pm | 09/06/2023, 1:09:06 pm   |
+| Accordo di monetizzazione per gli streamer Twitch aggiornato al 2023      | 05/12/2023, 2:29:24 pm | 09/06/2023, 1:09:06 pm   |
+| Acuerdo de Streamer Monetizado actualizado en 2023                        | 05/12/2023, 2:29:24 pm | 09/06/2023, 1:09:06 pm   |
+| Acuerdo de streamer monetizado de Twitch actualizado a 2023               | 05/12/2023, 2:29:24 pm | 09/06/2023, 1:09:06 pm   |
+| Aktualisierte Monetarisierungsvereinbarung für Twitch-Streamer:innen 2023 | 05/12/2023, 2:29:24 pm | 09/06/2023, 1:09:06 pm   |
+| Contrato de Monetização Twitch para Streamers Atualizado 2023             | 05/12/2023, 2:29:24 pm | 09/06/2023, 1:09:06 pm   |
 
 
 ### a-tour-of-your-channel-page
@@ -497,15 +497,15 @@ https://help.twitch.tv/s/article/ads-incentive-program-getting-started
 ### ads-manager
 https://help.twitch.tv/s/article/ads-manager
 
-| Title                       | Last Modified           | Created                 |
-|-----------------------------|-------------------------|-------------------------|
-| Menedżer reklam             | 28/11/2023, 10:48:06 pm | 23/11/2023, 7:34:03 am  |
-| Administrador de anuncios   | 28/11/2023, 10:20:04 pm | 23/11/2023, 7:34:03 am  |
-| Gerenciador de anúncios     | 28/11/2023, 10:03:39 pm | 23/11/2023, 7:34:03 am  |
-| Gestionnaire des publicités | 28/11/2023, 9:55:04 pm  | 23/11/2023, 7:34:03 am  |
-| Gestor de anuncios          | 28/11/2023, 8:00:05 pm  | 23/11/2023, 7:34:03 am  |
-| Gestore annunci             | 28/11/2023, 7:34:34 pm  | 23/11/2023, 7:34:03 am  |
-| Ads Manager                 | 28/11/2023, 5:06:06 am  | 23/11/2023, 7:32:23 am  |
+| Title                       | Last Modified          | Created                  |
+|-----------------------------|------------------------|--------------------------|
+| Gerenciador de anúncios     | 05/12/2023, 0:03:36 pm | 02/12/2023, 11:05:48 am  |
+| Administrador de anuncios   | 05/12/2023, 0:03:34 pm | 02/12/2023, 11:05:48 am  |
+| Gestor de anuncios          | 05/12/2023, 0:03:34 pm | 02/12/2023, 11:05:48 am  |
+| Menedżer reklam             | 05/12/2023, 0:03:34 pm | 02/12/2023, 11:05:48 am  |
+| Gestionnaire des publicités | 05/12/2023, 0:03:22 pm | 02/12/2023, 11:05:48 am  |
+| Gestore annunci             | 05/12/2023, 0:03:20 pm | 02/12/2023, 11:05:48 am  |
+| Ads Manager                 | 28/11/2023, 5:06:06 am | 23/11/2023, 7:32:23 am   |
 
 
 ### advanced-audio-mixer
