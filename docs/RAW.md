@@ -7,6 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| korea-update-nonkr                                            | 06/12/2023, 11:09:04 am | 06/12/2023, 11:09:03 am | [Details](#korea-update-nonkr)                                             |
+| discovery-feed                                                | 06/12/2023, 5:02:28 am  | 06/12/2023, 5:02:28 am  | [Details](#discovery-feed)                                                 |
+| experiments                                                   | 06/12/2023, 3:15:51 am  | 06/12/2023, 3:15:50 am  | [Details](#experiments)                                                    |
 | 2023-updated-monetized-streamer-agreement                     | 05/12/2023, 2:29:24 pm  | 09/06/2023, 1:09:06 pm  | [Details](#2023-updated-monetized-streamer-agreement)                      |
 | ads-manager                                                   | 05/12/2023, 0:03:36 pm  | 02/12/2023, 11:05:48 am | [Details](#ads-manager)                                                    |
 | stream-together-favorite                                      | 05/12/2023, 4:43:01 am  | 23/11/2023, 8:53:17 am  | [Details](#stream-together-favorite)                                       |
@@ -44,7 +47,6 @@ Language data is not included in the API. All page links will not have a languag
 | streamer-read-ads                                             | 03/11/2023, 10:20:09 am | 04/10/2023, 0:18:43 pm  | [Details](#streamer-read-ads)                                              |
 | channel-skins                                                 | 03/11/2023, 10:19:31 am | 04/10/2023, 0:18:22 pm  | [Details](#channel-skins)                                                  |
 | games-irl-and-music-directories                               | 01/11/2023, 10:35:39 am | 01/11/2023, 10:35:38 am | [Details](#games-irl-and-music-directories)                                |
-| experiments                                                   | 31/10/2023, 7:47:45 am  | 31/10/2023, 7:47:44 am  | [Details](#experiments)                                                    |
 | ban-evasion                                                   | 28/10/2023, 5:03:42 am  | 27/10/2023, 4:46:39 am  | [Details](#ban-evasion)                                                    |
 | recommended-software-for-broadcasting                         | 28/10/2023, 5:03:39 am  | 26/10/2023, 10:54:54 am | [Details](#recommended-software-for-broadcasting)                          |
 | getting-started-twitch-studio                                 | 28/10/2023, 5:03:37 am  | 26/10/2023, 10:54:37 am | [Details](#getting-started-twitch-studio)                                  |
@@ -116,8 +118,8 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-appeal-flagged-content                                 | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
 | guide-to-broadcast-health                                     | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:21:56 am  | [Details](#guide-to-broadcast-health)                                      |
 | affiliate-or-partner-anniversary-settings                     | 04/08/2023, 8:45:32 pm  | 04/08/2023, 8:45:31 pm  | [Details](#affiliate-or-partner-anniversary-settings)                      |
-| not-receiving-sms                                             | 04/08/2023, 0:16:03 am  | 04/08/2023, 0:16:01 am  | [Details](#not-receiving-sms)                                              |
 | new-device-and-location-verification                          | 03/08/2023, 9:28:41 pm  | 26/07/2023, 9:59:50 am  | [Details](#new-device-and-location-verification)                           |
+| not-receiving-sms                                             | 03/08/2023, 9:28:37 pm  | 03/08/2023, 9:28:37 pm  | [Details](#not-receiving-sms)                                              |
 | authy-faq                                                     | 03/08/2023, 9:28:36 pm  | 26/07/2023, 10:23:51 am | [Details](#authy-faq)                                                      |
 | founders-badge                                                | 28/07/2023, 3:34:47 am  | 15/07/2023, 6:56:56 am  | [Details](#founders-badge)                                                 |
 | discovery                                                     | 28/07/2023, 3:26:04 am  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
@@ -397,7 +399,6 @@ https://help.twitch.tv/s/article/account-hacked
 |-----------------------------------------------------------------|-------------------------|--------------------------|
 | Co mogę zrobić, jeśli ktoś inny uzyskał dostęp do mojego konta? | 24/08/2023, 10:35:38 pm | 17/08/2023, 11:15:45 am  |
 | Cosa posso fare se qualcuno ha avuto accesso al mio account?    | 24/08/2023, 6:03:12 pm  | 17/08/2023, 11:15:45 am  |
-| O que posso fazer se outra pessoa acessou minha conta?          | 24/08/2023, 11:36:09 am | 17/08/2023, 11:15:45 am  |
 | Başka biri hesabıma izinsiz girmişse ne yapabilirim?            | 22/08/2023, 5:44:05 pm  | 17/08/2023, 11:15:45 am  |
 | Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
 | Account hacked, what do I do?                                   | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am  |
@@ -433,7 +434,6 @@ https://help.twitch.tv/s/article/achievements
 |--------------|------------------------|--------------------------|
 | Başarılar    | 14/10/2023, 4:00:21 am | 08/08/2023, 11:56:27 pm  |
 | Conquistas   | 14/10/2023, 4:00:21 am | 08/08/2023, 11:56:27 pm  |
-| Obiettivi    | 14/10/2023, 4:00:21 am | 08/08/2023, 11:56:27 pm  |
 | Achievements | 14/10/2023, 4:00:20 am | 08/08/2023, 11:52:58 pm  |
 | Achievements | 14/10/2023, 4:00:20 am | 08/08/2023, 11:56:27 pm  |
 | Logros       | 14/10/2023, 4:00:20 am | 08/08/2023, 11:56:27 pm  |
@@ -449,7 +449,6 @@ https://help.twitch.tv/s/article/ad-experience-experiment
 | Eksperymentujemy z nowym rozwiązaniem reklamowym na Twitchu      | 30/09/2021, 11:26:49 am | 12/09/2020, 5:55:03 am  |
 | Estamos experimentando novas experiências de anúncios na Twitch. | 30/09/2021, 11:26:49 am | 12/09/2020, 5:55:03 am  |
 | Estamos probando nuevas experiencias publicitarias en Twitch     | 30/09/2021, 11:26:49 am | 12/09/2020, 5:55:03 am  |
-| Nous testons de nouveaux types de publicités sur Twitch          | 30/09/2021, 11:26:49 am | 12/09/2020, 5:55:03 am  |
 
 
 ### ad-offer-faq
@@ -1400,15 +1399,14 @@ https://help.twitch.tv/s/article/creator-dashboard
 ### creator-goals
 https://help.twitch.tv/s/article/creator-goals
 
-| Title              | Last Modified           | Created                 |
-|--------------------|-------------------------|-------------------------|
-| Creator-Ziele      | 15/03/2023, 11:51:03 pm | 09/03/2023, 4:21:38 am  |
-| metas de creador   | 15/03/2023, 11:32:08 pm | 09/03/2023, 4:21:38 am  |
-| cele twórcy        | 15/03/2023, 11:13:38 pm | 09/03/2023, 4:21:38 am  |
-| Obiettivi streamer | 15/03/2023, 7:22:33 pm  | 09/03/2023, 4:21:38 am  |
-| Metas do Criador   | 14/03/2023, 11:39:34 pm | 09/03/2023, 4:21:38 am  |
-| Metas de creador   | 14/03/2023, 10:37:34 pm | 09/03/2023, 4:21:38 am  |
-| Creator Goals      | 09/03/2023, 4:21:18 am  | 09/03/2023, 4:19:11 am  |
+| Title            | Last Modified           | Created                 |
+|------------------|-------------------------|-------------------------|
+| Creator-Ziele    | 15/03/2023, 11:51:03 pm | 09/03/2023, 4:21:38 am  |
+| metas de creador | 15/03/2023, 11:32:08 pm | 09/03/2023, 4:21:38 am  |
+| cele twórcy      | 15/03/2023, 11:13:38 pm | 09/03/2023, 4:21:38 am  |
+| Metas do Criador | 14/03/2023, 11:39:34 pm | 09/03/2023, 4:21:38 am  |
+| Metas de creador | 14/03/2023, 10:37:34 pm | 09/03/2023, 4:21:38 am  |
+| Creator Goals    | 09/03/2023, 4:21:18 am  | 09/03/2023, 4:19:11 am  |
 
 
 ### custom-bit-badges-guide
@@ -1515,6 +1513,24 @@ https://help.twitch.tv/s/article/discovery
 | Découverte     | 28/07/2023, 3:26:04 am | 14/07/2023, 7:07:58 am  |
 | Entdecken      | 28/07/2023, 3:26:04 am | 21/07/2023, 0:21:35 am  |
 | Keşif          | 28/07/2023, 3:26:04 am | 21/07/2023, 0:21:35 am  |
+
+
+### discovery-feed
+https://help.twitch.tv/s/article/discovery-feed
+
+| Title                            | Last Modified          | Created                 |
+|----------------------------------|------------------------|-------------------------|
+| Discovery Feed (Esperimento)     | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
+| Discovery Feed (Experiment)      | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:12 am  |
+| Discovery Feed (Experiment)      | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
+| Discovery Feed (Experimento)     | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
+| Discovery Feed (experimento)     | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
+| Discovery Feed (expérience)      | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
+| Discovery Feed (эксперимент)     | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
+| Discovery Feed (測試版)             | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
+| Feed de Descoberta (Experimento) | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
+| Keşif Akışı (Test)               | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
+| Lista odkryć (eksperyment)       | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
 
 
 ### display-names-on-twitch
@@ -1645,12 +1661,12 @@ https://help.twitch.tv/s/article/experiments
 
 | Title                          | Last Modified          | Created                 |
 |--------------------------------|------------------------|-------------------------|
-| Eksperymenty w serwisie Twitch | 31/10/2023, 7:47:45 am | 31/10/2023, 7:47:44 am  |
-| Experimentos da Twitch         | 31/10/2023, 7:47:45 am | 31/10/2023, 7:47:44 am  |
-| Experimentos de Twitch         | 31/10/2023, 7:47:45 am | 31/10/2023, 7:47:44 am  |
-| Experimentos de Twitch         | 31/10/2023, 7:47:45 am | 31/10/2023, 7:47:44 am  |
-| Expériences Twitch             | 31/10/2023, 7:47:45 am | 31/10/2023, 7:47:44 am  |
-| Gli esperimenti di Twitch      | 31/10/2023, 7:47:45 am | 31/10/2023, 7:47:44 am  |
+| Eksperymenty w serwisie Twitch | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am  |
+| Experimentos da Twitch         | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am  |
+| Experimentos de Twitch         | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am  |
+| Experimentos de Twitch         | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am  |
+| Expériences Twitch             | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am  |
+| Gli esperimenti di Twitch      | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am  |
 
 
 ### extensions-switch-with-your-game-selection
@@ -1712,7 +1728,6 @@ https://help.twitch.tv/s/article/first-time-chatter-highlight
 | Destacado de primera vez en el chat                         | 18/02/2022, 0:58:35 am  | 18/02/2022, 0:58:30 am   |
 | Destaque de participantes de primeira entrada               | 19/10/2021, 9:10:38 am  | 24/09/2021, 5:51:32 am   |
 | Evidenziatore di chi partecipa alla chat per la prima volta | 19/10/2021, 9:10:38 am  | 24/09/2021, 5:51:32 am   |
-| Nuevos usuarios del chat destacados                         | 19/10/2021, 9:10:38 am  | 24/09/2021, 5:51:32 am   |
 | First-Time Chatter Highlight                                | 19/10/2021, 9:09:43 am  | 19/10/2021, 9:09:29 am   |
 
 
@@ -1743,12 +1758,11 @@ https://help.twitch.tv/s/article/follower-emotes
 ### founders-badge
 https://help.twitch.tv/s/article/founders-badge
 
-| Title                            | Last Modified          | Created                 |
-|----------------------------------|------------------------|-------------------------|
-| Czym jest odznaka założyciela?   | 28/07/2023, 3:34:47 am | 15/07/2023, 6:56:56 am  |
-| Kurucu Rozeti nedir?             | 28/07/2023, 3:34:47 am | 15/07/2023, 6:56:56 am  |
-| O que é o distintivo do fundador | 28/07/2023, 3:34:47 am | 15/07/2023, 6:56:56 am  |
-| Cos'è lo Stemma Fondatore        | 28/07/2023, 3:34:46 am | 15/07/2023, 6:56:56 am  |
+| Title                          | Last Modified          | Created                 |
+|--------------------------------|------------------------|-------------------------|
+| Czym jest odznaka założyciela? | 28/07/2023, 3:34:47 am | 15/07/2023, 6:56:56 am  |
+| Kurucu Rozeti nedir?           | 28/07/2023, 3:34:47 am | 15/07/2023, 6:56:56 am  |
+| Cos'è lo Stemma Fondatore      | 28/07/2023, 3:34:46 am | 15/07/2023, 6:56:56 am  |
 
 
 ### games-irl-and-music-directories
@@ -1772,7 +1786,6 @@ https://help.twitch.tv/s/article/geoblocking
 | Czym jest geoblokowanie?                    | 14/02/2023, 11:02:32 pm | 09/02/2023, 10:59:47 am  |
 | Cosa sono le restrizioni geografiche?       | 14/02/2023, 7:23:01 pm  | 09/02/2023, 10:59:47 am  |
 | Coğrafi olarak engelleme olmak ne demektir? | 14/02/2023, 6:44:32 pm  | 09/02/2023, 10:59:47 am  |
-| O que é geobloqueio?                        | 13/02/2023, 1:49:02 am  | 09/02/2023, 10:59:47 am  |
 
 
 ### getting-started-twitch-studio
@@ -2685,7 +2698,6 @@ https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions
 | Cómo usar las suscripciones de Twitch Prime    | 22/10/2021, 8:53:55 am | 11/08/2020, 2:30:21 am  |
 | How to Use Prime Subscriptions                 | 22/10/2021, 8:53:55 am | 11/08/2020, 2:29:42 am  |
 | Jak korzystać z subskrypcji Twitch Prime       | 22/10/2021, 8:53:55 am | 11/08/2020, 2:30:22 am  |
-| Nutzung von Twitch Prime-Abonnements           | 22/10/2021, 8:53:55 am | 11/08/2020, 2:30:21 am  |
 
 
 ### how-to-use-twitch-showcase
@@ -2727,7 +2739,6 @@ https://help.twitch.tv/s/article/hype-chat-by-twitch
 | Cosa sono gli Hype Chat? | 15/11/2023, 7:09:02 pm  | 08/11/2023, 6:33:40 am  |
 | Czym jest Hype Chat?     | 10/11/2023, 10:13:32 pm | 08/11/2023, 6:33:40 am  |
 | Hype Chat 是什麼？           | 10/11/2023, 9:20:04 pm  | 08/11/2023, 6:33:40 am  |
-| O que é um Hype Chat?    | 10/11/2023, 9:18:04 pm  | 08/11/2023, 6:33:40 am  |
 | Hype Chat คืออะไร?       | 10/11/2023, 5:13:03 am  | 10/11/2023, 5:13:02 am  |
 
 
@@ -2833,6 +2844,21 @@ https://help.twitch.tv/s/article/joining-the-affiliate-program
 | Come partecipare al programma per gli affiliati | 23/10/2023, 6:07:16 pm  | 23/10/2023, 6:07:13 pm   |
 | Joining the Affiliate Program                   | 17/10/2023, 3:50:24 am  | 16/10/2023, 1:02:04 pm   |
 | Aderir ao Programa de Afiliados                 | 17/10/2023, 3:50:23 am  | 17/10/2023, 3:50:22 am   |
+
+
+### korea-update-nonkr
+https://help.twitch.tv/s/article/korea-update-nonkr
+
+| Title                                                                                          | Last Modified           | Created                  |
+|------------------------------------------------------------------------------------------------|-------------------------|--------------------------|
+| Kore'deki Twitch Hizmetlerinin Durdurulmasının Kore Dışındaki Kullanıcılar Üzerindeki Etkisi   | 06/12/2023, 11:09:04 am | 06/12/2023, 11:09:03 am  |
+| Consecuencias del cierre de Twitch en Corea para los/las usuarios/as de fuera de Corea         | 06/12/2023, 11:09:02 am | 06/12/2023, 11:09:01 am  |
+| Auswirkungen der Einstellung von Twitch in Korea auf Nutzer*innen außerhalb von Korea          | 06/12/2023, 11:06:11 am | 06/12/2023, 11:06:10 am  |
+| Impacto do encerramento das atividades da Twitch na Coreia para usuários(as) fora daquele país | 06/12/2023, 11:06:08 am | 06/12/2023, 11:06:08 am  |
+| Impacto del cierre de Twitch en Corea en los usuarios y las usuarias fuera de Corea            | 06/12/2023, 11:06:04 am | 06/12/2023, 11:06:03 am  |
+| Impact international de la fermeture de Twitch en Corée                                        | 06/12/2023, 11:06:02 am | 06/12/2023, 11:06:01 am  |
+| Impatto della chiusura di Twitch in Corea su utenti residenti in altri paesi                   | 06/12/2023, 11:06:02 am | 06/12/2023, 11:06:01 am  |
+| Impact of Twitch Shutdown in Korea on Users Outside of Korea                                   | 06/12/2023, 10:58:03 am | 02/12/2023, 3:18:22 am   |
 
 
 ### languages-on-twitch
@@ -3046,7 +3072,6 @@ https://help.twitch.tv/s/article/markdown-basics
 | Les bases de Markdown            | 22/10/2021, 8:39:56 am | 08/10/2020, 5:03:41 am  |
 | Markdown 基本知識                    | 22/10/2021, 8:39:56 am | 08/10/2020, 5:03:41 am  |
 | Markdown-Grundlagen              | 22/10/2021, 8:39:56 am | 08/10/2020, 5:03:41 am  |
-| Noções básicas de Markdown       | 22/10/2021, 8:39:56 am | 08/10/2020, 5:03:41 am  |
 
 
 ### Mastercard-Holiday-Promotion
@@ -3327,7 +3352,6 @@ https://help.twitch.tv/s/article/not-receiving-sms
 
 | Title                                                                                | Last Modified          | Created                 |
 |--------------------------------------------------------------------------------------|------------------------|-------------------------|
-| Não-recebimento de mensagens de texto SMS ou códigos de 2FA                          | 04/08/2023, 0:16:03 am | 04/08/2023, 0:16:01 am  |
 | No me llegan los mensajes SMS ni los códigos de la autenticación de doble factor     | 03/08/2023, 9:28:37 pm | 03/08/2023, 9:28:37 pm  |
 | Kein Erhalt von SMS-Textnachrichten oder Zwei-Faktor-Authentifizierung-Codes         | 03/08/2023, 8:54:06 pm | 03/08/2023, 8:54:05 pm  |
 | No estoy recibiendo mensajes de texto (SMS) ni códigos de autenticación en dos pasos | 03/08/2023, 8:27:32 pm | 03/08/2023, 8:27:30 pm  |
@@ -3348,7 +3372,6 @@ https://help.twitch.tv/s/article/notifications-inbox
 | Bandeja de entrada de notificaciones | 09/06/2022, 5:04:05 pm | 09/06/2022, 5:04:02 pm  |
 | Caixa de entrada de notificações     | 09/06/2022, 1:10:04 pm | 08/06/2022, 3:07:59 am  |
 | Bildirim Gelen Kutusu                | 09/06/2022, 8:30:09 am | 08/06/2022, 3:07:59 am  |
-| Notifications Inbox                  | 08/06/2022, 3:07:15 am | 08/06/2022, 3:06:57 am  |
 
 
 ### official-twitch-channel-chat-rules
@@ -3803,12 +3826,7 @@ https://help.twitch.tv/s/article/smart-notification-setting
 | Definição de notificações inteligentes | 22/10/2021, 8:52:25 am | 10/11/2020, 11:30:37 pm  |
 | Akıllı Bildirimler                     | 22/10/2021, 8:52:24 am | 05/11/2020, 2:29:40 am   |
 | Inteligentne powiadomienia             | 22/10/2021, 8:52:24 am | 05/11/2020, 2:29:40 am   |
-| Notificaciones inteligentes            | 22/10/2021, 8:52:24 am | 05/11/2020, 2:29:40 am   |
-| Notifiche intelligenti                 | 22/10/2021, 8:52:24 am | 05/11/2020, 2:29:40 am   |
-| Notificaciones inteligentes            | 22/10/2021, 8:52:23 am | 05/11/2020, 2:29:40 am   |
 | Intelligente Benachrichtigungen        | 22/10/2021, 8:52:22 am | 05/11/2020, 2:29:40 am   |
-| Notifications intelligentes            | 22/10/2021, 8:52:22 am | 05/11/2020, 2:29:40 am   |
-| Notificações inteligentes              | 22/10/2021, 8:52:22 am | 05/11/2020, 2:29:40 am   |
 
 
 ### sponsorship-experiments-faq
@@ -4114,7 +4132,6 @@ https://help.twitch.tv/s/article/supported-mobile-os
 | Acerca de los sistemas operativos compatibles con Android e iOS | 09/02/2023, 0:22:02 am | 03/02/2023, 0:01:51 pm  |
 | Android ve iOS'ta Desteklenen İşletim Sistemi Sürümleri Üzerine | 08/02/2023, 9:22:02 pm | 03/02/2023, 0:01:51 pm  |
 | Android 및 iOS에서 지원되는 운영 체제 정보                                   | 08/02/2023, 9:14:32 pm | 03/02/2023, 0:01:51 pm  |
-| O obsługiwanych systemach operacyjnych Android i iOS            | 08/02/2023, 9:08:32 pm | 03/02/2023, 0:01:51 pm  |
 | Informazioni sui sistemi operativi supportati su Android e iOS  | 08/02/2023, 7:13:34 pm | 03/02/2023, 0:01:51 pm  |
 | AndroidとiOSでの対応オペレーティングシステムについて                                 | 07/02/2023, 6:45:33 pm | 03/02/2023, 0:01:51 pm  |
 | About Supported Operating Systems on Android and iOS            | 03/02/2023, 0:01:32 pm | 03/02/2023, 0:01:18 pm  |
@@ -4414,7 +4431,6 @@ https://help.twitch.tv/s/article/twitch-studio-creator-goals
 | Metas de creador de Twitch Studio | 17/02/2022, 9:27:35 pm | 17/02/2022, 9:27:31 pm  |
 | Cele twórcy w Twitch Studio       | 22/10/2021, 8:54:20 am | 26/08/2021, 4:03:03 am  |
 | Metas de creador de Twitch Studio | 22/10/2021, 8:54:20 am | 26/08/2021, 4:03:09 am  |
-| Obiettivi streamer Twitch Studio  | 22/10/2021, 8:54:20 am | 26/08/2021, 4:03:15 am  |
 | Creator-Ziele in Twitch Studio    | 22/10/2021, 8:54:19 am | 26/08/2021, 4:02:55 am  |
 | Metas do Criador no Twitch Studio | 22/10/2021, 8:54:19 am | 26/08/2021, 4:03:18 am  |
 
