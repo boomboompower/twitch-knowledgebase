@@ -7,6 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| twitch-affiliate-program-faq                                  | 07/12/2023, 8:19:20 am  | 07/12/2023, 8:19:20 am  | [Details](#twitch-affiliate-program-faq)                                   |
+| first-steps-for-new-affiliates                                | 07/12/2023, 7:51:08 am  | 07/12/2023, 7:50:44 am  | [Details](#first-steps-for-new-affiliates)                                 |
 | korea-update-nonkr                                            | 06/12/2023, 11:09:04 am | 06/12/2023, 11:09:03 am | [Details](#korea-update-nonkr)                                             |
 | discovery-feed                                                | 06/12/2023, 5:02:28 am  | 06/12/2023, 5:02:28 am  | [Details](#discovery-feed)                                                 |
 | experiments                                                   | 06/12/2023, 3:15:51 am  | 06/12/2023, 3:15:50 am  | [Details](#experiments)                                                    |
@@ -61,7 +63,6 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-use-automod                                            | 25/10/2023, 4:50:34 am  | 14/10/2023, 10:50:37 am | [Details](#how-to-use-automod)                                             |
 | revenue                                                       | 25/10/2023, 2:24:45 am  | 01/07/2023, 11:56:05 am | [Details](#revenue)                                                        |
 | joining-the-affiliate-program                                 | 25/10/2023, 2:24:40 am  | 25/10/2023, 2:24:35 am  | [Details](#joining-the-affiliate-program)                                  |
-| twitch-affiliate-program-faq                                  | 23/10/2023, 10:44:09 pm | 23/10/2023, 10:44:07 pm | [Details](#twitch-affiliate-program-faq)                                   |
 | guest-star-reporting                                          | 21/10/2023, 3:02:35 am  | 21/10/2023, 3:02:34 am  | [Details](#guest-star-reporting)                                           |
 | guest-star                                                    | 21/10/2023, 3:01:15 am  | 21/10/2023, 3:01:14 am  | [Details](#guest-star)                                                     |
 | mission-based-drops                                           | 19/10/2023, 3:00:54 am  | 30/09/2023, 4:42:18 am  | [Details](#mission-based-drops)                                            |
@@ -174,7 +175,6 @@ Language data is not included in the API. All page links will not have a languag
 | two-factor-authentication                                     | 13/03/2023, 11:03:33 pm | 08/03/2023, 0:15:36 pm  | [Details](#two-factor-authentication)                                      |
 | two-factor-authentication-with-authy                          | 09/03/2023, 7:53:25 am  | 09/03/2023, 7:53:24 am  | [Details](#two-factor-authentication-with-authy)                           |
 | artist-badge-attribution                                      | 24/02/2023, 1:47:42 am  | 24/02/2023, 1:47:32 am  | [Details](#artist-badge-attribution)                                       |
-| first-steps-for-new-affiliates                                | 23/02/2023, 9:28:04 pm  | 22/02/2023, 5:02:20 am  | [Details](#first-steps-for-new-affiliates)                                 |
 | geoblocking                                                   | 14/02/2023, 11:02:32 pm | 09/02/2023, 10:59:47 am | [Details](#geoblocking)                                                    |
 | delete-twitch-account                                         | 14/02/2023, 10:47:36 pm | 14/02/2023, 10:47:33 pm | [Details](#delete-twitch-account)                                          |
 | account-reactivation                                          | 14/02/2023, 0:16:32 am  | 14/02/2023, 0:16:31 am  | [Details](#account-reactivation)                                           |
@@ -1715,8 +1715,8 @@ https://help.twitch.tv/s/article/first-steps-for-new-affiliates
 
 | Title                              | Last Modified          | Created                 |
 |------------------------------------|------------------------|-------------------------|
-| Erste Schritte für neue Affiliates | 23/02/2023, 9:28:04 pm | 22/02/2023, 5:02:20 am  |
-| First Steps for New Affiliates     | 17/02/2023, 9:35:43 am | 17/02/2023, 9:35:05 am  |
+| First Steps for New Affiliates     | 07/12/2023, 7:51:08 am | 07/12/2023, 7:50:44 am  |
+| Erste Schritte für neue Affiliates | 07/12/2023, 7:51:03 am | 07/12/2023, 7:51:02 am  |
 
 
 ### first-time-chatter-highlight
@@ -4222,12 +4222,12 @@ https://help.twitch.tv/s/article/twitch-account-settings
 ### twitch-affiliate-program-faq
 https://help.twitch.tv/s/article/twitch-affiliate-program-faq
 
-| Title                                                     | Last Modified           | Created                  |
-|-----------------------------------------------------------|-------------------------|--------------------------|
-| FAQ programme d'affiliation Twitch                        | 23/10/2023, 10:44:09 pm | 23/10/2023, 10:44:07 pm  |
-| Często zadawane pytania dot. Programu Towarzyszy Twitcha  | 23/10/2023, 9:02:15 pm  | 23/10/2023, 9:02:14 pm   |
-| Häufig gestellte Fragen zum Affiliate-Programm von Twitch | 23/10/2023, 7:08:45 pm  | 23/10/2023, 7:08:43 pm   |
-| Domande frequenti sul programma per gli affiliati Twitch  | 23/10/2023, 6:07:12 pm  | 23/10/2023, 6:07:09 pm   |
+| Title                                                     | Last Modified          | Created                 |
+|-----------------------------------------------------------|------------------------|-------------------------|
+| Często zadawane pytania dot. Programu Towarzyszy Twitcha  | 07/12/2023, 8:19:20 am | 07/12/2023, 8:19:20 am  |
+| Domande frequenti sul programma per gli affiliati Twitch  | 07/12/2023, 8:19:20 am | 07/12/2023, 8:19:20 am  |
+| FAQ programme d'affiliation Twitch                        | 07/12/2023, 8:19:20 am | 07/12/2023, 8:19:20 am  |
+| Häufig gestellte Fragen zum Affiliate-Programm von Twitch | 07/12/2023, 8:19:20 am | 07/12/2023, 8:19:20 am  |
 
 
 ### twitch-charity
