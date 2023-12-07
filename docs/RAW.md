@@ -7,11 +7,11 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| first-steps-for-new-affiliates                                | 07/12/2023, 11:01:38 pm | 07/12/2023, 11:01:36 pm | [Details](#first-steps-for-new-affiliates)                                 |
+| discovery-feed                                                | 07/12/2023, 11:01:18 pm | 07/12/2023, 11:01:17 pm | [Details](#discovery-feed)                                                 |
+| experiments                                                   | 07/12/2023, 9:44:02 pm  | 26/10/2023, 10:24:38 am | [Details](#experiments)                                                    |
 | twitch-affiliate-program-faq                                  | 07/12/2023, 8:19:20 am  | 07/12/2023, 8:19:20 am  | [Details](#twitch-affiliate-program-faq)                                   |
-| first-steps-for-new-affiliates                                | 07/12/2023, 7:51:08 am  | 07/12/2023, 7:50:44 am  | [Details](#first-steps-for-new-affiliates)                                 |
 | korea-update-nonkr                                            | 06/12/2023, 11:09:04 am | 06/12/2023, 11:09:03 am | [Details](#korea-update-nonkr)                                             |
-| discovery-feed                                                | 06/12/2023, 5:02:28 am  | 06/12/2023, 5:02:28 am  | [Details](#discovery-feed)                                                 |
-| experiments                                                   | 06/12/2023, 3:15:51 am  | 06/12/2023, 3:15:50 am  | [Details](#experiments)                                                    |
 | 2023-updated-monetized-streamer-agreement                     | 05/12/2023, 2:29:24 pm  | 09/06/2023, 1:09:06 pm  | [Details](#2023-updated-monetized-streamer-agreement)                      |
 | ads-manager                                                   | 05/12/2023, 0:03:36 pm  | 02/12/2023, 11:05:48 am | [Details](#ads-manager)                                                    |
 | stream-together-favorite                                      | 05/12/2023, 4:43:01 am  | 23/11/2023, 8:53:17 am  | [Details](#stream-together-favorite)                                       |
@@ -1518,19 +1518,19 @@ https://help.twitch.tv/s/article/discovery
 ### discovery-feed
 https://help.twitch.tv/s/article/discovery-feed
 
-| Title                            | Last Modified          | Created                 |
-|----------------------------------|------------------------|-------------------------|
-| Discovery Feed (Esperimento)     | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
-| Discovery Feed (Experiment)      | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:12 am  |
-| Discovery Feed (Experiment)      | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
-| Discovery Feed (Experimento)     | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
-| Discovery Feed (experimento)     | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
-| Discovery Feed (expérience)      | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
-| Discovery Feed (эксперимент)     | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
-| Discovery Feed (測試版)             | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
-| Feed de Descoberta (Experimento) | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
-| Keşif Akışı (Test)               | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
-| Lista odkryć (eksperyment)       | 06/12/2023, 5:02:28 am | 06/12/2023, 5:02:28 am  |
+| Title                            | Last Modified           | Created                  |
+|----------------------------------|-------------------------|--------------------------|
+| Discovery Feed (Esperimento)     | 07/12/2023, 11:01:18 pm | 07/12/2023, 11:01:17 pm  |
+| Lista odkryć (eksperyment)       | 07/12/2023, 11:01:16 pm | 07/12/2023, 11:01:15 pm  |
+| Discovery Feed (эксперимент)     | 07/12/2023, 11:01:14 pm | 07/12/2023, 11:01:12 pm  |
+| Discovery Feed (Experimento)     | 07/12/2023, 11:01:11 pm | 07/12/2023, 11:01:10 pm  |
+| Discovery Feed (Experiment)      | 07/12/2023, 11:01:09 pm | 07/12/2023, 11:01:08 pm  |
+| Feed de Descoberta (Experimento) | 07/12/2023, 11:01:07 pm | 07/12/2023, 11:01:06 pm  |
+| Discovery Feed (expérience)      | 07/12/2023, 11:01:05 pm | 07/12/2023, 11:01:04 pm  |
+| Discovery Feed (測試版)             | 07/12/2023, 11:01:04 pm | 07/12/2023, 11:01:03 pm  |
+| Discovery Feed (experimento)     | 07/12/2023, 11:01:03 pm | 07/12/2023, 11:01:01 pm  |
+| Keşif Akışı (Test)               | 07/12/2023, 11:01:02 pm | 07/12/2023, 11:01:01 pm  |
+| Discovery Feed (Experiment)      | 06/12/2023, 5:02:28 am  | 06/12/2023, 5:02:12 am   |
 
 
 ### display-names-on-twitch
@@ -1659,14 +1659,14 @@ https://help.twitch.tv/s/article/engagement
 ### experiments
 https://help.twitch.tv/s/article/experiments
 
-| Title                          | Last Modified          | Created                 |
-|--------------------------------|------------------------|-------------------------|
-| Eksperymenty w serwisie Twitch | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am  |
-| Experimentos da Twitch         | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am  |
-| Experimentos de Twitch         | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am  |
-| Experimentos de Twitch         | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am  |
-| Expériences Twitch             | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am  |
-| Gli esperimenti di Twitch      | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am  |
+| Title                          | Last Modified          | Created                  |
+|--------------------------------|------------------------|--------------------------|
+| Experimentos da Twitch         | 07/12/2023, 9:44:02 pm | 26/10/2023, 10:24:38 am  |
+| Eksperymenty w serwisie Twitch | 07/12/2023, 9:31:03 pm | 26/10/2023, 10:24:38 am  |
+| Experimentos de Twitch         | 07/12/2023, 9:26:33 pm | 26/10/2023, 10:24:38 am  |
+| Gli esperimenti di Twitch      | 07/12/2023, 7:11:12 pm | 26/10/2023, 10:24:38 am  |
+| Experimentos de Twitch         | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am   |
+| Expériences Twitch             | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am   |
 
 
 ### extensions-switch-with-your-game-selection
@@ -1713,10 +1713,10 @@ https://help.twitch.tv/s/article/featured-clips
 ### first-steps-for-new-affiliates
 https://help.twitch.tv/s/article/first-steps-for-new-affiliates
 
-| Title                              | Last Modified          | Created                 |
-|------------------------------------|------------------------|-------------------------|
-| First Steps for New Affiliates     | 07/12/2023, 7:51:08 am | 07/12/2023, 7:50:44 am  |
-| Erste Schritte für neue Affiliates | 07/12/2023, 7:51:03 am | 07/12/2023, 7:51:02 am  |
+| Title                              | Last Modified           | Created                  |
+|------------------------------------|-------------------------|--------------------------|
+| Erste Schritte für neue Affiliates | 07/12/2023, 11:01:38 pm | 07/12/2023, 11:01:36 pm  |
+| First Steps for New Affiliates     | 07/12/2023, 7:51:08 am  | 07/12/2023, 7:50:44 am   |
 
 
 ### first-time-chatter-highlight

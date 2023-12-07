@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                             | 07/12/2023, 8:19:20 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ko)                              |
+| First Steps For New Affiliates                           | 07/12/2023, 7:51:03 am    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=ko)                            |
 | Experiments                                              | 06/12/2023, 3:15:51 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ko)                                               |
 | Ads Manager                                              | 05/12/2023, 0:03:34 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ko)                                               |
 | Alerts By Twitch Faq                                     | 04/12/2023, 9:58:40 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=ko)                                      |
@@ -32,7 +34,6 @@
 | Guest Star Getting Started                               | 28/10/2023, 0:14:36 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ko)                                |
 | Stream Together Guest Guide                              | 28/10/2023, 0:14:34 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ko)                               |
 | How To Use Automod                                       | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ko)                                        |
-| Twitch Affiliate Program Faq                             | 23/10/2023, 1:45:52 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ko)                              |
 | Joining The Affiliate Program                            | 23/10/2023, 1:45:36 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ko)                             |
 | Guest Star Reporting                                     | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=ko)                                      |
 | Guest Star                                               | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=ko)                                                |
@@ -47,7 +48,6 @@
 | Broadcasting Guidelines                                  | 29/09/2023, 0:21:33 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ko)                                   |
 | Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=ko)                  |
 | Mod View                                                 | 19/09/2023, 10:12:33 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=ko)                                                  |
-| Affiliate Onboarding Guide                               | 19/09/2023, 9:07:33 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ko)                                |
 
 
 

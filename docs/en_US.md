@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                             | 07/12/2023, 8:19:21 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                              |
+| First Steps For New Affiliates                           | 07/12/2023, 7:51:08 am    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=en_US)                            |
 | Experiments                                              | 06/12/2023, 3:16:05 am    | [Link](https://help.twitch.tv/s/article/experiments?language=en_US)                                               |
 | Channel Analytics                                        | 02/12/2023, 9:45:33 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=en_US)                                         |
 | Date Of Birth Changes                                    | 02/12/2023, 9:31:45 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=en_US)                                     |
@@ -35,7 +37,6 @@
 | Guest Star Faqs                                          | 21/10/2023, 3:02:12 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=en_US)                                           |
 | Guest Star                                               | 21/10/2023, 3:01:16 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=en_US)                                                |
 | Mission Based Drops                                      | 19/10/2023, 3:00:54 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                                       |
-| Twitch Affiliate Program Faq                             | 17/10/2023, 3:50:30 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                              |
 | Joining The Affiliate Program                            | 17/10/2023, 3:50:24 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=en_US)                             |
 | Tips For Applying To The Partner Program                 | 14/10/2023, 4:19:20 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)                  |
 | Achievements                                             | 14/10/2023, 4:00:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                                              |
@@ -46,9 +47,6 @@
 | About Account Suspensions Dmca Suspensions And Chat Bans | 10/10/2023, 6:23:57 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=en_US)  |
 | Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=en_US)                  |
 | Broadcasting Guidelines                                  | 21/09/2023, 3:09:57 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                                   |
-| Affiliate Onboarding Guide                               | 19/09/2023, 7:23:28 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=en_US)                                |
-| Suspicious User Controls                                 | 15/09/2023, 6:15:59 am    | [Link](https://help.twitch.tv/s/article/suspicious-user-controls?language=en_US)                                  |
-| Mod View                                                 | 15/09/2023, 6:15:45 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                                  |
 
 
 
