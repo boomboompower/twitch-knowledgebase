@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Partner Onboarding Guide                                 | 08/12/2023, 4:58:57 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=en_US)                                  |
 | Twitch Affiliate Program Faq                             | 07/12/2023, 8:19:21 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                              |
 | First Steps For New Affiliates                           | 07/12/2023, 7:51:08 am    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=en_US)                            |
 | Experiments                                              | 06/12/2023, 3:16:05 am    | [Link](https://help.twitch.tv/s/article/experiments?language=en_US)                                               |
@@ -45,8 +46,6 @@
 | Brand Surveys                                            | 11/10/2023, 4:01:25 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=en_US)                                             |
 | Stream Display Ads                                       | 11/10/2023, 3:21:25 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                                        |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 10/10/2023, 6:23:57 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=en_US)  |
-| Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=en_US)                  |
-| Broadcasting Guidelines                                  | 21/09/2023, 3:09:57 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                                   |
 
 
 

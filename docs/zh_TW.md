@@ -6,8 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Partner Onboarding Guide                                 | 08/12/2023, 4:58:56 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=zh_TW)                                  |
+| First Steps For New Affiliates                           | 07/12/2023, 11:02:05 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=zh_TW)                            |
 | Twitch Affiliate Program Faq                             | 07/12/2023, 8:19:20 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                              |
-| First Steps For New Affiliates                           | 07/12/2023, 7:51:03 am    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=zh_TW)                            |
 | Experiments                                              | 06/12/2023, 3:15:51 am    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                               |
 | Ads Manager                                              | 05/12/2023, 0:03:21 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=zh_TW)                                               |
 | Alerts By Twitch Faq                                     | 04/12/2023, 9:13:36 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=zh_TW)                                      |
@@ -47,8 +48,6 @@
 | Brand Surveys                                            | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=zh_TW)                                             |
 | Broadcasting Guidelines                                  | 28/09/2023, 11:07:04 pm   | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=zh_TW)                                   |
 | Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:35 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=zh_TW)                  |
-| Mod View                                                 | 19/09/2023, 10:15:03 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                                  |
-| Affiliate Onboarding Guide                               | 19/09/2023, 9:07:46 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                                |
 
 
 

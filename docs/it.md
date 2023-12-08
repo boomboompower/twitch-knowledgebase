@@ -6,9 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Partner Onboarding Guide                                 | 08/12/2023, 4:58:56 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=it)                                  |
+| First Steps For New Affiliates                           | 07/12/2023, 11:01:38 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=it)                            |
+| Experiments                                              | 07/12/2023, 7:11:12 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=it)                                               |
 | Twitch Affiliate Program Faq                             | 07/12/2023, 8:19:20 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=it)                              |
-| First Steps For New Affiliates                           | 07/12/2023, 7:51:03 am    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=it)                            |
-| Experiments                                              | 06/12/2023, 3:15:51 am    | [Link](https://help.twitch.tv/s/article/experiments?language=it)                                               |
 | Ads Manager                                              | 05/12/2023, 0:03:20 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=it)                                               |
 | Alerts By Twitch Events                                  | 04/12/2023, 7:45:11 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=it)                                   |
 | Alerts By Twitch                                         | 04/12/2023, 7:45:08 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=it)                                          |
@@ -46,8 +47,6 @@
 | Watching Twitch On Android Devices                       | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=it)                        |
 | Brand Surveys                                            | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=it)                                             |
 | Broadcasting Guidelines                                  | 29/09/2023, 5:47:07 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=it)                                   |
-| Bounty Board Program Information And Faq                 | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=it)                  |
-| Mod View                                                 | 20/09/2023, 0:28:33 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=it)                                                  |
 
 
 
