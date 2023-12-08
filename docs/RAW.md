@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| partner-onboarding-guide                                      | 08/12/2023, 4:58:56 am  | 08/12/2023, 4:58:55 am  | [Details](#partner-onboarding-guide)                                       |
 | first-steps-for-new-affiliates                                | 07/12/2023, 11:01:38 pm | 07/12/2023, 11:01:36 pm | [Details](#first-steps-for-new-affiliates)                                 |
 | discovery-feed                                                | 07/12/2023, 11:01:18 pm | 07/12/2023, 11:01:17 pm | [Details](#discovery-feed)                                                 |
 | experiments                                                   | 07/12/2023, 9:44:02 pm  | 26/10/2023, 10:24:38 am | [Details](#experiments)                                                    |
@@ -138,7 +139,6 @@ Language data is not included in the API. All page links will not have a languag
 | shoutouts                                                     | 11/07/2023, 9:41:55 am  | 27/06/2023, 1:40:40 am  | [Details](#shoutouts)                                                      |
 | lifetime-subscriber-guide-for-partners                        | 11/07/2023, 9:37:06 am  | 11/07/2023, 9:34:05 am  | [Details](#lifetime-subscriber-guide-for-partners)                         |
 | music-options-for-streamers                                   | 11/07/2023, 2:52:17 am  | 10/06/2023, 5:39:43 am  | [Details](#music-options-for-streamers)                                    |
-| partner-onboarding-guide                                      | 11/07/2023, 1:57:24 am  | 07/07/2023, 3:48:09 pm  | [Details](#partner-onboarding-guide)                                       |
 | refunds-on-twitch                                             | 01/07/2023, 11:23:36 am | 01/07/2023, 11:23:35 am | [Details](#refunds-on-twitch)                                              |
 | ads-incentive-program-getting-started                         | 24/06/2023, 1:26:30 am  | 24/06/2023, 1:26:29 am  | [Details](#ads-incentive-program-getting-started)                          |
 | video-on-demand                                               | 24/06/2023, 0:46:15 am  | 20/06/2023, 0:14:22 am  | [Details](#video-on-demand)                                                |
@@ -3431,12 +3431,12 @@ https://help.twitch.tv/s/article/partner-onboarding-guide
 
 | Title                                           | Last Modified          | Created                 |
 |-------------------------------------------------|------------------------|-------------------------|
-| Guia de Integração de Parceiros                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:09 pm  |
-| Guía de incorporación de socios                 | 11/07/2023, 1:57:24 am | 07/07/2023, 3:48:18 pm  |
-| Guía de incorporación de partners               | 11/07/2023, 1:57:23 am | 07/07/2023, 3:48:14 pm  |
-| Guida alla registrazione partner                | 11/07/2023, 1:57:15 am | 07/07/2023, 3:47:58 pm  |
-| Guide d'intégration au programme de partenariat | 11/07/2023, 1:57:14 am | 07/07/2023, 6:31:33 am  |
-| Leitfaden zum Partner-Onboarding                | 11/07/2023, 1:57:14 am | 07/07/2023, 3:47:56 pm  |
+| Guia de Integração de Parceiros                 | 08/12/2023, 4:58:56 am | 08/12/2023, 4:58:55 am  |
+| Guida alla registrazione partner                | 08/12/2023, 4:58:56 am | 08/12/2023, 4:58:55 am  |
+| Guide d'intégration au programme de partenariat | 08/12/2023, 4:58:56 am | 08/12/2023, 4:58:55 am  |
+| Guía de incorporación de partners               | 08/12/2023, 4:58:56 am | 08/12/2023, 4:58:55 am  |
+| Guía de incorporación de socios                 | 08/12/2023, 4:58:56 am | 08/12/2023, 4:58:55 am  |
+| Leitfaden zum Partner-Onboarding                | 08/12/2023, 4:58:56 am | 08/12/2023, 4:58:55 am  |
 
 
 ### partner-plus-abuse
