@@ -7,6 +7,12 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| how-to-contact-support                                        | 09/12/2023, 8:50:51 am  | 02/12/2023, 11:35:36 am | [Details](#how-to-contact-support)                                         |
+| animated-emotes                                               | 09/12/2023, 8:45:36 am  | 09/12/2023, 8:44:38 am  | [Details](#animated-emotes)                                                |
+| setup-alerts-by-twitch                                        | 09/12/2023, 7:25:20 am  | 26/07/2023, 4:12:35 am  | [Details](#setup-alerts-by-twitch)                                         |
+| emote-guidelines                                              | 09/12/2023, 7:25:00 am  | 02/12/2023, 4:40:32 pm  | [Details](#emote-guidelines)                                               |
+| emote-slots                                                   | 09/12/2023, 7:24:48 am  | 09/12/2023, 7:05:42 am  | [Details](#emote-slots)                                                    |
+| date-of-birth-changes                                         | 09/12/2023, 3:54:03 am  | 02/12/2023, 10:05:22 am | [Details](#date-of-birth-changes)                                          |
 | partner-onboarding-guide                                      | 08/12/2023, 4:58:56 am  | 08/12/2023, 4:58:55 am  | [Details](#partner-onboarding-guide)                                       |
 | first-steps-for-new-affiliates                                | 07/12/2023, 11:01:38 pm | 07/12/2023, 11:01:36 pm | [Details](#first-steps-for-new-affiliates)                                 |
 | discovery-feed                                                | 07/12/2023, 11:01:18 pm | 07/12/2023, 11:01:17 pm | [Details](#discovery-feed)                                                 |
@@ -25,7 +31,6 @@ Language data is not included in the API. All page links will not have a languag
 | simulcasting-guidelines                                       | 03/12/2023, 8:18:47 am  | 21/11/2023, 0:02:15 pm  | [Details](#simulcasting-guidelines)                                        |
 | channel-analytics                                             | 03/12/2023, 8:18:35 am  | 02/12/2023, 10:04:46 am | [Details](#channel-analytics)                                              |
 | affiliate-settings-guide                                      | 03/12/2023, 8:17:28 am  | 03/12/2023, 8:17:25 am  | [Details](#affiliate-settings-guide)                                       |
-| date-of-birth-changes                                         | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:31:44 am  | [Details](#date-of-birth-changes)                                          |
 | how-to-use-clips                                              | 02/12/2023, 7:52:25 am  | 22/11/2023, 10:40:23 am | [Details](#how-to-use-clips)                                               |
 | subscriber-badge-guide                                        | 30/11/2023, 11:48:37 pm | 23/11/2023, 1:30:56 am  | [Details](#subscriber-badge-guide)                                         |
 | guide-to-cheering-with-bits                                   | 30/11/2023, 11:48:33 pm | 21/11/2023, 1:03:29 pm  | [Details](#guide-to-cheering-with-bits)                                    |
@@ -131,7 +136,6 @@ Language data is not included in the API. All page links will not have a languag
 | alerts-by-twitch-css                                          | 26/07/2023, 4:07:25 am  | 26/07/2023, 4:07:25 am  | [Details](#alerts-by-twitch-css)                                           |
 | alerts-by-twitch-customization                                | 26/07/2023, 4:07:21 am  | 26/07/2023, 4:07:20 am  | [Details](#alerts-by-twitch-customization)                                 |
 | alerts-by-twitch-interactive-resubs                           | 26/07/2023, 4:07:09 am  | 26/07/2023, 4:07:09 am  | [Details](#alerts-by-twitch-interactive-resubs)                            |
-| setup-alerts-by-twitch                                        | 26/07/2023, 4:07:02 am  | 26/07/2023, 4:07:02 am  | [Details](#setup-alerts-by-twitch)                                         |
 | Managing-Roles-for-your-Channel                               | 19/07/2023, 9:58:38 pm  | 11/07/2023, 2:23:20 am  | [Details](#managing-roles-for-your-channel)                                |
 | creating-an-account-with-twitch                               | 19/07/2023, 9:58:35 pm  | 11/07/2023, 2:21:09 am  | [Details](#creating-an-account-with-twitch)                                |
 | basic-troubleshooting-tips                                    | 19/07/2023, 11:22:37 am | 19/07/2023, 11:22:20 am | [Details](#basic-troubleshooting-tips)                                     |
@@ -197,7 +201,6 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-use-host-mode                                          | 10/12/2022, 8:09:10 am  | 10/12/2022, 8:09:09 am  | [Details](#how-to-use-host-mode)                                           |
 | your-first-payout-walkthrough                                 | 10/12/2022, 1:47:35 am  | 06/12/2022, 10:18:50 am | [Details](#your-first-payout-walkthrough)                                  |
 | gift-subscriptions-for-creators                               | 07/12/2022, 10:47:38 am | 07/12/2022, 10:47:38 am | [Details](#gift-subscriptions-for-creators)                                |
-| emote-slots                                                   | 06/12/2022, 2:30:09 am  | 02/12/2022, 8:46:19 am  | [Details](#emote-slots)                                                    |
 | how-to-use-twitch-showcase                                    | 06/12/2022, 1:27:04 am  | 02/12/2022, 4:40:24 am  | [Details](#how-to-use-twitch-showcase)                                     |
 | chat-commands                                                 | 19/11/2022, 2:02:32 am  | 19/11/2022, 2:02:30 am  | [Details](#chat-commands)                                                  |
 | xbox-broadcast                                                | 17/11/2022, 11:24:03 pm | 17/11/2022, 11:24:02 pm | [Details](#xbox-broadcast)                                                 |
@@ -231,7 +234,6 @@ Language data is not included in the API. All page links will not have a languag
 | mobile-creator-mode                                           | 22/08/2022, 11:07:39 pm | 16/08/2022, 5:03:38 am  | [Details](#mobile-creator-mode)                                            |
 | subscriber-emote-guide                                        | 10/08/2022, 8:02:42 am  | 23/11/2021, 5:21:01 am  | [Details](#subscriber-emote-guide)                                         |
 | a-tour-of-your-channel-page                                   | 09/08/2022, 4:00:26 am  | 30/07/2022, 10:36:37 am | [Details](#a-tour-of-your-channel-page)                                    |
-| emote-guidelines                                              | 05/08/2022, 10:41:34 pm | 02/08/2022, 6:37:09 am  | [Details](#emote-guidelines)                                               |
 | scene-importing                                               | 03/08/2022, 5:54:38 am  | 03/08/2022, 5:54:35 am  | [Details](#scene-importing)                                                |
 | channel-points-predictions                                    | 30/07/2022, 4:23:37 am  | 30/07/2022, 4:23:24 am  | [Details](#channel-points-predictions)                                     |
 | how-do-i-stream-faq                                           | 20/07/2022, 6:19:45 am  | 20/07/2022, 6:19:17 am  | [Details](#how-do-i-stream-faq)                                            |
@@ -253,7 +255,6 @@ Language data is not included in the API. All page links will not have a languag
 | copyrighted-audio-warnings                                    | 31/03/2022, 3:30:06 am  | 10/03/2022, 5:51:03 am  | [Details](#copyrighted-audio-warnings)                                     |
 | partner-cheermote-guide                                       | 11/03/2022, 0:32:34 am  | 08/03/2022, 7:47:12 am  | [Details](#partner-cheermote-guide)                                        |
 | browser-extensions-twitch                                     | 08/03/2022, 11:08:04 pm | 08/03/2022, 11:48:10 am | [Details](#browser-extensions-twitch)                                      |
-| animated-emotes                                               | 25/02/2022, 11:52:33 pm | 17/02/2022, 5:23:11 am  | [Details](#animated-emotes)                                                |
 | community-challenges                                          | 18/02/2022, 8:27:04 pm  | 18/02/2022, 8:27:02 pm  | [Details](#community-challenges)                                           |
 | broadcast-guidelines                                          | 18/02/2022, 8:23:26 pm  | 18/02/2022, 8:23:23 pm  | [Details](#broadcast-guidelines)                                           |
 | streamer-community-survey                                     | 18/02/2022, 8:19:05 pm  | 18/02/2022, 8:19:02 pm  | [Details](#streamer-community-survey)                                      |
@@ -718,16 +719,16 @@ https://help.twitch.tv/s/article/android-purchases
 ### animated-emotes
 https://help.twitch.tv/s/article/animated-emotes
 
-| Title                | Last Modified           | Created                  |
-|----------------------|-------------------------|--------------------------|
-| Emoticonos animados  | 25/02/2022, 11:52:33 pm | 17/02/2022, 5:23:11 am   |
-| Emoticonos animados  | 25/02/2022, 11:52:04 pm | 17/02/2022, 5:23:11 am   |
-| Animowane emotki     | 25/02/2022, 10:55:05 pm | 17/02/2022, 5:23:11 am   |
-| Animierte Emotes     | 25/02/2022, 9:49:35 pm  | 17/02/2022, 5:23:11 am   |
-| Emoticon animate     | 25/02/2022, 8:51:11 pm  | 17/02/2022, 5:23:11 am   |
-| Animasyonlu İfadeler | 25/02/2022, 6:45:34 pm  | 17/02/2022, 5:23:11 am   |
-| Emotes animados      | 24/02/2022, 10:05:40 am | 17/02/2022, 5:23:11 am   |
-| Animated Emotes      | 17/02/2022, 5:22:47 am  | 10/02/2022, 10:12:19 am  |
+| Title                | Last Modified          | Created                 |
+|----------------------|------------------------|-------------------------|
+| Animated Emotes      | 09/12/2023, 8:45:36 am | 09/12/2023, 8:44:38 am  |
+| Animasyonlu İfadeler | 09/12/2023, 8:45:04 am | 09/12/2023, 8:45:03 am  |
+| Animierte Emotes     | 09/12/2023, 8:45:04 am | 09/12/2023, 8:45:03 am  |
+| Animowane emotki     | 09/12/2023, 8:45:04 am | 09/12/2023, 8:45:03 am  |
+| Emotes animados      | 09/12/2023, 8:45:04 am | 09/12/2023, 8:45:03 am  |
+| Emoticon animate     | 09/12/2023, 8:45:04 am | 09/12/2023, 8:45:03 am  |
+| Emoticonos animados  | 09/12/2023, 8:45:04 am | 09/12/2023, 8:45:03 am  |
+| Emoticonos animados  | 09/12/2023, 8:45:04 am | 09/12/2023, 8:45:03 am  |
 
 
 ### annual-recap
@@ -1440,15 +1441,15 @@ https://help.twitch.tv/s/article/dac7-interview
 ### date-of-birth-changes
 https://help.twitch.tv/s/article/date-of-birth-changes
 
-| Title                               | Last Modified          | Created                 |
-|-------------------------------------|------------------------|-------------------------|
-| Alterações na data de nascimento    | 02/12/2023, 9:31:45 am | 02/12/2023, 9:31:44 am  |
-| Cambios en la fecha de nacimiento   | 02/12/2023, 9:31:45 am | 02/12/2023, 9:31:44 am  |
-| Cambios en la fecha de nacimiento   | 02/12/2023, 9:31:45 am | 02/12/2023, 9:31:44 am  |
-| Changements de la date de naissance | 02/12/2023, 9:31:45 am | 02/12/2023, 9:31:44 am  |
-| Date of Birth Changes               | 02/12/2023, 9:31:45 am | 02/12/2023, 9:30:54 am  |
-| Doğum tarihi değişikliği            | 02/12/2023, 9:31:45 am | 02/12/2023, 9:31:44 am  |
-| Modifiche alla data di nascita      | 02/12/2023, 9:31:45 am | 02/12/2023, 9:31:44 am  |
+| Title                               | Last Modified           | Created                  |
+|-------------------------------------|-------------------------|--------------------------|
+| Alterações na data de nascimento    | 09/12/2023, 3:54:03 am  | 02/12/2023, 10:05:22 am  |
+| Doğum tarihi değişikliği            | 08/12/2023, 11:38:03 pm | 02/12/2023, 10:05:22 am  |
+| Cambios en la fecha de nacimiento   | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:31:44 am   |
+| Cambios en la fecha de nacimiento   | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:31:44 am   |
+| Changements de la date de naissance | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:31:44 am   |
+| Date of Birth Changes               | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:30:54 am   |
+| Modifiche alla data di nascita      | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:31:44 am   |
 
 
 ### default-emotes
@@ -1543,7 +1544,6 @@ https://help.twitch.tv/s/article/display-names-on-twitch
 | Los nombres públicos en Twitch | 09/02/2023, 11:49:16 am | 11/01/2023, 10:29:27 am  |
 | Nazwy wyświetlane na Twitchu   | 09/02/2023, 11:49:16 am | 11/01/2023, 10:29:27 am  |
 | Nomes de exibição na Twitch    | 09/02/2023, 11:49:16 am | 11/01/2023, 10:29:27 am  |
-| Nomi visualizzati su Twitch    | 09/02/2023, 11:49:16 am | 11/01/2023, 10:29:27 am  |
 
 
 ### dmca-and-copyright-faqs
@@ -1604,14 +1604,14 @@ https://help.twitch.tv/s/article/emote-analytics
 ### emote-guidelines
 https://help.twitch.tv/s/article/emote-guidelines
 
-| Title                       | Last Modified           | Created                 |
-|-----------------------------|-------------------------|-------------------------|
-| Directrices de emoticonos   | 05/08/2022, 10:41:34 pm | 02/08/2022, 6:37:09 am  |
-| Directrices para emoticonos | 05/08/2022, 10:11:06 pm | 02/08/2022, 6:37:09 am  |
-| Emote-Richtlinien           | 05/08/2022, 6:21:35 pm  | 02/08/2022, 6:37:09 am  |
-| Linee guida per le emoticon | 05/08/2022, 5:29:07 pm  | 02/08/2022, 6:37:09 am  |
-| Diretrizes para emotes      | 04/08/2022, 7:45:05 am  | 02/08/2022, 6:37:09 am  |
-| Emote Guidelines            | 02/08/2022, 6:41:39 am  | 02/08/2022, 6:25:43 am  |
+| Title                       | Last Modified          | Created                  |
+|-----------------------------|------------------------|--------------------------|
+| Diretrizes para emotes      | 09/12/2023, 7:25:00 am | 02/12/2023, 4:40:32 pm   |
+| Directrices de emoticonos   | 09/12/2023, 7:24:59 am | 02/12/2023, 4:40:32 pm   |
+| Directrices para emoticonos | 09/12/2023, 7:24:59 am | 02/12/2023, 4:40:32 pm   |
+| Emote Guidelines            | 09/12/2023, 7:24:59 am | 27/10/2023, 10:53:04 am  |
+| Emote-Richtlinien           | 09/12/2023, 7:24:59 am | 02/12/2023, 4:40:32 pm   |
+| Linee guida per le emoticon | 09/12/2023, 7:24:59 am | 02/12/2023, 4:40:32 pm   |
 
 
 ### emote-library
@@ -1634,11 +1634,11 @@ https://help.twitch.tv/s/article/emote-slots
 
 | Title                     | Last Modified          | Created                 |
 |---------------------------|------------------------|-------------------------|
-| Emote-Slots               | 06/12/2022, 2:30:09 am | 02/12/2022, 8:46:19 am  |
-| Espaços de emote          | 06/12/2022, 0:29:08 am | 02/12/2022, 8:46:19 am  |
-| Emplacements d’émoticônes | 05/12/2022, 9:36:06 pm | 02/12/2022, 8:46:19 am  |
-| Miejsca na emotki         | 05/12/2022, 7:59:13 pm | 02/12/2022, 8:46:19 am  |
-| Emote Slots               | 02/12/2022, 8:44:38 am | 02/12/2022, 8:44:21 am  |
+| Emote Slots               | 09/12/2023, 7:24:48 am | 09/12/2023, 7:05:42 am  |
+| Emote-Slots               | 09/12/2023, 7:24:48 am | 09/12/2023, 7:24:47 am  |
+| Emplacements d’émoticônes | 09/12/2023, 7:24:48 am | 09/12/2023, 7:24:47 am  |
+| Espaços de emote          | 09/12/2023, 7:24:48 am | 09/12/2023, 7:24:47 am  |
+| Miejsca na emotki         | 09/12/2023, 7:24:48 am | 09/12/2023, 7:24:47 am  |
 
 
 ### engagement
@@ -2264,6 +2264,16 @@ https://help.twitch.tv/s/article/how-to-contact-extension-developer
 | How to Contact an Extension Developer | 26/10/2022, 7:44:01 am | 26/10/2022, 7:44:01 am  |
 | How to Contact an Extension Developer | 26/10/2022, 7:44:01 am | 26/10/2022, 7:44:01 am  |
 | How to Contact an Extension Developer | 26/10/2022, 7:44:01 am | 26/10/2022, 7:44:01 am  |
+
+
+### how-to-contact-support
+https://help.twitch.tv/s/article/how-to-contact-support
+
+| Title                                | Last Modified          | Created                  |
+|--------------------------------------|------------------------|--------------------------|
+| Como entrar em contato com o suporte | 09/12/2023, 8:50:51 am | 02/12/2023, 11:35:36 am  |
+| Destek ile iletişime geçme           | 09/12/2023, 8:50:51 am | 02/12/2023, 11:35:36 am  |
+| How to Contact Support               | 09/12/2023, 8:50:51 am | 18/11/2023, 6:14:26 am   |
 
 
 ### how-to-delete-and-manage-clips
@@ -3356,9 +3366,7 @@ https://help.twitch.tv/s/article/not-receiving-sms
 | Kein Erhalt von SMS-Textnachrichten oder Zwei-Faktor-Authentifizierung-Codes         | 03/08/2023, 8:54:06 pm | 03/08/2023, 8:54:05 pm  |
 | No estoy recibiendo mensajes de texto (SMS) ni códigos de autenticación en dos pasos | 03/08/2023, 8:27:32 pm | 03/08/2023, 8:27:30 pm  |
 | Kısa mesaj veya iki kademeli güvenlik kodu gelmiyor                                  | 03/08/2023, 7:30:32 pm | 03/08/2023, 7:30:31 pm  |
-| Non ricevo messaggi SMS o codici per l'autenticazione in due fasi                    | 03/08/2023, 5:26:15 pm | 03/08/2023, 5:26:13 pm  |
 | Nie otrzymuję wiadomości SMS lub kodów do uwierzytelniania dwuskładnikowego          | 02/08/2023, 8:42:02 pm | 02/08/2023, 8:42:01 pm  |
-| Not Receiving SMS Text Messages or 2FA Codes                                         | 26/07/2023, 9:55:31 am | 26/07/2023, 9:20:41 am  |
 
 
 ### notifications-inbox
@@ -3766,15 +3774,15 @@ https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel
 ### setup-alerts-by-twitch
 https://help.twitch.tv/s/article/setup-alerts-by-twitch
 
-| Title                                  | Last Modified          | Created                 |
-|----------------------------------------|------------------------|-------------------------|
-| Configuración de alertas en Twitch     | 26/07/2023, 4:07:02 am | 26/07/2023, 4:07:02 am  |
-| Configuración de las alertas de Twitch | 26/07/2023, 4:07:02 am | 26/07/2023, 4:07:02 am  |
-| Configurando alertas da Twitch         | 26/07/2023, 4:07:02 am | 26/07/2023, 4:07:02 am  |
-| Configurare gli avvisi di Twitch       | 26/07/2023, 4:07:02 am | 26/07/2023, 4:07:02 am  |
-| Configurer les alertes de Twitch       | 26/07/2023, 4:07:02 am | 26/07/2023, 4:07:02 am  |
-| Einrichten von Alerts von Twitch       | 26/07/2023, 4:07:02 am | 26/07/2023, 4:07:02 am  |
-| Konfigurowanie alertów na Twitchu      | 26/07/2023, 4:07:02 am | 26/07/2023, 4:07:02 am  |
+| Title                                 | Last Modified          | Created                 |
+|---------------------------------------|------------------------|-------------------------|
+| Configurando alertas da Twitch        | 09/12/2023, 7:25:20 am | 26/07/2023, 4:12:35 am  |
+| Configurare gli avvisi di Twitch      | 09/12/2023, 7:25:20 am | 26/07/2023, 4:12:35 am  |
+| Configurer les alertes de Twitch      | 09/12/2023, 7:25:20 am | 26/07/2023, 4:12:35 am  |
+| Konfigurowanie alertów na Twitchu     | 09/12/2023, 7:25:20 am | 26/07/2023, 4:12:35 am  |
+| Configurar alertas de Twitch          | 09/12/2023, 7:25:19 am | 26/07/2023, 4:12:35 am  |
+| Cómo configurar las alertas de Twitch | 09/12/2023, 7:25:19 am | 26/07/2023, 4:12:35 am  |
+| Einrichten von Twitch Alerts          | 09/12/2023, 7:25:19 am | 26/07/2023, 4:12:35 am  |
 
 
 ### setup-third-party-events
