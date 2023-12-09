@@ -7,10 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| emote-guidelines                                              | 09/12/2023, 1:03:09 pm  | 09/12/2023, 8:51:31 am  | [Details](#emote-guidelines)                                               |
 | how-to-contact-support                                        | 09/12/2023, 8:50:51 am  | 02/12/2023, 11:35:36 am | [Details](#how-to-contact-support)                                         |
 | animated-emotes                                               | 09/12/2023, 8:45:36 am  | 09/12/2023, 8:44:38 am  | [Details](#animated-emotes)                                                |
 | setup-alerts-by-twitch                                        | 09/12/2023, 7:25:20 am  | 26/07/2023, 4:12:35 am  | [Details](#setup-alerts-by-twitch)                                         |
-| emote-guidelines                                              | 09/12/2023, 7:25:00 am  | 02/12/2023, 4:40:32 pm  | [Details](#emote-guidelines)                                               |
 | emote-slots                                                   | 09/12/2023, 7:24:48 am  | 09/12/2023, 7:05:42 am  | [Details](#emote-slots)                                                    |
 | date-of-birth-changes                                         | 09/12/2023, 3:54:03 am  | 02/12/2023, 10:05:22 am | [Details](#date-of-birth-changes)                                          |
 | partner-onboarding-guide                                      | 08/12/2023, 4:58:56 am  | 08/12/2023, 4:58:55 am  | [Details](#partner-onboarding-guide)                                       |
@@ -1606,12 +1606,12 @@ https://help.twitch.tv/s/article/emote-guidelines
 
 | Title                       | Last Modified          | Created                  |
 |-----------------------------|------------------------|--------------------------|
-| Diretrizes para emotes      | 09/12/2023, 7:25:00 am | 02/12/2023, 4:40:32 pm   |
-| Directrices de emoticonos   | 09/12/2023, 7:24:59 am | 02/12/2023, 4:40:32 pm   |
-| Directrices para emoticonos | 09/12/2023, 7:24:59 am | 02/12/2023, 4:40:32 pm   |
+| Emote-Richtlinien           | 09/12/2023, 1:03:09 pm | 09/12/2023, 8:51:31 am   |
+| Directrices para emoticonos | 09/12/2023, 1:03:07 pm | 09/12/2023, 8:51:31 am   |
+| Diretrizes para emotes      | 09/12/2023, 1:03:00 pm | 09/12/2023, 8:51:31 am   |
+| Directrices de emoticonos   | 09/12/2023, 1:02:59 pm | 09/12/2023, 8:51:31 am   |
+| Linee guida per le emoticon | 09/12/2023, 1:02:58 pm | 09/12/2023, 8:51:31 am   |
 | Emote Guidelines            | 09/12/2023, 7:24:59 am | 27/10/2023, 10:53:04 am  |
-| Emote-Richtlinien           | 09/12/2023, 7:24:59 am | 02/12/2023, 4:40:32 pm   |
-| Linee guida per le emoticon | 09/12/2023, 7:24:59 am | 02/12/2023, 4:40:32 pm   |
 
 
 ### emote-library
