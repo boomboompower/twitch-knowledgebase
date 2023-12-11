@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| streamer-read-ads                                             | 11/12/2023, 3:26:46 pm  | 11/12/2023, 3:26:44 pm  | [Details](#streamer-read-ads)                                              |
 | emote-guidelines                                              | 09/12/2023, 1:03:09 pm  | 09/12/2023, 8:51:31 am  | [Details](#emote-guidelines)                                               |
 | how-to-contact-support                                        | 09/12/2023, 8:50:51 am  | 02/12/2023, 11:35:36 am | [Details](#how-to-contact-support)                                         |
 | animated-emotes                                               | 09/12/2023, 8:45:36 am  | 09/12/2023, 8:44:38 am  | [Details](#animated-emotes)                                                |
@@ -52,7 +53,6 @@ Language data is not included in the API. All page links will not have a languag
 | follower-emotes                                               | 08/11/2023, 11:26:40 am | 28/10/2023, 9:26:59 am  | [Details](#follower-emotes)                                                |
 | featured-clips                                                | 05/11/2023, 11:01:19 pm | 02/11/2023, 1:31:06 pm  | [Details](#featured-clips)                                                 |
 | minimum-payout-threshold                                      | 04/11/2023, 4:34:32 am  | 04/11/2023, 4:34:31 am  | [Details](#minimum-payout-threshold)                                       |
-| streamer-read-ads                                             | 03/11/2023, 10:20:09 am | 04/10/2023, 0:18:43 pm  | [Details](#streamer-read-ads)                                              |
 | channel-skins                                                 | 03/11/2023, 10:19:31 am | 04/10/2023, 0:18:22 pm  | [Details](#channel-skins)                                                  |
 | games-irl-and-music-directories                               | 01/11/2023, 10:35:39 am | 01/11/2023, 10:35:38 am | [Details](#games-irl-and-music-directories)                                |
 | ban-evasion                                                   | 28/10/2023, 5:03:42 am  | 27/10/2023, 4:46:39 am  | [Details](#ban-evasion)                                                    |
@@ -3964,12 +3964,12 @@ https://help.twitch.tv/s/article/streamer-notifications-preferences
 ### streamer-read-ads
 https://help.twitch.tv/s/article/streamer-read-ads
 
-| Title                            | Last Modified           | Created                 |
-|----------------------------------|-------------------------|-------------------------|
-| Annunci letti da streamer        | 03/11/2023, 10:20:09 am | 04/10/2023, 0:18:43 pm  |
-| Anuncios leídos por streamers    | 03/11/2023, 10:20:09 am | 04/10/2023, 0:18:43 pm  |
-| Anúncios com leitura de streamer | 03/11/2023, 10:20:09 am | 04/10/2023, 0:18:43 pm  |
-| Menciones de streamers           | 03/11/2023, 10:20:09 am | 04/10/2023, 0:18:43 pm  |
+| Title                            | Last Modified          | Created                 |
+|----------------------------------|------------------------|-------------------------|
+| Anuncios leídos por streamers    | 11/12/2023, 3:26:46 pm | 11/12/2023, 3:26:44 pm  |
+| Menciones de streamers           | 11/12/2023, 3:26:42 pm | 11/12/2023, 3:26:40 pm  |
+| Annunci letti da streamer        | 11/12/2023, 3:26:39 pm | 11/12/2023, 3:26:38 pm  |
+| Anúncios com leitura de streamer | 11/12/2023, 3:26:33 pm | 11/12/2023, 3:26:31 pm  |
 
 
 ### streamer-revenue-strategy-2022
