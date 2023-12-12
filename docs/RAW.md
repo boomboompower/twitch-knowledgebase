@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| annual-recap                                                  | 12/12/2023, 2:04:39 am  | 12/12/2023, 2:04:38 am  | [Details](#annual-recap)                                                   |
 | streamer-read-ads                                             | 11/12/2023, 3:26:46 pm  | 11/12/2023, 3:26:44 pm  | [Details](#streamer-read-ads)                                              |
 | emote-guidelines                                              | 09/12/2023, 1:03:09 pm  | 09/12/2023, 8:51:31 am  | [Details](#emote-guidelines)                                               |
 | how-to-contact-support                                        | 09/12/2023, 8:50:51 am  | 02/12/2023, 11:35:36 am | [Details](#how-to-contact-support)                                         |
@@ -196,7 +197,6 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-share-a-stream                                         | 13/01/2023, 10:51:02 pm | 06/01/2023, 0:52:02 pm  | [Details](#how-to-share-a-stream)                                          |
 | twitch-research-surveys                                       | 03/01/2023, 9:17:37 am  | 03/01/2023, 9:17:37 am  | [Details](#twitch-research-surveys)                                        |
 | how-to-use-polls                                              | 03/01/2023, 8:49:10 am  | 30/11/2022, 11:18:17 am | [Details](#how-to-use-polls)                                               |
-| annual-recap                                                  | 17/12/2022, 2:22:32 am  | 17/12/2022, 2:22:31 am  | [Details](#annual-recap)                                                   |
 | live-viewer-feedback                                          | 10/12/2022, 8:46:52 am  | 10/12/2022, 8:42:17 am  | [Details](#live-viewer-feedback)                                           |
 | how-to-use-host-mode                                          | 10/12/2022, 8:09:10 am  | 10/12/2022, 8:09:09 am  | [Details](#how-to-use-host-mode)                                           |
 | your-first-payout-walkthrough                                 | 10/12/2022, 1:47:35 am  | 06/12/2022, 10:18:50 am | [Details](#your-first-payout-walkthrough)                                  |
@@ -734,10 +734,11 @@ https://help.twitch.tv/s/article/animated-emotes
 ### annual-recap
 https://help.twitch.tv/s/article/annual-recap
 
-| Title                              | Last Modified           | Created                 |
-|------------------------------------|-------------------------|-------------------------|
-| Dein Twitch-Rückblick              | 17/12/2022, 2:22:32 am  | 17/12/2022, 2:22:31 am  |
-| ll tuo Riepilogo annuale di Twitch | 15/12/2022, 11:00:33 pm | 14/12/2022, 2:07:24 am  |
+| Title                              | Last Modified          | Created                 |
+|------------------------------------|------------------------|-------------------------|
+| Dein Twitch-Rückblick              | 12/12/2023, 2:04:39 am | 12/12/2023, 2:04:38 am  |
+| ll tuo Riepilogo annuale di Twitch | 12/12/2023, 2:04:39 am | 12/12/2023, 2:04:38 am  |
+| 2023 Twitch Recap                  | 12/12/2023, 2:04:38 am | 12/12/2023, 2:04:23 am  |
 
 
 ### appleshareplay
@@ -1543,7 +1544,6 @@ https://help.twitch.tv/s/article/display-names-on-twitch
 | Display Names on Twitch        | 09/02/2023, 11:49:16 am | 11/01/2023, 9:56:08 am   |
 | Los nombres públicos en Twitch | 09/02/2023, 11:49:16 am | 11/01/2023, 10:29:27 am  |
 | Nazwy wyświetlane na Twitchu   | 09/02/2023, 11:49:16 am | 11/01/2023, 10:29:27 am  |
-| Nomes de exibição na Twitch    | 09/02/2023, 11:49:16 am | 11/01/2023, 10:29:27 am  |
 
 
 ### dmca-and-copyright-faqs
