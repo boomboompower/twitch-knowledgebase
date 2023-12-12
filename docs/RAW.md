@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| annual-recap                                                  | 12/12/2023, 2:04:39 am  | 12/12/2023, 2:04:38 am  | [Details](#annual-recap)                                                   |
+| annual-recap                                                  | 12/12/2023, 9:36:32 pm  | 05/12/2023, 11:29:19 am | [Details](#annual-recap)                                                   |
 | streamer-read-ads                                             | 11/12/2023, 3:26:46 pm  | 11/12/2023, 3:26:44 pm  | [Details](#streamer-read-ads)                                              |
 | emote-guidelines                                              | 09/12/2023, 1:03:09 pm  | 09/12/2023, 8:51:31 am  | [Details](#emote-guidelines)                                               |
 | how-to-contact-support                                        | 09/12/2023, 8:50:51 am  | 02/12/2023, 11:35:36 am | [Details](#how-to-contact-support)                                         |
@@ -127,8 +127,8 @@ Language data is not included in the API. All page links will not have a languag
 | guide-to-broadcast-health                                     | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:21:56 am  | [Details](#guide-to-broadcast-health)                                      |
 | affiliate-or-partner-anniversary-settings                     | 04/08/2023, 8:45:32 pm  | 04/08/2023, 8:45:31 pm  | [Details](#affiliate-or-partner-anniversary-settings)                      |
 | new-device-and-location-verification                          | 03/08/2023, 9:28:41 pm  | 26/07/2023, 9:59:50 am  | [Details](#new-device-and-location-verification)                           |
-| not-receiving-sms                                             | 03/08/2023, 9:28:37 pm  | 03/08/2023, 9:28:37 pm  | [Details](#not-receiving-sms)                                              |
 | authy-faq                                                     | 03/08/2023, 9:28:36 pm  | 26/07/2023, 10:23:51 am | [Details](#authy-faq)                                                      |
+| not-receiving-sms                                             | 03/08/2023, 8:54:06 pm  | 03/08/2023, 8:54:05 pm  | [Details](#not-receiving-sms)                                              |
 | founders-badge                                                | 28/07/2023, 3:34:47 am  | 15/07/2023, 6:56:56 am  | [Details](#founders-badge)                                                 |
 | discovery                                                     | 28/07/2023, 3:26:04 am  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
 | twitch-teams                                                  | 28/07/2023, 3:24:46 am  | 12/07/2023, 9:14:57 am  | [Details](#twitch-teams)                                                   |
@@ -734,11 +734,12 @@ https://help.twitch.tv/s/article/animated-emotes
 ### annual-recap
 https://help.twitch.tv/s/article/annual-recap
 
-| Title                              | Last Modified          | Created                 |
-|------------------------------------|------------------------|-------------------------|
-| Dein Twitch-Rückblick              | 12/12/2023, 2:04:39 am | 12/12/2023, 2:04:38 am  |
-| ll tuo Riepilogo annuale di Twitch | 12/12/2023, 2:04:39 am | 12/12/2023, 2:04:38 am  |
-| 2023 Twitch Recap                  | 12/12/2023, 2:04:38 am | 12/12/2023, 2:04:23 am  |
+| Title                 | Last Modified          | Created                  |
+|-----------------------|------------------------|--------------------------|
+| 2023 年度的 Twitch 回顧    | 12/12/2023, 9:36:32 pm | 05/12/2023, 11:29:19 am  |
+| 2023 Twitch Özeti     | 12/12/2023, 9:36:03 pm | 05/12/2023, 11:29:19 am  |
+| Dein Twitch-Rückblick | 12/12/2023, 2:04:39 am | 12/12/2023, 2:04:38 am   |
+| 2023 Twitch Recap     | 12/12/2023, 2:04:38 am | 12/12/2023, 2:04:23 am   |
 
 
 ### appleshareplay
@@ -3362,7 +3363,6 @@ https://help.twitch.tv/s/article/not-receiving-sms
 
 | Title                                                                                | Last Modified          | Created                 |
 |--------------------------------------------------------------------------------------|------------------------|-------------------------|
-| No me llegan los mensajes SMS ni los códigos de la autenticación de doble factor     | 03/08/2023, 9:28:37 pm | 03/08/2023, 9:28:37 pm  |
 | Kein Erhalt von SMS-Textnachrichten oder Zwei-Faktor-Authentifizierung-Codes         | 03/08/2023, 8:54:06 pm | 03/08/2023, 8:54:05 pm  |
 | No estoy recibiendo mensajes de texto (SMS) ni códigos de autenticación en dos pasos | 03/08/2023, 8:27:32 pm | 03/08/2023, 8:27:30 pm  |
 | Kısa mesaj veya iki kademeli güvenlik kodu gelmiyor                                  | 03/08/2023, 7:30:32 pm | 03/08/2023, 7:30:31 pm  |
