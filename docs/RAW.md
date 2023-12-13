@@ -7,10 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| date-of-birth-changes                                         | 13/12/2023, 10:48:33 pm | 02/12/2023, 10:05:22 am | [Details](#date-of-birth-changes)                                          |
+| how-to-contact-support                                        | 13/12/2023, 10:48:32 pm | 02/12/2023, 11:35:36 am | [Details](#how-to-contact-support)                                         |
+| stories                                                       | 13/12/2023, 7:52:06 pm  | 07/12/2023, 11:46:59 am | [Details](#stories)                                                        |
 | annual-recap                                                  | 13/12/2023, 11:20:24 am | 13/12/2023, 11:20:09 am | [Details](#annual-recap)                                                   |
-| stories                                                       | 13/12/2023, 6:00:52 am  | 13/12/2023, 6:00:51 am  | [Details](#stories)                                                        |
-| date-of-birth-changes                                         | 13/12/2023, 1:18:34 am  | 02/12/2023, 10:05:22 am | [Details](#date-of-birth-changes)                                          |
-| how-to-contact-support                                        | 13/12/2023, 1:18:31 am  | 02/12/2023, 11:35:36 am | [Details](#how-to-contact-support)                                         |
 | streamer-read-ads                                             | 11/12/2023, 3:26:46 pm  | 11/12/2023, 3:26:44 pm  | [Details](#streamer-read-ads)                                              |
 | emote-guidelines                                              | 09/12/2023, 1:03:09 pm  | 09/12/2023, 8:51:31 am  | [Details](#emote-guidelines)                                               |
 | animated-emotes                                               | 09/12/2023, 8:45:36 am  | 09/12/2023, 8:44:38 am  | [Details](#animated-emotes)                                                |
@@ -1445,13 +1445,13 @@ https://help.twitch.tv/s/article/date-of-birth-changes
 
 | Title                               | Last Modified           | Created                  |
 |-------------------------------------|-------------------------|--------------------------|
+| Changements de la date de naissance | 13/12/2023, 10:48:33 pm | 02/12/2023, 10:05:22 am  |
+| Modifiche alla data di nascita      | 13/12/2023, 9:49:33 pm  | 02/12/2023, 10:05:22 am  |
+| Cambios en la fecha de nacimiento   | 13/12/2023, 8:26:03 pm  | 02/12/2023, 10:05:22 am  |
 | Cambios en la fecha de nacimiento   | 13/12/2023, 1:18:34 am  | 02/12/2023, 10:05:22 am  |
 | Alterações na data de nascimento    | 09/12/2023, 3:54:03 am  | 02/12/2023, 10:05:22 am  |
 | Doğum tarihi değişikliği            | 08/12/2023, 11:38:03 pm | 02/12/2023, 10:05:22 am  |
-| Cambios en la fecha de nacimiento   | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:31:44 am   |
-| Changements de la date de naissance | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:31:44 am   |
 | Date of Birth Changes               | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:30:54 am   |
-| Modifiche alla data di nascita      | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:31:44 am   |
 
 
 ### default-emotes
@@ -1693,7 +1693,6 @@ https://help.twitch.tv/s/article/failed-payments
 | Error en pagos de suscripciones    | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
 | Falhas em pagamentos de inscrições | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
 | Fehlgeschlagene Zahlungen für Abos | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
-| Nieudane płatności za subskrypcje  | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
 | Failed Payments for Subscriptions  | 09/10/2021, 6:52:36 am  | 09/10/2021, 6:49:24 am   |
 
 
@@ -2270,12 +2269,16 @@ https://help.twitch.tv/s/article/how-to-contact-extension-developer
 ### how-to-contact-support
 https://help.twitch.tv/s/article/how-to-contact-support
 
-| Title                                                  | Last Modified          | Created                  |
-|--------------------------------------------------------|------------------------|--------------------------|
-| Cómo ponerse en contacto con el servicio de asistencia | 13/12/2023, 1:18:31 am | 02/12/2023, 11:35:36 am  |
-| Como entrar em contato com o suporte                   | 09/12/2023, 8:50:51 am | 02/12/2023, 11:35:36 am  |
-| Destek ile iletişime geçme                             | 09/12/2023, 8:50:51 am | 02/12/2023, 11:35:36 am  |
-| How to Contact Support                                 | 09/12/2023, 8:50:51 am | 18/11/2023, 6:14:26 am   |
+| Title                                                  | Last Modified           | Created                  |
+|--------------------------------------------------------|-------------------------|--------------------------|
+| Comment contacter l'assistance?                        | 13/12/2023, 10:48:32 pm | 02/12/2023, 11:35:36 am  |
+| Jak skontaktować się z pomocą?                         | 13/12/2023, 10:31:32 pm | 02/12/2023, 11:35:36 am  |
+| Come contattare il supporto                            | 13/12/2023, 9:49:32 pm  | 02/12/2023, 11:35:36 am  |
+| Cómo comunicarte con soporte                           | 13/12/2023, 8:26:02 pm  | 02/12/2023, 11:35:36 am  |
+| Cómo ponerse en contacto con el servicio de asistencia | 13/12/2023, 1:18:31 am  | 02/12/2023, 11:35:36 am  |
+| Como entrar em contato com o suporte                   | 09/12/2023, 8:50:51 am  | 02/12/2023, 11:35:36 am  |
+| Destek ile iletişime geçme                             | 09/12/2023, 8:50:51 am  | 02/12/2023, 11:35:36 am  |
+| How to Contact Support                                 | 09/12/2023, 8:50:51 am  | 18/11/2023, 6:14:26 am   |
 
 
 ### how-to-delete-and-manage-clips
@@ -3351,10 +3354,7 @@ https://help.twitch.tv/s/article/nintendo-switch
 | Application Twitch sur Nintendo Switch™    | 10/11/2023, 10:52:32 pm | 31/10/2023, 8:41:40 am  |
 | Aplikacja Twitcha na Nintendo Switch™      | 10/11/2023, 10:23:32 pm | 31/10/2023, 8:41:40 am  |
 | Aplicación de Twitch para Nintendo Switch™ | 10/11/2023, 10:12:03 pm | 31/10/2023, 8:41:40 am  |
-| Nintendo Switch™ Twitch 앱                  | 10/11/2023, 9:29:40 pm  | 31/10/2023, 8:41:40 am  |
-| Nintendo Switch™ 版 Twitch App              | 10/11/2023, 9:22:09 pm  | 31/10/2023, 8:41:40 am  |
 | Aplicativo da Twitch no Nintendo Switch™   | 10/11/2023, 9:20:08 pm  | 31/10/2023, 8:41:40 am  |
-| Nintendo Switch™版のTwitchアプリ                | 10/11/2023, 7:49:34 pm  | 31/10/2023, 8:41:40 am  |
 | App Twitch per Nintendo Switch™            | 10/11/2023, 7:39:35 pm  | 31/10/2023, 8:41:40 am  |
 | Aplicación de Twitch para Nintendo Switch™ | 10/11/2023, 4:36:34 am  | 31/10/2023, 8:41:40 am  |
 
@@ -3852,7 +3852,7 @@ https://help.twitch.tv/s/article/stories
 
 | Title               | Last Modified          | Created                  |
 |---------------------|------------------------|--------------------------|
-| Historie na Twitchu | 13/12/2023, 6:00:52 am | 13/12/2023, 6:00:51 am   |
+| Historie na Twitchu | 13/12/2023, 7:52:06 pm | 07/12/2023, 11:46:59 am  |
 | Historias de Twitch | 13/12/2023, 6:00:51 am | 07/12/2023, 11:46:59 am  |
 
 

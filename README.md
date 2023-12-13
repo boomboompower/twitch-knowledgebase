@@ -29,13 +29,13 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Portuguese (Brazil)           | 09/12/2023, 1:03:00 pm    | 211 article(s) | [View](docs/pt_BR.md)  |
 | Portuguese (Portugal)         | 07/12/2023, 8:19:20 am    | 41 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 06/09/2023, 6:09:07 am    | 3 article(s)   | [View](docs/ro.md)     |
-| Russian                       | 09/12/2023, 1:03:09 pm    | 209 article(s) | [View](docs/ru.md)     |
+| Russian                       | 12/12/2023, 11:33:33 pm   | 210 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 06/09/2023, 6:09:07 am    | 3 article(s)   | [View](docs/sk.md)     |
-| Spanish                       | 09/12/2023, 1:03:07 pm    | 212 article(s) | [View](docs/es.md)     |
+| Spanish                       | 13/12/2023, 1:18:34 am    | 213 article(s) | [View](docs/es.md)     |
 | Spanish (Mexico)              | 09/12/2023, 1:02:59 pm    | 212 article(s) | [View](docs/es_MX.md)  |
-| Swedish                       | 23/11/2023, 8:05:30 am    | 27 article(s)  | [View](docs/sv.md)     |
-| Thai                          | 09/12/2023, 1:03:02 pm    | 203 article(s) | [View](docs/th.md)     |
-| Turkish                       | 09/12/2023, 1:02:54 pm    | 210 article(s) | [View](docs/tr.md)     |
+| Swedish                       | 23/11/2023, 8:05:30 am    | 26 article(s)  | [View](docs/sv.md)     |
+| Thai                          | 12/12/2023, 11:36:34 pm   | 203 article(s) | [View](docs/th.md)     |
+| Turkish                       | 09/12/2023, 1:02:54 pm    | 209 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 23/11/2023, 7:47:03 am    | 7 article(s)   | [View](docs/vi.md)     |
 
 ### Dumping
