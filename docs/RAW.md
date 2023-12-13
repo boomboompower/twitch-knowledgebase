@@ -7,14 +7,15 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| annual-recap                                                  | 12/12/2023, 9:36:32 pm  | 05/12/2023, 11:29:19 am | [Details](#annual-recap)                                                   |
+| annual-recap                                                  | 13/12/2023, 11:20:24 am | 13/12/2023, 11:20:09 am | [Details](#annual-recap)                                                   |
+| stories                                                       | 13/12/2023, 6:00:52 am  | 13/12/2023, 6:00:51 am  | [Details](#stories)                                                        |
+| date-of-birth-changes                                         | 13/12/2023, 1:18:34 am  | 02/12/2023, 10:05:22 am | [Details](#date-of-birth-changes)                                          |
+| how-to-contact-support                                        | 13/12/2023, 1:18:31 am  | 02/12/2023, 11:35:36 am | [Details](#how-to-contact-support)                                         |
 | streamer-read-ads                                             | 11/12/2023, 3:26:46 pm  | 11/12/2023, 3:26:44 pm  | [Details](#streamer-read-ads)                                              |
 | emote-guidelines                                              | 09/12/2023, 1:03:09 pm  | 09/12/2023, 8:51:31 am  | [Details](#emote-guidelines)                                               |
-| how-to-contact-support                                        | 09/12/2023, 8:50:51 am  | 02/12/2023, 11:35:36 am | [Details](#how-to-contact-support)                                         |
 | animated-emotes                                               | 09/12/2023, 8:45:36 am  | 09/12/2023, 8:44:38 am  | [Details](#animated-emotes)                                                |
 | setup-alerts-by-twitch                                        | 09/12/2023, 7:25:20 am  | 26/07/2023, 4:12:35 am  | [Details](#setup-alerts-by-twitch)                                         |
 | emote-slots                                                   | 09/12/2023, 7:24:48 am  | 09/12/2023, 7:05:42 am  | [Details](#emote-slots)                                                    |
-| date-of-birth-changes                                         | 09/12/2023, 3:54:03 am  | 02/12/2023, 10:05:22 am | [Details](#date-of-birth-changes)                                          |
 | partner-onboarding-guide                                      | 08/12/2023, 4:58:56 am  | 08/12/2023, 4:58:55 am  | [Details](#partner-onboarding-guide)                                       |
 | first-steps-for-new-affiliates                                | 07/12/2023, 11:01:38 pm | 07/12/2023, 11:01:36 pm | [Details](#first-steps-for-new-affiliates)                                 |
 | discovery-feed                                                | 07/12/2023, 11:01:18 pm | 07/12/2023, 11:01:17 pm | [Details](#discovery-feed)                                                 |
@@ -78,7 +79,6 @@ Language data is not included in the API. All page links will not have a languag
 | stream-display-ads                                            | 19/10/2023, 0:25:33 am  | 11/10/2023, 7:24:50 am  | [Details](#stream-display-ads)                                             |
 | tips-for-applying-to-the-partner-program                      | 18/10/2023, 10:12:04 pm | 14/10/2023, 4:24:22 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
 | about-account-suspensions-dmca-suspensions-and-chat-bans      | 18/10/2023, 10:10:03 pm | 11/10/2023, 7:28:35 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
-| stories                                                       | 17/10/2023, 4:13:03 am  | 11/10/2023, 1:42:38 pm  | [Details](#stories)                                                        |
 | achievements                                                  | 14/10/2023, 4:00:21 am  | 08/08/2023, 11:56:27 pm | [Details](#achievements)                                                   |
 | content-classification-labels                                 | 12/10/2023, 8:35:39 pm  | 03/10/2023, 0:41:59 pm  | [Details](#content-classification-labels)                                  |
 | dmca-and-copyright-faqs                                       | 11/10/2023, 9:24:44 am  | 21/09/2023, 3:18:44 am  | [Details](#dmca-and-copyright-faqs)                                        |
@@ -734,12 +734,13 @@ https://help.twitch.tv/s/article/animated-emotes
 ### annual-recap
 https://help.twitch.tv/s/article/annual-recap
 
-| Title                 | Last Modified          | Created                  |
-|-----------------------|------------------------|--------------------------|
-| 2023 年度的 Twitch 回顧    | 12/12/2023, 9:36:32 pm | 05/12/2023, 11:29:19 am  |
-| 2023 Twitch Özeti     | 12/12/2023, 9:36:03 pm | 05/12/2023, 11:29:19 am  |
-| Dein Twitch-Rückblick | 12/12/2023, 2:04:39 am | 12/12/2023, 2:04:38 am   |
-| 2023 Twitch Recap     | 12/12/2023, 2:04:38 am | 12/12/2023, 2:04:23 am   |
+| Title              | Last Modified           | Created                  |
+|--------------------|-------------------------|--------------------------|
+| 2023 Twitch Recap  | 13/12/2023, 11:20:24 am | 13/12/2023, 11:20:09 am  |
+| 2023 Twitch Özeti  | 13/12/2023, 11:20:24 am | 13/12/2023, 11:20:24 am  |
+| 2023 年度的 Twitch 回顧 | 13/12/2023, 11:20:24 am | 13/12/2023, 11:20:24 am  |
+| 2023年Twitch Recap  | 13/12/2023, 11:20:24 am | 13/12/2023, 11:20:23 am  |
+| 2023년 Twitch Recap | 13/12/2023, 11:20:24 am | 13/12/2023, 11:20:23 am  |
 
 
 ### appleshareplay
@@ -1207,7 +1208,6 @@ https://help.twitch.tv/s/article/children-on-twitch
 | Bambini su Twitch      | 28/04/2022, 5:55:33 pm  | 23/04/2022, 2:16:59 am  |
 | Les enfants sur Twitch | 28/04/2022, 2:13:04 pm  | 23/04/2022, 2:16:59 am  |
 | Menores na Twitch      | 28/04/2022, 0:10:33 pm  | 23/04/2022, 2:16:59 am  |
-| Niños en Twitch        | 28/04/2022, 1:27:33 am  | 23/04/2022, 2:16:59 am  |
 | Children on Twitch     | 22/10/2021, 8:53:32 am  | 05/06/2019, 9:36:20 am  |
 
 
@@ -1445,9 +1445,9 @@ https://help.twitch.tv/s/article/date-of-birth-changes
 
 | Title                               | Last Modified           | Created                  |
 |-------------------------------------|-------------------------|--------------------------|
+| Cambios en la fecha de nacimiento   | 13/12/2023, 1:18:34 am  | 02/12/2023, 10:05:22 am  |
 | Alterações na data de nascimento    | 09/12/2023, 3:54:03 am  | 02/12/2023, 10:05:22 am  |
 | Doğum tarihi değişikliği            | 08/12/2023, 11:38:03 pm | 02/12/2023, 10:05:22 am  |
-| Cambios en la fecha de nacimiento   | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:31:44 am   |
 | Cambios en la fecha de nacimiento   | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:31:44 am   |
 | Changements de la date de naissance | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:31:44 am   |
 | Date of Birth Changes               | 02/12/2023, 9:31:45 am  | 02/12/2023, 9:30:54 am   |
@@ -2270,11 +2270,12 @@ https://help.twitch.tv/s/article/how-to-contact-extension-developer
 ### how-to-contact-support
 https://help.twitch.tv/s/article/how-to-contact-support
 
-| Title                                | Last Modified          | Created                  |
-|--------------------------------------|------------------------|--------------------------|
-| Como entrar em contato com o suporte | 09/12/2023, 8:50:51 am | 02/12/2023, 11:35:36 am  |
-| Destek ile iletişime geçme           | 09/12/2023, 8:50:51 am | 02/12/2023, 11:35:36 am  |
-| How to Contact Support               | 09/12/2023, 8:50:51 am | 18/11/2023, 6:14:26 am   |
+| Title                                                  | Last Modified          | Created                  |
+|--------------------------------------------------------|------------------------|--------------------------|
+| Cómo ponerse en contacto con el servicio de asistencia | 13/12/2023, 1:18:31 am | 02/12/2023, 11:35:36 am  |
+| Como entrar em contato com o suporte                   | 09/12/2023, 8:50:51 am | 02/12/2023, 11:35:36 am  |
+| Destek ile iletişime geçme                             | 09/12/2023, 8:50:51 am | 02/12/2023, 11:35:36 am  |
+| How to Contact Support                                 | 09/12/2023, 8:50:51 am | 18/11/2023, 6:14:26 am   |
 
 
 ### how-to-delete-and-manage-clips
@@ -3361,12 +3362,11 @@ https://help.twitch.tv/s/article/nintendo-switch
 ### not-receiving-sms
 https://help.twitch.tv/s/article/not-receiving-sms
 
-| Title                                                                                | Last Modified          | Created                 |
-|--------------------------------------------------------------------------------------|------------------------|-------------------------|
-| Kein Erhalt von SMS-Textnachrichten oder Zwei-Faktor-Authentifizierung-Codes         | 03/08/2023, 8:54:06 pm | 03/08/2023, 8:54:05 pm  |
-| No estoy recibiendo mensajes de texto (SMS) ni códigos de autenticación en dos pasos | 03/08/2023, 8:27:32 pm | 03/08/2023, 8:27:30 pm  |
-| Kısa mesaj veya iki kademeli güvenlik kodu gelmiyor                                  | 03/08/2023, 7:30:32 pm | 03/08/2023, 7:30:31 pm  |
-| Nie otrzymuję wiadomości SMS lub kodów do uwierzytelniania dwuskładnikowego          | 02/08/2023, 8:42:02 pm | 02/08/2023, 8:42:01 pm  |
+| Title                                                                        | Last Modified          | Created                 |
+|------------------------------------------------------------------------------|------------------------|-------------------------|
+| Kein Erhalt von SMS-Textnachrichten oder Zwei-Faktor-Authentifizierung-Codes | 03/08/2023, 8:54:06 pm | 03/08/2023, 8:54:05 pm  |
+| Kısa mesaj veya iki kademeli güvenlik kodu gelmiyor                          | 03/08/2023, 7:30:32 pm | 03/08/2023, 7:30:31 pm  |
+| Nie otrzymuję wiadomości SMS lub kodów do uwierzytelniania dwuskładnikowego  | 02/08/2023, 8:42:02 pm | 02/08/2023, 8:42:01 pm  |
 
 
 ### notifications-inbox
@@ -3850,10 +3850,10 @@ https://help.twitch.tv/s/article/sponsorship-experiments-faq
 ### stories
 https://help.twitch.tv/s/article/stories
 
-| Title               | Last Modified          | Created                 |
-|---------------------|------------------------|-------------------------|
-| Historias de Twitch | 17/10/2023, 4:13:03 am | 11/10/2023, 1:42:38 pm  |
-| Historie na Twitchu | 17/10/2023, 3:50:10 am | 11/10/2023, 1:42:38 pm  |
+| Title               | Last Modified          | Created                  |
+|---------------------|------------------------|--------------------------|
+| Historie na Twitchu | 13/12/2023, 6:00:52 am | 13/12/2023, 6:00:51 am   |
+| Historias de Twitch | 13/12/2023, 6:00:51 am | 07/12/2023, 11:46:59 am  |
 
 
 ### stream-deck-setup
