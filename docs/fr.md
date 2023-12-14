@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Use Squad Stream                                  | 14/12/2023, 1:26:05 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=fr)                                   |
+| Guest Star Getting Started                               | 14/12/2023, 1:26:02 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=fr)                                |
+| Date Of Birth Changes                                    | 13/12/2023, 10:48:33 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=fr)                                     |
 | Emote Guidelines                                         | 09/12/2023, 1:03:02 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=fr)                                          |
 | Animated Emotes                                          | 09/12/2023, 8:45:04 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=fr)                                           |
 | Setup Alerts By Twitch                                   | 09/12/2023, 7:25:20 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=fr)                                    |
@@ -37,7 +40,6 @@
 | Stream Together Guest Guide                              | 27/10/2023, 0:52:37 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=fr)                               |
 | Stream Together Host Guide                               | 27/10/2023, 0:52:37 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=fr)                                |
 | Guest Star Faqs                                          | 27/10/2023, 0:52:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=fr)                                           |
-| Guest Star Getting Started                               | 27/10/2023, 0:52:32 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=fr)                                |
 | How To Use Automod                                       | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=fr)                                        |
 | Joining The Affiliate Program                            | 23/10/2023, 10:44:03 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=fr)                             |
 | Guest Star Reporting                                     | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=fr)                                      |
@@ -47,8 +49,6 @@
 | About Account Suspensions Dmca Suspensions And Chat Bans | 18/10/2023, 10:16:08 pm   | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=fr)  |
 | Tips For Applying To The Partner Program                 | 18/10/2023, 9:46:32 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=fr)                  |
 | Achievements                                             | 14/10/2023, 4:00:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=fr)                                              |
-| Dmca And Copyright Faqs                                  | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=fr)                                   |
-| Watching Twitch On Android Devices                       | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=fr)                        |
 
 
 

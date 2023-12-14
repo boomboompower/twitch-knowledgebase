@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Guest Star Getting Started                               | 14/12/2023, 1:05:13 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es)                                |
+| How To Use Squad Stream                                  | 14/12/2023, 0:59:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=es)                                   |
 | Date Of Birth Changes                                    | 13/12/2023, 1:18:34 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                                     |
 | Emote Guidelines                                         | 09/12/2023, 1:03:07 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es)                                          |
 | Animated Emotes                                          | 09/12/2023, 8:45:04 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=es)                                           |
@@ -36,7 +38,6 @@
 | Recommended Software For Broadcasting                    | 28/10/2023, 5:03:25 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es)                     |
 | Twitch Studio Mac Faq                                    | 28/10/2023, 4:26:05 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=es)                                     |
 | Guest Star Faqs                                          | 28/10/2023, 2:12:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=es)                                           |
-| Guest Star Getting Started                               | 27/10/2023, 11:31:07 pm   | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es)                                |
 | Stream Together Guest Guide                              | 27/10/2023, 11:31:03 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=es)                               |
 | Stream Together Host Guide                               | 27/10/2023, 11:31:03 pm   | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=es)                                |
 | How To Use Automod                                       | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es)                                        |
@@ -48,8 +49,6 @@
 | About Account Suspensions Dmca Suspensions And Chat Bans | 18/10/2023, 9:09:34 pm    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=es)  |
 | Tips For Applying To The Partner Program                 | 18/10/2023, 8:13:06 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=es)                  |
 | Achievements                                             | 14/10/2023, 4:00:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=es)                                              |
-| Dmca And Copyright Faqs                                  | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es)                                   |
-| Watching Twitch On Android Devices                       | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=es)                        |
 
 
 

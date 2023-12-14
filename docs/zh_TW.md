@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Guest Star Getting Started                               | 14/12/2023, 1:05:14 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)                                |
+| How To Use Squad Stream                                  | 14/12/2023, 0:59:47 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=zh_TW)                                   |
+| Date Of Birth Changes                                    | 13/12/2023, 10:19:34 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                                     |
 | Emote Guidelines                                         | 09/12/2023, 1:02:52 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=zh_TW)                                          |
 | Animated Emotes                                          | 09/12/2023, 8:45:04 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=zh_TW)                                           |
 | Setup Alerts By Twitch                                   | 09/12/2023, 7:25:20 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=zh_TW)                                    |
@@ -34,7 +37,6 @@
 | Recommended Software For Broadcasting                    | 28/10/2023, 5:03:42 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=zh_TW)                     |
 | Ban Evasion                                              | 28/10/2023, 5:03:11 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=zh_TW)                                               |
 | Twitch Studio Mac Faq                                    | 28/10/2023, 4:27:15 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=zh_TW)                                     |
-| Guest Star Getting Started                               | 27/10/2023, 5:04:02 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)                                |
 | Guest Star Faqs                                          | 27/10/2023, 4:56:34 pm    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=zh_TW)                                           |
 | Stream Together Host Guide                               | 27/10/2023, 2:19:34 pm    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=zh_TW)                                |
 | Stream Together Guest Guide                              | 27/10/2023, 0:18:03 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=zh_TW)                               |
@@ -47,7 +49,6 @@
 | Stream Display Ads                                       | 18/10/2023, 5:38:06 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=zh_TW)                                        |
 | Tips For Applying To The Partner Program                 | 18/10/2023, 2:36:06 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=zh_TW)                  |
 | Achievements                                             | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                              |
-| Dmca And Copyright Faqs                                  | 11/10/2023, 9:24:44 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=zh_TW)                                   |
 
 
 

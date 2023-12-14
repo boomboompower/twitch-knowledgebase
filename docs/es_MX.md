@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Guest Star Getting Started                               | 14/12/2023, 1:05:14 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es_MX)                                |
+| How To Use Squad Stream                                  | 14/12/2023, 0:59:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=es_MX)                                   |
+| Date Of Birth Changes                                    | 13/12/2023, 8:26:03 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                                     |
 | Emote Guidelines                                         | 09/12/2023, 1:02:59 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es_MX)                                          |
 | Animated Emotes                                          | 09/12/2023, 8:45:04 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=es_MX)                                           |
 | Setup Alerts By Twitch                                   | 09/12/2023, 7:25:19 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=es_MX)                                    |
@@ -37,7 +40,6 @@
 | Guest Star Faqs                                          | 26/10/2023, 11:56:13 pm   | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=es_MX)                                           |
 | Stream Together Guest Guide                              | 26/10/2023, 11:56:05 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=es_MX)                               |
 | Stream Together Host Guide                               | 26/10/2023, 11:53:05 pm   | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=es_MX)                                |
-| Guest Star Getting Started                               | 26/10/2023, 11:53:03 pm   | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es_MX)                                |
 | How To Use Automod                                       | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es_MX)                                        |
 | Joining The Affiliate Program                            | 25/10/2023, 2:24:40 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                             |
 | Guest Star Reporting                                     | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=es_MX)                                      |
@@ -47,8 +49,6 @@
 | Stream Display Ads                                       | 18/10/2023, 10:10:12 pm   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es_MX)                                        |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 18/10/2023, 10:10:03 pm   | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=es_MX)  |
 | Achievements                                             | 14/10/2023, 4:00:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=es_MX)                                              |
-| Dmca And Copyright Faqs                                  | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es_MX)                                   |
-| Watching Twitch On Android Devices                       | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=es_MX)                        |
 
 
 

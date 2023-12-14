@@ -4,11 +4,11 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
-|------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| How To Manage Harassment In Chat   | 23/11/2023, 8:05:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=nl_NL)    |
-| Partner Program Overview           | 04/11/2023, 5:11:35 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)            |
-| Watching Twitch On Android Devices | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=nl_NL)  |
+| Name                             | Last Updated (dd/mm/yyyy) | Link                                                                                      |
+|----------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| How To Use Squad Stream          | 14/12/2023, 0:59:45 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=nl_NL)           |
+| How To Manage Harassment In Chat | 23/11/2023, 8:05:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=nl_NL)  |
+| Partner Program Overview         | 04/11/2023, 5:11:35 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)          |
 
 
 

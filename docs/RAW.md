@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| content-classification-labels                                 | 14/12/2023, 6:01:01 am  | 09/12/2023, 4:02:28 pm  | [Details](#content-classification-labels)                                  |
+| content-classification-labels                                 | 14/12/2023, 8:23:04 pm  | 14/12/2023, 8:23:03 pm  | [Details](#content-classification-labels)                                  |
 | bonus-round                                                   | 14/12/2023, 5:01:28 am  | 02/12/2023, 2:17:52 pm  | [Details](#bonus-round)                                                    |
 | guest-star-getting-started                                    | 14/12/2023, 2:06:03 am  | 09/12/2023, 11:42:45 am | [Details](#guest-star-getting-started)                                     |
 | how-to-use-squad-stream                                       | 14/12/2023, 1:26:05 am  | 09/12/2023, 11:43:36 am | [Details](#how-to-use-squad-stream)                                        |
@@ -1306,11 +1306,11 @@ https://help.twitch.tv/s/article/content-classification-labels
 
 | Title                                      | Last Modified          | Created                 |
 |--------------------------------------------|------------------------|-------------------------|
+| Etykieta klasyfikacji treści               | 14/12/2023, 8:23:04 pm | 14/12/2023, 8:23:03 pm  |
+| Etichette di classificazione dei contenuti | 14/12/2023, 7:07:33 pm | 14/12/2023, 7:07:32 pm  |
 | Content Classification Labels              | 14/12/2023, 6:01:01 am | 09/12/2023, 4:02:28 pm  |
 | Descripteurs de classification du contenu  | 14/12/2023, 6:01:01 am | 14/12/2023, 6:00:59 am  |
-| Etichette di classificazione dei contenuti | 14/12/2023, 6:01:01 am | 14/12/2023, 6:00:59 am  |
 | Etiquetas de clasificación de contenido    | 14/12/2023, 6:01:01 am | 14/12/2023, 6:00:59 am  |
-| Etykieta klasyfikacji treści               | 14/12/2023, 6:01:01 am | 14/12/2023, 6:00:59 am  |
 | Inhaltskennzeichnungen                     | 14/12/2023, 6:01:01 am | 14/12/2023, 6:00:59 am  |
 | Etiquetas de clasificación de contenido    | 14/12/2023, 6:01:00 am | 13/12/2023, 1:14:33 am  |
 
