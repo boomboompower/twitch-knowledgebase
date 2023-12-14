@@ -7,6 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| content-classification-labels                                 | 14/12/2023, 6:01:01 am  | 09/12/2023, 4:02:28 pm  | [Details](#content-classification-labels)                                  |
+| bonus-round                                                   | 14/12/2023, 5:01:28 am  | 02/12/2023, 2:17:52 pm  | [Details](#bonus-round)                                                    |
+| guest-star-getting-started                                    | 14/12/2023, 2:06:03 am  | 09/12/2023, 11:42:45 am | [Details](#guest-star-getting-started)                                     |
+| how-to-use-squad-stream                                       | 14/12/2023, 1:26:05 am  | 09/12/2023, 11:43:36 am | [Details](#how-to-use-squad-stream)                                        |
 | date-of-birth-changes                                         | 13/12/2023, 10:48:33 pm | 02/12/2023, 10:05:22 am | [Details](#date-of-birth-changes)                                          |
 | how-to-contact-support                                        | 13/12/2023, 10:48:32 pm | 02/12/2023, 11:35:36 am | [Details](#how-to-contact-support)                                         |
 | stories                                                       | 13/12/2023, 7:52:06 pm  | 07/12/2023, 11:46:59 am | [Details](#stories)                                                        |
@@ -62,7 +66,6 @@ Language data is not included in the API. All page links will not have a languag
 | getting-started-twitch-studio                                 | 28/10/2023, 5:03:37 am  | 26/10/2023, 10:54:37 am | [Details](#getting-started-twitch-studio)                                  |
 | twitch-studio-mac-faq                                         | 28/10/2023, 4:27:08 am  | 28/10/2023, 4:27:05 am  | [Details](#twitch-studio-mac-faq)                                          |
 | leaderboards-guide                                            | 28/10/2023, 4:24:51 am  | 25/10/2023, 5:49:11 am  | [Details](#leaderboards-guide)                                             |
-| guest-star-getting-started                                    | 27/10/2023, 11:31:07 pm | 12/09/2023, 6:12:52 am  | [Details](#guest-star-getting-started)                                     |
 | stream-together-guest-guide                                   | 27/10/2023, 11:31:03 pm | 27/10/2023, 11:31:01 pm | [Details](#stream-together-guest-guide)                                    |
 | stream-together-host-guide                                    | 27/10/2023, 11:31:03 pm | 14/10/2023, 2:04:34 pm  | [Details](#stream-together-host-guide)                                     |
 | guest-star-faqs                                               | 27/10/2023, 0:52:35 am  | 14/10/2023, 2:01:47 pm  | [Details](#guest-star-faqs)                                                |
@@ -80,7 +83,6 @@ Language data is not included in the API. All page links will not have a languag
 | tips-for-applying-to-the-partner-program                      | 18/10/2023, 10:12:04 pm | 14/10/2023, 4:24:22 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
 | about-account-suspensions-dmca-suspensions-and-chat-bans      | 18/10/2023, 10:10:03 pm | 11/10/2023, 7:28:35 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | achievements                                                  | 14/10/2023, 4:00:21 am  | 08/08/2023, 11:56:27 pm | [Details](#achievements)                                                   |
-| content-classification-labels                                 | 12/10/2023, 8:35:39 pm  | 03/10/2023, 0:41:59 pm  | [Details](#content-classification-labels)                                  |
 | dmca-and-copyright-faqs                                       | 11/10/2023, 9:24:44 am  | 21/09/2023, 3:18:44 am  | [Details](#dmca-and-copyright-faqs)                                        |
 | watching-twitch-on-android-devices                            | 11/10/2023, 8:54:06 am  | 11/10/2023, 8:54:05 am  | [Details](#watching-twitch-on-android-devices)                             |
 | brand-surveys                                                 | 11/10/2023, 4:01:25 am  | 11/10/2023, 3:16:02 am  | [Details](#brand-surveys)                                                  |
@@ -216,7 +218,6 @@ Language data is not included in the API. All page links will not have a languag
 | cheering-experiment-2022                                      | 27/10/2022, 11:02:37 am | 27/10/2022, 11:02:24 am | [Details](#cheering-experiment-2022)                                       |
 | amazon-music                                                  | 26/10/2022, 8:48:55 pm  | 26/10/2022, 8:48:29 pm  | [Details](#amazon-music)                                                   |
 | how-to-contact-extension-developer                            | 26/10/2022, 7:44:01 am  | 26/10/2022, 7:43:31 am  | [Details](#how-to-contact-extension-developer)                             |
-| how-to-use-squad-stream                                       | 21/10/2022, 7:26:47 am  | 30/09/2022, 8:30:40 am  | [Details](#how-to-use-squad-stream)                                        |
 | earning-revenue-from-bits-in-extensions                       | 21/10/2022, 7:25:41 am  | 30/09/2022, 7:54:28 am  | [Details](#earning-revenue-from-bits-in-extensions)                        |
 | earning-revenue-from-bits-in-extensions-beta                  | 21/10/2022, 7:25:40 am  | 21/10/2022, 7:25:39 am  | [Details](#earning-revenue-from-bits-in-extensions-beta)                   |
 | supported-browsers                                            | 17/10/2022, 11:06:32 pm | 08/10/2022, 4:10:03 am  | [Details](#supported-browsers)                                             |
@@ -852,6 +853,20 @@ https://help.twitch.tv/s/article/bits-purchase-troubleshooting
 | Guía de solución de problemas de compra de Bits y preguntas frecuentes sobre errores de pago     | 22/10/2021, 8:53:50 am | 20/11/2019, 3:04:44 am  |
 
 
+### bonus-round
+https://help.twitch.tv/s/article/bonus-round
+
+| Title                             | Last Modified          | Created                 |
+|-----------------------------------|------------------------|-------------------------|
+| Bonus Round de fin d'année        | 14/12/2023, 5:01:28 am | 02/12/2023, 2:17:52 pm  |
+| Bonus Runde zum Jahresabschluss   | 14/12/2023, 5:01:28 am | 02/12/2023, 2:17:52 pm  |
+| Bônus Saideira                    | 14/12/2023, 5:01:28 am | 02/12/2023, 2:17:52 pm  |
+| El Round de Fin de Año            | 14/12/2023, 5:01:28 am | 02/12/2023, 2:17:52 pm  |
+| El Round de Fin de Año            | 14/12/2023, 5:01:28 am | 02/12/2023, 2:17:52 pm  |
+| End-of-Year Bonus Round           | 14/12/2023, 5:01:28 am | 29/11/2023, 2:18:42 am  |
+| Grudniowa dogrywka na koniec roku | 14/12/2023, 5:01:28 am | 02/12/2023, 2:17:52 pm  |
+
+
 ### bonus-sub-benefits
 https://help.twitch.tv/s/article/bonus-sub-benefits
 
@@ -1289,15 +1304,15 @@ https://help.twitch.tv/s/article/contacting-purchase-support
 ### content-classification-labels
 https://help.twitch.tv/s/article/content-classification-labels
 
-| Title                                      | Last Modified           | Created                  |
-|--------------------------------------------|-------------------------|--------------------------|
-| Etykieta klasyfikacji treści               | 12/10/2023, 8:35:39 pm  | 03/10/2023, 0:41:59 pm   |
-| Etiquetas de clasificación de contenido    | 12/10/2023, 6:57:36 pm  | 03/10/2023, 0:41:59 pm   |
-| Inhaltskennzeichnungen                     | 12/10/2023, 6:42:03 pm  | 03/10/2023, 0:41:59 pm   |
-| Etichette di classificazione dei contenuti | 12/10/2023, 6:15:34 pm  | 03/10/2023, 0:41:59 pm   |
-| Etiquetas de clasificación de contenido    | 11/10/2023, 11:39:08 pm | 03/10/2023, 0:41:59 pm   |
-| Descripteurs de classification du contenu  | 11/10/2023, 10:45:33 pm | 03/10/2023, 0:41:59 pm   |
-| Content Classification Labels              | 04/10/2023, 9:58:56 am  | 29/09/2023, 10:50:20 am  |
+| Title                                      | Last Modified          | Created                 |
+|--------------------------------------------|------------------------|-------------------------|
+| Content Classification Labels              | 14/12/2023, 6:01:01 am | 09/12/2023, 4:02:28 pm  |
+| Descripteurs de classification du contenu  | 14/12/2023, 6:01:01 am | 14/12/2023, 6:00:59 am  |
+| Etichette di classificazione dei contenuti | 14/12/2023, 6:01:01 am | 14/12/2023, 6:00:59 am  |
+| Etiquetas de clasificación de contenido    | 14/12/2023, 6:01:01 am | 14/12/2023, 6:00:59 am  |
+| Etykieta klasyfikacji treści               | 14/12/2023, 6:01:01 am | 14/12/2023, 6:00:59 am  |
+| Inhaltskennzeichnungen                     | 14/12/2023, 6:01:01 am | 14/12/2023, 6:00:59 am  |
+| Etiquetas de clasificación de contenido    | 14/12/2023, 6:01:00 am | 13/12/2023, 1:14:33 am  |
 
 
 ### copyrighted-audio-warnings
@@ -1972,13 +1987,13 @@ https://help.twitch.tv/s/article/guest-star-faqs
 ### guest-star-getting-started
 https://help.twitch.tv/s/article/guest-star-getting-started
 
-| Title                                | Last Modified           | Created                 |
-|--------------------------------------|-------------------------|-------------------------|
-| Empezar a usar Streamear juntos      | 27/10/2023, 11:31:07 pm | 12/09/2023, 6:12:52 am  |
-| Erste Schritte mit Stream Together   | 27/10/2023, 8:59:07 pm  | 12/09/2023, 6:12:53 am  |
-| Começando a usar o Streamando Juntos | 27/10/2023, 9:19:03 am  | 12/09/2023, 6:14:33 am  |
-| Introducción a Streamear juntos      | 26/10/2023, 11:53:03 pm | 12/09/2023, 6:12:24 am  |
-| Getting Started with Stream Together | 21/10/2023, 3:10:02 am  | 09/05/2023, 7:40:20 am  |
+| Title                                | Last Modified          | Created                  |
+|--------------------------------------|------------------------|--------------------------|
+| Erste Schritte mit Stream Together   | 14/12/2023, 2:06:03 am | 09/12/2023, 11:42:45 am  |
+| Começando a usar o Streamando Juntos | 14/12/2023, 1:05:14 am | 09/12/2023, 11:42:45 am  |
+| Introducción a Streamear juntos      | 14/12/2023, 1:05:14 am | 09/12/2023, 11:42:45 am  |
+| Empezar a usar Streamear juntos      | 14/12/2023, 1:05:13 am | 09/12/2023, 11:42:45 am  |
+| Getting Started with Stream Together | 14/12/2023, 1:05:13 am | 09/12/2023, 11:30:18 am  |
 
 
 ### guest-star-mod-view
@@ -2672,17 +2687,17 @@ https://help.twitch.tv/s/article/how-to-use-raids
 ### how-to-use-squad-stream
 https://help.twitch.tv/s/article/how-to-use-squad-stream
 
-| Title                                  | Last Modified          | Created                 |
-|----------------------------------------|------------------------|-------------------------|
-| Come utilizzare lo streaming di gruppo | 21/10/2022, 7:26:47 am | 30/09/2022, 8:30:40 am  |
-| Como usar o Squad Stream               | 21/10/2022, 7:26:47 am | 30/09/2022, 4:03:04 am  |
-| Ekip Yayını Kullanımı                  | 21/10/2022, 7:26:47 am | 30/09/2022, 8:30:40 am  |
-| Korzystanie z funkcji Squad Stream     | 21/10/2022, 7:26:47 am | 30/09/2022, 8:30:40 am  |
-| Comment utiliser Squad Stream          | 21/10/2022, 7:26:46 am | 30/09/2022, 8:30:40 am  |
-| Cómo usar el Stream Grupal             | 21/10/2022, 7:26:46 am | 30/09/2022, 8:30:40 am  |
-| Cómo usar el Stream grupal             | 21/10/2022, 7:26:46 am | 30/09/2022, 8:30:40 am  |
-| Hoe gebruik ik teamstream?             | 21/10/2022, 7:26:46 am | 21/10/2022, 7:26:45 am  |
-| How to Use Squad Stream                | 21/10/2022, 7:26:46 am | 27/09/2022, 9:00:22 am  |
+| Title                                  | Last Modified          | Created                  |
+|----------------------------------------|------------------------|--------------------------|
+| Comment utiliser Squad Stream          | 14/12/2023, 1:26:05 am | 09/12/2023, 11:43:36 am  |
+| Como usar o Squad Stream               | 14/12/2023, 0:59:47 am | 09/12/2023, 11:43:36 am  |
+| Ekip Yayını Kullanımı                  | 14/12/2023, 0:59:47 am | 09/12/2023, 11:43:36 am  |
+| Come utilizzare lo streaming di gruppo | 14/12/2023, 0:59:46 am | 09/12/2023, 11:43:36 am  |
+| Cómo usar el Stream Grupal             | 14/12/2023, 0:59:46 am | 09/12/2023, 11:43:36 am  |
+| Cómo usar el Stream grupal             | 14/12/2023, 0:59:46 am | 09/12/2023, 11:43:36 am  |
+| How to Use Squad Stream                | 14/12/2023, 0:59:46 am | 07/12/2023, 5:41:35 am   |
+| Korzystanie z funkcji Squad Stream     | 14/12/2023, 0:59:46 am | 09/12/2023, 11:43:36 am  |
+| Hoe gebruik ik teamstream?             | 14/12/2023, 0:59:45 am | 14/12/2023, 0:59:43 am   |
 
 
 ### how-to-use-the-friends-feature
@@ -3325,15 +3340,12 @@ https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide
 ### network-enforcement-act
 https://help.twitch.tv/s/article/network-enforcement-act
 
-| Title                                                                  | Last Modified           | Created                 |
-|------------------------------------------------------------------------|-------------------------|-------------------------|
-| Ley de Cumplimiento de las Normativas en las Redes Sociales («NetzDG») | 18/02/2022, 7:50:06 pm  | 18/02/2022, 7:50:04 pm  |
-| Legge tedesca per la tutela dei diritti sui social network ("NetzDG")  | 21/12/2021, 4:02:57 am  | 21/12/2021, 4:02:55 am  |
-| NetzDG                                                                 | 21/12/2021, 4:02:48 am  | 21/12/2021, 4:02:47 am  |
-| Ley de cumplimiento de la red ("NetzDG")                               | 21/12/2021, 4:02:44 am  | 21/12/2021, 4:02:43 am  |
-| Netzwerkdurchsetzungsgesetz („NetzDG“)                                 | 21/12/2021, 4:02:41 am  | 21/12/2021, 4:02:32 am  |
-| Loi sur les réseaux sociaux («NetzDG»)                                 | 21/12/2021, 4:02:29 am  | 21/12/2021, 4:02:28 am  |
-| Network Enforcement Act ("NetzDG")                                     | 30/09/2021, 11:26:49 am | 16/07/2021, 2:53:04 am  |
+| Title                                                                  | Last Modified          | Created                 |
+|------------------------------------------------------------------------|------------------------|-------------------------|
+| Ley de Cumplimiento de las Normativas en las Redes Sociales («NetzDG») | 18/02/2022, 7:50:06 pm | 18/02/2022, 7:50:04 pm  |
+| Legge tedesca per la tutela dei diritti sui social network ("NetzDG")  | 21/12/2021, 4:02:57 am | 21/12/2021, 4:02:55 am  |
+| Ley de cumplimiento de la red ("NetzDG")                               | 21/12/2021, 4:02:44 am | 21/12/2021, 4:02:43 am  |
+| Loi sur les réseaux sociaux («NetzDG»)                                 | 21/12/2021, 4:02:29 am | 21/12/2021, 4:02:28 am  |
 
 
 ### new-device-and-location-verification
@@ -3342,8 +3354,6 @@ https://help.twitch.tv/s/article/new-device-and-location-verification
 | Title                                         | Last Modified          | Created                 |
 |-----------------------------------------------|------------------------|-------------------------|
 | Dispositivo nuevo y verificación de ubicación | 03/08/2023, 9:28:41 pm | 26/07/2023, 9:59:50 am  |
-| Neue Geräte- und Ortsbestätigung              | 03/08/2023, 8:54:10 pm | 26/07/2023, 9:59:50 am  |
-| New Device and Location Verification          | 26/07/2023, 9:59:29 am | 26/07/2023, 9:59:14 am  |
 
 
 ### nintendo-switch
@@ -3366,7 +3376,6 @@ https://help.twitch.tv/s/article/not-receiving-sms
 |------------------------------------------------------------------------------|------------------------|-------------------------|
 | Kein Erhalt von SMS-Textnachrichten oder Zwei-Faktor-Authentifizierung-Codes | 03/08/2023, 8:54:06 pm | 03/08/2023, 8:54:05 pm  |
 | Kısa mesaj veya iki kademeli güvenlik kodu gelmiyor                          | 03/08/2023, 7:30:32 pm | 03/08/2023, 7:30:31 pm  |
-| Nie otrzymuję wiadomości SMS lub kodów do uwierzytelniania dwuskładnikowego  | 02/08/2023, 8:42:02 pm | 02/08/2023, 8:42:01 pm  |
 
 
 ### notifications-inbox
@@ -4319,7 +4328,6 @@ https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq
 |--------------------------------------------------------------------------|------------------------|-------------------------|
 | Apoio na Loja de Merchandise da Twitch - Perguntas Frequentes            | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Dokument FAQ sklepu z artykułami promocyjnymi Twitch                     | 22/10/2021, 8:53:51 am | 07/08/2020, 3:22:52 am  |
-| Nejčastější dotazy k podpoře pro obchod s reklamním zbožím z Twitche     | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Domande frequenti sull'assistenza agli acquisti del merchandising Twitch | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 | FAQ des produits dérivés Twitch                                          | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 
