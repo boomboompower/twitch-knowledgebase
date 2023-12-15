@@ -49,6 +49,7 @@
 | Stream Display Ads                                       | 18/10/2023, 5:38:06 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=zh_TW)                                        |
 | Tips For Applying To The Partner Program                 | 18/10/2023, 2:36:06 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=zh_TW)                  |
 | Achievements                                             | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                              |
+| Dmca And Copyright Faqs                                  | 11/10/2023, 9:24:44 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=zh_TW)                                   |
 
 
 

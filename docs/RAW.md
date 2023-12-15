@@ -7,6 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| hype-challenge                                                | 15/12/2023, 9:04:34 pm  | 15/12/2023, 9:04:33 pm  | [Details](#hype-challenge)                                                 |
+| bits-price-adjustment                                         | 15/12/2023, 9:04:33 pm  | 22/11/2023, 10:47:29 am | [Details](#bits-price-adjustment)                                          |
+| how-to-use-clips                                              | 15/12/2023, 9:04:21 pm  | 19/09/2023, 8:34:23 am  | [Details](#how-to-use-clips)                                               |
 | content-classification-labels                                 | 15/12/2023, 1:59:35 am  | 15/12/2023, 1:59:34 am  | [Details](#content-classification-labels)                                  |
 | bonus-round                                                   | 14/12/2023, 5:01:28 am  | 02/12/2023, 2:17:52 pm  | [Details](#bonus-round)                                                    |
 | guest-star-getting-started                                    | 14/12/2023, 2:06:03 am  | 09/12/2023, 11:42:45 am | [Details](#guest-star-getting-started)                                     |
@@ -38,12 +41,10 @@ Language data is not included in the API. All page links will not have a languag
 | simulcasting-guidelines                                       | 03/12/2023, 8:18:47 am  | 21/11/2023, 0:02:15 pm  | [Details](#simulcasting-guidelines)                                        |
 | channel-analytics                                             | 03/12/2023, 8:18:35 am  | 02/12/2023, 10:04:46 am | [Details](#channel-analytics)                                              |
 | affiliate-settings-guide                                      | 03/12/2023, 8:17:28 am  | 03/12/2023, 8:17:25 am  | [Details](#affiliate-settings-guide)                                       |
-| how-to-use-clips                                              | 02/12/2023, 7:52:25 am  | 22/11/2023, 10:40:23 am | [Details](#how-to-use-clips)                                               |
 | subscriber-badge-guide                                        | 30/11/2023, 11:48:37 pm | 23/11/2023, 1:30:56 am  | [Details](#subscriber-badge-guide)                                         |
 | guide-to-cheering-with-bits                                   | 30/11/2023, 11:48:33 pm | 21/11/2023, 1:03:29 pm  | [Details](#guide-to-cheering-with-bits)                                    |
 | partner-settings-guide                                        | 30/11/2023, 11:46:04 pm | 30/11/2023, 11:46:02 pm | [Details](#partner-settings-guide)                                         |
 | how-to-manage-harassment-in-chat                              | 23/11/2023, 8:05:31 am  | 23/11/2023, 8:05:03 am  | [Details](#how-to-manage-harassment-in-chat)                               |
-| bits-price-adjustment                                         | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am | [Details](#bits-price-adjustment)                                          |
 | how-to-use-emotes                                             | 21/11/2023, 10:19:19 am | 21/11/2023, 10:19:19 am | [Details](#how-to-use-emotes)                                              |
 | cheering-for-partners-affiliates                              | 16/11/2023, 0:43:32 am  | 16/11/2023, 0:43:31 am  | [Details](#cheering-for-partners-affiliates)                               |
 | hype-chat-for-streamers                                       | 15/11/2023, 7:09:07 pm  | 08/11/2023, 6:34:00 am  | [Details](#hype-chat-for-streamers)                                        |
@@ -77,7 +78,6 @@ Language data is not included in the API. All page links will not have a languag
 | guest-star-reporting                                          | 21/10/2023, 3:02:35 am  | 21/10/2023, 3:02:34 am  | [Details](#guest-star-reporting)                                           |
 | guest-star                                                    | 21/10/2023, 3:01:15 am  | 21/10/2023, 3:01:14 am  | [Details](#guest-star)                                                     |
 | mission-based-drops                                           | 19/10/2023, 3:00:54 am  | 30/09/2023, 4:42:18 am  | [Details](#mission-based-drops)                                            |
-| hype-challenge                                                | 19/10/2023, 1:47:02 am  | 19/10/2023, 1:47:01 am  | [Details](#hype-challenge)                                                 |
 | hype-train-guide                                              | 19/10/2023, 0:26:07 am  | 11/10/2023, 7:26:20 am  | [Details](#hype-train-guide)                                               |
 | stream-display-ads                                            | 19/10/2023, 0:25:33 am  | 11/10/2023, 7:24:50 am  | [Details](#stream-display-ads)                                             |
 | tips-for-applying-to-the-partner-program                      | 18/10/2023, 10:12:04 pm | 14/10/2023, 4:24:22 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
@@ -831,12 +831,12 @@ https://help.twitch.tv/s/article/bits-price-adjustment
 
 | Title                          | Last Modified           | Created                  |
 |--------------------------------|-------------------------|--------------------------|
+| Bit Fiyat Düzenlemesi          | 15/12/2023, 9:04:33 pm  | 22/11/2023, 10:47:29 am  |
 | Adeguamento del prezzo dei bit | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
 | Ajuste de precios de Bits      | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
 | Ajuste de preço dos Bits       | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
 | Ajuste del precio de los Bits  | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
 | Ajustement des prix des Bits   | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
-| Bit Fiyat Düzenlemesi          | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
 | Korekta ceny Bitsów            | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
 | Bits Price Adjustment          | 22/11/2023, 10:47:04 am | 22/11/2023, 10:46:50 am  |
 
@@ -2572,6 +2572,7 @@ https://help.twitch.tv/s/article/how-to-use-clips
 
 | Title                                                                | Last Modified          | Created                  |
 |----------------------------------------------------------------------|------------------------|--------------------------|
+| Klip oluşturma, düzenleme ve paylaşma                                | 15/12/2023, 9:04:21 pm | 19/09/2023, 8:34:23 am   |
 | How to Use Create, Edit, and Share Clips                             | 02/12/2023, 7:52:25 am | 22/11/2023, 10:40:23 am  |
 | Come usare, creare, modificare e condividere le clip                 | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
 | Comment créer, éditer et partager des clips                          | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
@@ -2579,7 +2580,6 @@ https://help.twitch.tv/s/article/how-to-use-clips
 | Cómo crear, editar y compartir clips                                 | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
 | Cómo crear, editar y compartir clips                                 | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
 | Jak tworzyć, edytować i udostępniać klipy oraz jak z nich korzystać? | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
-| Klip oluşturma, düzenleme ve paylaşma                                | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:23 am   |
 
 
 ### how-to-use-collections
@@ -2749,8 +2749,8 @@ https://help.twitch.tv/s/article/hype-challenge
 
 | Title                                | Last Modified          | Created                  |
 |--------------------------------------|------------------------|--------------------------|
+| Hype Challenge Amerika'da            | 15/12/2023, 9:04:34 pm | 15/12/2023, 9:04:33 pm   |
 | Hype Challenge ในสหรัฐฯ              | 19/10/2023, 1:47:02 am | 19/10/2023, 1:47:01 am   |
-| Hype Challenge Amerika'da            | 19/10/2023, 1:07:22 am | 04/10/2023, 9:19:03 am   |
 | Hype Challenge aux États-Unis        | 19/10/2023, 1:07:22 am | 04/10/2023, 9:19:03 am   |
 | Hype Challenge en EE.UU.             | 19/10/2023, 1:07:22 am | 04/10/2023, 9:19:03 am   |
 | Hype Challenge en los Estados Unidos | 19/10/2023, 1:07:22 am | 04/10/2023, 9:19:03 am   |

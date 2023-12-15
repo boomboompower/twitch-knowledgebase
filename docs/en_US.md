@@ -46,6 +46,7 @@
 | Joining The Affiliate Program            | 17/10/2023, 3:50:24 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=en_US)             |
 | Tips For Applying To The Partner Program | 14/10/2023, 4:19:20 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)  |
 | Achievements                             | 14/10/2023, 4:00:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                              |
+| Dmca And Copyright Faqs                  | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=en_US)                   |
 
 
 

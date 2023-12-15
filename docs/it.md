@@ -49,6 +49,7 @@
 | About Account Suspensions Dmca Suspensions And Chat Bans | 18/10/2023, 6:57:03 pm    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=it)  |
 | Tips For Applying To The Partner Program                 | 18/10/2023, 6:47:04 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=it)                  |
 | Achievements                                             | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=it)                                              |
+| Dmca And Copyright Faqs                                  | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=it)                                   |
 
 
 
