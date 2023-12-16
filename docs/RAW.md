@@ -7,13 +7,15 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| partner-onboarding-guide                                      | 16/12/2023, 0:26:48 pm  | 16/12/2023, 0:26:48 pm  | [Details](#partner-onboarding-guide)                                       |
+| how-to-use-squad-stream                                       | 16/12/2023, 0:02:28 pm  | 16/12/2023, 0:02:27 pm  | [Details](#how-to-use-squad-stream)                                        |
+| how-to-use-badges                                             | 16/12/2023, 11:55:09 am | 21/11/2023, 11:48:10 am | [Details](#how-to-use-badges)                                              |
 | hype-challenge                                                | 15/12/2023, 9:04:34 pm  | 15/12/2023, 9:04:33 pm  | [Details](#hype-challenge)                                                 |
 | bits-price-adjustment                                         | 15/12/2023, 9:04:33 pm  | 22/11/2023, 10:47:29 am | [Details](#bits-price-adjustment)                                          |
 | how-to-use-clips                                              | 15/12/2023, 9:04:21 pm  | 19/09/2023, 8:34:23 am  | [Details](#how-to-use-clips)                                               |
 | content-classification-labels                                 | 15/12/2023, 1:59:35 am  | 15/12/2023, 1:59:34 am  | [Details](#content-classification-labels)                                  |
 | bonus-round                                                   | 14/12/2023, 5:01:28 am  | 02/12/2023, 2:17:52 pm  | [Details](#bonus-round)                                                    |
 | guest-star-getting-started                                    | 14/12/2023, 2:06:03 am  | 09/12/2023, 11:42:45 am | [Details](#guest-star-getting-started)                                     |
-| how-to-use-squad-stream                                       | 14/12/2023, 1:26:05 am  | 09/12/2023, 11:43:36 am | [Details](#how-to-use-squad-stream)                                        |
 | date-of-birth-changes                                         | 13/12/2023, 10:48:33 pm | 02/12/2023, 10:05:22 am | [Details](#date-of-birth-changes)                                          |
 | how-to-contact-support                                        | 13/12/2023, 10:48:32 pm | 02/12/2023, 11:35:36 am | [Details](#how-to-contact-support)                                         |
 | stories                                                       | 13/12/2023, 7:52:06 pm  | 07/12/2023, 11:46:59 am | [Details](#stories)                                                        |
@@ -23,7 +25,6 @@ Language data is not included in the API. All page links will not have a languag
 | animated-emotes                                               | 09/12/2023, 8:45:36 am  | 09/12/2023, 8:44:38 am  | [Details](#animated-emotes)                                                |
 | setup-alerts-by-twitch                                        | 09/12/2023, 7:25:20 am  | 26/07/2023, 4:12:35 am  | [Details](#setup-alerts-by-twitch)                                         |
 | emote-slots                                                   | 09/12/2023, 7:24:48 am  | 09/12/2023, 7:05:42 am  | [Details](#emote-slots)                                                    |
-| partner-onboarding-guide                                      | 08/12/2023, 4:58:56 am  | 08/12/2023, 4:58:55 am  | [Details](#partner-onboarding-guide)                                       |
 | first-steps-for-new-affiliates                                | 07/12/2023, 11:01:38 pm | 07/12/2023, 11:01:36 pm | [Details](#first-steps-for-new-affiliates)                                 |
 | discovery-feed                                                | 07/12/2023, 11:01:18 pm | 07/12/2023, 11:01:17 pm | [Details](#discovery-feed)                                                 |
 | experiments                                                   | 07/12/2023, 9:44:02 pm  | 26/10/2023, 10:24:38 am | [Details](#experiments)                                                    |
@@ -50,7 +51,6 @@ Language data is not included in the API. All page links will not have a languag
 | hype-chat-for-streamers                                       | 15/11/2023, 7:09:07 pm  | 08/11/2023, 6:34:00 am  | [Details](#hype-chat-for-streamers)                                        |
 | hype-chat-by-twitch                                           | 15/11/2023, 7:09:02 pm  | 08/11/2023, 6:33:40 am  | [Details](#hype-chat-by-twitch)                                            |
 | sponsorship-experiments-faq                                   | 14/11/2023, 4:34:05 am  | 04/10/2023, 0:17:21 pm  | [Details](#sponsorship-experiments-faq)                                    |
-| how-to-use-badges                                             | 14/11/2023, 3:59:33 am  | 02/11/2023, 1:22:13 pm  | [Details](#how-to-use-badges)                                              |
 | nintendo-switch                                               | 10/11/2023, 10:52:32 pm | 31/10/2023, 8:41:40 am  | [Details](#nintendo-switch)                                                |
 | partner-program-overview                                      | 10/11/2023, 10:47:36 pm | 10/11/2023, 10:47:35 pm | [Details](#partner-program-overview)                                       |
 | hype-chat-pricing-by-country                                  | 10/11/2023, 10:47:34 pm | 08/11/2023, 6:34:25 am  | [Details](#hype-chat-pricing-by-country)                                   |
@@ -2556,15 +2556,15 @@ https://help.twitch.tv/s/article/how-to-use-automod
 ### how-to-use-badges
 https://help.twitch.tv/s/article/how-to-use-badges
 
-| Title                        | Last Modified          | Created                  |
-|------------------------------|------------------------|--------------------------|
-| Come usare gli stemmi        | 14/11/2023, 3:59:33 am | 02/11/2023, 1:22:13 pm   |
-| Comment utiliser les badges? | 14/11/2023, 3:59:33 am | 02/11/2023, 1:22:13 pm   |
-| Como usar distintivos        | 14/11/2023, 3:59:33 am | 02/11/2023, 1:22:13 pm   |
-| Cómo usar emblemas           | 14/11/2023, 3:59:33 am | 02/11/2023, 1:22:13 pm   |
-| Cómo usar emblemas           | 14/11/2023, 3:59:33 am | 02/11/2023, 1:22:13 pm   |
-| How to Use Badges            | 14/11/2023, 3:59:33 am | 28/10/2023, 10:21:41 am  |
-| Jak używać odznak?           | 14/11/2023, 3:59:33 am | 02/11/2023, 1:22:13 pm   |
+| Title                        | Last Modified           | Created                  |
+|------------------------------|-------------------------|--------------------------|
+| Come usare gli stemmi        | 16/12/2023, 11:55:09 am | 21/11/2023, 11:48:10 am  |
+| Comment utiliser les badges? | 16/12/2023, 11:55:09 am | 21/11/2023, 11:48:10 am  |
+| Como usar distintivos        | 16/12/2023, 11:55:09 am | 21/11/2023, 11:48:10 am  |
+| Cómo usar emblemas           | 16/12/2023, 11:55:09 am | 21/11/2023, 11:48:10 am  |
+| Cómo usar emblemas           | 16/12/2023, 11:55:09 am | 21/11/2023, 11:48:10 am  |
+| How to Use Badges            | 16/12/2023, 11:55:09 am | 21/11/2023, 11:46:44 am  |
+| Jak używać odznak?           | 16/12/2023, 11:55:09 am | 21/11/2023, 11:48:10 am  |
 
 
 ### how-to-use-clips
@@ -2687,17 +2687,17 @@ https://help.twitch.tv/s/article/how-to-use-raids
 ### how-to-use-squad-stream
 https://help.twitch.tv/s/article/how-to-use-squad-stream
 
-| Title                                  | Last Modified          | Created                  |
-|----------------------------------------|------------------------|--------------------------|
-| Comment utiliser Squad Stream          | 14/12/2023, 1:26:05 am | 09/12/2023, 11:43:36 am  |
-| Como usar o Squad Stream               | 14/12/2023, 0:59:47 am | 09/12/2023, 11:43:36 am  |
-| Ekip Yayını Kullanımı                  | 14/12/2023, 0:59:47 am | 09/12/2023, 11:43:36 am  |
-| Come utilizzare lo streaming di gruppo | 14/12/2023, 0:59:46 am | 09/12/2023, 11:43:36 am  |
-| Cómo usar el Stream Grupal             | 14/12/2023, 0:59:46 am | 09/12/2023, 11:43:36 am  |
-| Cómo usar el Stream grupal             | 14/12/2023, 0:59:46 am | 09/12/2023, 11:43:36 am  |
-| How to Use Squad Stream                | 14/12/2023, 0:59:46 am | 07/12/2023, 5:41:35 am   |
-| Korzystanie z funkcji Squad Stream     | 14/12/2023, 0:59:46 am | 09/12/2023, 11:43:36 am  |
-| Hoe gebruik ik teamstream?             | 14/12/2023, 0:59:45 am | 14/12/2023, 0:59:43 am   |
+| Title                                  | Last Modified          | Created                 |
+|----------------------------------------|------------------------|-------------------------|
+| Come utilizzare lo streaming di gruppo | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
+| Comment utiliser Squad Stream          | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
+| Como usar o Squad Stream               | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
+| Cómo usar el Stream Grupal             | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
+| Cómo usar el Stream grupal             | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
+| Ekip Yayını Kullanımı                  | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
+| Hoe gebruik ik teamstream?             | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
+| How to Use Squad Stream                | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:13 pm  |
+| Korzystanie z funkcji Squad Stream     | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
 
 
 ### how-to-use-the-friends-feature
@@ -3448,12 +3448,12 @@ https://help.twitch.tv/s/article/partner-onboarding-guide
 
 | Title                                           | Last Modified          | Created                 |
 |-------------------------------------------------|------------------------|-------------------------|
-| Guia de Integração de Parceiros                 | 08/12/2023, 4:58:56 am | 08/12/2023, 4:58:55 am  |
-| Guida alla registrazione partner                | 08/12/2023, 4:58:56 am | 08/12/2023, 4:58:55 am  |
-| Guide d'intégration au programme de partenariat | 08/12/2023, 4:58:56 am | 08/12/2023, 4:58:55 am  |
-| Guía de incorporación de partners               | 08/12/2023, 4:58:56 am | 08/12/2023, 4:58:55 am  |
-| Guía de incorporación de socios                 | 08/12/2023, 4:58:56 am | 08/12/2023, 4:58:55 am  |
-| Leitfaden zum Partner-Onboarding                | 08/12/2023, 4:58:56 am | 08/12/2023, 4:58:55 am  |
+| Guia de Integração de Parceiros                 | 16/12/2023, 0:26:48 pm | 16/12/2023, 0:26:48 pm  |
+| Guida alla registrazione partner                | 16/12/2023, 0:26:48 pm | 16/12/2023, 0:26:48 pm  |
+| Guide d'intégration au programme de partenariat | 16/12/2023, 0:26:48 pm | 16/12/2023, 0:26:48 pm  |
+| Guía de incorporación de partners               | 16/12/2023, 0:26:48 pm | 16/12/2023, 0:26:48 pm  |
+| Guía de incorporación de socios                 | 16/12/2023, 0:26:48 pm | 16/12/2023, 0:26:48 pm  |
+| Leitfaden zum Partner-Onboarding                | 16/12/2023, 0:26:48 pm | 16/12/2023, 0:26:48 pm  |
 
 
 ### partner-plus-abuse

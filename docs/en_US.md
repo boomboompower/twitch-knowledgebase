@@ -6,8 +6,8 @@
 
 | Name                                     | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| How To Use Squad Stream                  | 16/12/2023, 0:02:28 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=en_US)                   |
 | Guest Star Getting Started               | 14/12/2023, 1:05:13 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=en_US)                |
-| How To Use Squad Stream                  | 14/12/2023, 0:59:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=en_US)                   |
 | Animated Emotes                          | 09/12/2023, 8:45:36 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=en_US)                           |
 | Setup Alerts By Twitch                   | 09/12/2023, 7:25:19 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=en_US)                    |
 | Emote Guidelines                         | 09/12/2023, 7:24:59 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=en_US)                          |
