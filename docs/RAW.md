@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| annual-recap                                                  | 17/12/2023, 11:02:07 pm | 17/12/2023, 11:02:05 pm | [Details](#annual-recap)                                                   |
 | partner-onboarding-guide                                      | 16/12/2023, 0:26:48 pm  | 16/12/2023, 0:26:48 pm  | [Details](#partner-onboarding-guide)                                       |
 | how-to-use-squad-stream                                       | 16/12/2023, 0:02:28 pm  | 16/12/2023, 0:02:27 pm  | [Details](#how-to-use-squad-stream)                                        |
 | how-to-use-badges                                             | 16/12/2023, 11:55:09 am | 21/11/2023, 11:48:10 am | [Details](#how-to-use-badges)                                              |
@@ -19,7 +20,6 @@ Language data is not included in the API. All page links will not have a languag
 | date-of-birth-changes                                         | 13/12/2023, 10:48:33 pm | 02/12/2023, 10:05:22 am | [Details](#date-of-birth-changes)                                          |
 | how-to-contact-support                                        | 13/12/2023, 10:48:32 pm | 02/12/2023, 11:35:36 am | [Details](#how-to-contact-support)                                         |
 | stories                                                       | 13/12/2023, 7:52:06 pm  | 07/12/2023, 11:46:59 am | [Details](#stories)                                                        |
-| annual-recap                                                  | 13/12/2023, 11:20:24 am | 13/12/2023, 11:20:09 am | [Details](#annual-recap)                                                   |
 | streamer-read-ads                                             | 11/12/2023, 3:26:46 pm  | 11/12/2023, 3:26:44 pm  | [Details](#streamer-read-ads)                                              |
 | emote-guidelines                                              | 09/12/2023, 1:03:09 pm  | 09/12/2023, 8:51:31 am  | [Details](#emote-guidelines)                                               |
 | animated-emotes                                               | 09/12/2023, 8:45:36 am  | 09/12/2023, 8:44:38 am  | [Details](#animated-emotes)                                                |
@@ -737,11 +737,11 @@ https://help.twitch.tv/s/article/annual-recap
 
 | Title              | Last Modified           | Created                  |
 |--------------------|-------------------------|--------------------------|
+| 2023年Twitch Recap  | 17/12/2023, 11:02:07 pm | 17/12/2023, 11:02:05 pm  |
+| 2023년 Twitch Recap | 17/12/2023, 11:02:04 pm | 17/12/2023, 11:02:00 pm  |
+| 2023 年度的 Twitch 回顧 | 17/12/2023, 11:01:52 pm | 17/12/2023, 11:01:51 pm  |
+| 2023 Twitch Özeti  | 17/12/2023, 11:01:40 pm | 17/12/2023, 11:01:32 pm  |
 | 2023 Twitch Recap  | 13/12/2023, 11:20:24 am | 13/12/2023, 11:20:09 am  |
-| 2023 Twitch Özeti  | 13/12/2023, 11:20:24 am | 13/12/2023, 11:20:24 am  |
-| 2023 年度的 Twitch 回顧 | 13/12/2023, 11:20:24 am | 13/12/2023, 11:20:24 am  |
-| 2023年Twitch Recap  | 13/12/2023, 11:20:24 am | 13/12/2023, 11:20:23 am  |
-| 2023년 Twitch Recap | 13/12/2023, 11:20:24 am | 13/12/2023, 11:20:23 am  |
 
 
 ### appleshareplay
