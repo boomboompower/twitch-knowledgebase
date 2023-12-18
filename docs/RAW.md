@@ -7,11 +7,11 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| hype-challenge                                                | 18/12/2023, 9:49:43 pm  | 18/12/2023, 9:49:42 pm  | [Details](#hype-challenge)                                                 |
 | annual-recap                                                  | 17/12/2023, 11:02:07 pm | 17/12/2023, 11:02:05 pm | [Details](#annual-recap)                                                   |
 | partner-onboarding-guide                                      | 16/12/2023, 0:26:48 pm  | 16/12/2023, 0:26:48 pm  | [Details](#partner-onboarding-guide)                                       |
 | how-to-use-squad-stream                                       | 16/12/2023, 0:02:28 pm  | 16/12/2023, 0:02:27 pm  | [Details](#how-to-use-squad-stream)                                        |
 | how-to-use-badges                                             | 16/12/2023, 11:55:09 am | 21/11/2023, 11:48:10 am | [Details](#how-to-use-badges)                                              |
-| hype-challenge                                                | 15/12/2023, 9:04:34 pm  | 15/12/2023, 9:04:33 pm  | [Details](#hype-challenge)                                                 |
 | bits-price-adjustment                                         | 15/12/2023, 9:04:33 pm  | 22/11/2023, 10:47:29 am | [Details](#bits-price-adjustment)                                          |
 | how-to-use-clips                                              | 15/12/2023, 9:04:21 pm  | 19/09/2023, 8:34:23 am  | [Details](#how-to-use-clips)                                               |
 | content-classification-labels                                 | 15/12/2023, 1:59:35 am  | 15/12/2023, 1:59:34 am  | [Details](#content-classification-labels)                                  |
@@ -2749,8 +2749,8 @@ https://help.twitch.tv/s/article/hype-challenge
 
 | Title                                | Last Modified          | Created                  |
 |--------------------------------------|------------------------|--------------------------|
+| Hype Challenge ในสหรัฐฯ              | 18/12/2023, 9:49:43 pm | 18/12/2023, 9:49:42 pm   |
 | Hype Challenge Amerika'da            | 15/12/2023, 9:04:34 pm | 15/12/2023, 9:04:33 pm   |
-| Hype Challenge ในสหรัฐฯ              | 19/10/2023, 1:47:02 am | 19/10/2023, 1:47:01 am   |
 | Hype Challenge aux États-Unis        | 19/10/2023, 1:07:22 am | 04/10/2023, 9:19:03 am   |
 | Hype Challenge en EE.UU.             | 19/10/2023, 1:07:22 am | 04/10/2023, 9:19:03 am   |
 | Hype Challenge en los Estados Unidos | 19/10/2023, 1:07:22 am | 04/10/2023, 9:19:03 am   |
