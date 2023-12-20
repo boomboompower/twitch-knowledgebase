@@ -49,7 +49,6 @@
 | Stream Display Ads                                       | 16/10/2023, 7:11:34 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=tr)                                        |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 16/10/2023, 7:11:34 pm    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=tr)  |
 | Achievements                                             | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=tr)                                              |
-| Dmca And Copyright Faqs                                  | 11/10/2023, 9:24:44 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=tr)                                   |
 
 
 

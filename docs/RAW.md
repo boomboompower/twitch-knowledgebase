@@ -7,15 +7,15 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| how-to-use-clips                                              | 20/12/2023, 3:24:36 am  | 19/09/2023, 8:34:23 am  | [Details](#how-to-use-clips)                                               |
-| hype-challenge                                                | 20/12/2023, 3:24:35 am  | 20/12/2023, 3:24:34 am  | [Details](#hype-challenge)                                                 |
-| how-to-manage-harassment-in-chat                              | 20/12/2023, 3:24:33 am  | 23/11/2023, 8:05:51 am  | [Details](#how-to-manage-harassment-in-chat)                               |
-| experiments                                                   | 20/12/2023, 3:24:27 am  | 26/10/2023, 10:24:38 am | [Details](#experiments)                                                    |
-| partner-onboarding-guide                                      | 20/12/2023, 3:24:24 am  | 09/12/2023, 8:50:18 am  | [Details](#partner-onboarding-guide)                                       |
-| setup-alerts-by-twitch                                        | 20/12/2023, 3:24:17 am  | 20/12/2023, 3:24:15 am  | [Details](#setup-alerts-by-twitch)                                         |
-| bits-price-adjustment                                         | 20/12/2023, 3:24:11 am  | 22/11/2023, 10:47:29 am | [Details](#bits-price-adjustment)                                          |
-| twitch-affiliate-program-faq                                  | 19/12/2023, 11:33:19 pm | 09/12/2023, 8:50:37 am  | [Details](#twitch-affiliate-program-faq)                                   |
-| emote-slots                                                   | 19/12/2023, 11:33:13 pm | 09/12/2023, 8:51:52 am  | [Details](#emote-slots)                                                    |
+| how-to-use-clips                                              | 20/12/2023, 9:21:59 pm  | 19/09/2023, 8:34:23 am  | [Details](#how-to-use-clips)                                               |
+| bits-price-adjustment                                         | 20/12/2023, 9:21:57 pm  | 22/11/2023, 10:47:29 am | [Details](#bits-price-adjustment)                                          |
+| how-to-manage-harassment-in-chat                              | 20/12/2023, 9:21:53 pm  | 23/11/2023, 8:05:51 am  | [Details](#how-to-manage-harassment-in-chat)                               |
+| experiments                                                   | 20/12/2023, 9:21:39 pm  | 20/12/2023, 9:21:38 pm  | [Details](#experiments)                                                    |
+| setup-alerts-by-twitch                                        | 20/12/2023, 9:21:37 pm  | 20/12/2023, 9:21:35 pm  | [Details](#setup-alerts-by-twitch)                                         |
+| partner-onboarding-guide                                      | 20/12/2023, 9:21:34 pm  | 09/12/2023, 8:50:18 am  | [Details](#partner-onboarding-guide)                                       |
+| hype-challenge                                                | 20/12/2023, 9:21:34 pm  | 20/12/2023, 9:21:33 pm  | [Details](#hype-challenge)                                                 |
+| twitch-affiliate-program-faq                                  | 20/12/2023, 8:58:57 pm  | 09/12/2023, 8:50:37 am  | [Details](#twitch-affiliate-program-faq)                                   |
+| emote-slots                                                   | 20/12/2023, 1:04:46 pm  | 09/12/2023, 8:51:52 am  | [Details](#emote-slots)                                                    |
 | annual-recap                                                  | 17/12/2023, 11:02:07 pm | 17/12/2023, 11:02:05 pm | [Details](#annual-recap)                                                   |
 | how-to-use-squad-stream                                       | 16/12/2023, 0:02:28 pm  | 16/12/2023, 0:02:27 pm  | [Details](#how-to-use-squad-stream)                                        |
 | how-to-use-badges                                             | 16/12/2023, 11:55:09 am | 21/11/2023, 11:48:10 am | [Details](#how-to-use-badges)                                              |
@@ -831,11 +831,11 @@ https://help.twitch.tv/s/article/bits-price-adjustment
 
 | Title                          | Last Modified           | Created                  |
 |--------------------------------|-------------------------|--------------------------|
+| Ajuste del precio de los Bits  | 20/12/2023, 9:21:57 pm  | 22/11/2023, 10:47:29 am  |
+| Adeguamento del prezzo dei bit | 20/12/2023, 8:58:59 pm  | 22/11/2023, 10:47:29 am  |
+| Ajuste de preço dos Bits       | 20/12/2023, 1:04:52 pm  | 22/11/2023, 10:47:29 am  |
 | Ajuste de precios de Bits      | 20/12/2023, 3:24:11 am  | 22/11/2023, 10:47:29 am  |
 | Bit Fiyat Düzenlemesi          | 15/12/2023, 9:04:33 pm  | 22/11/2023, 10:47:29 am  |
-| Adeguamento del prezzo dei bit | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
-| Ajuste de preço dos Bits       | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
-| Ajuste del precio de los Bits  | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
 | Ajustement des prix des Bits   | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
 | Korekta ceny Bitsów            | 22/11/2023, 10:47:05 am | 22/11/2023, 10:47:04 am  |
 | Bits Price Adjustment          | 22/11/2023, 10:47:04 am | 22/11/2023, 10:46:50 am  |
@@ -1650,10 +1650,10 @@ https://help.twitch.tv/s/article/emote-slots
 
 | Title                     | Last Modified           | Created                 |
 |---------------------------|-------------------------|-------------------------|
+| Espaços de emote          | 20/12/2023, 1:04:46 pm  | 09/12/2023, 8:51:52 am  |
 | Emote-Slots               | 19/12/2023, 11:33:13 pm | 09/12/2023, 8:51:52 am  |
 | Emote Slots               | 09/12/2023, 7:24:48 am  | 09/12/2023, 7:05:42 am  |
 | Emplacements d’émoticônes | 09/12/2023, 7:24:48 am  | 09/12/2023, 7:24:47 am  |
-| Espaços de emote          | 09/12/2023, 7:24:48 am  | 09/12/2023, 7:24:47 am  |
 | Miejsca na emotki         | 09/12/2023, 7:24:48 am  | 09/12/2023, 7:24:47 am  |
 
 
@@ -1677,11 +1677,11 @@ https://help.twitch.tv/s/article/experiments
 
 | Title                          | Last Modified          | Created                  |
 |--------------------------------|------------------------|--------------------------|
+| Experimentos de Twitch         | 20/12/2023, 9:21:39 pm | 20/12/2023, 9:21:38 pm   |
+| Gli esperimenti di Twitch      | 20/12/2023, 8:58:48 pm | 20/12/2023, 8:58:47 pm   |
+| Experimentos da Twitch         | 20/12/2023, 1:04:41 pm | 20/12/2023, 1:04:39 pm   |
 | Experimentos de Twitch         | 20/12/2023, 3:24:27 am | 26/10/2023, 10:24:38 am  |
-| Experimentos da Twitch         | 07/12/2023, 9:44:02 pm | 26/10/2023, 10:24:38 am  |
 | Eksperymenty w serwisie Twitch | 07/12/2023, 9:31:03 pm | 26/10/2023, 10:24:38 am  |
-| Experimentos de Twitch         | 07/12/2023, 9:26:33 pm | 26/10/2023, 10:24:38 am  |
-| Gli esperimenti di Twitch      | 07/12/2023, 7:11:12 pm | 26/10/2023, 10:24:38 am  |
 | Expériences Twitch             | 06/12/2023, 3:15:51 am | 06/12/2023, 3:15:50 am   |
 
 
@@ -2435,12 +2435,12 @@ https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat
 
 | Title                                       | Last Modified          | Created                 |
 |---------------------------------------------|------------------------|-------------------------|
+| Cómo gestionar el acoso en un chat          | 20/12/2023, 9:21:53 pm | 23/11/2023, 8:05:51 am  |
+| Come gestire le molestie in chat            | 20/12/2023, 8:58:53 pm | 23/11/2023, 8:05:51 am  |
+| Como gerenciar assédio no chat              | 20/12/2023, 1:04:58 pm | 23/11/2023, 8:05:51 am  |
 | Cómo gestionar el acoso en un chat          | 20/12/2023, 3:24:33 am | 23/11/2023, 8:05:51 am  |
 | How to Manage Harassment in Chat            | 23/11/2023, 8:05:31 am | 23/11/2023, 8:05:03 am  |
-| Come gestire le molestie in chat            | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
-| Como gerenciar assédio no chat              | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
 | Como lidar com o assédio no chat            | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
-| Cómo gestionar el acoso en un chat          | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
 | Gérer le harcèlement dans le chat           | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
 | Hogyan kezeld a chat közbeni zaklatást?     | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
 | Hur man hanterar trakasserier i chatten     | 23/11/2023, 8:05:30 am | 23/11/2023, 8:05:29 am  |
@@ -2572,13 +2572,13 @@ https://help.twitch.tv/s/article/how-to-use-clips
 
 | Title                                                                | Last Modified          | Created                  |
 |----------------------------------------------------------------------|------------------------|--------------------------|
+| Cómo crear, editar y compartir clips                                 | 20/12/2023, 9:21:59 pm | 19/09/2023, 8:34:23 am   |
+| Come usare, creare, modificare e condividere le clip                 | 20/12/2023, 8:58:33 pm | 19/09/2023, 8:34:23 am   |
+| Como usar, criar, editar e compartilhar clipes                       | 20/12/2023, 1:04:42 pm | 19/09/2023, 8:34:23 am   |
 | Cómo crear, editar y compartir clips                                 | 20/12/2023, 3:24:36 am | 19/09/2023, 8:34:23 am   |
 | Klip oluşturma, düzenleme ve paylaşma                                | 15/12/2023, 9:04:21 pm | 19/09/2023, 8:34:23 am   |
 | How to Use Create, Edit, and Share Clips                             | 02/12/2023, 7:52:25 am | 22/11/2023, 10:40:23 am  |
-| Come usare, creare, modificare e condividere le clip                 | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
 | Comment créer, éditer et partager des clips                          | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
-| Como usar, criar, editar e compartilhar clipes                       | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
-| Cómo crear, editar y compartir clips                                 | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
 | Jak tworzyć, edytować i udostępniać klipy oraz jak z nich korzystać? | 02/12/2023, 7:52:24 am | 02/12/2023, 7:52:22 am   |
 
 
@@ -2749,15 +2749,15 @@ https://help.twitch.tv/s/article/hype-challenge
 
 | Title                                | Last Modified           | Created                  |
 |--------------------------------------|-------------------------|--------------------------|
+| Hype Challenge en EE.UU.             | 20/12/2023, 9:21:34 pm  | 20/12/2023, 9:21:33 pm   |
+| Hype Challenge negli Stati Uniti     | 20/12/2023, 8:58:35 pm  | 20/12/2023, 8:58:34 pm   |
+| Hype Challenge nos EUA               | 20/12/2023, 1:04:58 pm  | 20/12/2023, 1:04:57 pm   |
 | Hype Challenge en los Estados Unidos | 20/12/2023, 3:24:35 am  | 20/12/2023, 3:24:34 am   |
 | Hype Challenge in den USA            | 19/12/2023, 11:33:27 pm | 19/12/2023, 11:33:26 pm  |
 | Hype Challenge ในสหรัฐฯ              | 18/12/2023, 9:49:43 pm  | 18/12/2023, 9:49:42 pm   |
 | Hype Challenge Amerika'da            | 15/12/2023, 9:04:34 pm  | 15/12/2023, 9:04:33 pm   |
 | Hype Challenge aux États-Unis        | 19/10/2023, 1:07:22 am  | 04/10/2023, 9:19:03 am   |
-| Hype Challenge en EE.UU.             | 19/10/2023, 1:07:22 am  | 04/10/2023, 9:19:03 am   |
 | Hype Challenge in the US             | 19/10/2023, 1:07:22 am  | 30/09/2023, 10:00:20 am  |
-| Hype Challenge negli Stati Uniti     | 19/10/2023, 1:07:22 am  | 04/10/2023, 9:19:03 am   |
-| Hype Challenge nos EUA               | 19/10/2023, 1:07:22 am  | 04/10/2023, 9:19:03 am   |
 | Hype Challenge w USA                 | 19/10/2023, 1:07:22 am  | 04/10/2023, 9:19:03 am   |
 
 
@@ -3448,12 +3448,12 @@ https://help.twitch.tv/s/article/partner-onboarding-guide
 
 | Title                                           | Last Modified           | Created                 |
 |-------------------------------------------------|-------------------------|-------------------------|
+| Guía de incorporación de socios                 | 20/12/2023, 9:21:34 pm  | 09/12/2023, 8:50:18 am  |
+| Guida alla registrazione partner                | 20/12/2023, 8:58:43 pm  | 09/12/2023, 8:50:18 am  |
+| Guia de Integração de Parceiros                 | 20/12/2023, 1:04:33 pm  | 20/12/2023, 1:04:31 pm  |
 | Guía de incorporación de partners               | 20/12/2023, 3:24:24 am  | 09/12/2023, 8:50:18 am  |
 | Leitfaden zum Partner-Onboarding                | 19/12/2023, 11:33:22 pm | 09/12/2023, 8:50:18 am  |
-| Guia de Integração de Parceiros                 | 16/12/2023, 0:26:48 pm  | 16/12/2023, 0:26:48 pm  |
-| Guida alla registrazione partner                | 16/12/2023, 0:26:48 pm  | 16/12/2023, 0:26:48 pm  |
 | Guide d'intégration au programme de partenariat | 16/12/2023, 0:26:48 pm  | 16/12/2023, 0:26:48 pm  |
-| Guía de incorporación de socios                 | 16/12/2023, 0:26:48 pm  | 16/12/2023, 0:26:48 pm  |
 
 
 ### partner-plus-abuse
@@ -3785,13 +3785,13 @@ https://help.twitch.tv/s/article/setup-alerts-by-twitch
 
 | Title                                 | Last Modified           | Created                  |
 |---------------------------------------|-------------------------|--------------------------|
+| Cómo configurar las alertas de Twitch | 20/12/2023, 9:21:37 pm  | 20/12/2023, 9:21:35 pm   |
+| Configurare gli avvisi di Twitch      | 20/12/2023, 8:58:46 pm  | 20/12/2023, 8:58:44 pm   |
+| Configurando alertas da Twitch        | 20/12/2023, 1:04:51 pm  | 20/12/2023, 1:04:49 pm   |
 | Configurar alertas de Twitch          | 20/12/2023, 3:24:17 am  | 20/12/2023, 3:24:15 am   |
 | Einrichten von Twitch Alerts          | 19/12/2023, 11:33:26 pm | 19/12/2023, 11:33:08 pm  |
-| Configurando alertas da Twitch        | 09/12/2023, 7:25:20 am  | 26/07/2023, 4:12:35 am   |
-| Configurare gli avvisi di Twitch      | 09/12/2023, 7:25:20 am  | 26/07/2023, 4:12:35 am   |
 | Configurer les alertes de Twitch      | 09/12/2023, 7:25:20 am  | 26/07/2023, 4:12:35 am   |
 | Konfigurowanie alertów na Twitchu     | 09/12/2023, 7:25:20 am  | 26/07/2023, 4:12:35 am   |
-| Cómo configurar las alertas de Twitch | 09/12/2023, 7:25:19 am  | 26/07/2023, 4:12:35 am   |
 
 
 ### setup-third-party-events
@@ -4241,9 +4241,9 @@ https://help.twitch.tv/s/article/twitch-affiliate-program-faq
 
 | Title                                                     | Last Modified           | Created                 |
 |-----------------------------------------------------------|-------------------------|-------------------------|
+| Domande frequenti sul programma per gli affiliati Twitch  | 20/12/2023, 8:58:57 pm  | 09/12/2023, 8:50:37 am  |
 | Häufig gestellte Fragen zum Affiliate-Programm von Twitch | 19/12/2023, 11:33:19 pm | 09/12/2023, 8:50:37 am  |
 | Często zadawane pytania dot. Programu Towarzyszy Twitcha  | 07/12/2023, 8:19:20 am  | 07/12/2023, 8:19:20 am  |
-| Domande frequenti sul programma per gli affiliati Twitch  | 07/12/2023, 8:19:20 am  | 07/12/2023, 8:19:20 am  |
 | FAQ programme d'affiliation Twitch                        | 07/12/2023, 8:19:20 am  | 07/12/2023, 8:19:20 am  |
 
 
