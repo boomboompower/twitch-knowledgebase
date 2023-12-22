@@ -48,6 +48,7 @@
 | Stream Display Ads                                       | 18/10/2023, 8:41:11 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pl)                                        |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 18/10/2023, 8:41:08 pm    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pl)  |
 | Tips For Applying To The Partner Program                 | 18/10/2023, 8:34:05 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=pl)                  |
+| Achievements                                             | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pl)                                              |
 
 
 
