@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Managing Your Phone Number                               | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=th)                                |
 | Twitch Affiliate Program Faq                             | 21/12/2023, 0:37:17 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=th)                              |
 | How To Manage Harassment In Chat                         | 21/12/2023, 0:37:14 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=th)                          |
 | Emote Slots                                              | 21/12/2023, 0:37:11 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=th)                                               |
@@ -49,7 +50,6 @@
 | Stream Display Ads                                       | 19/10/2023, 0:14:06 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=th)                                        |
 | Tips For Applying To The Partner Program                 | 19/10/2023, 0:09:08 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=th)                  |
 | Achievements                                             | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=th)                                              |
-| Dmca And Copyright Faqs                                  | 11/10/2023, 9:24:44 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=th)                                   |
 
 
 

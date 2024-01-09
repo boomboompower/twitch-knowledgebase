@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Managing Your Phone Number                               | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=pl)                                |
 | How To Manage Harassment In Chat                         | 20/12/2023, 11:27:16 pm   | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pl)                          |
 | Partner Onboarding Guide                                 | 20/12/2023, 11:27:12 pm   | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pl)                                  |
 | Experiments                                              | 20/12/2023, 11:27:11 pm   | [Link](https://help.twitch.tv/s/article/experiments?language=pl)                                               |

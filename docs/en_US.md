@@ -6,6 +6,7 @@
 
 | Name                                     | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Managing Your Phone Number               | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=en_US)                |
 | Partner Onboarding Guide                 | 16/12/2023, 0:26:49 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=en_US)                  |
 | How To Use Squad Stream                  | 16/12/2023, 0:02:28 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=en_US)                   |
 | Guest Star Getting Started               | 14/12/2023, 1:05:13 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=en_US)                |
@@ -45,8 +46,6 @@
 | Mission Based Drops                      | 19/10/2023, 3:00:54 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                       |
 | Joining The Affiliate Program            | 17/10/2023, 3:50:24 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=en_US)             |
 | Tips For Applying To The Partner Program | 14/10/2023, 4:19:20 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)  |
-| Achievements                             | 14/10/2023, 4:00:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                              |
-| Dmca And Copyright Faqs                  | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=en_US)                   |
 
 
 

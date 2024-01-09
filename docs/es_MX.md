@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Managing Your Phone Number                               | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es_MX)                                |
 | How To Use Clips                                         | 20/12/2023, 3:24:36 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                                          |
 | How To Manage Harassment In Chat                         | 20/12/2023, 3:24:33 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es_MX)                          |
 | Experiments                                              | 20/12/2023, 3:24:27 am    | [Link](https://help.twitch.tv/s/article/experiments?language=es_MX)                                               |
@@ -48,8 +49,6 @@
 | Tips For Applying To The Partner Program                 | 18/10/2023, 10:12:04 pm   | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=es_MX)                  |
 | Stream Display Ads                                       | 18/10/2023, 10:10:12 pm   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es_MX)                                        |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 18/10/2023, 10:10:03 pm   | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=es_MX)  |
-| Achievements                                             | 14/10/2023, 4:00:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=es_MX)                                              |
-| Dmca And Copyright Faqs                                  | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es_MX)                                   |
 
 
 
