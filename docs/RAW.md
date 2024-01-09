@@ -7,6 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| managing-your-phone-number                                    | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am | [Details](#managing-your-phone-number)                                     |
+| multiple-encodes                                              | 09/01/2024, 3:30:19 am  | 09/12/2023, 4:17:18 pm  | [Details](#multiple-encodes)                                               |
 | hype-challenge                                                | 21/12/2023, 0:37:18 am  | 21/12/2023, 0:37:17 am  | [Details](#hype-challenge)                                                 |
 | how-to-use-clips                                              | 20/12/2023, 11:39:34 pm | 19/09/2023, 8:34:23 am  | [Details](#how-to-use-clips)                                               |
 | how-to-manage-harassment-in-chat                              | 20/12/2023, 11:39:28 pm | 23/11/2023, 8:05:51 am  | [Details](#how-to-manage-harassment-in-chat)                               |
@@ -214,7 +216,6 @@ Language data is not included in the API. All page links will not have a languag
 | viewer-channel-point-guide                                    | 28/10/2022, 8:34:23 am  | 28/10/2022, 8:26:56 am  | [Details](#viewer-channel-point-guide)                                     |
 | channel-points-guide                                          | 28/10/2022, 8:25:45 am  | 28/10/2022, 8:25:24 am  | [Details](#channel-points-guide)                                           |
 | channel-page-setup                                            | 28/10/2022, 8:22:51 am  | 28/10/2022, 8:21:47 am  | [Details](#channel-page-setup)                                             |
-| managing-your-phone-number                                    | 27/10/2022, 10:32:04 pm | 27/10/2022, 10:32:01 pm | [Details](#managing-your-phone-number)                                     |
 | cheering-experiment-2022                                      | 27/10/2022, 11:02:37 am | 27/10/2022, 11:02:24 am | [Details](#cheering-experiment-2022)                                       |
 | amazon-music                                                  | 26/10/2022, 8:48:55 pm  | 26/10/2022, 8:48:29 pm  | [Details](#amazon-music)                                                   |
 | how-to-contact-extension-developer                            | 26/10/2022, 7:44:01 am  | 26/10/2022, 7:43:31 am  | [Details](#how-to-contact-extension-developer)                             |
@@ -3079,12 +3080,12 @@ https://help.twitch.tv/s/article/managing-your-phone-number
 
 | Title                                | Last Modified           | Created                  |
 |--------------------------------------|-------------------------|--------------------------|
-| Administrar tu número de teléfono    | 27/10/2022, 10:32:04 pm | 27/10/2022, 10:32:01 pm  |
-| Gestion de votre numéro de téléphone | 27/10/2022, 8:45:04 pm  | 27/10/2022, 8:45:01 pm   |
-| Gestisci il tuo numero di telefono   | 27/10/2022, 7:06:04 pm  | 27/10/2022, 7:06:01 pm   |
-| Gerenciando seu número de telefone   | 27/10/2022, 6:11:03 am  | 27/10/2022, 6:11:01 am   |
-| Cómo gestionar tu número de teléfono | 27/10/2022, 3:48:39 am  | 27/10/2022, 3:48:31 am   |
-| Managing Your Phone Number           | 19/10/2022, 4:49:28 am  | 19/10/2022, 4:49:05 am   |
+| Administrar tu número de teléfono    | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am  |
+| Cómo gestionar tu número de teléfono | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am  |
+| Gerenciando seu número de telefone   | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am  |
+| Gestion de votre numéro de téléphone | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am  |
+| Gestisci il tuo numero di telefono   | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am  |
+| Managing Your Phone Number           | 09/01/2024, 11:40:44 am | 07/12/2023, 11:12:08 am  |
 
 
 ### markdown-basics
@@ -3296,6 +3297,16 @@ https://help.twitch.tv/s/article/multiplayer-ads
 | Multiplayer-Werbung   | 30/09/2021, 11:26:49 am | 09/12/2020, 7:03:31 am  |
 
 
+### multiple-encodes
+https://help.twitch.tv/s/article/multiple-encodes
+
+| Title                                                                   | Last Modified          | Created                 |
+|-------------------------------------------------------------------------|------------------------|-------------------------|
+| Diffusion améliorée avec les encodages multiples (bêta)                 | 09/01/2024, 3:30:19 am | 09/12/2023, 4:17:18 pm  |
+| Enhanced Broadcasting mit Mehrfach-Codierungen (Start der Beta-Version) | 09/01/2024, 3:30:19 am | 09/12/2023, 4:17:18 pm  |
+| Enhanced Broadcasting with Multiple Encodes (Beta Launch)               | 09/01/2024, 3:30:19 am | 21/10/2023, 4:58:08 am  |
+
+
 ### music-options-for-streamers
 https://help.twitch.tv/s/article/music-options-for-streamers
 
@@ -3325,16 +3336,13 @@ https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide
 | Title                                              | Last Modified          | Created                 |
 |----------------------------------------------------|------------------------|-------------------------|
 | NBA G League Co-Streaming Guide                    | 22/10/2021, 8:53:06 am | 07/12/2018, 0:41:57 pm  |
-| NBA Gリーグのミラー配信ガイド                                  | 22/10/2021, 8:53:06 am | 27/02/2019, 3:13:36 pm  |
 | Co-streamgids voor NBA G League                    | 22/10/2021, 8:53:05 am | 27/02/2019, 3:21:27 pm  |
 | Guida al co-streaming della NBA G-League           | 22/10/2021, 8:53:05 am | 27/02/2019, 3:39:09 pm  |
 | Guía de co-streaming de la Liga de la NBA G        | 22/10/2021, 8:53:05 am | 27/02/2019, 3:28:21 pm  |
 | Guía para la coemisión de la NBA G League          | 22/10/2021, 8:53:05 am | 27/02/2019, 3:10:57 pm  |
-| NBA G 리그 같이보기 가이드                                  | 22/10/2021, 8:53:05 am | 27/02/2019, 3:17:52 pm  |
 | Guia de co-streaming da NBA G League               | 22/10/2021, 8:53:04 am | 27/02/2019, 3:53:35 pm  |
 | Guide co-streaming pour la NBA G League            | 22/10/2021, 8:53:04 am | 27/02/2019, 3:12:06 pm  |
 | Leitfaden zum Co-Streamen von NBA G-League-Spielen | 22/10/2021, 8:53:04 am | 27/02/2019, 3:16:33 pm  |
-| NBA G 聯盟合作實況指南                                     | 22/10/2021, 8:53:04 am | 21/02/2019, 9:45:20 am  |
 
 
 ### network-enforcement-act
