@@ -58,6 +58,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:44 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=th)                                        |
 | Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=th)                             |
 | Brand Surveys                                                 | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=th)                                                  |
 | Affiliate Onboarding Guide                                    | 29/09/2023, 11:39:12 pm   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=th)                                     |
@@ -104,6 +105,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Creating Highlights And Stream Markers             | 18/07/2023, 5:11:27 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=th)              |
 | Lifetime Subscriber Guide For Partners             | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=th)              |
 | Music Options For Streamers                        | 11/07/2023, 2:52:16 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=th)                         |
 | Refunds On Twitch                                  | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=th)                                   |
@@ -145,7 +147,6 @@
 | Xbox Promotion 2022                                | 02/11/2022, 3:54:03 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=th)                                 |
 | Request To Join                                    | 01/11/2022, 4:37:34 am    | [Link](https://help.twitch.tv/s/article/request-to-join?language=th)                                     |
 | Viewer Channel Point Guide                         | 28/10/2022, 8:34:05 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=th)                          |
-| Channel Points Guide                               | 28/10/2022, 8:25:44 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=th)                                |
 
 
 
@@ -154,7 +155,8 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
-| Managing Your Phone Number                    | 27/10/2022, 11:15:33 pm   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=th)                     |
+| Channel Points Guide                          | 28/10/2022, 8:25:44 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=th)                           |
+| Channel Page Setup                            | 28/10/2022, 8:22:51 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=th)                             |
 | Cheering Experiment 2022                      | 27/10/2022, 11:02:36 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=th)                       |
 | Earning Revenue From Bits In Extensions       | 21/10/2022, 7:25:42 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=th)        |
 | Supported Browsers                            | 17/10/2022, 7:47:04 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=th)                             |
@@ -200,7 +202,6 @@
 | Modified Emotes                               | 19/11/2021, 5:13:45 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=th)                                |
 | Hyper Scape                                   | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/hyper-scape?language=th)                                    |
 | Stream With Pride                             | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=th)                              |
-| Community Meetups Powered By Twitch           | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=th)            |
 
 
 
