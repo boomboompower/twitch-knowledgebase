@@ -7,8 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| gift-card-spend                                               | 18/01/2024, 2:58:19 pm  | 18/01/2024, 2:58:19 pm  | [Details](#gift-card-spend)                                                |
+| twitch-turbo-guide                                            | 18/01/2024, 2:49:28 pm  | 18/01/2024, 2:49:27 pm  | [Details](#twitch-turbo-guide)                                             |
+| partner-program-overview                                      | 18/01/2024, 2:46:43 pm  | 18/01/2024, 2:46:42 pm  | [Details](#partner-program-overview)                                       |
 | korea-update-nonkr                                            | 18/01/2024, 11:05:30 am | 18/01/2024, 11:05:29 am | [Details](#korea-update-nonkr)                                             |
-| partner-program-overview                                      | 18/01/2024, 10:00:53 am | 18/01/2024, 10:00:52 am | [Details](#partner-program-overview)                                       |
 | subpoint-vs-subcount                                          | 18/01/2024, 10:00:39 am | 18/01/2024, 10:00:38 am | [Details](#subpoint-vs-subcount)                                           |
 | creator-goals                                                 | 18/01/2024, 10:00:04 am | 11/01/2024, 5:52:52 am  | [Details](#creator-goals)                                                  |
 | managing-your-phone-number                                    | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am | [Details](#managing-your-phone-number)                                     |
@@ -89,7 +91,6 @@ Language data is not included in the API. All page links will not have a languag
 | dmca-and-copyright-faqs                                       | 11/10/2023, 9:24:44 am  | 21/09/2023, 3:18:44 am  | [Details](#dmca-and-copyright-faqs)                                        |
 | watching-twitch-on-android-devices                            | 11/10/2023, 8:54:06 am  | 11/10/2023, 8:54:05 am  | [Details](#watching-twitch-on-android-devices)                             |
 | brand-surveys                                                 | 11/10/2023, 4:01:25 am  | 11/10/2023, 3:16:02 am  | [Details](#brand-surveys)                                                  |
-| gift-card-spend                                               | 10/10/2023, 10:14:35 pm | 10/10/2023, 10:14:34 pm | [Details](#gift-card-spend)                                                |
 | gift-card-redeem                                              | 10/10/2023, 10:14:33 pm | 10/10/2023, 10:14:32 pm | [Details](#gift-card-redeem)                                               |
 | how-to-subscribe                                              | 10/10/2023, 10:13:32 pm | 10/10/2023, 10:10:37 pm | [Details](#how-to-subscribe)                                               |
 | creator-dashboard                                             | 10/10/2023, 10:10:32 pm | 10/10/2023, 10:10:31 pm | [Details](#creator-dashboard)                                              |
@@ -117,7 +118,6 @@ Language data is not included in the API. All page links will not have a languag
 | Disconnect-Protection                                         | 12/09/2023, 6:14:49 am  | 12/09/2023, 6:14:48 am  | [Details](#disconnect-protection)                                          |
 | political-onboarding                                          | 12/09/2023, 6:11:44 am  | 12/09/2023, 6:11:43 am  | [Details](#political-onboarding)                                           |
 | gift-subscriptions                                            | 12/09/2023, 4:04:21 am  | 29/08/2023, 2:44:24 am  | [Details](#gift-subscriptions)                                             |
-| twitch-turbo-guide                                            | 12/09/2023, 4:03:41 am  | 06/09/2023, 10:28:23 am | [Details](#twitch-turbo-guide)                                             |
 | research                                                      | 07/09/2023, 4:03:13 am  | 07/09/2023, 4:03:13 am  | [Details](#research)                                                       |
 | moments                                                       | 01/09/2023, 2:59:12 am  | 17/08/2023, 6:58:07 am  | [Details](#moments)                                                        |
 | how-to-provide-feedback                                       | 28/08/2023, 10:28:38 pm | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
@@ -1858,12 +1858,12 @@ https://help.twitch.tv/s/article/gift-card-redeem
 ### gift-card-spend
 https://help.twitch.tv/s/article/gift-card-spend
 
-| Title                                                 | Last Modified           | Created                  |
-|-------------------------------------------------------|-------------------------|--------------------------|
-| Ausgeben des Guthabens von Twitch-Geschenkgutscheinen | 10/10/2023, 10:14:35 pm | 10/10/2023, 10:14:34 pm  |
-| Cómo gastar el saldo de las Twitch Gift Cards         | 09/08/2023, 8:54:35 pm  | 17/05/2023, 8:54:21 am   |
-| Cómo canjear Tarjetas regalo de Twitch                | 09/08/2023, 2:02:37 am  | 17/05/2023, 8:54:21 am   |
-| Dépenser des cartes cadeaux Twitch                    | 08/08/2023, 9:25:38 pm  | 17/05/2023, 8:54:21 am   |
+| Title                                                 | Last Modified          | Created                 |
+|-------------------------------------------------------|------------------------|-------------------------|
+| Ausgeben des Guthabens von Twitch-Geschenkgutscheinen | 18/01/2024, 2:58:19 pm | 18/01/2024, 2:58:19 pm  |
+| Cómo canjear Tarjetas regalo de Twitch                | 18/01/2024, 2:58:19 pm | 18/01/2024, 2:58:19 pm  |
+| Cómo gastar el saldo de las Twitch Gift Cards         | 18/01/2024, 2:58:19 pm | 18/01/2024, 2:58:19 pm  |
+| Dépenser des cartes cadeaux Twitch                    | 18/01/2024, 2:58:19 pm | 18/01/2024, 2:58:19 pm  |
 
 
 ### gift-subscriptions
@@ -3472,10 +3472,10 @@ https://help.twitch.tv/s/article/partner-plus-abuse
 ### partner-program-overview
 https://help.twitch.tv/s/article/partner-program-overview
 
-| Title                                                | Last Modified           | Created                  |
-|------------------------------------------------------|-------------------------|--------------------------|
-| Das Partnerprogramm von Twitch im Überblick          | 18/01/2024, 10:00:53 am | 18/01/2024, 10:00:52 am  |
-| Descripción general del programa de socios de Twitch | 18/01/2024, 10:00:53 am | 18/01/2024, 10:00:52 am  |
+| Title                                                | Last Modified          | Created                 |
+|------------------------------------------------------|------------------------|-------------------------|
+| Das Partnerprogramm von Twitch im Überblick          | 18/01/2024, 2:46:43 pm | 18/01/2024, 2:46:42 pm  |
+| Descripción general del programa de socios de Twitch | 18/01/2024, 2:46:43 pm | 18/01/2024, 2:46:42 pm  |
 
 
 ### partner-settings-guide
@@ -4507,12 +4507,12 @@ https://help.twitch.tv/s/article/twitch-teams
 ### twitch-turbo-guide
 https://help.twitch.tv/s/article/twitch-turbo-guide
 
-| Title                                                  | Last Modified          | Created                  |
-|--------------------------------------------------------|------------------------|--------------------------|
-| Descripción general de Turbo y preguntas frecuentes    | 12/09/2023, 4:03:41 am | 06/09/2023, 10:28:23 am  |
-| Descripción general y preguntas frecuentes sobre Turbo | 12/09/2023, 4:03:25 am | 06/09/2023, 10:28:23 am  |
-| Gids voor Twitch Turbo                                 | 09/09/2023, 4:30:59 am | 09/09/2023, 4:30:59 am   |
-| Guia do Twitch Turbo                                   | 09/09/2023, 4:30:59 am | 09/09/2023, 4:30:59 am   |
+| Title                                                  | Last Modified          | Created                 |
+|--------------------------------------------------------|------------------------|-------------------------|
+| Descripción general de Turbo y preguntas frecuentes    | 18/01/2024, 2:49:28 pm | 18/01/2024, 2:49:27 pm  |
+| Descripción general y preguntas frecuentes sobre Turbo | 18/01/2024, 2:49:28 pm | 18/01/2024, 2:49:27 pm  |
+| Gids voor Twitch Turbo                                 | 18/01/2024, 2:49:28 pm | 18/01/2024, 2:49:27 pm  |
+| Guia do Twitch Turbo                                   | 18/01/2024, 2:49:28 pm | 18/01/2024, 2:49:27 pm  |
 
 
 ### twitch-twitter-twitchsupport-faq

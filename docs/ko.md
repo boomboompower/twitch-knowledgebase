@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Partner Program Overview                                 | 18/01/2024, 10:00:53 am   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)                                  |
+| Subpoint Vs Subcount                                     | 18/01/2024, 10:00:39 am   | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ko)                                      |
+| Creator Goals                                            | 18/01/2024, 10:00:03 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=ko)                                             |
 | Managing Your Phone Number                               | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ko)                                |
 | Twitch Affiliate Program Faq                             | 20/12/2023, 9:30:34 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ko)                              |
 | Emote Slots                                              | 20/12/2023, 9:30:26 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=ko)                                               |
@@ -14,7 +17,6 @@
 | How To Use Clips                                         | 20/12/2023, 9:30:07 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ko)                                          |
 | Setup Alerts By Twitch                                   | 20/12/2023, 9:30:06 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=ko)                                    |
 | Partner Onboarding Guide                                 | 20/12/2023, 9:30:04 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ko)                                  |
-| How To Use Squad Stream                                  | 16/12/2023, 0:02:28 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-squad-stream?language=ko)                                   |
 | Guest Star Getting Started                               | 14/12/2023, 1:21:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ko)                                |
 | Date Of Birth Changes                                    | 13/12/2023, 11:18:15 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ko)                                     |
 | Emote Guidelines                                         | 09/12/2023, 1:03:04 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=ko)                                          |
@@ -31,7 +33,6 @@
 | Partner Settings Guide                                   | 30/11/2023, 9:56:33 pm    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=ko)                                    |
 | Sponsorship Experiments Faq                              | 14/11/2023, 4:34:05 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=ko)                               |
 | Nintendo Switch                                          | 10/11/2023, 9:29:40 pm    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=ko)                                           |
-| Partner Program Overview                                 | 10/11/2023, 9:29:37 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)                                  |
 | Follower Emotes                                          | 08/11/2023, 11:26:30 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=ko)                                           |
 | Games Irl And Music Directories                          | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=ko)                           |
 | Recommended Software For Broadcasting                    | 28/10/2023, 5:03:30 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ko)                     |
@@ -49,7 +50,6 @@
 | About Account Suspensions Dmca Suspensions And Chat Bans | 18/10/2023, 11:36:47 pm   | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=ko)  |
 | Stream Display Ads                                       | 18/10/2023, 11:36:33 pm   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ko)                                        |
 | Tips For Applying To The Partner Program                 | 18/10/2023, 10:05:03 pm   | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ko)                  |
-| Achievements                                             | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ko)                                              |
 
 
 
