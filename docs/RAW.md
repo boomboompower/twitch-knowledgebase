@@ -7,6 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| korea-update-nonkr                                            | 18/01/2024, 11:05:30 am | 18/01/2024, 11:05:29 am | [Details](#korea-update-nonkr)                                             |
+| partner-program-overview                                      | 18/01/2024, 10:00:53 am | 18/01/2024, 10:00:52 am | [Details](#partner-program-overview)                                       |
+| subpoint-vs-subcount                                          | 18/01/2024, 10:00:39 am | 18/01/2024, 10:00:38 am | [Details](#subpoint-vs-subcount)                                           |
+| creator-goals                                                 | 18/01/2024, 10:00:04 am | 11/01/2024, 5:52:52 am  | [Details](#creator-goals)                                                  |
 | managing-your-phone-number                                    | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am | [Details](#managing-your-phone-number)                                     |
 | multiple-encodes                                              | 09/01/2024, 3:30:19 am  | 09/12/2023, 4:17:18 pm  | [Details](#multiple-encodes)                                               |
 | hype-challenge                                                | 21/12/2023, 0:37:18 am  | 21/12/2023, 0:37:17 am  | [Details](#hype-challenge)                                                 |
@@ -19,7 +23,6 @@ Language data is not included in the API. All page links will not have a languag
 | emote-slots                                                   | 20/12/2023, 11:39:10 pm | 09/12/2023, 8:51:52 am  | [Details](#emote-slots)                                                    |
 | bits-price-adjustment                                         | 20/12/2023, 11:39:02 pm | 22/11/2023, 10:47:29 am | [Details](#bits-price-adjustment)                                          |
 | annual-recap                                                  | 17/12/2023, 11:02:07 pm | 17/12/2023, 11:02:05 pm | [Details](#annual-recap)                                                   |
-| how-to-use-squad-stream                                       | 16/12/2023, 0:02:28 pm  | 16/12/2023, 0:02:27 pm  | [Details](#how-to-use-squad-stream)                                        |
 | how-to-use-badges                                             | 16/12/2023, 11:55:09 am | 21/11/2023, 11:48:10 am | [Details](#how-to-use-badges)                                              |
 | content-classification-labels                                 | 15/12/2023, 1:59:35 am  | 15/12/2023, 1:59:34 am  | [Details](#content-classification-labels)                                  |
 | bonus-round                                                   | 14/12/2023, 5:01:28 am  | 02/12/2023, 2:17:52 pm  | [Details](#bonus-round)                                                    |
@@ -32,7 +35,6 @@ Language data is not included in the API. All page links will not have a languag
 | animated-emotes                                               | 09/12/2023, 8:45:36 am  | 09/12/2023, 8:44:38 am  | [Details](#animated-emotes)                                                |
 | first-steps-for-new-affiliates                                | 07/12/2023, 11:01:38 pm | 07/12/2023, 11:01:36 pm | [Details](#first-steps-for-new-affiliates)                                 |
 | discovery-feed                                                | 07/12/2023, 11:01:18 pm | 07/12/2023, 11:01:17 pm | [Details](#discovery-feed)                                                 |
-| korea-update-nonkr                                            | 06/12/2023, 11:09:04 am | 06/12/2023, 11:09:03 am | [Details](#korea-update-nonkr)                                             |
 | 2023-updated-monetized-streamer-agreement                     | 05/12/2023, 2:29:24 pm  | 09/06/2023, 1:09:06 pm  | [Details](#2023-updated-monetized-streamer-agreement)                      |
 | ads-manager                                                   | 05/12/2023, 0:03:36 pm  | 02/12/2023, 11:05:48 am | [Details](#ads-manager)                                                    |
 | stream-together-favorite                                      | 05/12/2023, 4:43:01 am  | 23/11/2023, 8:53:17 am  | [Details](#stream-together-favorite)                                       |
@@ -54,7 +56,6 @@ Language data is not included in the API. All page links will not have a languag
 | hype-chat-by-twitch                                           | 15/11/2023, 7:09:02 pm  | 08/11/2023, 6:33:40 am  | [Details](#hype-chat-by-twitch)                                            |
 | sponsorship-experiments-faq                                   | 14/11/2023, 4:34:05 am  | 04/10/2023, 0:17:21 pm  | [Details](#sponsorship-experiments-faq)                                    |
 | nintendo-switch                                               | 10/11/2023, 10:52:32 pm | 31/10/2023, 8:41:40 am  | [Details](#nintendo-switch)                                                |
-| partner-program-overview                                      | 10/11/2023, 10:47:36 pm | 10/11/2023, 10:47:35 pm | [Details](#partner-program-overview)                                       |
 | hype-chat-pricing-by-country                                  | 10/11/2023, 10:47:34 pm | 08/11/2023, 6:34:25 am  | [Details](#hype-chat-pricing-by-country)                                   |
 | how-to-purchase-bits                                          | 10/11/2023, 7:04:34 am  | 09/08/2023, 5:27:11 pm  | [Details](#how-to-purchase-bits)                                           |
 | hype-chat-faq                                                 | 10/11/2023, 5:01:17 am  | 10/11/2023, 5:01:16 am  | [Details](#hype-chat-faq)                                                  |
@@ -103,7 +104,6 @@ Language data is not included in the API. All page links will not have a languag
 | bounty-board-program-information-and-faq                      | 23/09/2023, 2:16:34 am  | 12/09/2023, 4:15:15 am  | [Details](#bounty-board-program-information-and-faq)                       |
 | mod-view                                                      | 19/09/2023, 10:15:03 pm | 15/09/2023, 8:30:47 am  | [Details](#mod-view)                                                       |
 | affiliate-onboarding-guide                                    | 19/09/2023, 9:07:52 am  | 19/09/2023, 7:26:14 am  | [Details](#affiliate-onboarding-guide)                                     |
-| subpoint-vs-subcount                                          | 13/09/2023, 7:06:08 am  | 06/09/2023, 10:23:44 am | [Details](#subpoint-vs-subcount)                                           |
 | hindsight-2020                                                | 12/09/2023, 6:27:03 am  | 12/09/2023, 6:27:01 am  | [Details](#hindsight-2020)                                                 |
 | channel-points-faq                                            | 12/09/2023, 6:26:17 am  | 12/09/2023, 6:26:14 am  | [Details](#channel-points-faq)                                             |
 | guest-star-audio                                              | 12/09/2023, 6:23:18 am  | 12/09/2023, 6:23:16 am  | [Details](#guest-star-audio)                                               |
@@ -180,7 +180,6 @@ Language data is not included in the API. All page links will not have a languag
 | guide-to-closed-captions                                      | 23/03/2023, 0:03:35 am  | 23/03/2023, 0:03:31 am  | [Details](#guide-to-closed-captions)                                       |
 | multi-month-subscriptions                                     | 21/03/2023, 10:47:33 pm | 15/03/2023, 8:31:14 am  | [Details](#multi-month-subscriptions)                                      |
 | subscriptions-on-mobile                                       | 21/03/2023, 10:45:28 pm | 15/03/2023, 8:31:43 am  | [Details](#subscriptions-on-mobile)                                        |
-| creator-goals                                                 | 15/03/2023, 11:51:03 pm | 09/03/2023, 4:21:38 am  | [Details](#creator-goals)                                                  |
 | two-factor-authentication                                     | 13/03/2023, 11:03:33 pm | 08/03/2023, 0:15:36 pm  | [Details](#two-factor-authentication)                                      |
 | two-factor-authentication-with-authy                          | 09/03/2023, 7:53:25 am  | 09/03/2023, 7:53:24 am  | [Details](#two-factor-authentication-with-authy)                           |
 | artist-badge-attribution                                      | 24/02/2023, 1:47:42 am  | 24/02/2023, 1:47:32 am  | [Details](#artist-badge-attribution)                                       |
@@ -1418,14 +1417,14 @@ https://help.twitch.tv/s/article/creator-dashboard
 ### creator-goals
 https://help.twitch.tv/s/article/creator-goals
 
-| Title            | Last Modified           | Created                 |
-|------------------|-------------------------|-------------------------|
-| Creator-Ziele    | 15/03/2023, 11:51:03 pm | 09/03/2023, 4:21:38 am  |
-| metas de creador | 15/03/2023, 11:32:08 pm | 09/03/2023, 4:21:38 am  |
-| cele twórcy      | 15/03/2023, 11:13:38 pm | 09/03/2023, 4:21:38 am  |
-| Metas do Criador | 14/03/2023, 11:39:34 pm | 09/03/2023, 4:21:38 am  |
-| Metas de creador | 14/03/2023, 10:37:34 pm | 09/03/2023, 4:21:38 am  |
-| Creator Goals    | 09/03/2023, 4:21:18 am  | 09/03/2023, 4:19:11 am  |
+| Title            | Last Modified           | Created                  |
+|------------------|-------------------------|--------------------------|
+| Community Goals  | 18/01/2024, 10:00:04 am | 11/01/2024, 5:52:52 am   |
+| cele twórcy      | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
+| Creator-Ziele    | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
+| metas de creador | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
+| Metas de creador | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
+| Metas do Criador | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
 
 
 ### custom-bit-badges-guide
@@ -2685,22 +2684,6 @@ https://help.twitch.tv/s/article/how-to-use-raids
 | How to Use Raids            | 28/09/2022, 3:01:03 am | 28/09/2022, 3:00:52 am  |
 
 
-### how-to-use-squad-stream
-https://help.twitch.tv/s/article/how-to-use-squad-stream
-
-| Title                                  | Last Modified          | Created                 |
-|----------------------------------------|------------------------|-------------------------|
-| Come utilizzare lo streaming di gruppo | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
-| Comment utiliser Squad Stream          | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
-| Como usar o Squad Stream               | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
-| Cómo usar el Stream Grupal             | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
-| Cómo usar el Stream grupal             | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
-| Ekip Yayını Kullanımı                  | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
-| Hoe gebruik ik teamstream?             | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
-| How to Use Squad Stream                | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:13 pm  |
-| Korzystanie z funkcji Squad Stream     | 16/12/2023, 0:02:28 pm | 16/12/2023, 0:02:27 pm  |
-
-
 ### how-to-use-the-friends-feature
 https://help.twitch.tv/s/article/how-to-use-the-friends-feature
 
@@ -2882,13 +2865,13 @@ https://help.twitch.tv/s/article/korea-update-nonkr
 
 | Title                                                                                          | Last Modified           | Created                  |
 |------------------------------------------------------------------------------------------------|-------------------------|--------------------------|
-| Kore'deki Twitch Hizmetlerinin Durdurulmasının Kore Dışındaki Kullanıcılar Üzerindeki Etkisi   | 06/12/2023, 11:09:04 am | 06/12/2023, 11:09:03 am  |
-| Consecuencias del cierre de Twitch en Corea para los/las usuarios/as de fuera de Corea         | 06/12/2023, 11:09:02 am | 06/12/2023, 11:09:01 am  |
-| Auswirkungen der Einstellung von Twitch in Korea auf Nutzer*innen außerhalb von Korea          | 06/12/2023, 11:06:11 am | 06/12/2023, 11:06:10 am  |
-| Impacto do encerramento das atividades da Twitch na Coreia para usuários(as) fora daquele país | 06/12/2023, 11:06:08 am | 06/12/2023, 11:06:08 am  |
-| Impacto del cierre de Twitch en Corea en los usuarios y las usuarias fuera de Corea            | 06/12/2023, 11:06:04 am | 06/12/2023, 11:06:03 am  |
-| Impact international de la fermeture de Twitch en Corée                                        | 06/12/2023, 11:06:02 am | 06/12/2023, 11:06:01 am  |
-| Impatto della chiusura di Twitch in Corea su utenti residenti in altri paesi                   | 06/12/2023, 11:06:02 am | 06/12/2023, 11:06:01 am  |
+| Impacto del cierre de Twitch en Corea en los usuarios y las usuarias fuera de Corea            | 18/01/2024, 11:05:30 am | 18/01/2024, 11:05:29 am  |
+| Impact international de la fermeture de Twitch en Corée                                        | 18/01/2024, 11:05:27 am | 18/01/2024, 11:05:25 am  |
+| Impatto della chiusura di Twitch in Corea su utenti residenti in altri paesi                   | 18/01/2024, 11:05:26 am | 18/01/2024, 11:05:25 am  |
+| Consecuencias del cierre de Twitch en Corea para los/las usuarios/as de fuera de Corea         | 18/01/2024, 11:05:17 am | 18/01/2024, 11:05:16 am  |
+| Impacto do encerramento das atividades da Twitch na Coreia para usuários(as) fora daquele país | 18/01/2024, 11:04:48 am | 18/01/2024, 11:04:47 am  |
+| Auswirkungen der Einstellung von Twitch in Korea auf Nutzer*innen außerhalb von Korea          | 18/01/2024, 11:04:42 am | 18/01/2024, 11:04:40 am  |
+| Kore'deki Twitch Hizmetlerinin Durdurulmasının Kore Dışındaki Kullanıcılar Üzerindeki Etkisi   | 18/01/2024, 11:04:35 am | 18/01/2024, 11:04:34 am  |
 | Impact of Twitch Shutdown in Korea on Users Outside of Korea                                   | 06/12/2023, 10:58:03 am | 02/12/2023, 3:18:22 am   |
 
 
@@ -3336,24 +3319,30 @@ https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide
 | Title                                              | Last Modified          | Created                 |
 |----------------------------------------------------|------------------------|-------------------------|
 | NBA G League Co-Streaming Guide                    | 22/10/2021, 8:53:06 am | 07/12/2018, 0:41:57 pm  |
+| NBA Gリーグのミラー配信ガイド                                  | 22/10/2021, 8:53:06 am | 27/02/2019, 3:13:36 pm  |
 | Co-streamgids voor NBA G League                    | 22/10/2021, 8:53:05 am | 27/02/2019, 3:21:27 pm  |
 | Guida al co-streaming della NBA G-League           | 22/10/2021, 8:53:05 am | 27/02/2019, 3:39:09 pm  |
 | Guía de co-streaming de la Liga de la NBA G        | 22/10/2021, 8:53:05 am | 27/02/2019, 3:28:21 pm  |
 | Guía para la coemisión de la NBA G League          | 22/10/2021, 8:53:05 am | 27/02/2019, 3:10:57 pm  |
+| NBA G 리그 같이보기 가이드                                  | 22/10/2021, 8:53:05 am | 27/02/2019, 3:17:52 pm  |
 | Guia de co-streaming da NBA G League               | 22/10/2021, 8:53:04 am | 27/02/2019, 3:53:35 pm  |
 | Guide co-streaming pour la NBA G League            | 22/10/2021, 8:53:04 am | 27/02/2019, 3:12:06 pm  |
 | Leitfaden zum Co-Streamen von NBA G-League-Spielen | 22/10/2021, 8:53:04 am | 27/02/2019, 3:16:33 pm  |
+| NBA G 聯盟合作實況指南                                     | 22/10/2021, 8:53:04 am | 21/02/2019, 9:45:20 am  |
 
 
 ### network-enforcement-act
 https://help.twitch.tv/s/article/network-enforcement-act
 
-| Title                                                                  | Last Modified          | Created                 |
-|------------------------------------------------------------------------|------------------------|-------------------------|
-| Ley de Cumplimiento de las Normativas en las Redes Sociales («NetzDG») | 18/02/2022, 7:50:06 pm | 18/02/2022, 7:50:04 pm  |
-| Legge tedesca per la tutela dei diritti sui social network ("NetzDG")  | 21/12/2021, 4:02:57 am | 21/12/2021, 4:02:55 am  |
-| Ley de cumplimiento de la red ("NetzDG")                               | 21/12/2021, 4:02:44 am | 21/12/2021, 4:02:43 am  |
-| Loi sur les réseaux sociaux («NetzDG»)                                 | 21/12/2021, 4:02:29 am | 21/12/2021, 4:02:28 am  |
+| Title                                                                  | Last Modified           | Created                 |
+|------------------------------------------------------------------------|-------------------------|-------------------------|
+| Ley de Cumplimiento de las Normativas en las Redes Sociales («NetzDG») | 18/02/2022, 7:50:06 pm  | 18/02/2022, 7:50:04 pm  |
+| Legge tedesca per la tutela dei diritti sui social network ("NetzDG")  | 21/12/2021, 4:02:57 am  | 21/12/2021, 4:02:55 am  |
+| NetzDG                                                                 | 21/12/2021, 4:02:48 am  | 21/12/2021, 4:02:47 am  |
+| Ley de cumplimiento de la red ("NetzDG")                               | 21/12/2021, 4:02:44 am  | 21/12/2021, 4:02:43 am  |
+| Netzwerkdurchsetzungsgesetz („NetzDG“)                                 | 21/12/2021, 4:02:41 am  | 21/12/2021, 4:02:32 am  |
+| Loi sur les réseaux sociaux («NetzDG»)                                 | 21/12/2021, 4:02:29 am  | 21/12/2021, 4:02:28 am  |
+| Network Enforcement Act ("NetzDG")                                     | 30/09/2021, 11:26:49 am | 16/07/2021, 2:53:04 am  |
 
 
 ### new-device-and-location-verification
@@ -3362,6 +3351,8 @@ https://help.twitch.tv/s/article/new-device-and-location-verification
 | Title                                         | Last Modified          | Created                 |
 |-----------------------------------------------|------------------------|-------------------------|
 | Dispositivo nuevo y verificación de ubicación | 03/08/2023, 9:28:41 pm | 26/07/2023, 9:59:50 am  |
+| Neue Geräte- und Ortsbestätigung              | 03/08/2023, 8:54:10 pm | 26/07/2023, 9:59:50 am  |
+| New Device and Location Verification          | 26/07/2023, 9:59:29 am | 26/07/2023, 9:59:14 am  |
 
 
 ### nintendo-switch
@@ -3483,8 +3474,8 @@ https://help.twitch.tv/s/article/partner-program-overview
 
 | Title                                                | Last Modified           | Created                  |
 |------------------------------------------------------|-------------------------|--------------------------|
-| Das Partnerprogramm von Twitch im Überblick          | 10/11/2023, 10:47:36 pm | 10/11/2023, 10:47:35 pm  |
-| Descripción general del programa de socios de Twitch | 10/11/2023, 10:12:07 pm | 10/11/2023, 10:12:05 pm  |
+| Das Partnerprogramm von Twitch im Überblick          | 18/01/2024, 10:00:53 am | 18/01/2024, 10:00:52 am  |
+| Descripción general del programa de socios de Twitch | 18/01/2024, 10:00:53 am | 18/01/2024, 10:00:52 am  |
 
 
 ### partner-settings-guide
@@ -4045,11 +4036,11 @@ https://help.twitch.tv/s/article/sub-codes
 ### subpoint-vs-subcount
 https://help.twitch.tv/s/article/subpoint-vs-subcount
 
-| Title                                                                                                  | Last Modified          | Created                  |
-|--------------------------------------------------------------------------------------------------------|------------------------|--------------------------|
-| Abonelik Puanı, Abone Sayısı ve Partner Plus puanı                                                     | 13/09/2023, 7:06:08 am | 06/09/2023, 10:23:44 am  |
-| Abo-Punkte vs. Abozähler vs. Partner-Plus-Punkte                                                       | 13/09/2023, 7:06:06 am | 06/09/2023, 10:23:44 am  |
-| Diferencias entre los puntos por suscriptores, el recuento de suscripciones y los puntos de Socio Plus | 13/09/2023, 7:06:06 am | 06/09/2023, 10:23:44 am  |
+| Title                                                                                                  | Last Modified           | Created                  |
+|--------------------------------------------------------------------------------------------------------|-------------------------|--------------------------|
+| Abo-Punkte vs. Abozähler vs. Partner-Plus-Punkte                                                       | 18/01/2024, 10:00:39 am | 18/01/2024, 10:00:38 am  |
+| Abonelik Puanı, Abone Sayısı ve Partner Plus puanı                                                     | 18/01/2024, 10:00:39 am | 18/01/2024, 10:00:38 am  |
+| Diferencias entre los puntos por suscriptores, el recuento de suscripciones y los puntos de Socio Plus | 18/01/2024, 10:00:39 am | 18/01/2024, 10:00:38 am  |
 
 
 ### subscriber-badge-guide
@@ -4336,6 +4327,7 @@ https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq
 |--------------------------------------------------------------------------|------------------------|-------------------------|
 | Apoio na Loja de Merchandise da Twitch - Perguntas Frequentes            | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Dokument FAQ sklepu z artykułami promocyjnymi Twitch                     | 22/10/2021, 8:53:51 am | 07/08/2020, 3:22:52 am  |
+| Nejčastější dotazy k podpoře pro obchod s reklamním zbožím z Twitche     | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Domande frequenti sull'assistenza agli acquisti del merchandising Twitch | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 | FAQ des produits dérivés Twitch                                          | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 
