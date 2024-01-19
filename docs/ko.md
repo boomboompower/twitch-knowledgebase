@@ -6,7 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Partner Program Overview                                 | 18/01/2024, 10:00:53 am   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)                                  |
+| Twitch Turbo Guide                                       | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ko)                                        |
+| Partner Program Overview                                 | 18/01/2024, 2:46:43 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)                                  |
 | Subpoint Vs Subcount                                     | 18/01/2024, 10:00:39 am   | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ko)                                      |
 | Creator Goals                                            | 18/01/2024, 10:00:03 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=ko)                                             |
 | Managing Your Phone Number                               | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ko)                                |
@@ -49,7 +50,6 @@
 | Mission Based Drops                                      | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ko)                                       |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 18/10/2023, 11:36:47 pm   | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=ko)  |
 | Stream Display Ads                                       | 18/10/2023, 11:36:33 pm   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ko)                                        |
-| Tips For Applying To The Partner Program                 | 18/10/2023, 10:05:03 pm   | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ko)                  |
 
 
 

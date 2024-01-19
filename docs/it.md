@@ -6,7 +6,8 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| Partner Program Overview              | 18/01/2024, 10:00:53 am   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=it)               |
+| Twitch Turbo Guide                    | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=it)                     |
+| Partner Program Overview              | 18/01/2024, 2:46:43 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=it)               |
 | Subpoint Vs Subcount                  | 18/01/2024, 10:00:39 am   | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=it)                   |
 | Creator Goals                         | 18/01/2024, 10:00:03 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=it)                          |
 | Managing Your Phone Number            | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=it)             |
