@@ -58,6 +58,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Tips For Applying To The Partner Program                      | 18/10/2023, 10:05:03 pm   | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ko)                       |
+| Achievements                                                  | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ko)                                                   |
 | Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=ko)                                        |
 | Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=ko)                             |
 | Brand Surveys                                                 | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=ko)                                                  |
@@ -65,7 +67,6 @@
 | Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=ko)                       |
 | Mod View                                                      | 19/09/2023, 10:12:33 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=ko)                                                       |
 | Affiliate Onboarding Guide                                    | 19/09/2023, 9:07:33 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ko)                                     |
-| Subpoint Vs Subcount                                          | 13/09/2023, 7:06:07 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ko)                                           |
 | Twitch Studio Faq                                             | 12/09/2023, 3:25:34 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=ko)                                              |
 | Guest Star Audio                                              | 12/09/2023, 6:23:50 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=ko)                                               |
 | Channel Points Faq                                            | 12/09/2023, 6:23:04 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ko)                                             |
@@ -76,7 +77,6 @@
 | Disconnect Protection                                         | 12/09/2023, 6:14:44 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=ko)                                          |
 | How To Use Raids                                              | 12/09/2023, 6:11:56 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ko)                                               |
 | Subscription Cancellation Reasons                             | 12/09/2023, 6:09:12 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ko)                              |
-| Twitch Turbo Guide                                            | 12/09/2023, 4:03:12 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ko)                                             |
 | Moments                                                       | 01/09/2023, 2:59:11 am    | [Link](https://help.twitch.tv/s/article/moments?language=ko)                                                        |
 | Understanding Feedback Updates                                | 26/08/2023, 1:17:05 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=ko)                                 |
 | Tips On Feedback                                              | 26/08/2023, 1:17:03 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=ko)                                               |
@@ -95,8 +95,6 @@
 | Alerts By Twitch Css                                          | 26/07/2023, 4:07:25 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=ko)                                           |
 | Alerts By Twitch Customization                                | 26/07/2023, 4:07:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=ko)                                 |
 | Alerts By Twitch Interactive Resubs                           | 26/07/2023, 4:07:09 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=ko)                            |
-| Creating An Account With Twitch                               | 19/07/2023, 9:17:09 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ko)                                |
-| Managing Roles For Your Channel                               | 19/07/2023, 9:17:07 pm    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ko)                                |
 
 
 
@@ -105,6 +103,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Creating An Account With Twitch                    | 19/07/2023, 9:17:09 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ko)                     |
+| Managing Roles For Your Channel                    | 19/07/2023, 9:17:07 pm    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ko)                     |
 | Creating Highlights And Stream Markers             | 18/07/2023, 5:11:27 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=ko)              |
 | Lifetime Subscriber Guide For Partners             | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=ko)              |
 | Music Options For Streamers                        | 11/07/2023, 2:52:16 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=ko)                         |
@@ -131,7 +131,6 @@
 | Guide To Closed Captions                           | 22/03/2023, 6:48:03 pm    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=ko)                            |
 | Subscriptions On Mobile                            | 21/03/2023, 8:56:37 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ko)                             |
 | Multi Month Subscriptions                          | 21/03/2023, 8:56:33 pm    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=ko)                           |
-| Creator Goals                                      | 15/03/2023, 9:01:06 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=ko)                                       |
 | Two Factor Authentication                          | 13/03/2023, 3:11:33 pm    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ko)                           |
 | Delete Twitch Account                              | 14/02/2023, 4:25:35 pm    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=ko)                               |
 | Twitch Charity Viewers                             | 10/02/2023, 10:04:26 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=ko)                              |
@@ -146,7 +145,6 @@
 | How To Use Extensions                              | 04/11/2022, 9:02:16 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=ko)                               |
 | Xbox Promotion 2022                                | 02/11/2022, 3:54:03 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=ko)                                 |
 | Request To Join                                    | 01/11/2022, 3:47:34 am    | [Link](https://help.twitch.tv/s/article/request-to-join?language=ko)                                     |
-| Viewer Channel Point Guide                         | 28/10/2022, 8:34:03 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=ko)                          |
 
 
 
@@ -155,6 +153,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Viewer Channel Point Guide                  | 28/10/2022, 8:34:03 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=ko)                   |
 | Channel Points Guide                        | 28/10/2022, 8:25:44 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=ko)                         |
 | Channel Page Setup                          | 28/10/2022, 8:22:51 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=ko)                           |
 | Cheering Experiment 2022                    | 27/10/2022, 11:02:36 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=ko)                     |
@@ -195,7 +194,6 @@
 | Stream With Pride                           | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=ko)                            |
 | Rpg Megacheer                               | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=ko)                                |
 | Megacheer Food Fight                        | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=ko)                         |
-| Community Meetups Powered By Twitch         | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=ko)          |
 
 
 
