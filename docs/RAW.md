@@ -7,12 +7,12 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| creator-goals                                                 | 22/01/2024, 11:23:37 pm | 18/01/2024, 9:58:43 am  | [Details](#creator-goals)                                                  |
+| subpoint-vs-subcount                                          | 22/01/2024, 11:23:33 pm | 18/01/2024, 9:57:37 am  | [Details](#subpoint-vs-subcount)                                           |
 | partner-program-overview                                      | 19/01/2024, 11:57:40 pm | 18/01/2024, 9:58:18 am  | [Details](#partner-program-overview)                                       |
 | gift-card-spend                                               | 18/01/2024, 2:58:19 pm  | 18/01/2024, 2:58:19 pm  | [Details](#gift-card-spend)                                                |
 | twitch-turbo-guide                                            | 18/01/2024, 2:49:28 pm  | 18/01/2024, 2:49:27 pm  | [Details](#twitch-turbo-guide)                                             |
 | korea-update-nonkr                                            | 18/01/2024, 11:05:30 am | 18/01/2024, 11:05:29 am | [Details](#korea-update-nonkr)                                             |
-| subpoint-vs-subcount                                          | 18/01/2024, 10:00:39 am | 18/01/2024, 10:00:38 am | [Details](#subpoint-vs-subcount)                                           |
-| creator-goals                                                 | 18/01/2024, 10:00:04 am | 11/01/2024, 5:52:52 am  | [Details](#creator-goals)                                                  |
 | managing-your-phone-number                                    | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am | [Details](#managing-your-phone-number)                                     |
 | multiple-encodes                                              | 09/01/2024, 3:30:19 am  | 09/12/2023, 4:17:18 pm  | [Details](#multiple-encodes)                                               |
 | hype-challenge                                                | 21/12/2023, 0:37:18 am  | 21/12/2023, 0:37:17 am  | [Details](#hype-challenge)                                                 |
@@ -1419,9 +1419,9 @@ https://help.twitch.tv/s/article/creator-goals
 
 | Title            | Last Modified           | Created                  |
 |------------------|-------------------------|--------------------------|
+| Community-Ziele  | 22/01/2024, 11:23:37 pm | 18/01/2024, 9:58:43 am   |
 | Community Goals  | 18/01/2024, 10:00:04 am | 11/01/2024, 5:52:52 am   |
 | cele twórcy      | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
-| Creator-Ziele    | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
 | metas de creador | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
 | Metas de creador | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
 | Metas do Criador | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
@@ -4038,7 +4038,7 @@ https://help.twitch.tv/s/article/subpoint-vs-subcount
 
 | Title                                                                                                  | Last Modified           | Created                  |
 |--------------------------------------------------------------------------------------------------------|-------------------------|--------------------------|
-| Abo-Punkte vs. Abozähler vs. Partner-Plus-Punkte                                                       | 18/01/2024, 10:00:39 am | 18/01/2024, 10:00:38 am  |
+| Abo-Punkte vs. Abozähler vs. Plus-Punkte                                                               | 22/01/2024, 11:23:33 pm | 18/01/2024, 9:57:37 am   |
 | Abonelik Puanı, Abone Sayısı ve Partner Plus puanı                                                     | 18/01/2024, 10:00:39 am | 18/01/2024, 10:00:38 am  |
 | Diferencias entre los puntos por suscriptores, el recuento de suscripciones y los puntos de Socio Plus | 18/01/2024, 10:00:39 am | 18/01/2024, 10:00:38 am  |
 
