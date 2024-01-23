@@ -6,10 +6,10 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Creator Goals                         | 22/01/2024, 11:23:37 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=de)                          |
+| Subpoint Vs Subcount                  | 22/01/2024, 11:23:33 pm   | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=de)                   |
 | Partner Program Overview              | 19/01/2024, 11:57:40 pm   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)               |
 | Twitch Turbo Guide                    | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=de)                     |
-| Subpoint Vs Subcount                  | 18/01/2024, 10:00:39 am   | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=de)                   |
-| Creator Goals                         | 18/01/2024, 10:00:03 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=de)                          |
 | Managing Your Phone Number            | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=de)             |
 | How To Use Clips                      | 19/12/2023, 11:33:27 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                       |
 | Setup Alerts By Twitch                | 19/12/2023, 11:33:26 pm   | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=de)                 |

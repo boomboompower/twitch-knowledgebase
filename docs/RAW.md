@@ -7,8 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| creator-goals                                                 | 23/01/2024, 5:18:35 am  | 18/01/2024, 9:58:43 am  | [Details](#creator-goals)                                                  |
-| subpoint-vs-subcount                                          | 22/01/2024, 11:23:33 pm | 18/01/2024, 9:57:37 am  | [Details](#subpoint-vs-subcount)                                           |
+| creator-goals                                                 | 23/01/2024, 11:06:21 pm | 18/01/2024, 9:58:43 am  | [Details](#creator-goals)                                                  |
+| subpoint-vs-subcount                                          | 23/01/2024, 9:49:03 pm  | 18/01/2024, 9:57:37 am  | [Details](#subpoint-vs-subcount)                                           |
 | partner-program-overview                                      | 19/01/2024, 11:57:40 pm | 18/01/2024, 9:58:18 am  | [Details](#partner-program-overview)                                       |
 | gift-card-spend                                               | 18/01/2024, 2:58:19 pm  | 18/01/2024, 2:58:19 pm  | [Details](#gift-card-spend)                                                |
 | twitch-turbo-guide                                            | 18/01/2024, 2:49:28 pm  | 18/01/2024, 2:49:27 pm  | [Details](#twitch-turbo-guide)                                             |
@@ -1417,14 +1417,13 @@ https://help.twitch.tv/s/article/creator-dashboard
 ### creator-goals
 https://help.twitch.tv/s/article/creator-goals
 
-| Title               | Last Modified           | Created                  |
-|---------------------|-------------------------|--------------------------|
-| Metas da comunidade | 23/01/2024, 5:18:35 am  | 18/01/2024, 9:58:43 am   |
-| Community-Ziele     | 22/01/2024, 11:23:37 pm | 18/01/2024, 9:58:43 am   |
-| Community Goals     | 18/01/2024, 10:00:04 am | 11/01/2024, 5:52:52 am   |
-| cele twórcy         | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
-| metas de creador    | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
-| Metas de creador    | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
+| Title                 | Last Modified           | Created                 |
+|-----------------------|-------------------------|-------------------------|
+| Cele społeczności     | 23/01/2024, 11:06:21 pm | 18/01/2024, 9:58:43 am  |
+| Metas de la comunidad | 23/01/2024, 10:09:25 pm | 18/01/2024, 9:58:43 am  |
+| Metas da comunidade   | 23/01/2024, 5:18:35 am  | 18/01/2024, 9:58:43 am  |
+| Community-Ziele       | 22/01/2024, 11:23:37 pm | 18/01/2024, 9:58:43 am  |
+| Community Goals       | 18/01/2024, 10:00:04 am | 11/01/2024, 5:52:52 am  |
 
 
 ### custom-bit-badges-guide
@@ -3375,6 +3374,7 @@ https://help.twitch.tv/s/article/not-receiving-sms
 |------------------------------------------------------------------------------|------------------------|-------------------------|
 | Kein Erhalt von SMS-Textnachrichten oder Zwei-Faktor-Authentifizierung-Codes | 03/08/2023, 8:54:06 pm | 03/08/2023, 8:54:05 pm  |
 | Kısa mesaj veya iki kademeli güvenlik kodu gelmiyor                          | 03/08/2023, 7:30:32 pm | 03/08/2023, 7:30:31 pm  |
+| Nie otrzymuję wiadomości SMS lub kodów do uwierzytelniania dwuskładnikowego  | 02/08/2023, 8:42:02 pm | 02/08/2023, 8:42:01 pm  |
 
 
 ### notifications-inbox
@@ -4036,11 +4036,11 @@ https://help.twitch.tv/s/article/sub-codes
 ### subpoint-vs-subcount
 https://help.twitch.tv/s/article/subpoint-vs-subcount
 
-| Title                                                                                                  | Last Modified           | Created                  |
-|--------------------------------------------------------------------------------------------------------|-------------------------|--------------------------|
-| Abo-Punkte vs. Abozähler vs. Plus-Punkte                                                               | 22/01/2024, 11:23:33 pm | 18/01/2024, 9:57:37 am   |
-| Abonelik Puanı, Abone Sayısı ve Partner Plus puanı                                                     | 18/01/2024, 10:00:39 am | 18/01/2024, 10:00:38 am  |
-| Diferencias entre los puntos por suscriptores, el recuento de suscripciones y los puntos de Socio Plus | 18/01/2024, 10:00:39 am | 18/01/2024, 10:00:38 am  |
+| Title                                                                                         | Last Modified           | Created                 |
+|-----------------------------------------------------------------------------------------------|-------------------------|-------------------------|
+| Abonelik Puanı, Abone Sayısı ve Plus Puanı                                                    | 23/01/2024, 9:49:03 pm  | 18/01/2024, 9:57:37 am  |
+| Diferencias entre los puntos por suscriptores, el recuento de suscripciones y los puntos Plus | 23/01/2024, 9:26:33 pm  | 18/01/2024, 9:57:37 am  |
+| Abo-Punkte vs. Abozähler vs. Plus-Punkte                                                      | 22/01/2024, 11:23:33 pm | 18/01/2024, 9:57:37 am  |
 
 
 ### subscriber-badge-guide
