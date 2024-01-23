@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| creator-goals                                                 | 22/01/2024, 11:23:37 pm | 18/01/2024, 9:58:43 am  | [Details](#creator-goals)                                                  |
+| creator-goals                                                 | 23/01/2024, 5:18:35 am  | 18/01/2024, 9:58:43 am  | [Details](#creator-goals)                                                  |
 | subpoint-vs-subcount                                          | 22/01/2024, 11:23:33 pm | 18/01/2024, 9:57:37 am  | [Details](#subpoint-vs-subcount)                                           |
 | partner-program-overview                                      | 19/01/2024, 11:57:40 pm | 18/01/2024, 9:58:18 am  | [Details](#partner-program-overview)                                       |
 | gift-card-spend                                               | 18/01/2024, 2:58:19 pm  | 18/01/2024, 2:58:19 pm  | [Details](#gift-card-spend)                                                |
@@ -1417,14 +1417,14 @@ https://help.twitch.tv/s/article/creator-dashboard
 ### creator-goals
 https://help.twitch.tv/s/article/creator-goals
 
-| Title            | Last Modified           | Created                  |
-|------------------|-------------------------|--------------------------|
-| Community-Ziele  | 22/01/2024, 11:23:37 pm | 18/01/2024, 9:58:43 am   |
-| Community Goals  | 18/01/2024, 10:00:04 am | 11/01/2024, 5:52:52 am   |
-| cele twórcy      | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
-| metas de creador | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
-| Metas de creador | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
-| Metas do Criador | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
+| Title               | Last Modified           | Created                  |
+|---------------------|-------------------------|--------------------------|
+| Metas da comunidade | 23/01/2024, 5:18:35 am  | 18/01/2024, 9:58:43 am   |
+| Community-Ziele     | 22/01/2024, 11:23:37 pm | 18/01/2024, 9:58:43 am   |
+| Community Goals     | 18/01/2024, 10:00:04 am | 11/01/2024, 5:52:52 am   |
+| cele twórcy         | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
+| metas de creador    | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
+| Metas de creador    | 18/01/2024, 10:00:03 am | 18/01/2024, 10:00:02 am  |
 
 
 ### custom-bit-badges-guide
