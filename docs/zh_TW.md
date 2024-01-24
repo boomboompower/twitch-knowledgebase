@@ -6,10 +6,10 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Subpoint Vs Subcount                  | 23/01/2024, 7:08:35 pm    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=zh_TW)                   |
+| Creator Goals                         | 23/01/2024, 7:08:34 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                          |
 | Partner Program Overview              | 19/01/2024, 9:04:06 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)               |
 | Twitch Turbo Guide                    | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                     |
-| Subpoint Vs Subcount                  | 18/01/2024, 10:00:39 am   | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=zh_TW)                   |
-| Creator Goals                         | 18/01/2024, 10:00:03 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                          |
 | Managing Your Phone Number            | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)             |
 | Experiments                           | 19/12/2023, 8:51:53 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                            |
 | Twitch Affiliate Program Faq          | 19/12/2023, 8:51:52 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)           |
@@ -47,7 +47,6 @@
 | Joining The Affiliate Program         | 23/10/2023, 11:36:20 am   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)          |
 | Guest Star Reporting                  | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=zh_TW)                   |
 | Guest Star                            | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=zh_TW)                             |
-| Mission Based Drops                   | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=zh_TW)                    |
 
 
 

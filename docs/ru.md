@@ -6,10 +6,10 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Subpoint Vs Subcount                  | 23/01/2024, 11:55:10 pm   | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ru)                   |
+| Creator Goals                         | 23/01/2024, 11:55:07 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=ru)                          |
 | Partner Program Overview              | 19/01/2024, 10:49:12 pm   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ru)               |
 | Twitch Turbo Guide                    | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ru)                     |
-| Subpoint Vs Subcount                  | 18/01/2024, 10:00:39 am   | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ru)                   |
-| Creator Goals                         | 18/01/2024, 10:00:03 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=ru)                          |
 | Managing Your Phone Number            | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ru)             |
 | Emote Slots                           | 20/12/2023, 10:45:58 pm   | [Link](https://help.twitch.tv/s/article/emote-slots?language=ru)                            |
 | How To Manage Harassment In Chat      | 20/12/2023, 10:45:55 pm   | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ru)       |

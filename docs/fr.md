@@ -6,10 +6,10 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| Partner Program Overview              | 20/01/2024, 0:20:08 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=fr)               |
+| Partner Program Overview              | 24/01/2024, 8:52:02 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=fr)               |
+| Subpoint Vs Subcount                  | 23/01/2024, 10:47:33 pm   | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=fr)                   |
+| Creator Goals                         | 23/01/2024, 10:47:33 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=fr)                          |
 | Twitch Turbo Guide                    | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=fr)                     |
-| Subpoint Vs Subcount                  | 18/01/2024, 10:00:39 am   | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=fr)                   |
-| Creator Goals                         | 18/01/2024, 10:00:03 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=fr)                          |
 | Managing Your Phone Number            | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=fr)             |
 | How To Use Clips                      | 20/12/2023, 11:39:34 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                       |
 | How To Manage Harassment In Chat      | 20/12/2023, 11:39:28 pm   | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fr)       |
