@@ -7,9 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| partner-program-overview                                      | 24/01/2024, 8:40:33 am  | 24/01/2024, 8:40:31 am  | [Details](#partner-program-overview)                                       |
 | creator-goals                                                 | 23/01/2024, 11:06:21 pm | 18/01/2024, 9:58:43 am  | [Details](#creator-goals)                                                  |
 | subpoint-vs-subcount                                          | 23/01/2024, 9:49:03 pm  | 18/01/2024, 9:57:37 am  | [Details](#subpoint-vs-subcount)                                           |
-| partner-program-overview                                      | 19/01/2024, 11:57:40 pm | 18/01/2024, 9:58:18 am  | [Details](#partner-program-overview)                                       |
 | gift-card-spend                                               | 18/01/2024, 2:58:19 pm  | 18/01/2024, 2:58:19 pm  | [Details](#gift-card-spend)                                                |
 | twitch-turbo-guide                                            | 18/01/2024, 2:49:28 pm  | 18/01/2024, 2:49:27 pm  | [Details](#twitch-turbo-guide)                                             |
 | korea-update-nonkr                                            | 18/01/2024, 11:05:30 am | 18/01/2024, 11:05:29 am | [Details](#korea-update-nonkr)                                             |
@@ -3474,8 +3474,8 @@ https://help.twitch.tv/s/article/partner-program-overview
 
 | Title                                                | Last Modified           | Created                 |
 |------------------------------------------------------|-------------------------|-------------------------|
+| Descripción general del programa de socios de Twitch | 24/01/2024, 8:40:33 am  | 24/01/2024, 8:40:31 am  |
 | Das Partnerprogramm von Twitch im Überblick          | 19/01/2024, 11:57:40 pm | 18/01/2024, 9:58:18 am  |
-| Descripción general del programa de socios de Twitch | 19/01/2024, 9:59:42 pm  | 18/01/2024, 9:58:18 am  |
 
 
 ### partner-settings-guide
