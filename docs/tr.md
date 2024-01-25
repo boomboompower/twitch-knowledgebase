@@ -6,13 +6,14 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide            | 25/01/2024, 10:53:07 am   | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=tr)             |
+| Partner Program Overview              | 25/01/2024, 5:01:43 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=tr)               |
+| Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=tr)           |
 | Creator Goals                         | 23/01/2024, 9:49:34 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=tr)                          |
 | Subpoint Vs Subcount                  | 23/01/2024, 9:49:03 pm    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=tr)                   |
-| Partner Program Overview              | 19/01/2024, 10:18:06 pm   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=tr)               |
 | Twitch Turbo Guide                    | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=tr)                     |
 | Managing Your Phone Number            | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=tr)             |
 | Partner Onboarding Guide              | 17/12/2023, 11:01:59 pm   | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=tr)               |
-| Twitch Affiliate Program Faq          | 16/12/2023, 9:26:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=tr)           |
 | Setup Alerts By Twitch                | 15/12/2023, 9:04:29 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=tr)                 |
 | How To Manage Harassment In Chat      | 15/12/2023, 9:04:22 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=tr)       |
 | How To Use Clips                      | 15/12/2023, 9:04:21 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=tr)                       |
@@ -44,8 +45,6 @@
 | Stream Together Guest Guide           | 26/10/2023, 10:28:36 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=tr)            |
 | Guest Star Faqs                       | 26/10/2023, 10:20:11 pm   | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=tr)                        |
 | How To Use Automod                    | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=tr)                     |
-| Guest Star Reporting                  | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=tr)                   |
-| Guest Star                            | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=tr)                             |
 
 
 

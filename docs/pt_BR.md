@@ -6,14 +6,15 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
-| Partner Program Overview              | 24/01/2024, 5:55:34 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)               |
+| Prime Gaming Revenue Guide            | 25/01/2024, 10:53:13 am   | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pt_BR)             |
+| Partner Program Overview              | 25/01/2024, 5:01:43 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)               |
+| Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_BR)           |
 | Subpoint Vs Subcount                  | 23/01/2024, 5:18:38 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=pt_BR)                   |
 | Creator Goals                         | 23/01/2024, 5:18:35 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=pt_BR)                          |
 | Twitch Turbo Guide                    | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_BR)                     |
 | Managing Your Phone Number            | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=pt_BR)             |
 | How To Manage Harassment In Chat      | 20/12/2023, 1:04:58 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_BR)       |
 | Setup Alerts By Twitch                | 20/12/2023, 1:04:51 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=pt_BR)                 |
-| Twitch Affiliate Program Faq          | 20/12/2023, 1:04:48 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_BR)           |
 | Emote Slots                           | 20/12/2023, 1:04:46 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=pt_BR)                            |
 | How To Use Clips                      | 20/12/2023, 1:04:42 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                       |
 | Experiments                           | 20/12/2023, 1:04:41 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=pt_BR)                            |
@@ -44,10 +45,6 @@
 | Stream Together Guest Guide           | 27/10/2023, 9:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=pt_BR)            |
 | Stream Together Host Guide            | 27/10/2023, 9:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=pt_BR)             |
 | How To Use Automod                    | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_BR)                     |
-| Guest Star Reporting                  | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=pt_BR)                   |
-| Guest Star                            | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=pt_BR)                             |
-| Joining The Affiliate Program         | 20/10/2023, 4:37:34 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)          |
-| Mission Based Drops                   | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pt_BR)                    |
 
 
 

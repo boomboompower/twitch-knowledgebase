@@ -6,16 +6,17 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide            | 25/01/2024, 10:53:09 am   | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)             |
+| Partner Program Overview              | 25/01/2024, 5:01:42 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)               |
+| Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)           |
 | Creator Goals                         | 23/01/2024, 2:58:34 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=ja)                          |
 | Subpoint Vs Subcount                  | 23/01/2024, 2:58:33 pm    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ja)                   |
-| Partner Program Overview              | 19/01/2024, 3:50:08 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)               |
 | Twitch Turbo Guide                    | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                     |
 | Managing Your Phone Number            | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ja)             |
 | Partner Onboarding Guide              | 20/12/2023, 4:28:55 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ja)               |
 | Emote Slots                           | 20/12/2023, 4:28:53 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=ja)                            |
 | How To Manage Harassment In Chat      | 20/12/2023, 4:28:47 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ja)       |
 | Setup Alerts By Twitch                | 20/12/2023, 4:28:45 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=ja)                 |
-| Twitch Affiliate Program Faq          | 20/12/2023, 4:28:41 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)           |
 | How To Use Clips                      | 20/12/2023, 4:28:40 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                       |
 | Experiments                           | 20/12/2023, 4:28:36 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=ja)                            |
 | Guest Star Getting Started            | 14/12/2023, 1:05:14 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ja)             |
@@ -44,10 +45,6 @@
 | Stream Together Guest Guide           | 26/10/2023, 7:25:07 pm    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ja)            |
 | Stream Together Host Guide            | 26/10/2023, 7:25:04 pm    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ja)             |
 | How To Use Automod                    | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ja)                     |
-| Joining The Affiliate Program         | 23/10/2023, 2:49:05 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ja)          |
-| Guest Star Reporting                  | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=ja)                   |
-| Guest Star                            | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=ja)                             |
-| Mission Based Drops                   | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                    |
 
 
 

@@ -6,12 +6,13 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide            | 25/01/2024, 10:53:16 am   | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ko)             |
+| Partner Program Overview              | 25/01/2024, 5:01:43 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)               |
+| Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ko)           |
 | Subpoint Vs Subcount                  | 24/01/2024, 1:22:34 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ko)                   |
 | Creator Goals                         | 24/01/2024, 1:22:34 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=ko)                          |
-| Partner Program Overview              | 20/01/2024, 1:23:10 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)               |
 | Twitch Turbo Guide                    | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ko)                     |
 | Managing Your Phone Number            | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ko)             |
-| Twitch Affiliate Program Faq          | 20/12/2023, 9:30:34 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ko)           |
 | Emote Slots                           | 20/12/2023, 9:30:26 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=ko)                            |
 | How To Manage Harassment In Chat      | 20/12/2023, 9:30:12 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ko)       |
 | Experiments                           | 20/12/2023, 9:30:09 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=ko)                            |
@@ -44,10 +45,6 @@
 | Stream Together Host Guide            | 28/10/2023, 0:14:38 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ko)             |
 | Stream Together Guest Guide           | 28/10/2023, 0:14:34 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ko)            |
 | How To Use Automod                    | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ko)                     |
-| Joining The Affiliate Program         | 23/10/2023, 1:45:36 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ko)          |
-| Guest Star Reporting                  | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=ko)                   |
-| Guest Star                            | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=ko)                             |
-| Mission Based Drops                   | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ko)                    |
 
 
 
