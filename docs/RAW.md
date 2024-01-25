@@ -7,7 +7,11 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| partner-program-overview                                      | 24/01/2024, 8:40:33 am  | 24/01/2024, 8:40:31 am  | [Details](#partner-program-overview)                                       |
+| prime-gaming-revenue-guide                                    | 25/01/2024, 10:53:18 am | 25/01/2024, 8:08:04 am  | [Details](#prime-gaming-revenue-guide)                                     |
+| twitch-prime-partner-guide                                    | 25/01/2024, 8:07:32 am  | 25/01/2024, 8:07:31 am  | [Details](#twitch-prime-partner-guide)                                     |
+| partner-program-overview                                      | 25/01/2024, 5:01:41 am  | 24/01/2024, 9:27:14 am  | [Details](#partner-program-overview)                                       |
+| twitch-affiliate-program-faq                                  | 25/01/2024, 5:01:06 am  | 18/01/2024, 1:29:39 pm  | [Details](#twitch-affiliate-program-faq)                                   |
+| affiliates-plus                                               | 25/01/2024, 5:00:47 am  | 18/01/2024, 0:48:25 pm  | [Details](#affiliates-plus)                                                |
 | creator-goals                                                 | 23/01/2024, 11:06:21 pm | 18/01/2024, 9:58:43 am  | [Details](#creator-goals)                                                  |
 | subpoint-vs-subcount                                          | 23/01/2024, 9:49:03 pm  | 18/01/2024, 9:57:37 am  | [Details](#subpoint-vs-subcount)                                           |
 | gift-card-spend                                               | 18/01/2024, 2:58:19 pm  | 18/01/2024, 2:58:19 pm  | [Details](#gift-card-spend)                                                |
@@ -18,7 +22,6 @@ Language data is not included in the API. All page links will not have a languag
 | hype-challenge                                                | 21/12/2023, 0:37:18 am  | 21/12/2023, 0:37:17 am  | [Details](#hype-challenge)                                                 |
 | how-to-use-clips                                              | 20/12/2023, 11:39:34 pm | 19/09/2023, 8:34:23 am  | [Details](#how-to-use-clips)                                               |
 | how-to-manage-harassment-in-chat                              | 20/12/2023, 11:39:28 pm | 23/11/2023, 8:05:51 am  | [Details](#how-to-manage-harassment-in-chat)                               |
-| twitch-affiliate-program-faq                                  | 20/12/2023, 11:39:27 pm | 09/12/2023, 8:50:37 am  | [Details](#twitch-affiliate-program-faq)                                   |
 | experiments                                                   | 20/12/2023, 11:39:16 pm | 26/10/2023, 10:24:38 am | [Details](#experiments)                                                    |
 | partner-onboarding-guide                                      | 20/12/2023, 11:39:13 pm | 09/12/2023, 8:50:18 am  | [Details](#partner-onboarding-guide)                                       |
 | setup-alerts-by-twitch                                        | 20/12/2023, 11:39:11 pm | 20/12/2023, 11:39:04 pm | [Details](#setup-alerts-by-twitch)                                         |
@@ -155,10 +158,8 @@ Language data is not included in the API. All page links will not have a languag
 | local-recording                                               | 31/05/2023, 0:13:18 am  | 23/05/2023, 0:17:33 pm  | [Details](#local-recording)                                                |
 | twitch-stream-key-faq                                         | 31/05/2023, 0:13:14 am  | 27/04/2023, 3:57:31 am  | [Details](#twitch-stream-key-faq)                                          |
 | payout-history-dashboard-guide                                | 31/05/2023, 0:13:12 am  | 23/05/2023, 0:20:24 pm  | [Details](#payout-history-dashboard-guide)                                 |
-| prime-gaming-revenue-guide                                    | 31/05/2023, 0:13:03 am  | 23/05/2023, 0:18:49 pm  | [Details](#prime-gaming-revenue-guide)                                     |
 | local-sub-price-countries                                     | 26/05/2023, 3:15:13 am  | 26/05/2023, 3:15:12 am  | [Details](#local-sub-price-countries)                                      |
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
-| twitch-prime-partner-guide                                    | 24/05/2023, 4:02:36 am  | 24/05/2023, 4:02:36 am  | [Details](#twitch-prime-partner-guide)                                     |
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
 | emote-analytics                                               | 23/05/2023, 6:24:07 pm  | 13/05/2023, 7:37:37 am  | [Details](#emote-analytics)                                                |
 | guide-to-tags                                                 | 12/05/2023, 11:23:34 pm | 12/05/2023, 11:23:33 pm | [Details](#guide-to-tags)                                                  |
@@ -226,7 +227,6 @@ Language data is not included in the API. All page links will not have a languag
 | charitable-donations                                          | 28/09/2022, 0:10:55 am  | 22/09/2022, 4:42:52 am  | [Details](#charitable-donations)                                           |
 | when-am-i-getting-paid                                        | 23/09/2022, 5:00:47 am  | 13/08/2022, 7:45:37 am  | [Details](#when-am-i-getting-paid)                                         |
 | payout-balance-faq                                            | 23/09/2022, 4:58:37 am  | 13/08/2022, 7:33:43 am  | [Details](#payout-balance-faq)                                             |
-| streamer-revenue-strategy-2022                                | 21/09/2022, 7:54:04 pm  | 14/09/2022, 8:47:06 am  | [Details](#streamer-revenue-strategy-2022)                                 |
 | affiliate-emote-prefix-change                                 | 21/09/2022, 4:59:50 am  | 30/08/2022, 3:53:48 am  | [Details](#affiliate-emote-prefix-change)                                  |
 | ingame-overlay                                                | 12/09/2022, 8:49:34 pm  | 09/09/2022, 6:36:37 am  | [Details](#ingame-overlay)                                                 |
 | managing-subscription-tiers                                   | 30/08/2022, 10:12:08 pm | 17/08/2022, 9:09:16 am  | [Details](#managing-subscription-tiers)                                    |
@@ -293,7 +293,6 @@ Language data is not included in the API. All page links will not have a languag
 | scene-transitions                                             | 22/10/2021, 8:54:20 am  | 28/08/2021, 3:44:46 am  | [Details](#scene-transitions)                                              |
 | watching-twitch-on-ios-devices                                | 22/10/2021, 8:54:13 am  | 27/02/2019, 3:04:30 pm  | [Details](#watching-twitch-on-ios-devices)                                 |
 | how-to-link-your-amazon-account                               | 22/10/2021, 8:53:55 am  | 01/06/2020, 10:44:32 pm | [Details](#how-to-link-your-amazon-account)                                |
-| twitch-prime-loot-gifting                                     | 22/10/2021, 8:53:55 am  | 13/07/2021, 4:11:36 am  | [Details](#twitch-prime-loot-gifting)                                      |
 | how-to-claim-in-game-content                                  | 22/10/2021, 8:53:55 am  | 29/05/2020, 9:27:46 am  | [Details](#how-to-claim-in-game-content)                                   |
 | how-to-use-twitch-prime-subscriptions                         | 22/10/2021, 8:53:55 am  | 11/08/2020, 2:30:22 am  | [Details](#how-to-use-twitch-prime-subscriptions)                          |
 | twitch-prime-program-faq                                      | 22/10/2021, 8:53:55 am  | 11/08/2020, 2:28:38 am  | [Details](#twitch-prime-program-faq)                                       |
@@ -573,6 +572,20 @@ https://help.twitch.tv/s/article/affiliate-settings-guide
 | Guía de configuración de Afiliados   | 03/12/2023, 8:17:17 am | 03/12/2023, 8:17:15 am  |
 | Guía de configuración de afiliados   | 03/12/2023, 8:17:05 am | 03/12/2023, 8:17:02 am  |
 | Affiliate Settings Guide             | 10/11/2023, 4:57:14 am | 14/10/2023, 9:25:59 am  |
+
+
+### affiliates-plus
+https://help.twitch.tv/s/article/affiliates-plus
+
+| Title                                                                  | Last Modified          | Created                 |
+|------------------------------------------------------------------------|------------------------|-------------------------|
+| Affiliates: How to Track Plus Program Progress                         | 25/01/2024, 5:00:47 am | 18/01/2024, 0:48:25 pm  |
+| Affiliates: So verfolgst du den Fortschritt zum Plus-Programm          | 25/01/2024, 5:00:47 am | 18/01/2024, 1:29:58 pm  |
+| Affiliati: come monitorare i progressi del programma Plus              | 25/01/2024, 5:00:47 am | 18/01/2024, 1:29:58 pm  |
+| Affiliés: Comment suivre la progression du nombre de vos points Plus   | 25/01/2024, 5:00:47 am | 18/01/2024, 1:29:58 pm  |
+| Afiliados: Como acompanhar seu progresso no Programa Plus              | 25/01/2024, 5:00:47 am | 18/01/2024, 1:29:58 pm  |
+| Afiliados: cómo realizar un seguimiento del progreso del programa Plus | 25/01/2024, 5:00:47 am | 18/01/2024, 1:29:58 pm  |
+| Afiliados: Cómo seguir el progreso del programa Partner Plus           | 25/01/2024, 5:00:47 am | 18/01/2024, 1:29:58 pm  |
 
 
 ### alerts-by-twitch
@@ -3472,10 +3485,10 @@ https://help.twitch.tv/s/article/partner-plus-abuse
 ### partner-program-overview
 https://help.twitch.tv/s/article/partner-program-overview
 
-| Title                                                | Last Modified           | Created                 |
-|------------------------------------------------------|-------------------------|-------------------------|
-| Descripción general del programa de socios de Twitch | 24/01/2024, 8:40:33 am  | 24/01/2024, 8:40:31 am  |
-| Das Partnerprogramm von Twitch im Überblick          | 19/01/2024, 11:57:40 pm | 18/01/2024, 9:58:18 am  |
+| Title                                                | Last Modified          | Created                 |
+|------------------------------------------------------|------------------------|-------------------------|
+| Das Partnerprogramm von Twitch im Überblick          | 25/01/2024, 5:01:41 am | 24/01/2024, 9:27:14 am  |
+| Descripción general del programa de socios de Twitch | 25/01/2024, 5:01:41 am | 24/01/2024, 9:27:14 am  |
 
 
 ### partner-settings-guide
@@ -3560,14 +3573,13 @@ https://help.twitch.tv/s/article/pools-hottubs-beaches
 ### prime-gaming-revenue-guide
 https://help.twitch.tv/s/article/prime-gaming-revenue-guide
 
-| Title                               | Last Modified           | Created                 |
-|-------------------------------------|-------------------------|-------------------------|
-| Guide de revenu Prime Gaming        | 31/05/2023, 0:13:03 am  | 23/05/2023, 0:18:49 pm  |
-| Leitfaden zu Prime Gaming-Einnahmen | 30/05/2023, 10:34:33 pm | 23/05/2023, 0:18:49 pm  |
-| Guía de ingresos de Prime Gaming    | 30/05/2023, 7:55:20 pm  | 23/05/2023, 0:18:49 pm  |
-| Guía de ingresos de Prime Gaming    | 30/05/2023, 7:07:17 pm  | 23/05/2023, 0:18:49 pm  |
-| Guida ai ricavi di Prime Gaming     | 30/05/2023, 5:46:41 pm  | 23/05/2023, 0:18:49 pm  |
-| Guia de renda do Prime Gaming       | 30/05/2023, 10:34:35 am | 23/05/2023, 0:18:49 pm  |
+| Title                                                    | Last Modified           | Created                 |
+|----------------------------------------------------------|-------------------------|-------------------------|
+| Guía de ingresos por suscripciones de Prime Gaming       | 25/01/2024, 10:53:18 am | 25/01/2024, 8:08:04 am  |
+| Leitfaden zu Einnahmen aus einem Prime Gaming-Abonnement | 25/01/2024, 10:53:14 am | 25/01/2024, 8:08:04 am  |
+| Guida ai ricavi dagli abbonamenti Prime Gaming           | 25/01/2024, 10:53:04 am | 25/01/2024, 8:08:04 am  |
+| Guía de ingresos por suscripciones de Prime Gaming       | 25/01/2024, 10:53:04 am | 25/01/2024, 8:08:04 am  |
+| Guide des revenus des abonnements Prime Gaming           | 25/01/2024, 10:53:02 am | 25/01/2024, 8:08:04 am  |
 
 
 ### promoted-streams
@@ -3980,17 +3992,6 @@ https://help.twitch.tv/s/article/streamer-read-ads
 | Anúncios com leitura de streamer | 11/12/2023, 3:26:33 pm | 11/12/2023, 3:26:31 pm  |
 
 
-### streamer-revenue-strategy-2022
-https://help.twitch.tv/s/article/streamer-revenue-strategy-2022
-
-| Title                                                                | Last Modified          | Created                 |
-|----------------------------------------------------------------------|------------------------|-------------------------|
-| Często zadawane pytania na temat strategii przychodów dla streamerów | 21/09/2022, 7:54:04 pm | 14/09/2022, 8:47:06 am  |
-| Domande frequenti sulla strategia dei ricavi degli streamer          | 21/09/2022, 7:54:04 pm | 14/09/2022, 8:47:06 am  |
-| FAQ sur la stratégie de revenus des streamers                        | 21/09/2022, 7:54:04 pm | 14/09/2022, 8:47:06 am  |
-| FAQ zur Strategie für Streamer-Einnahmen                             | 21/09/2022, 7:54:04 pm | 14/09/2022, 8:47:06 am  |
-
-
 ### studio-obs-ndi
 https://help.twitch.tv/s/article/studio-obs-ndi
 
@@ -4238,12 +4239,12 @@ https://help.twitch.tv/s/article/twitch-account-settings
 ### twitch-affiliate-program-faq
 https://help.twitch.tv/s/article/twitch-affiliate-program-faq
 
-| Title                                                     | Last Modified           | Created                 |
-|-----------------------------------------------------------|-------------------------|-------------------------|
-| FAQ programme d'affiliation Twitch                        | 20/12/2023, 11:39:27 pm | 09/12/2023, 8:50:37 am  |
-| Często zadawane pytania dot. Programu Towarzyszy Twitcha  | 20/12/2023, 11:27:01 pm | 09/12/2023, 8:50:37 am  |
-| Domande frequenti sul programma per gli affiliati Twitch  | 20/12/2023, 8:58:57 pm  | 09/12/2023, 8:50:37 am  |
-| Häufig gestellte Fragen zum Affiliate-Programm von Twitch | 19/12/2023, 11:33:19 pm | 09/12/2023, 8:50:37 am  |
+| Title                                                     | Last Modified          | Created                 |
+|-----------------------------------------------------------|------------------------|-------------------------|
+| Często zadawane pytania dot. Programu Towarzyszy Twitcha  | 25/01/2024, 5:01:06 am | 18/01/2024, 1:29:39 pm  |
+| Domande frequenti sul programma per gli affiliati Twitch  | 25/01/2024, 5:01:06 am | 18/01/2024, 1:29:39 pm  |
+| FAQ programme d'affiliation Twitch                        | 25/01/2024, 5:01:06 am | 18/01/2024, 1:29:39 pm  |
+| Häufig gestellte Fragen zum Affiliate-Programm von Twitch | 25/01/2024, 5:01:05 am | 18/01/2024, 1:29:39 pm  |
 
 
 ### twitch-charity
@@ -4391,21 +4392,12 @@ https://help.twitch.tv/s/article/twitch-prime-guide
 | Leitfaden zu Twitch Prime | 22/10/2021, 8:53:55 am | 11/08/2020, 2:27:53 am  |
 
 
-### twitch-prime-loot-gifting
-https://help.twitch.tv/s/article/twitch-prime-loot-gifting
-
-| Title                             | Last Modified          | Created                 |
-|-----------------------------------|------------------------|-------------------------|
-| Cadeaux de butin Prime Gaming     | 22/10/2021, 8:53:55 am | 13/07/2021, 4:11:36 am  |
-| Donazione ricompense Prime Gaming | 22/10/2021, 8:53:55 am | 13/07/2021, 4:11:36 am  |
-
-
 ### twitch-prime-partner-guide
 https://help.twitch.tv/s/article/twitch-prime-partner-guide
 
 | Title                         | Last Modified          | Created                 |
 |-------------------------------|------------------------|-------------------------|
-| Guia do Parceiro Twitch Prime | 24/05/2023, 4:02:36 am | 24/05/2023, 4:02:36 am  |
+| Guia do Parceiro Twitch Prime | 25/01/2024, 8:07:32 am | 25/01/2024, 8:07:31 am  |
 
 
 ### twitch-prime-program-faq
