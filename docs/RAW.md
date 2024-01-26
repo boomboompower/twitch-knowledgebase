@@ -7,8 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| prime-gaming-revenue-guide                                    | 25/01/2024, 10:53:18 am | 25/01/2024, 8:08:04 am  | [Details](#prime-gaming-revenue-guide)                                     |
-| twitch-prime-partner-guide                                    | 25/01/2024, 8:07:32 am  | 25/01/2024, 8:07:31 am  | [Details](#twitch-prime-partner-guide)                                     |
+| prime-gaming-revenue-guide                                    | 26/01/2024, 0:33:20 pm  | 26/01/2024, 0:04:33 pm  | [Details](#prime-gaming-revenue-guide)                                     |
+| twitch-prime-partner-guide                                    | 26/01/2024, 11:53:24 am | 26/01/2024, 11:53:23 am | [Details](#twitch-prime-partner-guide)                                     |
 | partner-program-overview                                      | 25/01/2024, 5:01:41 am  | 24/01/2024, 9:27:14 am  | [Details](#partner-program-overview)                                       |
 | twitch-affiliate-program-faq                                  | 25/01/2024, 5:01:06 am  | 18/01/2024, 1:29:39 pm  | [Details](#twitch-affiliate-program-faq)                                   |
 | affiliates-plus                                               | 25/01/2024, 5:00:47 am  | 18/01/2024, 0:48:25 pm  | [Details](#affiliates-plus)                                                |
@@ -3573,13 +3573,13 @@ https://help.twitch.tv/s/article/pools-hottubs-beaches
 ### prime-gaming-revenue-guide
 https://help.twitch.tv/s/article/prime-gaming-revenue-guide
 
-| Title                                                    | Last Modified           | Created                 |
-|----------------------------------------------------------|-------------------------|-------------------------|
-| Guía de ingresos por suscripciones de Prime Gaming       | 25/01/2024, 10:53:18 am | 25/01/2024, 8:08:04 am  |
-| Leitfaden zu Einnahmen aus einem Prime Gaming-Abonnement | 25/01/2024, 10:53:14 am | 25/01/2024, 8:08:04 am  |
-| Guida ai ricavi dagli abbonamenti Prime Gaming           | 25/01/2024, 10:53:04 am | 25/01/2024, 8:08:04 am  |
-| Guía de ingresos por suscripciones de Prime Gaming       | 25/01/2024, 10:53:04 am | 25/01/2024, 8:08:04 am  |
-| Guide des revenus des abonnements Prime Gaming           | 25/01/2024, 10:53:02 am | 25/01/2024, 8:08:04 am  |
+| Title                                                    | Last Modified          | Created                 |
+|----------------------------------------------------------|------------------------|-------------------------|
+| Leitfaden zu Einnahmen aus einem Prime Gaming-Abonnement | 26/01/2024, 0:33:20 pm | 26/01/2024, 0:04:33 pm  |
+| Guía de ingresos por suscripciones de Prime Gaming       | 26/01/2024, 0:33:18 pm | 26/01/2024, 0:04:33 pm  |
+| Guide des revenus des abonnements Prime Gaming           | 26/01/2024, 0:33:15 pm | 26/01/2024, 0:04:33 pm  |
+| Guía de ingresos por suscripciones de Prime Gaming       | 26/01/2024, 0:33:13 pm | 26/01/2024, 0:04:33 pm  |
+| Guida ai ricavi dagli abbonamenti Prime Gaming           | 26/01/2024, 0:33:12 pm | 26/01/2024, 0:04:33 pm  |
 
 
 ### promoted-streams
@@ -4395,9 +4395,9 @@ https://help.twitch.tv/s/article/twitch-prime-guide
 ### twitch-prime-partner-guide
 https://help.twitch.tv/s/article/twitch-prime-partner-guide
 
-| Title                         | Last Modified          | Created                 |
-|-------------------------------|------------------------|-------------------------|
-| Guia do Parceiro Twitch Prime | 25/01/2024, 8:07:32 am | 25/01/2024, 8:07:31 am  |
+| Title                         | Last Modified           | Created                  |
+|-------------------------------|-------------------------|--------------------------|
+| Guia do Parceiro Twitch Prime | 26/01/2024, 11:53:24 am | 26/01/2024, 11:53:23 am  |
 
 
 ### twitch-prime-program-faq

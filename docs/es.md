@@ -6,7 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| Prime Gaming Revenue Guide            | 25/01/2024, 10:53:18 am   | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es)             |
+| Prime Gaming Revenue Guide            | 26/01/2024, 0:33:18 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es)             |
 | Partner Program Overview              | 25/01/2024, 5:01:41 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:05 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)           |
 | Subpoint Vs Subcount                  | 23/01/2024, 9:26:33 pm    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=es)                   |
@@ -45,6 +45,8 @@
 | Stream Together Guest Guide           | 27/10/2023, 11:31:03 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=es)            |
 | Stream Together Host Guide            | 27/10/2023, 11:31:03 pm   | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=es)             |
 | How To Use Automod                    | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es)                     |
+| Joining The Affiliate Program         | 25/10/2023, 0:30:07 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es)          |
+| Guest Star Reporting                  | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=es)                   |
 
 
 

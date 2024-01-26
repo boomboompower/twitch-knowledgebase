@@ -6,7 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| Twitch Prime Revenue Guide            | 25/01/2024, 10:53:18 am   | [Link](https://help.twitch.tv/s/article/twitch-prime-revenue-guide?language=th)             |
+| Twitch Prime Revenue Guide            | 26/01/2024, 0:33:15 pm    | [Link](https://help.twitch.tv/s/article/twitch-prime-revenue-guide?language=th)             |
 | Partner Program Overview              | 25/01/2024, 5:01:43 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=th)           |
 | Creator Goals                         | 24/01/2024, 2:50:07 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=th)                          |
@@ -45,6 +45,7 @@
 | Recommended Software For Broadcasting | 28/10/2023, 5:03:10 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=th)  |
 | Twitch Studio Mac Faq                 | 28/10/2023, 4:26:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=th)                  |
 | How To Use Automod                    | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=th)                     |
+| Joining The Affiliate Program         | 23/10/2023, 4:19:06 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=th)          |
 
 
 

@@ -6,7 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| Prime Gaming Revenue Guide            | 25/01/2024, 10:53:04 am   | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)             |
+| Prime Gaming Revenue Guide            | 26/01/2024, 0:33:12 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)             |
 | Partner Program Overview              | 25/01/2024, 5:01:42 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=it)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=it)           |
 | Subpoint Vs Subcount                  | 23/01/2024, 7:54:08 pm    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=it)                   |
@@ -44,6 +44,8 @@
 | Stream Together Guest Guide           | 26/10/2023, 11:45:37 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=it)            |
 | Stream Together Host Guide            | 26/10/2023, 11:45:34 pm   | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=it)             |
 | Guest Star Faqs                       | 26/10/2023, 11:45:34 pm   | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=it)                        |
+| How To Use Automod                    | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=it)                     |
+| Joining The Affiliate Program         | 23/10/2023, 6:07:16 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=it)          |
 
 
 

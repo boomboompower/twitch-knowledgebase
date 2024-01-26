@@ -6,7 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| Prime Gaming Revenue Guide            | 25/01/2024, 10:53:14 am   | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pl)             |
+| Prime Gaming Revenue Guide            | 26/01/2024, 0:33:02 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pl)             |
 | Partner Program Overview              | 25/01/2024, 5:01:43 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pl)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pl)           |
 | Creator Goals                         | 23/01/2024, 11:06:21 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=pl)                          |
@@ -45,6 +45,7 @@
 | Stream Together Guest Guide           | 26/10/2023, 11:41:06 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=pl)            |
 | Stream Together Host Guide            | 26/10/2023, 11:41:03 pm   | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=pl)             |
 | How To Use Automod                    | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pl)                     |
+| Joining The Affiliate Program         | 23/10/2023, 9:02:24 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pl)          |
 
 
 
