@@ -6,7 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| Prime Gaming Revenue Guide            | 26/01/2024, 0:33:20 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=de)             |
+| Prime Gaming Revenue Guide            | 27/01/2024, 7:03:05 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=de)             |
 | Partner Program Overview              | 25/01/2024, 5:01:41 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:05 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)           |
 | Creator Goals                         | 22/01/2024, 11:23:37 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=de)                          |
@@ -46,7 +46,6 @@
 | Stream Together Guest Guide           | 27/10/2023, 8:59:03 pm    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=de)            |
 | How To Use Automod                    | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=de)                     |
 | Joining The Affiliate Program         | 23/10/2023, 7:08:39 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=de)          |
-| Guest Star Reporting                  | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=de)                   |
 
 
 

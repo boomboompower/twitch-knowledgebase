@@ -6,7 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| Prime Gaming Revenue Guide            | 26/01/2024, 0:33:02 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pl)             |
+| Prime Gaming Revenue Guide            | 27/01/2024, 7:03:13 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pl)             |
 | Partner Program Overview              | 25/01/2024, 5:01:43 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pl)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pl)           |
 | Creator Goals                         | 23/01/2024, 11:06:21 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=pl)                          |

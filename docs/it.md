@@ -6,7 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| Prime Gaming Revenue Guide            | 26/01/2024, 0:33:12 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)             |
+| Prime Gaming Revenue Guide            | 27/01/2024, 7:03:27 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)             |
 | Partner Program Overview              | 25/01/2024, 5:01:42 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=it)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=it)           |
 | Subpoint Vs Subcount                  | 23/01/2024, 7:54:08 pm    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=it)                   |
