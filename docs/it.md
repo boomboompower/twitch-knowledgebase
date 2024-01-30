@@ -6,6 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Emote Slots                           | 30/01/2024, 0:29:54 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=it)                            |
 | Prime Gaming Revenue Guide            | 27/01/2024, 7:03:27 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)             |
 | Partner Program Overview              | 25/01/2024, 5:01:42 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=it)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=it)           |
@@ -17,7 +18,6 @@
 | Experiments                           | 20/12/2023, 8:58:48 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=it)                            |
 | Setup Alerts By Twitch                | 20/12/2023, 8:58:46 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=it)                 |
 | Partner Onboarding Guide              | 20/12/2023, 8:58:43 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=it)               |
-| Emote Slots                           | 20/12/2023, 8:58:40 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=it)                            |
 | How To Use Clips                      | 20/12/2023, 8:58:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                       |
 | Guest Star Getting Started            | 14/12/2023, 1:05:14 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=it)             |
 | Date Of Birth Changes                 | 13/12/2023, 9:49:33 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=it)                  |

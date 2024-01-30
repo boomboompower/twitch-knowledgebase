@@ -6,6 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Emote Slots                           | 30/01/2024, 0:29:54 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=de)                            |
 | Prime Gaming Revenue Guide            | 27/01/2024, 7:03:05 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=de)             |
 | Partner Program Overview              | 25/01/2024, 5:01:41 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:05 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)           |
@@ -17,7 +18,6 @@
 | Setup Alerts By Twitch                | 19/12/2023, 11:33:26 pm   | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=de)                 |
 | How To Manage Harassment In Chat      | 19/12/2023, 11:33:24 pm   | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=de)       |
 | Partner Onboarding Guide              | 19/12/2023, 11:33:22 pm   | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=de)               |
-| Emote Slots                           | 19/12/2023, 11:33:13 pm   | [Link](https://help.twitch.tv/s/article/emote-slots?language=de)                            |
 | Experiments                           | 19/12/2023, 11:33:06 pm   | [Link](https://help.twitch.tv/s/article/experiments?language=de)                            |
 | Date Of Birth Changes                 | 16/12/2023, 3:46:33 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=de)                  |
 | Guest Star Getting Started            | 14/12/2023, 2:06:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=de)             |

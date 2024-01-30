@@ -6,6 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Emote Slots                           | 30/01/2024, 0:29:54 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=es)                            |
 | Prime Gaming Revenue Guide            | 27/01/2024, 7:03:08 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es)             |
 | Partner Program Overview              | 25/01/2024, 5:01:41 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:05 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)           |
@@ -15,7 +16,6 @@
 | Managing Your Phone Number            | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es)             |
 | How To Use Clips                      | 20/12/2023, 9:21:59 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                       |
 | How To Manage Harassment In Chat      | 20/12/2023, 9:21:53 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es)       |
-| Emote Slots                           | 20/12/2023, 9:21:45 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=es)                            |
 | Experiments                           | 20/12/2023, 9:21:39 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=es)                            |
 | Setup Alerts By Twitch                | 20/12/2023, 9:21:37 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=es)                 |
 | Partner Onboarding Guide              | 20/12/2023, 9:21:34 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)               |

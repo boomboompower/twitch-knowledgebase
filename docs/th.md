@@ -6,6 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Emote Slots                           | 30/01/2024, 0:29:54 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=th)                            |
 | Twitch Prime Revenue Guide            | 27/01/2024, 7:03:18 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-revenue-guide?language=th)             |
 | Partner Program Overview              | 25/01/2024, 5:01:43 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=th)           |
@@ -14,7 +15,6 @@
 | Twitch Turbo Guide                    | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=th)                     |
 | Managing Your Phone Number            | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=th)             |
 | How To Manage Harassment In Chat      | 21/12/2023, 0:37:14 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=th)       |
-| Emote Slots                           | 21/12/2023, 0:37:11 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=th)                            |
 | Experiments                           | 21/12/2023, 0:37:09 am    | [Link](https://help.twitch.tv/s/article/experiments?language=th)                            |
 | How To Use Clips                      | 21/12/2023, 0:37:07 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=th)                       |
 | Setup Alerts By Twitch                | 21/12/2023, 0:37:05 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=th)                 |

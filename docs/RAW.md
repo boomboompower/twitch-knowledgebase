@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| emote-slots                                                   | 30/01/2024, 0:29:54 pm  | 30/01/2024, 0:29:27 pm  | [Details](#emote-slots)                                                    |
 | prime-gaming-revenue-guide                                    | 27/01/2024, 7:03:30 am  | 27/01/2024, 7:03:28 am  | [Details](#prime-gaming-revenue-guide)                                     |
 | twitch-prime-partner-guide                                    | 26/01/2024, 11:53:24 am | 26/01/2024, 11:53:23 am | [Details](#twitch-prime-partner-guide)                                     |
 | partner-program-overview                                      | 25/01/2024, 5:01:41 am  | 24/01/2024, 9:27:14 am  | [Details](#partner-program-overview)                                       |
@@ -25,7 +26,6 @@ Language data is not included in the API. All page links will not have a languag
 | experiments                                                   | 20/12/2023, 11:39:16 pm | 26/10/2023, 10:24:38 am | [Details](#experiments)                                                    |
 | partner-onboarding-guide                                      | 20/12/2023, 11:39:13 pm | 09/12/2023, 8:50:18 am  | [Details](#partner-onboarding-guide)                                       |
 | setup-alerts-by-twitch                                        | 20/12/2023, 11:39:11 pm | 20/12/2023, 11:39:04 pm | [Details](#setup-alerts-by-twitch)                                         |
-| emote-slots                                                   | 20/12/2023, 11:39:10 pm | 09/12/2023, 8:51:52 am  | [Details](#emote-slots)                                                    |
 | bits-price-adjustment                                         | 20/12/2023, 11:39:02 pm | 22/11/2023, 10:47:29 am | [Details](#bits-price-adjustment)                                          |
 | annual-recap                                                  | 17/12/2023, 11:02:07 pm | 17/12/2023, 11:02:05 pm | [Details](#annual-recap)                                                   |
 | how-to-use-badges                                             | 16/12/2023, 11:55:09 am | 21/11/2023, 11:48:10 am | [Details](#how-to-use-badges)                                              |
@@ -1660,13 +1660,13 @@ https://help.twitch.tv/s/article/emote-library
 ### emote-slots
 https://help.twitch.tv/s/article/emote-slots
 
-| Title                     | Last Modified           | Created                 |
-|---------------------------|-------------------------|-------------------------|
-| Emplacements d’émoticônes | 20/12/2023, 11:39:10 pm | 09/12/2023, 8:51:52 am  |
-| Miejsca na emotki         | 20/12/2023, 11:27:04 pm | 09/12/2023, 8:51:52 am  |
-| Espaços de emote          | 20/12/2023, 1:04:46 pm  | 09/12/2023, 8:51:52 am  |
-| Emote-Slots               | 19/12/2023, 11:33:13 pm | 09/12/2023, 8:51:52 am  |
-| Emote Slots               | 09/12/2023, 7:24:48 am  | 09/12/2023, 7:05:42 am  |
+| Title                     | Last Modified          | Created                 |
+|---------------------------|------------------------|-------------------------|
+| Emote Slots               | 30/01/2024, 0:29:54 pm | 30/01/2024, 0:29:27 pm  |
+| Emote-Slots               | 30/01/2024, 0:29:54 pm | 30/01/2024, 0:29:53 pm  |
+| Emplacements d’émoticônes | 30/01/2024, 0:29:54 pm | 30/01/2024, 0:29:53 pm  |
+| Espaços de emote          | 30/01/2024, 0:29:54 pm | 30/01/2024, 0:29:53 pm  |
+| Miejsca na emotki         | 30/01/2024, 0:29:54 pm | 30/01/2024, 0:29:53 pm  |
 
 
 ### engagement

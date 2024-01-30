@@ -6,6 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Emote Slots                           | 30/01/2024, 0:29:54 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=tr)                            |
 | Prime Gaming Revenue Guide            | 27/01/2024, 7:03:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=tr)             |
 | Partner Program Overview              | 25/01/2024, 5:01:43 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=tr)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=tr)           |
@@ -18,7 +19,6 @@
 | How To Manage Harassment In Chat      | 15/12/2023, 9:04:22 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=tr)       |
 | How To Use Clips                      | 15/12/2023, 9:04:21 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=tr)                       |
 | Experiments                           | 15/12/2023, 9:04:17 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=tr)                            |
-| Emote Slots                           | 15/12/2023, 9:04:15 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=tr)                            |
 | Guest Star Getting Started            | 14/12/2023, 1:05:14 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=tr)             |
 | Emote Guidelines                      | 09/12/2023, 1:02:54 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=tr)                       |
 | Animated Emotes                       | 09/12/2023, 8:45:04 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=tr)                        |

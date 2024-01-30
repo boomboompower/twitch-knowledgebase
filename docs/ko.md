@@ -6,6 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Emote Slots                           | 30/01/2024, 0:29:54 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=ko)                            |
 | Prime Gaming Revenue Guide            | 27/01/2024, 7:03:21 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ko)             |
 | Partner Program Overview              | 25/01/2024, 5:01:43 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ko)           |
@@ -13,7 +14,6 @@
 | Creator Goals                         | 24/01/2024, 1:22:34 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=ko)                          |
 | Twitch Turbo Guide                    | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ko)                     |
 | Managing Your Phone Number            | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ko)             |
-| Emote Slots                           | 20/12/2023, 9:30:26 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=ko)                            |
 | How To Manage Harassment In Chat      | 20/12/2023, 9:30:12 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ko)       |
 | Experiments                           | 20/12/2023, 9:30:09 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=ko)                            |
 | How To Use Clips                      | 20/12/2023, 9:30:07 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ko)                       |

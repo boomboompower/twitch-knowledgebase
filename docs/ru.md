@@ -6,6 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Emote Slots                           | 30/01/2024, 0:29:54 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=ru)                            |
 | Prime Gaming Revenue Guide            | 27/01/2024, 7:03:16 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ru)             |
 | Partner Program Overview              | 25/01/2024, 5:01:43 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ru)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ru)           |
@@ -13,7 +14,6 @@
 | Creator Goals                         | 23/01/2024, 11:55:07 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=ru)                          |
 | Twitch Turbo Guide                    | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ru)                     |
 | Managing Your Phone Number            | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ru)             |
-| Emote Slots                           | 20/12/2023, 10:45:58 pm   | [Link](https://help.twitch.tv/s/article/emote-slots?language=ru)                            |
 | How To Manage Harassment In Chat      | 20/12/2023, 10:45:55 pm   | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ru)       |
 | Experiments                           | 20/12/2023, 10:45:53 pm   | [Link](https://help.twitch.tv/s/article/experiments?language=ru)                            |
 | How To Use Clips                      | 20/12/2023, 10:45:46 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ru)                       |

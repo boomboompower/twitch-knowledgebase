@@ -6,6 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Emote Slots                           | 30/01/2024, 0:29:54 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=en_US)                            |
 | Prime Gaming Revenue Guide            | 26/01/2024, 11:53:25 am   | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)             |
 | Partner Program Overview              | 25/01/2024, 5:01:41 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=en_US)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:05 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)           |
@@ -18,7 +19,6 @@
 | Animated Emotes                       | 09/12/2023, 8:45:36 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=en_US)                        |
 | Setup Alerts By Twitch                | 09/12/2023, 7:25:19 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=en_US)                 |
 | Emote Guidelines                      | 09/12/2023, 7:24:59 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=en_US)                       |
-| Emote Slots                           | 09/12/2023, 7:24:48 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=en_US)                            |
 | First Steps For New Affiliates        | 07/12/2023, 7:51:08 am    | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=en_US)         |
 | Experiments                           | 06/12/2023, 3:16:05 am    | [Link](https://help.twitch.tv/s/article/experiments?language=en_US)                            |
 | Channel Analytics                     | 02/12/2023, 9:45:33 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=en_US)                      |

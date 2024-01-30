@@ -6,6 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Emote Slots                           | 30/01/2024, 0:29:54 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=zh_TW)                            |
 | Prime Gaming Revenue Guide            | 27/01/2024, 7:03:20 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)             |
 | Partner Program Overview              | 25/01/2024, 5:01:43 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:07 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)           |
@@ -15,7 +16,6 @@
 | Managing Your Phone Number            | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)             |
 | Experiments                           | 19/12/2023, 8:51:53 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                            |
 | How To Use Clips                      | 19/12/2023, 8:51:50 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                       |
-| Emote Slots                           | 19/12/2023, 8:51:45 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=zh_TW)                            |
 | Partner Onboarding Guide              | 19/12/2023, 8:51:41 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=zh_TW)               |
 | Setup Alerts By Twitch                | 19/12/2023, 8:51:39 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=zh_TW)                 |
 | How To Manage Harassment In Chat      | 19/12/2023, 8:51:36 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=zh_TW)       |

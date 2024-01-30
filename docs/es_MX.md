@@ -6,6 +6,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Emote Slots                           | 30/01/2024, 0:29:54 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=es_MX)                            |
 | Prime Gaming Revenue Guide            | 27/01/2024, 7:03:30 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)             |
 | Partner Program Overview              | 25/01/2024, 5:01:41 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)           |
@@ -18,7 +19,6 @@
 | Experiments                           | 20/12/2023, 3:24:27 am    | [Link](https://help.twitch.tv/s/article/experiments?language=es_MX)                            |
 | Partner Onboarding Guide              | 20/12/2023, 3:24:24 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es_MX)               |
 | Setup Alerts By Twitch                | 20/12/2023, 3:24:17 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=es_MX)                 |
-| Emote Slots                           | 20/12/2023, 3:24:12 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=es_MX)                            |
 | Guest Star Getting Started            | 14/12/2023, 1:05:14 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es_MX)             |
 | Date Of Birth Changes                 | 13/12/2023, 8:26:03 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                  |
 | Emote Guidelines                      | 09/12/2023, 1:02:59 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es_MX)                       |
