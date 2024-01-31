@@ -6,7 +6,9 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
-| Emote Slots                           | 30/01/2024, 0:29:54 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=zh_TW)                            |
+| Emote Library                         | 31/01/2024, 4:36:47 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=zh_TW)                          |
+| Animated Emotes                       | 31/01/2024, 4:27:29 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=zh_TW)                        |
+| Emote Slots                           | 31/01/2024, 4:15:31 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=zh_TW)                            |
 | Prime Gaming Revenue Guide            | 27/01/2024, 7:03:20 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)             |
 | Partner Program Overview              | 25/01/2024, 5:01:43 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:07 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)           |
@@ -22,7 +24,6 @@
 | Guest Star Getting Started            | 14/12/2023, 1:05:14 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)             |
 | Date Of Birth Changes                 | 13/12/2023, 10:19:34 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                  |
 | Emote Guidelines                      | 09/12/2023, 1:02:52 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=zh_TW)                       |
-| Animated Emotes                       | 09/12/2023, 8:45:04 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=zh_TW)                        |
 | First Steps For New Affiliates        | 07/12/2023, 11:02:05 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=zh_TW)         |
 | Ads Manager                           | 05/12/2023, 0:03:21 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=zh_TW)                            |
 | Alerts By Twitch Faq                  | 04/12/2023, 9:13:36 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=zh_TW)                   |
@@ -46,7 +47,6 @@
 | Stream Together Guest Guide           | 27/10/2023, 0:18:03 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=zh_TW)            |
 | How To Use Automod                    | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=zh_TW)                     |
 | Joining The Affiliate Program         | 23/10/2023, 11:36:20 am   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)          |
-| Guest Star Reporting                  | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=zh_TW)                   |
 
 
 

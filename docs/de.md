@@ -6,7 +6,9 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| Emote Slots                           | 30/01/2024, 0:29:54 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=de)                            |
+| Emote Library                         | 31/01/2024, 4:36:47 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=de)                          |
+| Animated Emotes                       | 31/01/2024, 4:27:28 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=de)                        |
+| Emote Slots                           | 31/01/2024, 4:15:31 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=de)                            |
 | Prime Gaming Revenue Guide            | 27/01/2024, 7:03:05 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=de)             |
 | Partner Program Overview              | 25/01/2024, 5:01:41 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:05 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)           |
@@ -22,7 +24,6 @@
 | Date Of Birth Changes                 | 16/12/2023, 3:46:33 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=de)                  |
 | Guest Star Getting Started            | 14/12/2023, 2:06:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=de)             |
 | Emote Guidelines                      | 09/12/2023, 1:03:09 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=de)                       |
-| Animated Emotes                       | 09/12/2023, 8:45:04 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=de)                        |
 | First Steps For New Affiliates        | 07/12/2023, 11:01:38 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=de)         |
 | Ads Manager                           | 05/12/2023, 0:03:19 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=de)                            |
 | Alerts By Twitch Events               | 05/12/2023, 0:02:40 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=de)                |

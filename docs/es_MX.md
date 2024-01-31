@@ -6,7 +6,9 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
-| Emote Slots                           | 30/01/2024, 0:29:54 pm    | [Link](https://help.twitch.tv/s/article/emote-slots?language=es_MX)                            |
+| Emote Library                         | 31/01/2024, 4:36:47 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=es_MX)                          |
+| Animated Emotes                       | 31/01/2024, 4:27:28 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=es_MX)                        |
+| Emote Slots                           | 31/01/2024, 4:15:31 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=es_MX)                            |
 | Prime Gaming Revenue Guide            | 27/01/2024, 7:03:30 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)             |
 | Partner Program Overview              | 25/01/2024, 5:01:41 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)           |
@@ -22,7 +24,6 @@
 | Guest Star Getting Started            | 14/12/2023, 1:05:14 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es_MX)             |
 | Date Of Birth Changes                 | 13/12/2023, 8:26:03 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                  |
 | Emote Guidelines                      | 09/12/2023, 1:02:59 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es_MX)                       |
-| Animated Emotes                       | 09/12/2023, 8:45:04 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=es_MX)                        |
 | First Steps For New Affiliates        | 07/12/2023, 11:01:32 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=es_MX)         |
 | Ads Manager                           | 05/12/2023, 0:03:34 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=es_MX)                            |
 | Alerts By Twitch Faq                  | 04/12/2023, 9:57:38 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=es_MX)                   |
@@ -46,7 +47,6 @@
 | Stream Together Host Guide            | 26/10/2023, 11:53:05 pm   | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=es_MX)             |
 | How To Use Automod                    | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es_MX)                     |
 | Joining The Affiliate Program         | 25/10/2023, 2:24:40 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)          |
-| Guest Star Reporting                  | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=es_MX)                   |
 
 
 
