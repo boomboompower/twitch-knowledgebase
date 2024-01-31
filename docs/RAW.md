@@ -7,7 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| emote-slots                                                   | 30/01/2024, 0:29:54 pm  | 30/01/2024, 0:29:27 pm  | [Details](#emote-slots)                                                    |
+| emote-library                                                 | 31/01/2024, 4:36:47 am  | 31/01/2024, 4:36:46 am  | [Details](#emote-library)                                                  |
+| animated-emotes                                               | 31/01/2024, 4:27:29 am  | 09/12/2023, 8:51:11 am  | [Details](#animated-emotes)                                                |
+| emote-slots                                                   | 31/01/2024, 4:15:32 am  | 31/01/2024, 4:15:13 am  | [Details](#emote-slots)                                                    |
 | prime-gaming-revenue-guide                                    | 27/01/2024, 7:03:30 am  | 27/01/2024, 7:03:28 am  | [Details](#prime-gaming-revenue-guide)                                     |
 | twitch-prime-partner-guide                                    | 26/01/2024, 11:53:24 am | 26/01/2024, 11:53:23 am | [Details](#twitch-prime-partner-guide)                                     |
 | partner-program-overview                                      | 25/01/2024, 5:01:41 am  | 24/01/2024, 9:27:14 am  | [Details](#partner-program-overview)                                       |
@@ -37,7 +39,6 @@ Language data is not included in the API. All page links will not have a languag
 | stories                                                       | 13/12/2023, 7:52:06 pm  | 07/12/2023, 11:46:59 am | [Details](#stories)                                                        |
 | streamer-read-ads                                             | 11/12/2023, 3:26:46 pm  | 11/12/2023, 3:26:44 pm  | [Details](#streamer-read-ads)                                              |
 | emote-guidelines                                              | 09/12/2023, 1:03:09 pm  | 09/12/2023, 8:51:31 am  | [Details](#emote-guidelines)                                               |
-| animated-emotes                                               | 09/12/2023, 8:45:36 am  | 09/12/2023, 8:44:38 am  | [Details](#animated-emotes)                                                |
 | first-steps-for-new-affiliates                                | 07/12/2023, 11:01:38 pm | 07/12/2023, 11:01:36 pm | [Details](#first-steps-for-new-affiliates)                                 |
 | discovery-feed                                                | 07/12/2023, 11:01:18 pm | 07/12/2023, 11:01:17 pm | [Details](#discovery-feed)                                                 |
 | 2023-updated-monetized-streamer-agreement                     | 05/12/2023, 2:29:24 pm  | 09/06/2023, 1:09:06 pm  | [Details](#2023-updated-monetized-streamer-agreement)                      |
@@ -275,7 +276,6 @@ Language data is not included in the API. All page links will not have a languag
 | adding-a-game-and-box-art-to-the-directory                    | 10/12/2021, 6:25:59 am  | 10/12/2021, 6:22:46 am  | [Details](#adding-a-game-and-box-art-to-the-directory)                     |
 | system-audio-capture-permission                               | 30/11/2021, 5:09:19 am  | 19/11/2021, 5:23:25 am  | [Details](#system-audio-capture-permission)                                |
 | modified-emotes                                               | 19/11/2021, 5:13:45 am  | 13/10/2021, 4:29:55 am  | [Details](#modified-emotes)                                                |
-| emote-library                                                 | 19/11/2021, 5:13:43 am  | 13/10/2021, 4:29:25 am  | [Details](#emote-library)                                                  |
 | default-emotes                                                | 19/11/2021, 5:12:28 am  | 13/10/2021, 4:28:41 am  | [Details](#default-emotes)                                                 |
 | purchase-support-faq                                          | 12/11/2021, 7:18:37 am  | 17/06/2021, 1:28:29 am  | [Details](#purchase-support-faq)                                           |
 | failed-payments                                               | 23/10/2021, 10:41:04 am | 07/10/2021, 10:09:17 am | [Details](#failed-payments)                                                |
@@ -733,16 +733,16 @@ https://help.twitch.tv/s/article/android-purchases
 ### animated-emotes
 https://help.twitch.tv/s/article/animated-emotes
 
-| Title                | Last Modified          | Created                 |
-|----------------------|------------------------|-------------------------|
-| Animated Emotes      | 09/12/2023, 8:45:36 am | 09/12/2023, 8:44:38 am  |
-| Animasyonlu İfadeler | 09/12/2023, 8:45:04 am | 09/12/2023, 8:45:03 am  |
-| Animierte Emotes     | 09/12/2023, 8:45:04 am | 09/12/2023, 8:45:03 am  |
-| Animowane emotki     | 09/12/2023, 8:45:04 am | 09/12/2023, 8:45:03 am  |
-| Emotes animados      | 09/12/2023, 8:45:04 am | 09/12/2023, 8:45:03 am  |
-| Emoticon animate     | 09/12/2023, 8:45:04 am | 09/12/2023, 8:45:03 am  |
-| Emoticonos animados  | 09/12/2023, 8:45:04 am | 09/12/2023, 8:45:03 am  |
-| Emoticonos animados  | 09/12/2023, 8:45:04 am | 09/12/2023, 8:45:03 am  |
+| Title                | Last Modified          | Created                  |
+|----------------------|------------------------|--------------------------|
+| Animasyonlu İfadeler | 31/01/2024, 4:27:29 am | 09/12/2023, 8:51:11 am   |
+| Animowane emotki     | 31/01/2024, 4:27:29 am | 09/12/2023, 8:51:11 am   |
+| Emotes animados      | 31/01/2024, 4:27:29 am | 09/12/2023, 8:51:11 am   |
+| Animated Emotes      | 31/01/2024, 4:27:28 am | 13/12/2023, 11:14:49 am  |
+| Animierte Emotes     | 31/01/2024, 4:27:28 am | 09/12/2023, 8:51:11 am   |
+| Emoticon animate     | 31/01/2024, 4:27:28 am | 09/12/2023, 8:51:11 am   |
+| Emoticonos animados  | 31/01/2024, 4:27:28 am | 09/12/2023, 8:51:11 am   |
+| Emoticonos animados  | 31/01/2024, 4:27:28 am | 09/12/2023, 8:51:11 am   |
 
 
 ### annual-recap
@@ -1647,14 +1647,14 @@ https://help.twitch.tv/s/article/emote-library
 
 | Title                     | Last Modified          | Created                 |
 |---------------------------|------------------------|-------------------------|
-| Biblioteca de emotes      | 19/11/2021, 5:13:43 am | 13/10/2021, 4:29:25 am  |
-| Biblioteca de emoticonos  | 19/11/2021, 5:13:43 am | 13/10/2021, 4:29:25 am  |
-| Libreria delle emoticon   | 19/11/2021, 5:13:43 am | 13/10/2021, 4:29:25 am  |
-| Emote-Bibliothek          | 19/11/2021, 5:13:08 am | 13/10/2021, 4:29:25 am  |
-| Biblioteca de emoticonos  | 19/11/2021, 5:13:07 am | 13/10/2021, 4:29:25 am  |
-| Biblioteka emotek         | 19/11/2021, 5:13:07 am | 13/10/2021, 4:29:25 am  |
-| Bibliothèque d'émoticônes | 19/11/2021, 5:13:07 am | 13/10/2021, 4:29:25 am  |
-| Emote Library             | 19/11/2021, 5:11:21 am | 01/10/2021, 2:01:15 pm  |
+| Biblioteca de emotes      | 31/01/2024, 4:36:47 am | 31/01/2024, 4:36:46 am  |
+| Biblioteca de emoticonos  | 31/01/2024, 4:36:47 am | 31/01/2024, 4:36:46 am  |
+| Biblioteca de emoticonos  | 31/01/2024, 4:36:47 am | 31/01/2024, 4:36:46 am  |
+| Biblioteka emotek         | 31/01/2024, 4:36:47 am | 31/01/2024, 4:36:46 am  |
+| Bibliothèque d'émoticônes | 31/01/2024, 4:36:47 am | 31/01/2024, 4:36:46 am  |
+| Emote Library             | 31/01/2024, 4:36:47 am | 31/01/2024, 4:36:24 am  |
+| Emote-Bibliothek          | 31/01/2024, 4:36:47 am | 31/01/2024, 4:36:46 am  |
+| Libreria delle emoticon   | 31/01/2024, 4:36:47 am | 31/01/2024, 4:36:46 am  |
 
 
 ### emote-slots
@@ -1662,11 +1662,11 @@ https://help.twitch.tv/s/article/emote-slots
 
 | Title                     | Last Modified          | Created                 |
 |---------------------------|------------------------|-------------------------|
-| Emote Slots               | 30/01/2024, 0:29:54 pm | 30/01/2024, 0:29:27 pm  |
-| Emote-Slots               | 30/01/2024, 0:29:54 pm | 30/01/2024, 0:29:53 pm  |
-| Emplacements d’émoticônes | 30/01/2024, 0:29:54 pm | 30/01/2024, 0:29:53 pm  |
-| Espaços de emote          | 30/01/2024, 0:29:54 pm | 30/01/2024, 0:29:53 pm  |
-| Miejsca na emotki         | 30/01/2024, 0:29:54 pm | 30/01/2024, 0:29:53 pm  |
+| Emote Slots               | 31/01/2024, 4:15:32 am | 31/01/2024, 4:15:13 am  |
+| Emote-Slots               | 31/01/2024, 4:15:31 am | 31/01/2024, 4:15:30 am  |
+| Emplacements d’émoticônes | 31/01/2024, 4:15:31 am | 31/01/2024, 4:15:30 am  |
+| Espaços de emote          | 31/01/2024, 4:15:31 am | 31/01/2024, 4:15:30 am  |
+| Miejsca na emotki         | 31/01/2024, 4:15:31 am | 31/01/2024, 4:15:30 am  |
 
 
 ### engagement
