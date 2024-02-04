@@ -52,6 +52,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Stream Together Host Guide                                    | 21/10/2023, 3:02:23 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=en_US)                                     |
+| Guest Star Faqs                                               | 21/10/2023, 3:02:12 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=en_US)                                                |
+| Guest Star                                                    | 21/10/2023, 3:01:16 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=en_US)                                                     |
 | Mission Based Drops                                           | 19/10/2023, 3:00:54 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                                            |
 | Joining The Affiliate Program                                 | 17/10/2023, 3:50:24 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=en_US)                                  |
 | Tips For Applying To The Partner Program                      | 14/10/2023, 4:19:20 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)                       |
@@ -182,7 +185,6 @@
 | System Audio Capture Permission             | 19/11/2021, 5:23:06 am    | [Link](https://help.twitch.tv/s/article/system-audio-capture-permission?language=en_US)              |
 | Default Emotes                              | 19/11/2021, 5:11:32 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=en_US)                               |
 | Modified Emotes                             | 19/11/2021, 5:11:27 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=en_US)                              |
-| Emote Library                               | 19/11/2021, 5:11:21 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=en_US)                                |
 | Purchase Support Faq                        | 12/11/2021, 7:18:37 am    | [Link](https://help.twitch.tv/s/article/purchase-support-faq?language=en_US)                         |
 | Hindsight 2020                              | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=en_US)                               |
 | Glitchcon Sweepstakes Rules                 | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/glitchcon-sweepstakes-rules?language=en_US)                  |
@@ -192,6 +194,7 @@
 | Rpg Megacheer                               | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=en_US)                                |
 | Megacheer Food Fight                        | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=en_US)                         |
 | Official Twitch Channel Chat Rules          | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/official-twitch-channel-chat-rules?language=en_US)           |
+| Community Meetups Powered By Twitch         | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=en_US)          |
 
 
 
@@ -200,7 +203,6 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                       |
 |---------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------|
-| Community Meetups Powered By Twitch               | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=en_US)                |
 | Advanced Audio Mixer                              | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=en_US)                               |
 | Studio Ui                                         | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/studio-ui?language=en_US)                                          |
 | Scene Transitions                                 | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/scene-transitions?language=en_US)                                  |

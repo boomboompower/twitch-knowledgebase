@@ -188,7 +188,6 @@
 | Broadcast Guidelines                          | 19/02/2022, 10:04:57 am   | [Link](https://help.twitch.tv/s/article/broadcast-guidelines?language=th)                           |
 | Scene Transitions                             | 19/02/2022, 10:04:47 am   | [Link](https://help.twitch.tv/s/article/scene-transitions?language=th)                              |
 | Twitch Music Fast Start Guide                 | 19/02/2022, 10:04:34 am   | [Link](https://help.twitch.tv/s/article/twitch-music-fast-start-guide?language=th)                  |
-| Emote Library                                 | 19/02/2022, 10:04:13 am   | [Link](https://help.twitch.tv/s/article/emote-library?language=th)                                  |
 | Where Are My Notifications                    | 19/02/2022, 10:04:09 am   | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=th)                     |
 | Setting Up Moderation For Your Twitch Channel | 19/02/2022, 10:04:05 am   | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=th)  |
 | Custom Bit Badges Guide                       | 19/02/2022, 10:03:43 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=th)                        |
@@ -199,6 +198,7 @@
 | Modified Emotes                               | 19/11/2021, 5:13:45 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=th)                                |
 | Hyper Scape                                   | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/hyper-scape?language=th)                                    |
 | Stream With Pride                             | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=th)                              |
+| Community Meetups Powered By Twitch           | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=th)            |
 
 
 
@@ -207,7 +207,6 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
-| Community Meetups Powered By Twitch               | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=th)                |
 | Advanced Audio Mixer                              | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/advanced-audio-mixer?language=th)                               |
 | Setting Up Alerts                                 | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/setting-up-alerts?language=th)                                  |
 | Overview Of Audio                                 | 22/10/2021, 8:54:20 am    | [Link](https://help.twitch.tv/s/article/overview-of-audio?language=th)                                  |
