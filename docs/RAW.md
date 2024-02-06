@@ -7,10 +7,13 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| emote-slots                                                   | 06/02/2024, 8:39:26 am  | 06/02/2024, 8:37:12 am  | [Details](#emote-slots)                                                    |
+| multiple-encodes                                              | 06/02/2024, 8:07:28 am  | 06/02/2024, 8:07:27 am  | [Details](#multiple-encodes)                                               |
+| sub-codes                                                     | 06/02/2024, 7:55:19 am  | 06/02/2024, 7:55:18 am  | [Details](#sub-codes)                                                      |
+| joining-guest-star                                            | 06/02/2024, 3:35:34 am  | 14/10/2023, 1:55:20 pm  | [Details](#joining-guest-star)                                             |
 | affiliates-plus                                               | 02/02/2024, 9:41:32 am  | 02/02/2024, 9:40:47 am  | [Details](#affiliates-plus)                                                |
 | emote-library                                                 | 31/01/2024, 4:36:47 am  | 31/01/2024, 4:36:46 am  | [Details](#emote-library)                                                  |
 | animated-emotes                                               | 31/01/2024, 4:27:29 am  | 09/12/2023, 8:51:11 am  | [Details](#animated-emotes)                                                |
-| emote-slots                                                   | 31/01/2024, 4:15:32 am  | 31/01/2024, 4:15:13 am  | [Details](#emote-slots)                                                    |
 | prime-gaming-revenue-guide                                    | 27/01/2024, 7:03:30 am  | 27/01/2024, 7:03:28 am  | [Details](#prime-gaming-revenue-guide)                                     |
 | twitch-prime-partner-guide                                    | 26/01/2024, 11:53:24 am | 26/01/2024, 11:53:23 am | [Details](#twitch-prime-partner-guide)                                     |
 | partner-program-overview                                      | 25/01/2024, 5:01:41 am  | 24/01/2024, 9:27:14 am  | [Details](#partner-program-overview)                                       |
@@ -21,7 +24,6 @@ Language data is not included in the API. All page links will not have a languag
 | twitch-turbo-guide                                            | 18/01/2024, 2:49:28 pm  | 18/01/2024, 2:49:27 pm  | [Details](#twitch-turbo-guide)                                             |
 | korea-update-nonkr                                            | 18/01/2024, 11:05:30 am | 18/01/2024, 11:05:29 am | [Details](#korea-update-nonkr)                                             |
 | managing-your-phone-number                                    | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am | [Details](#managing-your-phone-number)                                     |
-| multiple-encodes                                              | 09/01/2024, 3:30:19 am  | 09/12/2023, 4:17:18 pm  | [Details](#multiple-encodes)                                               |
 | hype-challenge                                                | 21/12/2023, 0:37:18 am  | 21/12/2023, 0:37:17 am  | [Details](#hype-challenge)                                                 |
 | how-to-use-clips                                              | 20/12/2023, 11:39:34 pm | 19/09/2023, 8:34:23 am  | [Details](#how-to-use-clips)                                               |
 | how-to-manage-harassment-in-chat                              | 20/12/2023, 11:39:28 pm | 23/11/2023, 8:05:51 am  | [Details](#how-to-manage-harassment-in-chat)                               |
@@ -113,7 +115,6 @@ Language data is not included in the API. All page links will not have a languag
 | channel-points-faq                                            | 12/09/2023, 6:26:17 am  | 12/09/2023, 6:26:14 am  | [Details](#channel-points-faq)                                             |
 | guest-star-audio                                              | 12/09/2023, 6:23:18 am  | 12/09/2023, 6:23:16 am  | [Details](#guest-star-audio)                                               |
 | languages-on-twitch                                           | 12/09/2023, 6:22:16 am  | 12/09/2023, 6:22:14 am  | [Details](#languages-on-twitch)                                            |
-| sub-codes                                                     | 12/09/2023, 6:22:11 am  | 12/09/2023, 6:22:10 am  | [Details](#sub-codes)                                                      |
 | how-subscription-streaks-work                                 | 12/09/2023, 6:21:31 am  | 12/09/2023, 6:21:30 am  | [Details](#how-subscription-streaks-work)                                  |
 | how-to-use-raids                                              | 12/09/2023, 6:21:31 am  | 12/09/2023, 6:21:27 am  | [Details](#how-to-use-raids)                                               |
 | amazon-tax-information-interview-and-irs-annual-reporting-faq | 12/09/2023, 6:20:14 am  | 12/09/2023, 6:20:13 am  | [Details](#amazon-tax-information-interview-and-irs-annual-reporting-faq)  |
@@ -196,7 +197,6 @@ Language data is not included in the API. All page links will not have a languag
 | supported-mobile-os                                           | 09/02/2023, 0:22:02 am  | 03/02/2023, 0:01:51 pm  | [Details](#supported-mobile-os)                                            |
 | gift-card                                                     | 27/01/2023, 3:03:45 am  | 06/01/2023, 1:48:07 pm  | [Details](#gift-card)                                                      |
 | mobile-irl-broadcasting                                       | 24/01/2023, 5:59:40 am  | 06/12/2022, 4:43:47 am  | [Details](#mobile-irl-broadcasting)                                        |
-| joining-guest-star                                            | 21/01/2023, 1:27:35 am  | 21/01/2023, 1:27:33 am  | [Details](#joining-guest-star)                                             |
 | guest-request-to-join                                         | 18/01/2023, 4:05:10 am  | 18/01/2023, 4:04:59 am  | [Details](#guest-request-to-join)                                          |
 | twitch-mobile-app-update                                      | 16/01/2023, 10:39:33 pm | 11/01/2023, 7:01:26 am  | [Details](#twitch-mobile-app-update)                                       |
 | how-to-share-a-stream                                         | 13/01/2023, 10:51:02 pm | 06/01/2023, 0:52:02 pm  | [Details](#how-to-share-a-stream)                                          |
@@ -1662,11 +1662,11 @@ https://help.twitch.tv/s/article/emote-slots
 
 | Title                     | Last Modified          | Created                 |
 |---------------------------|------------------------|-------------------------|
-| Emote Slots               | 31/01/2024, 4:15:32 am | 31/01/2024, 4:15:13 am  |
-| Emote-Slots               | 31/01/2024, 4:15:31 am | 31/01/2024, 4:15:30 am  |
-| Emplacements d’émoticônes | 31/01/2024, 4:15:31 am | 31/01/2024, 4:15:30 am  |
-| Espaços de emote          | 31/01/2024, 4:15:31 am | 31/01/2024, 4:15:30 am  |
-| Miejsca na emotki         | 31/01/2024, 4:15:31 am | 31/01/2024, 4:15:30 am  |
+| Emote Slots               | 06/02/2024, 8:39:26 am | 06/02/2024, 8:37:12 am  |
+| Emote-Slots               | 06/02/2024, 8:39:26 am | 06/02/2024, 8:39:25 am  |
+| Emplacements d’émoticônes | 06/02/2024, 8:39:26 am | 06/02/2024, 8:39:25 am  |
+| Espaços de emote          | 06/02/2024, 8:39:26 am | 06/02/2024, 8:39:25 am  |
+| Miejsca na emotki         | 06/02/2024, 8:39:26 am | 06/02/2024, 8:39:25 am  |
 
 
 ### engagement
@@ -1720,6 +1720,7 @@ https://help.twitch.tv/s/article/failed-payments
 | Error en pagos de suscripciones    | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
 | Falhas em pagamentos de inscrições | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
 | Fehlgeschlagene Zahlungen für Abos | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
+| Nieudane płatności za subskrypcje  | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
 | Failed Payments for Subscriptions  | 09/10/2021, 6:52:36 am  | 09/10/2021, 6:49:24 am   |
 
 
@@ -2847,15 +2848,12 @@ https://help.twitch.tv/s/article/ingame-overlay
 ### joining-guest-star
 https://help.twitch.tv/s/article/joining-guest-star
 
-| Title                                              | Last Modified          | Created                 |
-|----------------------------------------------------|------------------------|-------------------------|
-| Beitreten als Guest Star-Gast                      | 21/01/2023, 1:27:35 am | 21/01/2023, 1:27:33 am  |
-| Cómo unirse como Guest Star                        | 21/01/2023, 0:22:34 am | 21/01/2023, 0:22:32 am  |
-| Cómo participar en Estrella Invitada como invitado | 20/01/2023, 9:10:32 pm | 20/01/2023, 9:10:31 pm  |
-| Dołączanie jako gość w Guest Star                  | 20/01/2023, 8:51:34 pm | 20/01/2023, 8:51:33 pm  |
-| Konuk Yıldız'a konuk olarak katılma                | 19/01/2023, 7:37:32 pm | 19/01/2023, 7:37:31 pm  |
-| Entrando no Guest Star como convidado              | 19/01/2023, 1:10:05 pm | 19/01/2023, 1:10:03 pm  |
-| Joining as a Guest Star Guest                      | 12/01/2023, 6:48:55 am | 12/01/2023, 6:39:17 am  |
+| Title                                                      | Last Modified          | Created                 |
+|------------------------------------------------------------|------------------------|-------------------------|
+| Dołączanie do sesji wspólnego streamowania jako gość       | 06/02/2024, 3:35:34 am | 14/10/2023, 1:55:20 pm  |
+| Entrando em uma sessão do Streamando Juntos como convidado | 06/02/2024, 3:35:34 am | 14/10/2023, 1:55:20 pm  |
+| Einer Stream Together-Sitzung als Gast beitreten           | 06/02/2024, 3:35:33 am | 14/10/2023, 1:55:20 pm  |
+| Joining a Stream Together Session as a Guest               | 06/02/2024, 3:35:33 am | 14/10/2023, 7:24:26 am  |
 
 
 ### joining-the-affiliate-program
@@ -3297,9 +3295,9 @@ https://help.twitch.tv/s/article/multiple-encodes
 
 | Title                                                                   | Last Modified          | Created                 |
 |-------------------------------------------------------------------------|------------------------|-------------------------|
-| Diffusion améliorée avec les encodages multiples (bêta)                 | 09/01/2024, 3:30:19 am | 09/12/2023, 4:17:18 pm  |
-| Enhanced Broadcasting mit Mehrfach-Codierungen (Start der Beta-Version) | 09/01/2024, 3:30:19 am | 09/12/2023, 4:17:18 pm  |
-| Enhanced Broadcasting with Multiple Encodes (Beta Launch)               | 09/01/2024, 3:30:19 am | 21/10/2023, 4:58:08 am  |
+| Diffusion améliorée avec les encodages multiples (bêta)                 | 06/02/2024, 8:07:28 am | 06/02/2024, 8:07:27 am  |
+| Enhanced Broadcasting mit Mehrfach-Codierungen (Start der Beta-Version) | 06/02/2024, 8:07:28 am | 06/02/2024, 8:07:27 am  |
+| Enhanced Broadcasting with Multiple Encodes (Beta Launch)               | 06/02/2024, 8:07:28 am | 06/02/2024, 8:06:57 am  |
 
 
 ### music-options-for-streamers
@@ -3375,6 +3373,8 @@ https://help.twitch.tv/s/article/nintendo-switch
 | Application Twitch sur Nintendo Switch™    | 10/11/2023, 10:52:32 pm | 31/10/2023, 8:41:40 am  |
 | Aplikacja Twitcha na Nintendo Switch™      | 10/11/2023, 10:23:32 pm | 31/10/2023, 8:41:40 am  |
 | Aplicación de Twitch para Nintendo Switch™ | 10/11/2023, 10:12:03 pm | 31/10/2023, 8:41:40 am  |
+| Nintendo Switch™ Twitch 앱                  | 10/11/2023, 9:29:40 pm  | 31/10/2023, 8:41:40 am  |
+| Nintendo Switch™ 版 Twitch App              | 10/11/2023, 9:22:09 pm  | 31/10/2023, 8:41:40 am  |
 | Aplicativo da Twitch no Nintendo Switch™   | 10/11/2023, 9:20:08 pm  | 31/10/2023, 8:41:40 am  |
 | App Twitch per Nintendo Switch™            | 10/11/2023, 7:39:35 pm  | 31/10/2023, 8:41:40 am  |
 | Aplicación de Twitch para Nintendo Switch™ | 10/11/2023, 4:36:34 am  | 31/10/2023, 8:41:40 am  |
@@ -4024,14 +4024,14 @@ https://help.twitch.tv/s/article/sub-codes
 
 | Title                  | Last Modified          | Created                 |
 |------------------------|------------------------|-------------------------|
-| Codes d'abonnement     | 12/09/2023, 6:22:11 am | 12/09/2023, 6:22:10 am  |
-| Códigos de inscrição   | 12/09/2023, 6:21:57 am | 12/09/2023, 6:21:56 am  |
-| Códigos de suscripción | 12/09/2023, 6:19:45 am | 12/09/2023, 6:19:42 am  |
-| Kody subskrypcji       | 12/09/2023, 6:19:43 am | 12/09/2023, 6:19:42 am  |
-| Abo-Codes              | 12/09/2023, 6:19:41 am | 12/09/2023, 6:19:40 am  |
-| Abonelik Kodları       | 12/09/2023, 6:19:30 am | 12/09/2023, 6:19:29 am  |
-| Codici abbonamento     | 12/09/2023, 6:16:50 am | 12/09/2023, 6:16:49 am  |
-| Códigos de suscripción | 12/09/2023, 6:15:56 am | 12/09/2023, 6:15:55 am  |
+| Abo-Codes              | 06/02/2024, 7:55:19 am | 06/02/2024, 7:55:18 am  |
+| Abonelik Kodları       | 06/02/2024, 7:55:19 am | 06/02/2024, 7:55:18 am  |
+| Codes d'abonnement     | 06/02/2024, 7:55:19 am | 06/02/2024, 7:55:18 am  |
+| Codici abbonamento     | 06/02/2024, 7:55:19 am | 06/02/2024, 7:55:18 am  |
+| Códigos de inscrição   | 06/02/2024, 7:55:19 am | 06/02/2024, 7:55:18 am  |
+| Códigos de suscripción | 06/02/2024, 7:55:19 am | 06/02/2024, 7:55:18 am  |
+| Códigos de suscripción | 06/02/2024, 7:55:19 am | 06/02/2024, 7:55:18 am  |
+| Kody subskrypcji       | 06/02/2024, 7:55:19 am | 06/02/2024, 7:55:18 am  |
 
 
 ### subpoint-vs-subcount
