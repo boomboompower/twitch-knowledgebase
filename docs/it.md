@@ -6,9 +6,10 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Emote Slots                           | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=it)                            |
+| Joining Guest Star                    | 06/02/2024, 3:35:34 am    | [Link](https://help.twitch.tv/s/article/joining-guest-star?language=it)                     |
 | Emote Library                         | 31/01/2024, 4:36:47 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=it)                          |
 | Animated Emotes                       | 31/01/2024, 4:27:28 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=it)                        |
-| Emote Slots                           | 31/01/2024, 4:15:31 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=it)                            |
 | Prime Gaming Revenue Guide            | 27/01/2024, 7:03:27 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)             |
 | Partner Program Overview              | 25/01/2024, 5:01:42 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=it)               |
 | Twitch Affiliate Program Faq          | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=it)           |
