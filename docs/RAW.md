@@ -7,6 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| digital-services-act                                          | 15/02/2024, 6:29:25 am  | 01/02/2024, 11:16:15 am | [Details](#digital-services-act)                                           |
+| about-account-suspensions-dmca-suspensions-and-chat-bans      | 15/02/2024, 5:22:58 am  | 09/12/2023, 10:40:58 am | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
+| how-to-file-a-user-report                                     | 15/02/2024, 5:22:55 am  | 01/02/2024, 11:20:32 am | [Details](#how-to-file-a-user-report)                                      |
 | emote-slots                                                   | 06/02/2024, 8:39:26 am  | 06/02/2024, 8:37:12 am  | [Details](#emote-slots)                                                    |
 | multiple-encodes                                              | 06/02/2024, 8:07:28 am  | 06/02/2024, 8:07:27 am  | [Details](#multiple-encodes)                                               |
 | sub-codes                                                     | 06/02/2024, 7:55:19 am  | 06/02/2024, 7:55:18 am  | [Details](#sub-codes)                                                      |
@@ -92,7 +95,6 @@ Language data is not included in the API. All page links will not have a languag
 | hype-train-guide                                              | 19/10/2023, 0:26:07 am  | 11/10/2023, 7:26:20 am  | [Details](#hype-train-guide)                                               |
 | stream-display-ads                                            | 19/10/2023, 0:25:33 am  | 11/10/2023, 7:24:50 am  | [Details](#stream-display-ads)                                             |
 | tips-for-applying-to-the-partner-program                      | 18/10/2023, 10:12:04 pm | 14/10/2023, 4:24:22 am  | [Details](#tips-for-applying-to-the-partner-program)                       |
-| about-account-suspensions-dmca-suspensions-and-chat-bans      | 18/10/2023, 10:10:03 pm | 11/10/2023, 7:28:35 am  | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | achievements                                                  | 14/10/2023, 4:00:21 am  | 08/08/2023, 11:56:27 pm | [Details](#achievements)                                                   |
 | dmca-and-copyright-faqs                                       | 11/10/2023, 9:24:44 am  | 21/09/2023, 3:18:44 am  | [Details](#dmca-and-copyright-faqs)                                        |
 | watching-twitch-on-android-devices                            | 11/10/2023, 8:54:06 am  | 11/10/2023, 8:54:05 am  | [Details](#watching-twitch-on-android-devices)                             |
@@ -170,7 +172,6 @@ Language data is not included in the API. All page links will not have a languag
 | Removing-recommendations-you-are-not-interested-in            | 12/05/2023, 3:46:15 am  | 27/04/2023, 5:42:22 am  | [Details](#removing-recommendations-you-are-not-interested-in)             |
 | guest-star-mod-view                                           | 09/05/2023, 7:04:46 am  | 02/05/2023, 5:47:31 am  | [Details](#guest-star-mod-view)                                            |
 | search-with-tags                                              | 05/05/2023, 8:07:19 am  | 05/05/2023, 8:07:19 am  | [Details](#search-with-tags)                                               |
-| how-to-file-a-user-report                                     | 04/05/2023, 4:04:33 pm  | 04/05/2023, 4:04:31 pm  | [Details](#how-to-file-a-user-report)                                      |
 | subscriptions-on-samsung-smart-tv                             | 04/05/2023, 7:20:41 am  | 25/04/2023, 8:41:34 am  | [Details](#subscriptions-on-samsung-smart-tv)                              |
 | how-does-search-work                                          | 04/05/2023, 2:38:29 am  | 20/04/2023, 6:39:06 am  | [Details](#how-does-search-work)                                           |
 | chat-highlights                                               | 12/04/2023, 4:05:40 am  | 12/04/2023, 4:05:39 am  | [Details](#chat-highlights)                                                |
@@ -381,16 +382,16 @@ https://help.twitch.tv/s/article/a-tour-of-your-channel-page
 ### about-account-suspensions-dmca-suspensions-and-chat-bans
 https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans
 
-| Title                                                                           | Last Modified           | Created                 |
-|---------------------------------------------------------------------------------|-------------------------|-------------------------|
-| Acerca de las imposiciones de cuentas y los banneos de chat                     | 18/10/2023, 10:10:03 pm | 11/10/2023, 7:28:35 am  |
-| Información sobre las medidas aplicadas a una cuenta y los vetos de chat        | 18/10/2023, 9:09:34 pm  | 11/10/2023, 7:28:35 am  |
-| Informacje o karach dla konta i banach na czacie                                | 18/10/2023, 8:41:08 pm  | 11/10/2023, 7:28:35 am  |
-| Informazioni sulle sanzioni agli account e sul ban dalle chat                   | 18/10/2023, 6:57:03 pm  | 11/10/2023, 7:28:35 am  |
-| Infos zu Kontoeinschränkungen und Chat-Sperren                                  | 18/10/2023, 0:02:14 am  | 11/10/2023, 7:28:35 am  |
-| Hesaba Uygulanan Yaptırımlar ve Sohbet Yasakları Hakkında                       | 16/10/2023, 7:11:34 pm  | 11/10/2023, 7:28:35 am  |
-| About Account Enforcements and Chat Bans                                        | 10/10/2023, 6:23:57 am  | 10/10/2023, 6:22:36 am  |
-| Giới thiệu về Thực thi hình phạt đối với tài khoản và Lệnh cấm trong trò chuyện | 10/10/2023, 6:23:56 am  | 10/10/2023, 6:23:55 am  |
+| Title                                                                           | Last Modified          | Created                  |
+|---------------------------------------------------------------------------------|------------------------|--------------------------|
+| Hesaba Uygulanan Yaptırımlar ve Sohbet Yasakları Hakkında                       | 15/02/2024, 5:22:58 am | 09/12/2023, 10:40:58 am  |
+| Acerca de las imposiciones de cuentas y los banneos de chat                     | 15/02/2024, 5:22:57 am | 09/12/2023, 10:40:58 am  |
+| Informacje o karach dla konta i banach na czacie                                | 15/02/2024, 5:22:57 am | 09/12/2023, 10:40:58 am  |
+| Informazioni sulle sanzioni agli account e sul ban dalle chat                   | 15/02/2024, 5:22:57 am | 09/12/2023, 10:40:58 am  |
+| About Account Enforcements and Chat Bans                                        | 15/02/2024, 5:22:56 am | 09/12/2023, 7:19:42 am   |
+| Giới thiệu về Thực thi hình phạt đối với tài khoản và Lệnh cấm trong trò chuyện | 15/02/2024, 5:22:56 am | 15/02/2024, 5:22:54 am   |
+| Información sobre las medidas aplicadas a una cuenta y los vetos de chat        | 15/02/2024, 5:22:56 am | 09/12/2023, 10:40:58 am  |
+| Infos zu Kontoeinschränkungen und Chat-Sperren                                  | 15/02/2024, 5:22:56 am | 09/12/2023, 10:40:58 am  |
 
 
 ### account-hacked
@@ -1507,6 +1508,18 @@ https://help.twitch.tv/s/article/delete-twitch-account
 | Delete My Twitch Account          | 08/02/2023, 10:02:25 am | 08/02/2023, 9:52:08 am   |
 
 
+### digital-services-act
+https://help.twitch.tv/s/article/digital-services-act
+
+| Title                                   | Last Modified          | Created                  |
+|-----------------------------------------|------------------------|--------------------------|
+| Gesetz über digitale Dienste            | 15/02/2024, 6:29:25 am | 01/02/2024, 11:16:15 am  |
+| Ley de Servicios Digitales              | 15/02/2024, 6:29:17 am | 01/02/2024, 11:16:15 am  |
+| Digital Services Act                    | 15/02/2024, 5:16:07 am | 31/01/2024, 9:38:05 am   |
+| Ley de Servicios Digitales              | 15/02/2024, 5:16:07 am | 01/02/2024, 11:16:15 am  |
+| Législation sur les services numériques | 15/02/2024, 5:16:07 am | 01/02/2024, 11:16:15 am  |
+
+
 ### disabling-prerolls
 https://help.twitch.tv/s/article/disabling-prerolls
 
@@ -1720,7 +1733,6 @@ https://help.twitch.tv/s/article/failed-payments
 | Error en pagos de suscripciones    | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
 | Falhas em pagamentos de inscrições | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
 | Fehlgeschlagene Zahlungen für Abos | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
-| Nieudane płatności za subskrypcje  | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am  |
 | Failed Payments for Subscriptions  | 09/10/2021, 6:52:36 am  | 09/10/2021, 6:49:24 am   |
 
 
@@ -2343,18 +2355,18 @@ https://help.twitch.tv/s/article/how-to-edit-info-panels
 ### how-to-file-a-user-report
 https://help.twitch.tv/s/article/how-to-file-a-user-report
 
-| Title                                    | Last Modified          | Created                 |
-|------------------------------------------|------------------------|-------------------------|
-| Comment déposer un rapport d’utilisateur | 04/05/2023, 4:04:33 pm | 04/05/2023, 4:04:31 pm  |
-| Kullanıcı Şikayeti Nasıl Yapılır         | 05/04/2023, 6:11:09 am | 03/04/2023, 9:35:46 pm  |
-| Come segnalare un utente                 | 05/04/2023, 6:11:08 am | 03/04/2023, 9:35:46 pm  |
-| Como denunciar um usuário                | 05/04/2023, 6:11:08 am | 03/04/2023, 9:35:46 pm  |
-| Cómo denunciar a un usuario              | 05/04/2023, 6:11:08 am | 03/04/2023, 9:35:46 pm  |
-| Cómo denunciar a un usuario              | 05/04/2023, 6:11:08 am | 03/04/2023, 9:35:46 pm  |
-| How to File a User Report                | 05/04/2023, 6:11:08 am | 29/03/2023, 3:06:31 am  |
-| Jak zgłosić użytkownika                  | 05/04/2023, 6:11:08 am | 03/04/2023, 9:35:46 pm  |
-| Como registar uma Denúncia de Utilizador | 05/04/2023, 6:11:02 am | 05/04/2023, 6:10:59 am  |
-| How to File a User Report                | 05/04/2023, 6:11:02 am | 05/04/2023, 6:10:59 am  |
+| Title                                    | Last Modified          | Created                  |
+|------------------------------------------|------------------------|--------------------------|
+| Come segnalare un utente                 | 15/02/2024, 5:22:55 am | 01/02/2024, 11:20:32 am  |
+| Como denunciar um usuário                | 15/02/2024, 5:22:55 am | 01/02/2024, 11:20:32 am  |
+| Comment déposer un rapport d’utilisateur | 15/02/2024, 5:22:54 am | 01/02/2024, 11:20:32 am  |
+| Cómo denunciar a un usuario              | 15/02/2024, 5:22:54 am | 01/02/2024, 11:20:32 am  |
+| Cómo denunciar a un usuario              | 15/02/2024, 5:22:54 am | 01/02/2024, 11:20:32 am  |
+| How to File a User Report                | 15/02/2024, 5:22:54 am | 01/02/2024, 11:10:18 am  |
+| Como registar uma Denúncia de Utilizador | 15/02/2024, 5:22:45 am | 15/02/2024, 5:22:42 am   |
+| How to File a User Report                | 15/02/2024, 5:22:45 am | 15/02/2024, 5:22:42 am   |
+| Jak zgłosić użytkownika                  | 15/02/2024, 5:22:45 am | 15/02/2024, 5:22:42 am   |
+| Kullanıcı Şikayeti Nasıl Yapılır         | 15/02/2024, 5:22:45 am | 15/02/2024, 5:22:42 am   |
 
 
 ### how-to-file-a-video-playback-issue
@@ -3362,7 +3374,6 @@ https://help.twitch.tv/s/article/new-device-and-location-verification
 |-----------------------------------------------|------------------------|-------------------------|
 | Dispositivo nuevo y verificación de ubicación | 03/08/2023, 9:28:41 pm | 26/07/2023, 9:59:50 am  |
 | Neue Geräte- und Ortsbestätigung              | 03/08/2023, 8:54:10 pm | 26/07/2023, 9:59:50 am  |
-| New Device and Location Verification          | 26/07/2023, 9:59:29 am | 26/07/2023, 9:59:14 am  |
 
 
 ### nintendo-switch
@@ -3373,8 +3384,6 @@ https://help.twitch.tv/s/article/nintendo-switch
 | Application Twitch sur Nintendo Switch™    | 10/11/2023, 10:52:32 pm | 31/10/2023, 8:41:40 am  |
 | Aplikacja Twitcha na Nintendo Switch™      | 10/11/2023, 10:23:32 pm | 31/10/2023, 8:41:40 am  |
 | Aplicación de Twitch para Nintendo Switch™ | 10/11/2023, 10:12:03 pm | 31/10/2023, 8:41:40 am  |
-| Nintendo Switch™ Twitch 앱                  | 10/11/2023, 9:29:40 pm  | 31/10/2023, 8:41:40 am  |
-| Nintendo Switch™ 版 Twitch App              | 10/11/2023, 9:22:09 pm  | 31/10/2023, 8:41:40 am  |
 | Aplicativo da Twitch no Nintendo Switch™   | 10/11/2023, 9:20:08 pm  | 31/10/2023, 8:41:40 am  |
 | App Twitch per Nintendo Switch™            | 10/11/2023, 7:39:35 pm  | 31/10/2023, 8:41:40 am  |
 | Aplicación de Twitch para Nintendo Switch™ | 10/11/2023, 4:36:34 am  | 31/10/2023, 8:41:40 am  |
@@ -3387,7 +3396,6 @@ https://help.twitch.tv/s/article/not-receiving-sms
 |------------------------------------------------------------------------------|------------------------|-------------------------|
 | Kein Erhalt von SMS-Textnachrichten oder Zwei-Faktor-Authentifizierung-Codes | 03/08/2023, 8:54:06 pm | 03/08/2023, 8:54:05 pm  |
 | Kısa mesaj veya iki kademeli güvenlik kodu gelmiyor                          | 03/08/2023, 7:30:32 pm | 03/08/2023, 7:30:31 pm  |
-| Nie otrzymuję wiadomości SMS lub kodów do uwierzytelniania dwuskładnikowego  | 02/08/2023, 8:42:02 pm | 02/08/2023, 8:42:01 pm  |
 
 
 ### notifications-inbox
