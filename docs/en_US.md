@@ -6,13 +6,13 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                               | 16/02/2024, 8:20:57 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)                                |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 15/02/2024, 5:22:56 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=en_US)  |
 | How To File A User Report                                | 15/02/2024, 5:22:54 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=en_US)                                 |
 | Emote Slots                                              | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=en_US)                                               |
 | Joining Guest Star                                       | 06/02/2024, 3:35:33 am    | [Link](https://help.twitch.tv/s/article/joining-guest-star?language=en_US)                                        |
 | Emote Library                                            | 31/01/2024, 4:36:47 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=en_US)                                             |
 | Animated Emotes                                          | 31/01/2024, 4:27:28 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=en_US)                                           |
-| Prime Gaming Revenue Guide                               | 26/01/2024, 11:53:25 am   | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)                                |
 | Partner Program Overview                                 | 25/01/2024, 5:01:41 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=en_US)                                  |
 | Twitch Affiliate Program Faq                             | 25/01/2024, 5:01:05 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                              |
 | Twitch Turbo Guide                                       | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                                        |
