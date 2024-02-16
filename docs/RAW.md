@@ -7,6 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| twitch-prime-partner-guide                                    | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:55 am  | [Details](#twitch-prime-partner-guide)                                     |
+| prime-gaming-revenue-guide                                    | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:54 am  | [Details](#prime-gaming-revenue-guide)                                     |
+| digital-services-act-ads                                      | 16/02/2024, 7:48:51 am  | 08/02/2024, 10:39:11 am | [Details](#digital-services-act-ads)                                       |
 | digital-services-act                                          | 15/02/2024, 6:29:25 am  | 01/02/2024, 11:16:15 am | [Details](#digital-services-act)                                           |
 | about-account-suspensions-dmca-suspensions-and-chat-bans      | 15/02/2024, 5:22:58 am  | 09/12/2023, 10:40:58 am | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | how-to-file-a-user-report                                     | 15/02/2024, 5:22:55 am  | 01/02/2024, 11:20:32 am | [Details](#how-to-file-a-user-report)                                      |
@@ -17,8 +20,6 @@ Language data is not included in the API. All page links will not have a languag
 | affiliates-plus                                               | 02/02/2024, 9:41:32 am  | 02/02/2024, 9:40:47 am  | [Details](#affiliates-plus)                                                |
 | emote-library                                                 | 31/01/2024, 4:36:47 am  | 31/01/2024, 4:36:46 am  | [Details](#emote-library)                                                  |
 | animated-emotes                                               | 31/01/2024, 4:27:29 am  | 09/12/2023, 8:51:11 am  | [Details](#animated-emotes)                                                |
-| prime-gaming-revenue-guide                                    | 27/01/2024, 7:03:30 am  | 27/01/2024, 7:03:28 am  | [Details](#prime-gaming-revenue-guide)                                     |
-| twitch-prime-partner-guide                                    | 26/01/2024, 11:53:24 am | 26/01/2024, 11:53:23 am | [Details](#twitch-prime-partner-guide)                                     |
 | partner-program-overview                                      | 25/01/2024, 5:01:41 am  | 24/01/2024, 9:27:14 am  | [Details](#partner-program-overview)                                       |
 | twitch-affiliate-program-faq                                  | 25/01/2024, 5:01:06 am  | 18/01/2024, 1:29:39 pm  | [Details](#twitch-affiliate-program-faq)                                   |
 | creator-goals                                                 | 23/01/2024, 11:06:21 pm | 18/01/2024, 9:58:43 am  | [Details](#creator-goals)                                                  |
@@ -1518,6 +1519,19 @@ https://help.twitch.tv/s/article/digital-services-act
 | Digital Services Act                    | 15/02/2024, 5:16:07 am | 31/01/2024, 9:38:05 am   |
 | Ley de Servicios Digitales              | 15/02/2024, 5:16:07 am | 01/02/2024, 11:16:15 am  |
 | Législation sur les services numériques | 15/02/2024, 5:16:07 am | 01/02/2024, 11:16:15 am  |
+
+
+### digital-services-act-ads
+https://help.twitch.tv/s/article/digital-services-act-ads
+
+| Title                                                    | Last Modified          | Created                  |
+|----------------------------------------------------------|------------------------|--------------------------|
+| European Ad Information & Options                        | 16/02/2024, 7:48:51 am | 08/02/2024, 10:39:11 am  |
+| Europäische Werbeinformationen und -optionen             | 16/02/2024, 7:48:51 am | 08/02/2024, 0:32:29 pm   |
+| Información y opciones para la publicidad en Europa      | 16/02/2024, 7:48:51 am | 08/02/2024, 0:32:29 pm   |
+| Informations et options sur les publicités pour l'Europe | 16/02/2024, 7:48:51 am | 08/02/2024, 0:32:29 pm   |
+| Informazioni e opzioni europee relative agli annunci     | 16/02/2024, 7:48:51 am | 08/02/2024, 0:32:29 pm   |
+| Informações e opções de anúncios (Europa)                | 16/02/2024, 7:48:51 am | 08/02/2024, 0:32:29 pm   |
 
 
 ### disabling-prerolls
@@ -3341,7 +3355,6 @@ https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide
 | Title                                              | Last Modified          | Created                 |
 |----------------------------------------------------|------------------------|-------------------------|
 | NBA G League Co-Streaming Guide                    | 22/10/2021, 8:53:06 am | 07/12/2018, 0:41:57 pm  |
-| NBA Gリーグのミラー配信ガイド                                  | 22/10/2021, 8:53:06 am | 27/02/2019, 3:13:36 pm  |
 | Co-streamgids voor NBA G League                    | 22/10/2021, 8:53:05 am | 27/02/2019, 3:21:27 pm  |
 | Guida al co-streaming della NBA G-League           | 22/10/2021, 8:53:05 am | 27/02/2019, 3:39:09 pm  |
 | Guía de co-streaming de la Liga de la NBA G        | 22/10/2021, 8:53:05 am | 27/02/2019, 3:28:21 pm  |
@@ -3356,15 +3369,12 @@ https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide
 ### network-enforcement-act
 https://help.twitch.tv/s/article/network-enforcement-act
 
-| Title                                                                  | Last Modified           | Created                 |
-|------------------------------------------------------------------------|-------------------------|-------------------------|
-| Ley de Cumplimiento de las Normativas en las Redes Sociales («NetzDG») | 18/02/2022, 7:50:06 pm  | 18/02/2022, 7:50:04 pm  |
-| Legge tedesca per la tutela dei diritti sui social network ("NetzDG")  | 21/12/2021, 4:02:57 am  | 21/12/2021, 4:02:55 am  |
-| NetzDG                                                                 | 21/12/2021, 4:02:48 am  | 21/12/2021, 4:02:47 am  |
-| Ley de cumplimiento de la red ("NetzDG")                               | 21/12/2021, 4:02:44 am  | 21/12/2021, 4:02:43 am  |
-| Netzwerkdurchsetzungsgesetz („NetzDG“)                                 | 21/12/2021, 4:02:41 am  | 21/12/2021, 4:02:32 am  |
-| Loi sur les réseaux sociaux («NetzDG»)                                 | 21/12/2021, 4:02:29 am  | 21/12/2021, 4:02:28 am  |
-| Network Enforcement Act ("NetzDG")                                     | 30/09/2021, 11:26:49 am | 16/07/2021, 2:53:04 am  |
+| Title                                                                  | Last Modified          | Created                 |
+|------------------------------------------------------------------------|------------------------|-------------------------|
+| Ley de Cumplimiento de las Normativas en las Redes Sociales («NetzDG») | 18/02/2022, 7:50:06 pm | 18/02/2022, 7:50:04 pm  |
+| Legge tedesca per la tutela dei diritti sui social network ("NetzDG")  | 21/12/2021, 4:02:57 am | 21/12/2021, 4:02:55 am  |
+| Ley de cumplimiento de la red ("NetzDG")                               | 21/12/2021, 4:02:44 am | 21/12/2021, 4:02:43 am  |
+| Loi sur les réseaux sociaux («NetzDG»)                                 | 21/12/2021, 4:02:29 am | 21/12/2021, 4:02:28 am  |
 
 
 ### new-device-and-location-verification
@@ -3373,7 +3383,6 @@ https://help.twitch.tv/s/article/new-device-and-location-verification
 | Title                                         | Last Modified          | Created                 |
 |-----------------------------------------------|------------------------|-------------------------|
 | Dispositivo nuevo y verificación de ubicación | 03/08/2023, 9:28:41 pm | 26/07/2023, 9:59:50 am  |
-| Neue Geräte- und Ortsbestätigung              | 03/08/2023, 8:54:10 pm | 26/07/2023, 9:59:50 am  |
 
 
 ### nintendo-switch
@@ -3583,11 +3592,11 @@ https://help.twitch.tv/s/article/prime-gaming-revenue-guide
 
 | Title                                                    | Last Modified          | Created                 |
 |----------------------------------------------------------|------------------------|-------------------------|
-| Guía de ingresos por suscripciones de Prime Gaming       | 27/01/2024, 7:03:30 am | 27/01/2024, 7:03:28 am  |
-| Guida ai ricavi dagli abbonamenti Prime Gaming           | 27/01/2024, 7:03:27 am | 27/01/2024, 7:03:25 am  |
-| Guide des revenus des abonnements Prime Gaming           | 27/01/2024, 7:03:14 am | 27/01/2024, 7:03:12 am  |
-| Guía de ingresos por suscripciones de Prime Gaming       | 27/01/2024, 7:03:08 am | 27/01/2024, 7:03:06 am  |
-| Leitfaden zu Einnahmen aus einem Prime Gaming-Abonnement | 27/01/2024, 7:03:05 am | 27/01/2024, 7:03:03 am  |
+| Guida ai ricavi dagli abbonamenti Prime Gaming           | 16/02/2024, 8:20:56 am | 16/02/2024, 8:20:54 am  |
+| Guide des revenus des abonnements Prime Gaming           | 16/02/2024, 8:20:56 am | 16/02/2024, 8:20:54 am  |
+| Guía de ingresos por suscripciones de Prime Gaming       | 16/02/2024, 8:20:56 am | 16/02/2024, 8:20:54 am  |
+| Guía de ingresos por suscripciones de Prime Gaming       | 16/02/2024, 8:20:56 am | 16/02/2024, 8:20:54 am  |
+| Leitfaden zu Einnahmen aus einem Prime Gaming-Abonnement | 16/02/2024, 8:20:56 am | 16/02/2024, 8:20:54 am  |
 
 
 ### promoted-streams
@@ -4336,7 +4345,6 @@ https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq
 |--------------------------------------------------------------------------|------------------------|-------------------------|
 | Apoio na Loja de Merchandise da Twitch - Perguntas Frequentes            | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Dokument FAQ sklepu z artykułami promocyjnymi Twitch                     | 22/10/2021, 8:53:51 am | 07/08/2020, 3:22:52 am  |
-| Nejčastější dotazy k podpoře pro obchod s reklamním zbožím z Twitche     | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Domande frequenti sull'assistenza agli acquisti del merchandising Twitch | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 | FAQ des produits dérivés Twitch                                          | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 
@@ -4403,9 +4411,9 @@ https://help.twitch.tv/s/article/twitch-prime-guide
 ### twitch-prime-partner-guide
 https://help.twitch.tv/s/article/twitch-prime-partner-guide
 
-| Title                         | Last Modified           | Created                  |
-|-------------------------------|-------------------------|--------------------------|
-| Guia do Parceiro Twitch Prime | 26/01/2024, 11:53:24 am | 26/01/2024, 11:53:23 am  |
+| Title                         | Last Modified          | Created                 |
+|-------------------------------|------------------------|-------------------------|
+| Guia do Parceiro Twitch Prime | 16/02/2024, 8:20:56 am | 16/02/2024, 8:20:55 am  |
 
 
 ### twitch-prime-program-faq
