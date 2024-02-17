@@ -264,7 +264,6 @@ Language data is not included in the API. All page links will not have a languag
 | streamer-community-survey                                     | 18/02/2022, 8:19:05 pm  | 18/02/2022, 8:19:02 pm  | [Details](#streamer-community-survey)                                      |
 | advanced-audio-mixer                                          | 18/02/2022, 8:17:05 pm  | 18/02/2022, 8:17:02 pm  | [Details](#advanced-audio-mixer)                                           |
 | twitch-studio-updates                                         | 18/02/2022, 8:07:11 pm  | 18/02/2022, 8:07:01 pm  | [Details](#twitch-studio-updates)                                          |
-| network-enforcement-act                                       | 18/02/2022, 7:50:06 pm  | 18/02/2022, 7:50:04 pm  | [Details](#network-enforcement-act)                                        |
 | studio-obs-ndi                                                | 18/02/2022, 7:47:33 pm  | 18/02/2022, 7:47:30 pm  | [Details](#studio-obs-ndi)                                                 |
 | how-to-handle-view-follow-bots                                | 18/02/2022, 2:33:34 am  | 18/02/2022, 2:33:31 am  | [Details](#how-to-handle-view-follow-bots)                                 |
 | studio-ui                                                     | 18/02/2022, 1:48:03 am  | 18/02/2022, 1:48:01 am  | [Details](#studio-ui)                                                      |
@@ -3355,6 +3354,7 @@ https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide
 | Title                                              | Last Modified          | Created                 |
 |----------------------------------------------------|------------------------|-------------------------|
 | NBA G League Co-Streaming Guide                    | 22/10/2021, 8:53:06 am | 07/12/2018, 0:41:57 pm  |
+| NBA Gリーグのミラー配信ガイド                                  | 22/10/2021, 8:53:06 am | 27/02/2019, 3:13:36 pm  |
 | Co-streamgids voor NBA G League                    | 22/10/2021, 8:53:05 am | 27/02/2019, 3:21:27 pm  |
 | Guida al co-streaming della NBA G-League           | 22/10/2021, 8:53:05 am | 27/02/2019, 3:39:09 pm  |
 | Guía de co-streaming de la Liga de la NBA G        | 22/10/2021, 8:53:05 am | 27/02/2019, 3:28:21 pm  |
@@ -3366,23 +3366,14 @@ https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide
 | NBA G 聯盟合作實況指南                                     | 22/10/2021, 8:53:04 am | 21/02/2019, 9:45:20 am  |
 
 
-### network-enforcement-act
-https://help.twitch.tv/s/article/network-enforcement-act
-
-| Title                                                                  | Last Modified          | Created                 |
-|------------------------------------------------------------------------|------------------------|-------------------------|
-| Ley de Cumplimiento de las Normativas en las Redes Sociales («NetzDG») | 18/02/2022, 7:50:06 pm | 18/02/2022, 7:50:04 pm  |
-| Legge tedesca per la tutela dei diritti sui social network ("NetzDG")  | 21/12/2021, 4:02:57 am | 21/12/2021, 4:02:55 am  |
-| Ley de cumplimiento de la red ("NetzDG")                               | 21/12/2021, 4:02:44 am | 21/12/2021, 4:02:43 am  |
-| Loi sur les réseaux sociaux («NetzDG»)                                 | 21/12/2021, 4:02:29 am | 21/12/2021, 4:02:28 am  |
-
-
 ### new-device-and-location-verification
 https://help.twitch.tv/s/article/new-device-and-location-verification
 
 | Title                                         | Last Modified          | Created                 |
 |-----------------------------------------------|------------------------|-------------------------|
 | Dispositivo nuevo y verificación de ubicación | 03/08/2023, 9:28:41 pm | 26/07/2023, 9:59:50 am  |
+| Neue Geräte- und Ortsbestätigung              | 03/08/2023, 8:54:10 pm | 26/07/2023, 9:59:50 am  |
+| New Device and Location Verification          | 26/07/2023, 9:59:29 am | 26/07/2023, 9:59:14 am  |
 
 
 ### nintendo-switch
@@ -4345,6 +4336,7 @@ https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq
 |--------------------------------------------------------------------------|------------------------|-------------------------|
 | Apoio na Loja de Merchandise da Twitch - Perguntas Frequentes            | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Dokument FAQ sklepu z artykułami promocyjnymi Twitch                     | 22/10/2021, 8:53:51 am | 07/08/2020, 3:22:52 am  |
+| Nejčastější dotazy k podpoře pro obchod s reklamním zbožím z Twitche     | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Domande frequenti sull'assistenza agli acquisti del merchandising Twitch | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 | FAQ des produits dérivés Twitch                                          | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 
