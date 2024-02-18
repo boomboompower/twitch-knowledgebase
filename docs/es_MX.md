@@ -56,12 +56,13 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| How To Use Automod                                            | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es_MX)                                             |
+| Joining The Affiliate Program                                 | 25/10/2023, 2:24:40 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                                  |
 | Guest Star Reporting                                          | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=es_MX)                                           |
 | Guest Star                                                    | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=es_MX)                                                     |
 | Mission Based Drops                                           | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                                            |
 | Tips For Applying To The Partner Program                      | 18/10/2023, 10:12:04 pm   | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=es_MX)                       |
 | Stream Display Ads                                            | 18/10/2023, 10:10:12 pm   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es_MX)                                             |
-| About Account Suspensions Dmca Suspensions And Chat Bans      | 18/10/2023, 10:10:03 pm   | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=es_MX)       |
 | Achievements                                                  | 14/10/2023, 4:00:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=es_MX)                                                   |
 | Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es_MX)                                        |
 | Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=es_MX)                             |
@@ -93,7 +94,6 @@
 | New Device And Location Verification                          | 03/08/2023, 9:28:41 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es_MX)                           |
 | Authy Faq                                                     | 03/08/2023, 9:28:36 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=es_MX)                                                      |
 | Founders Badge                                                | 28/07/2023, 3:34:46 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=es_MX)                                                 |
-| Twitch Teams                                                  | 28/07/2023, 3:24:46 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=es_MX)                                                   |
 
 
 
@@ -102,6 +102,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Twitch Teams                                       | 28/07/2023, 3:24:46 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=es_MX)                                        |
 | How To Edit Info Panels                            | 28/07/2023, 3:17:38 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=es_MX)                             |
 | Alerts By Twitch Css                               | 26/07/2023, 4:07:25 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=es_MX)                                |
 | Alerts By Twitch Customization                     | 26/07/2023, 4:07:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=es_MX)                      |
@@ -127,7 +128,6 @@
 | Chat Highlights                                    | 12/04/2023, 4:05:40 am    | [Link](https://help.twitch.tv/s/article/chat-highlights?language=es_MX)                                     |
 | Disabling Prerolls                                 | 05/04/2023, 8:59:06 pm    | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=es_MX)                                  |
 | Picture By Picture Ads                             | 05/04/2023, 8:59:05 pm    | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=es_MX)                              |
-| How To File A User Report                          | 05/04/2023, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=es_MX)                           |
 | Monthly Recap                                      | 30/03/2023, 7:00:46 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=es_MX)                                       |
 | Guide To Using Twitch Inspector                    | 28/03/2023, 10:58:04 pm   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=es_MX)                     |
 | Guide To Closed Captions                           | 22/03/2023, 10:27:02 pm   | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=es_MX)                            |
@@ -256,17 +256,6 @@
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es_MX)  |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)  |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                         |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                                 |
-|-----------------------------|---------------------------|--------------------------------------------------------------------------------------|
-| Alerts By Twitch            | 04/12/2023, 9:57:33 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=es_MX)             |
-| Stream Together Guest Guide | 26/10/2023, 11:56:05 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=es_MX)  |
-| Stream Together Host Guide  | 26/10/2023, 11:53:05 pm   | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=es_MX)   |
 
 
 

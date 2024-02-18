@@ -56,10 +56,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| How To Use Automod                                            | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ko)                                             |
+| Joining The Affiliate Program                                 | 23/10/2023, 1:45:36 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ko)                                  |
 | Guest Star Reporting                                          | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=ko)                                           |
 | Guest Star                                                    | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=ko)                                                     |
 | Mission Based Drops                                           | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ko)                                            |
-| About Account Suspensions Dmca Suspensions And Chat Bans      | 18/10/2023, 11:36:47 pm   | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=ko)       |
 | Stream Display Ads                                            | 18/10/2023, 11:36:33 pm   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ko)                                             |
 | Tips For Applying To The Partner Program                      | 18/10/2023, 10:05:03 pm   | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ko)                       |
 | Achievements                                                  | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ko)                                                   |
@@ -101,6 +102,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Teams                                       | 28/07/2023, 3:24:46 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=ko)                                        |
 | How To Edit Info Panels                            | 28/07/2023, 3:17:38 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=ko)                             |
 | Alerts By Twitch Css                               | 26/07/2023, 4:07:25 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=ko)                                |
 | Alerts By Twitch Customization                     | 26/07/2023, 4:07:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=ko)                      |
@@ -126,7 +128,6 @@
 | Chat Highlights                                    | 12/04/2023, 4:05:40 am    | [Link](https://help.twitch.tv/s/article/chat-highlights?language=ko)                                     |
 | Picture By Picture Ads                             | 06/04/2023, 11:16:04 pm   | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=ko)                              |
 | Disabling Prerolls                                 | 06/04/2023, 11:16:02 pm   | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=ko)                                  |
-| How To File A User Report                          | 05/04/2023, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=ko)                           |
 | Monthly Recap                                      | 30/03/2023, 7:00:46 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=ko)                                       |
 | Guide To Using Twitch Inspector                    | 28/03/2023, 10:41:04 pm   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=ko)                     |
 | Guide To Closed Captions                           | 22/03/2023, 6:48:03 pm    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=ko)                            |
@@ -256,16 +257,6 @@
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=ko)  |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ko)  |
 | Markdown Basics                        | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ko)                         |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Stream Together Host Guide  | 28/10/2023, 0:14:38 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ko)   |
-| Stream Together Guest Guide | 28/10/2023, 0:14:34 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ko)  |
 
 
 

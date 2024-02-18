@@ -56,11 +56,12 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| How To Use Automod                                            | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ru)                                             |
+| Joining The Affiliate Program                                 | 25/10/2023, 1:20:12 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ru)                                  |
 | Guest Star Reporting                                          | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=ru)                                           |
 | Guest Star                                                    | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=ru)                                                     |
 | Mission Based Drops                                           | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ru)                                            |
 | Tips For Applying To The Partner Program                      | 18/10/2023, 9:04:04 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ru)                       |
-| About Account Suspensions Dmca Suspensions And Chat Bans      | 18/10/2023, 8:57:40 pm    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=ru)       |
 | Stream Display Ads                                            | 18/10/2023, 8:57:39 pm    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ru)                                             |
 | Achievements                                                  | 14/10/2023, 4:00:21 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ru)                                                   |
 | Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:44 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=ru)                                        |
@@ -93,7 +94,6 @@
 | Authy Faq                                                     | 03/08/2023, 9:32:10 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=ru)                                                      |
 | New Device And Location Verification                          | 03/08/2023, 9:32:03 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=ru)                           |
 | Founders Badge                                                | 28/07/2023, 3:34:47 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=ru)                                                 |
-| Twitch Teams                                                  | 28/07/2023, 3:24:47 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=ru)                                                   |
 
 
 
@@ -102,6 +102,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Teams                                       | 28/07/2023, 3:24:47 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=ru)                                        |
 | How To Edit Info Panels                            | 28/07/2023, 3:17:38 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=ru)                             |
 | Alerts By Twitch Css                               | 26/07/2023, 4:07:25 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=ru)                                |
 | Alerts By Twitch Customization                     | 26/07/2023, 4:07:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=ru)                      |
@@ -127,7 +128,6 @@
 | Chat Highlights                                    | 12/04/2023, 4:05:40 am    | [Link](https://help.twitch.tv/s/article/chat-highlights?language=ru)                                     |
 | Disabling Prerolls                                 | 06/04/2023, 6:23:41 pm    | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=ru)                                  |
 | Picture By Picture Ads                             | 06/04/2023, 6:23:31 pm    | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=ru)                              |
-| How To File A User Report                          | 05/04/2023, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=ru)                           |
 | Monthly Recap                                      | 30/03/2023, 7:00:47 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=ru)                                       |
 | Guide To Using Twitch Inspector                    | 28/03/2023, 0:15:11 pm    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=ru)                     |
 | Guide To Closed Captions                           | 22/03/2023, 8:16:33 pm    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=ru)                            |
@@ -255,16 +255,6 @@
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=ru)  |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ru)  |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ru)                         |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Stream Together Guest Guide | 28/10/2023, 0:44:15 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ru)  |
-| Stream Together Host Guide  | 28/10/2023, 0:44:13 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ru)   |
 
 
 

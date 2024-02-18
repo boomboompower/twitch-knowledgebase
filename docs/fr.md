@@ -56,11 +56,12 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| How To Use Automod                                            | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=fr)                                             |
+| Joining The Affiliate Program                                 | 23/10/2023, 10:44:03 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=fr)                                  |
 | Guest Star Reporting                                          | 21/10/2023, 3:02:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-reporting?language=fr)                                           |
 | Guest Star                                                    | 21/10/2023, 3:01:15 am    | [Link](https://help.twitch.tv/s/article/guest-star?language=fr)                                                     |
 | Mission Based Drops                                           | 19/10/2023, 3:00:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=fr)                                            |
 | Stream Display Ads                                            | 18/10/2023, 10:16:10 pm   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=fr)                                             |
-| About Account Suspensions Dmca Suspensions And Chat Bans      | 18/10/2023, 10:16:08 pm   | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=fr)       |
 | Tips For Applying To The Partner Program                      | 18/10/2023, 9:46:32 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=fr)                       |
 | Achievements                                                  | 14/10/2023, 4:00:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=fr)                                                   |
 | Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=fr)                                        |
@@ -93,7 +94,6 @@
 | Authy Faq                                                     | 03/08/2023, 9:22:11 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=fr)                                                      |
 | New Device And Location Verification                          | 03/08/2023, 9:22:08 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=fr)                           |
 | Founders Badge                                                | 28/07/2023, 3:34:46 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=fr)                                                 |
-| Twitch Teams                                                  | 28/07/2023, 3:24:46 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=fr)                                                   |
 
 
 
@@ -102,6 +102,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Twitch Teams                                       | 28/07/2023, 3:24:46 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=fr)                                        |
 | How To Edit Info Panels                            | 28/07/2023, 3:17:38 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=fr)                             |
 | Alerts By Twitch Css                               | 26/07/2023, 4:07:25 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=fr)                                |
 | Alerts By Twitch Customization                     | 26/07/2023, 4:07:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=fr)                      |
@@ -123,7 +124,6 @@
 | Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:15 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=fr)  |
 | Guide To Tags                                      | 11/05/2023, 8:09:05 pm    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=fr)                                       |
 | Guest Star Mod View                                | 09/05/2023, 7:04:45 am    | [Link](https://help.twitch.tv/s/article/guest-star-mod-view?language=fr)                                 |
-| How To File A User Report                          | 04/05/2023, 4:04:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=fr)                           |
 | Subscriptions On Samsung Smart Tv                  | 04/05/2023, 7:20:41 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-samsung-smart-tv?language=fr)                   |
 | Chat Highlights                                    | 12/04/2023, 4:05:40 am    | [Link](https://help.twitch.tv/s/article/chat-highlights?language=fr)                                     |
 | Disabling Prerolls                                 | 06/04/2023, 3:38:07 am    | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=fr)                                  |
@@ -258,17 +258,6 @@
 | Where Are My Notifications             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=fr)              |
 | Smart Notification Setting             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=fr)              |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=fr)                         |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Alerts By Twitch            | 05/12/2023, 0:30:38 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=fr)             |
-| Stream Together Guest Guide | 27/10/2023, 0:52:37 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=fr)  |
-| Stream Together Host Guide  | 27/10/2023, 0:52:37 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=fr)   |
 
 
 

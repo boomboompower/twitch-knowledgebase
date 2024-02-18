@@ -22,10 +22,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| How To Use Automod                                            | 25/10/2023, 4:50:32 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_PT)                                             |
 | Joining The Affiliate Program                                 | 17/10/2023, 3:50:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)                                  |
 | Achievements                                                  | 14/10/2023, 4:00:12 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                                                   |
 | Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=pt_PT)                             |
-| About Account Suspensions Dmca Suspensions And Chat Bans      | 10/10/2023, 6:23:56 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)       |
 | Gift Subscriptions                                            | 08/09/2023, 9:56:46 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                                             |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/09/2023, 1:58:09 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pt_PT)  |
 | Twitch Studio Faq                                             | 06/09/2023, 6:09:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=pt_PT)                                              |
@@ -41,7 +41,6 @@
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
 | Authy Faq                              | 26/07/2023, 10:23:27 am   | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_PT)                               |
 | Lifetime Subscriber Guide For Partners | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=pt_PT)  |
-| How To File A User Report              | 05/04/2023, 6:11:02 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=pt_PT)               |
 | Two Factor Authentication With Authy   | 09/03/2023, 7:53:25 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)    |
 | Stream Summary                         | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                          |
 | How To Use Host Mode                   | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=pt_PT)                    |
