@@ -7,8 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| prime-gaming-revenue-guide                                    | 20/02/2024, 10:11:37 pm | 16/02/2024, 8:17:16 am  | [Details](#prime-gaming-revenue-guide)                                     |
 | twitch-prime-partner-guide                                    | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:55 am  | [Details](#twitch-prime-partner-guide)                                     |
-| prime-gaming-revenue-guide                                    | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:54 am  | [Details](#prime-gaming-revenue-guide)                                     |
 | digital-services-act-ads                                      | 16/02/2024, 7:48:51 am  | 08/02/2024, 10:39:11 am | [Details](#digital-services-act-ads)                                       |
 | digital-services-act                                          | 15/02/2024, 6:29:25 am  | 01/02/2024, 11:16:15 am | [Details](#digital-services-act)                                           |
 | about-account-suspensions-dmca-suspensions-and-chat-bans      | 15/02/2024, 5:22:58 am  | 09/12/2023, 10:40:58 am | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
@@ -3581,13 +3581,13 @@ https://help.twitch.tv/s/article/pools-hottubs-beaches
 ### prime-gaming-revenue-guide
 https://help.twitch.tv/s/article/prime-gaming-revenue-guide
 
-| Title                                                    | Last Modified          | Created                 |
-|----------------------------------------------------------|------------------------|-------------------------|
-| Guida ai ricavi dagli abbonamenti Prime Gaming           | 16/02/2024, 8:20:56 am | 16/02/2024, 8:20:54 am  |
-| Guide des revenus des abonnements Prime Gaming           | 16/02/2024, 8:20:56 am | 16/02/2024, 8:20:54 am  |
-| Guía de ingresos por suscripciones de Prime Gaming       | 16/02/2024, 8:20:56 am | 16/02/2024, 8:20:54 am  |
-| Guía de ingresos por suscripciones de Prime Gaming       | 16/02/2024, 8:20:56 am | 16/02/2024, 8:20:54 am  |
-| Leitfaden zu Einnahmen aus einem Prime Gaming-Abonnement | 16/02/2024, 8:20:56 am | 16/02/2024, 8:20:54 am  |
+| Title                                                    | Last Modified           | Created                 |
+|----------------------------------------------------------|-------------------------|-------------------------|
+| Guía de ingresos por suscripciones de Prime Gaming       | 20/02/2024, 10:11:37 pm | 16/02/2024, 8:17:16 am  |
+| Guide des revenus des abonnements Prime Gaming           | 20/02/2024, 10:09:39 pm | 16/02/2024, 8:17:16 am  |
+| Guida ai ricavi dagli abbonamenti Prime Gaming           | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:54 am  |
+| Guía de ingresos por suscripciones de Prime Gaming       | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:54 am  |
+| Leitfaden zu Einnahmen aus einem Prime Gaming-Abonnement | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:54 am  |
 
 
 ### promoted-streams

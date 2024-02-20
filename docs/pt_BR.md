@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Prime Gaming Revenue Guide                               | 16/02/2024, 8:20:56 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pt_BR)                                |
+| Prime Gaming Revenue Guide                               | 20/02/2024, 4:38:08 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pt_BR)                                |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 15/02/2024, 5:22:57 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_BR)  |
 | How To File A User Report                                | 15/02/2024, 5:22:55 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=pt_BR)                                 |
 | Emote Slots                                              | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=pt_BR)                                               |
