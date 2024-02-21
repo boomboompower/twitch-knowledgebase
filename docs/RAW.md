@@ -7,7 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| prime-gaming-revenue-guide                                    | 20/02/2024, 10:11:37 pm | 16/02/2024, 8:17:16 am  | [Details](#prime-gaming-revenue-guide)                                     |
+| prime-gaming-revenue-guide                                    | 21/02/2024, 8:09:08 am  | 16/02/2024, 8:17:16 am  | [Details](#prime-gaming-revenue-guide)                                     |
+| local-sub-price-countries                                     | 21/02/2024, 4:35:51 am  | 19/05/2023, 11:54:12 am | [Details](#local-sub-price-countries)                                      |
 | twitch-prime-partner-guide                                    | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:55 am  | [Details](#twitch-prime-partner-guide)                                     |
 | digital-services-act-ads                                      | 16/02/2024, 7:48:51 am  | 08/02/2024, 10:39:11 am | [Details](#digital-services-act-ads)                                       |
 | digital-services-act                                          | 15/02/2024, 6:29:25 am  | 01/02/2024, 11:16:15 am | [Details](#digital-services-act)                                           |
@@ -163,7 +164,6 @@ Language data is not included in the API. All page links will not have a languag
 | local-recording                                               | 31/05/2023, 0:13:18 am  | 23/05/2023, 0:17:33 pm  | [Details](#local-recording)                                                |
 | twitch-stream-key-faq                                         | 31/05/2023, 0:13:14 am  | 27/04/2023, 3:57:31 am  | [Details](#twitch-stream-key-faq)                                          |
 | payout-history-dashboard-guide                                | 31/05/2023, 0:13:12 am  | 23/05/2023, 0:20:24 pm  | [Details](#payout-history-dashboard-guide)                                 |
-| local-sub-price-countries                                     | 26/05/2023, 3:15:13 am  | 26/05/2023, 3:15:12 am  | [Details](#local-sub-price-countries)                                      |
 | requesting-your-data-from-twitch                              | 24/05/2023, 10:24:32 pm | 17/05/2023, 9:56:54 am  | [Details](#requesting-your-data-from-twitch)                               |
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
 | emote-analytics                                               | 23/05/2023, 6:24:07 pm  | 13/05/2023, 7:37:37 am  | [Details](#emote-analytics)                                                |
@@ -3002,11 +3002,11 @@ https://help.twitch.tv/s/article/local-recording
 ### local-sub-price-countries
 https://help.twitch.tv/s/article/local-sub-price-countries
 
-| Title                                     | Last Modified          | Created                 |
-|-------------------------------------------|------------------------|-------------------------|
-| Hier gelten die regionalen Abo-Preise     | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
-| Kraje objęte lokalnymi cenami subskrypcji | 26/05/2023, 3:15:13 am | 26/05/2023, 3:15:12 am  |
-| Local Subscription Pricing Countries      | 26/05/2023, 3:15:13 am | 17/05/2023, 6:46:51 am  |
+| Title                                     | Last Modified          | Created                  |
+|-------------------------------------------|------------------------|--------------------------|
+| Kraje objęte lokalnymi cenami subskrypcji | 21/02/2024, 4:35:51 am | 19/05/2023, 11:54:12 am  |
+| Hier gelten die regionalen Abo-Preise     | 21/02/2024, 4:35:50 am | 19/05/2023, 11:54:12 am  |
+| Local Subscription Pricing Countries      | 21/02/2024, 4:35:50 am | 14/11/2023, 9:20:39 am   |
 
 
 ### local-subscription-pricing
@@ -3583,11 +3583,11 @@ https://help.twitch.tv/s/article/prime-gaming-revenue-guide
 
 | Title                                                    | Last Modified           | Created                 |
 |----------------------------------------------------------|-------------------------|-------------------------|
+| Leitfaden zu Einnahmen aus einem Prime Gaming-Abonnement | 21/02/2024, 8:09:08 am  | 16/02/2024, 8:17:16 am  |
 | Guía de ingresos por suscripciones de Prime Gaming       | 20/02/2024, 10:11:37 pm | 16/02/2024, 8:17:16 am  |
 | Guide des revenus des abonnements Prime Gaming           | 20/02/2024, 10:09:39 pm | 16/02/2024, 8:17:16 am  |
 | Guida ai ricavi dagli abbonamenti Prime Gaming           | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:54 am  |
 | Guía de ingresos por suscripciones de Prime Gaming       | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:54 am  |
-| Leitfaden zu Einnahmen aus einem Prime Gaming-Abonnement | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:54 am  |
 
 
 ### promoted-streams
