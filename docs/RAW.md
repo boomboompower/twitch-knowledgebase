@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| prime-gaming-revenue-guide                                    | 21/02/2024, 8:09:08 am  | 16/02/2024, 8:17:16 am  | [Details](#prime-gaming-revenue-guide)                                     |
+| prime-gaming-revenue-guide                                    | 21/02/2024, 8:33:08 pm  | 16/02/2024, 8:17:16 am  | [Details](#prime-gaming-revenue-guide)                                     |
 | local-sub-price-countries                                     | 21/02/2024, 4:35:51 am  | 19/05/2023, 11:54:12 am | [Details](#local-sub-price-countries)                                      |
 | twitch-prime-partner-guide                                    | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:55 am  | [Details](#twitch-prime-partner-guide)                                     |
 | digital-services-act-ads                                      | 16/02/2024, 7:48:51 am  | 08/02/2024, 10:39:11 am | [Details](#digital-services-act-ads)                                       |
@@ -3583,11 +3583,11 @@ https://help.twitch.tv/s/article/prime-gaming-revenue-guide
 
 | Title                                                    | Last Modified           | Created                 |
 |----------------------------------------------------------|-------------------------|-------------------------|
+| Guía de ingresos por suscripciones de Prime Gaming       | 21/02/2024, 8:33:08 pm  | 16/02/2024, 8:17:16 am  |
+| Guida ai ricavi dagli abbonamenti Prime Gaming           | 21/02/2024, 8:03:06 pm  | 21/02/2024, 8:03:04 pm  |
 | Leitfaden zu Einnahmen aus einem Prime Gaming-Abonnement | 21/02/2024, 8:09:08 am  | 16/02/2024, 8:17:16 am  |
 | Guía de ingresos por suscripciones de Prime Gaming       | 20/02/2024, 10:11:37 pm | 16/02/2024, 8:17:16 am  |
 | Guide des revenus des abonnements Prime Gaming           | 20/02/2024, 10:09:39 pm | 16/02/2024, 8:17:16 am  |
-| Guida ai ricavi dagli abbonamenti Prime Gaming           | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:54 am  |
-| Guía de ingresos por suscripciones de Prime Gaming       | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:54 am  |
 
 
 ### promoted-streams
