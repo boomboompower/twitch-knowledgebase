@@ -6,8 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                               | 21/02/2024, 8:03:06 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)                                |
 | Local Sub Price Countries                                | 21/02/2024, 4:35:50 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=it)                                 |
-| Prime Gaming Revenue Guide                               | 16/02/2024, 8:20:56 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)                                |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 15/02/2024, 5:22:57 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=it)  |
 | How To File A User Report                                | 15/02/2024, 5:22:55 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=it)                                 |
 | Emote Slots                                              | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=it)                                               |
@@ -46,6 +46,9 @@
 | Getting Started Twitch Studio                            | 28/10/2023, 5:03:19 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=it)                             |
 | Recommended Software For Broadcasting                    | 28/10/2023, 5:03:06 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=it)                     |
 | Twitch Studio Mac Faq                                    | 28/10/2023, 4:27:04 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=it)                                     |
+| Stream Together Guest Guide                              | 26/10/2023, 11:45:37 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=it)                               |
+| Stream Together Host Guide                               | 26/10/2023, 11:45:34 pm   | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=it)                                |
+| Guest Star Faqs                                          | 26/10/2023, 11:45:34 pm   | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=it)                                           |
 
 
 
@@ -254,6 +257,15 @@
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=it)  |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=it)  |
 | Markdown Basics                        | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=it)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Stream Together Guest Guide | 26/10/2023, 11:45:37 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=it)  |
 
 
 
