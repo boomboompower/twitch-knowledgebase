@@ -7,8 +7,13 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| local-sub-price-countries                                     | 23/02/2024, 8:55:10 am  | 23/02/2024, 4:15:30 am  | [Details](#local-sub-price-countries)                                      |
+| two-factor-authentication                                     | 23/02/2024, 4:01:36 am  | 27/04/2023, 3:57:12 am  | [Details](#two-factor-authentication)                                      |
+| two-factor-authentication-with-authy                          | 23/02/2024, 4:01:34 am  | 23/02/2024, 4:01:33 am  | [Details](#two-factor-authentication-with-authy)                           |
+| authy-faq                                                     | 23/02/2024, 4:01:17 am  | 04/08/2023, 2:59:41 am  | [Details](#authy-faq)                                                      |
+| not-receiving-sms                                             | 23/02/2024, 4:00:57 am  | 04/08/2023, 5:40:47 am  | [Details](#not-receiving-sms)                                              |
+| authy-desktop-shutdown                                        | 23/02/2024, 4:00:38 am  | 16/02/2024, 11:11:53 am | [Details](#authy-desktop-shutdown)                                         |
 | prime-gaming-revenue-guide                                    | 21/02/2024, 8:33:08 pm  | 16/02/2024, 8:17:16 am  | [Details](#prime-gaming-revenue-guide)                                     |
-| local-sub-price-countries                                     | 21/02/2024, 4:35:51 am  | 19/05/2023, 11:54:12 am | [Details](#local-sub-price-countries)                                      |
 | twitch-prime-partner-guide                                    | 16/02/2024, 8:20:56 am  | 16/02/2024, 8:20:55 am  | [Details](#twitch-prime-partner-guide)                                     |
 | digital-services-act-ads                                      | 16/02/2024, 7:48:51 am  | 08/02/2024, 10:39:11 am | [Details](#digital-services-act-ads)                                       |
 | digital-services-act                                          | 15/02/2024, 6:29:25 am  | 01/02/2024, 11:16:15 am | [Details](#digital-services-act)                                           |
@@ -140,8 +145,6 @@ Language data is not included in the API. All page links will not have a languag
 | guide-to-broadcast-health                                     | 09/08/2023, 10:13:03 pm | 02/08/2023, 3:21:56 am  | [Details](#guide-to-broadcast-health)                                      |
 | affiliate-or-partner-anniversary-settings                     | 04/08/2023, 8:45:32 pm  | 04/08/2023, 8:45:31 pm  | [Details](#affiliate-or-partner-anniversary-settings)                      |
 | new-device-and-location-verification                          | 03/08/2023, 9:28:41 pm  | 26/07/2023, 9:59:50 am  | [Details](#new-device-and-location-verification)                           |
-| authy-faq                                                     | 03/08/2023, 9:28:36 pm  | 26/07/2023, 10:23:51 am | [Details](#authy-faq)                                                      |
-| not-receiving-sms                                             | 03/08/2023, 8:54:06 pm  | 03/08/2023, 8:54:05 pm  | [Details](#not-receiving-sms)                                              |
 | founders-badge                                                | 28/07/2023, 3:34:47 am  | 15/07/2023, 6:56:56 am  | [Details](#founders-badge)                                                 |
 | discovery                                                     | 28/07/2023, 3:26:04 am  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
 | twitch-teams                                                  | 28/07/2023, 3:24:46 am  | 12/07/2023, 9:14:57 am  | [Details](#twitch-teams)                                                   |
@@ -185,8 +188,6 @@ Language data is not included in the API. All page links will not have a languag
 | guide-to-closed-captions                                      | 23/03/2023, 0:03:35 am  | 23/03/2023, 0:03:31 am  | [Details](#guide-to-closed-captions)                                       |
 | multi-month-subscriptions                                     | 21/03/2023, 10:47:33 pm | 15/03/2023, 8:31:14 am  | [Details](#multi-month-subscriptions)                                      |
 | subscriptions-on-mobile                                       | 21/03/2023, 10:45:28 pm | 15/03/2023, 8:31:43 am  | [Details](#subscriptions-on-mobile)                                        |
-| two-factor-authentication                                     | 13/03/2023, 11:03:33 pm | 08/03/2023, 0:15:36 pm  | [Details](#two-factor-authentication)                                      |
-| two-factor-authentication-with-authy                          | 09/03/2023, 7:53:25 am  | 09/03/2023, 7:53:24 am  | [Details](#two-factor-authentication-with-authy)                           |
 | artist-badge-attribution                                      | 24/02/2023, 1:47:42 am  | 24/02/2023, 1:47:32 am  | [Details](#artist-badge-attribution)                                       |
 | geoblocking                                                   | 14/02/2023, 11:02:32 pm | 09/02/2023, 10:59:47 am | [Details](#geoblocking)                                                    |
 | delete-twitch-account                                         | 14/02/2023, 10:47:36 pm | 14/02/2023, 10:47:33 pm | [Details](#delete-twitch-account)                                          |
@@ -224,7 +225,7 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-contact-extension-developer                            | 26/10/2022, 7:44:01 am  | 26/10/2022, 7:43:31 am  | [Details](#how-to-contact-extension-developer)                             |
 | earning-revenue-from-bits-in-extensions                       | 21/10/2022, 7:25:41 am  | 30/09/2022, 7:54:28 am  | [Details](#earning-revenue-from-bits-in-extensions)                        |
 | earning-revenue-from-bits-in-extensions-beta                  | 21/10/2022, 7:25:40 am  | 21/10/2022, 7:25:39 am  | [Details](#earning-revenue-from-bits-in-extensions-beta)                   |
-| supported-browsers                                            | 17/10/2022, 11:06:32 pm | 08/10/2022, 4:10:03 am  | [Details](#supported-browsers)                                             |
+| supported-browsers                                            | 17/10/2022, 10:27:32 pm | 08/10/2022, 4:10:03 am  | [Details](#supported-browsers)                                             |
 | twitch-content-sharing-guidelines                             | 13/10/2022, 7:53:07 am  | 27/09/2022, 8:52:24 am  | [Details](#twitch-content-sharing-guidelines)                              |
 | follow-cue                                                    | 30/09/2022, 5:59:59 am  | 28/09/2022, 10:02:08 am | [Details](#follow-cue)                                                     |
 | charitable-donations                                          | 28/09/2022, 0:10:55 am  | 22/09/2022, 4:42:52 am  | [Details](#charitable-donations)                                           |
@@ -322,7 +323,7 @@ Language data is not included in the API. All page links will not have a languag
 | how-to-use-collections                                        | 22/10/2021, 8:53:07 am  | 10/10/2020, 4:29:03 am  | [Details](#how-to-use-collections)                                         |
 | low-latency-video                                             | 22/10/2021, 8:53:07 am  | 21/10/2020, 8:43:19 am  | [Details](#low-latency-video)                                              |
 | amazon-blacksmith                                             | 22/10/2021, 8:53:06 am  | 29/07/2021, 5:03:17 am  | [Details](#amazon-blacksmith)                                              |
-| nba-g-league-co-streaming-guide                               | 22/10/2021, 8:53:06 am  | 07/12/2018, 0:41:57 pm  | [Details](#nba-g-league-co-streaming-guide)                                |
+| nba-g-league-co-streaming-guide                               | 22/10/2021, 8:53:05 am  | 27/02/2019, 3:21:27 pm  | [Details](#nba-g-league-co-streaming-guide)                                |
 | username-rename-and-recycling-policies                        | 22/10/2021, 8:52:25 am  | 17/08/2020, 11:45:31 pm | [Details](#username-rename-and-recycling-policies)                         |
 | smart-notification-setting                                    | 22/10/2021, 8:52:25 am  | 10/11/2020, 11:30:37 pm | [Details](#smart-notification-setting)                                     |
 | where-are-my-notifications                                    | 22/10/2021, 8:52:24 am  | 27/04/2021, 11:51:07 pm | [Details](#where-are-my-notifications)                                     |
@@ -803,19 +804,37 @@ https://help.twitch.tv/s/article/audio-ads
 | Audio-Werbeanzeigen | 22/10/2021, 8:53:22 am | 18/09/2021, 5:03:27 am  |
 
 
+### authy-desktop-shutdown
+https://help.twitch.tv/s/article/authy-desktop-shutdown
+
+| Title                                                       | Last Modified          | Created                  |
+|-------------------------------------------------------------|------------------------|--------------------------|
+| Arrêt de l’application de bureau Authy                      | 23/02/2024, 4:00:38 am | 16/02/2024, 11:11:53 am  |
+| Authy Desktop App Shutdown                                  | 23/02/2024, 4:00:38 am | 16/02/2024, 6:43:02 am   |
+| Authy masaüstü uygulaması kullanımdan kalkıyor              | 23/02/2024, 4:00:38 am | 20/02/2024, 8:22:04 am   |
+| Authy 桌面 App 服務終止                                           | 23/02/2024, 4:00:38 am | 16/02/2024, 11:11:53 am  |
+| Authy 데스크톱 앱 서비스 중지                                         | 23/02/2024, 4:00:38 am | 16/02/2024, 11:11:53 am  |
+| Authyデスクトップアプリのサービスが終了                                      | 23/02/2024, 4:00:38 am | 16/02/2024, 11:11:53 am  |
+| Chiusura dell'app Authy per desktop                         | 23/02/2024, 4:00:38 am | 16/02/2024, 11:11:53 am  |
+| Cierre del servicio de la aplicación de escritorio de Authy | 23/02/2024, 4:00:38 am | 16/02/2024, 11:11:53 am  |
+| Die Authy-Desktopanwendung wird eingestellt                 | 23/02/2024, 4:00:38 am | 16/02/2024, 11:11:53 am  |
+| Encerramento do App Authy para desktop                      | 23/02/2024, 4:00:38 am | 16/02/2024, 11:11:53 am  |
+| La aplicación de escritorio de Authy dejará de funcionar    | 23/02/2024, 4:00:38 am | 16/02/2024, 11:11:53 am  |
+
+
 ### authy-faq
 https://help.twitch.tv/s/article/authy-faq
 
-| Title                                                                            | Last Modified           | Created                  |
-|----------------------------------------------------------------------------------|-------------------------|--------------------------|
-| Cómo cambiar el número de teléfono de la autenticación de doble factor en Twitch | 03/08/2023, 9:28:36 pm  | 26/07/2023, 10:23:51 am  |
-| Comment changer votre numéro de téléphone de double authentification sur Twitch  | 03/08/2023, 9:22:11 pm  | 26/07/2023, 10:23:51 am  |
-| Cómo cambiar tu número de teléfono para la autenticación en dos pasos de Twitch  | 03/08/2023, 8:27:13 pm  | 26/07/2023, 10:23:51 am  |
-| Come cambiare il numero di telefono per l'autenticazione in due fasi su Twitch   | 03/08/2023, 5:26:03 pm  | 26/07/2023, 10:23:51 am  |
-| Jak zmienić numer telefonu do uwierzytelniania dwuskładnikowego na Twitchu?      | 02/08/2023, 8:41:37 pm  | 26/07/2023, 10:23:51 am  |
-| Como alterar seu número de telefone da 2FA na Twitch                             | 02/08/2023, 10:17:33 am | 26/07/2023, 10:23:51 am  |
-| How to Change Your 2FA Phone Number on Twitch                                    | 26/07/2023, 10:23:29 am | 26/07/2023, 10:22:40 am  |
-| Authy Frågor och svar                                                            | 26/07/2023, 10:23:27 am | 26/07/2023, 10:23:27 am  |
+| Title                                                                            | Last Modified          | Created                 |
+|----------------------------------------------------------------------------------|------------------------|-------------------------|
+| Come cambiare il numero di telefono per l'autenticazione in due fasi su Twitch   | 23/02/2024, 4:01:17 am | 04/08/2023, 2:59:41 am  |
+| Comment changer votre numéro de téléphone de double authentification sur Twitch  | 23/02/2024, 4:01:17 am | 04/08/2023, 2:59:41 am  |
+| Como alterar seu número de telefone da 2FA na Twitch                             | 23/02/2024, 4:01:17 am | 04/08/2023, 2:59:41 am  |
+| Cómo cambiar el número de teléfono de la autenticación de doble factor en Twitch | 23/02/2024, 4:01:17 am | 04/08/2023, 2:59:41 am  |
+| Jak zmienić numer telefonu do uwierzytelniania dwuskładnikowego na Twitchu?      | 23/02/2024, 4:01:17 am | 04/08/2023, 2:59:41 am  |
+| Authy Frågor och svar                                                            | 23/02/2024, 4:01:16 am | 23/02/2024, 4:01:14 am  |
+| Cómo cambiar tu número de teléfono para la autenticación en dos pasos de Twitch  | 23/02/2024, 4:01:16 am | 04/08/2023, 2:59:41 am  |
+| How to Change Your 2FA Phone Number on Twitch                                    | 23/02/2024, 4:01:16 am | 04/08/2023, 2:59:07 am  |
 
 
 ### ban-evasion
@@ -1597,7 +1616,6 @@ https://help.twitch.tv/s/article/display-names-on-twitch
 | Anzeigenamen auf Twitch        | 09/02/2023, 11:49:16 am | 11/01/2023, 10:29:27 am  |
 | Display Names on Twitch        | 09/02/2023, 11:49:16 am | 11/01/2023, 9:56:08 am   |
 | Los nombres públicos en Twitch | 09/02/2023, 11:49:16 am | 11/01/2023, 10:29:27 am  |
-| Nazwy wyświetlane na Twitchu   | 09/02/2023, 11:49:16 am | 11/01/2023, 10:29:27 am  |
 
 
 ### dmca-and-copyright-faqs
@@ -3002,11 +3020,11 @@ https://help.twitch.tv/s/article/local-recording
 ### local-sub-price-countries
 https://help.twitch.tv/s/article/local-sub-price-countries
 
-| Title                                     | Last Modified          | Created                  |
-|-------------------------------------------|------------------------|--------------------------|
-| Kraje objęte lokalnymi cenami subskrypcji | 21/02/2024, 4:35:51 am | 19/05/2023, 11:54:12 am  |
-| Hier gelten die regionalen Abo-Preise     | 21/02/2024, 4:35:50 am | 19/05/2023, 11:54:12 am  |
-| Local Subscription Pricing Countries      | 21/02/2024, 4:35:50 am | 14/11/2023, 9:20:39 am   |
+| Title                                     | Last Modified          | Created                 |
+|-------------------------------------------|------------------------|-------------------------|
+| Hier gelten die regionalen Abo-Preise     | 23/02/2024, 8:55:10 am | 23/02/2024, 4:15:30 am  |
+| Local Subscription Pricing Countries      | 23/02/2024, 4:09:57 am | 23/02/2024, 4:08:37 am  |
+| Kraje objęte lokalnymi cenami subskrypcji | 23/02/2024, 4:09:56 am | 23/02/2024, 4:09:55 am  |
 
 
 ### local-subscription-pricing
@@ -3341,11 +3359,9 @@ https://help.twitch.tv/s/article/navigating-the-feedback-forum
 |---------------------------------------|-------------------------|-------------------------|
 | Geri Bildirim Forumunda Gezinmek      | 26/08/2023, 1:19:34 am  | 18/08/2023, 5:32:44 am  |
 | Cómo usar el foro de comentarios      | 26/08/2023, 1:17:35 am  | 18/08/2023, 5:32:44 am  |
-| Navigare nei Forum di feedback        | 26/08/2023, 1:15:03 am  | 18/08/2023, 5:32:44 am  |
 | Explorer les forums de suggestions    | 26/08/2023, 1:14:31 am  | 18/08/2023, 5:32:44 am  |
 | In den Feedback-Foren navigieren      | 26/08/2023, 1:13:34 am  | 18/08/2023, 5:32:44 am  |
 | Manejarse en los foros de sugerencias | 25/08/2023, 10:48:04 pm | 18/08/2023, 5:32:44 am  |
-| Navigating the Feedback Forum         | 23/08/2023, 4:23:38 am  | 23/08/2023, 4:23:23 am  |
 
 
 ### nba-g-league-co-streaming-guide
@@ -3353,17 +3369,13 @@ https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide
 
 | Title                                              | Last Modified          | Created                 |
 |----------------------------------------------------|------------------------|-------------------------|
-| NBA G League Co-Streaming Guide                    | 22/10/2021, 8:53:06 am | 07/12/2018, 0:41:57 pm  |
-| NBA Gリーグのミラー配信ガイド                                  | 22/10/2021, 8:53:06 am | 27/02/2019, 3:13:36 pm  |
 | Co-streamgids voor NBA G League                    | 22/10/2021, 8:53:05 am | 27/02/2019, 3:21:27 pm  |
 | Guida al co-streaming della NBA G-League           | 22/10/2021, 8:53:05 am | 27/02/2019, 3:39:09 pm  |
 | Guía de co-streaming de la Liga de la NBA G        | 22/10/2021, 8:53:05 am | 27/02/2019, 3:28:21 pm  |
 | Guía para la coemisión de la NBA G League          | 22/10/2021, 8:53:05 am | 27/02/2019, 3:10:57 pm  |
-| NBA G 리그 같이보기 가이드                                  | 22/10/2021, 8:53:05 am | 27/02/2019, 3:17:52 pm  |
 | Guia de co-streaming da NBA G League               | 22/10/2021, 8:53:04 am | 27/02/2019, 3:53:35 pm  |
 | Guide co-streaming pour la NBA G League            | 22/10/2021, 8:53:04 am | 27/02/2019, 3:12:06 pm  |
 | Leitfaden zum Co-Streamen von NBA G-League-Spielen | 22/10/2021, 8:53:04 am | 27/02/2019, 3:16:33 pm  |
-| NBA G 聯盟合作實況指南                                     | 22/10/2021, 8:53:04 am | 21/02/2019, 9:45:20 am  |
 
 
 ### new-device-and-location-verification
@@ -3372,8 +3384,6 @@ https://help.twitch.tv/s/article/new-device-and-location-verification
 | Title                                         | Last Modified          | Created                 |
 |-----------------------------------------------|------------------------|-------------------------|
 | Dispositivo nuevo y verificación de ubicación | 03/08/2023, 9:28:41 pm | 26/07/2023, 9:59:50 am  |
-| Neue Geräte- und Ortsbestätigung              | 03/08/2023, 8:54:10 pm | 26/07/2023, 9:59:50 am  |
-| New Device and Location Verification          | 26/07/2023, 9:59:29 am | 26/07/2023, 9:59:14 am  |
 
 
 ### nintendo-switch
@@ -3394,8 +3404,8 @@ https://help.twitch.tv/s/article/not-receiving-sms
 
 | Title                                                                        | Last Modified          | Created                 |
 |------------------------------------------------------------------------------|------------------------|-------------------------|
-| Kein Erhalt von SMS-Textnachrichten oder Zwei-Faktor-Authentifizierung-Codes | 03/08/2023, 8:54:06 pm | 03/08/2023, 8:54:05 pm  |
-| Kısa mesaj veya iki kademeli güvenlik kodu gelmiyor                          | 03/08/2023, 7:30:32 pm | 03/08/2023, 7:30:31 pm  |
+| Kein Erhalt von SMS-Textnachrichten oder Zwei-Faktor-Authentifizierung-Codes | 23/02/2024, 4:00:57 am | 04/08/2023, 5:40:47 am  |
+| Kısa mesaj veya iki kademeli güvenlik kodu gelmiyor                          | 23/02/2024, 4:00:57 am | 04/08/2023, 5:40:47 am  |
 
 
 ### notifications-inbox
@@ -4139,14 +4149,13 @@ https://help.twitch.tv/s/article/subtember-2023-faq
 ### supported-browsers
 https://help.twitch.tv/s/article/supported-browsers
 
-| Title                      | Last Modified           | Created                 |
-|----------------------------|-------------------------|-------------------------|
-| Navigateurs pris en charge | 17/10/2022, 11:06:32 pm | 08/10/2022, 4:10:03 am  |
-| Navegadores compatibles    | 17/10/2022, 10:27:32 pm | 08/10/2022, 4:10:03 am  |
-| Browser supportati         | 17/10/2022, 7:10:05 pm  | 08/10/2022, 4:10:03 am  |
-| Desteklenen Tarayıcılar    | 17/10/2022, 6:46:04 pm  | 08/10/2022, 4:10:03 am  |
-| Navegadores compatibles    | 17/10/2022, 6:33:34 pm  | 08/10/2022, 4:10:03 am  |
-| Navegadores compatíveis    | 13/10/2022, 11:36:11 am | 08/10/2022, 4:10:03 am  |
+| Title                   | Last Modified           | Created                 |
+|-------------------------|-------------------------|-------------------------|
+| Navegadores compatibles | 17/10/2022, 10:27:32 pm | 08/10/2022, 4:10:03 am  |
+| Browser supportati      | 17/10/2022, 7:10:05 pm  | 08/10/2022, 4:10:03 am  |
+| Desteklenen Tarayıcılar | 17/10/2022, 6:46:04 pm  | 08/10/2022, 4:10:03 am  |
+| Navegadores compatibles | 17/10/2022, 6:33:34 pm  | 08/10/2022, 4:10:03 am  |
+| Navegadores compatíveis | 13/10/2022, 11:36:11 am | 08/10/2022, 4:10:03 am  |
 
 
 ### supported-mobile-os
@@ -4336,7 +4345,6 @@ https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq
 |--------------------------------------------------------------------------|------------------------|-------------------------|
 | Apoio na Loja de Merchandise da Twitch - Perguntas Frequentes            | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Dokument FAQ sklepu z artykułami promocyjnymi Twitch                     | 22/10/2021, 8:53:51 am | 07/08/2020, 3:22:52 am  |
-| Nejčastější dotazy k podpoře pro obchod s reklamním zbožím z Twitche     | 22/10/2021, 8:53:51 am | 11/08/2020, 2:18:44 am  |
 | Domande frequenti sull'assistenza agli acquisti del merchandising Twitch | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 | FAQ des produits dérivés Twitch                                          | 22/10/2021, 8:53:50 am | 07/08/2020, 3:22:52 am  |
 
@@ -4529,15 +4537,15 @@ https://help.twitch.tv/s/article/twitch-twitter-twitchsupport-faq
 ### two-factor-authentication
 https://help.twitch.tv/s/article/two-factor-authentication
 
-| Title                                                  | Last Modified           | Created                 |
-|--------------------------------------------------------|-------------------------|-------------------------|
-| Konfiguracja uwierzytelniania dwuskładnikowego         | 13/03/2023, 11:03:33 pm | 08/03/2023, 0:15:36 pm  |
-| Configurar la autenticación en dos pasos (2FA)         | 13/03/2023, 10:20:05 pm | 08/03/2023, 0:15:36 pm  |
-| Configurer la double authentification (DA)             | 13/03/2023, 9:56:35 pm  | 08/03/2023, 0:15:36 pm  |
-| 2段階認証（2FA）の設定                                          | 13/03/2023, 6:18:06 pm  | 08/03/2023, 0:15:36 pm  |
-| Configurazione dell'autenticazione in due fasi         | 13/03/2023, 6:16:49 pm  | 08/03/2023, 0:15:36 pm  |
-| Configurando a autenticação de dois fatores (2FA)      | 11/03/2023, 5:25:05 am  | 08/03/2023, 0:15:36 pm  |
-| Cómo configurar la autenticación de factor doble (2FA) | 10/03/2023, 10:35:33 pm | 08/03/2023, 0:15:36 pm  |
+| Title                                                  | Last Modified          | Created                 |
+|--------------------------------------------------------|------------------------|-------------------------|
+| 2段階認証（2FA）の設定                                          | 23/02/2024, 4:01:36 am | 27/04/2023, 3:57:12 am  |
+| Configurando a autenticação de dois fatores (2FA)      | 23/02/2024, 4:01:36 am | 27/04/2023, 3:57:12 am  |
+| Konfiguracja uwierzytelniania dwuskładnikowego         | 23/02/2024, 4:01:36 am | 27/04/2023, 3:57:12 am  |
+| Configurar la autenticación en dos pasos (2FA)         | 23/02/2024, 4:01:35 am | 27/04/2023, 3:57:12 am  |
+| Configurazione dell'autenticazione in due fasi         | 23/02/2024, 4:01:35 am | 27/04/2023, 3:57:12 am  |
+| Configurer la double authentification (DA)             | 23/02/2024, 4:01:35 am | 27/04/2023, 3:57:12 am  |
+| Cómo configurar la autenticación de factor doble (2FA) | 23/02/2024, 4:01:35 am | 27/04/2023, 3:57:12 am  |
 
 
 ### two-factor-authentication-with-authy
@@ -4545,9 +4553,9 @@ https://help.twitch.tv/s/article/two-factor-authentication-with-authy
 
 | Title                                    | Last Modified          | Created                 |
 |------------------------------------------|------------------------|-------------------------|
-| Autenticação de Dois Fatores com a Authy | 09/03/2023, 7:53:25 am | 09/03/2023, 7:53:24 am  |
-| Authenticatie via Two-Factor met Authy   | 09/03/2023, 7:53:25 am | 09/03/2023, 7:53:24 am  |
-| Godkjenning med to faktorer med Authy    | 09/03/2023, 7:53:25 am | 09/03/2023, 7:53:24 am  |
+| Autenticação de Dois Fatores com a Authy | 23/02/2024, 4:01:34 am | 23/02/2024, 4:01:33 am  |
+| Authenticatie via Two-Factor met Authy   | 23/02/2024, 4:01:34 am | 23/02/2024, 4:01:33 am  |
+| Godkjenning med to faktorer med Authy    | 23/02/2024, 4:01:34 am | 23/02/2024, 4:01:33 am  |
 
 
 ### understanding-feedback-updates
