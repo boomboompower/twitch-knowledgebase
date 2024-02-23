@@ -6,7 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Local Sub Price Countries                                | 21/02/2024, 4:35:50 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                                 |
+| Local Sub Price Countries                                | 23/02/2024, 4:09:57 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                                 |
+| Two Factor Authentication                                | 23/02/2024, 4:01:35 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=en_US)                                 |
+| Authy Faq                                                | 23/02/2024, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=en_US)                                                 |
 | Prime Gaming Revenue Guide                               | 16/02/2024, 8:20:57 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)                                |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 15/02/2024, 5:22:56 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=en_US)  |
 | How To File A User Report                                | 15/02/2024, 5:22:54 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=en_US)                                 |
@@ -267,6 +269,17 @@
 
 
 
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                            | Last Updated (dd/mm/yyyy) | Link                                                                                     |
+|---------------------------------|---------------------------|------------------------------------------------------------------------------------------|
+| Subpoint Vs Subcount            | 18/01/2024, 10:00:39 am   | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=en_US)             |
+| Alerts By Twitch                | 29/11/2023, 9:13:51 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=en_US)                 |
+| Games Irl And Music Directories | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=en_US)  |
+
+
+
 ## View-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-view-1.xml) this sitemap
 
@@ -276,6 +289,7 @@
 | Generic                      | 31/12/1899, 10:00:00 am   | [Link](https://help.twitch.tv/s/?language=en_US)                              |
 | TestRedirect                 | 31/12/1899, 10:00:00 am   | [Link](https://help.twitch.tv/s/testRedirect?language=en_US)                  |
 | Twitch Ingest Recommendation | 31/12/1899, 10:00:00 am   | [Link](https://help.twitch.tv/s/twitch-ingest-recommendation?language=en_US)  |
+| Govcontact                   | 31/12/1899, 10:00:00 am   | [Link](https://help.twitch.tv/s/govcontact?language=en_US)                    |
 
 
 

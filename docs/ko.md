@@ -6,8 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Local Sub Price Countries                                | 23/02/2024, 8:55:20 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ko)                                 |
+| Two Factor Authentication                                | 23/02/2024, 4:01:36 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ko)                                 |
+| Authy Faq                                                | 23/02/2024, 4:01:17 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=ko)                                                 |
 | Prime Gaming Revenue Guide                               | 21/02/2024, 7:07:07 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ko)                                |
-| Local Sub Price Countries                                | 21/02/2024, 4:35:51 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ko)                                 |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 15/02/2024, 5:22:57 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=ko)  |
 | How To File A User Report                                | 15/02/2024, 5:22:55 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=ko)                                 |
 | Emote Slots                                              | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=ko)                                               |
@@ -46,9 +48,6 @@
 | Getting Started Twitch Studio                            | 28/10/2023, 5:03:20 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=ko)                             |
 | Ban Evasion                                              | 28/10/2023, 5:03:02 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=ko)                                               |
 | Twitch Studio Mac Faq                                    | 28/10/2023, 4:27:21 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ko)                                     |
-| Guest Star Faqs                                          | 28/10/2023, 0:15:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=ko)                                           |
-| Stream Together Host Guide                               | 28/10/2023, 0:14:38 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ko)                                |
-| Stream Together Guest Guide                              | 28/10/2023, 0:14:34 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ko)                               |
 
 
 
@@ -264,10 +263,14 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Stream Together Host Guide  | 28/10/2023, 0:14:38 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ko)   |
-| Stream Together Guest Guide | 28/10/2023, 0:14:34 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ko)  |
+| Name                            | Last Updated (dd/mm/yyyy) | Link                                                                                  |
+|---------------------------------|---------------------------|---------------------------------------------------------------------------------------|
+| Subpoint Vs Subcount            | 24/01/2024, 1:22:34 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ko)             |
+| Alerts By Twitch                | 04/12/2023, 9:58:32 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=ko)                 |
+| Games Irl And Music Directories | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=ko)  |
+| Getting Started Twitch Studio   | 28/10/2023, 5:03:20 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=ko)    |
+| Stream Together Host Guide      | 28/10/2023, 0:14:38 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=ko)       |
+| Stream Together Guest Guide     | 28/10/2023, 0:14:34 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ko)      |
 
 
 
