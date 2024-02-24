@@ -48,6 +48,8 @@
 | Recommended Software For Broadcasting                    | 28/10/2023, 5:03:21 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ru)                     |
 | Ban Evasion                                              | 28/10/2023, 5:03:06 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=ru)                                               |
 | Twitch Studio Mac Faq                                    | 28/10/2023, 4:27:18 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ru)                                     |
+| Stream Together Guest Guide                              | 28/10/2023, 0:44:15 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=ru)                               |
+| Guest Star Faqs                                          | 28/10/2023, 0:44:14 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=ru)                                           |
 
 
 

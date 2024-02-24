@@ -50,6 +50,7 @@
 | Getting Started Twitch Studio                            | 28/10/2023, 5:03:47 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=th)                             |
 | Ban Evasion                                              | 28/10/2023, 5:03:28 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=th)                                               |
 | Recommended Software For Broadcasting                    | 28/10/2023, 5:03:10 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=th)                     |
+| Twitch Studio Mac Faq                                    | 28/10/2023, 4:26:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=th)                                     |
 
 
 
