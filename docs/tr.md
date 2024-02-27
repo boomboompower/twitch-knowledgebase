@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Experiments                                              | 27/02/2024, 7:26:42 am    | [Link](https://help.twitch.tv/s/article/experiments?language=tr)                                               |
 | Local Sub Price Countries                                | 23/02/2024, 8:55:06 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=tr)                                 |
 | Two Factor Authentication                                | 23/02/2024, 4:01:36 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=tr)                                 |
 | Authy Faq                                                | 23/02/2024, 4:01:18 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=tr)                                                 |
@@ -26,7 +27,6 @@
 | Setup Alerts By Twitch                                   | 15/12/2023, 9:04:29 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=tr)                                    |
 | How To Manage Harassment In Chat                         | 15/12/2023, 9:04:22 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=tr)                          |
 | How To Use Clips                                         | 15/12/2023, 9:04:21 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=tr)                                          |
-| Experiments                                              | 15/12/2023, 9:04:17 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=tr)                                               |
 | Guest Star Getting Started                               | 14/12/2023, 1:05:14 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=tr)                                |
 | Emote Guidelines                                         | 09/12/2023, 1:02:54 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=tr)                                          |
 | Date Of Birth Changes                                    | 08/12/2023, 11:38:03 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=tr)                                     |

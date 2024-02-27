@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Experiments                                              | 27/02/2024, 7:26:38 am    | [Link](https://help.twitch.tv/s/article/experiments?language=th)                                               |
 | Local Sub Price Countries                                | 23/02/2024, 4:09:56 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=th)                                 |
 | Two Factor Authentication                                | 23/02/2024, 4:01:36 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=th)                                 |
 | Authy Faq                                                | 23/02/2024, 4:01:17 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=th)                                                 |
@@ -23,7 +24,6 @@
 | Twitch Turbo Guide                                       | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=th)                                        |
 | Managing Your Phone Number                               | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=th)                                |
 | How To Manage Harassment In Chat                         | 21/12/2023, 0:37:14 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=th)                          |
-| Experiments                                              | 21/12/2023, 0:37:09 am    | [Link](https://help.twitch.tv/s/article/experiments?language=th)                                               |
 | How To Use Clips                                         | 21/12/2023, 0:37:07 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=th)                                          |
 | Setup Alerts By Twitch                                   | 21/12/2023, 0:37:05 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=th)                                    |
 | Partner Onboarding Guide                                 | 21/12/2023, 0:37:05 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=th)                                  |
@@ -248,6 +248,16 @@
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=th)  |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=th)  |
 | Markdown Basics                        | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=th)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Stream Together Guest Guide | 01/11/2023, 0:42:38 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=th)  |
+| Stream Together Host Guide  | 01/11/2023, 0:42:34 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=th)   |
 
 
 

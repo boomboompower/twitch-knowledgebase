@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Experiments                                              | 27/02/2024, 7:26:41 am    | [Link](https://help.twitch.tv/s/article/experiments?language=fr)                                               |
 | Local Sub Price Countries                                | 23/02/2024, 8:55:06 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=fr)                                 |
 | Two Factor Authentication                                | 23/02/2024, 4:01:35 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=fr)                                 |
 | Authy Faq                                                | 23/02/2024, 4:01:17 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=fr)                                                 |
@@ -24,7 +25,6 @@
 | Managing Your Phone Number                               | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=fr)                                |
 | How To Use Clips                                         | 20/12/2023, 11:39:34 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                                          |
 | How To Manage Harassment In Chat                         | 20/12/2023, 11:39:28 pm   | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fr)                          |
-| Experiments                                              | 20/12/2023, 11:39:16 pm   | [Link](https://help.twitch.tv/s/article/experiments?language=fr)                                               |
 | Partner Onboarding Guide                                 | 20/12/2023, 11:39:13 pm   | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=fr)                                  |
 | Setup Alerts By Twitch                                   | 20/12/2023, 11:39:11 pm   | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=fr)                                    |
 | Guest Star Getting Started                               | 14/12/2023, 1:26:02 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=fr)                                |
@@ -258,6 +258,15 @@
 | Where Are My Notifications             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=fr)              |
 | Smart Notification Setting             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=fr)              |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=fr)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name             | Last Updated (dd/mm/yyyy) | Link                                                                   |
+|------------------|---------------------------|------------------------------------------------------------------------|
+| Alerts By Twitch | 05/12/2023, 0:30:38 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=fr)  |
 
 
 
