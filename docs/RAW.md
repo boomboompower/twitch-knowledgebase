@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| experiments                                                   | 27/02/2024, 7:26:42 am  | 15/02/2024, 1:48:09 pm  | [Details](#experiments)                                                    |
 | local-sub-price-countries                                     | 23/02/2024, 8:55:10 am  | 23/02/2024, 4:15:30 am  | [Details](#local-sub-price-countries)                                      |
 | two-factor-authentication                                     | 23/02/2024, 4:01:36 am  | 27/04/2023, 3:57:12 am  | [Details](#two-factor-authentication)                                      |
 | two-factor-authentication-with-authy                          | 23/02/2024, 4:01:34 am  | 23/02/2024, 4:01:33 am  | [Details](#two-factor-authentication-with-authy)                           |
@@ -37,7 +38,6 @@ Language data is not included in the API. All page links will not have a languag
 | hype-challenge                                                | 21/12/2023, 0:37:18 am  | 21/12/2023, 0:37:17 am  | [Details](#hype-challenge)                                                 |
 | how-to-use-clips                                              | 20/12/2023, 11:39:34 pm | 19/09/2023, 8:34:23 am  | [Details](#how-to-use-clips)                                               |
 | how-to-manage-harassment-in-chat                              | 20/12/2023, 11:39:28 pm | 23/11/2023, 8:05:51 am  | [Details](#how-to-manage-harassment-in-chat)                               |
-| experiments                                                   | 20/12/2023, 11:39:16 pm | 26/10/2023, 10:24:38 am | [Details](#experiments)                                                    |
 | partner-onboarding-guide                                      | 20/12/2023, 11:39:13 pm | 09/12/2023, 8:50:18 am  | [Details](#partner-onboarding-guide)                                       |
 | setup-alerts-by-twitch                                        | 20/12/2023, 11:39:11 pm | 20/12/2023, 11:39:04 pm | [Details](#setup-alerts-by-twitch)                                         |
 | bits-price-adjustment                                         | 20/12/2023, 11:39:02 pm | 22/11/2023, 10:47:29 am | [Details](#bits-price-adjustment)                                          |
@@ -1731,14 +1731,14 @@ https://help.twitch.tv/s/article/engagement
 ### experiments
 https://help.twitch.tv/s/article/experiments
 
-| Title                          | Last Modified           | Created                  |
-|--------------------------------|-------------------------|--------------------------|
-| Expériences Twitch             | 20/12/2023, 11:39:16 pm | 26/10/2023, 10:24:38 am  |
-| Eksperymenty w serwisie Twitch | 20/12/2023, 11:27:11 pm | 20/12/2023, 11:27:10 pm  |
-| Experimentos de Twitch         | 20/12/2023, 9:21:39 pm  | 20/12/2023, 9:21:38 pm   |
-| Gli esperimenti di Twitch      | 20/12/2023, 8:58:48 pm  | 20/12/2023, 8:58:47 pm   |
-| Experimentos da Twitch         | 20/12/2023, 1:04:41 pm  | 20/12/2023, 1:04:39 pm   |
-| Experimentos de Twitch         | 20/12/2023, 3:24:27 am  | 26/10/2023, 10:24:38 am  |
+| Title                          | Last Modified          | Created                 |
+|--------------------------------|------------------------|-------------------------|
+| Experimentos da Twitch         | 27/02/2024, 7:26:42 am | 15/02/2024, 1:48:09 pm  |
+| Experimentos de Twitch         | 27/02/2024, 7:26:41 am | 15/02/2024, 1:48:09 pm  |
+| Experimentos de Twitch         | 27/02/2024, 7:26:41 am | 15/02/2024, 1:48:09 pm  |
+| Expériences Twitch             | 27/02/2024, 7:26:41 am | 15/02/2024, 1:48:09 pm  |
+| Gli esperimenti di Twitch      | 27/02/2024, 7:26:41 am | 15/02/2024, 1:48:09 pm  |
+| Eksperymenty w serwisie Twitch | 27/02/2024, 7:26:38 am | 27/02/2024, 7:26:35 am  |
 
 
 ### extensions-switch-with-your-game-selection
