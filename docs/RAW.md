@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| sponsorship-experiments-faq                                   | 28/02/2024, 10:48:43 am | 28/02/2024, 10:48:42 am | [Details](#sponsorship-experiments-faq)                                    |
 | experiments                                                   | 27/02/2024, 7:26:42 am  | 15/02/2024, 1:48:09 pm  | [Details](#experiments)                                                    |
 | local-sub-price-countries                                     | 23/02/2024, 8:55:10 am  | 23/02/2024, 4:15:30 am  | [Details](#local-sub-price-countries)                                      |
 | two-factor-authentication                                     | 23/02/2024, 4:01:36 am  | 27/04/2023, 3:57:12 am  | [Details](#two-factor-authentication)                                      |
@@ -72,7 +73,6 @@ Language data is not included in the API. All page links will not have a languag
 | cheering-for-partners-affiliates                              | 16/11/2023, 0:43:32 am  | 16/11/2023, 0:43:31 am  | [Details](#cheering-for-partners-affiliates)                               |
 | hype-chat-for-streamers                                       | 15/11/2023, 7:09:07 pm  | 08/11/2023, 6:34:00 am  | [Details](#hype-chat-for-streamers)                                        |
 | hype-chat-by-twitch                                           | 15/11/2023, 7:09:02 pm  | 08/11/2023, 6:33:40 am  | [Details](#hype-chat-by-twitch)                                            |
-| sponsorship-experiments-faq                                   | 14/11/2023, 4:34:05 am  | 04/10/2023, 0:17:21 pm  | [Details](#sponsorship-experiments-faq)                                    |
 | nintendo-switch                                               | 10/11/2023, 10:52:32 pm | 31/10/2023, 8:41:40 am  | [Details](#nintendo-switch)                                                |
 | hype-chat-pricing-by-country                                  | 10/11/2023, 10:47:34 pm | 08/11/2023, 6:34:25 am  | [Details](#hype-chat-pricing-by-country)                                   |
 | how-to-purchase-bits                                          | 10/11/2023, 7:04:34 am  | 09/08/2023, 5:27:11 pm  | [Details](#how-to-purchase-bits)                                           |
@@ -3878,11 +3878,11 @@ https://help.twitch.tv/s/article/smart-notification-setting
 ### sponsorship-experiments-faq
 https://help.twitch.tv/s/article/sponsorship-experiments-faq
 
-| Title                                       | Last Modified          | Created                 |
-|---------------------------------------------|------------------------|-------------------------|
-| Eksperymenty sponsorskie – FAQ              | 14/11/2023, 4:34:05 am | 04/10/2023, 0:17:21 pm  |
-| FAQ sull'esperimento delle sponsorizzazioni | 14/11/2023, 4:34:05 am | 04/10/2023, 0:17:21 pm  |
-| FAQ sur les expériences de parrainage       | 14/11/2023, 4:34:04 am | 04/10/2023, 0:17:21 pm  |
+| Title                                       | Last Modified           | Created                  |
+|---------------------------------------------|-------------------------|--------------------------|
+| Eksperymenty sponsorskie – FAQ              | 28/02/2024, 10:48:43 am | 28/02/2024, 10:48:42 am  |
+| FAQ sull'esperimento delle sponsorizzazioni | 28/02/2024, 10:48:43 am | 28/02/2024, 10:48:42 am  |
+| FAQ sur les expériences de parrainage       | 28/02/2024, 10:48:43 am | 28/02/2024, 10:48:42 am  |
 
 
 ### stories
