@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Sponsorship Experiments Faq                              | 28/02/2024, 10:48:43 am   | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=fr)                               |
 | Experiments                                              | 27/02/2024, 7:26:41 am    | [Link](https://help.twitch.tv/s/article/experiments?language=fr)                                               |
 | Local Sub Price Countries                                | 23/02/2024, 8:55:06 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=fr)                                 |
 | Two Factor Authentication                                | 23/02/2024, 4:01:35 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=fr)                                 |
@@ -40,7 +41,6 @@
 | Partner Settings Guide                                   | 30/11/2023, 10:05:33 pm   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=fr)                                    |
 | Subscriber Badge Guide                                   | 30/11/2023, 9:52:37 pm    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=fr)                                    |
 | Guide To Cheering With Bits                              | 30/11/2023, 9:52:34 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=fr)                               |
-| Sponsorship Experiments Faq                              | 14/11/2023, 4:34:04 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=fr)                               |
 | Nintendo Switch                                          | 10/11/2023, 10:52:32 pm   | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=fr)                                           |
 | Follower Emotes                                          | 08/11/2023, 11:26:22 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=fr)                                           |
 | Games Irl And Music Directories                          | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=fr)                           |
