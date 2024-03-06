@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                             | 05/03/2024, 2:11:21 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=tr)                              |
 | Sponsorship Experiments Faq                              | 28/02/2024, 10:48:43 am   | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=tr)                               |
 | Experiments                                              | 27/02/2024, 7:26:42 am    | [Link](https://help.twitch.tv/s/article/experiments?language=tr)                                               |
 | Local Sub Price Countries                                | 23/02/2024, 8:55:06 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=tr)                                 |
@@ -47,7 +48,6 @@
 | Getting Started Twitch Studio                            | 28/10/2023, 5:03:50 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=tr)                             |
 | Recommended Software For Broadcasting                    | 28/10/2023, 5:03:30 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=tr)                     |
 | Ban Evasion                                              | 28/10/2023, 5:03:20 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=tr)                                               |
-| Twitch Studio Mac Faq                                    | 28/10/2023, 4:26:08 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=tr)                                     |
 
 
 
@@ -255,6 +255,15 @@
 | Where Are My Notifications             | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=tr)              |
 | Smart Notification Setting             | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=tr)              |
 | Markdown Basics                        | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=tr)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name             | Last Updated (dd/mm/yyyy) | Link                                                                   |
+|------------------|---------------------------|------------------------------------------------------------------------|
+| Alerts By Twitch | 04/12/2023, 8:03:10 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=tr)  |
 
 
 

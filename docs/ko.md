@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                             | 05/03/2024, 2:11:21 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ko)                              |
 | Sponsorship Experiments Faq                              | 28/02/2024, 10:48:43 am   | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=ko)                               |
 | Experiments                                              | 27/02/2024, 7:26:42 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ko)                                               |
 | Local Sub Price Countries                                | 23/02/2024, 8:55:20 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ko)                                 |
@@ -257,6 +258,15 @@
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=ko)  |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ko)  |
 | Markdown Basics                        | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ko)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name             | Last Updated (dd/mm/yyyy) | Link                                                                   |
+|------------------|---------------------------|------------------------------------------------------------------------|
+| Alerts By Twitch | 04/12/2023, 9:58:32 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=ko)  |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                             | 05/03/2024, 2:11:21 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=es)                              |
 | Sponsorship Experiments Faq                              | 28/02/2024, 10:48:43 am   | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=es)                               |
 | Experiments                                              | 27/02/2024, 7:26:41 am    | [Link](https://help.twitch.tv/s/article/experiments?language=es)                                               |
 | Local Sub Price Countries                                | 23/02/2024, 8:55:17 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es)                                 |
@@ -47,8 +48,6 @@
 | Getting Started Twitch Studio                            | 28/10/2023, 5:03:43 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=es)                             |
 | Ban Evasion                                              | 28/10/2023, 5:03:40 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=es)                                               |
 | Recommended Software For Broadcasting                    | 28/10/2023, 5:03:25 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es)                     |
-| Twitch Studio Mac Faq                                    | 28/10/2023, 4:26:05 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=es)                                     |
-| Guest Star Faqs                                          | 28/10/2023, 2:12:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=es)                                           |
 
 
 
@@ -256,6 +255,15 @@
 | Username Rename And Recycling Policies | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es)  |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)  |
 | Markdown Basics                        | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name             | Last Updated (dd/mm/yyyy) | Link                                                                   |
+|------------------|---------------------------|------------------------------------------------------------------------|
+| Alerts By Twitch | 04/12/2023, 10:17:03 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=es)  |
 
 
 

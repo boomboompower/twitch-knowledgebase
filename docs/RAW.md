@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| sponsorship-experiments-faq                                   | 28/02/2024, 10:48:43 am | 28/02/2024, 10:48:42 am | [Details](#sponsorship-experiments-faq)                                    |
+| sponsorship-experiments-faq                                   | 06/03/2024, 7:49:05 pm  | 28/02/2024, 10:49:26 am | [Details](#sponsorship-experiments-faq)                                    |
 | experiments                                                   | 27/02/2024, 7:26:42 am  | 15/02/2024, 1:48:09 pm  | [Details](#experiments)                                                    |
 | local-sub-price-countries                                     | 23/02/2024, 8:55:10 am  | 23/02/2024, 4:15:30 am  | [Details](#local-sub-price-countries)                                      |
 | two-factor-authentication                                     | 23/02/2024, 4:01:36 am  | 27/04/2023, 3:57:12 am  | [Details](#two-factor-authentication)                                      |
@@ -3880,8 +3880,8 @@ https://help.twitch.tv/s/article/sponsorship-experiments-faq
 
 | Title                                       | Last Modified           | Created                  |
 |---------------------------------------------|-------------------------|--------------------------|
+| FAQ sull'esperimento delle sponsorizzazioni | 06/03/2024, 7:49:05 pm  | 28/02/2024, 10:49:26 am  |
 | Eksperymenty sponsorskie – FAQ              | 28/02/2024, 10:48:43 am | 28/02/2024, 10:48:42 am  |
-| FAQ sull'esperimento delle sponsorizzazioni | 28/02/2024, 10:48:43 am | 28/02/2024, 10:48:42 am  |
 | FAQ sur les expériences de parrainage       | 28/02/2024, 10:48:43 am | 28/02/2024, 10:48:42 am  |
 
 
