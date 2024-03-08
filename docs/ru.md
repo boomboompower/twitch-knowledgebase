@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Twitch Music Getting Started                             | 05/03/2024, 2:11:21 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ru)                              |
+| Twitch Music Getting Started                             | 08/03/2024, 2:30:10 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ru)                              |
 | Sponsorship Experiments Faq                              | 28/02/2024, 10:48:43 am   | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=ru)                               |
 | Experiments                                              | 27/02/2024, 7:26:38 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ru)                                               |
 | Local Sub Price Countries                                | 23/02/2024, 4:09:56 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ru)                                 |
@@ -48,6 +48,7 @@
 | Getting Started Twitch Studio                            | 28/10/2023, 5:03:25 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=ru)                             |
 | Recommended Software For Broadcasting                    | 28/10/2023, 5:03:21 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ru)                     |
 | Ban Evasion                                              | 28/10/2023, 5:03:06 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=ru)                                               |
+| Twitch Studio Mac Faq                                    | 28/10/2023, 4:27:18 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ru)                                     |
 
 
 

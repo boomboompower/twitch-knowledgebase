@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Twitch Music Getting Started                             | 05/03/2024, 2:11:22 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=en_US)                              |
+| Twitch Music Getting Started                             | 08/03/2024, 2:30:11 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=en_US)                              |
 | Sponsorship Experiments Faq                              | 28/02/2024, 10:48:43 am   | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=en_US)                               |
 | Experiments                                              | 27/02/2024, 7:26:41 am    | [Link](https://help.twitch.tv/s/article/experiments?language=en_US)                                               |
 | Local Sub Price Countries                                | 23/02/2024, 4:09:57 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                                 |
