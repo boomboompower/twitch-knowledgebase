@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| experiments                                                   | 08/03/2024, 1:02:57 pm  | 08/03/2024, 1:02:56 pm  | [Details](#experiments)                                                    |
+| experiments                                                   | 09/03/2024, 3:49:32 am  | 09/03/2024, 3:49:31 am  | [Details](#experiments)                                                    |
 | sponsorship-experiments-faq                                   | 06/03/2024, 11:24:03 pm | 06/03/2024, 11:24:01 pm | [Details](#sponsorship-experiments-faq)                                    |
 | local-sub-price-countries                                     | 23/02/2024, 8:55:10 am  | 23/02/2024, 4:15:30 am  | [Details](#local-sub-price-countries)                                      |
 | two-factor-authentication                                     | 23/02/2024, 4:01:36 am  | 27/04/2023, 3:57:12 am  | [Details](#two-factor-authentication)                                      |
@@ -1733,12 +1733,12 @@ https://help.twitch.tv/s/article/experiments
 
 | Title                          | Last Modified          | Created                 |
 |--------------------------------|------------------------|-------------------------|
-| Eksperymenty w serwisie Twitch | 08/03/2024, 1:02:57 pm | 08/03/2024, 1:02:56 pm  |
-| Experimentos da Twitch         | 08/03/2024, 1:02:57 pm | 08/03/2024, 1:02:56 pm  |
-| Experimentos de Twitch         | 08/03/2024, 1:02:57 pm | 08/03/2024, 1:02:56 pm  |
-| Experimentos de Twitch         | 08/03/2024, 1:02:57 pm | 08/03/2024, 1:02:56 pm  |
-| Expériences Twitch             | 08/03/2024, 1:02:57 pm | 08/03/2024, 1:02:56 pm  |
-| Gli esperimenti di Twitch      | 08/03/2024, 1:02:57 pm | 08/03/2024, 1:02:56 pm  |
+| Eksperymenty w serwisie Twitch | 09/03/2024, 3:49:32 am | 09/03/2024, 3:49:31 am  |
+| Experimentos da Twitch         | 09/03/2024, 3:49:32 am | 09/03/2024, 3:49:31 am  |
+| Experimentos de Twitch         | 09/03/2024, 3:49:32 am | 09/03/2024, 3:49:31 am  |
+| Experimentos de Twitch         | 09/03/2024, 3:49:32 am | 09/03/2024, 3:49:31 am  |
+| Expériences Twitch             | 09/03/2024, 3:49:32 am | 09/03/2024, 3:49:31 am  |
+| Gli esperimenti di Twitch      | 09/03/2024, 3:49:32 am | 09/03/2024, 3:49:31 am  |
 
 
 ### extensions-switch-with-your-game-selection
