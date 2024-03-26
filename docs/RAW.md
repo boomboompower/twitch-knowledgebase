@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| setup-alerts-by-twitch                                        | 26/03/2024, 9:25:53 am  | 26/03/2024, 9:25:53 am  | [Details](#setup-alerts-by-twitch)                                         |
 | experiments                                                   | 09/03/2024, 3:49:32 am  | 09/03/2024, 3:49:31 am  | [Details](#experiments)                                                    |
 | sponsorship-experiments-faq                                   | 06/03/2024, 11:24:03 pm | 06/03/2024, 11:24:01 pm | [Details](#sponsorship-experiments-faq)                                    |
 | two-factor-authentication                                     | 23/02/2024, 4:01:36 am  | 27/04/2023, 3:57:12 am  | [Details](#two-factor-authentication)                                      |
@@ -25,7 +26,6 @@ Language data is not included in the API. All page links will not have a languag
 | gift-card-spend                                               | 18/01/2024, 2:58:19 pm  | 18/01/2024, 2:58:19 pm  | [Details](#gift-card-spend)                                                |
 | managing-your-phone-number                                    | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am | [Details](#managing-your-phone-number)                                     |
 | bits-price-adjustment                                         | 20/12/2023, 11:39:02 pm | 22/11/2023, 10:47:29 am | [Details](#bits-price-adjustment)                                          |
-| setup-alerts-by-twitch                                        | 19/12/2023, 11:33:26 pm | 19/12/2023, 11:33:08 pm | [Details](#setup-alerts-by-twitch)                                         |
 | annual-recap                                                  | 17/12/2023, 11:02:07 pm | 17/12/2023, 11:02:05 pm | [Details](#annual-recap)                                                   |
 | content-classification-labels                                 | 15/12/2023, 1:32:36 am  | 15/12/2023, 1:32:34 am  | [Details](#content-classification-labels)                                  |
 | bonus-round                                                   | 14/12/2023, 5:01:28 am  | 02/12/2023, 2:17:52 pm  | [Details](#bonus-round)                                                    |
@@ -1555,9 +1555,9 @@ https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel
 ### setup-alerts-by-twitch
 https://help.twitch.tv/s/article/setup-alerts-by-twitch
 
-| Title                        | Last Modified           | Created                  |
-|------------------------------|-------------------------|--------------------------|
-| Einrichten von Twitch Alerts | 19/12/2023, 11:33:26 pm | 19/12/2023, 11:33:08 pm  |
+| Title                        | Last Modified          | Created                 |
+|------------------------------|------------------------|-------------------------|
+| Einrichten von Twitch Alerts | 26/03/2024, 9:25:53 am | 26/03/2024, 9:25:53 am  |
 
 
 ### setup-third-party-events
