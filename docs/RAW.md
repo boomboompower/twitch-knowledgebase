@@ -7,8 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| setup-alerts-by-twitch                                        | 27/03/2024, 9:25:40 pm  | 27/03/2024, 9:25:37 pm  | [Details](#setup-alerts-by-twitch)                                         |
 | content-classification-labels                                 | 27/03/2024, 8:52:53 am  | 27/03/2024, 8:52:52 am  | [Details](#content-classification-labels)                                  |
-| setup-alerts-by-twitch                                        | 26/03/2024, 9:25:53 am  | 26/03/2024, 9:25:53 am  | [Details](#setup-alerts-by-twitch)                                         |
 | experiments                                                   | 09/03/2024, 3:49:32 am  | 09/03/2024, 3:49:31 am  | [Details](#experiments)                                                    |
 | sponsorship-experiments-faq                                   | 06/03/2024, 11:24:03 pm | 06/03/2024, 11:24:01 pm | [Details](#sponsorship-experiments-faq)                                    |
 | two-factor-authentication                                     | 23/02/2024, 4:01:36 am  | 27/04/2023, 3:57:12 am  | [Details](#two-factor-authentication)                                      |
@@ -1557,7 +1557,7 @@ https://help.twitch.tv/s/article/setup-alerts-by-twitch
 
 | Title                        | Last Modified          | Created                 |
 |------------------------------|------------------------|-------------------------|
-| Einrichten von Twitch Alerts | 26/03/2024, 9:25:53 am | 26/03/2024, 9:25:53 am  |
+| Einrichten von Twitch Alerts | 27/03/2024, 9:25:40 pm | 27/03/2024, 9:25:37 pm  |
 
 
 ### setup-third-party-events
