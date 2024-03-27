@@ -1,57 +1,6 @@
 # Korean
 > All articles written under the ko language code. 
 
-## Article-1
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
-
-| Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
-|----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Setup Alerts By Twitch                                   | 26/03/2024, 9:25:53 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=ko)                                    |
-| Experiments                                              | 09/03/2024, 3:49:32 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ko)                                               |
-| Twitch Music Getting Started                             | 08/03/2024, 2:30:10 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ko)                              |
-| Sponsorship Experiments Faq                              | 28/02/2024, 10:48:43 am   | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=ko)                               |
-| Local Sub Price Countries                                | 23/02/2024, 8:55:20 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ko)                                 |
-| Two Factor Authentication                                | 23/02/2024, 4:01:36 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ko)                                 |
-| Authy Faq                                                | 23/02/2024, 4:01:17 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=ko)                                                 |
-| Prime Gaming Revenue Guide                               | 21/02/2024, 7:07:07 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ko)                                |
-| About Account Suspensions Dmca Suspensions And Chat Bans | 15/02/2024, 5:22:57 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=ko)  |
-| How To File A User Report                                | 15/02/2024, 5:22:55 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=ko)                                 |
-| Emote Slots                                              | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=ko)                                               |
-| Joining Guest Star                                       | 06/02/2024, 3:35:34 am    | [Link](https://help.twitch.tv/s/article/joining-guest-star?language=ko)                                        |
-| Emote Library                                            | 31/01/2024, 4:36:47 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=ko)                                             |
-| Animated Emotes                                          | 31/01/2024, 4:27:29 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=ko)                                           |
-| Partner Program Overview                                 | 25/01/2024, 5:01:43 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ko)                                  |
-| Twitch Affiliate Program Faq                             | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ko)                              |
-| Subpoint Vs Subcount                                     | 24/01/2024, 1:22:34 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ko)                                      |
-| Creator Goals                                            | 24/01/2024, 1:22:34 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=ko)                                             |
-| Twitch Turbo Guide                                       | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ko)                                        |
-| Managing Your Phone Number                               | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ko)                                |
-| How To Manage Harassment In Chat                         | 20/12/2023, 9:30:12 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ko)                          |
-| How To Use Clips                                         | 20/12/2023, 9:30:07 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ko)                                          |
-| Partner Onboarding Guide                                 | 20/12/2023, 9:30:04 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ko)                                  |
-| Guest Star Getting Started                               | 14/12/2023, 1:21:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ko)                                |
-| Date Of Birth Changes                                    | 13/12/2023, 11:18:15 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ko)                                     |
-| Emote Guidelines                                         | 09/12/2023, 1:03:04 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=ko)                                          |
-| First Steps For New Affiliates                           | 07/12/2023, 11:02:02 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=ko)                            |
-| Ads Manager                                              | 05/12/2023, 0:03:34 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ko)                                               |
-| Alerts By Twitch Faq                                     | 04/12/2023, 9:58:40 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=ko)                                      |
-| Alerts By Twitch Events                                  | 04/12/2023, 9:58:39 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ko)                                   |
-| Alerts By Twitch                                         | 04/12/2023, 9:58:32 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=ko)                                          |
-| Channel Analytics                                        | 03/12/2023, 8:18:45 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ko)                                         |
-| Affiliate Settings Guide                                 | 03/12/2023, 8:17:33 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=ko)                                  |
-| Guide To Cheering With Bits                              | 30/11/2023, 9:58:07 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ko)                               |
-| Subscriber Badge Guide                                   | 30/11/2023, 9:58:04 pm    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ko)                                    |
-| Partner Settings Guide                                   | 30/11/2023, 9:56:33 pm    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=ko)                                    |
-| Nintendo Switch                                          | 10/11/2023, 9:29:40 pm    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=ko)                                           |
-| Follower Emotes                                          | 08/11/2023, 11:26:30 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=ko)                                           |
-| Games Irl And Music Directories                          | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=ko)                           |
-| Recommended Software For Broadcasting                    | 28/10/2023, 5:03:30 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ko)                     |
-| Getting Started Twitch Studio                            | 28/10/2023, 5:03:20 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=ko)                             |
-| Ban Evasion                                              | 28/10/2023, 5:03:02 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=ko)                                               |
-| Twitch Studio Mac Faq                                    | 28/10/2023, 4:27:21 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=ko)                                     |
-
-
-
 ## Article-2
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
 

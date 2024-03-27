@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| content-classification-labels                                 | 27/03/2024, 8:52:53 am  | 27/03/2024, 8:52:52 am  | [Details](#content-classification-labels)                                  |
 | setup-alerts-by-twitch                                        | 26/03/2024, 9:25:53 am  | 26/03/2024, 9:25:53 am  | [Details](#setup-alerts-by-twitch)                                         |
 | experiments                                                   | 09/03/2024, 3:49:32 am  | 09/03/2024, 3:49:31 am  | [Details](#experiments)                                                    |
 | sponsorship-experiments-faq                                   | 06/03/2024, 11:24:03 pm | 06/03/2024, 11:24:01 pm | [Details](#sponsorship-experiments-faq)                                    |
@@ -27,7 +28,6 @@ Language data is not included in the API. All page links will not have a languag
 | managing-your-phone-number                                    | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am | [Details](#managing-your-phone-number)                                     |
 | bits-price-adjustment                                         | 20/12/2023, 11:39:02 pm | 22/11/2023, 10:47:29 am | [Details](#bits-price-adjustment)                                          |
 | annual-recap                                                  | 17/12/2023, 11:02:07 pm | 17/12/2023, 11:02:05 pm | [Details](#annual-recap)                                                   |
-| content-classification-labels                                 | 15/12/2023, 1:32:36 am  | 15/12/2023, 1:32:34 am  | [Details](#content-classification-labels)                                  |
 | bonus-round                                                   | 14/12/2023, 5:01:28 am  | 02/12/2023, 2:17:52 pm  | [Details](#bonus-round)                                                    |
 | guest-star-getting-started                                    | 14/12/2023, 2:06:03 am  | 09/12/2023, 11:42:45 am | [Details](#guest-star-getting-started)                                     |
 | streamer-read-ads                                             | 11/12/2023, 3:26:39 pm  | 11/12/2023, 3:26:38 pm  | [Details](#streamer-read-ads)                                              |
@@ -60,6 +60,7 @@ Language data is not included in the API. All page links will not have a languag
 | joining-the-affiliate-program                                 | 23/10/2023, 7:08:39 pm  | 23/10/2023, 7:08:37 pm  | [Details](#joining-the-affiliate-program)                                  |
 | guest-star-reporting                                          | 21/10/2023, 3:02:35 am  | 21/10/2023, 3:02:34 am  | [Details](#guest-star-reporting)                                           |
 | guest-star                                                    | 21/10/2023, 3:01:15 am  | 21/10/2023, 3:01:14 am  | [Details](#guest-star)                                                     |
+| stream-display-ads                                            | 18/10/2023, 6:57:10 pm  | 11/10/2023, 7:24:50 am  | [Details](#stream-display-ads)                                             |
 | achievements                                                  | 14/10/2023, 4:00:20 am  | 08/08/2023, 11:52:58 pm | [Details](#achievements)                                                   |
 | dmca-and-copyright-faqs                                       | 11/10/2023, 9:24:43 am  | 21/09/2023, 3:18:44 am  | [Details](#dmca-and-copyright-faqs)                                        |
 | watching-twitch-on-android-devices                            | 11/10/2023, 8:54:06 am  | 11/10/2023, 8:54:05 am  | [Details](#watching-twitch-on-android-devices)                             |
@@ -78,14 +79,14 @@ Language data is not included in the API. All page links will not have a languag
 | how-subscription-streaks-work                                 | 12/09/2023, 6:21:31 am  | 12/09/2023, 6:21:30 am  | [Details](#how-subscription-streaks-work)                                  |
 | amazon-tax-information-interview-and-irs-annual-reporting-faq | 12/09/2023, 6:20:14 am  | 12/09/2023, 6:20:13 am  | [Details](#amazon-tax-information-interview-and-irs-annual-reporting-faq)  |
 | subscription-cancellation-reasons                             | 12/09/2023, 6:12:32 am  | 12/09/2023, 6:12:30 am  | [Details](#subscription-cancellation-reasons)                              |
-| gift-subscriptions                                            | 12/09/2023, 4:03:29 am  | 29/08/2023, 2:44:24 am  | [Details](#gift-subscriptions)                                             |
+| gift-subscriptions                                            | 12/09/2023, 4:04:21 am  | 29/08/2023, 2:44:24 am  | [Details](#gift-subscriptions)                                             |
 | research                                                      | 07/09/2023, 4:03:13 am  | 07/09/2023, 4:03:13 am  | [Details](#research)                                                       |
 | moments                                                       | 01/09/2023, 2:59:12 am  | 17/08/2023, 6:58:07 am  | [Details](#moments)                                                        |
 | subtember-2023-faq                                            | 28/08/2023, 4:39:34 pm  | 28/08/2023, 4:39:31 pm  | [Details](#subtember-2023-faq)                                             |
 | understanding-feedback-updates                                | 26/08/2023, 1:19:37 am  | 18/08/2023, 5:32:20 am  | [Details](#understanding-feedback-updates)                                 |
-| tips-on-feedback                                              | 26/08/2023, 1:15:07 am  | 18/08/2023, 5:31:52 am  | [Details](#tips-on-feedback)                                               |
-| navigating-the-feedback-forum                                 | 26/08/2023, 1:14:31 am  | 18/08/2023, 5:32:44 am  | [Details](#navigating-the-feedback-forum)                                  |
-| how-to-provide-feedback                                       | 26/08/2023, 1:13:36 am  | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
+| navigating-the-feedback-forum                                 | 26/08/2023, 1:19:34 am  | 18/08/2023, 5:32:44 am  | [Details](#navigating-the-feedback-forum)                                  |
+| tips-on-feedback                                              | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:52 am  | [Details](#tips-on-feedback)                                               |
+| how-to-provide-feedback                                       | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
 | twitch-account-settings                                       | 24/08/2023, 7:52:40 pm  | 17/08/2023, 11:20:05 am | [Details](#twitch-account-settings)                                        |
 | account-hacked                                                | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am | [Details](#account-hacked)                                                 |
 | how-to-appeal-flagged-content                                 | 08/08/2023, 7:32:04 pm  | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
@@ -112,6 +113,7 @@ Language data is not included in the API. All page links will not have a languag
 | guest-star-mod-view                                           | 09/05/2023, 7:04:45 am  | 02/05/2023, 5:47:31 am  | [Details](#guest-star-mod-view)                                            |
 | search-with-tags                                              | 05/05/2023, 8:07:09 am  | 05/05/2023, 8:07:08 am  | [Details](#search-with-tags)                                               |
 | subscriptions-on-samsung-smart-tv                             | 04/05/2023, 7:20:41 am  | 25/04/2023, 8:41:34 am  | [Details](#subscriptions-on-samsung-smart-tv)                              |
+| picture-by-picture-ads                                        | 06/04/2023, 5:26:34 pm  | 30/03/2023, 5:03:08 am  | [Details](#picture-by-picture-ads)                                         |
 | disabling-prerolls                                            | 06/04/2023, 3:38:07 am  | 30/03/2023, 5:02:00 am  | [Details](#disabling-prerolls)                                             |
 | multi-month-subscriptions                                     | 21/03/2023, 10:47:33 pm | 15/03/2023, 8:31:14 am  | [Details](#multi-month-subscriptions)                                      |
 | subscriptions-on-mobile                                       | 21/03/2023, 10:45:28 pm | 15/03/2023, 8:31:43 am  | [Details](#subscriptions-on-mobile)                                        |
@@ -163,9 +165,9 @@ Language data is not included in the API. All page links will not have a languag
 | purchase-support-faq                                          | 12/11/2021, 7:18:37 am  | 17/06/2021, 1:28:29 am  | [Details](#purchase-support-faq)                                           |
 | one-click-checkout                                            | 02/11/2021, 4:03:46 am  | 21/10/2021, 2:27:56 am  | [Details](#one-click-checkout)                                             |
 | failed-payments                                               | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am | [Details](#failed-payments)                                                |
-| hyper-scape                                                   | 22/10/2021, 8:54:27 am  | 12/08/2020, 5:49:15 am  | [Details](#hyper-scape)                                                    |
-| stream-with-pride                                             | 22/10/2021, 8:54:27 am  | 01/07/2020, 6:27:31 pm  | [Details](#stream-with-pride)                                              |
 | community-meetups-powered-by-twitch                           | 22/10/2021, 8:54:27 am  | 28/02/2019, 9:38:48 am  | [Details](#community-meetups-powered-by-twitch)                            |
+| stream-with-pride                                             | 22/10/2021, 8:54:26 am  | 01/07/2020, 7:18:31 pm  | [Details](#stream-with-pride)                                              |
+| hyper-scape                                                   | 22/10/2021, 8:54:26 am  | 13/08/2020, 4:50:31 am  | [Details](#hyper-scape)                                                    |
 | capturing-sources                                             | 22/10/2021, 8:54:20 am  | 20/10/2020, 5:48:58 am  | [Details](#capturing-sources)                                              |
 | setting-up-alerts                                             | 22/10/2021, 8:54:20 am  | 14/10/2020, 5:23:10 am  | [Details](#setting-up-alerts)                                              |
 | watching-twitch-on-ios-devices                                | 22/10/2021, 8:54:13 am  | 27/02/2019, 3:04:30 pm  | [Details](#watching-twitch-on-ios-devices)                                 |
@@ -191,7 +193,6 @@ Language data is not included in the API. All page links will not have a languag
 | username-rename-and-recycling-policies                        | 22/10/2021, 8:52:23 am  | 21/06/2019, 11:07:07 am | [Details](#username-rename-and-recycling-policies)                         |
 | streamer-notifications-preferences                            | 22/10/2021, 8:52:22 am  | 04/06/2019, 4:48:05 am  | [Details](#streamer-notifications-preferences)                             |
 | subscriber-streams                                            | 30/09/2021, 11:26:49 am | 07/08/2020, 3:27:31 am  | [Details](#subscriber-streams)                                             |
-| growth-with-amazon-music                                      | 30/09/2021, 11:26:49 am | 25/08/2020, 7:13:58 am  | [Details](#growth-with-amazon-music)                                       |
 | ad-experience-experiment                                      | 30/09/2021, 11:26:49 am | 12/09/2020, 5:55:03 am  | [Details](#ad-experience-experiment)                                       |
 | multiplayer-ads                                               | 30/09/2021, 11:26:49 am | 09/12/2020, 7:03:31 am  | [Details](#multiplayer-ads)                                                |
 | celebrate-kpop                                                | 30/09/2021, 11:26:49 am | 20/10/2020, 7:06:13 am  | [Details](#celebrate-kpop)                                                 |
@@ -399,17 +400,17 @@ https://help.twitch.tv/s/article/alerts-by-twitch-customization
 
 | Title                           | Last Modified          | Created                 |
 |---------------------------------|------------------------|-------------------------|
+| Anpassung von Alerts von Twitch | 26/07/2023, 4:07:21 am | 26/07/2023, 4:07:20 am  |
 | Dostosowanie alertów na Twitchu | 26/07/2023, 4:07:21 am | 26/07/2023, 4:07:20 am  |
 
 
 ### alerts-by-twitch-faq
 https://help.twitch.tv/s/article/alerts-by-twitch-faq
 
-| Title                                    | Last Modified          | Created                 |
-|------------------------------------------|------------------------|-------------------------|
-| FAQ sur les alertes de Twitch            | 05/12/2023, 0:30:33 am | 26/07/2023, 4:14:58 am  |
-| FAQ zu Twitch Alerts                     | 05/12/2023, 0:02:32 am | 26/07/2023, 4:14:58 am  |
-| Domande frequenti sugli avvisi di Twitch | 04/12/2023, 7:45:08 pm | 26/07/2023, 4:14:58 am  |
+| Title                         | Last Modified          | Created                 |
+|-------------------------------|------------------------|-------------------------|
+| FAQ sur les alertes de Twitch | 05/12/2023, 0:30:33 am | 26/07/2023, 4:14:58 am  |
+| FAQ zu Twitch Alerts          | 05/12/2023, 0:02:32 am | 26/07/2023, 4:14:58 am  |
 
 
 ### alerts-by-twitch-interactive-resubs
@@ -704,10 +705,10 @@ https://help.twitch.tv/s/article/content-classification-labels
 
 | Title                                      | Last Modified          | Created                 |
 |--------------------------------------------|------------------------|-------------------------|
-| Etiquetas de clasificación de contenido    | 15/12/2023, 1:32:36 am | 15/12/2023, 1:32:34 am  |
-| Etykieta klasyfikacji treści               | 14/12/2023, 8:23:04 pm | 14/12/2023, 8:23:03 pm  |
-| Etichette di classificazione dei contenuti | 14/12/2023, 7:07:33 pm | 14/12/2023, 7:07:32 pm  |
-| Etiquetas de clasificación de contenido    | 14/12/2023, 6:01:00 am | 13/12/2023, 1:14:33 am  |
+| Etichette di classificazione dei contenuti | 27/03/2024, 8:52:53 am | 27/03/2024, 8:52:52 am  |
+| Etiquetas de clasificación de contenido    | 27/03/2024, 8:52:53 am | 27/03/2024, 8:52:52 am  |
+| Etiquetas de clasificación de contenido    | 27/03/2024, 8:52:53 am | 27/03/2024, 8:52:52 am  |
+| Etykieta klasyfikacji treści               | 27/03/2024, 8:52:53 am | 27/03/2024, 8:52:52 am  |
 
 
 ### copyrighted-audio-warnings
@@ -1033,6 +1034,7 @@ https://help.twitch.tv/s/article/gift-subscriptions
 
 | Title                  | Last Modified          | Created                 |
 |------------------------|------------------------|-------------------------|
+| Geschenk-Abonnements   | 12/09/2023, 4:04:21 am | 29/08/2023, 2:44:24 am  |
 | Abonnements offerts    | 12/09/2023, 4:03:29 am | 29/08/2023, 2:44:24 am  |
 | Ajándék feliratkozások | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
 | Dárková předplatná     | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
@@ -1046,19 +1048,7 @@ https://help.twitch.tv/s/article/gift-subscriptions-for-creators
 | Title                             | Last Modified           | Created                  |
 |-----------------------------------|-------------------------|--------------------------|
 | Abbonamenti regalo per gli autori | 07/12/2022, 10:47:38 am | 07/12/2022, 10:47:38 am  |
-
-
-### growth-with-amazon-music
-https://help.twitch.tv/s/article/growth-with-amazon-music
-
-| Title                                           | Last Modified           | Created                 |
-|-------------------------------------------------|-------------------------|-------------------------|
-| Amazon Music ile Kanalınızı Büyütme             | 30/09/2021, 11:26:49 am | 25/08/2020, 7:13:58 am  |
-| Amazon Musicでチャンネルを成長させましょう                     | 30/09/2021, 11:26:49 am | 25/08/2020, 7:13:58 am  |
-| Amazon Music으로 채널 성장시키기                         | 30/09/2021, 11:26:49 am | 25/08/2020, 7:13:58 am  |
-| Expandindo seu canal com o Amazon Music         | 30/09/2021, 11:26:49 am | 25/08/2020, 7:13:58 am  |
-| Fai crescere il tuo canale con Amazon Music     | 30/09/2021, 11:26:49 am | 25/08/2020, 7:13:58 am  |
-| Faire croître votre chaîne grâce à Amazon Music | 30/09/2021, 11:26:49 am | 25/08/2020, 7:13:58 am  |
+| Geschenkabos für Creator          | 07/12/2022, 10:47:37 am | 07/12/2022, 10:47:36 am  |
 
 
 ### guest-star
@@ -1176,9 +1166,10 @@ https://help.twitch.tv/s/article/how-to-link-your-amazon-account
 ### how-to-provide-feedback
 https://help.twitch.tv/s/article/how-to-provide-feedback
 
-| Title          | Last Modified          | Created                 |
-|----------------|------------------------|-------------------------|
-| Feedback geben | 26/08/2023, 1:13:36 am | 18/08/2023, 5:31:28 am  |
+| Title                          | Last Modified          | Created                 |
+|--------------------------------|------------------------|-------------------------|
+| Geri bildirim nasıl gönderilir | 26/08/2023, 1:19:32 am | 18/08/2023, 5:31:28 am  |
+| Feedback geben                 | 26/08/2023, 1:13:36 am | 18/08/2023, 5:31:28 am  |
 
 
 ### how-to-subscribe
@@ -1200,21 +1191,19 @@ https://help.twitch.tv/s/article/how-to-use-polls
 ### hype-chat-faq
 https://help.twitch.tv/s/article/hype-chat-faq
 
-| Title                          | Last Modified          | Created                 |
-|--------------------------------|------------------------|-------------------------|
-| Domande frequenti su Hype Chat | 10/11/2023, 5:01:17 am | 10/11/2023, 5:01:16 am  |
-| FAQ dotyczące Hype Chatu       | 10/11/2023, 5:01:17 am | 10/11/2023, 5:01:16 am  |
-| FAQ sur Hype Chat              | 10/11/2023, 5:01:17 am | 10/11/2023, 5:01:16 am  |
+| Title                    | Last Modified          | Created                 |
+|--------------------------|------------------------|-------------------------|
+| FAQ dotyczące Hype Chatu | 10/11/2023, 5:01:17 am | 10/11/2023, 5:01:16 am  |
+| FAQ sur Hype Chat        | 10/11/2023, 5:01:17 am | 10/11/2023, 5:01:16 am  |
 
 
 ### hyper-scape
 https://help.twitch.tv/s/article/hyper-scape
 
-| Title                            | Last Modified          | Created                 |
-|----------------------------------|------------------------|-------------------------|
-| Domande frequenti su Hyper Scape | 22/10/2021, 8:54:27 am | 12/08/2020, 5:49:15 am  |
-| FAQ Hyper Scape                  | 22/10/2021, 8:54:26 am | 13/08/2020, 4:50:31 am  |
-| FAQs zu Hyper Scape              | 22/10/2021, 8:54:26 am | 12/08/2020, 5:49:15 am  |
+| Title               | Last Modified          | Created                 |
+|---------------------|------------------------|-------------------------|
+| FAQ Hyper Scape     | 22/10/2021, 8:54:26 am | 13/08/2020, 4:50:31 am  |
+| FAQs zu Hyper Scape | 22/10/2021, 8:54:26 am | 12/08/2020, 5:49:15 am  |
 
 
 ### joining-guest-star
@@ -1290,9 +1279,10 @@ https://help.twitch.tv/s/article/managing-subscription-tiers
 ### managing-your-phone-number
 https://help.twitch.tv/s/article/managing-your-phone-number
 
-| Title                             | Last Modified           | Created                  |
-|-----------------------------------|-------------------------|--------------------------|
-| Administrar tu número de teléfono | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am  |
+| Title                              | Last Modified           | Created                  |
+|------------------------------------|-------------------------|--------------------------|
+| Administrar tu número de teléfono  | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am  |
+| Gerenciando seu número de telefone | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am  |
 
 
 ### minimum-payout-threshold
@@ -1352,6 +1342,7 @@ https://help.twitch.tv/s/article/multi-month-subscriptions
 | Title                                     | Last Modified           | Created                 |
 |-------------------------------------------|-------------------------|-------------------------|
 | Administrar suscripciones de varios meses | 21/03/2023, 10:47:33 pm | 15/03/2023, 8:31:14 am  |
+| Gerenciando inscrições de múltiplos meses | 21/03/2023, 4:32:07 am  | 31/08/2022, 3:22:14 am  |
 
 
 ### multiplayer-ads
@@ -1376,6 +1367,7 @@ https://help.twitch.tv/s/article/navigating-the-feedback-forum
 
 | Title                              | Last Modified          | Created                 |
 |------------------------------------|------------------------|-------------------------|
+| Geri Bildirim Forumunda Gezinmek   | 26/08/2023, 1:19:34 am | 18/08/2023, 5:32:44 am  |
 | Explorer les forums de suggestions | 26/08/2023, 1:14:31 am | 18/08/2023, 5:32:44 am  |
 
 
@@ -1423,6 +1415,14 @@ https://help.twitch.tv/s/article/payout-details-faq
 |---------------------------------------------|------------------------|-------------------------|
 | Domande frequenti sui dettagli di pagamento | 13/07/2022, 3:11:03 am | 29/06/2022, 8:26:24 am  |
 | FAQ sur les informations de paiement        | 13/07/2022, 3:11:03 am | 29/06/2022, 8:26:24 am  |
+
+
+### picture-by-picture-ads
+https://help.twitch.tv/s/article/picture-by-picture-ads
+
+| Title                      | Last Modified          | Created                 |
+|----------------------------|------------------------|-------------------------|
+| Annunci Picture In Picture | 06/04/2023, 5:26:34 pm | 30/03/2023, 5:03:08 am  |
 
 
 ### purchase-support-faq
@@ -1594,6 +1594,14 @@ https://help.twitch.tv/s/article/sponsorship-experiments-faq
 | Eksperymenty sponsorskie – FAQ              | 28/02/2024, 10:48:43 am | 28/02/2024, 10:48:42 am  |
 
 
+### stream-display-ads
+https://help.twitch.tv/s/article/stream-display-ads
+
+| Title                                  | Last Modified          | Created                 |
+|----------------------------------------|------------------------|-------------------------|
+| Annunci sulla finestra dello streaming | 18/10/2023, 6:57:10 pm | 11/10/2023, 7:24:50 am  |
+
+
 ### stream-manager
 https://help.twitch.tv/s/article/stream-manager
 
@@ -1618,7 +1626,6 @@ https://help.twitch.tv/s/article/stream-with-pride
 
 | Title                                     | Last Modified          | Created                 |
 |-------------------------------------------|------------------------|-------------------------|
-| Domande frequenti su Streaming con Pride  | 22/10/2021, 8:54:27 am | 01/07/2020, 6:27:31 pm  |
 | FAQ - Streamez avec Pride                 | 22/10/2021, 8:54:26 am | 01/07/2020, 7:18:31 pm  |
 | FAQs sobre o evento Transmita com Orgulho | 22/10/2021, 8:54:26 am | 01/07/2020, 3:41:31 am  |
 
@@ -1750,6 +1757,7 @@ https://help.twitch.tv/s/article/tips-on-feedback
 
 | Title                                                 | Last Modified          | Created                 |
 |-------------------------------------------------------|------------------------|-------------------------|
+| Geri Bildirim Forumlarında Geri Bildirim Sağlamak     | 26/08/2023, 1:19:32 am | 18/08/2023, 5:31:52 am  |
 | Fornire un feedback nei Forum di feedback             | 26/08/2023, 1:15:07 am | 18/08/2023, 5:31:52 am  |
 | Faire part de vos idées sur les forums de suggestions | 26/08/2023, 1:14:33 am | 18/08/2023, 5:31:52 am  |
 
