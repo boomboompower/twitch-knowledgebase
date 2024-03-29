@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| follower-verification                                         | 29/03/2024, 7:08:28 am  | 13/03/2024, 9:56:49 am  | [Details](#follower-verification)                                          |
 | setup-alerts-by-twitch                                        | 27/03/2024, 9:25:40 pm  | 27/03/2024, 9:25:37 pm  | [Details](#setup-alerts-by-twitch)                                         |
 | content-classification-labels                                 | 27/03/2024, 8:52:53 am  | 27/03/2024, 8:52:52 am  | [Details](#content-classification-labels)                                  |
 | experiments                                                   | 09/03/2024, 3:49:32 am  | 09/03/2024, 3:49:31 am  | [Details](#experiments)                                                    |
@@ -79,7 +80,7 @@ Language data is not included in the API. All page links will not have a languag
 | how-subscription-streaks-work                                 | 12/09/2023, 6:21:31 am  | 12/09/2023, 6:21:30 am  | [Details](#how-subscription-streaks-work)                                  |
 | amazon-tax-information-interview-and-irs-annual-reporting-faq | 12/09/2023, 6:20:14 am  | 12/09/2023, 6:20:13 am  | [Details](#amazon-tax-information-interview-and-irs-annual-reporting-faq)  |
 | subscription-cancellation-reasons                             | 12/09/2023, 6:12:32 am  | 12/09/2023, 6:12:30 am  | [Details](#subscription-cancellation-reasons)                              |
-| gift-subscriptions                                            | 12/09/2023, 4:04:21 am  | 29/08/2023, 2:44:24 am  | [Details](#gift-subscriptions)                                             |
+| gift-subscriptions                                            | 12/09/2023, 4:03:29 am  | 29/08/2023, 2:44:24 am  | [Details](#gift-subscriptions)                                             |
 | research                                                      | 07/09/2023, 4:03:13 am  | 07/09/2023, 4:03:13 am  | [Details](#research)                                                       |
 | moments                                                       | 01/09/2023, 2:59:12 am  | 17/08/2023, 6:58:07 am  | [Details](#moments)                                                        |
 | subtember-2023-faq                                            | 28/08/2023, 4:39:34 pm  | 28/08/2023, 4:39:31 pm  | [Details](#subtember-2023-faq)                                             |
@@ -976,6 +977,15 @@ https://help.twitch.tv/s/article/follower-emotes
 | Follower Emotes          | 08/11/2023, 7:30:04 am  | 26/10/2023, 7:53:57 am  |
 
 
+### follower-verification
+https://help.twitch.tv/s/article/follower-verification
+
+| Title                  | Last Modified          | Created                 |
+|------------------------|------------------------|-------------------------|
+| Follower Verification  | 29/03/2024, 7:08:28 am | 13/03/2024, 9:56:49 am  |
+| Follower-Verifizierung | 29/03/2024, 7:08:28 am | 21/03/2024, 4:04:29 pm  |
+
+
 ### games-irl-and-music-directories
 https://help.twitch.tv/s/article/games-irl-and-music-directories
 
@@ -1034,7 +1044,6 @@ https://help.twitch.tv/s/article/gift-subscriptions
 
 | Title                  | Last Modified          | Created                 |
 |------------------------|------------------------|-------------------------|
-| Geschenk-Abonnements   | 12/09/2023, 4:04:21 am | 29/08/2023, 2:44:24 am  |
 | Abonnements offerts    | 12/09/2023, 4:03:29 am | 29/08/2023, 2:44:24 am  |
 | Ajándék feliratkozások | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
 | Dárková předplatná     | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
@@ -1048,7 +1057,6 @@ https://help.twitch.tv/s/article/gift-subscriptions-for-creators
 | Title                             | Last Modified           | Created                  |
 |-----------------------------------|-------------------------|--------------------------|
 | Abbonamenti regalo per gli autori | 07/12/2022, 10:47:38 am | 07/12/2022, 10:47:38 am  |
-| Geschenkabos für Creator          | 07/12/2022, 10:47:37 am | 07/12/2022, 10:47:36 am  |
 
 
 ### guest-star

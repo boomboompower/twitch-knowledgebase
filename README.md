@@ -21,13 +21,13 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | German                        | 27/03/2024, 9:25:40 pm    | 220 article(s) | [View](docs/de.md)     |
 | Greek                         | 18/01/2024, 2:49:28 pm    | 8 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 16/02/2024, 8:20:56 am    | 21 article(s)  | [View](docs/hu.md)     |
-| Italian                       | 27/03/2024, 8:07:03 pm    | 216 article(s) | [View](docs/it.md)     |
+| Italian                       | 27/03/2024, 8:07:03 pm    | 217 article(s) | [View](docs/it.md)     |
 | Japanese                      | 27/03/2024, 1:58:05 pm    | 216 article(s) | [View](docs/ja.md)     |
 | Korean                        | 04/12/2023, 9:58:32 pm    | 169 article(s) | [View](docs/ko.md)     |
 | Norwegian                     | 23/02/2024, 4:01:34 am    | 30 article(s)  | [View](docs/no.md)     |
 | Polish                        | 27/03/2024, 10:26:08 am   | 215 article(s) | [View](docs/pl.md)     |
 | Portuguese (Brazil)           | 27/03/2024, 10:26:08 am   | 216 article(s) | [View](docs/pt_BR.md)  |
-| Portuguese (Portugal)         | 23/02/2024, 4:01:34 am    | 43 article(s)  | [View](docs/pt_PT.md)  |
+| Portuguese (Portugal)         | 23/02/2024, 4:01:34 am    | 44 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 06/09/2023, 6:09:07 am    | 3 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 27/03/2024, 10:26:08 am   | 215 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 06/09/2023, 6:09:07 am    | 3 article(s)   | [View](docs/sk.md)     |
