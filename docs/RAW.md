@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| affiliates-plus                                               | 03/04/2024, 11:43:42 am | 03/04/2024, 11:42:03 am | [Details](#affiliates-plus)                                                |
 | follower-verification                                         | 29/03/2024, 7:08:28 am  | 13/03/2024, 9:56:49 am  | [Details](#follower-verification)                                          |
 | setup-alerts-by-twitch                                        | 27/03/2024, 9:25:40 pm  | 27/03/2024, 9:25:37 pm  | [Details](#setup-alerts-by-twitch)                                         |
 | content-classification-labels                                 | 27/03/2024, 8:52:53 am  | 27/03/2024, 8:52:52 am  | [Details](#content-classification-labels)                                  |
@@ -20,7 +21,6 @@ Language data is not included in the API. All page links will not have a languag
 | multiple-encodes                                              | 06/02/2024, 8:07:28 am  | 06/02/2024, 8:07:27 am  | [Details](#multiple-encodes)                                               |
 | sub-codes                                                     | 06/02/2024, 7:55:19 am  | 06/02/2024, 7:55:18 am  | [Details](#sub-codes)                                                      |
 | joining-guest-star                                            | 06/02/2024, 3:35:34 am  | 14/10/2023, 1:55:20 pm  | [Details](#joining-guest-star)                                             |
-| affiliates-plus                                               | 02/02/2024, 9:41:32 am  | 02/02/2024, 9:40:47 am  | [Details](#affiliates-plus)                                                |
 | emote-library                                                 | 31/01/2024, 4:36:47 am  | 31/01/2024, 4:36:24 am  | [Details](#emote-library)                                                  |
 | animated-emotes                                               | 31/01/2024, 4:27:29 am  | 09/12/2023, 8:51:11 am  | [Details](#animated-emotes)                                                |
 | twitch-affiliate-program-faq                                  | 25/01/2024, 5:01:06 am  | 18/01/2024, 1:29:39 pm  | [Details](#twitch-affiliate-program-faq)                                   |
@@ -364,15 +364,15 @@ https://help.twitch.tv/s/article/affiliate-settings-guide
 ### affiliates-plus
 https://help.twitch.tv/s/article/affiliates-plus
 
-| Title                                                                  | Last Modified          | Created                 |
-|------------------------------------------------------------------------|------------------------|-------------------------|
-| Affiliates: How to Track Plus Program Progress                         | 02/02/2024, 9:41:32 am | 02/02/2024, 9:40:47 am  |
-| Affiliates: So verfolgst du den Fortschritt zum Plus-Programm          | 02/02/2024, 9:41:32 am | 02/02/2024, 9:41:32 am  |
-| Affiliati: come monitorare i progressi del programma Plus              | 02/02/2024, 9:41:32 am | 02/02/2024, 9:41:32 am  |
-| Affiliés: Comment suivre la progression du nombre de vos points Plus   | 02/02/2024, 9:41:32 am | 02/02/2024, 9:41:32 am  |
-| Afiliados: Como acompanhar seu progresso no Programa Plus              | 02/02/2024, 9:41:32 am | 02/02/2024, 9:41:32 am  |
-| Afiliados: cómo realizar un seguimiento del progreso del programa Plus | 02/02/2024, 9:41:32 am | 02/02/2024, 9:41:32 am  |
-| Afiliados: Cómo seguir el progreso del programa Partner Plus           | 02/02/2024, 9:41:32 am | 02/02/2024, 9:41:32 am  |
+| Title                                                                  | Last Modified           | Created                  |
+|------------------------------------------------------------------------|-------------------------|--------------------------|
+| Affiliates: How to Track Plus Program Progress                         | 03/04/2024, 11:43:42 am | 03/04/2024, 11:42:03 am  |
+| Affiliates: So verfolgst du den Fortschritt zum Plus-Programm          | 03/04/2024, 11:43:42 am | 03/04/2024, 11:43:42 am  |
+| Affiliati: come monitorare i progressi del programma Plus              | 03/04/2024, 11:43:42 am | 03/04/2024, 11:43:42 am  |
+| Affiliés: Comment suivre la progression du nombre de vos points Plus   | 03/04/2024, 11:43:42 am | 03/04/2024, 11:43:42 am  |
+| Afiliados: Como acompanhar seu progresso no Programa Plus              | 03/04/2024, 11:43:42 am | 03/04/2024, 11:43:42 am  |
+| Afiliados: cómo realizar un seguimiento del progreso del programa Plus | 03/04/2024, 11:43:42 am | 03/04/2024, 11:43:42 am  |
+| Afiliados: Cómo seguir el progreso del programa Partner Plus           | 03/04/2024, 11:43:42 am | 03/04/2024, 11:43:42 am  |
 
 
 ### alerts-by-twitch
