@@ -248,12 +248,3 @@
 
 
 
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Stream Together Guest Guide | 26/10/2023, 11:41:06 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=pl)  |
-
-
-
