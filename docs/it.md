@@ -52,6 +52,7 @@
 | Stream Together Guest Guide                              | 26/10/2023, 11:45:37 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=it)                               |
 | Stream Together Host Guide                               | 26/10/2023, 11:45:34 pm   | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=it)                                |
 | Guest Star Faqs                                          | 26/10/2023, 11:45:34 pm   | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=it)                                           |
+| How To Use Automod                                       | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=it)                                        |
 
 
 
