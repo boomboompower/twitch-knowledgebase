@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Creator Goals                                            | 11/04/2024, 7:15:04 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=it)                                             |
 | Twitch Music Getting Started                             | 08/04/2024, 5:30:37 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=it)                              |
 | Local Sub Price Countries                                | 02/04/2024, 8:54:45 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=it)                                 |
 | Setup Alerts By Twitch                                   | 27/03/2024, 8:07:03 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=it)                                    |
@@ -23,7 +24,6 @@
 | Partner Program Overview                                 | 25/01/2024, 5:01:42 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=it)                                  |
 | Twitch Affiliate Program Faq                             | 25/01/2024, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=it)                              |
 | Subpoint Vs Subcount                                     | 23/01/2024, 7:54:08 pm    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=it)                                      |
-| Creator Goals                                            | 23/01/2024, 7:54:04 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=it)                                             |
 | Twitch Turbo Guide                                       | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=it)                                        |
 | Managing Your Phone Number                               | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=it)                                |
 | How To Manage Harassment In Chat                         | 20/12/2023, 8:58:53 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=it)                          |

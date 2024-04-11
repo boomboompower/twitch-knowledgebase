@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Creator Goals                                            | 11/04/2024, 7:15:04 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                             |
 | Local Sub Price Countries                                | 02/04/2024, 8:54:46 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                                 |
 | Twitch Music Getting Started                             | 27/03/2024, 10:26:09 am   | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=en_US)                              |
 | Setup Alerts By Twitch                                   | 26/03/2024, 9:25:54 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=en_US)                                    |
@@ -24,7 +25,6 @@
 | Twitch Affiliate Program Faq                             | 25/01/2024, 5:01:05 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                              |
 | Twitch Turbo Guide                                       | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                                        |
 | Subpoint Vs Subcount                                     | 18/01/2024, 10:00:39 am   | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=en_US)                                      |
-| Creator Goals                                            | 18/01/2024, 10:00:04 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                             |
 | Managing Your Phone Number                               | 09/01/2024, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=en_US)                                |
 | Partner Onboarding Guide                                 | 16/12/2023, 0:26:49 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=en_US)                                  |
 | Guest Star Getting Started                               | 14/12/2023, 1:05:13 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=en_US)                                |
