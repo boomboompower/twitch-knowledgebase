@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Stream Display Ads                                       | 13/04/2024, 3:36:31 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                                        |
 | Creator Goals                                            | 11/04/2024, 7:15:04 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                             |
 | Local Sub Price Countries                                | 02/04/2024, 8:54:46 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                                 |
 | Twitch Music Getting Started                             | 27/03/2024, 10:26:09 am   | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=en_US)                              |
@@ -48,7 +49,6 @@
 | Twitch Studio Mac Faq                                    | 26/10/2023, 10:49:44 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=en_US)                                     |
 | Getting Started Twitch Studio                            | 26/10/2023, 10:49:42 am   | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=en_US)                             |
 | Recommended Software For Broadcasting                    | 26/10/2023, 10:41:34 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=en_US)                     |
-| How To Use Automod                                       | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=en_US)                                        |
 
 
 

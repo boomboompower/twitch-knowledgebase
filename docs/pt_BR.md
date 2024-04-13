@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Stream Display Ads                                       | 13/04/2024, 3:36:29 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pt_BR)                                        |
 | Creator Goals                                            | 11/04/2024, 7:15:04 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=pt_BR)                                             |
 | Twitch Music Getting Started                             | 06/04/2024, 0:52:07 am    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=pt_BR)                              |
 | Local Sub Price Countries                                | 02/04/2024, 8:54:45 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pt_BR)                                 |
@@ -52,7 +53,6 @@
 | Guest Star Faqs                                          | 27/10/2023, 9:19:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=pt_BR)                                           |
 | Stream Together Guest Guide                              | 27/10/2023, 9:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=pt_BR)                               |
 | Stream Together Host Guide                               | 27/10/2023, 9:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=pt_BR)                                |
-| How To Use Automod                                       | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_BR)                                        |
 
 
 

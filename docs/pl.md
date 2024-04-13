@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Stream Display Ads                                       | 13/04/2024, 3:36:29 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pl)                                        |
 | Creator Goals                                            | 11/04/2024, 7:15:04 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=pl)                                             |
 | Local Sub Price Countries                                | 02/04/2024, 8:54:45 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pl)                                 |
 | Twitch Music Getting Started                             | 27/03/2024, 10:26:08 am   | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=pl)                              |
@@ -52,7 +53,6 @@
 | Guest Star Faqs                                          | 26/10/2023, 11:43:03 pm   | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=pl)                                           |
 | Stream Together Guest Guide                              | 26/10/2023, 11:41:06 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=pl)                               |
 | Stream Together Host Guide                               | 26/10/2023, 11:41:03 pm   | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=pl)                                |
-| How To Use Automod                                       | 25/10/2023, 4:50:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pl)                                        |
 
 
 

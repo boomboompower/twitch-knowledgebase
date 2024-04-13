@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Stream Display Ads                                       | 13/04/2024, 3:36:29 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es_MX)                                        |
 | Creator Goals                                            | 11/04/2024, 7:15:04 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=es_MX)                                             |
 | Twitch Music Getting Started                             | 08/04/2024, 8:42:36 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=es_MX)                              |
 | Local Sub Price Countries                                | 02/04/2024, 8:54:45 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es_MX)                                 |
@@ -52,7 +53,6 @@
 | Guest Star Faqs                                          | 26/10/2023, 11:56:13 pm   | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=es_MX)                                           |
 | Stream Together Guest Guide                              | 26/10/2023, 11:56:05 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=es_MX)                               |
 | Stream Together Host Guide                               | 26/10/2023, 11:53:05 pm   | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=es_MX)                                |
-| How To Use Automod                                       | 25/10/2023, 4:50:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es_MX)                                        |
 
 
 
