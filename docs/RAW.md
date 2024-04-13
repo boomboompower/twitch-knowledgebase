@@ -7,13 +7,13 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| sponsorship-experiments-faq                                   | 13/04/2024, 0:21:24 pm  | 13/04/2024, 0:21:24 pm  | [Details](#sponsorship-experiments-faq)                                    |
 | stream-display-ads                                            | 13/04/2024, 3:36:29 am  | 13/04/2024, 3:36:28 am  | [Details](#stream-display-ads)                                             |
 | affiliates-plus                                               | 03/04/2024, 11:43:42 am | 03/04/2024, 11:42:03 am | [Details](#affiliates-plus)                                                |
 | follower-verification                                         | 29/03/2024, 7:08:28 am  | 13/03/2024, 9:56:49 am  | [Details](#follower-verification)                                          |
 | setup-alerts-by-twitch                                        | 27/03/2024, 9:25:40 pm  | 27/03/2024, 9:25:37 pm  | [Details](#setup-alerts-by-twitch)                                         |
 | content-classification-labels                                 | 27/03/2024, 8:52:53 am  | 27/03/2024, 8:52:52 am  | [Details](#content-classification-labels)                                  |
 | experiments                                                   | 09/03/2024, 3:49:32 am  | 09/03/2024, 3:49:31 am  | [Details](#experiments)                                                    |
-| sponsorship-experiments-faq                                   | 06/03/2024, 11:24:03 pm | 06/03/2024, 11:24:01 pm | [Details](#sponsorship-experiments-faq)                                    |
 | two-factor-authentication                                     | 23/02/2024, 4:01:36 am  | 27/04/2023, 3:57:12 am  | [Details](#two-factor-authentication)                                      |
 | authy-desktop-shutdown                                        | 23/02/2024, 4:00:38 am  | 16/02/2024, 11:11:53 am | [Details](#authy-desktop-shutdown)                                         |
 | digital-services-act-ads                                      | 16/02/2024, 7:48:51 am  | 08/02/2024, 10:39:11 am | [Details](#digital-services-act-ads)                                       |
@@ -1595,11 +1595,11 @@ https://help.twitch.tv/s/article/smart-notification-setting
 ### sponsorship-experiments-faq
 https://help.twitch.tv/s/article/sponsorship-experiments-faq
 
-| Title                                       | Last Modified           | Created                  |
-|---------------------------------------------|-------------------------|--------------------------|
-| FAQ sur les expériences de parrainage       | 06/03/2024, 11:24:03 pm | 06/03/2024, 11:24:01 pm  |
-| FAQ sull'esperimento delle sponsorizzazioni | 06/03/2024, 7:49:05 pm  | 28/02/2024, 10:49:26 am  |
-| Eksperymenty sponsorskie – FAQ              | 28/02/2024, 10:48:43 am | 28/02/2024, 10:48:42 am  |
+| Title                                       | Last Modified          | Created                 |
+|---------------------------------------------|------------------------|-------------------------|
+| Eksperymenty sponsorskie – FAQ              | 13/04/2024, 0:21:24 pm | 13/04/2024, 0:21:24 pm  |
+| FAQ sull'esperimento delle sponsorizzazioni | 13/04/2024, 0:21:24 pm | 13/04/2024, 0:21:24 pm  |
+| FAQ sur les expériences de parrainage       | 13/04/2024, 0:21:24 pm | 13/04/2024, 0:21:24 pm  |
 
 
 ### stream-display-ads
