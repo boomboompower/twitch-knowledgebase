@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| recommended-software-for-broadcasting                         | 17/04/2024, 1:30:52 pm  | 17/04/2024, 1:30:49 pm  | [Details](#recommended-software-for-broadcasting)                          |
 | multiple-encodes                                              | 17/04/2024, 5:34:12 am  | 17/04/2024, 5:34:11 am  | [Details](#multiple-encodes)                                               |
 | sponsorship-experiments-faq                                   | 13/04/2024, 0:21:24 pm  | 13/04/2024, 0:21:24 pm  | [Details](#sponsorship-experiments-faq)                                    |
 | stream-display-ads                                            | 13/04/2024, 3:36:29 am  | 13/04/2024, 3:36:28 am  | [Details](#stream-display-ads)                                             |
@@ -55,7 +56,6 @@ Language data is not included in the API. All page links will not have a languag
 | games-irl-and-music-directories                               | 01/11/2023, 10:35:39 am | 01/11/2023, 10:34:56 am | [Details](#games-irl-and-music-directories)                                |
 | ban-evasion                                                   | 28/10/2023, 5:03:39 am  | 27/10/2023, 4:46:39 am  | [Details](#ban-evasion)                                                    |
 | getting-started-twitch-studio                                 | 28/10/2023, 5:03:29 am  | 26/10/2023, 10:54:37 am | [Details](#getting-started-twitch-studio)                                  |
-| recommended-software-for-broadcasting                         | 28/10/2023, 5:03:10 am  | 26/10/2023, 10:54:54 am | [Details](#recommended-software-for-broadcasting)                          |
 | twitch-studio-mac-faq                                         | 28/10/2023, 4:27:08 am  | 28/10/2023, 4:27:05 am  | [Details](#twitch-studio-mac-faq)                                          |
 | guest-star-faqs                                               | 27/10/2023, 0:52:35 am  | 14/10/2023, 2:01:47 pm  | [Details](#guest-star-faqs)                                                |
 | revenue                                                       | 25/10/2023, 2:24:45 am  | 01/07/2023, 11:56:05 am | [Details](#revenue)                                                        |
@@ -1460,11 +1460,11 @@ https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting
 ### recommended-software-for-broadcasting
 https://help.twitch.tv/s/article/recommended-software-for-broadcasting
 
-| Title                              | Last Modified           | Created                  |
-|------------------------------------|-------------------------|--------------------------|
-| Empfohlene Streaming-Software      | 28/10/2023, 5:03:10 am  | 26/10/2023, 10:54:54 am  |
-| Anbefalet software til streaming   | 26/10/2023, 10:41:32 am | 26/10/2023, 10:41:29 am  |
-| Doporučený software pro vysílající | 26/10/2023, 10:41:32 am | 26/10/2023, 10:41:29 am  |
+| Title                              | Last Modified          | Created                 |
+|------------------------------------|------------------------|-------------------------|
+| Empfohlene Streaming-Software      | 17/04/2024, 1:30:52 pm | 17/04/2024, 1:30:49 pm  |
+| Anbefalet software til streaming   | 17/04/2024, 0:17:46 pm | 17/04/2024, 0:17:46 pm  |
+| Doporučený software pro vysílající | 17/04/2024, 0:17:46 pm | 17/04/2024, 0:17:46 pm  |
 
 
 ### refunds-on-twitch
