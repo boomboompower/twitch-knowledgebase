@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| multiple-encodes                                              | 17/04/2024, 5:34:12 am  | 17/04/2024, 5:34:11 am  | [Details](#multiple-encodes)                                               |
 | sponsorship-experiments-faq                                   | 13/04/2024, 0:21:24 pm  | 13/04/2024, 0:21:24 pm  | [Details](#sponsorship-experiments-faq)                                    |
 | stream-display-ads                                            | 13/04/2024, 3:36:29 am  | 13/04/2024, 3:36:28 am  | [Details](#stream-display-ads)                                             |
 | affiliates-plus                                               | 03/04/2024, 11:43:42 am | 03/04/2024, 11:42:03 am | [Details](#affiliates-plus)                                                |
@@ -19,7 +20,6 @@ Language data is not included in the API. All page links will not have a languag
 | digital-services-act-ads                                      | 16/02/2024, 7:48:51 am  | 08/02/2024, 10:39:11 am | [Details](#digital-services-act-ads)                                       |
 | about-account-suspensions-dmca-suspensions-and-chat-bans      | 15/02/2024, 5:22:57 am  | 09/12/2023, 10:40:58 am | [Details](#about-account-suspensions-dmca-suspensions-and-chat-bans)       |
 | emote-slots                                                   | 06/02/2024, 8:39:26 am  | 06/02/2024, 8:37:12 am  | [Details](#emote-slots)                                                    |
-| multiple-encodes                                              | 06/02/2024, 8:07:28 am  | 06/02/2024, 8:07:27 am  | [Details](#multiple-encodes)                                               |
 | sub-codes                                                     | 06/02/2024, 7:55:19 am  | 06/02/2024, 7:55:18 am  | [Details](#sub-codes)                                                      |
 | joining-guest-star                                            | 06/02/2024, 3:35:34 am  | 14/10/2023, 1:55:20 pm  | [Details](#joining-guest-star)                                             |
 | emote-library                                                 | 31/01/2024, 4:36:47 am  | 31/01/2024, 4:36:24 am  | [Details](#emote-library)                                                  |
@@ -1366,8 +1366,8 @@ https://help.twitch.tv/s/article/multiple-encodes
 
 | Title                                                                   | Last Modified          | Created                 |
 |-------------------------------------------------------------------------|------------------------|-------------------------|
-| Enhanced Broadcasting mit Mehrfach-Codierungen (Start der Beta-Version) | 06/02/2024, 8:07:28 am | 06/02/2024, 8:07:27 am  |
-| Enhanced Broadcasting with Multiple Encodes (Beta Launch)               | 06/02/2024, 8:07:28 am | 06/02/2024, 8:06:57 am  |
+| Enhanced Broadcasting mit Mehrfach-Codierungen (Start der Beta-Version) | 17/04/2024, 5:34:12 am | 17/04/2024, 5:34:11 am  |
+| Enhanced Broadcasting with Multiple Encodes (Beta Launch)               | 17/04/2024, 5:34:12 am | 17/04/2024, 3:36:00 am  |
 
 
 ### navigating-the-feedback-forum
