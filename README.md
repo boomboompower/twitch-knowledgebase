@@ -11,30 +11,30 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 |-------------------------------|---------------------------|----------------|------------------------|
 | Bulgarian                     | 06/09/2023, 6:09:07 am    | 3 article(s)   | [View](docs/bg.md)     |
 | Chinese (Simplified, China)   | 23/02/2024, 4:01:34 am    | 8 article(s)   | [View](docs/zh_CN.md)  |
-| Chinese (Traditional, Taiwan) | 13/04/2024, 3:19:54 pm    | 208 article(s) | [View](docs/zh_TW.md)  |
-| Czech                         | 16/02/2024, 8:20:56 am    | 23 article(s)  | [View](docs/cs.md)     |
-| Danish                        | 23/02/2024, 4:01:34 am    | 30 article(s)  | [View](docs/da.md)     |
+| Chinese (Traditional, Taiwan) | 18/04/2024, 2:02:45 am    | 211 article(s) | [View](docs/zh_TW.md)  |
+| Czech                         | 17/04/2024, 0:17:46 pm    | 23 article(s)  | [View](docs/cs.md)     |
+| Danish                        | 17/04/2024, 0:17:46 pm    | 30 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 23/02/2024, 4:01:34 am    | 37 article(s)  | [View](docs/nl_NL.md)  |
-| English (United States)       | 13/04/2024, 3:19:55 pm    | 225 article(s) | [View](docs/en_US.md)  |
-| Finnish                       | 16/02/2024, 8:20:56 am    | 28 article(s)  | [View](docs/fi.md)     |
-| French                        | 13/04/2024, 3:19:54 pm    | 212 article(s) | [View](docs/fr.md)     |
-| German                        | 13/04/2024, 3:19:54 pm    | 212 article(s) | [View](docs/de.md)     |
+| English (United States)       | 17/04/2024, 0:32:02 pm    | 227 article(s) | [View](docs/en_US.md)  |
+| Finnish                       | 17/04/2024, 0:17:46 pm    | 28 article(s)  | [View](docs/fi.md)     |
+| French                        | 18/04/2024, 2:02:59 am    | 213 article(s) | [View](docs/fr.md)     |
+| German                        | 18/04/2024, 2:02:56 am    | 218 article(s) | [View](docs/de.md)     |
 | Greek                         | 18/01/2024, 2:49:28 pm    | 8 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 16/02/2024, 8:20:56 am    | 21 article(s)  | [View](docs/hu.md)     |
-| Italian                       | 13/04/2024, 3:19:54 pm    | 211 article(s) | [View](docs/it.md)     |
-| Japanese                      | 13/04/2024, 3:19:54 pm    | 210 article(s) | [View](docs/ja.md)     |
+| Italian                       | 18/04/2024, 2:02:45 am    | 212 article(s) | [View](docs/it.md)     |
+| Japanese                      | 18/04/2024, 2:02:47 am    | 211 article(s) | [View](docs/ja.md)     |
 | Norwegian                     | 23/02/2024, 4:01:34 am    | 30 article(s)  | [View](docs/no.md)     |
-| Polish                        | 13/04/2024, 3:19:54 pm    | 207 article(s) | [View](docs/pl.md)     |
-| Portuguese (Brazil)           | 13/04/2024, 3:19:54 pm    | 209 article(s) | [View](docs/pt_BR.md)  |
-| Portuguese (Portugal)         | 23/02/2024, 4:01:34 am    | 41 article(s)  | [View](docs/pt_PT.md)  |
+| Polish                        | 17/04/2024, 0:32:02 pm    | 208 article(s) | [View](docs/pl.md)     |
+| Portuguese (Brazil)           | 18/04/2024, 2:02:42 am    | 210 article(s) | [View](docs/pt_BR.md)  |
+| Portuguese (Portugal)         | 17/04/2024, 0:17:46 pm    | 41 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 06/09/2023, 6:09:07 am    | 3 article(s)   | [View](docs/ro.md)     |
-| Russian                       | 13/04/2024, 3:19:54 pm    | 209 article(s) | [View](docs/ru.md)     |
+| Russian                       | 17/04/2024, 0:32:02 pm    | 214 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 06/09/2023, 6:09:07 am    | 3 article(s)   | [View](docs/sk.md)     |
-| Spanish                       | 13/04/2024, 3:19:54 pm    | 211 article(s) | [View](docs/es.md)     |
-| Spanish (Mexico)              | 13/04/2024, 3:19:54 pm    | 211 article(s) | [View](docs/es_MX.md)  |
+| Spanish                       | 18/04/2024, 2:16:21 am    | 217 article(s) | [View](docs/es.md)     |
+| Spanish (Mexico)              | 18/04/2024, 2:02:49 am    | 212 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 23/02/2024, 4:01:34 am    | 27 article(s)  | [View](docs/sv.md)     |
-| Thai                          | 13/04/2024, 3:19:54 pm    | 201 article(s) | [View](docs/th.md)     |
-| Turkish                       | 13/04/2024, 3:19:54 pm    | 207 article(s) | [View](docs/tr.md)     |
+| Thai                          | 17/04/2024, 0:32:02 pm    | 206 article(s) | [View](docs/th.md)     |
+| Turkish                       | 18/04/2024, 2:02:55 am    | 207 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 15/02/2024, 5:22:56 am    | 7 article(s)   | [View](docs/vi.md)     |
 
 ### Dumping

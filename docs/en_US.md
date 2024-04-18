@@ -6,10 +6,12 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Languages On Twitch                                      | 17/04/2024, 0:32:02 pm    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=en_US)                                       |
+| Recommended Software For Broadcasting                    | 17/04/2024, 0:17:47 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=en_US)                     |
+| Local Sub Price Countries                                | 17/04/2024, 11:52:27 am   | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                                 |
 | Creator Goals                                            | 13/04/2024, 3:19:55 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                             |
 | Sponsorship Experiments Faq                              | 13/04/2024, 0:21:25 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=en_US)                               |
 | Stream Display Ads                                       | 13/04/2024, 3:36:31 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                                        |
-| Local Sub Price Countries                                | 02/04/2024, 8:54:46 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                                 |
 | Twitch Music Getting Started                             | 27/03/2024, 10:26:09 am   | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=en_US)                              |
 | Setup Alerts By Twitch                                   | 26/03/2024, 9:25:54 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=en_US)                                    |
 | Experiments                                              | 09/03/2024, 3:49:33 am    | [Link](https://help.twitch.tv/s/article/experiments?language=en_US)                                               |
@@ -46,9 +48,6 @@
 | Follower Emotes                                          | 08/11/2023, 7:30:04 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=en_US)                                           |
 | Games Irl And Music Directories                          | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=en_US)                           |
 | Nintendo Switch                                          | 01/11/2023, 5:04:10 am    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=en_US)                                           |
-| Twitch Studio Mac Faq                                    | 26/10/2023, 10:49:44 am   | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=en_US)                                     |
-| Getting Started Twitch Studio                            | 26/10/2023, 10:49:42 am   | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=en_US)                             |
-| Recommended Software For Broadcasting                    | 26/10/2023, 10:41:34 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=en_US)                     |
 
 
 
@@ -258,6 +257,17 @@
 | Username Rename And Recycling Policies           | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=en_US)            |
 | How To Log In To Twitch With One Click           | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)            |
 | Markdown Basics                                  | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                                   |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                            | Last Updated (dd/mm/yyyy) | Link                                                                                     |
+|---------------------------------|---------------------------|------------------------------------------------------------------------------------------|
+| Subpoint Vs Subcount            | 18/01/2024, 10:00:39 am   | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=en_US)             |
+| Alerts By Twitch                | 29/11/2023, 9:13:51 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=en_US)                 |
+| Games Irl And Music Directories | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=en_US)  |
 
 
 

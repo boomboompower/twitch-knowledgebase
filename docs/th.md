@@ -6,10 +6,12 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Languages On Twitch                                      | 17/04/2024, 0:32:02 pm    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=th)                                       |
+| Recommended Software For Broadcasting                    | 17/04/2024, 0:17:46 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=th)                     |
+| Local Sub Price Countries                                | 17/04/2024, 11:52:26 am   | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=th)                                 |
 | Creator Goals                                            | 13/04/2024, 3:19:54 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=th)                                             |
 | Sponsorship Experiments Faq                              | 13/04/2024, 0:21:24 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=th)                               |
 | Stream Display Ads                                       | 13/04/2024, 3:36:29 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=th)                                        |
-| Local Sub Price Countries                                | 02/04/2024, 8:54:45 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=th)                                 |
 | Twitch Music Getting Started                             | 27/03/2024, 10:26:08 am   | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=th)                              |
 | Setup Alerts By Twitch                                   | 26/03/2024, 9:25:53 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=th)                                    |
 | Experiments                                              | 09/03/2024, 3:49:32 am    | [Link](https://help.twitch.tv/s/article/experiments?language=th)                                               |
@@ -51,7 +53,6 @@
 | Stream Together Host Guide                               | 01/11/2023, 0:42:34 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=th)                                |
 | Getting Started Twitch Studio                            | 28/10/2023, 5:03:47 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=th)                             |
 | Ban Evasion                                              | 28/10/2023, 5:03:28 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=th)                                               |
-| Recommended Software For Broadcasting                    | 28/10/2023, 5:03:10 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=th)                     |
 | Twitch Studio Mac Faq                                    | 28/10/2023, 4:26:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=th)                                     |
 
 
@@ -239,6 +240,18 @@
 | Username Rename And Recycling Policies           | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=th)            |
 | How To Log In To Twitch With One Click           | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=th)            |
 | Markdown Basics                                  | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=th)                                   |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Subpoint Vs Subcount        | 24/01/2024, 2:50:05 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=th)         |
+| Alerts By Twitch            | 04/12/2023, 11:48:08 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=th)             |
+| Stream Together Guest Guide | 01/11/2023, 0:42:38 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=th)  |
+| Stream Together Host Guide  | 01/11/2023, 0:42:34 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=th)   |
 
 
 

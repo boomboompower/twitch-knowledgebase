@@ -6,9 +6,9 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Recommended Software For Broadcasting | 17/04/2024, 0:17:46 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=fi)  |
 | Twitch Prime Partner Guide            | 16/02/2024, 8:20:56 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=fi)             |
 | How To Manage Harassment In Chat      | 23/11/2023, 8:05:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fi)       |
-| Recommended Software For Broadcasting | 26/10/2023, 10:41:32 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=fi)  |
 
 
 
