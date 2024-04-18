@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| experiments                                                   | 18/04/2024, 3:49:03 pm  | 18/04/2024, 3:49:02 pm  | [Details](#experiments)                                                    |
 | recommended-software-for-broadcasting                         | 17/04/2024, 1:30:52 pm  | 17/04/2024, 1:30:49 pm  | [Details](#recommended-software-for-broadcasting)                          |
 | multiple-encodes                                              | 17/04/2024, 5:34:12 am  | 17/04/2024, 5:34:11 am  | [Details](#multiple-encodes)                                               |
 | sponsorship-experiments-faq                                   | 13/04/2024, 0:21:24 pm  | 13/04/2024, 0:21:24 pm  | [Details](#sponsorship-experiments-faq)                                    |
@@ -15,7 +16,6 @@ Language data is not included in the API. All page links will not have a languag
 | follower-verification                                         | 29/03/2024, 7:08:28 am  | 13/03/2024, 9:56:49 am  | [Details](#follower-verification)                                          |
 | setup-alerts-by-twitch                                        | 27/03/2024, 9:25:40 pm  | 27/03/2024, 9:25:37 pm  | [Details](#setup-alerts-by-twitch)                                         |
 | content-classification-labels                                 | 27/03/2024, 8:52:53 am  | 27/03/2024, 8:52:52 am  | [Details](#content-classification-labels)                                  |
-| experiments                                                   | 09/03/2024, 3:49:32 am  | 09/03/2024, 3:49:31 am  | [Details](#experiments)                                                    |
 | two-factor-authentication                                     | 23/02/2024, 4:01:36 am  | 27/04/2023, 3:57:12 am  | [Details](#two-factor-authentication)                                      |
 | authy-desktop-shutdown                                        | 23/02/2024, 4:00:38 am  | 16/02/2024, 11:11:53 am | [Details](#authy-desktop-shutdown)                                         |
 | digital-services-act-ads                                      | 16/02/2024, 7:48:51 am  | 08/02/2024, 10:39:11 am | [Details](#digital-services-act-ads)                                       |
@@ -898,11 +898,11 @@ https://help.twitch.tv/s/article/experiments
 
 | Title                          | Last Modified          | Created                 |
 |--------------------------------|------------------------|-------------------------|
-| Eksperymenty w serwisie Twitch | 09/03/2024, 3:49:32 am | 09/03/2024, 3:49:31 am  |
-| Experimentos da Twitch         | 09/03/2024, 3:49:32 am | 09/03/2024, 3:49:31 am  |
-| Experimentos de Twitch         | 09/03/2024, 3:49:32 am | 09/03/2024, 3:49:31 am  |
-| Experimentos de Twitch         | 09/03/2024, 3:49:32 am | 09/03/2024, 3:49:31 am  |
-| Expériences Twitch             | 09/03/2024, 3:49:32 am | 09/03/2024, 3:49:31 am  |
+| Eksperymenty w serwisie Twitch | 18/04/2024, 3:49:03 pm | 18/04/2024, 3:49:02 pm  |
+| Experimentos da Twitch         | 18/04/2024, 3:49:03 pm | 18/04/2024, 3:49:02 pm  |
+| Experimentos de Twitch         | 18/04/2024, 3:49:03 pm | 18/04/2024, 3:49:02 pm  |
+| Experimentos de Twitch         | 18/04/2024, 3:49:03 pm | 18/04/2024, 3:49:02 pm  |
+| Expériences Twitch             | 18/04/2024, 3:49:03 pm | 18/04/2024, 3:49:02 pm  |
 
 
 ### extensions-switch-with-your-game-selection
