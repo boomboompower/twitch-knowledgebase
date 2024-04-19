@@ -7,9 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| multiple-encodes                                              | 18/04/2024, 10:37:03 pm | 18/04/2024, 10:37:02 pm | [Details](#multiple-encodes)                                               |
 | experiments                                                   | 18/04/2024, 3:49:03 pm  | 18/04/2024, 3:49:02 pm  | [Details](#experiments)                                                    |
 | recommended-software-for-broadcasting                         | 17/04/2024, 1:30:52 pm  | 17/04/2024, 1:30:49 pm  | [Details](#recommended-software-for-broadcasting)                          |
-| multiple-encodes                                              | 17/04/2024, 5:34:12 am  | 17/04/2024, 5:34:11 am  | [Details](#multiple-encodes)                                               |
 | sponsorship-experiments-faq                                   | 13/04/2024, 0:21:24 pm  | 13/04/2024, 0:21:24 pm  | [Details](#sponsorship-experiments-faq)                                    |
 | stream-display-ads                                            | 13/04/2024, 3:36:29 am  | 13/04/2024, 3:36:28 am  | [Details](#stream-display-ads)                                             |
 | affiliates-plus                                               | 03/04/2024, 11:43:42 am | 03/04/2024, 11:42:03 am | [Details](#affiliates-plus)                                                |
@@ -1364,10 +1364,10 @@ https://help.twitch.tv/s/article/multiplayer-ads
 ### multiple-encodes
 https://help.twitch.tv/s/article/multiple-encodes
 
-| Title                                                                   | Last Modified          | Created                 |
-|-------------------------------------------------------------------------|------------------------|-------------------------|
-| Enhanced Broadcasting mit Mehrfach-Codierungen (Start der Beta-Version) | 17/04/2024, 5:34:12 am | 17/04/2024, 5:34:11 am  |
-| Enhanced Broadcasting with Multiple Encodes (Beta Launch)               | 17/04/2024, 5:34:12 am | 17/04/2024, 3:36:00 am  |
+| Title                                                                   | Last Modified           | Created                  |
+|-------------------------------------------------------------------------|-------------------------|--------------------------|
+| Enhanced Broadcasting mit Mehrfach-Codierungen (Start der Beta-Version) | 18/04/2024, 10:37:03 pm | 18/04/2024, 10:37:02 pm  |
+| Enhanced Broadcasting with Multiple Encodes (Beta Launch)               | 17/04/2024, 5:34:12 am  | 17/04/2024, 3:36:00 am   |
 
 
 ### navigating-the-feedback-forum

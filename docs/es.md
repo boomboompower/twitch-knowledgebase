@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Experiments                                              | 18/04/2024, 3:49:03 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=es)                                               |
 | Local Sub Price Countries                                | 18/04/2024, 2:16:21 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es)                                 |
 | Languages On Twitch                                      | 17/04/2024, 1:32:44 pm    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es)                                       |
 | Recommended Software For Broadcasting                    | 17/04/2024, 1:30:40 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es)                     |
@@ -14,7 +15,6 @@
 | Stream Display Ads                                       | 13/04/2024, 3:36:29 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es)                                        |
 | Twitch Music Getting Started                             | 08/04/2024, 7:09:36 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=es)                              |
 | Setup Alerts By Twitch                                   | 27/03/2024, 6:27:04 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=es)                                    |
-| Experiments                                              | 09/03/2024, 3:49:32 am    | [Link](https://help.twitch.tv/s/article/experiments?language=es)                                               |
 | Two Factor Authentication                                | 23/02/2024, 4:01:35 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es)                                 |
 | Authy Faq                                                | 23/02/2024, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=es)                                                 |
 | Prime Gaming Revenue Guide                               | 21/02/2024, 8:33:08 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es)                                |

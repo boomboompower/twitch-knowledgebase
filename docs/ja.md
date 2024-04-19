@@ -6,15 +6,15 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Creator Goals                                            | 19/04/2024, 10:33:06 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=ja)                                             |
+| Experiments                                              | 18/04/2024, 3:49:03 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=ja)                                               |
 | Local Sub Price Countries                                | 18/04/2024, 2:02:47 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ja)                                 |
 | Languages On Twitch                                      | 17/04/2024, 1:32:41 pm    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ja)                                       |
 | Recommended Software For Broadcasting                    | 17/04/2024, 1:30:37 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ja)                     |
-| Creator Goals                                            | 13/04/2024, 3:19:54 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=ja)                                             |
 | Sponsorship Experiments Faq                              | 13/04/2024, 0:21:24 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=ja)                               |
 | Stream Display Ads                                       | 13/04/2024, 3:36:29 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ja)                                        |
 | Twitch Music Getting Started                             | 05/04/2024, 7:04:39 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=ja)                              |
 | Setup Alerts By Twitch                                   | 27/03/2024, 1:58:05 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=ja)                                    |
-| Experiments                                              | 09/03/2024, 3:49:32 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ja)                                               |
 | Two Factor Authentication                                | 23/02/2024, 4:01:36 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ja)                                 |
 | Authy Faq                                                | 23/02/2024, 4:01:17 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=ja)                                                 |
 | Prime Gaming Revenue Guide                               | 21/02/2024, 6:31:36 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                                |
