@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Supported Browsers                                       | 20/04/2024, 7:06:08 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=tr)                                        |
 | Creator Goals                                            | 18/04/2024, 6:49:35 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=tr)                                             |
 | Experiments                                              | 18/04/2024, 3:49:03 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=tr)                                               |
 | Local Sub Price Countries                                | 18/04/2024, 2:02:55 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=tr)                                 |

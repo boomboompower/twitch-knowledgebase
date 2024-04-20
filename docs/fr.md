@@ -6,11 +6,12 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Supported Browsers                                       | 20/04/2024, 7:06:09 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=fr)                                        |
+| Creator Goals                                            | 19/04/2024, 8:48:33 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=fr)                                             |
 | Experiments                                              | 18/04/2024, 3:49:03 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=fr)                                               |
 | Local Sub Price Countries                                | 18/04/2024, 2:02:59 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=fr)                                 |
 | Languages On Twitch                                      | 17/04/2024, 1:32:37 pm    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=fr)                                       |
 | Recommended Software For Broadcasting                    | 17/04/2024, 1:30:44 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=fr)                     |
-| Creator Goals                                            | 13/04/2024, 3:19:54 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=fr)                                             |
 | Sponsorship Experiments Faq                              | 13/04/2024, 0:21:24 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=fr)                               |
 | Stream Display Ads                                       | 13/04/2024, 3:36:29 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=fr)                                        |
 | Twitch Music Getting Started                             | 04/04/2024, 11:54:08 pm   | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=fr)                              |
@@ -51,9 +52,6 @@
 | Ban Evasion                                              | 28/10/2023, 5:03:42 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=fr)                                               |
 | Getting Started Twitch Studio                            | 28/10/2023, 5:03:32 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=fr)                             |
 | Twitch Studio Mac Faq                                    | 28/10/2023, 4:27:08 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=fr)                                     |
-| Stream Together Guest Guide                              | 27/10/2023, 0:52:37 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=fr)                               |
-| Stream Together Host Guide                               | 27/10/2023, 0:52:37 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=fr)                                |
-| Guest Star Faqs                                          | 27/10/2023, 0:52:35 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=fr)                                           |
 
 
 

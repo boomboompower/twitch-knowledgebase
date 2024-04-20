@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Supported Browsers                                       | 20/04/2024, 7:06:09 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=pt_BR)                                        |
 | Creator Goals                                            | 19/04/2024, 4:08:04 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=pt_BR)                                             |
 | Experiments                                              | 18/04/2024, 3:49:03 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=pt_BR)                                               |
 | Local Sub Price Countries                                | 18/04/2024, 2:02:42 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pt_BR)                                 |
@@ -51,9 +52,6 @@
 | Getting Started Twitch Studio                            | 28/10/2023, 5:03:37 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=pt_BR)                             |
 | Ban Evasion                                              | 28/10/2023, 5:03:16 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=pt_BR)                                               |
 | Twitch Studio Mac Faq                                    | 28/10/2023, 4:26:09 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=pt_BR)                                     |
-| Guest Star Faqs                                          | 27/10/2023, 9:19:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=pt_BR)                                           |
-| Stream Together Guest Guide                              | 27/10/2023, 9:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=pt_BR)                               |
-| Stream Together Host Guide                               | 27/10/2023, 9:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=pt_BR)                                |
 
 
 

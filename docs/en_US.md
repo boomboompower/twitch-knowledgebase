@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Supported Browsers                                       | 20/04/2024, 7:06:09 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=en_US)                                        |
 | Experiments                                              | 18/04/2024, 3:49:06 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=en_US)                                               |
 | Languages On Twitch                                      | 17/04/2024, 0:32:02 pm    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=en_US)                                       |
 | Recommended Software For Broadcasting                    | 17/04/2024, 0:17:47 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=en_US)                     |

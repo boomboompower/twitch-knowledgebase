@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| alerts-by-twitch-faq                                          | 20/04/2024, 10:50:58 am | 20/04/2024, 10:50:57 am | [Details](#alerts-by-twitch-faq)                                           |
 | multiple-encodes                                              | 18/04/2024, 10:37:03 pm | 18/04/2024, 10:37:02 pm | [Details](#multiple-encodes)                                               |
 | experiments                                                   | 18/04/2024, 3:49:03 pm  | 18/04/2024, 3:49:02 pm  | [Details](#experiments)                                                    |
 | recommended-software-for-broadcasting                         | 17/04/2024, 1:30:52 pm  | 17/04/2024, 1:30:49 pm  | [Details](#recommended-software-for-broadcasting)                          |
@@ -42,7 +43,6 @@ Language data is not included in the API. All page links will not have a languag
 | ads-manager                                                   | 05/12/2023, 0:03:36 pm  | 02/12/2023, 11:05:48 am | [Details](#ads-manager)                                                    |
 | stream-together-favorite                                      | 05/12/2023, 4:43:01 am  | 23/11/2023, 8:53:17 am  | [Details](#stream-together-favorite)                                       |
 | alerts-by-twitch                                              | 05/12/2023, 0:30:38 am  | 26/07/2023, 4:19:41 am  | [Details](#alerts-by-twitch)                                               |
-| alerts-by-twitch-faq                                          | 05/12/2023, 0:30:33 am  | 26/07/2023, 4:14:58 am  | [Details](#alerts-by-twitch-faq)                                           |
 | setup-third-party-events                                      | 05/12/2023, 0:02:34 am  | 29/11/2023, 9:16:36 am  | [Details](#setup-third-party-events)                                       |
 | stream-manager                                                | 04/12/2023, 10:37:43 pm | 01/07/2023, 11:50:44 am | [Details](#stream-manager)                                                 |
 | simulcasting-guidelines                                       | 03/12/2023, 8:18:16 am  | 21/11/2023, 0:02:15 pm  | [Details](#simulcasting-guidelines)                                        |
@@ -408,10 +408,10 @@ https://help.twitch.tv/s/article/alerts-by-twitch-customization
 ### alerts-by-twitch-faq
 https://help.twitch.tv/s/article/alerts-by-twitch-faq
 
-| Title                         | Last Modified          | Created                 |
-|-------------------------------|------------------------|-------------------------|
-| FAQ sur les alertes de Twitch | 05/12/2023, 0:30:33 am | 26/07/2023, 4:14:58 am  |
-| FAQ zu Twitch Alerts          | 05/12/2023, 0:02:32 am | 26/07/2023, 4:14:58 am  |
+| Title                         | Last Modified           | Created                  |
+|-------------------------------|-------------------------|--------------------------|
+| FAQ sur les alertes de Twitch | 20/04/2024, 10:50:58 am | 20/04/2024, 10:50:57 am  |
+| FAQ zu Twitch Alerts          | 20/04/2024, 10:50:58 am | 20/04/2024, 10:50:57 am  |
 
 
 ### alerts-by-twitch-interactive-resubs
