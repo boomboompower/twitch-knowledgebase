@@ -7,9 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| experiments                                                   | 23/04/2024, 9:54:33 pm  | 19/04/2024, 4:05:10 am  | [Details](#experiments)                                                    |
 | alerts-by-twitch-faq                                          | 20/04/2024, 10:50:58 am | 20/04/2024, 10:50:57 am | [Details](#alerts-by-twitch-faq)                                           |
 | multiple-encodes                                              | 18/04/2024, 10:37:03 pm | 18/04/2024, 10:37:02 pm | [Details](#multiple-encodes)                                               |
-| experiments                                                   | 18/04/2024, 3:49:03 pm  | 18/04/2024, 3:49:02 pm  | [Details](#experiments)                                                    |
 | recommended-software-for-broadcasting                         | 17/04/2024, 1:30:52 pm  | 17/04/2024, 1:30:49 pm  | [Details](#recommended-software-for-broadcasting)                          |
 | sponsorship-experiments-faq                                   | 13/04/2024, 0:21:24 pm  | 13/04/2024, 0:21:24 pm  | [Details](#sponsorship-experiments-faq)                                    |
 | stream-display-ads                                            | 13/04/2024, 3:36:29 am  | 13/04/2024, 3:36:28 am  | [Details](#stream-display-ads)                                             |
@@ -898,9 +898,9 @@ https://help.twitch.tv/s/article/experiments
 
 | Title                          | Last Modified          | Created                 |
 |--------------------------------|------------------------|-------------------------|
+| Experimentos de Twitch         | 23/04/2024, 9:54:33 pm | 19/04/2024, 4:05:10 am  |
 | Eksperymenty w serwisie Twitch | 18/04/2024, 3:49:03 pm | 18/04/2024, 3:49:02 pm  |
 | Experimentos da Twitch         | 18/04/2024, 3:49:03 pm | 18/04/2024, 3:49:02 pm  |
-| Experimentos de Twitch         | 18/04/2024, 3:49:03 pm | 18/04/2024, 3:49:02 pm  |
 | Experimentos de Twitch         | 18/04/2024, 3:49:03 pm | 18/04/2024, 3:49:02 pm  |
 | Expériences Twitch             | 18/04/2024, 3:49:03 pm | 18/04/2024, 3:49:02 pm  |
 
