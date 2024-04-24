@@ -7,7 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
-| experiments                                                   | 24/04/2024, 9:53:03 am  | 19/04/2024, 4:05:10 am  | [Details](#experiments)                                                    |
+| experiments                                                   | 24/04/2024, 10:03:33 pm | 19/04/2024, 4:05:10 am  | [Details](#experiments)                                                    |
 | alerts-by-twitch-faq                                          | 20/04/2024, 10:50:58 am | 20/04/2024, 10:50:57 am | [Details](#alerts-by-twitch-faq)                                           |
 | multiple-encodes                                              | 18/04/2024, 10:37:03 pm | 18/04/2024, 10:37:02 pm | [Details](#multiple-encodes)                                               |
 | recommended-software-for-broadcasting                         | 17/04/2024, 1:30:52 pm  | 17/04/2024, 1:30:49 pm  | [Details](#recommended-software-for-broadcasting)                          |
@@ -896,13 +896,13 @@ https://help.twitch.tv/s/article/engagement
 ### experiments
 https://help.twitch.tv/s/article/experiments
 
-| Title                          | Last Modified          | Created                 |
-|--------------------------------|------------------------|-------------------------|
-| Experimentos da Twitch         | 24/04/2024, 9:53:03 am | 19/04/2024, 4:05:10 am  |
-| Experimentos de Twitch         | 23/04/2024, 9:54:33 pm | 19/04/2024, 4:05:10 am  |
-| Eksperymenty w serwisie Twitch | 18/04/2024, 3:49:03 pm | 18/04/2024, 3:49:02 pm  |
-| Experimentos de Twitch         | 18/04/2024, 3:49:03 pm | 18/04/2024, 3:49:02 pm  |
-| Expériences Twitch             | 18/04/2024, 3:49:03 pm | 18/04/2024, 3:49:02 pm  |
+| Title                          | Last Modified           | Created                 |
+|--------------------------------|-------------------------|-------------------------|
+| Expériences Twitch             | 24/04/2024, 10:03:33 pm | 19/04/2024, 4:05:10 am  |
+| Experimentos de Twitch         | 24/04/2024, 6:58:34 pm  | 19/04/2024, 4:05:10 am  |
+| Experimentos da Twitch         | 24/04/2024, 9:53:03 am  | 19/04/2024, 4:05:10 am  |
+| Experimentos de Twitch         | 23/04/2024, 9:54:33 pm  | 19/04/2024, 4:05:10 am  |
+| Eksperymenty w serwisie Twitch | 18/04/2024, 3:49:03 pm  | 18/04/2024, 3:49:02 pm  |
 
 
 ### extensions-switch-with-your-game-selection
