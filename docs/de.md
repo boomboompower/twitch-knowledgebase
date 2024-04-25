@@ -6,10 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Experiments                                              | 24/04/2024, 10:09:03 pm   | [Link](https://help.twitch.tv/s/article/experiments?language=de)                                               |
 | Alerts By Twitch Faq                                     | 20/04/2024, 10:50:58 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=de)                                      |
 | Supported Browsers                                       | 20/04/2024, 7:06:09 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=de)                                        |
 | Creator Goals                                            | 18/04/2024, 10:38:06 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=de)                                             |
-| Experiments                                              | 18/04/2024, 3:49:03 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=de)                                               |
 | Local Sub Price Countries                                | 18/04/2024, 2:02:56 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=de)                                 |
 | Languages On Twitch                                      | 17/04/2024, 1:32:47 pm    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=de)                                       |
 | Recommended Software For Broadcasting                    | 17/04/2024, 1:30:52 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=de)                     |
@@ -52,7 +52,6 @@
 | Ban Evasion                                              | 28/10/2023, 5:03:39 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=de)                                               |
 | Getting Started Twitch Studio                            | 28/10/2023, 5:03:29 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=de)                             |
 | Twitch Studio Mac Faq                                    | 28/10/2023, 4:27:07 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-mac-faq?language=de)                                     |
-| Guest Star Faqs                                          | 27/10/2023, 9:02:03 pm    | [Link](https://help.twitch.tv/s/article/guest-star-faqs?language=de)                                           |
 
 
 
