@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| adding-a-game-and-box-art-to-the-directory                    | 26/04/2024, 3:57:43 am  | 26/04/2024, 3:54:50 am  | [Details](#adding-a-game-and-box-art-to-the-directory)                     |
 | experiments                                                   | 24/04/2024, 10:03:33 pm | 19/04/2024, 4:05:10 am  | [Details](#experiments)                                                    |
 | alerts-by-twitch-faq                                          | 20/04/2024, 10:50:58 am | 20/04/2024, 10:50:57 am | [Details](#alerts-by-twitch-faq)                                           |
 | multiple-encodes                                              | 18/04/2024, 10:37:03 pm | 18/04/2024, 10:37:02 pm | [Details](#multiple-encodes)                                               |
@@ -159,7 +160,6 @@ Language data is not included in the API. All page links will not have a languag
 | streamer-community-survey                                     | 18/02/2022, 8:19:05 pm  | 18/02/2022, 8:19:02 pm  | [Details](#streamer-community-survey)                                      |
 | twitch-studio-updates                                         | 18/02/2022, 8:07:11 pm  | 18/02/2022, 8:07:01 pm  | [Details](#twitch-studio-updates)                                          |
 | cancelling-subscriptions                                      | 14/12/2021, 8:50:31 am  | 14/12/2021, 8:50:30 am  | [Details](#cancelling-subscriptions)                                       |
-| adding-a-game-and-box-art-to-the-directory                    | 10/12/2021, 6:25:59 am  | 10/12/2021, 6:22:46 am  | [Details](#adding-a-game-and-box-art-to-the-directory)                     |
 | system-audio-capture-permission                               | 30/11/2021, 5:09:19 am  | 19/11/2021, 5:23:25 am  | [Details](#system-audio-capture-permission)                                |
 | modified-emotes                                               | 19/11/2021, 5:13:45 am  | 13/10/2021, 4:29:55 am  | [Details](#modified-emotes)                                                |
 | default-emotes                                                | 19/11/2021, 5:12:28 am  | 13/10/2021, 4:28:41 am  | [Details](#default-emotes)                                                 |
@@ -302,11 +302,11 @@ https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory
 
 | Title                                                     | Last Modified          | Created                 |
 |-----------------------------------------------------------|------------------------|-------------------------|
-| Adding a Game or Game Cover Art to Twitch                 | 10/12/2021, 6:25:59 am | 10/12/2021, 6:22:46 am  |
-| Adicionando um jogo ou uma arte de capa de jogo na Twitch | 10/12/2021, 6:25:54 am | 10/12/2020, 5:01:08 am  |
-| Aggiungere un gioco o la rispettiva copertina su Twitch   | 10/12/2021, 6:25:54 am | 10/12/2020, 5:01:08 am  |
-| Ajouter un jeu ou une couverture de jeu sur Twitch        | 10/12/2021, 6:25:54 am | 10/12/2020, 5:01:08 am  |
-| Ein Spiel oder ein Cover-Artwork zu Twitch hinzufügen     | 10/12/2021, 6:25:54 am | 10/12/2020, 5:01:08 am  |
+| Adding a Game or Game Cover Art to Twitch                 | 26/04/2024, 3:57:43 am | 26/04/2024, 3:54:50 am  |
+| Adicionando um jogo ou uma arte de capa de jogo na Twitch | 26/04/2024, 3:57:43 am | 26/04/2024, 3:57:42 am  |
+| Aggiungere un gioco o la rispettiva copertina su Twitch   | 26/04/2024, 3:57:43 am | 26/04/2024, 3:57:42 am  |
+| Ajouter un jeu ou une couverture de jeu sur Twitch        | 26/04/2024, 3:57:43 am | 26/04/2024, 3:57:42 am  |
+| Ein Spiel oder ein Cover-Artwork zu Twitch hinzufügen     | 26/04/2024, 3:57:43 am | 26/04/2024, 3:57:42 am  |
 
 
 ### ads-incentive-program-getting-started
