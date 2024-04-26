@@ -7,9 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| alerts-by-twitch-faq                                          | 26/04/2024, 9:27:04 pm  | 26/04/2024, 9:27:02 pm  | [Details](#alerts-by-twitch-faq)                                           |
 | adding-a-game-and-box-art-to-the-directory                    | 26/04/2024, 3:57:43 am  | 26/04/2024, 3:54:50 am  | [Details](#adding-a-game-and-box-art-to-the-directory)                     |
 | experiments                                                   | 24/04/2024, 10:03:33 pm | 19/04/2024, 4:05:10 am  | [Details](#experiments)                                                    |
-| alerts-by-twitch-faq                                          | 20/04/2024, 10:50:58 am | 20/04/2024, 10:50:57 am | [Details](#alerts-by-twitch-faq)                                           |
 | multiple-encodes                                              | 18/04/2024, 10:37:03 pm | 18/04/2024, 10:37:02 pm | [Details](#multiple-encodes)                                               |
 | recommended-software-for-broadcasting                         | 17/04/2024, 1:30:52 pm  | 17/04/2024, 1:30:49 pm  | [Details](#recommended-software-for-broadcasting)                          |
 | sponsorship-experiments-faq                                   | 13/04/2024, 0:21:24 pm  | 13/04/2024, 0:21:24 pm  | [Details](#sponsorship-experiments-faq)                                    |
@@ -408,10 +408,10 @@ https://help.twitch.tv/s/article/alerts-by-twitch-customization
 ### alerts-by-twitch-faq
 https://help.twitch.tv/s/article/alerts-by-twitch-faq
 
-| Title                         | Last Modified           | Created                  |
-|-------------------------------|-------------------------|--------------------------|
-| FAQ sur les alertes de Twitch | 20/04/2024, 10:50:58 am | 20/04/2024, 10:50:57 am  |
-| FAQ zu Twitch Alerts          | 20/04/2024, 10:50:58 am | 20/04/2024, 10:50:57 am  |
+| Title                         | Last Modified          | Created                 |
+|-------------------------------|------------------------|-------------------------|
+| FAQ zu Twitch Alerts          | 26/04/2024, 9:27:04 pm | 26/04/2024, 9:27:02 pm  |
+| FAQ sur les alertes de Twitch | 26/04/2024, 9:05:03 pm | 26/04/2024, 9:05:02 pm  |
 
 
 ### alerts-by-twitch-interactive-resubs
