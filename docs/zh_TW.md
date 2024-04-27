@@ -6,9 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Alerts By Twitch Faq                                     | 26/04/2024, 7:50:38 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=zh_TW)                                      |
 | Adding A Game And Box Art To The Directory               | 26/04/2024, 3:57:43 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=zh_TW)                |
 | Experiments                                              | 25/04/2024, 9:03:46 am    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                               |
-| Alerts By Twitch Faq                                     | 20/04/2024, 10:50:58 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=zh_TW)                                      |
 | Supported Browsers                                       | 20/04/2024, 7:06:09 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=zh_TW)                                        |
 | Creator Goals                                            | 19/04/2024, 5:59:04 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                                             |
 | Local Sub Price Countries                                | 18/04/2024, 2:02:45 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                                 |
