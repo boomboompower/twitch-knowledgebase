@@ -159,8 +159,6 @@
 | Ingame Overlay                                     | 14/09/2022, 1:36:33 am    | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=es)                                      |
 | Twitch Chat Badges Guide                           | 24/08/2022, 10:10:08 pm   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es)                            |
 | Mobile Creator Mode                                | 22/08/2022, 8:16:34 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=es)                                 |
-| Subscriber Emote Guide                             | 10/08/2022, 8:02:41 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=es)                              |
-| Scene Importing                                    | 03/08/2022, 5:54:37 am    | [Link](https://help.twitch.tv/s/article/scene-importing?language=es)                                     |
 
 
 
@@ -169,6 +167,7 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Scene Importing                                   | 03/08/2022, 5:54:37 am    | [Link](https://help.twitch.tv/s/article/scene-importing?language=es)                                    |
 | Channel Points Predictions                        | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=es)                         |
 | How To File A Video Playback Issue                | 08/07/2022, 10:40:03 pm   | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=es)                 |
 | Artist Badge Attribution                          | 20/05/2022, 3:31:41 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=es)                           |
@@ -195,7 +194,6 @@
 | Where Are My Notifications                        | 17/02/2022, 9:28:35 pm    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=es)                         |
 | Twitch Studio Creator Goals                       | 17/02/2022, 9:27:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-studio-creator-goals?language=es)                        |
 | List Of Prohibited Games                          | 15/12/2021, 6:51:22 am    | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=es)                           |
-| Adding A Game And Box Art To The Directory        | 10/12/2021, 6:25:54 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=es)         |
 | System Audio Capture Permission                   | 30/11/2021, 5:09:18 am    | [Link](https://help.twitch.tv/s/article/system-audio-capture-permission?language=es)                    |
 | Modified Emotes                                   | 19/11/2021, 5:13:45 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=es)                                    |
 | Default Emotes                                    | 19/11/2021, 5:12:24 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=es)                                     |
@@ -218,6 +216,7 @@
 | How To Link Your Amazon Account                   | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-link-your-amazon-account?language=es)                    |
 | Bits Purchase Troubleshooting                     | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=es)                      |
 | Changes To Subscription Badges And Resub Messages | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages?language=es)  |
+| Twitch Merchandise Store Support Faq              | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=es)               |
 
 
 
@@ -226,7 +225,6 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
-| Twitch Merchandise Store Support Faq             | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=es)              |
 | Guide To Custom Messages                         | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=es)                          |
 | Contacting Purchase Support                      | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=es)                       |
 | Updating Payment Information Transaction History | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=es)  |
@@ -250,17 +248,6 @@
 | Username Rename And Recycling Policies           | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es)            |
 | How To Log In To Twitch With One Click           | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)            |
 | Markdown Basics                                  | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                                   |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Alerts By Twitch            | 04/12/2023, 10:17:03 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=es)             |
-| Stream Together Guest Guide | 27/10/2023, 11:31:03 pm   | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=es)  |
-| Stream Together Host Guide  | 27/10/2023, 11:31:03 pm   | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=es)   |
 
 
 

@@ -104,8 +104,6 @@
 | Alerts By Twitch Css                                          | 26/07/2023, 4:07:25 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=es_MX)                                           |
 | Alerts By Twitch Customization                                | 26/07/2023, 4:07:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=es_MX)                                 |
 | Alerts By Twitch Interactive Resubs                           | 26/07/2023, 4:07:09 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=es_MX)                            |
-| Managing Roles For Your Channel                               | 19/07/2023, 9:13:45 pm    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es_MX)                                |
-| Creating An Account With Twitch                               | 19/07/2023, 9:13:40 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)                                |
 
 
 
@@ -114,6 +112,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Managing Roles For Your Channel                    | 19/07/2023, 9:13:45 pm    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es_MX)                     |
+| Creating An Account With Twitch                    | 19/07/2023, 9:13:40 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)                     |
 | Creating Highlights And Stream Markers             | 18/07/2023, 5:11:27 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=es_MX)              |
 | Lifetime Subscriber Guide For Partners             | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=es_MX)              |
 | Music Options For Streamers                        | 11/07/2023, 2:52:16 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=es_MX)                         |
@@ -159,7 +159,6 @@
 | Ingame Overlay                                     | 15/09/2022, 9:12:33 pm    | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=es_MX)                                      |
 | Twitch Chat Badges Guide                           | 24/08/2022, 3:37:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es_MX)                            |
 | Mobile Creator Mode                                | 22/08/2022, 5:59:03 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=es_MX)                                 |
-| Subscriber Emote Guide                             | 10/08/2022, 8:02:41 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=es_MX)                              |
 
 
 
@@ -186,7 +185,6 @@
 | Twitch Music Fast Start Guide               | 13/01/2022, 9:51:30 am    | [Link](https://help.twitch.tv/s/article/twitch-music-fast-start-guide?language=es_MX)                |
 | Studio Obs Ndi                              | 13/01/2022, 9:50:51 am    | [Link](https://help.twitch.tv/s/article/studio-obs-ndi?language=es_MX)                               |
 | List Of Prohibited Games                    | 15/12/2021, 6:48:31 am    | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=es_MX)                     |
-| Adding A Game And Box Art To The Directory  | 10/12/2021, 6:25:54 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=es_MX)   |
 | System Audio Capture Permission             | 30/11/2021, 5:09:19 am    | [Link](https://help.twitch.tv/s/article/system-audio-capture-permission?language=es_MX)              |
 | Modified Emotes                             | 19/11/2021, 5:13:45 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=es_MX)                              |
 | Default Emotes                              | 19/11/2021, 5:12:24 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=es_MX)                               |
@@ -250,15 +248,6 @@
 | Username Rename And Recycling Policies            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es_MX)             |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name             | Last Updated (dd/mm/yyyy) | Link                                                                      |
-|------------------|---------------------------|---------------------------------------------------------------------------|
-| Alerts By Twitch | 04/12/2023, 9:57:33 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=es_MX)  |
 
 
 

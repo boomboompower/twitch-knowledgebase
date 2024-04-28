@@ -187,7 +187,6 @@
 | Default Emotes                                    | 19/02/2022, 10:07:29 am   | [Link](https://help.twitch.tv/s/article/default-emotes?language=th)                                     |
 | Audio Ads                                         | 19/02/2022, 10:05:52 am   | [Link](https://help.twitch.tv/s/article/audio-ads?language=th)                                          |
 | Studio Ui                                         | 19/02/2022, 10:05:13 am   | [Link](https://help.twitch.tv/s/article/studio-ui?language=th)                                          |
-| Adding A Game And Box Art To The Directory        | 19/02/2022, 10:05:07 am   | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=th)         |
 | Broadcast Guidelines                              | 19/02/2022, 10:04:57 am   | [Link](https://help.twitch.tv/s/article/broadcast-guidelines?language=th)                               |
 | Scene Transitions                                 | 19/02/2022, 10:04:47 am   | [Link](https://help.twitch.tv/s/article/scene-transitions?language=th)                                  |
 | Twitch Music Fast Start Guide                     | 19/02/2022, 10:04:34 am   | [Link](https://help.twitch.tv/s/article/twitch-music-fast-start-guide?language=th)                      |
@@ -223,7 +222,6 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
-| Twitch Merchandise Store Support Faq             | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=th)              |
 | Guide To Custom Messages                         | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=th)                          |
 | Contacting Purchase Support                      | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=th)                       |
 | Updating Payment Information Transaction History | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=th)  |
@@ -242,16 +240,6 @@
 | Username Rename And Recycling Policies           | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=th)            |
 | How To Log In To Twitch With One Click           | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=th)            |
 | Markdown Basics                                  | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=th)                                   |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Stream Together Guest Guide | 01/11/2023, 0:42:38 am    | [Link](https://help.twitch.tv/s/article/stream-together-guest-guide?language=th)  |
-| Stream Together Host Guide  | 01/11/2023, 0:42:34 am    | [Link](https://help.twitch.tv/s/article/stream-together-host-guide?language=th)   |
 
 
 

@@ -159,8 +159,6 @@
 | Ingame Overlay                                     | 15/09/2022, 7:02:34 pm    | [Link](https://help.twitch.tv/s/article/ingame-overlay?language=fr)                                      |
 | Twitch Chat Badges Guide                           | 24/08/2022, 10:05:14 pm   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=fr)                            |
 | Mobile Creator Mode                                | 22/08/2022, 9:17:35 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=fr)                                 |
-| Subscriber Emote Guide                             | 10/08/2022, 8:02:41 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=fr)                              |
-| Scene Importing                                    | 03/08/2022, 5:54:38 am    | [Link](https://help.twitch.tv/s/article/scene-importing?language=fr)                                     |
 
 
 
@@ -169,6 +167,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Scene Importing                             | 03/08/2022, 5:54:38 am    | [Link](https://help.twitch.tv/s/article/scene-importing?language=fr)                              |
 | Channel Points Predictions                  | 30/07/2022, 4:23:37 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=fr)                   |
 | How To File A Video Playback Issue          | 08/07/2022, 6:35:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=fr)           |
 | Artist Badge Attribution                    | 20/05/2022, 3:31:38 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=fr)                     |
@@ -186,7 +185,6 @@
 | Twitch Music Fast Start Guide               | 13/01/2022, 9:51:30 am    | [Link](https://help.twitch.tv/s/article/twitch-music-fast-start-guide?language=fr)                |
 | Studio Obs Ndi                              | 13/01/2022, 9:50:52 am    | [Link](https://help.twitch.tv/s/article/studio-obs-ndi?language=fr)                               |
 | List Of Prohibited Games                    | 15/12/2021, 6:48:31 am    | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=fr)                     |
-| Adding A Game And Box Art To The Directory  | 10/12/2021, 6:25:54 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=fr)   |
 | System Audio Capture Permission             | 30/11/2021, 5:09:18 am    | [Link](https://help.twitch.tv/s/article/system-audio-capture-permission?language=fr)              |
 | Modified Emotes                             | 19/11/2021, 5:13:45 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=fr)                              |
 | Default Emotes                              | 19/11/2021, 5:12:28 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=fr)                               |
@@ -251,15 +249,6 @@
 | Where Are My Notifications                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=fr)                         |
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=fr)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=fr)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name             | Last Updated (dd/mm/yyyy) | Link                                                                   |
-|------------------|---------------------------|------------------------------------------------------------------------|
-| Alerts By Twitch | 05/12/2023, 0:30:38 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=fr)  |
 
 
 
