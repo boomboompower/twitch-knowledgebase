@@ -7,6 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| subpoint-vs-subcount                                          | 01/05/2024, 8:50:02 am  | 25/04/2024, 0:52:15 pm  | [Details](#subpoint-vs-subcount)                                           |
+| affiliates-plus                                               | 01/05/2024, 8:49:42 am  | 25/04/2024, 0:30:57 pm  | [Details](#affiliates-plus)                                                |
+| discovery-feed                                                | 01/05/2024, 2:56:01 am  | 01/05/2024, 2:56:00 am  | [Details](#discovery-feed)                                                 |
 | alerts-by-twitch-faq                                          | 26/04/2024, 9:27:04 pm  | 26/04/2024, 9:27:02 pm  | [Details](#alerts-by-twitch-faq)                                           |
 | adding-a-game-and-box-art-to-the-directory                    | 26/04/2024, 3:57:43 am  | 26/04/2024, 3:54:50 am  | [Details](#adding-a-game-and-box-art-to-the-directory)                     |
 | experiments                                                   | 24/04/2024, 10:03:33 pm | 19/04/2024, 4:05:10 am  | [Details](#experiments)                                                    |
@@ -14,7 +17,6 @@ Language data is not included in the API. All page links will not have a languag
 | recommended-software-for-broadcasting                         | 17/04/2024, 1:30:52 pm  | 17/04/2024, 1:30:49 pm  | [Details](#recommended-software-for-broadcasting)                          |
 | sponsorship-experiments-faq                                   | 13/04/2024, 0:21:24 pm  | 13/04/2024, 0:21:24 pm  | [Details](#sponsorship-experiments-faq)                                    |
 | stream-display-ads                                            | 13/04/2024, 3:36:29 am  | 13/04/2024, 3:36:28 am  | [Details](#stream-display-ads)                                             |
-| affiliates-plus                                               | 03/04/2024, 11:43:42 am | 03/04/2024, 11:42:03 am | [Details](#affiliates-plus)                                                |
 | follower-verification                                         | 29/03/2024, 7:08:28 am  | 13/03/2024, 9:56:49 am  | [Details](#follower-verification)                                          |
 | setup-alerts-by-twitch                                        | 27/03/2024, 9:25:40 pm  | 27/03/2024, 9:25:37 pm  | [Details](#setup-alerts-by-twitch)                                         |
 | content-classification-labels                                 | 27/03/2024, 8:52:53 am  | 27/03/2024, 8:52:52 am  | [Details](#content-classification-labels)                                  |
@@ -28,7 +30,6 @@ Language data is not included in the API. All page links will not have a languag
 | emote-library                                                 | 31/01/2024, 4:36:47 am  | 31/01/2024, 4:36:24 am  | [Details](#emote-library)                                                  |
 | animated-emotes                                               | 31/01/2024, 4:27:29 am  | 09/12/2023, 8:51:11 am  | [Details](#animated-emotes)                                                |
 | twitch-affiliate-program-faq                                  | 25/01/2024, 5:01:06 am  | 18/01/2024, 1:29:39 pm  | [Details](#twitch-affiliate-program-faq)                                   |
-| subpoint-vs-subcount                                          | 23/01/2024, 9:49:03 pm  | 18/01/2024, 9:57:37 am  | [Details](#subpoint-vs-subcount)                                           |
 | gift-card-spend                                               | 18/01/2024, 2:58:19 pm  | 18/01/2024, 2:58:19 pm  | [Details](#gift-card-spend)                                                |
 | managing-your-phone-number                                    | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am | [Details](#managing-your-phone-number)                                     |
 | bits-price-adjustment                                         | 20/12/2023, 11:39:02 pm | 22/11/2023, 10:47:29 am | [Details](#bits-price-adjustment)                                          |
@@ -39,7 +40,6 @@ Language data is not included in the API. All page links will not have a languag
 | emote-guidelines                                              | 09/12/2023, 1:03:09 pm  | 09/12/2023, 8:51:31 am  | [Details](#emote-guidelines)                                               |
 | date-of-birth-changes                                         | 09/12/2023, 3:54:03 am  | 02/12/2023, 10:05:22 am | [Details](#date-of-birth-changes)                                          |
 | first-steps-for-new-affiliates                                | 07/12/2023, 11:01:38 pm | 07/12/2023, 11:01:36 pm | [Details](#first-steps-for-new-affiliates)                                 |
-| discovery-feed                                                | 07/12/2023, 11:01:07 pm | 07/12/2023, 11:01:06 pm | [Details](#discovery-feed)                                                 |
 | 2023-updated-monetized-streamer-agreement                     | 05/12/2023, 2:29:24 pm  | 09/06/2023, 1:09:06 pm  | [Details](#2023-updated-monetized-streamer-agreement)                      |
 | ads-manager                                                   | 05/12/2023, 0:03:36 pm  | 02/12/2023, 11:05:48 am | [Details](#ads-manager)                                                    |
 | stream-together-favorite                                      | 05/12/2023, 4:43:01 am  | 23/11/2023, 8:53:17 am  | [Details](#stream-together-favorite)                                       |
@@ -72,7 +72,6 @@ Language data is not included in the API. All page links will not have a languag
 | first-time-chatter-highlight                                  | 10/10/2023, 10:10:32 pm | 10/10/2023, 10:10:31 pm | [Details](#first-time-chatter-highlight)                                   |
 | transcoding-options-faq                                       | 10/10/2023, 9:58:08 pm  | 10/10/2023, 9:58:07 pm  | [Details](#transcoding-options-faq)                                        |
 | twitch-twitter-twitchsupport-faq                              | 10/10/2023, 9:58:05 pm  | 10/10/2023, 9:58:03 pm  | [Details](#twitch-twitter-twitchsupport-faq)                               |
-| partner-plus-abuse                                            | 26/09/2023, 3:33:33 am  | 26/09/2023, 3:33:31 am  | [Details](#partner-plus-abuse)                                             |
 | mod-view                                                      | 19/09/2023, 10:11:32 pm | 15/09/2023, 8:30:47 am  | [Details](#mod-view)                                                       |
 | affiliate-onboarding-guide                                    | 19/09/2023, 7:23:28 am  | 19/09/2023, 7:22:07 am  | [Details](#affiliate-onboarding-guide)                                     |
 | twitch-studio-faq                                             | 12/09/2023, 8:33:04 pm  | 06/09/2023, 6:19:27 am  | [Details](#twitch-studio-faq)                                              |
@@ -364,15 +363,15 @@ https://help.twitch.tv/s/article/affiliate-settings-guide
 ### affiliates-plus
 https://help.twitch.tv/s/article/affiliates-plus
 
-| Title                                                                  | Last Modified           | Created                  |
-|------------------------------------------------------------------------|-------------------------|--------------------------|
-| Affiliates: How to Track Plus Program Progress                         | 03/04/2024, 11:43:42 am | 03/04/2024, 11:42:03 am  |
-| Affiliates: So verfolgst du den Fortschritt zum Plus-Programm          | 03/04/2024, 11:43:42 am | 03/04/2024, 11:43:42 am  |
-| Affiliati: come monitorare i progressi del programma Plus              | 03/04/2024, 11:43:42 am | 03/04/2024, 11:43:42 am  |
-| Affiliés: Comment suivre la progression du nombre de vos points Plus   | 03/04/2024, 11:43:42 am | 03/04/2024, 11:43:42 am  |
-| Afiliados: Como acompanhar seu progresso no Programa Plus              | 03/04/2024, 11:43:42 am | 03/04/2024, 11:43:42 am  |
-| Afiliados: cómo realizar un seguimiento del progreso del programa Plus | 03/04/2024, 11:43:42 am | 03/04/2024, 11:43:42 am  |
-| Afiliados: Cómo seguir el progreso del programa Partner Plus           | 03/04/2024, 11:43:42 am | 03/04/2024, 11:43:42 am  |
+| Title                                                                  | Last Modified          | Created                 |
+|------------------------------------------------------------------------|------------------------|-------------------------|
+| Affiliates: How to Track Plus Program Progress                         | 01/05/2024, 8:49:42 am | 25/04/2024, 0:30:57 pm  |
+| Affiliates: So verfolgst du den Fortschritt zum Plus-Programm          | 01/05/2024, 8:49:41 am | 25/04/2024, 0:52:00 pm  |
+| Affiliati: come monitorare i progressi del programma Plus              | 01/05/2024, 8:49:41 am | 25/04/2024, 0:52:00 pm  |
+| Affiliés: Comment suivre la progression du nombre de vos points Plus   | 01/05/2024, 8:49:41 am | 25/04/2024, 0:52:00 pm  |
+| Afiliados: Como acompanhar seu progresso no Programa Plus              | 01/05/2024, 8:49:41 am | 25/04/2024, 0:52:00 pm  |
+| Afiliados: cómo realizar un seguimiento del progreso del programa Plus | 01/05/2024, 8:49:41 am | 25/04/2024, 0:52:00 pm  |
+| Afiliados: Cómo seguir el progreso del programa Partner Plus           | 01/05/2024, 8:49:41 am | 25/04/2024, 0:52:00 pm  |
 
 
 ### alerts-by-twitch
@@ -813,9 +812,9 @@ https://help.twitch.tv/s/article/discovery
 ### discovery-feed
 https://help.twitch.tv/s/article/discovery-feed
 
-| Title                            | Last Modified           | Created                  |
-|----------------------------------|-------------------------|--------------------------|
-| Feed de Descoberta (Experimento) | 07/12/2023, 11:01:07 pm | 07/12/2023, 11:01:06 pm  |
+| Title                            | Last Modified          | Created                 |
+|----------------------------------|------------------------|-------------------------|
+| Feed de Descoberta (Experimento) | 01/05/2024, 2:56:01 am | 01/05/2024, 2:56:00 am  |
 
 
 ### dmca-and-copyright-faqs
@@ -1010,6 +1009,7 @@ https://help.twitch.tv/s/article/getting-started-with-amazon-associates
 | Amazon Ortaklarıyla Twitch'te kazanın                              | 22/10/2021, 8:53:07 am | 31/05/2019, 7:41:03 am  |
 | Fatura com o programa Associados Amazon na Twitch                  | 22/10/2021, 8:53:07 am | 31/05/2019, 7:36:49 am  |
 | Gana en Twitch con Amazon Associates                               | 22/10/2021, 8:53:05 am | 31/05/2019, 7:38:46 am  |
+| Ansaitse Twitchissä Amazon-kumppanien avulla                       | 22/10/2021, 8:53:04 am | 31/05/2019, 7:23:57 am  |
 | Gagnez de l'argent sur Twitch avec le programme Partenaires Amazon | 22/10/2021, 8:53:04 am | 31/05/2019, 7:25:10 am  |
 | Ganhe na Twitch com o programa Associado da Amazon                 | 22/10/2021, 8:53:04 am | 31/05/2019, 7:35:41 am  |
 
@@ -1398,14 +1398,6 @@ https://help.twitch.tv/s/article/partner-help-and-contact-information
 | Ajuda a Parceiros e Informações de Contacto | 22/10/2021, 8:53:25 am | 22/01/2020, 1:24:41 am  |
 
 
-### partner-plus-abuse
-https://help.twitch.tv/s/article/partner-plus-abuse
-
-| Title                                                                | Last Modified          | Created                 |
-|----------------------------------------------------------------------|------------------------|-------------------------|
-| Abus des conditions d'admissibilité au programme de Partenariat Plus | 26/09/2023, 3:33:33 am | 26/09/2023, 3:33:31 am  |
-
-
 ### payout-balance-faq
 https://help.twitch.tv/s/article/payout-balance-faq
 
@@ -1677,10 +1669,10 @@ https://help.twitch.tv/s/article/sub-codes
 ### subpoint-vs-subcount
 https://help.twitch.tv/s/article/subpoint-vs-subcount
 
-| Title                                      | Last Modified           | Created                 |
-|--------------------------------------------|-------------------------|-------------------------|
-| Abonelik Puanı, Abone Sayısı ve Plus Puanı | 23/01/2024, 9:49:03 pm  | 18/01/2024, 9:57:37 am  |
-| Abo-Punkte vs. Abozähler vs. Plus-Punkte   | 22/01/2024, 11:23:33 pm | 18/01/2024, 9:57:37 am  |
+| Title                                      | Last Modified          | Created                 |
+|--------------------------------------------|------------------------|-------------------------|
+| Abo-Punkte vs. Abozähler vs. Plus-Punkte   | 01/05/2024, 8:50:02 am | 25/04/2024, 0:52:15 pm  |
+| Abonelik Puanı, Abone Sayısı ve Plus Puanı | 01/05/2024, 8:50:02 am | 01/05/2024, 8:50:01 am  |
 
 
 ### subscriber-badge-guide
