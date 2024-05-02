@@ -7,11 +7,12 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| discovery-feed                                                | 02/05/2024, 5:26:01 am  | 02/05/2024, 5:26:00 am  | [Details](#discovery-feed)                                                 |
+| adding-a-game-and-box-art-to-the-directory                    | 02/05/2024, 0:05:32 am  | 10/12/2021, 6:27:03 am  | [Details](#adding-a-game-and-box-art-to-the-directory)                     |
+| irl-category                                                  | 02/05/2024, 0:00:32 am  | 26/04/2024, 4:02:12 am  | [Details](#irl-category)                                                   |
 | subpoint-vs-subcount                                          | 01/05/2024, 8:50:02 am  | 25/04/2024, 0:52:15 pm  | [Details](#subpoint-vs-subcount)                                           |
 | affiliates-plus                                               | 01/05/2024, 8:49:42 am  | 25/04/2024, 0:30:57 pm  | [Details](#affiliates-plus)                                                |
-| discovery-feed                                                | 01/05/2024, 2:56:01 am  | 01/05/2024, 2:56:00 am  | [Details](#discovery-feed)                                                 |
 | alerts-by-twitch-faq                                          | 26/04/2024, 9:27:04 pm  | 26/04/2024, 9:27:02 pm  | [Details](#alerts-by-twitch-faq)                                           |
-| adding-a-game-and-box-art-to-the-directory                    | 26/04/2024, 3:57:43 am  | 26/04/2024, 3:54:50 am  | [Details](#adding-a-game-and-box-art-to-the-directory)                     |
 | experiments                                                   | 24/04/2024, 10:03:33 pm | 19/04/2024, 4:05:10 am  | [Details](#experiments)                                                    |
 | multiple-encodes                                              | 18/04/2024, 10:37:03 pm | 18/04/2024, 10:37:02 pm | [Details](#multiple-encodes)                                               |
 | recommended-software-for-broadcasting                         | 17/04/2024, 1:30:52 pm  | 17/04/2024, 1:30:49 pm  | [Details](#recommended-software-for-broadcasting)                          |
@@ -87,7 +88,7 @@ Language data is not included in the API. All page links will not have a languag
 | understanding-feedback-updates                                | 26/08/2023, 1:19:37 am  | 18/08/2023, 5:32:20 am  | [Details](#understanding-feedback-updates)                                 |
 | navigating-the-feedback-forum                                 | 26/08/2023, 1:19:34 am  | 18/08/2023, 5:32:44 am  | [Details](#navigating-the-feedback-forum)                                  |
 | tips-on-feedback                                              | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:52 am  | [Details](#tips-on-feedback)                                               |
-| how-to-provide-feedback                                       | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
+| how-to-provide-feedback                                       | 26/08/2023, 1:13:36 am  | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
 | twitch-account-settings                                       | 24/08/2023, 7:52:40 pm  | 17/08/2023, 11:20:05 am | [Details](#twitch-account-settings)                                        |
 | account-hacked                                                | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am | [Details](#account-hacked)                                                 |
 | how-to-appeal-flagged-content                                 | 08/08/2023, 7:32:04 pm  | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
@@ -301,8 +302,8 @@ https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory
 
 | Title                                                     | Last Modified          | Created                 |
 |-----------------------------------------------------------|------------------------|-------------------------|
+| Adicionando um jogo ou uma arte de capa de jogo na Twitch | 02/05/2024, 0:05:32 am | 10/12/2021, 6:27:03 am  |
 | Adding a Game or Game Cover Art to Twitch                 | 26/04/2024, 3:57:43 am | 26/04/2024, 3:54:50 am  |
-| Adicionando um jogo ou uma arte de capa de jogo na Twitch | 26/04/2024, 3:57:43 am | 26/04/2024, 3:57:42 am  |
 | Aggiungere un gioco o la rispettiva copertina su Twitch   | 26/04/2024, 3:57:43 am | 26/04/2024, 3:57:42 am  |
 | Ajouter un jeu ou une couverture de jeu sur Twitch        | 26/04/2024, 3:57:43 am | 26/04/2024, 3:57:42 am  |
 | Ein Spiel oder ein Cover-Artwork zu Twitch hinzufügen     | 26/04/2024, 3:57:43 am | 26/04/2024, 3:57:42 am  |
@@ -407,10 +408,11 @@ https://help.twitch.tv/s/article/alerts-by-twitch-customization
 ### alerts-by-twitch-faq
 https://help.twitch.tv/s/article/alerts-by-twitch-faq
 
-| Title                         | Last Modified          | Created                 |
-|-------------------------------|------------------------|-------------------------|
-| FAQ zu Twitch Alerts          | 26/04/2024, 9:27:04 pm | 26/04/2024, 9:27:02 pm  |
-| FAQ sur les alertes de Twitch | 26/04/2024, 9:05:03 pm | 26/04/2024, 9:05:02 pm  |
+| Title                                    | Last Modified          | Created                 |
+|------------------------------------------|------------------------|-------------------------|
+| FAQ zu Twitch Alerts                     | 26/04/2024, 9:27:04 pm | 26/04/2024, 9:27:02 pm  |
+| FAQ sur les alertes de Twitch            | 26/04/2024, 9:05:03 pm | 26/04/2024, 9:05:02 pm  |
+| Domande frequenti sugli avvisi di Twitch | 26/04/2024, 5:07:12 pm | 26/04/2024, 5:07:02 pm  |
 
 
 ### alerts-by-twitch-interactive-resubs
@@ -814,7 +816,7 @@ https://help.twitch.tv/s/article/discovery-feed
 
 | Title                            | Last Modified          | Created                 |
 |----------------------------------|------------------------|-------------------------|
-| Feed de Descoberta (Experimento) | 01/05/2024, 2:56:01 am | 01/05/2024, 2:56:00 am  |
+| Feed de Descoberta (Experimento) | 02/05/2024, 5:26:01 am | 02/05/2024, 5:26:00 am  |
 
 
 ### dmca-and-copyright-faqs
@@ -1009,7 +1011,6 @@ https://help.twitch.tv/s/article/getting-started-with-amazon-associates
 | Amazon Ortaklarıyla Twitch'te kazanın                              | 22/10/2021, 8:53:07 am | 31/05/2019, 7:41:03 am  |
 | Fatura com o programa Associados Amazon na Twitch                  | 22/10/2021, 8:53:07 am | 31/05/2019, 7:36:49 am  |
 | Gana en Twitch con Amazon Associates                               | 22/10/2021, 8:53:05 am | 31/05/2019, 7:38:46 am  |
-| Ansaitse Twitchissä Amazon-kumppanien avulla                       | 22/10/2021, 8:53:04 am | 31/05/2019, 7:23:57 am  |
 | Gagnez de l'argent sur Twitch avec le programme Partenaires Amazon | 22/10/2021, 8:53:04 am | 31/05/2019, 7:25:10 am  |
 | Ganhe na Twitch com o programa Associado da Amazon                 | 22/10/2021, 8:53:04 am | 31/05/2019, 7:35:41 am  |
 
@@ -1174,10 +1175,9 @@ https://help.twitch.tv/s/article/how-to-link-your-amazon-account
 ### how-to-provide-feedback
 https://help.twitch.tv/s/article/how-to-provide-feedback
 
-| Title                          | Last Modified          | Created                 |
-|--------------------------------|------------------------|-------------------------|
-| Geri bildirim nasıl gönderilir | 26/08/2023, 1:19:32 am | 18/08/2023, 5:31:28 am  |
-| Feedback geben                 | 26/08/2023, 1:13:36 am | 18/08/2023, 5:31:28 am  |
+| Title          | Last Modified          | Created                 |
+|----------------|------------------------|-------------------------|
+| Feedback geben | 26/08/2023, 1:13:36 am | 18/08/2023, 5:31:28 am  |
 
 
 ### how-to-subscribe
@@ -1212,6 +1212,14 @@ https://help.twitch.tv/s/article/hyper-scape
 |---------------------|------------------------|-------------------------|
 | FAQ Hyper Scape     | 22/10/2021, 8:54:26 am | 13/08/2020, 4:50:31 am  |
 | FAQs zu Hyper Scape | 22/10/2021, 8:54:26 am | 12/08/2020, 5:49:15 am  |
+
+
+### irl-category
+https://help.twitch.tv/s/article/irl-category
+
+| Title                                                                 | Last Modified          | Created                 |
+|-----------------------------------------------------------------------|------------------------|-------------------------|
+| A categoria Viagens e atividades ao ar livre agora se chama Vida real | 02/05/2024, 0:00:32 am | 26/04/2024, 4:02:12 am  |
 
 
 ### joining-guest-star
