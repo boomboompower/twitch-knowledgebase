@@ -7,8 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| adding-a-game-and-box-art-to-the-directory                    | 02/05/2024, 10:01:03 pm | 10/12/2021, 6:27:03 am  | [Details](#adding-a-game-and-box-art-to-the-directory)                     |
 | discovery-feed                                                | 02/05/2024, 5:26:01 am  | 02/05/2024, 5:26:00 am  | [Details](#discovery-feed)                                                 |
-| adding-a-game-and-box-art-to-the-directory                    | 02/05/2024, 0:05:32 am  | 10/12/2021, 6:27:03 am  | [Details](#adding-a-game-and-box-art-to-the-directory)                     |
 | irl-category                                                  | 02/05/2024, 0:00:32 am  | 26/04/2024, 4:02:12 am  | [Details](#irl-category)                                                   |
 | subpoint-vs-subcount                                          | 01/05/2024, 8:50:02 am  | 25/04/2024, 0:52:15 pm  | [Details](#subpoint-vs-subcount)                                           |
 | affiliates-plus                                               | 01/05/2024, 8:49:42 am  | 25/04/2024, 0:30:57 pm  | [Details](#affiliates-plus)                                                |
@@ -86,8 +86,8 @@ Language data is not included in the API. All page links will not have a languag
 | moments                                                       | 01/09/2023, 2:59:12 am  | 17/08/2023, 6:58:07 am  | [Details](#moments)                                                        |
 | subtember-2023-faq                                            | 28/08/2023, 4:39:34 pm  | 28/08/2023, 4:39:31 pm  | [Details](#subtember-2023-faq)                                             |
 | understanding-feedback-updates                                | 26/08/2023, 1:19:37 am  | 18/08/2023, 5:32:20 am  | [Details](#understanding-feedback-updates)                                 |
-| navigating-the-feedback-forum                                 | 26/08/2023, 1:19:34 am  | 18/08/2023, 5:32:44 am  | [Details](#navigating-the-feedback-forum)                                  |
 | tips-on-feedback                                              | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:52 am  | [Details](#tips-on-feedback)                                               |
+| navigating-the-feedback-forum                                 | 26/08/2023, 1:14:31 am  | 18/08/2023, 5:32:44 am  | [Details](#navigating-the-feedback-forum)                                  |
 | how-to-provide-feedback                                       | 26/08/2023, 1:13:36 am  | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
 | twitch-account-settings                                       | 24/08/2023, 7:52:40 pm  | 17/08/2023, 11:20:05 am | [Details](#twitch-account-settings)                                        |
 | account-hacked                                                | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am | [Details](#account-hacked)                                                 |
@@ -166,8 +166,8 @@ Language data is not included in the API. All page links will not have a languag
 | purchase-support-faq                                          | 12/11/2021, 7:18:37 am  | 17/06/2021, 1:28:29 am  | [Details](#purchase-support-faq)                                           |
 | one-click-checkout                                            | 02/11/2021, 4:03:46 am  | 21/10/2021, 2:27:56 am  | [Details](#one-click-checkout)                                             |
 | failed-payments                                               | 23/10/2021, 10:41:02 am | 07/10/2021, 10:09:17 am | [Details](#failed-payments)                                                |
+| stream-with-pride                                             | 22/10/2021, 8:54:27 am  | 01/07/2020, 6:27:31 pm  | [Details](#stream-with-pride)                                              |
 | community-meetups-powered-by-twitch                           | 22/10/2021, 8:54:27 am  | 28/02/2019, 9:38:48 am  | [Details](#community-meetups-powered-by-twitch)                            |
-| stream-with-pride                                             | 22/10/2021, 8:54:26 am  | 01/07/2020, 7:18:31 pm  | [Details](#stream-with-pride)                                              |
 | hyper-scape                                                   | 22/10/2021, 8:54:26 am  | 13/08/2020, 4:50:31 am  | [Details](#hyper-scape)                                                    |
 | capturing-sources                                             | 22/10/2021, 8:54:20 am  | 20/10/2020, 5:48:58 am  | [Details](#capturing-sources)                                              |
 | setting-up-alerts                                             | 22/10/2021, 8:54:20 am  | 14/10/2020, 5:23:10 am  | [Details](#setting-up-alerts)                                              |
@@ -300,13 +300,13 @@ https://help.twitch.tv/s/article/ad-offer-faq
 ### adding-a-game-and-box-art-to-the-directory
 https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory
 
-| Title                                                     | Last Modified          | Created                 |
-|-----------------------------------------------------------|------------------------|-------------------------|
-| Adicionando um jogo ou uma arte de capa de jogo na Twitch | 02/05/2024, 0:05:32 am | 10/12/2021, 6:27:03 am  |
-| Adding a Game or Game Cover Art to Twitch                 | 26/04/2024, 3:57:43 am | 26/04/2024, 3:54:50 am  |
-| Aggiungere un gioco o la rispettiva copertina su Twitch   | 26/04/2024, 3:57:43 am | 26/04/2024, 3:57:42 am  |
-| Ajouter un jeu ou une couverture de jeu sur Twitch        | 26/04/2024, 3:57:43 am | 26/04/2024, 3:57:42 am  |
-| Ein Spiel oder ein Cover-Artwork zu Twitch hinzufügen     | 26/04/2024, 3:57:43 am | 26/04/2024, 3:57:42 am  |
+| Title                                                     | Last Modified           | Created                 |
+|-----------------------------------------------------------|-------------------------|-------------------------|
+| Ajouter un jeu ou une couverture de jeu sur Twitch        | 02/05/2024, 10:01:03 pm | 10/12/2021, 6:27:03 am  |
+| Ein Spiel oder ein Cover-Artwork zu Twitch hinzufügen     | 02/05/2024, 6:30:10 pm  | 10/12/2021, 6:27:03 am  |
+| Aggiungere un gioco o la rispettiva copertina su Twitch   | 02/05/2024, 6:17:03 pm  | 10/12/2021, 6:27:03 am  |
+| Adicionando um jogo ou uma arte de capa de jogo na Twitch | 02/05/2024, 0:05:32 am  | 10/12/2021, 6:27:03 am  |
+| Adding a Game or Game Cover Art to Twitch                 | 26/04/2024, 3:57:43 am  | 26/04/2024, 3:54:50 am  |
 
 
 ### ads-incentive-program-getting-started
@@ -1383,7 +1383,6 @@ https://help.twitch.tv/s/article/navigating-the-feedback-forum
 
 | Title                              | Last Modified          | Created                 |
 |------------------------------------|------------------------|-------------------------|
-| Geri Bildirim Forumunda Gezinmek   | 26/08/2023, 1:19:34 am | 18/08/2023, 5:32:44 am  |
 | Explorer les forums de suggestions | 26/08/2023, 1:14:31 am | 18/08/2023, 5:32:44 am  |
 
 
@@ -1634,6 +1633,7 @@ https://help.twitch.tv/s/article/stream-with-pride
 
 | Title                                     | Last Modified          | Created                 |
 |-------------------------------------------|------------------------|-------------------------|
+| Domande frequenti su Streaming con Pride  | 22/10/2021, 8:54:27 am | 01/07/2020, 6:27:31 pm  |
 | FAQ - Streamez avec Pride                 | 22/10/2021, 8:54:26 am | 01/07/2020, 7:18:31 pm  |
 | FAQs sobre o evento Transmita com Orgulho | 22/10/2021, 8:54:26 am | 01/07/2020, 3:41:31 am  |
 
