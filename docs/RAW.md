@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| content-classification-labels                                 | 03/05/2024, 5:03:58 am  | 24/04/2024, 11:29:32 am | [Details](#content-classification-labels)                                  |
 | adding-a-game-and-box-art-to-the-directory                    | 02/05/2024, 10:01:03 pm | 10/12/2021, 6:27:03 am  | [Details](#adding-a-game-and-box-art-to-the-directory)                     |
 | discovery-feed                                                | 02/05/2024, 5:26:01 am  | 02/05/2024, 5:26:00 am  | [Details](#discovery-feed)                                                 |
 | irl-category                                                  | 02/05/2024, 0:00:32 am  | 26/04/2024, 4:02:12 am  | [Details](#irl-category)                                                   |
@@ -20,7 +21,6 @@ Language data is not included in the API. All page links will not have a languag
 | stream-display-ads                                            | 13/04/2024, 3:36:29 am  | 13/04/2024, 3:36:28 am  | [Details](#stream-display-ads)                                             |
 | follower-verification                                         | 29/03/2024, 7:08:28 am  | 13/03/2024, 9:56:49 am  | [Details](#follower-verification)                                          |
 | setup-alerts-by-twitch                                        | 27/03/2024, 9:25:40 pm  | 27/03/2024, 9:25:37 pm  | [Details](#setup-alerts-by-twitch)                                         |
-| content-classification-labels                                 | 27/03/2024, 8:52:53 am  | 27/03/2024, 8:52:52 am  | [Details](#content-classification-labels)                                  |
 | two-factor-authentication                                     | 23/02/2024, 4:01:36 am  | 27/04/2023, 3:57:12 am  | [Details](#two-factor-authentication)                                      |
 | authy-desktop-shutdown                                        | 23/02/2024, 4:00:38 am  | 16/02/2024, 11:11:53 am | [Details](#authy-desktop-shutdown)                                         |
 | digital-services-act-ads                                      | 16/02/2024, 7:48:51 am  | 08/02/2024, 10:39:11 am | [Details](#digital-services-act-ads)                                       |
@@ -705,12 +705,12 @@ https://help.twitch.tv/s/article/contacting-purchase-support
 ### content-classification-labels
 https://help.twitch.tv/s/article/content-classification-labels
 
-| Title                                      | Last Modified          | Created                 |
-|--------------------------------------------|------------------------|-------------------------|
-| Etichette di classificazione dei contenuti | 27/03/2024, 8:52:53 am | 27/03/2024, 8:52:52 am  |
-| Etiquetas de clasificación de contenido    | 27/03/2024, 8:52:53 am | 27/03/2024, 8:52:52 am  |
-| Etiquetas de clasificación de contenido    | 27/03/2024, 8:52:53 am | 27/03/2024, 8:52:52 am  |
-| Etykieta klasyfikacji treści               | 27/03/2024, 8:52:53 am | 27/03/2024, 8:52:52 am  |
+| Title                                      | Last Modified          | Created                  |
+|--------------------------------------------|------------------------|--------------------------|
+| Etichette di classificazione dei contenuti | 03/05/2024, 5:03:58 am | 24/04/2024, 11:29:32 am  |
+| Etiquetas de clasificación de contenido    | 03/05/2024, 5:03:58 am | 24/04/2024, 11:29:32 am  |
+| Etiquetas de clasificación de contenido    | 03/05/2024, 5:03:58 am | 24/04/2024, 11:29:32 am  |
+| Etykieta klasyfikacji treści               | 03/05/2024, 5:03:58 am | 03/05/2024, 5:03:57 am   |
 
 
 ### copyrighted-audio-warnings

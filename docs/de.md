@@ -6,10 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Adding A Game And Box Art To The Directory               | 02/05/2024, 6:30:10 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=de)                |
 | Partner Program Overview                                 | 01/05/2024, 8:50:38 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                  |
 | Subpoint Vs Subcount                                     | 01/05/2024, 8:50:02 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=de)                                      |
 | Alerts By Twitch Faq                                     | 26/04/2024, 9:27:04 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=de)                                      |
-| Adding A Game And Box Art To The Directory               | 26/04/2024, 3:57:43 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=de)                |
 | Experiments                                              | 24/04/2024, 10:09:03 pm   | [Link](https://help.twitch.tv/s/article/experiments?language=de)                                               |
 | Supported Browsers                                       | 20/04/2024, 7:06:09 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=de)                                        |
 | Creator Goals                                            | 18/04/2024, 10:38:06 pm   | [Link](https://help.twitch.tv/s/article/creator-goals?language=de)                                             |
