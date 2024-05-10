@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Local Sub Price Countries                                | 09/05/2024, 1:02:46 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=it)                                 |
 | Adding A Game And Box Art To The Directory               | 02/05/2024, 6:17:03 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=it)                |
 | Partner Program Overview                                 | 01/05/2024, 8:50:39 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=it)                                  |
 | Subpoint Vs Subcount                                     | 01/05/2024, 8:50:03 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=it)                                      |
@@ -13,7 +14,6 @@
 | Experiments                                              | 24/04/2024, 5:07:07 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=it)                                               |
 | Supported Browsers                                       | 20/04/2024, 7:06:09 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=it)                                        |
 | Creator Goals                                            | 19/04/2024, 5:21:34 pm    | [Link](https://help.twitch.tv/s/article/creator-goals?language=it)                                             |
-| Local Sub Price Countries                                | 18/04/2024, 2:02:45 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=it)                                 |
 | Languages On Twitch                                      | 17/04/2024, 1:32:50 pm    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=it)                                       |
 | Recommended Software For Broadcasting                    | 17/04/2024, 1:30:49 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=it)                     |
 | Sponsorship Experiments Faq                              | 13/04/2024, 0:21:24 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=it)                               |

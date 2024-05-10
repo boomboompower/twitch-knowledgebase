@@ -261,6 +261,15 @@
 
 
 
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name             | Last Updated (dd/mm/yyyy) | Link                                                                      |
+|------------------|---------------------------|---------------------------------------------------------------------------|
+| Alerts By Twitch | 29/11/2023, 9:13:51 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=en_US)  |
+
+
+
 ## View-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-view-1.xml) this sitemap
 
@@ -271,6 +280,7 @@
 | TestRedirect                 | 31/12/1899, 10:00:00 am   | [Link](https://help.twitch.tv/s/testRedirect?language=en_US)                  |
 | Twitch Ingest Recommendation | 31/12/1899, 10:00:00 am   | [Link](https://help.twitch.tv/s/twitch-ingest-recommendation?language=en_US)  |
 | Govcontact                   | 31/12/1899, 10:00:00 am   | [Link](https://help.twitch.tv/s/govcontact?language=en_US)                    |
+| Partnerdiscordauth           | 31/12/1899, 10:00:00 am   | [Link](https://help.twitch.tv/s/partnerdiscordauth?language=en_US)            |
 
 
 
