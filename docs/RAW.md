@@ -7,6 +7,11 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| twitch-charity                                                | 14/05/2024, 10:15:52 am | 30/04/2024, 8:46:31 am  | [Details](#twitch-charity)                                                 |
+| twitch-charity-faqs                                           | 14/05/2024, 10:15:49 am | 30/04/2024, 5:44:32 pm  | [Details](#twitch-charity-faqs)                                            |
+| twitch-charity-charities                                      | 14/05/2024, 10:14:42 am | 30/04/2024, 8:38:01 am  | [Details](#twitch-charity-charities)                                       |
+| twitch-charity-viewers                                        | 14/05/2024, 10:14:25 am | 30/04/2024, 8:36:31 am  | [Details](#twitch-charity-viewers)                                         |
+| username-rename-and-recycling-policies                        | 14/05/2024, 8:05:27 am  | 14/05/2024, 8:05:25 am  | [Details](#username-rename-and-recycling-policies)                         |
 | content-classification-labels                                 | 09/05/2024, 5:34:33 pm  | 03/05/2024, 5:06:23 am  | [Details](#content-classification-labels)                                  |
 | adding-a-game-and-box-art-to-the-directory                    | 02/05/2024, 10:01:03 pm | 10/12/2021, 6:27:03 am  | [Details](#adding-a-game-and-box-art-to-the-directory)                     |
 | discovery-feed                                                | 02/05/2024, 5:26:01 am  | 02/05/2024, 5:26:00 am  | [Details](#discovery-feed)                                                 |
@@ -121,10 +126,6 @@ Language data is not included in the API. All page links will not have a languag
 | subscriptions-on-mobile                                       | 21/03/2023, 10:45:28 pm | 15/03/2023, 8:31:43 am  | [Details](#subscriptions-on-mobile)                                        |
 | guide-to-closed-captions                                      | 20/03/2023, 9:12:04 pm  | 20/03/2023, 9:12:01 pm  | [Details](#guide-to-closed-captions)                                       |
 | delete-twitch-account                                         | 14/02/2023, 10:47:36 pm | 14/02/2023, 10:47:33 pm | [Details](#delete-twitch-account)                                          |
-| twitch-charity-viewers                                        | 10/02/2023, 10:04:22 am | 10/02/2023, 10:04:21 am | [Details](#twitch-charity-viewers)                                         |
-| twitch-charity-charities                                      | 10/02/2023, 9:59:18 am  | 10/02/2023, 9:59:17 am  | [Details](#twitch-charity-charities)                                       |
-| twitch-charity                                                | 10/02/2023, 9:59:14 am  | 10/02/2023, 8:21:33 am  | [Details](#twitch-charity)                                                 |
-| twitch-charity-faqs                                           | 10/02/2023, 9:58:52 am  | 10/02/2023, 9:58:51 am  | [Details](#twitch-charity-faqs)                                            |
 | supported-mobile-os                                           | 09/02/2023, 0:22:02 am  | 03/02/2023, 0:01:51 pm  | [Details](#supported-mobile-os)                                            |
 | account-reactivation                                          | 08/02/2023, 10:02:23 am | 08/02/2023, 10:02:05 am | [Details](#account-reactivation)                                           |
 | gift-card                                                     | 27/01/2023, 3:03:45 am  | 06/01/2023, 1:48:07 pm  | [Details](#gift-card)                                                      |
@@ -191,7 +192,6 @@ Language data is not included in the API. All page links will not have a languag
 | amazon-blacksmith                                             | 22/10/2021, 8:53:06 am  | 29/07/2021, 5:03:17 am  | [Details](#amazon-blacksmith)                                              |
 | smart-notification-setting                                    | 22/10/2021, 8:52:24 am  | 05/11/2020, 2:29:40 am  | [Details](#smart-notification-setting)                                     |
 | where-are-my-notifications                                    | 22/10/2021, 8:52:24 am  | 27/04/2021, 11:51:07 pm | [Details](#where-are-my-notifications)                                     |
-| username-rename-and-recycling-policies                        | 22/10/2021, 8:52:23 am  | 21/06/2019, 11:07:07 am | [Details](#username-rename-and-recycling-policies)                         |
 | streamer-notifications-preferences                            | 22/10/2021, 8:52:22 am  | 04/06/2019, 4:48:05 am  | [Details](#streamer-notifications-preferences)                             |
 | subscriber-streams                                            | 30/09/2021, 11:26:49 am | 07/08/2020, 3:27:31 am  | [Details](#subscriber-streams)                                             |
 | ad-experience-experiment                                      | 30/09/2021, 11:26:49 am | 12/09/2020, 5:55:03 am  | [Details](#ad-experience-experiment)                                       |
@@ -1800,33 +1800,33 @@ https://help.twitch.tv/s/article/twitch-affiliate-program-faq
 ### twitch-charity
 https://help.twitch.tv/s/article/twitch-charity
 
-| Title                                    | Last Modified          | Created                 |
-|------------------------------------------|------------------------|-------------------------|
-| Ferramenta Twitch Charity para criadores | 10/02/2023, 9:59:14 am | 10/02/2023, 8:21:33 am  |
+| Title                                    | Last Modified           | Created                 |
+|------------------------------------------|-------------------------|-------------------------|
+| Ferramenta Twitch Charity para criadores | 14/05/2024, 10:15:52 am | 30/04/2024, 8:46:31 am  |
 
 
 ### twitch-charity-charities
 https://help.twitch.tv/s/article/twitch-charity-charities
 
-| Title                                                    | Last Modified          | Created                 |
-|----------------------------------------------------------|------------------------|-------------------------|
-| Ferramenta Twitch Charity para instituições beneficentes | 10/02/2023, 9:59:18 am | 10/02/2023, 9:59:17 am  |
+| Title                                                    | Last Modified           | Created                 |
+|----------------------------------------------------------|-------------------------|-------------------------|
+| Ferramenta Twitch Charity para instituições beneficentes | 14/05/2024, 10:14:42 am | 30/04/2024, 8:38:01 am  |
 
 
 ### twitch-charity-faqs
 https://help.twitch.tv/s/article/twitch-charity-faqs
 
-| Title                          | Last Modified          | Created                 |
-|--------------------------------|------------------------|-------------------------|
-| FAQ - Strumento Twitch charity | 10/02/2023, 9:58:52 am | 10/02/2023, 9:58:51 am  |
+| Title                          | Last Modified           | Created                 |
+|--------------------------------|-------------------------|-------------------------|
+| FAQ - Strumento Twitch charity | 14/05/2024, 10:15:49 am | 30/04/2024, 5:44:32 pm  |
 
 
 ### twitch-charity-viewers
 https://help.twitch.tv/s/article/twitch-charity-viewers
 
-| Title                                       | Last Modified           | Created                  |
-|---------------------------------------------|-------------------------|--------------------------|
-| Ferramenta Twitch Charity para espectadores | 10/02/2023, 10:04:22 am | 10/02/2023, 10:04:21 am  |
+| Title                                       | Last Modified           | Created                 |
+|---------------------------------------------|-------------------------|-------------------------|
+| Ferramenta Twitch Charity para espectadores | 14/05/2024, 10:14:25 am | 30/04/2024, 8:36:31 am  |
 
 
 ### twitch-chat-badges-guide
@@ -1990,9 +1990,9 @@ https://help.twitch.tv/s/article/updating-payment-information-transaction-histor
 ### username-rename-and-recycling-policies
 https://help.twitch.tv/s/article/username-rename-and-recycling-policies
 
-| Title                                                                               | Last Modified          | Created                  |
-|-------------------------------------------------------------------------------------|------------------------|--------------------------|
-| A felhasználónevek megváltoztatására és újbóli felhasználására vonatkozó irányelvek | 22/10/2021, 8:52:23 am | 21/06/2019, 11:07:07 am  |
+| Title                                                                               | Last Modified          | Created                 |
+|-------------------------------------------------------------------------------------|------------------------|-------------------------|
+| A felhasználónevek megváltoztatására és újbóli felhasználására vonatkozó irányelvek | 14/05/2024, 8:05:27 am | 14/05/2024, 8:05:25 am  |
 
 
 ### video-on-demand
