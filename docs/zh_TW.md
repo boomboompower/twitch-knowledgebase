@@ -6,10 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Languages On Twitch                                      | 15/05/2024, 6:03:45 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=zh_TW)                                       |
 | Twitch Charity                                           | 14/05/2024, 10:15:52 am   | [Link](https://help.twitch.tv/s/article/twitch-charity?language=zh_TW)                                            |
 | Twitch Charity Faqs                                      | 14/05/2024, 10:15:49 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=zh_TW)                                       |
 | Twitch Charity Viewers                                   | 14/05/2024, 10:14:25 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=zh_TW)                                    |
-| Languages On Twitch                                      | 14/05/2024, 8:21:41 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=zh_TW)                                       |
 | Username Rename And Recycling Policies                   | 14/05/2024, 8:05:29 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=zh_TW)                    |
 | Local Sub Price Countries                                | 09/05/2024, 1:02:41 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                                 |
 | Adding A Game And Box Art To The Directory               | 02/05/2024, 8:20:35 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=zh_TW)                |
@@ -52,7 +52,6 @@
 | Subscriber Badge Guide                                   | 30/11/2023, 8:20:32 pm    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=zh_TW)                                    |
 | Partner Settings Guide                                   | 30/11/2023, 8:18:33 pm    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=zh_TW)                                    |
 | Nintendo Switch                                          | 10/11/2023, 9:22:09 pm    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=zh_TW)                                           |
-| Follower Emotes                                          | 08/11/2023, 11:26:19 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=zh_TW)                                           |
 
 
 

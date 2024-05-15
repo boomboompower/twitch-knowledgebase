@@ -51,7 +51,6 @@
 | Subscriber Badge Guide                                   | 23/11/2023, 1:30:33 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=en_US)                                    |
 | Affiliate Settings Guide                                 | 10/11/2023, 4:57:14 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=en_US)                                  |
 | Partner Settings Guide                                   | 10/11/2023, 4:57:08 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=en_US)                                    |
-| Follower Emotes                                          | 08/11/2023, 7:30:04 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=en_US)                                           |
 
 
 

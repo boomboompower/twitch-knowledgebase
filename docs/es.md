@@ -6,10 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Languages On Twitch                                      | 15/05/2024, 6:03:48 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es)                                       |
 | Twitch Charity                                           | 14/05/2024, 10:15:52 am   | [Link](https://help.twitch.tv/s/article/twitch-charity?language=es)                                            |
 | Twitch Charity Faqs                                      | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=es)                                       |
 | Twitch Charity Viewers                                   | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=es)                                    |
-| Languages On Twitch                                      | 14/05/2024, 8:21:41 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es)                                       |
 | Username Rename And Recycling Policies                   | 14/05/2024, 8:05:28 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es)                    |
 | Local Sub Price Countries                                | 09/05/2024, 1:02:49 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es)                                 |
 | Partner Program Overview                                 | 01/05/2024, 8:50:39 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                                  |

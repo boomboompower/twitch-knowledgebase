@@ -6,10 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Languages On Twitch                                      | 15/05/2024, 6:03:39 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es_MX)                                       |
 | Twitch Charity                                           | 14/05/2024, 10:15:52 am   | [Link](https://help.twitch.tv/s/article/twitch-charity?language=es_MX)                                            |
 | Twitch Charity Faqs                                      | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=es_MX)                                       |
 | Twitch Charity Viewers                                   | 14/05/2024, 10:14:25 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=es_MX)                                    |
-| Languages On Twitch                                      | 14/05/2024, 8:21:41 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es_MX)                                       |
 | Username Rename And Recycling Policies                   | 14/05/2024, 8:05:28 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es_MX)                    |
 | Local Sub Price Countries                                | 09/05/2024, 1:02:32 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es_MX)                                 |
 | Adding A Game And Box Art To The Directory               | 02/05/2024, 8:50:33 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=es_MX)                |

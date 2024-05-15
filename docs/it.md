@@ -6,10 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Languages On Twitch                                      | 15/05/2024, 6:03:45 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=it)                                       |
 | Twitch Charity                                           | 14/05/2024, 10:15:52 am   | [Link](https://help.twitch.tv/s/article/twitch-charity?language=it)                                            |
 | Twitch Charity Faqs                                      | 14/05/2024, 10:15:49 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=it)                                       |
 | Twitch Charity Viewers                                   | 14/05/2024, 10:14:25 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=it)                                    |
-| Languages On Twitch                                      | 14/05/2024, 8:21:41 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=it)                                       |
 | Username Rename And Recycling Policies                   | 14/05/2024, 8:05:29 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=it)                    |
 | Local Sub Price Countries                                | 09/05/2024, 1:02:46 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=it)                                 |
 | Adding A Game And Box Art To The Directory               | 02/05/2024, 6:17:03 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=it)                |
@@ -52,7 +52,6 @@
 | Subscriber Badge Guide                                   | 30/11/2023, 8:14:11 pm    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=it)                                    |
 | Guide To Cheering With Bits                              | 30/11/2023, 8:14:09 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=it)                               |
 | Nintendo Switch                                          | 10/11/2023, 7:39:35 pm    | [Link](https://help.twitch.tv/s/article/nintendo-switch?language=it)                                           |
-| Follower Emotes                                          | 08/11/2023, 11:26:26 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=it)                                           |
 
 
 
