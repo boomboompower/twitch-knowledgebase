@@ -6,21 +6,22 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Languages On Twitch                                      | 17/05/2024, 7:03:38 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es)                                       |
+| Prime Gaming Revenue Guide                               | 17/05/2024, 6:31:06 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es)                                |
+| Adding A Game And Box Art To The Directory               | 17/05/2024, 3:28:40 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=es)                |
+| Getting Started Twitch Studio                            | 17/05/2024, 3:28:37 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=es)                             |
 | Twitch Studio Faq                                        | 16/05/2024, 3:51:46 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=es)                                         |
-| Getting Started Twitch Studio                            | 16/05/2024, 3:37:03 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=es)                             |
 | Creator Goals                                            | 16/05/2024, 3:18:12 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=es)                                             |
 | Alerts By Twitch Events                                  | 16/05/2024, 3:18:04 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=es)                                   |
 | Recommended Software For Broadcasting                    | 16/05/2024, 2:55:53 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es)                     |
 | Twitch Affiliate Program Faq                             | 16/05/2024, 0:28:54 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                              |
 | Partner Program Overview                                 | 16/05/2024, 0:28:24 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                                  |
-| Languages On Twitch                                      | 15/05/2024, 6:03:48 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es)                                       |
 | Twitch Charity                                           | 14/05/2024, 10:15:52 am   | [Link](https://help.twitch.tv/s/article/twitch-charity?language=es)                                            |
 | Twitch Charity Faqs                                      | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=es)                                       |
 | Twitch Charity Viewers                                   | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=es)                                    |
 | Username Rename And Recycling Policies                   | 14/05/2024, 8:05:28 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es)                    |
 | Local Sub Price Countries                                | 09/05/2024, 1:02:49 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es)                                 |
 | Subpoint Vs Subcount                                     | 01/05/2024, 8:50:03 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=es)                                      |
-| Adding A Game And Box Art To The Directory               | 30/04/2024, 8:55:33 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=es)                |
 | Alerts By Twitch Faq                                     | 26/04/2024, 9:21:42 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=es)                                      |
 | Experiments                                              | 24/04/2024, 6:58:34 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=es)                                               |
 | Supported Browsers                                       | 20/04/2024, 7:06:09 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=es)                                        |
@@ -30,7 +31,6 @@
 | Setup Alerts By Twitch                                   | 27/03/2024, 6:27:04 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=es)                                    |
 | Two Factor Authentication                                | 23/02/2024, 4:01:35 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es)                                 |
 | Authy Faq                                                | 23/02/2024, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=es)                                                 |
-| Prime Gaming Revenue Guide                               | 21/02/2024, 8:33:08 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es)                                |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 15/02/2024, 5:22:56 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=es)  |
 | How To File A User Report                                | 15/02/2024, 5:22:54 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=es)                                 |
 | Emote Slots                                              | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=es)                                               |
@@ -43,6 +43,7 @@
 | How To Manage Harassment In Chat                         | 20/12/2023, 9:21:53 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es)                          |
 | Partner Onboarding Guide                                 | 20/12/2023, 9:21:34 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                                  |
 | Guest Star Getting Started                               | 14/12/2023, 1:05:13 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es)                                |
+| Date Of Birth Changes                                    | 13/12/2023, 1:18:34 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                                     |
 
 
 

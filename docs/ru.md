@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                               | 17/05/2024, 4:37:05 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ru)                                |
 | Creator Goals                                            | 16/05/2024, 3:18:12 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=ru)                                             |
 | Alerts By Twitch Events                                  | 16/05/2024, 3:18:04 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ru)                                   |
 | Twitch Studio Faq                                        | 16/05/2024, 2:57:59 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=ru)                                         |
@@ -30,7 +31,6 @@
 | Setup Alerts By Twitch                                   | 26/03/2024, 9:25:53 am    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=ru)                                    |
 | Two Factor Authentication                                | 23/02/2024, 4:01:36 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ru)                                 |
 | Authy Faq                                                | 23/02/2024, 4:01:17 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=ru)                                                 |
-| Prime Gaming Revenue Guide                               | 16/02/2024, 8:20:56 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ru)                                |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 15/02/2024, 5:22:57 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=ru)  |
 | How To File A User Report                                | 15/02/2024, 5:22:45 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=ru)                                 |
 | Emote Slots                                              | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=ru)                                               |

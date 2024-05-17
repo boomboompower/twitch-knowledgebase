@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Languages On Twitch                                      | 17/05/2024, 7:03:41 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=zh_TW)                                       |
+| Prime Gaming Revenue Guide                               | 17/05/2024, 6:31:35 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                                |
 | Twitch Studio Faq                                        | 16/05/2024, 3:51:37 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=zh_TW)                                         |
 | Getting Started Twitch Studio                            | 16/05/2024, 3:31:46 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=zh_TW)                             |
 | Creator Goals                                            | 16/05/2024, 3:18:12 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                                             |
@@ -13,7 +15,6 @@
 | Recommended Software For Broadcasting                    | 16/05/2024, 2:55:53 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=zh_TW)                     |
 | Twitch Affiliate Program Faq                             | 16/05/2024, 0:28:54 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                              |
 | Partner Program Overview                                 | 16/05/2024, 0:28:25 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                                  |
-| Languages On Twitch                                      | 15/05/2024, 6:03:45 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=zh_TW)                                       |
 | Twitch Charity                                           | 14/05/2024, 10:15:52 am   | [Link](https://help.twitch.tv/s/article/twitch-charity?language=zh_TW)                                            |
 | Twitch Charity Faqs                                      | 14/05/2024, 10:15:49 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=zh_TW)                                       |
 | Twitch Charity Viewers                                   | 14/05/2024, 10:14:25 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=zh_TW)                                    |
@@ -30,7 +31,6 @@
 | Setup Alerts By Twitch                                   | 27/03/2024, 6:58:35 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=zh_TW)                                    |
 | Two Factor Authentication                                | 23/02/2024, 4:01:36 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=zh_TW)                                 |
 | Authy Faq                                                | 23/02/2024, 4:01:18 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=zh_TW)                                                 |
-| Prime Gaming Revenue Guide                               | 21/02/2024, 9:03:02 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                                |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 15/02/2024, 5:22:58 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=zh_TW)  |
 | How To File A User Report                                | 15/02/2024, 5:22:55 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=zh_TW)                                 |
 | Emote Slots                                              | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=zh_TW)                                               |

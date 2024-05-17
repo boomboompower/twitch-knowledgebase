@@ -6,10 +6,10 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Twitch Prime Partner Guide             | 17/05/2024, 4:37:05 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=fi)              |
 | Twitch Studio Faq                      | 16/05/2024, 2:57:59 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=fi)                       |
 | Recommended Software For Broadcasting  | 16/05/2024, 2:55:53 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=fi)   |
 | Username Rename And Recycling Policies | 14/05/2024, 8:05:27 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=fi)  |
-| Twitch Prime Partner Guide             | 16/02/2024, 8:20:56 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=fi)              |
 
 
 

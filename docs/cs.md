@@ -6,10 +6,10 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide             | 17/05/2024, 4:37:05 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=cs)              |
 | Twitch Studio Faq                      | 16/05/2024, 2:57:59 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=cs)                       |
 | Recommended Software For Broadcasting  | 16/05/2024, 2:55:53 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=cs)   |
 | Username Rename And Recycling Policies | 14/05/2024, 8:05:27 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=cs)  |
-| Prime Gaming Revenue Guide             | 16/02/2024, 8:20:56 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=cs)              |
 | Twitch Turbo Guide                     | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=cs)                      |
 
 
