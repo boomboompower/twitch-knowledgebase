@@ -43,6 +43,8 @@
 | How To Use Clips                                         | 20/12/2023, 10:45:46 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ru)                                          |
 | Partner Onboarding Guide                                 | 20/12/2023, 10:45:33 pm   | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ru)                                  |
 | Guest Star Getting Started                               | 14/12/2023, 1:05:14 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ru)                                |
+| Date Of Birth Changes                                    | 12/12/2023, 11:33:33 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ru)                                     |
+| Emote Guidelines                                         | 09/12/2023, 1:03:09 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=ru)                                          |
 
 
 
