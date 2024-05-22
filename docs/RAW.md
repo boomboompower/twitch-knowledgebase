@@ -7,10 +7,10 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| recommended-software-for-broadcasting                         | 22/05/2024, 10:12:06 pm | 16/05/2024, 1:31:59 am  | [Details](#recommended-software-for-broadcasting)                          |
 | Removing-recommendations-you-are-not-interested-in            | 22/05/2024, 2:55:23 am  | 22/05/2024, 2:55:22 am  | [Details](#removing-recommendations-you-are-not-interested-in)             |
 | twitch-studio-faq                                             | 16/05/2024, 3:51:36 am  | 16/05/2024, 1:32:56 am  | [Details](#twitch-studio-faq)                                              |
 | getting-started-twitch-studio                                 | 16/05/2024, 3:31:34 am  | 16/05/2024, 1:32:33 am  | [Details](#getting-started-twitch-studio)                                  |
-| recommended-software-for-broadcasting                         | 16/05/2024, 2:55:53 am  | 16/05/2024, 2:55:52 am  | [Details](#recommended-software-for-broadcasting)                          |
 | twitch-affiliate-program-faq                                  | 16/05/2024, 0:28:54 am  | 14/05/2024, 10:35:17 pm | [Details](#twitch-affiliate-program-faq)                                   |
 | twitch-charity                                                | 14/05/2024, 10:15:52 am | 30/04/2024, 8:46:31 am  | [Details](#twitch-charity)                                                 |
 | twitch-charity-faqs                                           | 14/05/2024, 10:15:49 am | 30/04/2024, 5:44:32 pm  | [Details](#twitch-charity-faqs)                                            |
@@ -1462,10 +1462,10 @@ https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting
 ### recommended-software-for-broadcasting
 https://help.twitch.tv/s/article/recommended-software-for-broadcasting
 
-| Title                            | Last Modified          | Created                 |
-|----------------------------------|------------------------|-------------------------|
-| Anbefalet software til streaming | 16/05/2024, 2:55:53 am | 16/05/2024, 2:55:52 am  |
-| Empfohlene Streaming-Software    | 16/05/2024, 2:55:53 am | 16/05/2024, 2:55:52 am  |
+| Title                            | Last Modified           | Created                 |
+|----------------------------------|-------------------------|-------------------------|
+| Empfohlene Streaming-Software    | 22/05/2024, 10:12:06 pm | 16/05/2024, 1:31:59 am  |
+| Anbefalet software til streaming | 16/05/2024, 2:55:53 am  | 16/05/2024, 2:55:52 am  |
 
 
 ### refunds-on-twitch
