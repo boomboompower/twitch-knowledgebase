@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| Removing-recommendations-you-are-not-interested-in            | 22/05/2024, 2:55:23 am  | 22/05/2024, 2:55:22 am  | [Details](#removing-recommendations-you-are-not-interested-in)             |
 | twitch-studio-faq                                             | 16/05/2024, 3:51:36 am  | 16/05/2024, 1:32:56 am  | [Details](#twitch-studio-faq)                                              |
 | getting-started-twitch-studio                                 | 16/05/2024, 3:31:34 am  | 16/05/2024, 1:32:33 am  | [Details](#getting-started-twitch-studio)                                  |
 | recommended-software-for-broadcasting                         | 16/05/2024, 2:55:53 am  | 16/05/2024, 2:55:52 am  | [Details](#recommended-software-for-broadcasting)                          |
@@ -115,7 +116,6 @@ Language data is not included in the API. All page links will not have a languag
 | engagement                                                    | 23/05/2023, 6:24:07 pm  | 13/05/2023, 6:35:01 am  | [Details](#engagement)                                                     |
 | emote-analytics                                               | 23/05/2023, 6:24:07 pm  | 13/05/2023, 7:37:37 am  | [Details](#emote-analytics)                                                |
 | how-to-find-and-browse-clips                                  | 12/05/2023, 6:55:17 am  | 10/05/2023, 8:48:07 pm  | [Details](#how-to-find-and-browse-clips)                                   |
-| Removing-recommendations-you-are-not-interested-in            | 12/05/2023, 3:46:15 am  | 27/04/2023, 5:42:22 am  | [Details](#removing-recommendations-you-are-not-interested-in)             |
 | guide-to-tags                                                 | 11/05/2023, 8:09:05 pm  | 11/05/2023, 8:09:03 pm  | [Details](#guide-to-tags)                                                  |
 | guest-star-mod-view                                           | 09/05/2023, 7:04:45 am  | 02/05/2023, 5:47:31 am  | [Details](#guest-star-mod-view)                                            |
 | search-with-tags                                              | 05/05/2023, 8:07:09 am  | 05/05/2023, 8:07:08 am  | [Details](#search-with-tags)                                               |
@@ -1490,12 +1490,12 @@ https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested
 
 | Title                                                         | Last Modified          | Created                 |
 |---------------------------------------------------------------|------------------------|-------------------------|
-| Elimina recomendaciones que no te interesen                   | 12/05/2023, 3:46:15 am | 27/04/2023, 5:42:22 am  |
-| Eliminación de recomendaciones que no te interesan            | 12/05/2023, 3:46:15 am | 27/04/2023, 5:42:22 am  |
-| Empfehlungen entfernen, an denen du nicht interessiert bist   | 12/05/2023, 3:46:15 am | 27/04/2023, 5:42:22 am  |
-| Aanbevelingen verwijderen waar je niet in geïnteresseerd bent | 12/05/2023, 3:46:14 am | 12/05/2023, 3:46:11 am  |
-| Empfehlungen entfernen, an denen du nicht interessiert bist   | 12/05/2023, 3:46:14 am | 12/05/2023, 3:46:11 am  |
-| Fjerning av anbefalinger du ikke er interessert i             | 12/05/2023, 3:46:14 am | 12/05/2023, 3:46:11 am  |
+| Aanbevelingen verwijderen waar je niet in geïnteresseerd bent | 22/05/2024, 2:55:23 am | 22/05/2024, 2:55:22 am  |
+| Elimina recomendaciones que no te interesen                   | 22/05/2024, 2:55:23 am | 22/05/2024, 2:55:22 am  |
+| Eliminación de recomendaciones que no te interesan            | 22/05/2024, 2:55:23 am | 22/05/2024, 2:55:22 am  |
+| Empfehlungen entfernen, an denen du nicht interessiert bist   | 22/05/2024, 2:55:23 am | 22/05/2024, 2:55:22 am  |
+| Empfehlungen entfernen, an denen du nicht interessiert bist   | 22/05/2024, 2:55:23 am | 22/05/2024, 2:55:22 am  |
+| Fjerning av anbefalinger du ikke er interessert i             | 22/05/2024, 2:55:23 am | 22/05/2024, 2:55:22 am  |
 
 
 ### requesting-your-data-from-twitch
