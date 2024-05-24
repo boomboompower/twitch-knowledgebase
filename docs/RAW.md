@@ -100,7 +100,7 @@ Language data is not included in the API. All page links will not have a languag
 | account-hacked                                                | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am | [Details](#account-hacked)                                                 |
 | how-to-appeal-flagged-content                                 | 08/08/2023, 7:32:04 pm  | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
 | affiliate-or-partner-anniversary-settings                     | 04/08/2023, 5:14:33 pm  | 04/08/2023, 5:14:31 pm  | [Details](#affiliate-or-partner-anniversary-settings)                      |
-| discovery                                                     | 28/07/2023, 3:26:04 am  | 21/07/2023, 0:21:35 am  | [Details](#discovery)                                                      |
+| discovery                                                     | 28/07/2023, 3:26:04 am  | 14/07/2023, 7:07:58 am  | [Details](#discovery)                                                      |
 | twitch-teams                                                  | 28/07/2023, 3:24:46 am  | 12/07/2023, 9:14:57 am  | [Details](#twitch-teams)                                                   |
 | alerts-by-twitch-css                                          | 26/07/2023, 4:07:25 am  | 26/07/2023, 4:07:25 am  | [Details](#alerts-by-twitch-css)                                           |
 | alerts-by-twitch-customization                                | 26/07/2023, 4:07:21 am  | 26/07/2023, 4:07:20 am  | [Details](#alerts-by-twitch-customization)                                 |
@@ -155,6 +155,7 @@ Language data is not included in the API. All page links will not have a languag
 | artist-badge-attribution                                      | 20/05/2022, 3:31:41 am  | 20/05/2022, 3:31:39 am  | [Details](#artist-badge-attribution)                                       |
 | creating-a-strong-password                                    | 18/05/2022, 0:39:26 am  | 18/05/2022, 0:39:25 am  | [Details](#creating-a-strong-password)                                     |
 | understanding-viewer-count-vs-users-in-chat                   | 29/04/2022, 5:58:35 pm  | 28/04/2022, 9:36:13 am  | [Details](#understanding-viewer-count-vs-users-in-chat)                    |
+| children-on-twitch                                            | 28/04/2022, 10:41:15 pm | 23/04/2022, 2:16:59 am  | [Details](#children-on-twitch)                                             |
 | copyrighted-audio-warnings                                    | 31/03/2022, 3:30:06 am  | 10/03/2022, 5:51:03 am  | [Details](#copyrighted-audio-warnings)                                     |
 | browser-extensions-twitch                                     | 08/03/2022, 11:08:04 pm | 08/03/2022, 11:48:10 am | [Details](#browser-extensions-twitch)                                      |
 | streamer-community-survey                                     | 18/02/2022, 8:19:05 pm  | 18/02/2022, 8:19:02 pm  | [Details](#streamer-community-survey)                                      |
@@ -664,6 +665,14 @@ https://help.twitch.tv/s/article/cheering-experiment-2022
 | Faciliter le Cheering  | 27/10/2022, 11:02:36 am | 27/10/2022, 11:02:35 am  |
 
 
+### children-on-twitch
+https://help.twitch.tv/s/article/children-on-twitch
+
+| Title             | Last Modified           | Created                 |
+|-------------------|-------------------------|-------------------------|
+| Dzieci na Twitchu | 28/04/2022, 10:41:15 pm | 23/04/2022, 2:16:59 am  |
+
+
 ### community-meetups-powered-by-twitch
 https://help.twitch.tv/s/article/community-meetups-powered-by-twitch
 
@@ -792,9 +801,10 @@ https://help.twitch.tv/s/article/disabling-prerolls
 ### discovery
 https://help.twitch.tv/s/article/discovery
 
-| Title     | Last Modified          | Created                 |
-|-----------|------------------------|-------------------------|
-| Entdecken | 28/07/2023, 3:26:04 am | 21/07/2023, 0:21:35 am  |
+| Title      | Last Modified          | Created                 |
+|------------|------------------------|-------------------------|
+| Découverte | 28/07/2023, 3:26:04 am | 14/07/2023, 7:07:58 am  |
+| Entdecken  | 28/07/2023, 3:26:04 am | 21/07/2023, 0:21:35 am  |
 
 
 ### discovery-feed
@@ -1037,6 +1047,7 @@ https://help.twitch.tv/s/article/gift-subscriptions
 | Geschenk-Abonnements   | 12/09/2023, 4:04:21 am | 29/08/2023, 2:44:24 am  |
 | Abonnements offerts    | 12/09/2023, 4:03:29 am | 29/08/2023, 2:44:24 am  |
 | Ajándék feliratkozások | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
+| Dárková předplatná     | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
 | Gave-abonnement        | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
 | Gaveabonnementer       | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
 | Gift Subscriptions     | 08/09/2023, 9:56:46 am | 29/08/2023, 2:00:54 am  |
@@ -1499,9 +1510,6 @@ https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested
 | Title                                                         | Last Modified          | Created                 |
 |---------------------------------------------------------------|------------------------|-------------------------|
 | Aanbevelingen verwijderen waar je niet in geïnteresseerd bent | 22/05/2024, 2:55:23 am | 22/05/2024, 2:55:22 am  |
-| Elimina recomendaciones que no te interesen                   | 22/05/2024, 2:55:23 am | 22/05/2024, 2:55:22 am  |
-| Eliminación de recomendaciones que no te interesan            | 22/05/2024, 2:55:23 am | 22/05/2024, 2:55:22 am  |
-| Empfehlungen entfernen, an denen du nicht interessiert bist   | 22/05/2024, 2:55:23 am | 22/05/2024, 2:55:22 am  |
 | Empfehlungen entfernen, an denen du nicht interessiert bist   | 22/05/2024, 2:55:23 am | 22/05/2024, 2:55:22 am  |
 | Fjerning av anbefalinger du ikke er interessert i             | 22/05/2024, 2:55:23 am | 22/05/2024, 2:55:22 am  |
 
