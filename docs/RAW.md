@@ -40,6 +40,7 @@ Language data is not included in the API. All page links will not have a languag
 | joining-guest-star                                            | 06/02/2024, 3:35:34 am  | 14/10/2023, 1:55:20 pm  | [Details](#joining-guest-star)                                             |
 | emote-library                                                 | 31/01/2024, 4:36:47 am  | 31/01/2024, 4:36:24 am  | [Details](#emote-library)                                                  |
 | animated-emotes                                               | 31/01/2024, 4:27:29 am  | 09/12/2023, 8:51:11 am  | [Details](#animated-emotes)                                                |
+| gift-card-spend                                               | 18/01/2024, 2:58:19 pm  | 18/01/2024, 2:58:19 pm  | [Details](#gift-card-spend)                                                |
 | twitch-turbo-guide                                            | 18/01/2024, 2:49:28 pm  | 18/01/2024, 2:49:27 pm  | [Details](#twitch-turbo-guide)                                             |
 | managing-your-phone-number                                    | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am | [Details](#managing-your-phone-number)                                     |
 | bits-price-adjustment                                         | 20/12/2023, 11:39:02 pm | 22/11/2023, 10:47:29 am | [Details](#bits-price-adjustment)                                          |
@@ -1020,6 +1021,14 @@ https://help.twitch.tv/s/article/gift-card-redeem
 | Einlösen von Twitch-Geschenkgutscheinen | 10/10/2023, 10:14:33 pm | 10/10/2023, 10:14:32 pm  |
 
 
+### gift-card-spend
+https://help.twitch.tv/s/article/gift-card-spend
+
+| Title                              | Last Modified          | Created                 |
+|------------------------------------|------------------------|-------------------------|
+| Dépenser des cartes cadeaux Twitch | 18/01/2024, 2:58:19 pm | 18/01/2024, 2:58:19 pm  |
+
+
 ### gift-subscriptions
 https://help.twitch.tv/s/article/gift-subscriptions
 
@@ -1040,7 +1049,6 @@ https://help.twitch.tv/s/article/gift-subscriptions-for-creators
 |-----------------------------------|-------------------------|--------------------------|
 | Abbonamenti regalo per gli autori | 07/12/2022, 10:47:38 am | 07/12/2022, 10:47:38 am  |
 | Geschenkabos für Creator          | 07/12/2022, 10:47:37 am | 07/12/2022, 10:47:36 am  |
-| Gift Subscriptions For Creators   | 07/12/2022, 4:53:16 am  | 06/12/2022, 10:20:45 am  |
 
 
 ### guest-star
