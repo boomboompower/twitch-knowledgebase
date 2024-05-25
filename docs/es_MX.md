@@ -6,9 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Removing Recommendations You Are Not Interested In       | 24/05/2024, 9:27:03 pm    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=es_MX)        |
 | Recommended Software For Broadcasting                    | 22/05/2024, 9:25:03 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es_MX)                     |
 | Partner Program Overview                                 | 22/05/2024, 9:35:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)                                  |
-| Removing Recommendations You Are Not Interested In       | 22/05/2024, 2:55:23 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=es_MX)        |
 | Languages On Twitch                                      | 17/05/2024, 7:03:33 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es_MX)                                       |
 | Prime Gaming Revenue Guide                               | 17/05/2024, 6:31:27 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)                                |
 | Twitch Studio Faq                                        | 16/05/2024, 3:51:48 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=es_MX)                                         |
@@ -44,7 +44,6 @@
 | How To Manage Harassment In Chat                         | 20/12/2023, 3:24:33 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es_MX)                          |
 | Partner Onboarding Guide                                 | 20/12/2023, 3:24:24 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es_MX)                                  |
 | Guest Star Getting Started                               | 14/12/2023, 1:05:14 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es_MX)                                |
-| Date Of Birth Changes                                    | 13/12/2023, 8:26:03 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                                     |
 
 
 

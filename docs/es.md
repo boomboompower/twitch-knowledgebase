@@ -6,9 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Partner Program Overview                                 | 24/05/2024, 9:45:04 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                                  |
+| Removing Recommendations You Are Not Interested In       | 24/05/2024, 8:43:03 pm    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=es)        |
 | Recommended Software For Broadcasting                    | 22/05/2024, 7:31:05 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es)                     |
-| Partner Program Overview                                 | 22/05/2024, 9:35:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                                  |
-| Removing Recommendations You Are Not Interested In       | 22/05/2024, 2:55:23 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=es)        |
 | Languages On Twitch                                      | 17/05/2024, 7:03:38 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es)                                       |
 | Prime Gaming Revenue Guide                               | 17/05/2024, 6:31:06 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es)                                |
 | Adding A Game And Box Art To The Directory               | 17/05/2024, 3:28:40 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=es)                |
@@ -43,7 +43,6 @@
 | How To Use Clips                                         | 20/12/2023, 9:21:59 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                          |
 | How To Manage Harassment In Chat                         | 20/12/2023, 9:21:53 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es)                          |
 | Partner Onboarding Guide                                 | 20/12/2023, 9:21:34 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                                  |
-| Guest Star Getting Started                               | 14/12/2023, 1:05:13 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es)                                |
 
 
 

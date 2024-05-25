@@ -6,9 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Removing Recommendations You Are Not Interested In       | 24/05/2024, 10:30:33 pm   | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=fr)        |
+| Partner Program Overview                                 | 24/05/2024, 9:39:32 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=fr)                                  |
 | Recommended Software For Broadcasting                    | 22/05/2024, 10:01:04 pm   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=fr)                     |
-| Partner Program Overview                                 | 22/05/2024, 9:35:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=fr)                                  |
-| Removing Recommendations You Are Not Interested In       | 22/05/2024, 2:55:23 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=fr)        |
 | Languages On Twitch                                      | 17/05/2024, 7:03:34 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=fr)                                       |
 | Prime Gaming Revenue Guide                               | 17/05/2024, 6:31:20 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=fr)                                |
 | Twitch Studio Faq                                        | 16/05/2024, 3:51:36 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=fr)                                         |
@@ -44,7 +44,6 @@
 | How To Manage Harassment In Chat                         | 20/12/2023, 11:39:28 pm   | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fr)                          |
 | Partner Onboarding Guide                                 | 20/12/2023, 11:39:13 pm   | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=fr)                                  |
 | Guest Star Getting Started                               | 14/12/2023, 1:26:02 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=fr)                                |
-| Date Of Birth Changes                                    | 13/12/2023, 10:48:33 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=fr)                                     |
 
 
 

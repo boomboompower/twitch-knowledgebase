@@ -44,7 +44,6 @@
 | How To Use Clips                                         | 21/12/2023, 0:37:07 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=th)                                          |
 | Partner Onboarding Guide                                 | 21/12/2023, 0:37:05 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=th)                                  |
 | Guest Star Getting Started                               | 14/12/2023, 2:26:07 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=th)                                |
-| Date Of Birth Changes                                    | 13/12/2023, 11:05:32 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=th)                                     |
 
 
 
