@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| streamer-read-ads                                             | 25/05/2024, 3:15:58 am  | 14/05/2024, 6:50:17 am  | [Details](#streamer-read-ads)                                              |
 | recommended-software-for-broadcasting                         | 22/05/2024, 10:12:06 pm | 16/05/2024, 1:31:59 am  | [Details](#recommended-software-for-broadcasting)                          |
 | Removing-recommendations-you-are-not-interested-in            | 22/05/2024, 2:55:23 am  | 22/05/2024, 2:55:22 am  | [Details](#removing-recommendations-you-are-not-interested-in)             |
 | twitch-studio-faq                                             | 16/05/2024, 3:51:36 am  | 16/05/2024, 1:32:56 am  | [Details](#twitch-studio-faq)                                              |
@@ -47,7 +48,6 @@ Language data is not included in the API. All page links will not have a languag
 | annual-recap                                                  | 17/12/2023, 11:02:07 pm | 17/12/2023, 11:02:05 pm | [Details](#annual-recap)                                                   |
 | bonus-round                                                   | 14/12/2023, 5:01:28 am  | 02/12/2023, 2:17:52 pm  | [Details](#bonus-round)                                                    |
 | guest-star-getting-started                                    | 14/12/2023, 2:06:03 am  | 09/12/2023, 11:42:45 am | [Details](#guest-star-getting-started)                                     |
-| streamer-read-ads                                             | 11/12/2023, 3:26:46 pm  | 11/12/2023, 3:26:44 pm  | [Details](#streamer-read-ads)                                              |
 | emote-guidelines                                              | 09/12/2023, 1:03:09 pm  | 09/12/2023, 8:51:31 am  | [Details](#emote-guidelines)                                               |
 | date-of-birth-changes                                         | 09/12/2023, 3:54:03 am  | 02/12/2023, 10:05:22 am | [Details](#date-of-birth-changes)                                          |
 | first-steps-for-new-affiliates                                | 07/12/2023, 11:01:38 pm | 07/12/2023, 11:01:36 pm | [Details](#first-steps-for-new-affiliates)                                 |
@@ -92,10 +92,10 @@ Language data is not included in the API. All page links will not have a languag
 | research                                                      | 07/09/2023, 4:03:13 am  | 07/09/2023, 4:03:13 am  | [Details](#research)                                                       |
 | moments                                                       | 01/09/2023, 2:59:12 am  | 17/08/2023, 6:58:07 am  | [Details](#moments)                                                        |
 | subtember-2023-faq                                            | 28/08/2023, 4:39:34 pm  | 28/08/2023, 4:39:31 pm  | [Details](#subtember-2023-faq)                                             |
+| understanding-feedback-updates                                | 26/08/2023, 1:19:37 am  | 18/08/2023, 5:32:20 am  | [Details](#understanding-feedback-updates)                                 |
 | navigating-the-feedback-forum                                 | 26/08/2023, 1:19:34 am  | 18/08/2023, 5:32:44 am  | [Details](#navigating-the-feedback-forum)                                  |
 | tips-on-feedback                                              | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:52 am  | [Details](#tips-on-feedback)                                               |
 | how-to-provide-feedback                                       | 26/08/2023, 1:19:32 am  | 18/08/2023, 5:31:28 am  | [Details](#how-to-provide-feedback)                                        |
-| understanding-feedback-updates                                | 26/08/2023, 1:15:05 am  | 18/08/2023, 5:32:20 am  | [Details](#understanding-feedback-updates)                                 |
 | twitch-account-settings                                       | 24/08/2023, 7:52:40 pm  | 17/08/2023, 11:20:05 am | [Details](#twitch-account-settings)                                        |
 | account-hacked                                                | 17/08/2023, 11:14:51 am | 17/08/2023, 11:14:50 am | [Details](#account-hacked)                                                 |
 | how-to-appeal-flagged-content                                 | 08/08/2023, 7:32:04 pm  | 02/08/2023, 3:24:35 am  | [Details](#how-to-appeal-flagged-content)                                  |
@@ -1050,7 +1050,6 @@ https://help.twitch.tv/s/article/gift-subscriptions
 | Dárková předplatná     | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
 | Gave-abonnement        | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
 | Gaveabonnementer       | 08/09/2023, 9:56:46 am | 08/09/2023, 9:56:45 am  |
-| Gift Subscriptions     | 08/09/2023, 9:56:46 am | 29/08/2023, 2:00:54 am  |
 
 
 ### gift-subscriptions-for-creators
@@ -1671,8 +1670,8 @@ https://help.twitch.tv/s/article/streamer-read-ads
 
 | Title                         | Last Modified          | Created                 |
 |-------------------------------|------------------------|-------------------------|
-| Anuncios leídos por streamers | 11/12/2023, 3:26:46 pm | 11/12/2023, 3:26:44 pm  |
-| Annunci letti da streamer     | 11/12/2023, 3:26:39 pm | 11/12/2023, 3:26:38 pm  |
+| Annunci letti da streamer     | 25/05/2024, 3:15:58 am | 14/05/2024, 6:50:17 am  |
+| Anuncios leídos por streamers | 25/05/2024, 3:15:58 am | 14/05/2024, 6:50:17 am  |
 
 
 ### sub-codes
@@ -1941,6 +1940,7 @@ https://help.twitch.tv/s/article/understanding-feedback-updates
 
 | Title                                           | Last Modified          | Created                 |
 |-------------------------------------------------|------------------------|-------------------------|
+| Durum Güncellemelerini Anlamak - SSS            | 26/08/2023, 1:19:37 am | 18/08/2023, 5:32:20 am  |
 | FAQ - Informazioni sugli aggiornamenti di stato | 26/08/2023, 1:15:05 am | 18/08/2023, 5:32:20 am  |
 | FAQ: comprendre les mises à jour de statut      | 26/08/2023, 1:14:37 am | 18/08/2023, 5:32:20 am  |
 
