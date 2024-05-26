@@ -29,17 +29,16 @@
 ## Article-3
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
-| Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
-|----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
-| Account Hacked                                     | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=no)                                      |
-| Twitch Teams                                       | 28/07/2023, 3:24:45 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=no)                                        |
-| Creating An Account With Twitch                    | 11/07/2023, 2:20:34 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=no)                     |
-| Removing Recommendations You Are Not Interested In | 12/05/2023, 3:46:14 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=no)  |
-| Guide To Tags                                      | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=no)                                       |
-| Stream Summary                                     | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=no)                                      |
-| How To Use Host Mode                               | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=no)                                |
-| Chat Commands                                      | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=no)                                       |
-| Channel Page Setup                                 | 28/10/2022, 8:22:51 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=no)                                  |
+| Name                            | Last Updated (dd/mm/yyyy) | Link                                                                                  |
+|---------------------------------|---------------------------|---------------------------------------------------------------------------------------|
+| Account Hacked                  | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=no)                   |
+| Twitch Teams                    | 28/07/2023, 3:24:45 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=no)                     |
+| Creating An Account With Twitch | 11/07/2023, 2:20:34 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=no)  |
+| Guide To Tags                   | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=no)                    |
+| Stream Summary                  | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=no)                   |
+| How To Use Host Mode            | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=no)             |
+| Chat Commands                   | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=no)                    |
+| Channel Page Setup              | 28/10/2022, 8:22:51 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=no)               |
 
 
 
