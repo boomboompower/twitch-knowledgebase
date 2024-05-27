@@ -25,12 +25,12 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Japanese                      | 24/05/2024, 10:46:11 pm   | 201 article(s) | [View](docs/ja.md)     |
 | Norwegian                     | 22/05/2024, 2:55:23 am    | 30 article(s)  | [View](docs/no.md)     |
 | Polish                        | 22/05/2024, 9:35:52 am    | 199 article(s) | [View](docs/pl.md)     |
-| Portuguese (Brazil)           | 24/05/2024, 5:38:03 am    | 201 article(s) | [View](docs/pt_BR.md)  |
+| Portuguese (Brazil)           | 27/05/2024, 2:57:33 am    | 201 article(s) | [View](docs/pt_BR.md)  |
 | Portuguese (Portugal)         | 17/05/2024, 4:37:05 am    | 42 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 16/05/2024, 2:57:59 am    | 3 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 22/05/2024, 9:35:52 am    | 200 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 16/05/2024, 2:57:59 am    | 3 article(s)   | [View](docs/sk.md)     |
-| Spanish                       | 24/05/2024, 9:45:04 pm    | 202 article(s) | [View](docs/es.md)     |
+| Spanish                       | 24/05/2024, 9:45:04 pm    | 201 article(s) | [View](docs/es.md)     |
 | Spanish (Mexico)              | 24/05/2024, 9:27:03 pm    | 202 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 22/05/2024, 2:55:23 am    | 27 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 22/05/2024, 9:35:52 am    | 193 article(s) | [View](docs/th.md)     |
