@@ -6,9 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Partner Program Overview                                 | 27/05/2024, 1:54:33 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                                  |
 | Removing Recommendations You Are Not Interested In       | 24/05/2024, 10:46:11 pm   | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=ja)        |
 | Recommended Software For Broadcasting                    | 22/05/2024, 10:38:34 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ja)                     |
-| Partner Program Overview                                 | 22/05/2024, 9:35:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                                  |
 | Languages On Twitch                                      | 17/05/2024, 7:03:39 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ja)                                       |
 | Prime Gaming Revenue Guide                               | 17/05/2024, 6:31:20 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                                |
 | Twitch Studio Faq                                        | 16/05/2024, 3:51:34 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=ja)                                         |

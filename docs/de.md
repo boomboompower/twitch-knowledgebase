@@ -6,9 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Partner Program Overview                                 | 27/05/2024, 10:28:34 pm   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                  |
 | Removing Recommendations You Are Not Interested In       | 24/05/2024, 6:30:35 pm    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=de)        |
 | Recommended Software For Broadcasting                    | 22/05/2024, 10:12:06 pm   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=de)                     |
-| Partner Program Overview                                 | 22/05/2024, 9:35:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                  |
 | Languages On Twitch                                      | 17/05/2024, 7:03:40 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=de)                                       |
 | Prime Gaming Revenue Guide                               | 17/05/2024, 6:31:15 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=de)                                |
 | Twitch Studio Faq                                        | 16/05/2024, 3:51:34 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=de)                                         |
@@ -241,6 +241,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                | Last Updated (dd/mm/yyyy) | Link                                                                      |
+|---------------------|---------------------------|---------------------------------------------------------------------------|
+| Twitch Charity Faqs | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=de)  |
 
 
 
