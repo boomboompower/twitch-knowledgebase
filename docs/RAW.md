@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| mobile                                                        | 29/05/2024, 3:55:24 am  | 23/05/2024, 10:24:47 am | [Details](#mobile)                                                         |
 | streamer-read-ads                                             | 25/05/2024, 3:15:58 am  | 14/05/2024, 6:50:17 am  | [Details](#streamer-read-ads)                                              |
 | recommended-software-for-broadcasting                         | 22/05/2024, 10:12:06 pm | 16/05/2024, 1:31:59 am  | [Details](#recommended-software-for-broadcasting)                          |
 | Removing-recommendations-you-are-not-interested-in            | 22/05/2024, 2:55:23 am  | 22/05/2024, 2:55:22 am  | [Details](#removing-recommendations-you-are-not-interested-in)             |
@@ -42,7 +43,6 @@ Language data is not included in the API. All page links will not have a languag
 | emote-library                                                 | 31/01/2024, 4:36:47 am  | 31/01/2024, 4:36:24 am  | [Details](#emote-library)                                                  |
 | animated-emotes                                               | 31/01/2024, 4:27:29 am  | 09/12/2023, 8:51:11 am  | [Details](#animated-emotes)                                                |
 | gift-card-spend                                               | 18/01/2024, 2:58:19 pm  | 18/01/2024, 2:58:19 pm  | [Details](#gift-card-spend)                                                |
-| twitch-turbo-guide                                            | 18/01/2024, 2:49:28 pm  | 18/01/2024, 2:49:27 pm  | [Details](#twitch-turbo-guide)                                             |
 | managing-your-phone-number                                    | 09/01/2024, 11:40:44 am | 09/01/2024, 11:40:42 am | [Details](#managing-your-phone-number)                                     |
 | bits-price-adjustment                                         | 20/12/2023, 11:39:02 pm | 22/11/2023, 10:47:29 am | [Details](#bits-price-adjustment)                                          |
 | annual-recap                                                  | 17/12/2023, 11:02:07 pm | 17/12/2023, 11:02:05 pm | [Details](#annual-recap)                                                   |
@@ -177,7 +177,6 @@ Language data is not included in the API. All page links will not have a languag
 | Changes-to-Subscription-Badges-and-Resub-Messages             | 22/10/2021, 8:53:50 am  | 27/02/2019, 3:52:43 pm  | [Details](#changes-to-subscription-badges-and-resub-messages)              |
 | contacting-purchase-support                                   | 22/10/2021, 8:53:50 am  | 21/01/2021, 4:12:45 am  | [Details](#contacting-purchase-support)                                    |
 | twitch-merchandise-store-support-faq                          | 22/10/2021, 8:53:50 am  | 07/08/2020, 3:22:52 am  | [Details](#twitch-merchandise-store-support-faq)                           |
-| guide-to-custom-messages                                      | 22/10/2021, 8:53:50 am  | 27/02/2019, 3:32:32 pm  | [Details](#guide-to-custom-messages)                                       |
 | setting-up-moderation-for-your-twitch-channel                 | 22/10/2021, 8:53:45 am  | 25/09/2021, 2:36:44 am  | [Details](#setting-up-moderation-for-your-twitch-channel)                  |
 | ad-offer-faq                                                  | 22/10/2021, 8:53:25 am  | 26/10/2019, 3:01:56 am  | [Details](#ad-offer-faq)                                                   |
 | partner-help-and-contact-information                          | 22/10/2021, 8:53:25 am  | 22/01/2020, 1:24:41 am  | [Details](#partner-help-and-contact-information)                           |
@@ -312,7 +311,6 @@ https://help.twitch.tv/s/article/ads-incentive-program-getting-started
 | Title                                                 | Last Modified          | Created                 |
 |-------------------------------------------------------|------------------------|-------------------------|
 | Erste Schritte für das Belohnungsprogramm für Werbung | 24/06/2023, 1:26:30 am | 24/06/2023, 1:26:29 am  |
-| Getting Started With the Ads Incentive Program        | 24/06/2023, 1:26:30 am | 24/06/2023, 1:25:45 am  |
 
 
 ### ads-manager
@@ -403,6 +401,7 @@ https://help.twitch.tv/s/article/alerts-by-twitch-customization
 | Title                           | Last Modified          | Created                 |
 |---------------------------------|------------------------|-------------------------|
 | Anpassung von Alerts von Twitch | 26/07/2023, 4:07:21 am | 26/07/2023, 4:07:20 am  |
+| Dostosowanie alertów na Twitchu | 26/07/2023, 4:07:21 am | 26/07/2023, 4:07:20 am  |
 
 
 ### alerts-by-twitch-faq
@@ -747,9 +746,10 @@ https://help.twitch.tv/s/article/custom-bit-badges-guide
 ### date-of-birth-changes
 https://help.twitch.tv/s/article/date-of-birth-changes
 
-| Title                            | Last Modified          | Created                  |
-|----------------------------------|------------------------|--------------------------|
-| Alterações na data de nascimento | 09/12/2023, 3:54:03 am | 02/12/2023, 10:05:22 am  |
+| Title                            | Last Modified           | Created                  |
+|----------------------------------|-------------------------|--------------------------|
+| Alterações na data de nascimento | 09/12/2023, 3:54:03 am  | 02/12/2023, 10:05:22 am  |
+| Doğum tarihi değişikliği         | 08/12/2023, 11:38:03 pm | 02/12/2023, 10:05:22 am  |
 
 
 ### default-emotes
@@ -994,10 +994,9 @@ https://help.twitch.tv/s/article/games-irl-and-music-directories
 ### getting-started-twitch-studio
 https://help.twitch.tv/s/article/getting-started-twitch-studio
 
-| Title                              | Last Modified          | Created                 |
-|------------------------------------|------------------------|-------------------------|
-| Erste Schritte mit Twitch Studio   | 16/05/2024, 3:31:34 am | 16/05/2024, 1:32:33 am  |
-| Getting Started with Twitch Studio | 16/05/2024, 2:57:11 am | 07/05/2024, 3:37:55 am  |
+| Title                            | Last Modified          | Created                 |
+|----------------------------------|------------------------|-------------------------|
+| Erste Schritte mit Twitch Studio | 16/05/2024, 3:31:34 am | 16/05/2024, 1:32:33 am  |
 
 
 ### getting-started-with-amazon-associates
@@ -1112,14 +1111,6 @@ https://help.twitch.tv/s/article/guide-to-closed-captions
 | Altyazı kılavuzu | 20/03/2023, 9:12:04 pm | 20/03/2023, 9:12:01 pm  |
 
 
-### guide-to-custom-messages
-https://help.twitch.tv/s/article/guide-to-custom-messages
-
-| Title                          | Last Modified          | Created                 |
-|--------------------------------|------------------------|-------------------------|
-| Gids voor Aangepaste Berichten | 22/10/2021, 8:53:50 am | 27/02/2019, 3:32:32 pm  |
-
-
 ### guide-to-tags
 https://help.twitch.tv/s/article/guide-to-tags
 
@@ -1128,7 +1119,6 @@ https://help.twitch.tv/s/article/guide-to-tags
 | Ajouter des tags à votre stream         | 11/05/2023, 8:09:05 pm | 11/05/2023, 8:09:03 pm  |
 | Adicionando marcações à sua transmissão | 10/05/2023, 2:15:36 pm | 10/05/2023, 2:15:32 pm  |
 | Adding Tags to Your Stream              | 04/05/2023, 2:37:28 am | 19/04/2023, 8:35:52 am  |
-| Gids voor tags                          | 04/05/2023, 2:37:27 am | 04/05/2023, 2:37:25 am  |
 
 
 ### hindsight-2020
@@ -1239,6 +1229,7 @@ https://help.twitch.tv/s/article/joining-guest-star
 
 | Title                                                      | Last Modified          | Created                 |
 |------------------------------------------------------------|------------------------|-------------------------|
+| Dołączanie do sesji wspólnego streamowania jako gość       | 06/02/2024, 3:35:34 am | 14/10/2023, 1:55:20 pm  |
 | Entrando em uma sessão do Streamando Juntos como convidado | 06/02/2024, 3:35:34 am | 14/10/2023, 1:55:20 pm  |
 | Einer Stream Together-Sitzung als Gast beitreten           | 06/02/2024, 3:35:33 am | 14/10/2023, 1:55:20 pm  |
 
@@ -1343,6 +1334,15 @@ https://help.twitch.tv/s/article/minimum-payout-threshold-countries
 | $50 최소 지급 기준액 국가                       | 15/11/2022, 4:57:48 am | 09/11/2022, 0:19:41 pm  |
 | 50 $ Ödeme Eşiği - Ülkeler             | 15/11/2022, 4:57:48 am | 09/11/2022, 0:19:41 pm  |
 | 50ドルの支払い下限額が適用される国や地域                  | 15/11/2022, 4:57:48 am | 09/11/2022, 0:19:41 pm  |
+
+
+### mobile
+https://help.twitch.tv/s/article/mobile
+
+| Title                                                                   | Last Modified          | Created                  |
+|-------------------------------------------------------------------------|------------------------|--------------------------|
+| Actualización de la aplicación para dispositivos (lanzamiento limitado) | 29/05/2024, 3:55:24 am | 23/05/2024, 10:24:47 am  |
+| Aktualisierung der mobilen App (beschränkte Einführung)                 | 29/05/2024, 3:55:24 am | 23/05/2024, 10:24:47 am  |
 
 
 ### mod-view
@@ -1451,7 +1451,6 @@ https://help.twitch.tv/s/article/picture-by-picture-ads
 |-----------------------------------|------------------------|-------------------------|
 | Anuncios en Imagen junto a imagen | 06/04/2023, 5:50:05 pm | 30/03/2023, 5:03:08 am  |
 | Annunci Picture In Picture        | 06/04/2023, 5:26:34 pm | 30/03/2023, 5:03:08 am  |
-| Anuncios Picture In Picture (PIP) | 05/04/2023, 8:59:05 pm | 30/03/2023, 5:03:08 am  |
 
 
 ### purchase-support-faq
@@ -1613,7 +1612,6 @@ https://help.twitch.tv/s/article/stream-display-ads
 |----------------------------------------|------------------------|-------------------------|
 | Annunci sulla finestra dello streaming | 13/04/2024, 3:36:29 am | 13/04/2024, 3:36:28 am  |
 | Anuncios de stream                     | 13/04/2024, 3:36:29 am | 13/04/2024, 3:36:28 am  |
-| Anuncios mostrados en el stream        | 13/04/2024, 3:36:29 am | 13/04/2024, 3:36:28 am  |
 
 
 ### stream-manager
@@ -1633,6 +1631,7 @@ https://help.twitch.tv/s/article/stream-together-favorite
 
 | Title                                                    | Last Modified          | Created                 |
 |----------------------------------------------------------|------------------------|-------------------------|
+| Dołączanie do transmisji jako ulubiony współpracownik    | 05/12/2023, 4:43:01 am | 23/11/2023, 8:53:17 am  |
 | Entrando em uma transmissão como um colaborador Favorito | 05/12/2023, 4:43:01 am | 23/11/2023, 8:53:17 am  |
 | Favori ortak yayıncı olarak yayına katılma               | 05/12/2023, 4:43:01 am | 23/11/2023, 8:53:17 am  |
 
@@ -1909,14 +1908,6 @@ https://help.twitch.tv/s/article/twitch-teams
 | Equipos de Twitch | 28/07/2023, 3:24:46 am | 12/07/2023, 9:14:57 am  |
 
 
-### twitch-turbo-guide
-https://help.twitch.tv/s/article/twitch-turbo-guide
-
-| Title                  | Last Modified          | Created                 |
-|------------------------|------------------------|-------------------------|
-| Gids voor Twitch Turbo | 18/01/2024, 2:49:28 pm | 18/01/2024, 2:49:27 pm  |
-
-
 ### twitch-twitter-twitchsupport-faq
 https://help.twitch.tv/s/article/twitch-twitter-twitchsupport-faq
 
@@ -2012,6 +2003,7 @@ https://help.twitch.tv/s/article/where-are-my-notifications
 
 | Title                        | Last Modified          | Created                  |
 |------------------------------|------------------------|--------------------------|
+| Dove trovo le mie notifiche? | 22/10/2021, 8:52:24 am | 27/04/2021, 11:51:07 pm  |
 | Gdzie są moje powiadomienia? | 22/10/2021, 8:52:24 am | 27/04/2021, 11:51:07 pm  |
 
 
