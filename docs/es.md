@@ -44,6 +44,7 @@
 | How To Manage Harassment In Chat                         | 20/12/2023, 9:21:53 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es)                          |
 | Partner Onboarding Guide                                 | 20/12/2023, 9:21:34 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                                  |
 | Guest Star Getting Started                               | 14/12/2023, 1:05:13 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es)                                |
+| Date Of Birth Changes                                    | 13/12/2023, 1:18:34 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                                     |
 
 
 
