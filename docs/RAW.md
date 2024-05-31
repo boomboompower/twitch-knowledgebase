@@ -7,6 +7,7 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| content-classification-labels                                 | 31/05/2024, 9:20:03 am  | 31/05/2024, 9:20:02 am  | [Details](#content-classification-labels)                                  |
 | mobile                                                        | 29/05/2024, 3:55:24 am  | 23/05/2024, 10:24:47 am | [Details](#mobile)                                                         |
 | streamer-read-ads                                             | 25/05/2024, 3:15:58 am  | 14/05/2024, 6:50:17 am  | [Details](#streamer-read-ads)                                              |
 | recommended-software-for-broadcasting                         | 22/05/2024, 10:12:06 pm | 16/05/2024, 1:31:59 am  | [Details](#recommended-software-for-broadcasting)                          |
@@ -19,7 +20,6 @@ Language data is not included in the API. All page links will not have a languag
 | twitch-charity-charities                                      | 14/05/2024, 10:14:42 am | 30/04/2024, 8:38:01 am  | [Details](#twitch-charity-charities)                                       |
 | twitch-charity-viewers                                        | 14/05/2024, 10:14:25 am | 30/04/2024, 8:36:31 am  | [Details](#twitch-charity-viewers)                                         |
 | username-rename-and-recycling-policies                        | 14/05/2024, 8:05:27 am  | 14/05/2024, 8:05:25 am  | [Details](#username-rename-and-recycling-policies)                         |
-| content-classification-labels                                 | 09/05/2024, 5:34:33 pm  | 03/05/2024, 5:06:23 am  | [Details](#content-classification-labels)                                  |
 | adding-a-game-and-box-art-to-the-directory                    | 02/05/2024, 10:01:03 pm | 10/12/2021, 6:27:03 am  | [Details](#adding-a-game-and-box-art-to-the-directory)                     |
 | discovery-feed                                                | 02/05/2024, 5:26:01 am  | 02/05/2024, 5:26:00 am  | [Details](#discovery-feed)                                                 |
 | irl-category                                                  | 02/05/2024, 0:00:32 am  | 26/04/2024, 4:02:12 am  | [Details](#irl-category)                                                   |
@@ -696,10 +696,10 @@ https://help.twitch.tv/s/article/content-classification-labels
 
 | Title                                      | Last Modified          | Created                 |
 |--------------------------------------------|------------------------|-------------------------|
-| Etichette di classificazione dei contenuti | 09/05/2024, 5:34:33 pm | 03/05/2024, 5:06:23 am  |
-| Etiquetas de clasificación de contenido    | 09/05/2024, 4:46:04 pm | 03/05/2024, 5:06:23 am  |
-| Etiquetas de clasificación de contenido    | 09/05/2024, 0:27:34 am | 03/05/2024, 5:06:23 am  |
-| Etykieta klasyfikacji treści               | 03/05/2024, 5:03:58 am | 03/05/2024, 5:03:57 am  |
+| Etichette di classificazione dei contenuti | 31/05/2024, 9:20:03 am | 31/05/2024, 9:20:02 am  |
+| Etiquetas de clasificación de contenido    | 31/05/2024, 9:20:03 am | 31/05/2024, 9:20:02 am  |
+| Etiquetas de clasificación de contenido    | 31/05/2024, 9:20:03 am | 31/05/2024, 9:20:02 am  |
+| Etykieta klasyfikacji treści               | 31/05/2024, 9:20:03 am | 31/05/2024, 9:20:02 am  |
 
 
 ### copyrighted-audio-warnings
