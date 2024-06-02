@@ -52,6 +52,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Date Of Birth Changes                                         | 13/12/2023, 1:18:34 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                                          |
 | Emote Guidelines                                              | 09/12/2023, 1:03:07 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es)                                               |
 | First Steps For New Affiliates                                | 07/12/2023, 11:02:03 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=es)                                 |
 | Ads Manager                                                   | 05/12/2023, 0:03:34 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=es)                                                    |
@@ -239,15 +240,6 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                | Last Updated (dd/mm/yyyy) | Link                                                                      |
-|---------------------|---------------------------|---------------------------------------------------------------------------|
-| Twitch Charity Faqs | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=es)  |
 
 
 

@@ -97,7 +97,6 @@
 | How To Provide Feedback                                       | 26/08/2023, 1:13:36 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=de)                                        |
 | Understanding Feedback Updates                                | 26/08/2023, 1:13:34 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=de)                                 |
 | Navigating The Feedback Forum                                 | 26/08/2023, 1:13:34 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=de)                                  |
-| Account Hacked                                                | 24/08/2023, 7:56:08 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=de)                                                 |
 
 
 
@@ -106,6 +105,7 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Account Hacked                         | 24/08/2023, 7:56:08 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=de)                          |
 | Twitch Account Settings                | 24/08/2023, 7:56:06 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=de)                 |
 | Patch Notes 20                         | 19/08/2023, 6:03:29 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=de)                          |
 | How To Appeal Flagged Content          | 09/08/2023, 6:31:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=de)           |
@@ -241,15 +241,6 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                | Last Updated (dd/mm/yyyy) | Link                                                                      |
-|---------------------|---------------------------|---------------------------------------------------------------------------|
-| Twitch Charity Faqs | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=de)  |
 
 
 
