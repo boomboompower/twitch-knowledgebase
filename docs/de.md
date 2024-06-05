@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Local Sub Price Countries                                | 05/06/2024, 3:00:05 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=de)                                 |
 | Partner Program Overview                                 | 27/05/2024, 10:28:34 pm   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                  |
 | Removing Recommendations You Are Not Interested In       | 24/05/2024, 6:30:35 pm    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=de)        |
 | Recommended Software For Broadcasting                    | 22/05/2024, 10:12:06 pm   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=de)                     |
@@ -20,7 +21,6 @@
 | Twitch Charity Faqs                                      | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=de)                                       |
 | Twitch Charity Viewers                                   | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=de)                                    |
 | Username Rename And Recycling Policies                   | 14/05/2024, 8:05:28 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=de)                    |
-| Local Sub Price Countries                                | 09/05/2024, 1:02:32 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=de)                                 |
 | Adding A Game And Box Art To The Directory               | 02/05/2024, 6:30:10 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=de)                |
 | Subpoint Vs Subcount                                     | 01/05/2024, 8:50:02 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=de)                                      |
 | Alerts By Twitch Faq                                     | 26/04/2024, 9:27:04 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=de)                                      |
@@ -241,6 +241,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                | Last Updated (dd/mm/yyyy) | Link                                                                      |
+|---------------------|---------------------------|---------------------------------------------------------------------------|
+| Twitch Charity Faqs | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=de)  |
 
 
 

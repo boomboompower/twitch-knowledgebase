@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Local Sub Price Countries                                | 05/06/2024, 3:00:05 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                                 |
 | Twitch Cares Mental Health Support Information           | 01/06/2024, 10:36:30 am   | [Link](https://help.twitch.tv/s/article/twitch-cares-mental-health-support-information?language=en_US)            |
 | Partner Program Overview                                 | 22/05/2024, 9:35:53 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=en_US)                                  |
 | How To Customize Content                                 | 22/05/2024, 2:55:24 am    | [Link](https://help.twitch.tv/s/article/how-to-customize-content?language=en_US)                                  |
@@ -26,7 +27,6 @@
 | Alerts By Twitch Faq                                     | 20/04/2024, 10:50:58 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=en_US)                                      |
 | Supported Browsers                                       | 20/04/2024, 7:06:09 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=en_US)                                        |
 | Experiments                                              | 18/04/2024, 3:49:06 pm    | [Link](https://help.twitch.tv/s/article/experiments?language=en_US)                                               |
-| Local Sub Price Countries                                | 17/04/2024, 11:52:27 am   | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                                 |
 | Sponsorship Experiments Faq                              | 13/04/2024, 0:21:25 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=en_US)                               |
 | Stream Display Ads                                       | 13/04/2024, 3:36:31 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                                        |
 | Twitch Music Getting Started                             | 27/03/2024, 10:26:09 am   | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=en_US)                              |
@@ -249,6 +249,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                | Last Updated (dd/mm/yyyy) | Link                                                                         |
+|---------------------|---------------------------|------------------------------------------------------------------------------|
+| Twitch Charity Faqs | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=en_US)  |
 
 
 
