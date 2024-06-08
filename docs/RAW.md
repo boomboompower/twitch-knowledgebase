@@ -7,10 +7,11 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| recommended-software-for-broadcasting                         | 08/06/2024, 9:42:28 am  | 08/06/2024, 9:42:27 am  | [Details](#recommended-software-for-broadcasting)                          |
+| twitch-cares-mental-health-support-information                | 08/06/2024, 2:22:33 am  | 01/06/2024, 10:36:36 am | [Details](#twitch-cares-mental-health-support-information)                 |
 | content-classification-labels                                 | 31/05/2024, 9:20:03 am  | 31/05/2024, 9:20:02 am  | [Details](#content-classification-labels)                                  |
 | mobile                                                        | 29/05/2024, 3:55:24 am  | 23/05/2024, 10:24:47 am | [Details](#mobile)                                                         |
 | streamer-read-ads                                             | 25/05/2024, 3:15:58 am  | 14/05/2024, 6:50:17 am  | [Details](#streamer-read-ads)                                              |
-| recommended-software-for-broadcasting                         | 22/05/2024, 10:12:06 pm | 16/05/2024, 1:31:59 am  | [Details](#recommended-software-for-broadcasting)                          |
 | Removing-recommendations-you-are-not-interested-in            | 22/05/2024, 2:55:23 am  | 22/05/2024, 2:55:22 am  | [Details](#removing-recommendations-you-are-not-interested-in)             |
 | twitch-studio-faq                                             | 16/05/2024, 3:51:36 am  | 16/05/2024, 1:32:56 am  | [Details](#twitch-studio-faq)                                              |
 | getting-started-twitch-studio                                 | 16/05/2024, 3:31:34 am  | 16/05/2024, 1:32:33 am  | [Details](#getting-started-twitch-studio)                                  |
@@ -1080,11 +1081,10 @@ https://help.twitch.tv/s/article/guest-star-faqs
 ### guest-star-getting-started
 https://help.twitch.tv/s/article/guest-star-getting-started
 
-| Title                                | Last Modified          | Created                  |
-|--------------------------------------|------------------------|--------------------------|
-| Erste Schritte mit Stream Together   | 14/12/2023, 2:06:03 am | 09/12/2023, 11:42:45 am  |
-| Empezar a usar Streamear juntos      | 14/12/2023, 1:05:13 am | 09/12/2023, 11:42:45 am  |
-| Getting Started with Stream Together | 14/12/2023, 1:05:13 am | 09/12/2023, 11:30:18 am  |
+| Title                              | Last Modified          | Created                  |
+|------------------------------------|------------------------|--------------------------|
+| Erste Schritte mit Stream Together | 14/12/2023, 2:06:03 am | 09/12/2023, 11:42:45 am  |
+| Empezar a usar Streamear juntos    | 14/12/2023, 1:05:13 am | 09/12/2023, 11:42:45 am  |
 
 
 ### guest-star-mod-view
@@ -1479,10 +1479,11 @@ https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting
 ### recommended-software-for-broadcasting
 https://help.twitch.tv/s/article/recommended-software-for-broadcasting
 
-| Title                            | Last Modified           | Created                 |
-|----------------------------------|-------------------------|-------------------------|
-| Empfohlene Streaming-Software    | 22/05/2024, 10:12:06 pm | 16/05/2024, 1:31:59 am  |
-| Anbefalet software til streaming | 16/05/2024, 2:55:53 am  | 16/05/2024, 2:55:52 am  |
+| Title                              | Last Modified          | Created                 |
+|------------------------------------|------------------------|-------------------------|
+| Anbefalet software til streaming   | 08/06/2024, 9:42:28 am | 08/06/2024, 9:42:27 am  |
+| Doporučený software pro vysílající | 08/06/2024, 9:42:28 am | 08/06/2024, 9:42:27 am  |
+| Empfohlene Streaming-Software      | 08/06/2024, 9:42:28 am | 08/06/2024, 9:42:27 am  |
 
 
 ### refunds-on-twitch
@@ -1667,10 +1668,9 @@ https://help.twitch.tv/s/article/streamer-notifications-preferences
 ### streamer-read-ads
 https://help.twitch.tv/s/article/streamer-read-ads
 
-| Title                         | Last Modified          | Created                 |
-|-------------------------------|------------------------|-------------------------|
-| Annunci letti da streamer     | 25/05/2024, 3:15:58 am | 14/05/2024, 6:50:17 am  |
-| Anuncios leídos por streamers | 25/05/2024, 3:15:58 am | 14/05/2024, 6:50:17 am  |
+| Title                     | Last Modified          | Created                 |
+|---------------------------|------------------------|-------------------------|
+| Annunci letti da streamer | 25/05/2024, 3:15:58 am | 14/05/2024, 6:50:17 am  |
 
 
 ### sub-codes
@@ -1792,6 +1792,14 @@ https://help.twitch.tv/s/article/twitch-affiliate-program-faq
 | Title                              | Last Modified          | Created                  |
 |------------------------------------|------------------------|--------------------------|
 | FAQ programme d'affiliation Twitch | 16/05/2024, 0:28:54 am | 14/05/2024, 10:35:17 pm  |
+
+
+### twitch-cares-mental-health-support-information
+https://help.twitch.tv/s/article/twitch-cares-mental-health-support-information
+
+| Title                                                        | Last Modified          | Created                  |
+|--------------------------------------------------------------|------------------------|--------------------------|
+| A Twitch le importas: apoyo e información sobre salud mental | 08/06/2024, 2:22:33 am | 01/06/2024, 10:36:36 am  |
 
 
 ### twitch-charity
