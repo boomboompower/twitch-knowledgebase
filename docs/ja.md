@@ -50,6 +50,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Partner Onboarding Guide                                      | 20/12/2023, 4:28:55 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ja)                                       |
+| How To Use Clips                                              | 20/12/2023, 4:28:40 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                               |
+| Guest Star Getting Started                                    | 14/12/2023, 1:05:14 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ja)                                     |
+| Date Of Birth Changes                                         | 13/12/2023, 3:05:04 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                                          |
 | Emote Guidelines                                              | 09/12/2023, 1:02:54 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=ja)                                               |
 | First Steps For New Affiliates                                | 07/12/2023, 11:01:38 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=ja)                                 |
 | Ads Manager                                                   | 05/12/2023, 0:03:34 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ja)                                                    |
@@ -83,7 +87,6 @@
 | Hindsight 2020                                                | 12/09/2023, 6:27:07 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=ja)                                                 |
 | Channel Points Faq                                            | 12/09/2023, 6:26:45 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ja)                                             |
 | Guest Star Audio                                              | 12/09/2023, 6:23:44 am    | [Link](https://help.twitch.tv/s/article/guest-star-audio?language=ja)                                               |
-| How To Use Raids                                              | 12/09/2023, 6:17:29 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ja)                                               |
 | Stream Summary                                                | 12/09/2023, 6:16:36 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ja)                                                 |
 | Subscription Cancellation Reasons                             | 12/09/2023, 6:14:31 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ja)                              |
 | Disconnect Protection                                         | 12/09/2023, 6:13:21 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=ja)                                          |
@@ -141,7 +144,6 @@
 | Guest Request To Join                  | 18/01/2023, 4:05:10 am    | [Link](https://help.twitch.tv/s/article/guest-request-to-join?language=ja)                   |
 | Twitch Mobile App Update               | 16/01/2023, 6:12:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=ja)                |
 | Live Viewer Feedback                   | 10/12/2022, 8:46:51 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=ja)                    |
-| Chat Commands                          | 18/11/2022, 5:05:37 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=ja)                           |
 | How To Use Extensions                  | 04/11/2022, 9:03:38 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=ja)                   |
 | Xbox Promotion 2022                    | 02/11/2022, 3:54:03 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=ja)                     |
 | Request To Join                        | 01/11/2022, 0:05:37 pm    | [Link](https://help.twitch.tv/s/article/request-to-join?language=ja)                         |
@@ -207,7 +209,6 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
-| Bits Purchase Troubleshooting                     | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=ja)                      |
 | Changes To Subscription Badges And Resub Messages | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages?language=ja)  |
 | Twitch Merchandise Store Support Faq              | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=ja)               |
 | Guide To Custom Messages                          | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=ja)                           |
@@ -236,19 +237,6 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                |
-|-------------------------------|---------------------------|-------------------------------------------------------------------------------------|
-| Getting Started Twitch Studio | 16/05/2024, 3:31:46 am    | [Link](https://help.twitch.tv/s/article/getting-started-twitch-studio?language=ja)  |
-| Twitch Charity                | 14/05/2024, 10:15:52 am   | [Link](https://help.twitch.tv/s/article/twitch-charity?language=ja)                 |
-| Twitch Charity Faqs           | 14/05/2024, 10:15:49 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=ja)            |
-| Twitch Charity Viewers        | 14/05/2024, 10:14:25 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=ja)         |
-| Subpoint Vs Subcount          | 01/05/2024, 8:50:03 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ja)           |
 
 
 

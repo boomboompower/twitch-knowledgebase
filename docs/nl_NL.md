@@ -24,7 +24,6 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
-| How To Manage Harassment In Chat                              | 23/11/2023, 8:05:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=nl_NL)                               |
 | Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=nl_NL)                             |
 | Gift Subscriptions                                            | 08/09/2023, 9:56:46 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=nl_NL)                                             |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/09/2023, 1:58:09 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=nl_NL)  |
@@ -43,7 +42,6 @@
 | Guide To Tags                          | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=nl_NL)                           |
 | Stream Summary                         | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=nl_NL)                          |
 | How To Use Host Mode                   | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=nl_NL)                    |
-| Chat Commands                          | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=nl_NL)                           |
 | Channel Page Setup                     | 28/10/2022, 8:22:51 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=nl_NL)                      |
 
 

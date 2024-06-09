@@ -17,7 +17,6 @@
 | Name           | Last Updated (dd/mm/yyyy) | Link                                                                 |
 |----------------|---------------------------|----------------------------------------------------------------------|
 | Account Hacked | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=bg)  |
-| Chat Commands  | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=bg)   |
 
 
 

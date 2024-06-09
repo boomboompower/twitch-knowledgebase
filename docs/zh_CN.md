@@ -28,7 +28,6 @@
 |----------------------|---------------------------|-------------------------------------------------------------------------------|
 | Account Hacked       | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=zh_CN)        |
 | How To Use Host Mode | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=zh_CN)  |
-| Chat Commands        | 18/11/2022, 1:36:54 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_CN)         |
 
 
 
