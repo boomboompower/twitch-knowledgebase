@@ -7,8 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| twitch-cares-mental-health-support-information                | 10/06/2024, 8:52:33 pm  | 01/06/2024, 10:36:36 am | [Details](#twitch-cares-mental-health-support-information)                 |
 | recommended-software-for-broadcasting                         | 08/06/2024, 9:42:28 am  | 08/06/2024, 9:42:27 am  | [Details](#recommended-software-for-broadcasting)                          |
-| twitch-cares-mental-health-support-information                | 08/06/2024, 2:22:33 am  | 01/06/2024, 10:36:36 am | [Details](#twitch-cares-mental-health-support-information)                 |
 | content-classification-labels                                 | 31/05/2024, 9:20:03 am  | 31/05/2024, 9:20:02 am  | [Details](#content-classification-labels)                                  |
 | mobile                                                        | 29/05/2024, 3:55:24 am  | 23/05/2024, 10:24:47 am | [Details](#mobile)                                                         |
 | streamer-read-ads                                             | 25/05/2024, 3:15:58 am  | 14/05/2024, 6:50:17 am  | [Details](#streamer-read-ads)                                              |
@@ -1007,7 +1007,6 @@ https://help.twitch.tv/s/article/getting-started-with-amazon-associates
 |--------------------------------------------------------------------|------------------------|-------------------------|
 | Amazon Ortaklarıyla Twitch'te kazanın                              | 22/10/2021, 8:53:07 am | 31/05/2019, 7:41:03 am  |
 | Fatura com o programa Associados Amazon na Twitch                  | 22/10/2021, 8:53:07 am | 31/05/2019, 7:36:49 am  |
-| Getting Started with Amazon Associates                             | 22/10/2021, 8:53:06 am | 07/12/2018, 0:37:12 pm  |
 | Gana en Twitch con Amazon Associates                               | 22/10/2021, 8:53:05 am | 31/05/2019, 7:38:46 am  |
 | Ansaitse Twitchissä Amazon-kumppanien avulla                       | 22/10/2021, 8:53:04 am | 31/05/2019, 7:23:57 am  |
 | Gagnez de l'argent sur Twitch avec le programme Partenaires Amazon | 22/10/2021, 8:53:04 am | 31/05/2019, 7:25:10 am  |
@@ -1799,6 +1798,7 @@ https://help.twitch.tv/s/article/twitch-cares-mental-health-support-information
 
 | Title                                                        | Last Modified          | Created                  |
 |--------------------------------------------------------------|------------------------|--------------------------|
+| Eres importante: apoyo e información sobre la salud mental   | 10/06/2024, 8:52:33 pm | 01/06/2024, 10:36:36 am  |
 | A Twitch le importas: apoyo e información sobre salud mental | 08/06/2024, 2:22:33 am | 01/06/2024, 10:36:36 am  |
 
 
