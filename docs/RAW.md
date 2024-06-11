@@ -7,8 +7,8 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| recommended-software-for-broadcasting                         | 10/06/2024, 11:35:12 pm | 08/06/2024, 8:12:24 am  | [Details](#recommended-software-for-broadcasting)                          |
 | twitch-cares-mental-health-support-information                | 10/06/2024, 8:52:33 pm  | 01/06/2024, 10:36:36 am | [Details](#twitch-cares-mental-health-support-information)                 |
-| recommended-software-for-broadcasting                         | 08/06/2024, 9:42:28 am  | 08/06/2024, 9:42:27 am  | [Details](#recommended-software-for-broadcasting)                          |
 | content-classification-labels                                 | 31/05/2024, 9:20:03 am  | 31/05/2024, 9:20:02 am  | [Details](#content-classification-labels)                                  |
 | mobile                                                        | 29/05/2024, 3:55:24 am  | 23/05/2024, 10:24:47 am | [Details](#mobile)                                                         |
 | streamer-read-ads                                             | 25/05/2024, 3:15:58 am  | 14/05/2024, 6:50:17 am  | [Details](#streamer-read-ads)                                              |
@@ -1478,11 +1478,11 @@ https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting
 ### recommended-software-for-broadcasting
 https://help.twitch.tv/s/article/recommended-software-for-broadcasting
 
-| Title                              | Last Modified          | Created                 |
-|------------------------------------|------------------------|-------------------------|
-| Anbefalet software til streaming   | 08/06/2024, 9:42:28 am | 08/06/2024, 9:42:27 am  |
-| Doporučený software pro vysílající | 08/06/2024, 9:42:28 am | 08/06/2024, 9:42:27 am  |
-| Empfohlene Streaming-Software      | 08/06/2024, 9:42:28 am | 08/06/2024, 9:42:27 am  |
+| Title                              | Last Modified           | Created                 |
+|------------------------------------|-------------------------|-------------------------|
+| Empfohlene Streaming-Software      | 10/06/2024, 11:35:12 pm | 08/06/2024, 8:12:24 am  |
+| Anbefalet software til streaming   | 08/06/2024, 9:42:28 am  | 08/06/2024, 9:42:27 am  |
+| Doporučený software pro vysílající | 08/06/2024, 9:42:28 am  | 08/06/2024, 9:42:27 am  |
 
 
 ### refunds-on-twitch
