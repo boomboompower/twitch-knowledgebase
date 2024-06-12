@@ -6,11 +6,11 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Use Raids                                         | 11/06/2024, 7:00:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=it)                                          |
 | Recommended Software For Broadcasting                    | 10/06/2024, 11:35:16 pm   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=it)                     |
 | Twitch Cares Mental Health Support Information           | 10/06/2024, 5:16:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-cares-mental-health-support-information?language=it)            |
 | Chat Commands                                            | 06/06/2024, 3:13:21 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=it)                                             |
 | How To Manage Harassment In Chat                         | 06/06/2024, 3:12:28 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=it)                          |
-| How To Use Raids                                         | 06/06/2024, 3:04:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=it)                                          |
 | Local Sub Price Countries                                | 05/06/2024, 3:00:06 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=it)                                 |
 | Partner Program Overview                                 | 27/05/2024, 5:39:33 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=it)                                  |
 | Removing Recommendations You Are Not Interested In       | 24/05/2024, 7:04:03 pm    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=it)        |
