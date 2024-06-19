@@ -7,9 +7,9 @@ Language data is not included in the API. All page links will not have a languag
  
 | Slug                                                          | Last Modified           | Created                 | Details Link                                                               |
 |---------------------------------------------------------------|-------------------------|-------------------------|----------------------------------------------------------------------------|
+| content-classification-labels                                 | 19/06/2024, 10:08:33 pm | 31/05/2024, 8:34:13 am  | [Details](#content-classification-labels)                                  |
 | recommended-software-for-broadcasting                         | 10/06/2024, 11:35:12 pm | 08/06/2024, 8:12:24 am  | [Details](#recommended-software-for-broadcasting)                          |
 | twitch-cares-mental-health-support-information                | 10/06/2024, 8:52:33 pm  | 01/06/2024, 10:36:36 am | [Details](#twitch-cares-mental-health-support-information)                 |
-| content-classification-labels                                 | 31/05/2024, 9:20:03 am  | 31/05/2024, 9:20:02 am  | [Details](#content-classification-labels)                                  |
 | mobile                                                        | 29/05/2024, 3:55:24 am  | 23/05/2024, 10:24:47 am | [Details](#mobile)                                                         |
 | streamer-read-ads                                             | 25/05/2024, 3:15:58 am  | 14/05/2024, 6:50:17 am  | [Details](#streamer-read-ads)                                              |
 | Removing-recommendations-you-are-not-interested-in            | 22/05/2024, 2:55:23 am  | 22/05/2024, 2:55:22 am  | [Details](#removing-recommendations-you-are-not-interested-in)             |
@@ -695,12 +695,12 @@ https://help.twitch.tv/s/article/contacting-purchase-support
 ### content-classification-labels
 https://help.twitch.tv/s/article/content-classification-labels
 
-| Title                                      | Last Modified          | Created                 |
-|--------------------------------------------|------------------------|-------------------------|
-| Etichette di classificazione dei contenuti | 31/05/2024, 9:20:03 am | 31/05/2024, 9:20:02 am  |
-| Etiquetas de clasificación de contenido    | 31/05/2024, 9:20:03 am | 31/05/2024, 9:20:02 am  |
-| Etiquetas de clasificación de contenido    | 31/05/2024, 9:20:03 am | 31/05/2024, 9:20:02 am  |
-| Etykieta klasyfikacji treści               | 31/05/2024, 9:20:03 am | 31/05/2024, 9:20:02 am  |
+| Title                                      | Last Modified           | Created                 |
+|--------------------------------------------|-------------------------|-------------------------|
+| Etiquetas de clasificación de contenido    | 19/06/2024, 10:08:33 pm | 31/05/2024, 8:34:13 am  |
+| Etiquetas de clasificación de contenido    | 19/06/2024, 7:16:05 pm  | 31/05/2024, 8:34:13 am  |
+| Etichette di classificazione dei contenuti | 31/05/2024, 9:20:03 am  | 31/05/2024, 9:20:02 am  |
+| Etykieta klasyfikacji treści               | 31/05/2024, 9:20:03 am  | 31/05/2024, 9:20:02 am  |
 
 
 ### copyrighted-audio-warnings
