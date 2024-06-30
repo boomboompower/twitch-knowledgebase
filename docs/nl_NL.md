@@ -15,7 +15,6 @@
 | Username Rename And Recycling Policies             | 14/05/2024, 8:05:27 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=nl_NL)              |
 | Two Factor Authentication With Authy               | 23/02/2024, 4:01:34 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=nl_NL)                |
 | Authy Faq                                          | 23/02/2024, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=nl_NL)                                           |
-| Twitch Turbo Guide                                 | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=nl_NL)                                  |
 
 
 
@@ -42,6 +41,7 @@
 | Guide To Tags                          | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=nl_NL)                           |
 | Stream Summary                         | 10/02/2023, 5:16:20 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=nl_NL)                          |
 | How To Use Host Mode                   | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=nl_NL)                    |
+| Channel Page Setup                     | 28/10/2022, 8:22:51 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=nl_NL)                      |
 
 
 
