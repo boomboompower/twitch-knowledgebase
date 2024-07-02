@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Guest Star Getting Started                               | 29/06/2024, 1:00:48 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=de)                                |
+| Guest Star Getting Started                               | 01/07/2024, 11:27:36 pm   | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=de)                                |
 | Tips For Applying To The Partner Program                 | 25/06/2024, 5:58:40 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=de)                  |
 | How To Use Raids                                         | 11/06/2024, 9:34:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=de)                                          |
 | Twitch Cares Mental Health Support Information           | 11/06/2024, 0:57:04 am    | [Link](https://help.twitch.tv/s/article/twitch-cares-mental-health-support-information?language=de)            |
