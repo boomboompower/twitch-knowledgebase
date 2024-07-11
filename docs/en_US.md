@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Payout Details Faq                                       | 11/07/2024, 9:24:10 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                                        |
 | Stream Together Getting Started                          | 10/07/2024, 2:45:10 am    | [Link](https://help.twitch.tv/s/article/stream-together-getting-started?language=en_US)                           |
 | Tips For Applying To The Partner Program                 | 25/06/2024, 5:58:40 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)                  |
 | Recommended Software For Broadcasting                    | 08/06/2024, 9:42:29 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=en_US)                     |
@@ -44,7 +45,6 @@
 | Joining Guest Star                                       | 06/02/2024, 3:35:33 am    | [Link](https://help.twitch.tv/s/article/joining-guest-star?language=en_US)                                        |
 | Emote Library                                            | 31/01/2024, 4:36:47 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=en_US)                                             |
 | Animated Emotes                                          | 31/01/2024, 4:27:28 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=en_US)                                           |
-| Twitch Turbo Guide                                       | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                                        |
 
 
 
@@ -257,6 +257,7 @@
 
 | Name                | Last Updated (dd/mm/yyyy) | Link                                                                         |
 |---------------------|---------------------------|------------------------------------------------------------------------------|
+| Payout Details Faq  | 11/07/2024, 9:24:10 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)   |
 | Twitch Charity Faqs | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=en_US)  |
 
 

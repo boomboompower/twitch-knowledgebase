@@ -4,11 +4,10 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
-|--------------------|---------------------------|--------------------------------------------------------------------------|
-| Chat Commands      | 06/06/2024, 3:13:19 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=el)       |
-| Twitch Studio Faq  | 16/05/2024, 2:57:59 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=el)   |
-| Twitch Turbo Guide | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=el)  |
+| Name              | Last Updated (dd/mm/yyyy) | Link                                                                    |
+|-------------------|---------------------------|-------------------------------------------------------------------------|
+| Chat Commands     | 06/06/2024, 3:13:19 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=el)      |
+| Twitch Studio Faq | 16/05/2024, 2:57:59 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=el)  |
 
 
 
