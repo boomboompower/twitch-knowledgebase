@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Locating Your Twitch Invoice Number                      | 11/07/2024, 11:46:22 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=en_US)                       |
 | Payout Details Faq                                       | 11/07/2024, 9:24:10 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                                        |
 | Stream Together Getting Started                          | 10/07/2024, 2:45:10 am    | [Link](https://help.twitch.tv/s/article/stream-together-getting-started?language=en_US)                           |
 | Tips For Applying To The Partner Program                 | 25/06/2024, 5:58:40 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)                  |
@@ -255,10 +256,11 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                | Last Updated (dd/mm/yyyy) | Link                                                                         |
-|---------------------|---------------------------|------------------------------------------------------------------------------|
-| Payout Details Faq  | 11/07/2024, 9:24:10 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)   |
-| Twitch Charity Faqs | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=en_US)  |
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Locating Your Twitch Invoice Number | 11/07/2024, 11:46:22 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=en_US)  |
+| Payout Details Faq                  | 11/07/2024, 9:24:10 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                   |
+| Twitch Charity Faqs                 | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=en_US)                  |
 
 
 
