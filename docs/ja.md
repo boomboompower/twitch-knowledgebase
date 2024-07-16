@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                         | 16/07/2024, 7:57:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                          |
 | Guest Star Getting Started                               | 13/07/2024, 6:40:06 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ja)                                |
 | Locating Your Twitch Invoice Number                      | 11/07/2024, 11:46:23 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=ja)                       |
 | Tips For Applying To The Partner Program                 | 25/06/2024, 5:58:39 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ja)                  |
@@ -240,6 +241,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
+|-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| Locating Your Twitch Invoice Number | 11/07/2024, 11:46:23 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=ja)  |
 
 
 
