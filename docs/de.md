@@ -6,8 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                         | 19/07/2024, 9:30:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                          |
 | Stream Display Ads                                       | 19/07/2024, 9:27:35 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=de)                                        |
-| How To Use Clips                                         | 16/07/2024, 7:57:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                          |
 | Guest Star Getting Started                               | 12/07/2024, 7:23:32 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=de)                                |
 | Locating Your Twitch Invoice Number                      | 11/07/2024, 11:46:22 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=de)                       |
 | Tips For Applying To The Partner Program                 | 25/06/2024, 5:58:40 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=de)                  |

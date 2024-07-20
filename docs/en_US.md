@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Political Onboarding                                     | 19/07/2024, 10:14:09 am   | [Link](https://help.twitch.tv/s/article/political-onboarding?language=en_US)                                      |
 | Stream Display Ads                                       | 19/07/2024, 9:27:34 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                                        |
 | How To Use Clips                                         | 16/07/2024, 7:57:09 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                          |
 | Locating Your Twitch Invoice Number                      | 11/07/2024, 11:46:22 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=en_US)                       |
