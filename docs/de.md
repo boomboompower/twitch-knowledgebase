@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| How To Use Clips                                         | 30/07/2024, 4:03:45 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                          |
+| How To Use Clips                                         | 02/08/2024, 8:01:34 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                          |
 | Stream Display Ads                                       | 19/07/2024, 9:27:35 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=de)                                        |
 | Guest Star Getting Started                               | 12/07/2024, 7:23:32 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=de)                                |
 | Locating Your Twitch Invoice Number                      | 11/07/2024, 11:46:22 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=de)                       |
@@ -44,7 +44,6 @@
 | How To File A User Report                                | 15/02/2024, 5:22:54 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=de)                                 |
 | Emote Slots                                              | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=de)                                               |
 | Joining Guest Star                                       | 06/02/2024, 3:35:33 am    | [Link](https://help.twitch.tv/s/article/joining-guest-star?language=de)                                        |
-| Emote Library                                            | 31/01/2024, 4:36:47 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=de)                                             |
 
 
 
