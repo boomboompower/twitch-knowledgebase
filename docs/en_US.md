@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| How To Use Automod                                       | 08/08/2024, 8:06:37 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=en_US)                                        |
 | Mod View                                                 | 07/08/2024, 6:33:19 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                                  |
 | How To Use Clips                                         | 30/07/2024, 4:03:45 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                          |
 | Political Onboarding                                     | 19/07/2024, 10:14:09 am   | [Link](https://help.twitch.tv/s/article/political-onboarding?language=en_US)                                      |
@@ -45,7 +46,6 @@
 | Authy Faq                                                | 23/02/2024, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=en_US)                                                 |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 15/02/2024, 5:22:56 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=en_US)  |
 | How To File A User Report                                | 15/02/2024, 5:22:54 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=en_US)                                 |
-| Emote Slots                                              | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=en_US)                                               |
 
 
 
@@ -259,6 +259,7 @@
 | Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
 | Locating Your Twitch Invoice Number | 11/07/2024, 11:46:22 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=en_US)  |
+| Payout Details Faq                  | 11/07/2024, 9:24:10 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                   |
 
 
 

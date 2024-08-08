@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Use Automod                                       | 08/08/2024, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=it)                                        |
 | Mod View                                                 | 07/08/2024, 6:33:19 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=it)                                                  |
 | How To Use Clips                                         | 02/08/2024, 6:03:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                          |
 | Stream Display Ads                                       | 19/07/2024, 9:27:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=it)                                        |
@@ -43,8 +44,6 @@
 | Authy Faq                                                | 23/02/2024, 4:01:17 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=it)                                                 |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 15/02/2024, 5:22:57 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=it)  |
 | How To File A User Report                                | 15/02/2024, 5:22:55 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=it)                                 |
-| Emote Slots                                              | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=it)                                               |
-| Joining Guest Star                                       | 06/02/2024, 3:35:34 am    | [Link](https://help.twitch.tv/s/article/joining-guest-star?language=it)                                        |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| How To Use Automod                                       | 08/08/2024, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=zh_TW)                                        |
 | Mod View                                                 | 07/08/2024, 6:33:19 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                                  |
 | How To Use Clips                                         | 02/08/2024, 5:32:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                          |
 | Stream Display Ads                                       | 19/07/2024, 9:27:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=zh_TW)                                        |
@@ -43,7 +44,6 @@
 | Authy Faq                                                | 23/02/2024, 4:01:18 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=zh_TW)                                                 |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 15/02/2024, 5:22:58 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=zh_TW)  |
 | How To File A User Report                                | 15/02/2024, 5:22:55 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=zh_TW)                                 |
-| Emote Slots                                              | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=zh_TW)                                               |
 
 
 

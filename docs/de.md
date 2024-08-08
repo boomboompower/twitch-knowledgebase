@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Use Automod                                       | 08/08/2024, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=de)                                        |
 | Mod View                                                 | 07/08/2024, 6:33:19 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                                  |
 | How To Use Clips                                         | 02/08/2024, 8:01:34 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                          |
 | Stream Display Ads                                       | 19/07/2024, 9:27:35 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=de)                                        |
