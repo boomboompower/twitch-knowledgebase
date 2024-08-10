@@ -11,14 +11,14 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 |-------------------------------|---------------------------|----------------|------------------------|
 | Bulgarian                     | 06/06/2024, 3:13:19 am    | 3 article(s)   | [View](docs/bg.md)     |
 | Chinese (Simplified, China)   | 06/06/2024, 3:13:19 am    | 8 article(s)   | [View](docs/zh_CN.md)  |
-| Chinese (Traditional, Taiwan) | 08/08/2024, 8:06:38 am    | 199 article(s) | [View](docs/zh_TW.md)  |
+| Chinese (Traditional, Taiwan) | 09/08/2024, 5:37:35 pm    | 200 article(s) | [View](docs/zh_TW.md)  |
 | Czech                         | 08/06/2024, 9:42:28 am    | 23 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 08/06/2024, 9:42:28 am    | 30 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 06/06/2024, 3:13:19 am    | 37 article(s)  | [View](docs/nl_NL.md)  |
 | English (United States)       | 08/08/2024, 8:06:37 am    | 220 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 08/06/2024, 9:42:28 am    | 28 article(s)  | [View](docs/fi.md)     |
 | French                        | 08/08/2024, 8:06:38 am    | 204 article(s) | [View](docs/fr.md)     |
-| German                        | 08/08/2024, 8:06:38 am    | 205 article(s) | [View](docs/de.md)     |
+| German                        | 08/08/2024, 8:06:38 am    | 204 article(s) | [View](docs/de.md)     |
 | Greek                         | 06/06/2024, 3:13:19 am    | 8 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 06/06/2024, 3:13:19 am    | 21 article(s)  | [View](docs/hu.md)     |
 | Italian                       | 08/08/2024, 8:06:38 am    | 203 article(s) | [View](docs/it.md)     |

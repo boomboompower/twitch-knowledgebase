@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Twitch Music Getting Started                             | 09/08/2024, 5:37:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=zh_TW)                              |
+| Music Options For Streamers                              | 09/08/2024, 5:35:04 pm    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=zh_TW)                               |
+| Alerts By Twitch Faq                                     | 09/08/2024, 5:34:35 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=zh_TW)                                      |
 | How To Use Automod                                       | 08/08/2024, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=zh_TW)                                        |
 | Mod View                                                 | 07/08/2024, 6:33:19 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                                  |
 | How To Use Clips                                         | 02/08/2024, 5:32:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                          |
@@ -34,11 +37,9 @@
 | Username Rename And Recycling Policies                   | 14/05/2024, 8:05:29 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=zh_TW)                    |
 | Adding A Game And Box Art To The Directory               | 02/05/2024, 8:20:35 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=zh_TW)                |
 | Subpoint Vs Subcount                                     | 01/05/2024, 8:50:03 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=zh_TW)                                      |
-| Alerts By Twitch Faq                                     | 26/04/2024, 7:50:38 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=zh_TW)                                      |
 | Experiments                                              | 25/04/2024, 9:03:46 am    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                               |
 | Supported Browsers                                       | 20/04/2024, 7:06:09 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=zh_TW)                                        |
 | Sponsorship Experiments Faq                              | 13/04/2024, 0:21:24 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=zh_TW)                               |
-| Twitch Music Getting Started                             | 08/04/2024, 7:47:06 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=zh_TW)                              |
 | Setup Alerts By Twitch                                   | 27/03/2024, 6:58:35 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=zh_TW)                                    |
 | Two Factor Authentication                                | 23/02/2024, 4:01:36 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=zh_TW)                                 |
 | Authy Faq                                                | 23/02/2024, 4:01:18 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=zh_TW)                                                 |

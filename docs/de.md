@@ -44,7 +44,6 @@
 | Authy Faq                                                | 23/02/2024, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=de)                                                 |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 15/02/2024, 5:22:56 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=de)  |
 | How To File A User Report                                | 15/02/2024, 5:22:54 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=de)                                 |
-| Emote Slots                                              | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=de)                                               |
 
 
 
