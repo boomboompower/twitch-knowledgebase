@@ -29,7 +29,6 @@
 | Twitch Turbo Guide                                            | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                                             |
 | Channel Analytics                                             | 02/12/2023, 9:45:29 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_PT)                                              |
 | Guide To Cheering With Bits                                   | 23/11/2023, 7:47:03 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_PT)                                    |
-| How To Use Automod                                            | 25/10/2023, 4:50:32 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_PT)                                             |
 | Joining The Affiliate Program                                 | 17/10/2023, 3:50:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)                                  |
 | Achievements                                                  | 14/10/2023, 4:00:12 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                                                   |
 | Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=pt_PT)                             |
