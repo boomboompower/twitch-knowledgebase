@@ -6,7 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
-| Bleed Purple                                       | 21/08/2024, 2:55:36 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=zh_TW)                                        |
+| Bleed Purple                                       | 22/08/2024, 2:44:03 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=zh_TW)                                        |
 | Mod View                                           | 13/08/2024, 5:58:34 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                            |
 | Twitch Music Getting Started                       | 09/08/2024, 5:37:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=zh_TW)                        |
 | Music Options For Streamers                        | 09/08/2024, 5:35:04 pm    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=zh_TW)                         |
@@ -238,7 +238,7 @@
 
 | Name         | Last Updated (dd/mm/yyyy) | Link                                                                  |
 |--------------|---------------------------|-----------------------------------------------------------------------|
-| Bleed Purple | 21/08/2024, 2:55:36 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=zh_TW)  |
+| Bleed Purple | 22/08/2024, 2:44:03 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=zh_TW)  |
 
 
 

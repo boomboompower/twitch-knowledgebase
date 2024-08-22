@@ -6,7 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
-| Bleed Purple                                       | 21/08/2024, 2:55:35 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=de)                                        |
+| Bleed Purple                                       | 22/08/2024, 2:44:03 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=de)                                        |
 | Mod View                                           | 13/08/2024, 7:11:04 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                            |
 | How To Use Automod                                 | 08/08/2024, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=de)                                  |
 | How To Use Clips                                   | 02/08/2024, 8:01:34 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                    |
@@ -242,7 +242,7 @@
 
 | Name         | Last Updated (dd/mm/yyyy) | Link                                                               |
 |--------------|---------------------------|--------------------------------------------------------------------|
-| Bleed Purple | 21/08/2024, 2:55:35 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=de)  |
+| Bleed Purple | 22/08/2024, 2:44:03 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=de)  |
 
 
 
