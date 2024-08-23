@@ -6,7 +6,9 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
-| Bleed Purple                                       | 22/08/2024, 2:44:03 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es)                                        |
+| Local Sub Price Countries                          | 23/08/2024, 8:24:11 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es)                           |
+| Mission Based Drops                                | 23/08/2024, 4:31:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es)                                 |
+| Bleed Purple                                       | 22/08/2024, 10:42:34 am   | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es)                                        |
 | Mod View                                           | 13/08/2024, 10:28:33 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=es)                                            |
 | How To Use Automod                                 | 08/08/2024, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es)                                  |
 | How To Use Clips                                   | 02/08/2024, 5:28:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                    |
@@ -19,7 +21,6 @@
 | Twitch Cares Mental Health Support Information     | 08/06/2024, 2:22:33 am    | [Link](https://help.twitch.tv/s/article/twitch-cares-mental-health-support-information?language=es)      |
 | Chat Commands                                      | 06/06/2024, 3:13:20 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=es)                                       |
 | How To Manage Harassment In Chat                   | 06/06/2024, 3:12:28 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es)                    |
-| Local Sub Price Countries                          | 05/06/2024, 3:00:05 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es)                           |
 | Partner Program Overview                           | 24/05/2024, 9:45:04 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                            |
 | Removing Recommendations You Are Not Interested In | 24/05/2024, 8:43:03 pm    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=es)  |
 | Languages On Twitch                                | 17/05/2024, 7:03:38 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es)                                 |
@@ -35,7 +36,6 @@
 | Twitch Charity Viewers                             | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=es)                              |
 | Username Rename And Recycling Policies             | 14/05/2024, 8:05:28 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es)              |
 | Subpoint Vs Subcount                               | 01/05/2024, 8:50:03 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=es)                                |
-| Alerts By Twitch Faq                               | 26/04/2024, 9:21:42 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=es)                                |
 
 
 
@@ -238,9 +238,11 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name         | Last Updated (dd/mm/yyyy) | Link                                                               |
-|--------------|---------------------------|--------------------------------------------------------------------|
-| Bleed Purple | 22/08/2024, 2:44:03 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es)  |
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
+|-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| Bleed Purple                        | 22/08/2024, 10:42:34 am   | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es)                         |
+| Locating Your Twitch Invoice Number | 11/07/2024, 11:46:22 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=es)  |
+| Twitch Charity Faqs                 | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=es)                  |
 
 
 
