@@ -13,7 +13,6 @@
 | Removing Recommendations You Are Not Interested In | 22/05/2024, 2:55:23 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=fi)  |
 | Twitch Prime Partner Guide                         | 17/05/2024, 4:37:05 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=fi)                          |
 | Twitch Studio Faq                                  | 16/05/2024, 2:57:59 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=fi)                                   |
-| Username Rename And Recycling Policies             | 14/05/2024, 8:05:27 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=fi)              |
 
 
 

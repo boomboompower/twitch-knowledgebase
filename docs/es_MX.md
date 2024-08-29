@@ -6,12 +6,15 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
-| Local Sub Price Countries                          | 23/08/2024, 8:24:11 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es_MX)                           |
+| Channel Page Setup                                 | 29/08/2024, 7:08:17 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=es_MX)                                  |
+| How To Use Clips                                   | 29/08/2024, 7:07:31 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                                    |
+| Local Sub Price Countries                          | 28/08/2024, 8:16:39 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es_MX)                           |
+| Month Length                                       | 28/08/2024, 8:16:32 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=es_MX)                                        |
+| Drops Prime Difference                             | 28/08/2024, 8:12:32 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es_MX)                              |
 | Mission Based Drops                                | 23/08/2024, 4:31:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                                 |
 | Bleed Purple                                       | 22/08/2024, 10:42:42 am   | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es_MX)                                        |
 | Mod View                                           | 13/08/2024, 6:33:33 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=es_MX)                                            |
 | How To Use Automod                                 | 08/08/2024, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es_MX)                                  |
-| How To Use Clips                                   | 02/08/2024, 9:29:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                                    |
 | Stream Display Ads                                 | 19/07/2024, 9:27:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es_MX)                                  |
 | Guest Star Getting Started                         | 12/07/2024, 10:01:33 pm   | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es_MX)                          |
 | Locating Your Twitch Invoice Number                | 11/07/2024, 11:46:22 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=es_MX)                 |
@@ -33,9 +36,6 @@
 | Twitch Charity                                     | 14/05/2024, 10:15:52 am   | [Link](https://help.twitch.tv/s/article/twitch-charity?language=es_MX)                                      |
 | Twitch Charity Faqs                                | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=es_MX)                                 |
 | Twitch Charity Viewers                             | 14/05/2024, 10:14:25 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=es_MX)                              |
-| Username Rename And Recycling Policies             | 14/05/2024, 8:05:28 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es_MX)              |
-| Adding A Game And Box Art To The Directory         | 02/05/2024, 8:50:33 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=es_MX)          |
-| Subpoint Vs Subcount                               | 01/05/2024, 8:50:03 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=es_MX)                                |
 
 
 
@@ -232,6 +232,19 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Month Length                        | 28/08/2024, 8:16:32 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=es_MX)                         |
+| Drops Prime Difference              | 28/08/2024, 8:12:32 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es_MX)               |
+| Bleed Purple                        | 22/08/2024, 10:42:42 am   | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es_MX)                         |
+| Locating Your Twitch Invoice Number | 11/07/2024, 11:46:22 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=es_MX)  |
+| Twitch Charity Faqs                 | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=es_MX)                  |
 
 
 

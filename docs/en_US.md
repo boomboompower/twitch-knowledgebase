@@ -6,6 +6,8 @@
 
 | Name                                           | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Channel Page Setup                             | 29/08/2024, 7:08:16 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=en_US)                              |
+| How To Use Clips                               | 29/08/2024, 7:07:30 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                |
 | Local Sub Price Countries                      | 23/08/2024, 8:24:10 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                       |
 | Mission Based Drops                            | 23/08/2024, 4:31:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                             |
 | Drops Prime Difference                         | 23/08/2024, 4:29:46 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=en_US)                          |
@@ -13,7 +15,6 @@
 | Bleed Purple                                   | 22/08/2024, 2:44:02 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=en_US)                                    |
 | How To Use Automod                             | 08/08/2024, 8:06:37 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=en_US)                              |
 | Mod View                                       | 07/08/2024, 6:33:19 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                        |
-| How To Use Clips                               | 30/07/2024, 4:03:45 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                |
 | Political Onboarding                           | 19/07/2024, 10:14:09 am   | [Link](https://help.twitch.tv/s/article/political-onboarding?language=en_US)                            |
 | Stream Display Ads                             | 19/07/2024, 9:27:34 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                              |
 | Locating Your Twitch Invoice Number            | 11/07/2024, 11:46:22 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=en_US)             |
@@ -37,7 +38,6 @@
 | Twitch Charity Faqs                            | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=en_US)                             |
 | Twitch Charity Viewers                         | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=en_US)                          |
 | Languages On Twitch                            | 14/05/2024, 8:21:41 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=en_US)                             |
-| Username Rename And Recycling Policies         | 14/05/2024, 8:05:28 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=en_US)          |
 
 
 
@@ -250,10 +250,14 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                   | Last Updated (dd/mm/yyyy) | Link                                                                            |
-|------------------------|---------------------------|---------------------------------------------------------------------------------|
-| Drops Prime Difference | 23/08/2024, 4:29:46 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=en_US)  |
-| Month Length           | 23/08/2024, 3:54:20 am    | [Link](https://help.twitch.tv/s/article/month-length?language=en_US)            |
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Drops Prime Difference              | 23/08/2024, 4:29:46 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=en_US)               |
+| Month Length                        | 23/08/2024, 3:54:20 am    | [Link](https://help.twitch.tv/s/article/month-length?language=en_US)                         |
+| Bleed Purple                        | 22/08/2024, 2:44:02 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=en_US)                         |
+| Locating Your Twitch Invoice Number | 11/07/2024, 11:46:22 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=en_US)  |
+| Payout Details Faq                  | 11/07/2024, 9:24:10 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                   |
+| Twitch Charity Faqs                 | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=en_US)                  |
 
 
 

@@ -6,12 +6,15 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
-| Local Sub Price Countries                          | 23/08/2024, 8:24:11 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ja)                           |
+| Channel Page Setup                                 | 29/08/2024, 7:08:17 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=ja)                                  |
+| How To Use Clips                                   | 29/08/2024, 7:07:31 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                    |
+| Month Length                                       | 28/08/2024, 0:07:02 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=ja)                                        |
+| Local Sub Price Countries                          | 28/08/2024, 0:03:02 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ja)                           |
+| Drops Prime Difference                             | 28/08/2024, 0:01:32 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=ja)                              |
 | Mission Based Drops                                | 23/08/2024, 4:31:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                                 |
 | Bleed Purple                                       | 22/08/2024, 10:42:39 am   | [Link](https://help.twitch.tv/s/article/bleed-purple?language=ja)                                        |
 | Mod View                                           | 13/08/2024, 2:14:33 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                            |
 | How To Use Automod                                 | 08/08/2024, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ja)                                  |
-| How To Use Clips                                   | 02/08/2024, 6:53:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                    |
 | Stream Display Ads                                 | 19/07/2024, 9:27:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ja)                                  |
 | Guest Star Getting Started                         | 13/07/2024, 6:40:06 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ja)                          |
 | Locating Your Twitch Invoice Number                | 11/07/2024, 11:46:23 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=ja)                 |
@@ -33,8 +36,6 @@
 | Twitch Charity                                     | 14/05/2024, 10:15:52 am   | [Link](https://help.twitch.tv/s/article/twitch-charity?language=ja)                                      |
 | Twitch Charity Faqs                                | 14/05/2024, 10:15:49 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=ja)                                 |
 | Twitch Charity Viewers                             | 14/05/2024, 10:14:25 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=ja)                              |
-| Username Rename And Recycling Policies             | 14/05/2024, 8:05:29 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=ja)              |
-| Adding A Game And Box Art To The Directory         | 02/05/2024, 1:26:33 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=ja)          |
 
 
 
@@ -230,6 +231,19 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
+|-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| Month Length                        | 28/08/2024, 0:07:02 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=ja)                         |
+| Drops Prime Difference              | 28/08/2024, 0:01:32 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=ja)               |
+| Bleed Purple                        | 22/08/2024, 10:42:39 am   | [Link](https://help.twitch.tv/s/article/bleed-purple?language=ja)                         |
+| Locating Your Twitch Invoice Number | 11/07/2024, 11:46:23 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=ja)  |
+| Twitch Charity Faqs                 | 14/05/2024, 10:15:49 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=ja)                  |
 
 
 

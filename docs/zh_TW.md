@@ -6,7 +6,11 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
-| Local Sub Price Countries                          | 23/08/2024, 8:24:11 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                           |
+| Channel Page Setup                                 | 29/08/2024, 7:08:18 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=zh_TW)                                  |
+| How To Use Clips                                   | 29/08/2024, 7:07:31 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                    |
+| Local Sub Price Countries                          | 28/08/2024, 2:41:08 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                           |
+| Drops Prime Difference                             | 28/08/2024, 2:39:32 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=zh_TW)                              |
+| Month Length                                       | 28/08/2024, 2:27:03 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=zh_TW)                                        |
 | Mission Based Drops                                | 23/08/2024, 4:31:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=zh_TW)                                 |
 | Bleed Purple                                       | 22/08/2024, 10:42:35 am   | [Link](https://help.twitch.tv/s/article/bleed-purple?language=zh_TW)                                        |
 | Mod View                                           | 13/08/2024, 5:58:34 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                            |
@@ -14,7 +18,6 @@
 | Music Options For Streamers                        | 09/08/2024, 5:35:04 pm    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=zh_TW)                         |
 | Alerts By Twitch Faq                               | 09/08/2024, 5:34:35 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=zh_TW)                                |
 | How To Use Automod                                 | 08/08/2024, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=zh_TW)                                  |
-| How To Use Clips                                   | 02/08/2024, 5:32:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                    |
 | Stream Display Ads                                 | 19/07/2024, 9:27:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=zh_TW)                                  |
 | Guest Star Getting Started                         | 12/07/2024, 7:11:35 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)                          |
 | Locating Your Twitch Invoice Number                | 11/07/2024, 11:46:23 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=zh_TW)                 |
@@ -36,8 +39,6 @@
 | Twitch Charity                                     | 14/05/2024, 10:15:52 am   | [Link](https://help.twitch.tv/s/article/twitch-charity?language=zh_TW)                                      |
 | Twitch Charity Faqs                                | 14/05/2024, 10:15:49 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=zh_TW)                                 |
 | Twitch Charity Viewers                             | 14/05/2024, 10:14:25 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=zh_TW)                              |
-| Username Rename And Recycling Policies             | 14/05/2024, 8:05:29 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=zh_TW)              |
-| Adding A Game And Box Art To The Directory         | 02/05/2024, 8:20:35 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=zh_TW)          |
 
 
 
@@ -229,6 +230,18 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Drops Prime Difference              | 28/08/2024, 2:39:32 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=zh_TW)               |
+| Month Length                        | 28/08/2024, 2:27:03 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=zh_TW)                         |
+| Bleed Purple                        | 22/08/2024, 10:42:35 am   | [Link](https://help.twitch.tv/s/article/bleed-purple?language=zh_TW)                         |
+| Locating Your Twitch Invoice Number | 11/07/2024, 11:46:23 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=zh_TW)  |
 
 
 
