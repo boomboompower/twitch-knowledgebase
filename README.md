@@ -17,7 +17,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Dutch (Netherlands)           | 29/08/2024, 7:08:16 am    | 37 article(s)  | [View](docs/nl_NL.md)  |
 | English (United States)       | 30/08/2024, 4:16:09 am    | 218 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 08/06/2024, 9:42:28 am    | 27 article(s)  | [View](docs/fi.md)     |
-| French                        | 30/08/2024, 4:16:09 am    | 200 article(s) | [View](docs/fr.md)     |
+| French                        | 30/08/2024, 8:45:03 pm    | 200 article(s) | [View](docs/fr.md)     |
 | German                        | 30/08/2024, 4:16:09 am    | 201 article(s) | [View](docs/de.md)     |
 | Greek                         | 06/06/2024, 3:13:19 am    | 8 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 06/06/2024, 3:13:19 am    | 20 article(s)  | [View](docs/hu.md)     |
