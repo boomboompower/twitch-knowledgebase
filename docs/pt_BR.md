@@ -6,7 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
-| Bleed Purple                                       | 30/08/2024, 4:16:09 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=pt_BR)                                        |
+| Bleed Purple                                       | 02/09/2024, 7:55:34 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=pt_BR)                                        |
 | Channel Page Setup                                 | 29/08/2024, 7:08:17 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=pt_BR)                                  |
 | How To Use Clips                                   | 29/08/2024, 7:07:31 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                    |
 | Local Sub Price Countries                          | 28/08/2024, 8:20:38 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pt_BR)                           |
