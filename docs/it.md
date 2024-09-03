@@ -6,7 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
-| Bleed Purple                                       | 30/08/2024, 4:16:09 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=it)                                        |
+| Bleed Purple                                       | 02/09/2024, 5:32:33 pm    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=it)                                        |
 | Channel Page Setup                                 | 29/08/2024, 7:08:17 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=it)                                  |
 | How To Use Clips                                   | 29/08/2024, 7:07:31 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                    |
 | Local Sub Price Countries                          | 28/08/2024, 5:20:38 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=it)                           |
@@ -36,6 +36,7 @@
 | Twitch Charity                                     | 14/05/2024, 10:15:52 am   | [Link](https://help.twitch.tv/s/article/twitch-charity?language=it)                                      |
 | Twitch Charity Faqs                                | 14/05/2024, 10:15:49 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=it)                                 |
 | Twitch Charity Viewers                             | 14/05/2024, 10:14:25 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=it)                              |
+| Username Rename And Recycling Policies             | 14/05/2024, 8:05:29 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=it)              |
 
 
 
