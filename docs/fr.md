@@ -67,7 +67,6 @@
 | Date Of Birth Changes                                         | 13/12/2023, 10:48:33 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=fr)                                          |
 | Emote Guidelines                                              | 09/12/2023, 1:03:02 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=fr)                                               |
 | First Steps For New Affiliates                                | 07/12/2023, 11:02:00 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=fr)                                 |
-| Ads Manager                                                   | 05/12/2023, 0:03:22 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=fr)                                                    |
 | Alerts By Twitch                                              | 05/12/2023, 0:30:38 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=fr)                                               |
 | Channel Analytics                                             | 03/12/2023, 8:18:55 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=fr)                                              |
 | Affiliate Settings Guide                                      | 03/12/2023, 8:17:28 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=fr)                                       |
@@ -236,15 +235,6 @@
 | Where Are My Notifications                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=fr)                         |
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=fr)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=fr)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name         | Last Updated (dd/mm/yyyy) | Link                                                               |
-|--------------|---------------------------|--------------------------------------------------------------------|
-| Month Length | 28/08/2024, 10:00:35 pm   | [Link](https://help.twitch.tv/s/article/month-length?language=fr)  |
 
 
 

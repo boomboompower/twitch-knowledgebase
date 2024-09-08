@@ -39,6 +39,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Charity Viewers                                        | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=ru)                                         |
+| Languages On Twitch                                           | 14/05/2024, 8:21:41 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ru)                                            |
+| Username Rename And Recycling Policies                        | 14/05/2024, 8:05:29 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=ru)                         |
 | Subpoint Vs Subcount                                          | 01/05/2024, 8:50:02 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ru)                                           |
 | Adding A Game And Box Art To The Directory                    | 26/04/2024, 3:57:43 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=ru)                     |
 | Alerts By Twitch Faq                                          | 20/04/2024, 10:50:58 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=ru)                                           |
@@ -60,7 +63,6 @@
 | Date Of Birth Changes                                         | 12/12/2023, 11:33:33 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ru)                                          |
 | Emote Guidelines                                              | 09/12/2023, 1:03:09 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=ru)                                               |
 | First Steps For New Affiliates                                | 07/12/2023, 11:01:35 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=ru)                                 |
-| Ads Manager                                                   | 05/12/2023, 0:03:34 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ru)                                                    |
 | Alerts By Twitch                                              | 04/12/2023, 9:55:40 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=ru)                                               |
 | Channel Analytics                                             | 03/12/2023, 8:18:32 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ru)                                              |
 | Affiliate Settings Guide                                      | 03/12/2023, 8:17:06 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=ru)                                       |

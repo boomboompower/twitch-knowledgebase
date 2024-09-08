@@ -45,6 +45,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Charity Viewers                                        | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=es)                                         |
 | Username Rename And Recycling Policies                        | 14/05/2024, 8:05:28 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es)                         |
 | Subpoint Vs Subcount                                          | 01/05/2024, 8:50:03 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=es)                                           |
 | Alerts By Twitch Faq                                          | 26/04/2024, 9:21:42 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=es)                                           |
@@ -66,7 +67,6 @@
 | Date Of Birth Changes                                         | 13/12/2023, 1:18:34 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                                          |
 | Emote Guidelines                                              | 09/12/2023, 1:03:07 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es)                                               |
 | First Steps For New Affiliates                                | 07/12/2023, 11:02:03 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=es)                                 |
-| Ads Manager                                                   | 05/12/2023, 0:03:34 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=es)                                                    |
 | Alerts By Twitch                                              | 04/12/2023, 10:17:03 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=es)                                               |
 | Channel Analytics                                             | 03/12/2023, 8:18:12 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=es)                                              |
 | Affiliate Settings Guide                                      | 03/12/2023, 8:17:05 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=es)                                       |
@@ -234,16 +234,6 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                   | Last Updated (dd/mm/yyyy) | Link                                                                         |
-|------------------------|---------------------------|------------------------------------------------------------------------------|
-| Drops Prime Difference | 28/08/2024, 5:10:03 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es)  |
-| Month Length           | 28/08/2024, 5:09:03 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=es)            |
 
 
 

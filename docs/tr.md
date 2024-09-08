@@ -39,6 +39,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Charity Viewers                                        | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=tr)                                         |
+| Languages On Twitch                                           | 14/05/2024, 8:21:41 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=tr)                                            |
+| Username Rename And Recycling Policies                        | 14/05/2024, 8:05:29 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=tr)                         |
 | Subpoint Vs Subcount                                          | 01/05/2024, 8:50:02 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=tr)                                           |
 | Adding A Game And Box Art To The Directory                    | 26/04/2024, 3:57:43 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=tr)                     |
 | Alerts By Twitch Faq                                          | 25/04/2024, 7:58:04 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=tr)                                           |
@@ -60,7 +63,6 @@
 | Emote Guidelines                                              | 09/12/2023, 1:02:54 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=tr)                                               |
 | Date Of Birth Changes                                         | 08/12/2023, 11:38:03 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=tr)                                          |
 | First Steps For New Affiliates                                | 07/12/2023, 11:02:05 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=tr)                                 |
-| Ads Manager                                                   | 05/12/2023, 0:03:34 pm    | [Link](https://help.twitch.tv/s/article/ads-manager?language=tr)                                                    |
 | Alerts By Twitch                                              | 04/12/2023, 8:03:10 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=tr)                                               |
 | Channel Analytics                                             | 03/12/2023, 8:18:35 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=tr)                                              |
 | Affiliate Settings Guide                                      | 03/12/2023, 8:17:13 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=tr)                                       |
@@ -135,7 +137,6 @@
 | Mobile Irl Broadcasting                | 24/01/2023, 5:59:40 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=tr)                 |
 | Twitch Mobile App Update               | 16/01/2023, 8:13:32 pm    | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=tr)                |
 | Live Viewer Feedback                   | 10/12/2022, 8:46:51 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=tr)                    |
-| How To Use Extensions                  | 04/11/2022, 8:57:09 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=tr)                   |
 
 
 
@@ -144,6 +145,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| How To Use Extensions                       | 04/11/2022, 8:57:09 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=tr)                        |
 | Xbox Promotion 2022                         | 02/11/2022, 3:54:04 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=tr)                          |
 | Viewer Channel Point Guide                  | 28/10/2022, 8:34:15 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=tr)                   |
 | Channel Points Guide                        | 28/10/2022, 8:25:44 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=tr)                         |
