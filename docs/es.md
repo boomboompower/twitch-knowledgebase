@@ -6,8 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
-| Ads Manager                                        | 11/09/2024, 0:11:33 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=es)                                         |
-| Bleed Purple                                       | 02/09/2024, 8:36:37 pm    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es)                                        |
+| Bleed Purple                                       | 12/09/2024, 6:01:05 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es)                                        |
+| Ads Manager                                        | 12/09/2024, 0:28:03 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=es)                                         |
 | Channel Page Setup                                 | 29/08/2024, 7:08:17 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=es)                                  |
 | How To Use Clips                                   | 29/08/2024, 7:07:31 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                    |
 | Drops Prime Difference                             | 28/08/2024, 5:10:03 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es)                              |
@@ -234,6 +234,16 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                   | Last Updated (dd/mm/yyyy) | Link                                                                         |
+|------------------------|---------------------------|------------------------------------------------------------------------------|
+| Drops Prime Difference | 28/08/2024, 5:10:03 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es)  |
+| Month Length           | 28/08/2024, 5:09:03 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=es)            |
 
 
 
