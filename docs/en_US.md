@@ -6,10 +6,11 @@
 
 | Name                                           | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| How To Use Clips                               | 13/09/2024, 6:52:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                |
+| Locating Your Twitch Invoice Number            | 13/09/2024, 3:39:40 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=en_US)             |
 | Bleed Purple                                   | 12/09/2024, 6:01:05 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=en_US)                                    |
 | Ads Manager                                    | 05/09/2024, 9:35:55 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=en_US)                                     |
 | Channel Page Setup                             | 29/08/2024, 7:08:16 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=en_US)                              |
-| How To Use Clips                               | 29/08/2024, 7:07:30 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                |
 | Local Sub Price Countries                      | 23/08/2024, 8:24:10 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                       |
 | Mission Based Drops                            | 23/08/2024, 4:31:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                             |
 | Drops Prime Difference                         | 23/08/2024, 4:29:46 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=en_US)                          |
@@ -18,7 +19,6 @@
 | Mod View                                       | 07/08/2024, 6:33:19 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                        |
 | Political Onboarding                           | 19/07/2024, 10:14:09 am   | [Link](https://help.twitch.tv/s/article/political-onboarding?language=en_US)                            |
 | Stream Display Ads                             | 19/07/2024, 9:27:34 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                              |
-| Locating Your Twitch Invoice Number            | 11/07/2024, 11:46:22 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=en_US)             |
 | Payout Details Faq                             | 11/07/2024, 9:24:10 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                              |
 | Stream Together Getting Started                | 10/07/2024, 2:45:10 am    | [Link](https://help.twitch.tv/s/article/stream-together-getting-started?language=en_US)                 |
 | Tips For Applying To The Partner Program       | 25/06/2024, 5:58:40 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)        |
@@ -252,6 +252,7 @@
 
 | Name                   | Last Updated (dd/mm/yyyy) | Link                                                                            |
 |------------------------|---------------------------|---------------------------------------------------------------------------------|
+| Bleed Purple           | 12/09/2024, 6:01:05 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=en_US)            |
 | Drops Prime Difference | 23/08/2024, 4:29:46 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=en_US)  |
 | Month Length           | 23/08/2024, 3:54:20 am    | [Link](https://help.twitch.tv/s/article/month-length?language=en_US)            |
 

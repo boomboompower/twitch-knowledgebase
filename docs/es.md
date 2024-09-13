@@ -6,10 +6,11 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                   | 13/09/2024, 6:52:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                    |
+| Locating Your Twitch Invoice Number                | 13/09/2024, 3:39:40 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=es)                 |
 | Bleed Purple                                       | 12/09/2024, 6:01:05 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es)                                        |
 | Ads Manager                                        | 12/09/2024, 0:28:03 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=es)                                         |
 | Channel Page Setup                                 | 29/08/2024, 7:08:17 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=es)                                  |
-| How To Use Clips                                   | 29/08/2024, 7:07:31 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                    |
 | Drops Prime Difference                             | 28/08/2024, 5:10:03 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es)                              |
 | Month Length                                       | 28/08/2024, 5:09:03 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=es)                                        |
 | Local Sub Price Countries                          | 28/08/2024, 4:55:40 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es)                           |
@@ -18,7 +19,6 @@
 | How To Use Automod                                 | 08/08/2024, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es)                                  |
 | Stream Display Ads                                 | 19/07/2024, 9:27:35 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es)                                  |
 | Guest Star Getting Started                         | 12/07/2024, 8:44:33 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es)                          |
-| Locating Your Twitch Invoice Number                | 11/07/2024, 11:46:22 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=es)                 |
 | Tips For Applying To The Partner Program           | 25/06/2024, 5:58:40 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=es)            |
 | How To Use Raids                                   | 11/06/2024, 1:38:36 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=es)                                    |
 | Recommended Software For Broadcasting              | 10/06/2024, 11:35:05 pm   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es)               |
@@ -242,6 +242,7 @@
 
 | Name                   | Last Updated (dd/mm/yyyy) | Link                                                                         |
 |------------------------|---------------------------|------------------------------------------------------------------------------|
+| Bleed Purple           | 12/09/2024, 6:01:05 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es)            |
 | Drops Prime Difference | 28/08/2024, 5:10:03 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es)  |
 | Month Length           | 28/08/2024, 5:09:03 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=es)            |
 
