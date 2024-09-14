@@ -6,7 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
-| How To Use Clips                                   | 13/09/2024, 6:52:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                    |
+| How To Use Clips                                   | 13/09/2024, 6:02:32 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                    |
 | Locating Your Twitch Invoice Number                | 13/09/2024, 3:39:40 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=it)                 |
 | Bleed Purple                                       | 12/09/2024, 6:01:05 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=it)                                        |
 | Ads Manager                                        | 12/09/2024, 0:33:03 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=it)                                         |
