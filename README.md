@@ -11,7 +11,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 |-------------------------------|---------------------------|----------------|------------------------|
 | Bulgarian                     | 06/06/2024, 3:13:19 am    | 3 article(s)   | [View](docs/bg.md)     |
 | Chinese (Simplified, China)   | 06/06/2024, 3:13:19 am    | 8 article(s)   | [View](docs/zh_CN.md)  |
-| Chinese (Traditional, Taiwan) | 16/09/2024, 8:20:04 pm    | 193 article(s) | [View](docs/zh_TW.md)  |
+| Chinese (Traditional, Taiwan) | 16/09/2024, 8:20:04 pm    | 192 article(s) | [View](docs/zh_TW.md)  |
 | Czech                         | 08/06/2024, 9:42:28 am    | 23 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 08/06/2024, 9:42:28 am    | 30 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 29/08/2024, 7:08:16 am    | 36 article(s)  | [View](docs/nl_NL.md)  |
@@ -25,7 +25,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Japanese                      | 16/09/2024, 3:59:34 pm    | 194 article(s) | [View](docs/ja.md)     |
 | Norwegian                     | 29/08/2024, 7:08:16 am    | 29 article(s)  | [View](docs/no.md)     |
 | Polish                        | 13/09/2024, 6:52:48 am    | 188 article(s) | [View](docs/pl.md)     |
-| Portuguese (Brazil)           | 13/09/2024, 6:53:48 am    | 194 article(s) | [View](docs/pt_BR.md)  |
+| Portuguese (Brazil)           | 18/09/2024, 8:43:04 am    | 194 article(s) | [View](docs/pt_BR.md)  |
 | Portuguese (Portugal)         | 08/08/2024, 8:06:38 am    | 41 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 06/06/2024, 3:13:19 am    | 3 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 13/09/2024, 6:52:48 am    | 190 article(s) | [View](docs/ru.md)     |
