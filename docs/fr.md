@@ -6,9 +6,9 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Bleed Purple                                       | 18/09/2024, 8:35:04 pm    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=fr)                                        |
 | How To Use Clips                                   | 13/09/2024, 9:35:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                                    |
 | Locating Your Twitch Invoice Number                | 13/09/2024, 3:39:40 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=fr)                 |
-| Bleed Purple                                       | 12/09/2024, 6:01:05 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=fr)                                        |
 | Ads Manager                                        | 12/09/2024, 0:32:04 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=fr)                                         |
 | Channel Page Setup                                 | 29/08/2024, 7:08:17 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=fr)                                  |
 | Drops Prime Difference                             | 28/08/2024, 10:05:36 pm   | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=fr)                              |
@@ -235,6 +235,15 @@
 | Where Are My Notifications                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=fr)                         |
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=fr)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=fr)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name         | Last Updated (dd/mm/yyyy) | Link                                                               |
+|--------------|---------------------------|--------------------------------------------------------------------|
+| Month Length | 28/08/2024, 10:00:35 pm   | [Link](https://help.twitch.tv/s/article/month-length?language=fr)  |
 
 
 
