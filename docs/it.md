@@ -6,9 +6,9 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Locating Your Twitch Invoice Number                | 20/09/2024, 5:41:04 pm    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=it)                 |
 | Bleed Purple                                       | 18/09/2024, 5:21:36 pm    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=it)                                        |
 | How To Use Clips                                   | 13/09/2024, 6:02:32 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                    |
-| Locating Your Twitch Invoice Number                | 13/09/2024, 3:39:40 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=it)                 |
 | Ads Manager                                        | 12/09/2024, 0:33:03 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=it)                                         |
 | Channel Page Setup                                 | 29/08/2024, 7:08:17 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=it)                                  |
 | Local Sub Price Countries                          | 28/08/2024, 5:20:38 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=it)                           |
