@@ -45,6 +45,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                                  | 16/05/2024, 0:28:54 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                                   |
+| Twitch Charity                                                | 14/05/2024, 10:15:52 am   | [Link](https://help.twitch.tv/s/article/twitch-charity?language=es)                                                 |
+| Twitch Charity Faqs                                           | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=es)                                            |
 | Twitch Charity Viewers                                        | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=es)                                         |
 | Username Rename And Recycling Policies                        | 14/05/2024, 8:05:28 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es)                         |
 | Subpoint Vs Subcount                                          | 01/05/2024, 8:50:03 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=es)                                           |
@@ -68,18 +71,15 @@
 | Emote Guidelines                                              | 09/12/2023, 1:03:07 pm    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es)                                               |
 | First Steps For New Affiliates                                | 07/12/2023, 11:02:03 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=es)                                 |
 | Alerts By Twitch                                              | 04/12/2023, 10:17:03 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=es)                                               |
-| Channel Analytics                                             | 03/12/2023, 8:18:12 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=es)                                              |
 | Affiliate Settings Guide                                      | 03/12/2023, 8:17:05 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=es)                                       |
 | Guide To Cheering With Bits                                   | 30/11/2023, 11:35:07 pm   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=es)                                    |
 | Subscriber Badge Guide                                        | 30/11/2023, 11:35:04 pm   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es)                                         |
 | Partner Settings Guide                                        | 30/11/2023, 11:34:04 pm   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=es)                                         |
-| Follower Emotes                                               | 08/11/2023, 11:26:40 am   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=es)                                                |
 | Games Irl And Music Directories                               | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=es)                                |
 | Ban Evasion                                                   | 28/10/2023, 5:03:40 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=es)                                                    |
 | Joining The Affiliate Program                                 | 25/10/2023, 0:30:07 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es)                                  |
 | Achievements                                                  | 14/10/2023, 4:00:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=es)                                                   |
 | Dmca And Copyright Faqs                                       | 11/10/2023, 9:24:43 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es)                                        |
-| Watching Twitch On Android Devices                            | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=es)                             |
 | Brand Surveys                                                 | 11/10/2023, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/brand-surveys?language=es)                                                  |
 | Broadcasting Guidelines                                       | 29/09/2023, 9:40:09 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=es)                                        |
 | Bounty Board Program Information And Faq                      | 23/09/2023, 2:16:34 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=es)                       |
@@ -234,18 +234,6 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
-|-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
-| Locating Your Twitch Invoice Number | 19/09/2024, 2:37:36 pm    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=es)  |
-| Bleed Purple                        | 16/09/2024, 6:46:06 pm    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es)                         |
-| Drops Prime Difference              | 28/08/2024, 5:10:03 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es)               |
-| Month Length                        | 28/08/2024, 5:09:03 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=es)                         |
 
 
 

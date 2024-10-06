@@ -22,7 +22,6 @@
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
 | Username Rename And Recycling Policies | 14/05/2024, 8:05:27 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=cs)  |
 | Twitch Turbo Guide                     | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=cs)                      |
-| Watching Twitch On Android Devices     | 11/10/2023, 8:54:06 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=cs)      |
 
 
 
