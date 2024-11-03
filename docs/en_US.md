@@ -247,15 +247,6 @@
 
 
 
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name         | Last Updated (dd/mm/yyyy) | Link                                                                  |
-|--------------|---------------------------|-----------------------------------------------------------------------|
-| Month Length | 23/08/2024, 3:54:20 am    | [Link](https://help.twitch.tv/s/article/month-length?language=en_US)  |
-
-
-
 ## View-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-view-1.xml) this sitemap
 
