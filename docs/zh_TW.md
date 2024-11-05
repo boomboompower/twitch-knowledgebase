@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Political Onboarding                               | 04/11/2024, 7:58:37 pm    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=zh_TW)                                |
 | Managing Your Phone Number                         | 30/10/2024, 1:53:05 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)                          |
 | Watching Twitch On Android Devices                 | 02/10/2024, 9:49:59 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=zh_TW)                  |
 | Follower Emotes                                    | 02/10/2024, 9:44:43 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=zh_TW)                                     |

@@ -9,29 +9,29 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 
 | Name                          | Last Updated (dd/mm/yyyy) | Articles       | Link                   |
 |-------------------------------|---------------------------|----------------|------------------------|
-| Bulgarian                     | 06/06/2024, 3:13:19 am    | 3 article(s)   | [View](docs/bg.md)     |
+| Bulgarian                     | 06/06/2024, 3:13:19 am    | 2 article(s)   | [View](docs/bg.md)     |
 | Chinese (Simplified, China)   | 06/06/2024, 3:13:19 am    | 7 article(s)   | [View](docs/zh_CN.md)  |
-| Chinese (Traditional, Taiwan) | 30/10/2024, 1:53:05 pm    | 193 article(s) | [View](docs/zh_TW.md)  |
-| Czech                         | 02/10/2024, 9:49:59 am    | 23 article(s)  | [View](docs/cs.md)     |
-| Danish                        | 08/06/2024, 9:42:28 am    | 30 article(s)  | [View](docs/da.md)     |
+| Chinese (Traditional, Taiwan) | 04/11/2024, 7:58:37 pm    | 194 article(s) | [View](docs/zh_TW.md)  |
+| Czech                         | 02/10/2024, 9:49:59 am    | 22 article(s)  | [View](docs/cs.md)     |
+| Danish                        | 08/06/2024, 9:42:28 am    | 29 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 02/10/2024, 9:49:59 am    | 36 article(s)  | [View](docs/nl_NL.md)  |
-| English (United States)       | 02/11/2024, 2:21:53 am    | 212 article(s) | [View](docs/en_US.md)  |
+| English (United States)       | 02/11/2024, 2:21:53 am    | 213 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 02/10/2024, 9:49:59 am    | 27 article(s)  | [View](docs/fi.md)     |
-| French                        | 30/10/2024, 9:11:11 pm    | 196 article(s) | [View](docs/fr.md)     |
-| German                        | 31/10/2024, 1:02:34 am    | 197 article(s) | [View](docs/de.md)     |
-| Greek                         | 02/10/2024, 9:49:59 am    | 8 article(s)   | [View](docs/el.md)     |
+| French                        | 04/11/2024, 10:54:10 pm   | 197 article(s) | [View](docs/fr.md)     |
+| German                        | 05/11/2024, 1:08:41 am    | 199 article(s) | [View](docs/de.md)     |
+| Greek                         | 02/10/2024, 9:49:59 am    | 7 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 02/10/2024, 9:49:59 am    | 20 article(s)  | [View](docs/hu.md)     |
 | Italian                       | 02/11/2024, 2:21:54 am    | 196 article(s) | [View](docs/it.md)     |
 | Japanese                      | 04/11/2024, 1:43:34 pm    | 195 article(s) | [View](docs/ja.md)     |
 | Norwegian                     | 02/10/2024, 9:49:59 am    | 29 article(s)  | [View](docs/no.md)     |
 | Polish                        | 24/10/2024, 8:20:05 am    | 187 article(s) | [View](docs/pl.md)     |
-| Portuguese (Brazil)           | 30/10/2024, 9:55:03 pm    | 193 article(s) | [View](docs/pt_BR.md)  |
+| Portuguese (Brazil)           | 04/11/2024, 11:37:36 pm   | 194 article(s) | [View](docs/pt_BR.md)  |
 | Portuguese (Portugal)         | 02/10/2024, 9:49:59 am    | 41 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 06/06/2024, 3:13:19 am    | 2 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 24/10/2024, 8:20:05 am    | 188 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 06/06/2024, 3:13:19 am    | 2 article(s)   | [View](docs/sk.md)     |
-| Spanish                       | 02/11/2024, 2:21:54 am    | 196 article(s) | [View](docs/es.md)     |
-| Spanish (Mexico)              | 02/11/2024, 2:21:54 am    | 196 article(s) | [View](docs/es_MX.md)  |
+| Spanish                       | 02/11/2024, 2:21:54 am    | 197 article(s) | [View](docs/es.md)     |
+| Spanish (Mexico)              | 02/11/2024, 2:21:54 am    | 197 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 02/10/2024, 9:49:59 am    | 26 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 24/10/2024, 8:20:05 am    | 181 article(s) | [View](docs/th.md)     |
 | Turkish                       | 24/10/2024, 8:20:05 am    | 188 article(s) | [View](docs/tr.md)     |

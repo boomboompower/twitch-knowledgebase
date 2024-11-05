@@ -11,7 +11,6 @@
 | Chat Commands                         | 06/06/2024, 3:13:19 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=cs)                          |
 | How To Manage Harassment In Chat      | 06/06/2024, 3:12:27 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=cs)       |
 | Prime Gaming Revenue Guide            | 17/05/2024, 4:37:05 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=cs)             |
-| Twitch Studio Faq                     | 16/05/2024, 2:57:59 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=cs)                      |
 
 
 
