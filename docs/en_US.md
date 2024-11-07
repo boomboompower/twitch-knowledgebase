@@ -6,6 +6,8 @@
 
 | Name                                           | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Content Classification Labels                  | 07/11/2024, 6:29:08 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=en_US)                   |
+| Turbo Pricing By Country                       | 07/11/2024, 6:27:52 am    | [Link](https://help.twitch.tv/s/article/turbo-pricing-by-country?language=en_US)                        |
 | Political Onboarding                           | 02/11/2024, 2:21:53 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=en_US)                            |
 | Managing Your Phone Number                     | 24/10/2024, 8:20:05 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=en_US)                      |
 | Watching Twitch On Android Devices             | 02/10/2024, 9:49:59 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=en_US)              |
@@ -36,7 +38,6 @@
 | Prime Gaming Revenue Guide                     | 17/05/2024, 4:37:08 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)                      |
 | Creator Goals                                  | 16/05/2024, 3:18:13 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                   |
 | Alerts By Twitch Events                        | 16/05/2024, 3:18:04 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                         |
-| Twitch Studio Faq                              | 16/05/2024, 2:58:00 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=en_US)                               |
 
 
 
