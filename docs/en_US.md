@@ -6,6 +6,19 @@
 
 | Name                                           | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Appleshareplay                                 | 08/11/2024, 0:33:56 pm    | [Link](https://help.twitch.tv/s/article/appleshareplay?language=en_US)                                  |
+| Affiliates Plus                                | 08/11/2024, 0:27:52 pm    | [Link](https://help.twitch.tv/s/article/affiliates-plus?language=en_US)                                 |
+| Minimum Payout Threshold                       | 08/11/2024, 0:23:13 pm    | [Link](https://help.twitch.tv/s/article/minimum-payout-threshold?language=en_US)                        |
+| Minimum Payout Threshold Countries             | 08/11/2024, 0:19:58 pm    | [Link](https://help.twitch.tv/s/article/minimum-payout-threshold-countries?language=en_US)              |
+| Annual Recap                                   | 08/11/2024, 0:01:41 pm    | [Link](https://help.twitch.tv/s/article/annual-recap?language=en_US)                                    |
+| Supported Mobile Os                            | 08/11/2024, 11:48:03 am   | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=en_US)                             |
+| 2023 Updated Monetized Streamer Agreement      | 08/11/2024, 11:42:03 am   | [Link](https://help.twitch.tv/s/article/2023-updated-monetized-streamer-agreement?language=en_US)       |
+| St Virtual Cameras                             | 08/11/2024, 11:37:16 am   | [Link](https://help.twitch.tv/s/article/st-virtual-cameras?language=en_US)                              |
+| Affiliate Or Partner Anniversary Settings      | 08/11/2024, 11:26:14 am   | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=en_US)       |
+| Display Names On Twitch                        | 08/11/2024, 10:19:52 am   | [Link](https://help.twitch.tv/s/article/display-names-on-twitch?language=en_US)                         |
+| Your First Payout Walkthrough                  | 08/11/2024, 10:16:40 am   | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=en_US)                   |
+| Featured Clips                                 | 08/11/2024, 10:13:01 am   | [Link](https://help.twitch.tv/s/article/featured-clips?language=en_US)                                  |
+| Sub Codes                                      | 08/11/2024, 9:40:13 am    | [Link](https://help.twitch.tv/s/article/sub-codes?language=en_US)                                       |
 | Content Classification Labels                  | 07/11/2024, 6:29:08 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=en_US)                   |
 | Turbo Pricing By Country                       | 07/11/2024, 6:27:52 am    | [Link](https://help.twitch.tv/s/article/turbo-pricing-by-country?language=en_US)                        |
 | Political Onboarding                           | 02/11/2024, 2:21:53 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=en_US)                            |
@@ -251,9 +264,13 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name         | Last Updated (dd/mm/yyyy) | Link                                                                  |
-|--------------|---------------------------|-----------------------------------------------------------------------|
-| Month Length | 23/08/2024, 3:54:20 am    | [Link](https://help.twitch.tv/s/article/month-length?language=en_US)  |
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| St Virtual Cameras                  | 08/11/2024, 11:37:16 am   | [Link](https://help.twitch.tv/s/article/st-virtual-cameras?language=en_US)                   |
+| Locating Your Twitch Invoice Number | 13/09/2024, 3:39:40 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=en_US)  |
+| Bleed Purple                        | 12/09/2024, 6:01:05 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=en_US)                         |
+| Drops Prime Difference              | 23/08/2024, 4:29:46 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=en_US)               |
+| Month Length                        | 23/08/2024, 3:54:20 am    | [Link](https://help.twitch.tv/s/article/month-length?language=en_US)                         |
 
 
 

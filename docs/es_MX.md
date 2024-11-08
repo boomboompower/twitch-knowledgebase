@@ -6,6 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Affiliate Or Partner Anniversary Settings          | 08/11/2024, 11:26:14 am   | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=es_MX)           |
+| Your First Payout Walkthrough                      | 08/11/2024, 10:16:40 am   | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=es_MX)                       |
 | Political Onboarding                               | 02/11/2024, 2:21:54 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=es_MX)                                |
 | Managing Your Phone Number                         | 30/10/2024, 8:39:34 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es_MX)                          |
 | Watching Twitch On Android Devices                 | 02/10/2024, 9:49:59 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=es_MX)                  |
@@ -240,9 +242,12 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name         | Last Updated (dd/mm/yyyy) | Link                                                                  |
-|--------------|---------------------------|-----------------------------------------------------------------------|
-| Month Length | 28/08/2024, 8:16:32 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=es_MX)  |
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Locating Your Twitch Invoice Number | 20/09/2024, 8:09:03 pm    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=es_MX)  |
+| Bleed Purple                        | 18/09/2024, 8:41:04 pm    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es_MX)                         |
+| Month Length                        | 28/08/2024, 8:16:32 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=es_MX)                         |
+| Drops Prime Difference              | 28/08/2024, 8:12:32 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es_MX)               |
 
 
 
