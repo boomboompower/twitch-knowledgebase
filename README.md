@@ -28,12 +28,12 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Portuguese (Brazil)           | 09/11/2024, 11:42:43 am   | 200 article(s) | [View](docs/pt_BR.md)  |
 | Portuguese (Portugal)         | 02/10/2024, 9:49:59 am    | 42 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 06/06/2024, 3:13:19 am    | 3 article(s)   | [View](docs/ro.md)     |
-| Russian                       | 09/11/2024, 11:42:44 am   | 193 article(s) | [View](docs/ru.md)     |
+| Russian                       | 09/11/2024, 11:42:44 am   | 194 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 06/06/2024, 3:13:19 am    | 3 article(s)   | [View](docs/sk.md)     |
 | Spanish                       | 09/11/2024, 11:42:43 am   | 202 article(s) | [View](docs/es.md)     |
 | Spanish (Mexico)              | 09/11/2024, 11:42:43 am   | 201 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 02/10/2024, 9:49:59 am    | 27 article(s)  | [View](docs/sv.md)     |
-| Thai                          | 09/11/2024, 11:42:44 am   | 187 article(s) | [View](docs/th.md)     |
+| Thai                          | 09/11/2024, 11:42:44 am   | 188 article(s) | [View](docs/th.md)     |
 | Turkish                       | 09/11/2024, 11:42:44 am   | 192 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 06/06/2024, 3:13:19 am    | 7 article(s)   | [View](docs/vi.md)     |
 
