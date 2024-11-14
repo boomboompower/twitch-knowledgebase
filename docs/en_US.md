@@ -6,6 +6,11 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| How To Use Automod                         | 14/11/2024, 10:42:03 am   | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=en_US)                          |
+| Alerts By Twitch Events                    | 14/11/2024, 8:44:39 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                     |
+| Delete Twitch Account                      | 14/11/2024, 4:17:32 am    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=en_US)                       |
+| Requesting Your Data From Twitch           | 14/11/2024, 4:15:52 am    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=en_US)            |
+| Children On Twitch                         | 14/11/2024, 4:14:02 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=en_US)                          |
 | Xbox Broadcast                             | 13/11/2024, 1:06:03 pm    | [Link](https://help.twitch.tv/s/article/xbox-broadcast?language=en_US)                              |
 | When Am I Getting Paid                     | 13/11/2024, 1:04:18 pm    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=en_US)                      |
 | Geoblocking                                | 13/11/2024, 1:00:21 pm    | [Link](https://help.twitch.tv/s/article/geoblocking?language=en_US)                                 |
@@ -122,15 +127,12 @@
 | Mission Based Drops                        | 23/08/2024, 4:31:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                         |
 | Drops Prime Difference                     | 23/08/2024, 4:29:46 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=en_US)                      |
 | Month Length                               | 23/08/2024, 3:54:20 am    | [Link](https://help.twitch.tv/s/article/month-length?language=en_US)                                |
-| How To Use Automod                         | 08/08/2024, 8:06:37 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=en_US)                          |
 | Mod View                                   | 07/08/2024, 6:33:19 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                    |
 | Stream Display Ads                         | 19/07/2024, 9:27:34 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                          |
 | Payout Details Faq                         | 11/07/2024, 9:24:10 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                          |
 | Stream Together Getting Started            | 10/07/2024, 2:45:10 am    | [Link](https://help.twitch.tv/s/article/stream-together-getting-started?language=en_US)             |
 | Tips For Applying To The Partner Program   | 25/06/2024, 5:58:40 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)    |
 | Recommended Software For Broadcasting      | 08/06/2024, 9:42:29 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=en_US)       |
-| Chat Commands                              | 06/06/2024, 3:13:20 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=en_US)                               |
-| How To Manage Harassment In Chat           | 06/06/2024, 3:12:28 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=en_US)            |
 
 
 

@@ -7,7 +7,6 @@
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
 | Recommended Software For Broadcasting | 08/06/2024, 9:42:28 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=da)  |
-| Chat Commands                         | 06/06/2024, 3:13:19 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=da)                          |
 
 
 

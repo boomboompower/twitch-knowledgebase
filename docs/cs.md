@@ -8,7 +8,6 @@
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
 | Watching Twitch On Android Devices    | 02/10/2024, 9:49:59 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=cs)     |
 | Recommended Software For Broadcasting | 08/06/2024, 9:42:28 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=cs)  |
-| Chat Commands                         | 06/06/2024, 3:13:19 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=cs)                          |
 
 
 

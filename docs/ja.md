@@ -6,6 +6,10 @@
 
 | Name                                           | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| How To Use Automod                             | 14/11/2024, 10:42:03 am   | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ja)                              |
+| Alerts By Twitch Events                        | 14/11/2024, 8:44:39 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ja)                         |
+| Delete Twitch Account                          | 14/11/2024, 4:17:32 am    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=ja)                           |
+| Children On Twitch                             | 14/11/2024, 4:14:03 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=ja)                              |
 | When Am I Getting Paid                         | 13/11/2024, 1:04:19 pm    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=ja)                          |
 | Research                                       | 13/11/2024, 8:55:18 am    | [Link](https://help.twitch.tv/s/article/research?language=ja)                                        |
 | Rejected Payout Faq                            | 13/11/2024, 8:46:11 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=ja)                             |
@@ -33,14 +37,12 @@
 | Drops Prime Difference                         | 28/08/2024, 0:01:32 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=ja)                          |
 | Mission Based Drops                            | 23/08/2024, 4:31:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                             |
 | Mod View                                       | 13/08/2024, 2:14:33 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                        |
-| How To Use Automod                             | 08/08/2024, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ja)                              |
 | Stream Display Ads                             | 19/07/2024, 9:27:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ja)                              |
 | Guest Star Getting Started                     | 13/07/2024, 6:40:06 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ja)                      |
 | Tips For Applying To The Partner Program       | 25/06/2024, 5:58:39 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ja)        |
 | How To Use Raids                               | 11/06/2024, 4:37:09 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ja)                                |
 | Recommended Software For Broadcasting          | 10/06/2024, 11:35:15 pm   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ja)           |
 | Twitch Cares Mental Health Support Information | 10/06/2024, 2:13:02 pm    | [Link](https://help.twitch.tv/s/article/twitch-cares-mental-health-support-information?language=ja)  |
-| Chat Commands                                  | 06/06/2024, 3:13:21 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=ja)                                   |
 
 
 

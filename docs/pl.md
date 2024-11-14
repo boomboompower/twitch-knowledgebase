@@ -6,6 +6,10 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| How To Use Automod                         | 14/11/2024, 10:42:03 am   | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pl)                          |
+| Alerts By Twitch Events                    | 14/11/2024, 8:44:39 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=pl)                     |
+| Delete Twitch Account                      | 14/11/2024, 4:17:32 am    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=pl)                       |
+| Children On Twitch                         | 14/11/2024, 4:14:03 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=pl)                          |
 | When Am I Getting Paid                     | 13/11/2024, 1:04:19 pm    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=pl)                      |
 | Research                                   | 13/11/2024, 8:55:18 am    | [Link](https://help.twitch.tv/s/article/research?language=pl)                                    |
 | Rejected Payout Faq                        | 13/11/2024, 8:46:11 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=pl)                         |
@@ -27,13 +31,11 @@
 | Channel Page Setup                         | 29/08/2024, 7:08:16 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=pl)                          |
 | Local Sub Price Countries                  | 23/08/2024, 8:24:11 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pl)                   |
 | Mission Based Drops                        | 23/08/2024, 4:31:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pl)                         |
-| How To Use Automod                         | 08/08/2024, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pl)                          |
 | Mod View                                   | 07/08/2024, 6:33:19 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=pl)                                    |
 | Stream Display Ads                         | 19/07/2024, 9:27:34 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pl)                          |
 | Guest Star Getting Started                 | 10/07/2024, 2:45:10 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=pl)                  |
 | Tips For Applying To The Partner Program   | 25/06/2024, 5:58:40 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=pl)    |
 | Recommended Software For Broadcasting      | 08/06/2024, 9:42:28 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=pl)       |
-| Chat Commands                              | 06/06/2024, 3:13:19 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pl)                               |
 
 
 
