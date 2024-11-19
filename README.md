@@ -15,18 +15,18 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Czech                         | 02/10/2024, 9:49:59 am    | 23 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 08/06/2024, 9:42:28 am    | 30 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 02/10/2024, 9:49:59 am    | 37 article(s)  | [View](docs/nl_NL.md)  |
-| English (United States)       | 16/11/2024, 9:58:23 am    | 313 article(s) | [View](docs/en_US.md)  |
+| English (United States)       | 16/11/2024, 9:58:23 am    | 315 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 02/10/2024, 9:49:59 am    | 28 article(s)  | [View](docs/fi.md)     |
-| French                        | 16/11/2024, 9:58:23 am    | 208 article(s) | [View](docs/fr.md)     |
-| German                        | 16/11/2024, 9:58:23 am    | 208 article(s) | [View](docs/de.md)     |
+| French                        | 19/11/2024, 0:54:05 am    | 208 article(s) | [View](docs/fr.md)     |
+| German                        | 18/11/2024, 9:23:35 pm    | 209 article(s) | [View](docs/de.md)     |
 | Greek                         | 02/10/2024, 9:49:59 am    | 8 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 02/10/2024, 9:49:59 am    | 21 article(s)  | [View](docs/hu.md)     |
 | Italian                       | 16/11/2024, 9:58:23 am    | 207 article(s) | [View](docs/it.md)     |
 | Japanese                      | 16/11/2024, 9:58:23 am    | 206 article(s) | [View](docs/ja.md)     |
 | Norwegian                     | 02/10/2024, 9:49:59 am    | 30 article(s)  | [View](docs/no.md)     |
 | Polish                        | 16/11/2024, 9:58:23 am    | 198 article(s) | [View](docs/pl.md)     |
-| Portuguese (Brazil)           | 16/11/2024, 9:58:23 am    | 206 article(s) | [View](docs/pt_BR.md)  |
-| Portuguese (Portugal)         | 14/11/2024, 10:42:03 am   | 42 article(s)  | [View](docs/pt_PT.md)  |
+| Portuguese (Brazil)           | 19/11/2024, 10:27:06 am   | 206 article(s) | [View](docs/pt_BR.md)  |
+| Portuguese (Portugal)         | 14/11/2024, 10:42:03 am   | 41 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 06/06/2024, 3:13:19 am    | 3 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 16/11/2024, 9:58:23 am    | 199 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 06/06/2024, 3:13:19 am    | 3 article(s)   | [View](docs/sk.md)     |
