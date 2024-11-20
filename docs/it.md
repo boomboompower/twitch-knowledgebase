@@ -6,9 +6,9 @@
 
 | Name                                           | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Alerts By Twitch Events                        | 19/11/2024, 7:16:34 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=it)                         |
 | When Am I Getting Paid                         | 16/11/2024, 9:58:23 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=it)                          |
 | How To Use Automod                             | 14/11/2024, 10:42:03 am   | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=it)                              |
-| Alerts By Twitch Events                        | 14/11/2024, 8:44:39 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=it)                         |
 | Delete Twitch Account                          | 14/11/2024, 4:17:32 am    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=it)                           |
 | Children On Twitch                             | 14/11/2024, 4:14:03 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=it)                              |
 | Research                                       | 13/11/2024, 8:55:18 am    | [Link](https://help.twitch.tv/s/article/research?language=it)                                        |
@@ -253,6 +253,15 @@
 | Name            | Last Updated (dd/mm/yyyy) | Link                                                                  |
 |-----------------|---------------------------|-----------------------------------------------------------------------|
 | Markdown Basics | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=it)  |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name         | Last Updated (dd/mm/yyyy) | Link                                                               |
+|--------------|---------------------------|--------------------------------------------------------------------|
+| Month Length | 28/08/2024, 5:19:32 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=it)  |
 
 
 

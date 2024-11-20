@@ -6,7 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
-| Alerts By Twitch Events                    | 19/11/2024, 10:27:06 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=pt_BR)                     |
+| Alerts By Twitch Events                    | 19/11/2024, 11:50:33 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=pt_BR)                     |
 | When Am I Getting Paid                     | 16/11/2024, 9:58:23 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=pt_BR)                      |
 | How To Use Automod                         | 14/11/2024, 10:42:03 am   | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_BR)                          |
 | Delete Twitch Account                      | 14/11/2024, 4:17:32 am    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=pt_BR)                       |
