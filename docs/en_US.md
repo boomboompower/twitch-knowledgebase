@@ -6,16 +6,26 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Twitch Charity Charities                   | 21/11/2024, 0:52:09 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity-charities?language=en_US)                    |
+| Stories                                    | 21/11/2024, 0:41:28 pm    | [Link](https://help.twitch.tv/s/article/stories?language=en_US)                                     |
+| Requesting Your Data From Twitch           | 21/11/2024, 0:34:18 pm    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=en_US)            |
+| Rejected Payout Faq                        | 21/11/2024, 0:32:19 pm    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=en_US)                         |
+| Plus Program                               | 21/11/2024, 0:18:18 pm    | [Link](https://help.twitch.tv/s/article/plus-program?language=en_US)                                |
+| Payout Details Faq                         | 21/11/2024, 0:16:00 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                          |
+| How To Use Emotes                          | 21/11/2024, 11:48:42 am   | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=en_US)                           |
+| How To Use Badges                          | 21/11/2024, 11:39:32 am   | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=en_US)                           |
+| How To Purchase Bits                       | 21/11/2024, 11:21:35 am   | [Link](https://help.twitch.tv/s/article/how-to-purchase-bits?language=en_US)                        |
+| How Subscription Streaks Work              | 21/11/2024, 11:19:40 am   | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=en_US)               |
+| Guide To Using Twitch Inspector            | 21/11/2024, 11:17:06 am   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=en_US)             |
+| Guide To Bits History                      | 21/11/2024, 10:59:51 am   | [Link](https://help.twitch.tv/s/article/guide-to-bits-history?language=en_US)                       |
 | When Am I Getting Paid                     | 16/11/2024, 9:58:23 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=en_US)                      |
 | How To Use Automod                         | 14/11/2024, 10:42:03 am   | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=en_US)                          |
 | Alerts By Twitch Events                    | 14/11/2024, 8:44:39 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                     |
 | Delete Twitch Account                      | 14/11/2024, 4:17:32 am    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=en_US)                       |
-| Requesting Your Data From Twitch           | 14/11/2024, 4:15:52 am    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=en_US)            |
 | Children On Twitch                         | 14/11/2024, 4:14:02 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=en_US)                          |
 | Xbox Broadcast                             | 13/11/2024, 1:06:03 pm    | [Link](https://help.twitch.tv/s/article/xbox-broadcast?language=en_US)                              |
 | Geoblocking                                | 13/11/2024, 1:00:21 pm    | [Link](https://help.twitch.tv/s/article/geoblocking?language=en_US)                                 |
 | Update Logins To Twitch With Facebook      | 13/11/2024, 0:53:37 pm    | [Link](https://help.twitch.tv/s/article/update-logins-to-twitch-with-facebook?language=en_US)       |
-| Twitch Charity Charities                   | 13/11/2024, 0:48:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity-charities?language=en_US)                    |
 | Twitch Research Surveys                    | 13/11/2024, 0:26:44 pm    | [Link](https://help.twitch.tv/s/article/twitch-research-surveys?language=en_US)                     |
 | Partner Discord                            | 13/11/2024, 0:24:41 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=en_US)                             |
 | Mobile                                     | 13/11/2024, 0:21:39 pm    | [Link](https://help.twitch.tv/s/article/mobile?language=en_US)                                      |
@@ -27,7 +37,6 @@
 | Subscriber Streams                         | 13/11/2024, 11:39:03 am   | [Link](https://help.twitch.tv/s/article/subscriber-streams?language=en_US)                          |
 | Streamer Read Ads                          | 13/11/2024, 11:34:00 am   | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=en_US)                           |
 | Stream Manager                             | 13/11/2024, 11:31:55 am   | [Link](https://help.twitch.tv/s/article/stream-manager?language=en_US)                              |
-| Stories                                    | 13/11/2024, 11:29:01 am   | [Link](https://help.twitch.tv/s/article/stories?language=en_US)                                     |
 | Sponsored Subscriptions                    | 13/11/2024, 11:27:03 am   | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=en_US)                     |
 | Gift Card Spend                            | 13/11/2024, 11:23:49 am   | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=en_US)                             |
 | Simulcasting Guidelines                    | 13/11/2024, 11:21:26 am   | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=en_US)                     |
@@ -35,13 +44,11 @@
 | Setup Third Party Events                   | 13/11/2024, 11:14:44 am   | [Link](https://help.twitch.tv/s/article/setup-third-party-events?language=en_US)                    |
 | Dj Secondary                               | 13/11/2024, 9:00:06 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=en_US)                                |
 | Research                                   | 13/11/2024, 8:55:17 am    | [Link](https://help.twitch.tv/s/article/research?language=en_US)                                    |
-| Rejected Payout Faq                        | 13/11/2024, 8:46:10 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=en_US)                         |
 | Gift Card Redeem                           | 13/11/2024, 8:44:14 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=en_US)                            |
 | Reactions                                  | 13/11/2024, 8:41:11 am    | [Link](https://help.twitch.tv/s/article/reactions?language=en_US)                                   |
 | Gift Card                                  | 13/11/2024, 8:39:00 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=en_US)                                   |
 | Power Ups                                  | 13/11/2024, 8:29:49 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=en_US)                                   |
 | Partner Plus Abuse                         | 13/11/2024, 8:25:27 am    | [Link](https://help.twitch.tv/s/article/partner-plus-abuse?language=en_US)                          |
-| Plus Program                               | 13/11/2024, 8:18:22 am    | [Link](https://help.twitch.tv/s/article/plus-program?language=en_US)                                |
 | Playback Issue Troubleshooting             | 13/11/2024, 8:13:45 am    | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=en_US)              |
 | Payout Balance Faq                         | 13/11/2024, 8:11:05 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=en_US)                          |
 | Notifications Inbox                        | 13/11/2024, 7:51:33 am    | [Link](https://help.twitch.tv/s/article/notifications-inbox?language=en_US)                         |
@@ -51,12 +58,9 @@
 | Local Subscription Pricing                 | 13/11/2024, 7:07:19 am    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=en_US)                  |
 | Leaderboards Guide                         | 13/11/2024, 6:57:39 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=en_US)                          |
 | Hype Challenge                             | 13/11/2024, 6:32:54 am    | [Link](https://help.twitch.tv/s/article/hype-challenge?language=en_US)                              |
-| How To Use Emotes                          | 13/11/2024, 6:23:53 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=en_US)                           |
 | Stream Together                            | 13/11/2024, 6:04:26 am    | [Link](https://help.twitch.tv/s/article/stream-together?language=en_US)                             |
-| How To Use Badges                          | 13/11/2024, 5:58:17 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=en_US)                           |
 | How To Share A Stream                      | 13/11/2024, 5:55:29 am    | [Link](https://help.twitch.tv/s/article/how-to-share-a-stream?language=en_US)                       |
 | Search With Tags                           | 13/11/2024, 5:43:18 am    | [Link](https://help.twitch.tv/s/article/search-with-tags?language=en_US)                            |
-| How To Purchase Bits                       | 13/11/2024, 5:27:28 am    | [Link](https://help.twitch.tv/s/article/how-to-purchase-bits?language=en_US)                        |
 | Dj Opt Out                                 | 13/11/2024, 5:21:41 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=en_US)                                  |
 | Shoutouts                                  | 13/11/2024, 5:10:48 am    | [Link](https://help.twitch.tv/s/article/shoutouts?language=en_US)                                   |
 | How To Find And Browse Clips               | 13/11/2024, 5:08:58 am    | [Link](https://help.twitch.tv/s/article/how-to-find-and-browse-clips?language=en_US)                |
@@ -64,10 +68,8 @@
 | How To Contact Support                     | 09/11/2024, 11:44:35 am   | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=en_US)                      |
 | How To Contact Extension Developer         | 09/11/2024, 11:42:43 am   | [Link](https://help.twitch.tv/s/article/how-to-contact-extension-developer?language=en_US)          |
 | How To Configure Extensions                | 09/11/2024, 11:36:44 am   | [Link](https://help.twitch.tv/s/article/how-to-configure-extensions?language=en_US)                 |
-| How Subscription Streaks Work              | 09/11/2024, 11:30:00 am   | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=en_US)               |
 | How Does Search Work                       | 09/11/2024, 11:20:48 am   | [Link](https://help.twitch.tv/s/article/how-does-search-work?language=en_US)                        |
 | How Do Thumbnails Work                     | 09/11/2024, 11:11:58 am   | [Link](https://help.twitch.tv/s/article/how-do-thumbnails-work?language=en_US)                      |
-| Guide To Bits History                      | 09/11/2024, 11:05:12 am   | [Link](https://help.twitch.tv/s/article/guide-to-bits-history?language=en_US)                       |
 | Global Emotes                              | 09/11/2024, 11:02:57 am   | [Link](https://help.twitch.tv/s/article/global-emotes?language=en_US)                               |
 | Gift Subscriptions For Creators            | 09/11/2024, 10:54:24 am   | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=en_US)             |
 | Partner Front Page                         | 09/11/2024, 10:50:12 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)                          |
@@ -129,10 +131,8 @@
 | Month Length                               | 23/08/2024, 3:54:20 am    | [Link](https://help.twitch.tv/s/article/month-length?language=en_US)                                |
 | Mod View                                   | 07/08/2024, 6:33:19 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                    |
 | Stream Display Ads                         | 19/07/2024, 9:27:34 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                          |
-| Payout Details Faq                         | 11/07/2024, 9:24:10 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                          |
 | Stream Together Getting Started            | 10/07/2024, 2:45:10 am    | [Link](https://help.twitch.tv/s/article/stream-together-getting-started?language=en_US)             |
 | Tips For Applying To The Partner Program   | 25/06/2024, 5:58:40 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)    |
-| Recommended Software For Broadcasting      | 08/06/2024, 9:42:29 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=en_US)       |
 
 
 
@@ -359,10 +359,26 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name          | Last Updated (dd/mm/yyyy) | Link                                                                   |
-|---------------|---------------------------|------------------------------------------------------------------------|
-| Dj Unreleased | 13/11/2024, 0:00:09 pm    | [Link](https://help.twitch.tv/s/article/dj-unreleased?language=en_US)  |
-| Month Length  | 23/08/2024, 3:54:20 am    | [Link](https://help.twitch.tv/s/article/month-length?language=en_US)   |
+| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
+|---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Partner Discord                       | 13/11/2024, 0:24:41 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=en_US)                        |
+| Mobile                                | 13/11/2024, 0:21:39 pm    | [Link](https://help.twitch.tv/s/article/mobile?language=en_US)                                 |
+| Dj Unreleased                         | 13/11/2024, 0:00:09 pm    | [Link](https://help.twitch.tv/s/article/dj-unreleased?language=en_US)                          |
+| Subtember 2024 Faq                    | 13/11/2024, 11:41:23 am   | [Link](https://help.twitch.tv/s/article/subtember-2024-faq?language=en_US)                     |
+| Shared Chat                           | 13/11/2024, 11:17:41 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=en_US)                            |
+| Dj Secondary                          | 13/11/2024, 9:00:06 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=en_US)                           |
+| Research                              | 13/11/2024, 8:55:17 am    | [Link](https://help.twitch.tv/s/article/research?language=en_US)                               |
+| Power Ups                             | 13/11/2024, 8:29:49 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=en_US)                              |
+| Stream Together                       | 13/11/2024, 6:04:26 am    | [Link](https://help.twitch.tv/s/article/stream-together?language=en_US)                        |
+| Dj Opt Out                            | 13/11/2024, 5:21:41 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=en_US)                             |
+| Partner Front Page                    | 09/11/2024, 10:50:12 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)                     |
+| Enhanced Broadcasting Getting Started | 09/11/2024, 10:16:44 am   | [Link](https://help.twitch.tv/s/article/enhanced-broadcasting-getting-started?language=en_US)  |
+| Dj Program Faq                        | 09/11/2024, 10:00:37 am   | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=en_US)                         |
+| St Drop Ins                           | 09/11/2024, 8:40:01 am    | [Link](https://help.twitch.tv/s/article/st-drop-ins?language=en_US)                            |
+| Bleed Purple                          | 09/11/2024, 8:08:29 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=en_US)                           |
+| St Virtual Cameras                    | 08/11/2024, 11:37:16 am   | [Link](https://help.twitch.tv/s/article/st-virtual-cameras?language=en_US)                     |
+| Drops Prime Difference                | 23/08/2024, 4:29:46 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=en_US)                 |
+| Month Length                          | 23/08/2024, 3:54:20 am    | [Link](https://help.twitch.tv/s/article/month-length?language=en_US)                           |
 
 
 
