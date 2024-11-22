@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| How Do I Stream Faq                        | 22/11/2024, 5:43:19 am    | [Link](https://help.twitch.tv/s/article/how-do-i-stream-faq?language=ru)                         |
 | Rejected Payout Faq                        | 21/11/2024, 0:32:19 pm    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=ru)                         |
 | Guide To Using Twitch Inspector            | 21/11/2024, 11:17:07 am   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=ru)             |
 | When Am I Getting Paid                     | 16/11/2024, 9:58:23 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=ru)                      |
@@ -35,7 +36,6 @@
 | Mod View                                   | 07/08/2024, 6:33:19 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=ru)                                    |
 | Stream Display Ads                         | 19/07/2024, 9:27:34 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ru)                          |
 | Guest Star Getting Started                 | 10/07/2024, 2:45:10 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ru)                  |
-| Tips For Applying To The Partner Program   | 25/06/2024, 5:58:40 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ru)    |
 
 
 

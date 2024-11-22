@@ -6,13 +6,15 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| How Do I Stream Faq                        | 22/11/2024, 5:43:18 am    | [Link](https://help.twitch.tv/s/article/how-do-i-stream-faq?language=es)                         |
+| Delete Twitch Account                      | 21/11/2024, 10:13:41 pm   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=es)                       |
+| Requesting Your Data From Twitch           | 21/11/2024, 10:13:38 pm   | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=es)            |
+| Children On Twitch                         | 21/11/2024, 10:13:33 pm   | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=es)                          |
 | Rejected Payout Faq                        | 21/11/2024, 0:32:19 pm    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=es)                         |
 | Guide To Using Twitch Inspector            | 21/11/2024, 11:17:07 am   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=es)             |
 | How To Use Automod                         | 20/11/2024, 9:25:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es)                          |
 | Alerts By Twitch Events                    | 19/11/2024, 9:04:32 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=es)                     |
 | When Am I Getting Paid                     | 16/11/2024, 9:58:23 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=es)                      |
-| Delete Twitch Account                      | 14/11/2024, 4:17:32 am    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=es)                       |
-| Children On Twitch                         | 14/11/2024, 4:14:03 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=es)                          |
 | Research                                   | 13/11/2024, 8:55:17 am    | [Link](https://help.twitch.tv/s/article/research?language=es)                                    |
 | Payout Balance Faq                         | 13/11/2024, 8:11:05 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=es)                          |
 | Managing And Upgrading A Gift Subscription | 13/11/2024, 7:12:45 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=es)  |
@@ -40,8 +42,6 @@
 | Mod View                                   | 13/08/2024, 10:28:33 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=es)                                    |
 | Stream Display Ads                         | 19/07/2024, 9:27:35 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es)                          |
 | Guest Star Getting Started                 | 12/07/2024, 8:44:33 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es)                  |
-| Tips For Applying To The Partner Program   | 25/06/2024, 5:58:40 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=es)    |
-| How To Use Raids                           | 11/06/2024, 1:38:36 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=es)                            |
 
 
 

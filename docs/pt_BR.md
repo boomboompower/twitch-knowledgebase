@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| How Do I Stream Faq                        | 22/11/2024, 5:43:19 am    | [Link](https://help.twitch.tv/s/article/how-do-i-stream-faq?language=pt_BR)                         |
 | Requesting Your Data From Twitch           | 21/11/2024, 0:34:18 pm    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=pt_BR)            |
 | Rejected Payout Faq                        | 21/11/2024, 0:32:19 pm    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=pt_BR)                         |
 | Guide To Using Twitch Inspector            | 21/11/2024, 11:17:07 am   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=pt_BR)             |
@@ -42,8 +43,6 @@
 | Stream Display Ads                         | 19/07/2024, 9:27:33 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pt_BR)                          |
 | Guest Star Getting Started                 | 11/07/2024, 2:33:04 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=pt_BR)                  |
 | Tips For Applying To The Partner Program   | 25/06/2024, 5:58:41 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=pt_BR)    |
-| How To Use Raids                           | 11/06/2024, 3:18:35 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=pt_BR)                            |
-| Recommended Software For Broadcasting      | 10/06/2024, 11:35:21 pm   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=pt_BR)       |
 
 
 

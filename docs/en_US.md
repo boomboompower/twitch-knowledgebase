@@ -6,6 +6,8 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Bonus Round                                | 22/11/2024, 7:05:09 am    | [Link](https://help.twitch.tv/s/article/bonus-round?language=en_US)                                 |
+| How Do I Stream Faq                        | 22/11/2024, 5:43:17 am    | [Link](https://help.twitch.tv/s/article/how-do-i-stream-faq?language=en_US)                         |
 | Twitch Charity Charities                   | 21/11/2024, 0:52:09 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity-charities?language=en_US)                    |
 | Stories                                    | 21/11/2024, 0:41:28 pm    | [Link](https://help.twitch.tv/s/article/stories?language=en_US)                                     |
 | Requesting Your Data From Twitch           | 21/11/2024, 0:34:18 pm    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=en_US)            |
@@ -88,7 +90,6 @@
 | Community Challenges                       | 09/11/2024, 8:44:58 am    | [Link](https://help.twitch.tv/s/article/community-challenges?language=en_US)                        |
 | St Drop Ins                                | 09/11/2024, 8:40:01 am    | [Link](https://help.twitch.tv/s/article/st-drop-ins?language=en_US)                                 |
 | Clips Settings                             | 09/11/2024, 8:35:29 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=en_US)                              |
-| Bonus Round                                | 09/11/2024, 8:14:52 am    | [Link](https://help.twitch.tv/s/article/bonus-round?language=en_US)                                 |
 | Bleed Purple                               | 09/11/2024, 8:08:29 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=en_US)                                |
 | Branded Content Policy                     | 09/11/2024, 8:04:53 am    | [Link](https://help.twitch.tv/s/article/branded-content-policy?language=en_US)                      |
 | Adding A Game And Box Art To The Directory | 09/11/2024, 6:38:44 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=en_US)  |
