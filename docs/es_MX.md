@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Drops Prime Difference                     | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es_MX)                      |
 | How Do I Stream Faq                        | 22/11/2024, 5:43:19 am    | [Link](https://help.twitch.tv/s/article/how-do-i-stream-faq?language=es_MX)                         |
 | Delete Twitch Account                      | 22/11/2024, 0:54:07 am    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=es_MX)                       |
 | Requesting Your Data From Twitch           | 22/11/2024, 0:54:04 am    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=es_MX)            |
@@ -37,7 +38,6 @@
 | Channel Page Setup                         | 29/08/2024, 7:08:17 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=es_MX)                          |
 | Local Sub Price Countries                  | 28/08/2024, 8:16:39 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es_MX)                   |
 | Month Length                               | 28/08/2024, 8:16:32 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=es_MX)                                |
-| Drops Prime Difference                     | 28/08/2024, 8:12:32 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es_MX)                      |
 | Mission Based Drops                        | 23/08/2024, 4:31:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                         |
 | Mod View                                   | 13/08/2024, 6:33:33 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=es_MX)                                    |
 | Stream Display Ads                         | 19/07/2024, 9:27:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es_MX)                          |
