@@ -15,6 +15,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Recommended Software For Broadcasting              | 08/06/2024, 9:42:28 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=fi)               |
 | Chat Commands                                      | 06/06/2024, 3:13:19 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=fi)                                       |
 | How To Manage Harassment In Chat                   | 06/06/2024, 3:12:27 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fi)                    |
 | How To Use Raids                                   | 06/06/2024, 3:04:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=fi)                                    |

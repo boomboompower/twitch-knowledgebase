@@ -50,6 +50,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Tips For Applying To The Partner Program                 | 25/06/2024, 5:58:39 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ja)                  |
+| How To Use Raids                                         | 11/06/2024, 4:37:09 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ja)                                          |
+| Recommended Software For Broadcasting                    | 10/06/2024, 11:35:15 pm   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ja)                     |
+| Twitch Cares Mental Health Support Information           | 10/06/2024, 2:13:02 pm    | [Link](https://help.twitch.tv/s/article/twitch-cares-mental-health-support-information?language=ja)            |
 | Chat Commands                                            | 06/06/2024, 3:13:21 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=ja)                                             |
 | How To Manage Harassment In Chat                         | 06/06/2024, 3:12:28 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ja)                          |
 | Partner Program Overview                                 | 27/05/2024, 1:54:33 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                                  |
@@ -135,7 +139,6 @@
 | Music Options For Streamers                                   | 11/07/2023, 2:52:16 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=ja)                                    |
 | Refunds On Twitch                                             | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ja)                                              |
 | Video On Demand                                               | 24/06/2023, 0:46:15 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                                                |
-| Patch Notes 19                                                | 23/06/2023, 6:48:01 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=ja)                                                 |
 
 
 
@@ -144,6 +147,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Patch Notes 19                              | 23/06/2023, 6:48:01 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=ja)                               |
 | Twitch Stream Key Faq                       | 30/05/2023, 4:46:12 pm    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ja)                        |
 | Local Recording                             | 30/05/2023, 4:46:10 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=ja)                              |
 | Payout History Dashboard Guide              | 30/05/2023, 4:46:07 pm    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=ja)               |
@@ -154,7 +158,6 @@
 | Picture By Picture Ads                      | 06/04/2023, 0:56:06 pm    | [Link](https://help.twitch.tv/s/article/picture-by-picture-ads?language=ja)                       |
 | Disabling Prerolls                          | 06/04/2023, 0:56:02 pm    | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=ja)                           |
 | Monthly Recap                               | 30/03/2023, 7:00:46 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=ja)                                |
-| Guide To Using Twitch Inspector             | 28/03/2023, 5:31:34 pm    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=ja)              |
 | Guide To Closed Captions                    | 22/03/2023, 8:15:10 pm    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=ja)                     |
 | Subscriptions On Mobile                     | 21/03/2023, 11:37:36 am   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ja)                      |
 | Multi Month Subscriptions                   | 21/03/2023, 11:37:34 am   | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=ja)                    |
@@ -190,7 +193,6 @@
 | Twitch Music Fast Start Guide               | 13/01/2022, 9:51:30 am    | [Link](https://help.twitch.tv/s/article/twitch-music-fast-start-guide?language=ja)                |
 | List Of Prohibited Games                    | 15/12/2021, 6:48:32 am    | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=ja)                     |
 | Modified Emotes                             | 19/11/2021, 5:13:45 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=ja)                              |
-| Default Emotes                              | 19/11/2021, 5:12:25 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=ja)                               |
 
 
 
@@ -199,6 +201,7 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Default Emotes                                    | 19/11/2021, 5:12:25 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=ja)                                     |
 | Broadcast Guidelines                              | 02/11/2021, 1:25:24 am    | [Link](https://help.twitch.tv/s/article/broadcast-guidelines?language=ja)                               |
 | Hyper Scape                                       | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/hyper-scape?language=ja)                                        |
 | Stream With Pride                                 | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=ja)                                  |
@@ -241,27 +244,16 @@
 | Where Are My Notifications                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=ja)                         |
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=ja)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                         |
-| How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)             |
 
 
 
 ## Article-6
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-6.xml) this sitemap
 
-| Name            | Last Updated (dd/mm/yyyy) | Link                                                                  |
-|-----------------|---------------------------|-----------------------------------------------------------------------|
-| Markdown Basics | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)  |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                   | Last Updated (dd/mm/yyyy) | Link                                                                         |
-|------------------------|---------------------------|------------------------------------------------------------------------------|
-| Bleed Purple           | 09/11/2024, 8:08:29 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=ja)            |
-| Month Length           | 28/08/2024, 0:07:02 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=ja)            |
-| Drops Prime Difference | 28/08/2024, 0:01:32 pm    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=ja)  |
+| Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)  |
+| Markdown Basics                        | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                         |
 
 
 
