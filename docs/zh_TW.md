@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Managing Your Phone Number                 | 26/11/2024, 3:39:47 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)                  |
 | Drops Prime Difference                     | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=zh_TW)                      |
 | How Do I Stream Faq                        | 22/11/2024, 5:43:20 am    | [Link](https://help.twitch.tv/s/article/how-do-i-stream-faq?language=zh_TW)                         |
 | Requesting Your Data From Twitch           | 21/11/2024, 9:19:06 pm    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=zh_TW)            |
@@ -30,7 +31,6 @@
 | Affiliate Or Partner Anniversary Settings  | 08/11/2024, 11:26:15 am   | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=zh_TW)   |
 | Your First Payout Walkthrough              | 08/11/2024, 10:16:41 am   | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=zh_TW)               |
 | Political Onboarding                       | 04/11/2024, 7:58:37 pm    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=zh_TW)                        |
-| Managing Your Phone Number                 | 30/10/2024, 1:53:05 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)                  |
 | Channel Analytics                          | 01/10/2024, 8:25:42 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=zh_TW)                           |
 | Locating Your Twitch Invoice Number        | 20/09/2024, 1:03:33 pm    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=zh_TW)         |
 | How To Use Clips                           | 13/09/2024, 6:33:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                            |
@@ -252,6 +252,15 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)              |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)  |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name         | Last Updated (dd/mm/yyyy) | Link                                                                  |
+|--------------|---------------------------|-----------------------------------------------------------------------|
+| Month Length | 28/08/2024, 2:27:03 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=zh_TW)  |
 
 
 
