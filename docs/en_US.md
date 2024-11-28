@@ -6,6 +6,10 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Alerts By Twitch Events                    | 28/11/2024, 0:18:19 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                     |
+| Twitch Chat Badges Guide                   | 28/11/2024, 11:48:51 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                    |
+| How To Use Badges                          | 28/11/2024, 11:47:30 am   | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=en_US)                           |
+| Dj Secondary                               | 28/11/2024, 11:45:52 am   | [Link](https://help.twitch.tv/s/article/dj-secondary?language=en_US)                                |
 | Mod View                                   | 27/11/2024, 11:31:57 am   | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                    |
 | Supported Mobile Os                        | 27/11/2024, 11:12:53 am   | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=en_US)                         |
 | Content Classification Labels              | 26/11/2024, 9:49:38 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=en_US)               |
@@ -21,14 +25,12 @@
 | Plus Program                               | 21/11/2024, 0:18:18 pm    | [Link](https://help.twitch.tv/s/article/plus-program?language=en_US)                                |
 | Payout Details Faq                         | 21/11/2024, 0:16:00 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                          |
 | How To Use Emotes                          | 21/11/2024, 11:48:42 am   | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=en_US)                           |
-| How To Use Badges                          | 21/11/2024, 11:39:32 am   | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=en_US)                           |
 | How To Purchase Bits                       | 21/11/2024, 11:21:35 am   | [Link](https://help.twitch.tv/s/article/how-to-purchase-bits?language=en_US)                        |
 | How Subscription Streaks Work              | 21/11/2024, 11:19:40 am   | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=en_US)               |
 | Guide To Using Twitch Inspector            | 21/11/2024, 11:17:06 am   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=en_US)             |
 | Guide To Bits History                      | 21/11/2024, 10:59:51 am   | [Link](https://help.twitch.tv/s/article/guide-to-bits-history?language=en_US)                       |
 | When Am I Getting Paid                     | 16/11/2024, 9:58:23 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=en_US)                      |
 | How To Use Automod                         | 14/11/2024, 10:42:03 am   | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=en_US)                          |
-| Alerts By Twitch Events                    | 14/11/2024, 8:44:39 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                     |
 | Delete Twitch Account                      | 14/11/2024, 4:17:32 am    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=en_US)                       |
 | Children On Twitch                         | 14/11/2024, 4:14:02 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=en_US)                          |
 | Xbox Broadcast                             | 13/11/2024, 1:06:03 pm    | [Link](https://help.twitch.tv/s/article/xbox-broadcast?language=en_US)                              |
@@ -50,7 +52,6 @@
 | Simulcasting Guidelines                    | 13/11/2024, 11:21:26 am   | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=en_US)                     |
 | Shared Chat                                | 13/11/2024, 11:17:41 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=en_US)                                 |
 | Setup Third Party Events                   | 13/11/2024, 11:14:44 am   | [Link](https://help.twitch.tv/s/article/setup-third-party-events?language=en_US)                    |
-| Dj Secondary                               | 13/11/2024, 9:00:06 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=en_US)                                |
 | Research                                   | 13/11/2024, 8:55:17 am    | [Link](https://help.twitch.tv/s/article/research?language=en_US)                                    |
 | Gift Card Redeem                           | 13/11/2024, 8:44:14 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=en_US)                            |
 | Reactions                                  | 13/11/2024, 8:41:11 am    | [Link](https://help.twitch.tv/s/article/reactions?language=en_US)                                   |
@@ -132,8 +133,6 @@
 | Mission Based Drops                        | 23/08/2024, 4:31:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                         |
 | Month Length                               | 23/08/2024, 3:54:20 am    | [Link](https://help.twitch.tv/s/article/month-length?language=en_US)                                |
 | Stream Display Ads                         | 19/07/2024, 9:27:34 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                          |
-| Stream Together Getting Started            | 10/07/2024, 2:45:10 am    | [Link](https://help.twitch.tv/s/article/stream-together-getting-started?language=en_US)             |
-| Tips For Applying To The Partner Program   | 25/06/2024, 5:58:40 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)    |
 
 
 
@@ -361,8 +360,17 @@
 
 | Name                    | Last Updated (dd/mm/yyyy) | Link                                                                             |
 |-------------------------|---------------------------|----------------------------------------------------------------------------------|
+| Dj Secondary            | 28/11/2024, 11:45:52 am   | [Link](https://help.twitch.tv/s/article/dj-secondary?language=en_US)             |
+| Stream Together         | 26/11/2024, 9:34:11 am    | [Link](https://help.twitch.tv/s/article/stream-together?language=en_US)          |
 | Drops Prime Differences | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-differences?language=en_US)  |
 | Dj Unreleased           | 13/11/2024, 0:00:09 pm    | [Link](https://help.twitch.tv/s/article/dj-unreleased?language=en_US)            |
+| Subtember 2024 Faq      | 13/11/2024, 11:41:23 am   | [Link](https://help.twitch.tv/s/article/subtember-2024-faq?language=en_US)       |
+| Shared Chat             | 13/11/2024, 11:17:41 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=en_US)              |
+| Dj Opt Out              | 13/11/2024, 5:21:41 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=en_US)               |
+| Partner Front Page      | 09/11/2024, 10:50:12 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)       |
+| Dj Program Faq          | 09/11/2024, 10:00:37 am   | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=en_US)           |
+| St Drop Ins             | 09/11/2024, 8:40:01 am    | [Link](https://help.twitch.tv/s/article/st-drop-ins?language=en_US)              |
+| St Virtual Cameras      | 08/11/2024, 11:37:16 am   | [Link](https://help.twitch.tv/s/article/st-virtual-cameras?language=en_US)       |
 | Month Length            | 23/08/2024, 3:54:20 am    | [Link](https://help.twitch.tv/s/article/month-length?language=en_US)             |
 
 
