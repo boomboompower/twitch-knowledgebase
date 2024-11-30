@@ -6,6 +6,8 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Supported Mobile Os                        | 29/11/2024, 10:06:05 pm   | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=es_MX)                         |
+| Bonus Round                                | 29/11/2024, 9:45:33 pm    | [Link](https://help.twitch.tv/s/article/bonus-round?language=es_MX)                                 |
 | Mod View                                   | 29/11/2024, 3:04:11 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=es_MX)                                    |
 | Alerts By Twitch Events                    | 28/11/2024, 0:18:19 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=es_MX)                     |
 | Twitch Chat Badges Guide                   | 28/11/2024, 11:48:51 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es_MX)                    |

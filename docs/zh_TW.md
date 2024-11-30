@@ -6,6 +6,8 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Bonus Round                                | 29/11/2024, 9:37:02 pm    | [Link](https://help.twitch.tv/s/article/bonus-round?language=zh_TW)                                 |
+| Supported Mobile Os                        | 29/11/2024, 9:36:03 pm    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=zh_TW)                         |
 | Mod View                                   | 29/11/2024, 3:04:15 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                    |
 | Alerts By Twitch Events                    | 28/11/2024, 0:18:19 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=zh_TW)                     |
 | Twitch Chat Badges Guide                   | 28/11/2024, 11:48:51 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                    |
@@ -44,7 +46,6 @@
 | Twitch Music Getting Started               | 09/08/2024, 5:37:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=zh_TW)                |
 | Music Options For Streamers                | 09/08/2024, 5:35:04 pm    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=zh_TW)                 |
 | Alerts By Twitch Faq                       | 09/08/2024, 5:34:35 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=zh_TW)                        |
-| Stream Display Ads                         | 19/07/2024, 9:27:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=zh_TW)                          |
 
 
 

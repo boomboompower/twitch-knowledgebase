@@ -43,7 +43,6 @@
 | Month Length                               | 28/08/2024, 0:07:02 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=ja)                                |
 | Local Sub Price Countries                  | 28/08/2024, 0:03:02 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ja)                   |
 | Mission Based Drops                        | 23/08/2024, 4:31:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                         |
-| Stream Display Ads                         | 19/07/2024, 9:27:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ja)                          |
 
 
 
