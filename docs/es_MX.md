@@ -6,11 +6,11 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Twitch Chat Badges Guide                   | 03/12/2024, 10:53:11 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es_MX)                    |
 | Supported Mobile Os                        | 29/11/2024, 10:06:05 pm   | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=es_MX)                         |
 | Bonus Round                                | 29/11/2024, 9:45:33 pm    | [Link](https://help.twitch.tv/s/article/bonus-round?language=es_MX)                                 |
 | Mod View                                   | 29/11/2024, 3:04:11 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=es_MX)                                    |
 | Alerts By Twitch Events                    | 28/11/2024, 0:18:19 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=es_MX)                     |
-| Twitch Chat Badges Guide                   | 28/11/2024, 11:48:51 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es_MX)                    |
 | Managing Your Phone Number                 | 26/11/2024, 3:39:47 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es_MX)                  |
 | Drops Prime Difference                     | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es_MX)                      |
 | How Do I Stream Faq                        | 22/11/2024, 5:43:19 am    | [Link](https://help.twitch.tv/s/article/how-do-i-stream-faq?language=es_MX)                         |
@@ -43,7 +43,6 @@
 | Local Sub Price Countries                  | 28/08/2024, 8:16:39 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es_MX)                   |
 | Month Length                               | 28/08/2024, 8:16:32 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=es_MX)                                |
 | Mission Based Drops                        | 23/08/2024, 4:31:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                         |
-| Stream Display Ads                         | 19/07/2024, 9:27:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es_MX)                          |
 
 
 
@@ -256,6 +255,16 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)              |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)  |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                   | Last Updated (dd/mm/yyyy) | Link                                                                            |
+|------------------------|---------------------------|---------------------------------------------------------------------------------|
+| Drops Prime Difference | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es_MX)  |
+| Month Length           | 28/08/2024, 8:16:32 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=es_MX)            |
 
 
 

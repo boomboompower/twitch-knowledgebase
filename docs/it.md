@@ -6,11 +6,11 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Twitch Chat Badges Guide                   | 03/12/2024, 10:53:11 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=it)                    |
 | Bonus Round                                | 29/11/2024, 7:56:32 pm    | [Link](https://help.twitch.tv/s/article/bonus-round?language=it)                                 |
 | Supported Mobile Os                        | 29/11/2024, 7:36:32 pm    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=it)                         |
 | Mod View                                   | 29/11/2024, 3:04:23 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=it)                                    |
 | Alerts By Twitch Events                    | 28/11/2024, 0:18:19 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=it)                     |
-| Twitch Chat Badges Guide                   | 28/11/2024, 11:48:51 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=it)                    |
 | Managing Your Phone Number                 | 26/11/2024, 3:39:47 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=it)                  |
 | Drops Prime Difference                     | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=it)                      |
 | How Do I Stream Faq                        | 22/11/2024, 5:43:19 am    | [Link](https://help.twitch.tv/s/article/how-do-i-stream-faq?language=it)                         |
@@ -43,7 +43,6 @@
 | Local Sub Price Countries                  | 28/08/2024, 5:20:38 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=it)                   |
 | Month Length                               | 28/08/2024, 5:19:32 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=it)                                |
 | Mission Based Drops                        | 23/08/2024, 4:31:53 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=it)                         |
-| Stream Display Ads                         | 19/07/2024, 9:27:36 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=it)                          |
 
 
 
@@ -256,6 +255,16 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=it)              |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=it)  |
 | Markdown Basics                        | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=it)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                   | Last Updated (dd/mm/yyyy) | Link                                                                         |
+|------------------------|---------------------------|------------------------------------------------------------------------------|
+| Drops Prime Difference | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=it)  |
+| Month Length           | 28/08/2024, 5:19:32 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=it)            |
 
 
 

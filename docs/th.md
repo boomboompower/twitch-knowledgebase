@@ -6,8 +6,8 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Twitch Chat Badges Guide                   | 03/12/2024, 10:53:11 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=th)                    |
 | Alerts By Twitch Events                    | 28/11/2024, 0:18:19 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=th)                     |
-| Twitch Chat Badges Guide                   | 28/11/2024, 11:48:51 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=th)                    |
 | Mod View                                   | 27/11/2024, 11:31:57 am   | [Link](https://help.twitch.tv/s/article/mod-view?language=th)                                    |
 | Managing Your Phone Number                 | 26/11/2024, 3:39:47 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=th)                  |
 | How Do I Stream Faq                        | 22/11/2024, 5:43:20 am    | [Link](https://help.twitch.tv/s/article/how-do-i-stream-faq?language=th)                         |

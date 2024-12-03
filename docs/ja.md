@@ -6,11 +6,11 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Twitch Chat Badges Guide                   | 03/12/2024, 10:53:11 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                    |
+| Alerts By Twitch Events                    | 02/12/2024, 3:07:34 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ja)                     |
 | Mod View                                   | 29/11/2024, 3:04:07 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                    |
 | Bonus Round                                | 28/11/2024, 6:05:03 pm    | [Link](https://help.twitch.tv/s/article/bonus-round?language=ja)                                 |
 | Supported Mobile Os                        | 28/11/2024, 5:40:33 pm    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=ja)                         |
-| Alerts By Twitch Events                    | 28/11/2024, 0:18:19 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ja)                     |
-| Twitch Chat Badges Guide                   | 28/11/2024, 11:48:51 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                    |
 | Managing Your Phone Number                 | 26/11/2024, 3:39:47 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ja)                  |
 | Drops Prime Difference                     | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=ja)                      |
 | How Do I Stream Faq                        | 22/11/2024, 5:43:19 am    | [Link](https://help.twitch.tv/s/article/how-do-i-stream-faq?language=ja)                         |
@@ -255,6 +255,16 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)              |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)  |
 | Markdown Basics                        | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                   | Last Updated (dd/mm/yyyy) | Link                                                                         |
+|------------------------|---------------------------|------------------------------------------------------------------------------|
+| Drops Prime Difference | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=ja)  |
+| Month Length           | 28/08/2024, 0:07:02 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=ja)            |
 
 
 

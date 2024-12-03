@@ -6,9 +6,9 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| How To Use Badges                          | 03/12/2024, 10:54:16 am   | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=en_US)                           |
+| Twitch Chat Badges Guide                   | 03/12/2024, 10:53:11 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                    |
 | Alerts By Twitch Events                    | 28/11/2024, 0:18:19 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                     |
-| Twitch Chat Badges Guide                   | 28/11/2024, 11:48:51 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                    |
-| How To Use Badges                          | 28/11/2024, 11:47:30 am   | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=en_US)                           |
 | Dj Secondary                               | 28/11/2024, 11:45:52 am   | [Link](https://help.twitch.tv/s/article/dj-secondary?language=en_US)                                |
 | Mod View                                   | 27/11/2024, 11:31:57 am   | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                    |
 | Supported Mobile Os                        | 27/11/2024, 11:12:53 am   | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=en_US)                         |
@@ -66,7 +66,6 @@
 | Managing And Upgrading A Gift Subscription | 13/11/2024, 7:12:45 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=en_US)  |
 | Local Subscription Pricing                 | 13/11/2024, 7:07:19 am    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=en_US)                  |
 | Leaderboards Guide                         | 13/11/2024, 6:57:39 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=en_US)                          |
-| Hype Challenge                             | 13/11/2024, 6:32:54 am    | [Link](https://help.twitch.tv/s/article/hype-challenge?language=en_US)                              |
 | How To Share A Stream                      | 13/11/2024, 5:55:29 am    | [Link](https://help.twitch.tv/s/article/how-to-share-a-stream?language=en_US)                       |
 | Search With Tags                           | 13/11/2024, 5:43:18 am    | [Link](https://help.twitch.tv/s/article/search-with-tags?language=en_US)                            |
 | Dj Opt Out                                 | 13/11/2024, 5:21:41 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=en_US)                                  |
@@ -353,6 +352,18 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)              |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)  |
 | Markdown Basics                        | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                             |
+|-------------------------|---------------------------|----------------------------------------------------------------------------------|
+| Drops Prime Differences | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-differences?language=en_US)  |
+| Dj Unreleased           | 13/11/2024, 0:00:09 pm    | [Link](https://help.twitch.tv/s/article/dj-unreleased?language=en_US)            |
+| Subtember 2024 Faq      | 13/11/2024, 11:41:23 am   | [Link](https://help.twitch.tv/s/article/subtember-2024-faq?language=en_US)       |
+| Month Length            | 23/08/2024, 3:54:20 am    | [Link](https://help.twitch.tv/s/article/month-length?language=en_US)             |
 
 
 
