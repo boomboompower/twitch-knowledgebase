@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Shared Viewership                          | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=en_US)                           |
 | Stream Display Ads                         | 05/12/2024, 10:40:11 am   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                          |
 | Mission Based Drops                        | 05/12/2024, 9:51:45 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                         |
 | Twitch Turbo Guide                         | 04/12/2024, 3:46:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                          |
@@ -362,6 +363,7 @@
 
 | Name                    | Last Updated (dd/mm/yyyy) | Link                                                                             |
 |-------------------------|---------------------------|----------------------------------------------------------------------------------|
+| Shared Viewership       | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=en_US)        |
 | Dj Secondary            | 28/11/2024, 11:45:52 am   | [Link](https://help.twitch.tv/s/article/dj-secondary?language=en_US)             |
 | Stream Together         | 26/11/2024, 9:34:11 am    | [Link](https://help.twitch.tv/s/article/stream-together?language=en_US)          |
 | Drops Prime Differences | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-differences?language=en_US)  |

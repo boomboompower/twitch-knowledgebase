@@ -6,7 +6,8 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
-| Stream Display Ads                         | 05/12/2024, 10:40:12 am   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=it)                          |
+| Shared Viewership                          | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=it)                           |
+| Stream Display Ads                         | 06/12/2024, 2:48:08 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=it)                          |
 | Mission Based Drops                        | 05/12/2024, 9:51:45 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=it)                         |
 | Twitch Turbo Guide                         | 04/12/2024, 3:46:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=it)                          |
 | Alerts By Twitch Events                    | 03/12/2024, 8:30:36 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=it)                     |
@@ -265,6 +266,7 @@
 
 | Name                   | Last Updated (dd/mm/yyyy) | Link                                                                         |
 |------------------------|---------------------------|------------------------------------------------------------------------------|
+| Shared Viewership      | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=it)       |
 | Drops Prime Difference | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=it)  |
 | Month Length           | 28/08/2024, 5:19:32 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=it)            |
 

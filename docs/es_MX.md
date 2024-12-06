@@ -6,7 +6,8 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
-| Stream Display Ads                         | 05/12/2024, 10:40:12 am   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es_MX)                          |
+| Shared Viewership                          | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=es_MX)                           |
+| Stream Display Ads                         | 06/12/2024, 2:48:14 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es_MX)                          |
 | Mission Based Drops                        | 05/12/2024, 9:51:45 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                         |
 | Twitch Turbo Guide                         | 04/12/2024, 3:46:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es_MX)                          |
 | Alerts By Twitch Events                    | 03/12/2024, 10:31:36 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=es_MX)                     |
@@ -265,6 +266,7 @@
 
 | Name                   | Last Updated (dd/mm/yyyy) | Link                                                                            |
 |------------------------|---------------------------|---------------------------------------------------------------------------------|
+| Shared Viewership      | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=es_MX)       |
 | Drops Prime Difference | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es_MX)  |
 | Month Length           | 28/08/2024, 8:16:32 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=es_MX)            |
 
