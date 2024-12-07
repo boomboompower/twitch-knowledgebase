@@ -6,10 +6,10 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                         | 07/12/2024, 8:09:33 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                          |
 | Shared Viewership                          | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=ja)                           |
 | Stream Display Ads                         | 06/12/2024, 2:48:04 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ja)                          |
 | Mission Based Drops                        | 05/12/2024, 9:51:45 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                         |
-| Twitch Turbo Guide                         | 04/12/2024, 3:46:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                          |
 | Twitch Chat Badges Guide                   | 03/12/2024, 10:53:11 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                    |
 | Alerts By Twitch Events                    | 02/12/2024, 3:07:34 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ja)                     |
 | Mod View                                   | 29/11/2024, 3:04:07 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                    |

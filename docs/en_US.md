@@ -6,10 +6,11 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Partner Front Page                         | 07/12/2024, 9:39:55 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)                          |
+| Twitch Turbo Guide                         | 07/12/2024, 8:09:33 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                          |
 | Shared Viewership                          | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=en_US)                           |
 | Stream Display Ads                         | 05/12/2024, 10:40:11 am   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                          |
 | Mission Based Drops                        | 05/12/2024, 9:51:45 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                         |
-| Twitch Turbo Guide                         | 04/12/2024, 3:46:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                          |
 | How To Use Badges                          | 03/12/2024, 10:54:16 am   | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=en_US)                           |
 | Twitch Chat Badges Guide                   | 03/12/2024, 10:53:11 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                    |
 | Alerts By Twitch Events                    | 28/11/2024, 0:18:19 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                     |
@@ -83,7 +84,6 @@
 | How Do Thumbnails Work                     | 09/11/2024, 11:11:58 am   | [Link](https://help.twitch.tv/s/article/how-do-thumbnails-work?language=en_US)                      |
 | Global Emotes                              | 09/11/2024, 11:02:57 am   | [Link](https://help.twitch.tv/s/article/global-emotes?language=en_US)                               |
 | Gift Subscriptions For Creators            | 09/11/2024, 10:54:24 am   | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=en_US)             |
-| Partner Front Page                         | 09/11/2024, 10:50:12 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)                          |
 | Follower Verification                      | 09/11/2024, 10:41:17 am   | [Link](https://help.twitch.tv/s/article/follower-verification?language=en_US)                       |
 | Follow Cue                                 | 09/11/2024, 10:37:10 am   | [Link](https://help.twitch.tv/s/article/follow-cue?language=en_US)                                  |
 | Failed Payments                            | 09/11/2024, 10:24:40 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=en_US)                             |
