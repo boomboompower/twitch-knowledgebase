@@ -22,7 +22,6 @@
 | Prime Gaming Revenue Guide             | 17/05/2024, 4:37:05 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=cs)              |
 | Twitch Studio Faq                      | 16/05/2024, 2:57:59 am    | [Link](https://help.twitch.tv/s/article/twitch-studio-faq?language=cs)                       |
 | Username Rename And Recycling Policies | 14/05/2024, 8:05:27 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=cs)  |
-| Twitch Turbo Guide                     | 18/01/2024, 2:49:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=cs)                      |
 
 
 
@@ -51,16 +50,24 @@
 ## Article-5
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-5.xml) this sitemap
 
+| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
+|---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Community Meetups Powered By Twitch   | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=cs)    |
+| Watching Twitch On Ios Devices        | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=cs)         |
+| How To Claim In Game Content          | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=cs)           |
+| How To Use Twitch Prime Subscriptions | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=cs)  |
+| Twitch Merchandise Store Support Faq  | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=cs)   |
+| Guide To Custom Messages              | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=cs)               |
+| Ad Offer Faq                          | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=cs)                           |
+| Recommended Hardware For Broadcasting | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=cs)  |
+
+
+
+## Article-6
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-6.xml) this sitemap
+
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
-| Community Meetups Powered By Twitch    | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=cs)     |
-| Watching Twitch On Ios Devices         | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=cs)          |
-| How To Claim In Game Content           | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=cs)            |
-| How To Use Twitch Prime Subscriptions  | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=cs)   |
-| Twitch Merchandise Store Support Faq   | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=cs)    |
-| Guide To Custom Messages               | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=cs)                |
-| Ad Offer Faq                           | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=cs)                            |
-| Recommended Hardware For Broadcasting  | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=cs)   |
 | Getting Started With Amazon Associates | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=cs)  |
 
 
