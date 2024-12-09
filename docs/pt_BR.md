@@ -6,7 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
-| Twitch Turbo Guide                         | 07/12/2024, 8:09:33 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_BR)                          |
+| Twitch Turbo Guide                         | 09/12/2024, 8:40:03 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_BR)                          |
 | Shared Viewership                          | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=pt_BR)                           |
 | Stream Display Ads                         | 06/12/2024, 2:48:20 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pt_BR)                          |
 | Mission Based Drops                        | 05/12/2024, 9:51:45 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pt_BR)                         |
