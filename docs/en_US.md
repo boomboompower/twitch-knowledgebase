@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Twitch Account Access Login Issues Guide   | 12/12/2024, 7:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=en_US)    |
 | Creator Goals                              | 11/12/2024, 10:54:10 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                               |
 | Annual Recap                               | 11/12/2024, 1:50:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=en_US)                                |
 | Partner Front Page                         | 07/12/2024, 9:39:55 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)                          |
@@ -46,7 +47,6 @@
 | Twitch Research Surveys                    | 13/11/2024, 0:26:44 pm    | [Link](https://help.twitch.tv/s/article/twitch-research-surveys?language=en_US)                     |
 | Partner Discord                            | 13/11/2024, 0:24:41 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=en_US)                             |
 | Mobile                                     | 13/11/2024, 0:21:39 pm    | [Link](https://help.twitch.tv/s/article/mobile?language=en_US)                                      |
-| Twitch Account Access Login Issues Guide   | 13/11/2024, 0:18:06 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=en_US)    |
 | Irl Category                               | 13/11/2024, 0:06:44 pm    | [Link](https://help.twitch.tv/s/article/irl-category?language=en_US)                                |
 | Transcoding Options Faq                    | 13/11/2024, 0:02:39 pm    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=en_US)                     |
 | Dj Unreleased                              | 13/11/2024, 0:00:09 pm    | [Link](https://help.twitch.tv/s/article/dj-unreleased?language=en_US)                               |
