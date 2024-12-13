@@ -6,6 +6,11 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Guest Star Getting Started                 | 13/12/2024, 9:59:51 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=pt_BR)                  |
+| Mobile Creator Mode                        | 13/12/2024, 9:50:26 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=pt_BR)                         |
+| Stream Summary                             | 13/12/2024, 9:50:14 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_BR)                              |
+| How To Use Clips                           | 13/12/2024, 9:49:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                            |
+| Partner Front Page                         | 13/12/2024, 2:44:34 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=pt_BR)                          |
 | Dj Secondary                               | 12/12/2024, 9:41:39 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=pt_BR)                                |
 | How To Use Badges                          | 12/12/2024, 9:41:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=pt_BR)                           |
 | Twitch Chat Badges Guide                   | 12/12/2024, 9:41:33 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=pt_BR)                    |
@@ -46,7 +51,6 @@
 | Political Onboarding                       | 04/11/2024, 11:37:36 pm   | [Link](https://help.twitch.tv/s/article/political-onboarding?language=pt_BR)                        |
 | Channel Analytics                          | 01/10/2024, 8:25:42 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_BR)                           |
 | Locating Your Twitch Invoice Number        | 19/09/2024, 10:46:07 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=pt_BR)         |
-| How To Use Clips                           | 13/09/2024, 6:53:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                            |
 | Ads Manager                                | 12/09/2024, 0:35:32 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=pt_BR)                                 |
 | Channel Page Setup                         | 29/08/2024, 7:08:17 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=pt_BR)                          |
 | Local Sub Price Countries                  | 28/08/2024, 8:20:38 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pt_BR)                   |
@@ -268,8 +272,12 @@
 
 | Name                   | Last Updated (dd/mm/yyyy) | Link                                                                            |
 |------------------------|---------------------------|---------------------------------------------------------------------------------|
+| Partner Front Page     | 13/12/2024, 2:44:34 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=pt_BR)      |
+| Dj Secondary           | 12/12/2024, 9:41:39 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=pt_BR)            |
 | Shared Viewership      | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=pt_BR)       |
 | Drops Prime Difference | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=pt_BR)  |
+| Research               | 13/11/2024, 8:55:18 am    | [Link](https://help.twitch.tv/s/article/research?language=pt_BR)                |
+| Bleed Purple           | 09/11/2024, 8:08:29 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=pt_BR)            |
 | Month Length           | 28/08/2024, 8:20:03 am    | [Link](https://help.twitch.tv/s/article/month-length?language=pt_BR)            |
 
 

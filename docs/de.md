@@ -6,6 +6,14 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Guest Star Getting Started                 | 13/12/2024, 9:59:51 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=de)                  |
+| Mobile Creator Mode                        | 13/12/2024, 9:50:26 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=de)                         |
+| Stream Summary                             | 13/12/2024, 9:50:14 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=de)                              |
+| How To Use Clips                           | 13/12/2024, 9:49:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                            |
+| Partner Front Page                         | 13/12/2024, 2:35:04 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=de)                          |
+| Twitch Chat Badges Guide                   | 13/12/2024, 2:16:36 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=de)                    |
+| Dj Secondary                               | 13/12/2024, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=de)                                |
+| How To Use Badges                          | 13/12/2024, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=de)                           |
 | Creator Goals                              | 11/12/2024, 10:54:10 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=de)                               |
 | Twitch Turbo Guide                         | 11/12/2024, 2:00:44 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=de)                          |
 | Annual Recap                               | 11/12/2024, 1:50:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=de)                                |
@@ -13,7 +21,6 @@
 | Stream Display Ads                         | 06/12/2024, 2:48:11 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=de)                          |
 | Mission Based Drops                        | 05/12/2024, 9:51:45 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=de)                         |
 | Alerts By Twitch Events                    | 04/12/2024, 1:12:35 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=de)                     |
-| Twitch Chat Badges Guide                   | 03/12/2024, 10:53:11 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=de)                    |
 | Supported Mobile Os                        | 30/11/2024, 1:46:33 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=de)                         |
 | Mod View                                   | 29/11/2024, 3:04:19 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                    |
 | Bonus Round                                | 28/11/2024, 7:46:34 pm    | [Link](https://help.twitch.tv/s/article/bonus-round?language=de)                                 |
@@ -43,7 +50,6 @@
 | Political Onboarding                       | 05/11/2024, 1:08:41 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=de)                        |
 | Channel Analytics                          | 01/10/2024, 8:25:42 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=de)                           |
 | Locating Your Twitch Invoice Number        | 19/09/2024, 5:57:03 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=de)         |
-| How To Use Clips                           | 13/09/2024, 9:14:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                            |
 | Ads Manager                                | 12/09/2024, 0:26:33 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=de)                                 |
 | Channel Page Setup                         | 29/08/2024, 7:08:17 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=de)                          |
 | Local Sub Price Countries                  | 28/08/2024, 11:19:39 pm   | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=de)                   |
@@ -267,11 +273,16 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                   | Last Updated (dd/mm/yyyy) | Link                                                                         |
-|------------------------|---------------------------|------------------------------------------------------------------------------|
-| Shared Viewership      | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=de)       |
-| Drops Prime Difference | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=de)  |
-| Month Length           | 28/08/2024, 9:11:04 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=de)            |
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
+|-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| Partner Front Page                  | 13/12/2024, 2:35:04 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=de)                   |
+| Dj Secondary                        | 13/12/2024, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=de)                         |
+| Shared Viewership                   | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=de)                    |
+| Drops Prime Difference              | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=de)               |
+| Research                            | 13/11/2024, 8:55:17 am    | [Link](https://help.twitch.tv/s/article/research?language=de)                             |
+| Bleed Purple                        | 09/11/2024, 8:08:29 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=de)                         |
+| Locating Your Twitch Invoice Number | 19/09/2024, 5:57:03 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=de)  |
+| Month Length                        | 28/08/2024, 9:11:04 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=de)                         |
 
 
 

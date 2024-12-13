@@ -6,6 +6,10 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Guest Star Getting Started                 | 13/12/2024, 9:59:51 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ru)                  |
+| Mobile Creator Mode                        | 13/12/2024, 9:50:26 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=ru)                         |
+| Stream Summary                             | 13/12/2024, 9:50:14 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ru)                              |
+| How To Use Clips                           | 13/12/2024, 9:49:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ru)                            |
 | Creator Goals                              | 11/12/2024, 10:54:10 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=ru)                               |
 | Twitch Turbo Guide                         | 07/12/2024, 8:09:33 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ru)                          |
 | Stream Display Ads                         | 05/12/2024, 10:40:12 am   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ru)                          |
@@ -33,7 +37,6 @@
 | Watching Twitch On Android Devices         | 02/10/2024, 9:49:59 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=ru)          |
 | Follower Emotes                            | 02/10/2024, 9:44:43 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=ru)                             |
 | Channel Analytics                          | 01/10/2024, 8:25:42 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=ru)                           |
-| How To Use Clips                           | 13/09/2024, 6:52:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ru)                            |
 | Locating Your Twitch Invoice Number        | 13/09/2024, 3:39:40 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=ru)         |
 | Ads Manager                                | 05/09/2024, 9:35:55 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ru)                                 |
 | Channel Page Setup                         | 29/08/2024, 7:08:16 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=ru)                          |
@@ -247,6 +250,15 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ru)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ru)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ru)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name     | Last Updated (dd/mm/yyyy) | Link                                                           |
+|----------|---------------------------|----------------------------------------------------------------|
+| Research | 13/11/2024, 8:55:18 am    | [Link](https://help.twitch.tv/s/article/research?language=ru)  |
 
 
 
