@@ -6,7 +6,7 @@
 
 | Name           | Last Updated (dd/mm/yyyy) | Link                                                                 |
 |----------------|---------------------------|----------------------------------------------------------------------|
-| Stream Summary | 13/12/2024, 9:50:14 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=da)  |
+| Stream Summary | 14/12/2024, 6:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=da)  |
 
 
 
