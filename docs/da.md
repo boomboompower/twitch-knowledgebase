@@ -6,6 +6,7 @@
 
 | Name           | Last Updated (dd/mm/yyyy) | Link                                                                 |
 |----------------|---------------------------|----------------------------------------------------------------------|
+| Chat Commands  | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=da)   |
 | Stream Summary | 14/12/2024, 6:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=da)  |
 
 
