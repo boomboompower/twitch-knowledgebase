@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Username Rename And Recycling Policies      | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=zh_TW)       |
 | How To Sub Only Archives                    | 17/12/2024, 8:11:02 pm    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=zh_TW)                     |
 | Stream Summary                              | 17/12/2024, 8:06:03 pm    | [Link](https://help.twitch.tv/s/article/stream-summary?language=zh_TW)                               |
 | Guest Star Getting Started                  | 17/12/2024, 8:04:33 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)                   |
@@ -56,9 +57,6 @@
 | Adding A Game And Box Art To The Directory  | 09/11/2024, 6:38:44 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=zh_TW)   |
 | Bits Purchase Troubleshooting               | 09/11/2024, 6:37:02 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=zh_TW)                |
 | Watching Twitch On Android Devices          | 09/11/2024, 2:02:33 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=zh_TW)           |
-| Follower Emotes                             | 08/11/2024, 9:57:06 pm    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=zh_TW)                              |
-| Sub Codes                                   | 08/11/2024, 9:57:03 pm    | [Link](https://help.twitch.tv/s/article/sub-codes?language=zh_TW)                                    |
-| Affiliate Or Partner Anniversary Settings   | 08/11/2024, 11:26:15 am   | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=zh_TW)    |
 
 
 

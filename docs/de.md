@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Username Rename And Recycling Policies      | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=de)       |
 | How To Sub Only Archives                    | 17/12/2024, 10:15:04 pm   | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=de)                     |
 | Stream Summary                              | 17/12/2024, 9:11:04 pm    | [Link](https://help.twitch.tv/s/article/stream-summary?language=de)                               |
 | Guest Star Getting Started                  | 17/12/2024, 9:09:33 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=de)                   |
@@ -57,7 +58,6 @@
 | Sub Codes                                   | 09/11/2024, 0:06:08 am    | [Link](https://help.twitch.tv/s/article/sub-codes?language=de)                                    |
 | Follower Emotes                             | 09/11/2024, 0:06:04 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=de)                              |
 | Watching Twitch On Android Devices          | 09/11/2024, 0:06:04 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=de)           |
-| Affiliate Or Partner Anniversary Settings   | 08/11/2024, 11:26:14 am   | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=de)    |
 
 
 

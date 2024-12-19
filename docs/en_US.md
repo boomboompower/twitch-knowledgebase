@@ -6,6 +6,8 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Username Rename And Recycling Policies      | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=en_US)       |
+| Creator Dashboard                           | 19/12/2024, 6:41:44 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=en_US)                            |
 | Beast Games                                 | 17/12/2024, 10:30:06 am   | [Link](https://help.twitch.tv/s/article/beast-games?language=en_US)                                  |
 | Partner Front Page                          | 17/12/2024, 10:08:43 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)                           |
 | Transcoding Options Faq                     | 17/12/2024, 10:07:25 am   | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=en_US)                      |
@@ -126,13 +128,6 @@
 | Bonus Sub Benefits                          | 09/11/2024, 4:51:23 am    | [Link](https://help.twitch.tv/s/article/bonus-sub-benefits?language=en_US)                           |
 | Bits Price Adjustment                       | 09/11/2024, 4:40:18 am    | [Link](https://help.twitch.tv/s/article/bits-price-adjustment?language=en_US)                        |
 | Authy Desktop Shutdown                      | 09/11/2024, 3:10:47 am    | [Link](https://help.twitch.tv/s/article/authy-desktop-shutdown?language=en_US)                       |
-| Appleshareplay                              | 08/11/2024, 0:33:56 pm    | [Link](https://help.twitch.tv/s/article/appleshareplay?language=en_US)                               |
-| Affiliates Plus                             | 08/11/2024, 0:27:52 pm    | [Link](https://help.twitch.tv/s/article/affiliates-plus?language=en_US)                              |
-| Minimum Payout Threshold                    | 08/11/2024, 0:23:13 pm    | [Link](https://help.twitch.tv/s/article/minimum-payout-threshold?language=en_US)                     |
-| Minimum Payout Threshold Countries          | 08/11/2024, 0:19:58 pm    | [Link](https://help.twitch.tv/s/article/minimum-payout-threshold-countries?language=en_US)           |
-| 2023 Updated Monetized Streamer Agreement   | 08/11/2024, 11:42:03 am   | [Link](https://help.twitch.tv/s/article/2023-updated-monetized-streamer-agreement?language=en_US)    |
-| St Virtual Cameras                          | 08/11/2024, 11:37:16 am   | [Link](https://help.twitch.tv/s/article/st-virtual-cameras?language=en_US)                           |
-| Affiliate Or Partner Anniversary Settings   | 08/11/2024, 11:26:14 am   | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=en_US)    |
 
 
 

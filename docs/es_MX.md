@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Username Rename And Recycling Policies      | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es_MX)       |
 | Stream Summary                              | 18/12/2024, 2:35:04 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es_MX)                               |
 | Guest Star Getting Started                  | 17/12/2024, 9:49:36 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es_MX)                   |
 | How To Sub Only Archives                    | 17/12/2024, 9:48:38 pm    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es_MX)                     |
@@ -53,10 +54,6 @@
 | Bleed Purple                                | 09/11/2024, 8:08:29 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es_MX)                                 |
 | Adding A Game And Box Art To The Directory  | 09/11/2024, 6:38:44 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=es_MX)   |
 | Bits Purchase Troubleshooting               | 09/11/2024, 6:37:01 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=es_MX)                |
-| Follower Emotes                             | 08/11/2024, 9:10:38 pm    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=es_MX)                              |
-| Watching Twitch On Android Devices          | 08/11/2024, 9:10:34 pm    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=es_MX)           |
-| Sub Codes                                   | 08/11/2024, 9:10:33 pm    | [Link](https://help.twitch.tv/s/article/sub-codes?language=es_MX)                                    |
-| Affiliate Or Partner Anniversary Settings   | 08/11/2024, 11:26:14 am   | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=es_MX)    |
 
 
 

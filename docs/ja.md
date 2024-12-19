@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Username Rename And Recycling Policies      | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=ja)       |
 | How To Sub Only Archives                    | 17/12/2024, 7:25:02 pm    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=ja)                     |
 | Stream Summary                              | 17/12/2024, 7:21:03 pm    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ja)                               |
 | Guest Star Getting Started                  | 17/12/2024, 6:16:15 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ja)                   |
