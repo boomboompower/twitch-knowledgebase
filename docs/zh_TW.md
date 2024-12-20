@@ -6,12 +6,14 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Transcoding Options Faq                     | 20/12/2024, 9:14:32 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=zh_TW)                      |
+| Dmca And Copyright Faqs                     | 20/12/2024, 8:45:35 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=zh_TW)                      |
+| Beast Games                                 | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=zh_TW)                                  |
 | Username Rename And Recycling Policies      | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=zh_TW)       |
 | How To Sub Only Archives                    | 17/12/2024, 8:11:02 pm    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=zh_TW)                     |
 | Stream Summary                              | 17/12/2024, 8:06:03 pm    | [Link](https://help.twitch.tv/s/article/stream-summary?language=zh_TW)                               |
 | Guest Star Getting Started                  | 17/12/2024, 8:04:33 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)                   |
 | Partner Front Page                          | 17/12/2024, 10:08:44 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                           |
-| Transcoding Options Faq                     | 17/12/2024, 10:07:26 am   | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=zh_TW)                      |
 | How To Upgrade Prime                        | 17/12/2024, 10:06:51 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=zh_TW)                         |
 | Experiments                                 | 17/12/2024, 10:06:13 am   | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                  |
 | Stories                                     | 17/12/2024, 10:05:48 am   | [Link](https://help.twitch.tv/s/article/stories?language=zh_TW)                                      |
@@ -55,8 +57,6 @@
 | How To Contact Extension Developer          | 09/11/2024, 11:42:44 am   | [Link](https://help.twitch.tv/s/article/how-to-contact-extension-developer?language=zh_TW)           |
 | Bleed Purple                                | 09/11/2024, 8:08:29 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=zh_TW)                                 |
 | Adding A Game And Box Art To The Directory  | 09/11/2024, 6:38:44 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=zh_TW)   |
-| Bits Purchase Troubleshooting               | 09/11/2024, 6:37:02 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=zh_TW)                |
-| Watching Twitch On Android Devices          | 09/11/2024, 2:02:33 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=zh_TW)           |
 
 
 
@@ -267,6 +267,7 @@
 
 | Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
 |--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Beast Games              | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=zh_TW)               |
 | How To Sub Only Archives | 17/12/2024, 8:11:02 pm    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=zh_TW)  |
 | Partner Front Page       | 17/12/2024, 10:08:44 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)        |
 | How To Upgrade Prime     | 17/12/2024, 10:06:51 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=zh_TW)      |

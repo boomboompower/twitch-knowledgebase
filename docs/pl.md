@@ -6,8 +6,9 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Creator Dashboard                           | 20/12/2024, 9:38:11 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=pl)                            |
+| Dmca And Copyright Faqs                     | 20/12/2024, 8:45:35 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=pl)                      |
 | Username Rename And Recycling Policies      | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=pl)       |
-| Creator Dashboard                           | 19/12/2024, 6:41:44 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=pl)                            |
 | Experiments                                 | 17/12/2024, 10:06:11 am   | [Link](https://help.twitch.tv/s/article/experiments?language=pl)                                  |
 | Guest Star Getting Started                  | 17/12/2024, 10:03:21 am   | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=pl)                   |
 | Twitch Teams                                | 17/12/2024, 10:02:55 am   | [Link](https://help.twitch.tv/s/article/twitch-teams?language=pl)                                 |

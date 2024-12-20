@@ -6,6 +6,8 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Dmca And Copyright Faqs                     | 20/12/2024, 8:45:35 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es_MX)                      |
+| Beast Games                                 | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=es_MX)                                  |
 | Username Rename And Recycling Policies      | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es_MX)       |
 | Stream Summary                              | 18/12/2024, 2:35:04 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es_MX)                               |
 | Guest Star Getting Started                  | 17/12/2024, 9:49:36 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es_MX)                   |
@@ -53,7 +55,6 @@
 | How To Contact Extension Developer          | 09/11/2024, 11:42:43 am   | [Link](https://help.twitch.tv/s/article/how-to-contact-extension-developer?language=es_MX)           |
 | Bleed Purple                                | 09/11/2024, 8:08:29 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es_MX)                                 |
 | Adding A Game And Box Art To The Directory  | 09/11/2024, 6:38:44 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=es_MX)   |
-| Bits Purchase Troubleshooting               | 09/11/2024, 6:37:01 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=es_MX)                |
 
 
 
@@ -267,6 +268,7 @@
 
 | Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
 |--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Beast Games              | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=es_MX)               |
 | How To Sub Only Archives | 17/12/2024, 9:48:38 pm    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es_MX)  |
 | Partner Front Page       | 17/12/2024, 10:08:44 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es_MX)        |
 | How To Upgrade Prime     | 17/12/2024, 10:06:50 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=es_MX)      |

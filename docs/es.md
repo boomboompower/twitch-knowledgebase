@@ -6,6 +6,8 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Dmca And Copyright Faqs                     | 20/12/2024, 8:45:35 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es)                      |
+| Beast Games                                 | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=es)                                  |
 | Username Rename And Recycling Policies      | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es)       |
 | How To Sub Only Archives                    | 17/12/2024, 10:53:02 pm   | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es)                     |
 | Stream Summary                              | 17/12/2024, 10:49:02 pm   | [Link](https://help.twitch.tv/s/article/stream-summary?language=es)                               |
@@ -53,10 +55,6 @@
 | How To Contact Extension Developer          | 09/11/2024, 11:42:43 am   | [Link](https://help.twitch.tv/s/article/how-to-contact-extension-developer?language=es)           |
 | Bleed Purple                                | 09/11/2024, 8:08:29 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es)                                 |
 | Adding A Game And Box Art To The Directory  | 09/11/2024, 6:38:44 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=es)   |
-| Bits Purchase Troubleshooting               | 09/11/2024, 6:37:01 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=es)                |
-| Watching Twitch On Android Devices          | 08/11/2024, 11:54:41 pm   | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=es)           |
-| Follower Emotes                             | 08/11/2024, 11:54:37 pm   | [Link](https://help.twitch.tv/s/article/follower-emotes?language=es)                              |
-| Sub Codes                                   | 08/11/2024, 11:54:35 pm   | [Link](https://help.twitch.tv/s/article/sub-codes?language=es)                                    |
 
 
 
@@ -271,6 +269,7 @@
 
 | Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
 |--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Beast Games              | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=es)               |
 | How To Sub Only Archives | 17/12/2024, 10:53:02 pm   | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es)  |
 | Partner Front Page       | 17/12/2024, 10:08:44 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es)        |
 | How To Upgrade Prime     | 17/12/2024, 10:06:50 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=es)      |

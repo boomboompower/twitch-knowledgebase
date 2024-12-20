@@ -6,11 +6,12 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Creator Dashboard                           | 20/12/2024, 9:38:11 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=en_US)                            |
+| Transcoding Options Faq                     | 20/12/2024, 9:14:32 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=en_US)                      |
+| Dmca And Copyright Faqs                     | 20/12/2024, 8:45:35 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=en_US)                      |
+| Beast Games                                 | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=en_US)                                  |
 | Username Rename And Recycling Policies      | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=en_US)       |
-| Creator Dashboard                           | 19/12/2024, 6:41:44 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=en_US)                            |
-| Beast Games                                 | 17/12/2024, 10:30:06 am   | [Link](https://help.twitch.tv/s/article/beast-games?language=en_US)                                  |
 | Partner Front Page                          | 17/12/2024, 10:08:43 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)                           |
-| Transcoding Options Faq                     | 17/12/2024, 10:07:25 am   | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=en_US)                      |
 | How To Upgrade Prime                        | 17/12/2024, 10:06:50 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=en_US)                         |
 | Experiments                                 | 17/12/2024, 10:06:11 am   | [Link](https://help.twitch.tv/s/article/experiments?language=en_US)                                  |
 | Stories                                     | 17/12/2024, 10:05:47 am   | [Link](https://help.twitch.tv/s/article/stories?language=en_US)                                      |
@@ -119,15 +120,6 @@
 | Bleed Purple                                | 09/11/2024, 8:08:29 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=en_US)                                 |
 | Branded Content Policy                      | 09/11/2024, 8:04:53 am    | [Link](https://help.twitch.tv/s/article/branded-content-policy?language=en_US)                       |
 | Adding A Game And Box Art To The Directory  | 09/11/2024, 6:38:44 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=en_US)   |
-| Bits Purchase Troubleshooting               | 09/11/2024, 6:36:59 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=en_US)                |
-| Cheering For Partners Affiliates            | 09/11/2024, 6:33:44 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=en_US)             |
-| Chat Verification Settings                  | 09/11/2024, 6:19:55 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=en_US)                   |
-| Creator Chat And Events                     | 09/11/2024, 6:03:52 am    | [Link](https://help.twitch.tv/s/article/creator-chat-and-events?language=en_US)                      |
-| Channel Skins                               | 09/11/2024, 5:48:45 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=en_US)                                |
-| Browser Extensions Twitch                   | 09/11/2024, 5:16:34 am    | [Link](https://help.twitch.tv/s/article/browser-extensions-twitch?language=en_US)                    |
-| Bonus Sub Benefits                          | 09/11/2024, 4:51:23 am    | [Link](https://help.twitch.tv/s/article/bonus-sub-benefits?language=en_US)                           |
-| Bits Price Adjustment                       | 09/11/2024, 4:40:18 am    | [Link](https://help.twitch.tv/s/article/bits-price-adjustment?language=en_US)                        |
-| Authy Desktop Shutdown                      | 09/11/2024, 3:10:47 am    | [Link](https://help.twitch.tv/s/article/authy-desktop-shutdown?language=en_US)                       |
 
 
 
@@ -350,7 +342,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
-| Beast Games                           | 17/12/2024, 10:30:06 am   | [Link](https://help.twitch.tv/s/article/beast-games?language=en_US)                            |
+| Beast Games                           | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=en_US)                            |
 | Partner Front Page                    | 17/12/2024, 10:08:43 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)                     |
 | How To Upgrade Prime                  | 17/12/2024, 10:06:50 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=en_US)                   |
 | Stories                               | 17/12/2024, 10:05:47 am   | [Link](https://help.twitch.tv/s/article/stories?language=en_US)                                |
