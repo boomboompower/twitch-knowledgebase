@@ -6,6 +6,8 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Partner Front Page                          | 20/12/2024, 10:26:33 pm   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=de)                           |
+| Shared Chat                                 | 20/12/2024, 7:41:04 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=de)                                  |
 | Transcoding Options Faq                     | 20/12/2024, 9:14:32 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=de)                      |
 | Dmca And Copyright Faqs                     | 20/12/2024, 8:45:35 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=de)                      |
 | Beast Games                                 | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=de)                                  |
@@ -13,7 +15,6 @@
 | How To Sub Only Archives                    | 17/12/2024, 10:15:04 pm   | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=de)                     |
 | Stream Summary                              | 17/12/2024, 9:11:04 pm    | [Link](https://help.twitch.tv/s/article/stream-summary?language=de)                               |
 | Guest Star Getting Started                  | 17/12/2024, 9:09:33 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=de)                   |
-| Partner Front Page                          | 17/12/2024, 10:08:44 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=de)                           |
 | How To Upgrade Prime                        | 17/12/2024, 10:06:50 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=de)                         |
 | Experiments                                 | 17/12/2024, 10:06:12 am   | [Link](https://help.twitch.tv/s/article/experiments?language=de)                                  |
 | Stories                                     | 17/12/2024, 10:05:47 am   | [Link](https://help.twitch.tv/s/article/stories?language=de)                                      |
