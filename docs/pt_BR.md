@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Creator Dashboard                           | 31/12/2024, 11:02:10 pm   | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=pt_BR)                            |
 | Partner Front Page                          | 20/12/2024, 11:21:03 pm   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=pt_BR)                           |
 | Shared Chat                                 | 20/12/2024, 9:29:34 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=pt_BR)                                  |
 | Transcoding Options Faq                     | 20/12/2024, 9:14:32 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=pt_BR)                      |
@@ -58,7 +59,6 @@
 | How To Contact Extension Developer          | 09/11/2024, 11:42:43 am   | [Link](https://help.twitch.tv/s/article/how-to-contact-extension-developer?language=pt_BR)           |
 | Bleed Purple                                | 09/11/2024, 8:08:29 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=pt_BR)                                 |
 | Adding A Game And Box Art To The Directory  | 09/11/2024, 6:38:44 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=pt_BR)   |
-| Bits Purchase Troubleshooting               | 09/11/2024, 6:37:02 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=pt_BR)                |
 
 
 
