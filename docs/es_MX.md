@@ -273,3 +273,12 @@
 
 
 
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name        | Last Updated (dd/mm/yyyy) | Link                                                                 |
+|-------------|---------------------------|----------------------------------------------------------------------|
+| Beast Games | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=es_MX)  |
+
+
+
