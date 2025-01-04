@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Creator Dashboard                           | 03/01/2025, 11:02:09 pm   | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=es)                            |
 | Partner Front Page                          | 20/12/2024, 10:22:05 pm   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es)                           |
 | Shared Chat                                 | 20/12/2024, 10:09:34 pm   | [Link](https://help.twitch.tv/s/article/shared-chat?language=es)                                  |
 | Dmca And Copyright Faqs                     | 20/12/2024, 8:45:35 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es)                      |

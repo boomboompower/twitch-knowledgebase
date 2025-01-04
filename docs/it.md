@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Creator Dashboard                           | 03/01/2025, 11:02:07 pm   | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=it)                            |
 | Partner Front Page                          | 20/12/2024, 8:40:32 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=it)                           |
 | Shared Chat                                 | 20/12/2024, 7:30:05 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=it)                                  |
 | Transcoding Options Faq                     | 20/12/2024, 9:14:32 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=it)                      |
