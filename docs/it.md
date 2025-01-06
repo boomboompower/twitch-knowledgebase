@@ -6,13 +6,13 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Username Rename And Recycling Policies      | 05/01/2025, 11:03:20 pm   | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=it)       |
+| Transcoding Options Faq                     | 05/01/2025, 11:02:39 pm   | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=it)                      |
+| Dmca And Copyright Faqs                     | 05/01/2025, 11:02:20 pm   | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=it)                      |
 | Creator Dashboard                           | 03/01/2025, 11:02:07 pm   | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=it)                            |
 | Partner Front Page                          | 20/12/2024, 8:40:32 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=it)                           |
 | Shared Chat                                 | 20/12/2024, 7:30:05 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=it)                                  |
-| Transcoding Options Faq                     | 20/12/2024, 9:14:32 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=it)                      |
-| Dmca And Copyright Faqs                     | 20/12/2024, 8:45:35 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=it)                      |
 | Beast Games                                 | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=it)                                  |
-| Username Rename And Recycling Policies      | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=it)       |
 | Guest Star Getting Started                  | 17/12/2024, 7:07:40 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=it)                   |
 | How To Sub Only Archives                    | 17/12/2024, 7:00:32 pm    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=it)                     |
 | Stream Summary                              | 17/12/2024, 6:58:07 pm    | [Link](https://help.twitch.tv/s/article/stream-summary?language=it)                               |

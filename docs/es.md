@@ -6,12 +6,12 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Username Rename And Recycling Policies      | 05/01/2025, 11:03:20 pm   | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es)       |
+| Dmca And Copyright Faqs                     | 05/01/2025, 11:02:23 pm   | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es)                      |
 | Creator Dashboard                           | 03/01/2025, 11:02:09 pm   | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=es)                            |
 | Partner Front Page                          | 20/12/2024, 10:22:05 pm   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es)                           |
 | Shared Chat                                 | 20/12/2024, 10:09:34 pm   | [Link](https://help.twitch.tv/s/article/shared-chat?language=es)                                  |
-| Dmca And Copyright Faqs                     | 20/12/2024, 8:45:35 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es)                      |
 | Beast Games                                 | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=es)                                  |
-| Username Rename And Recycling Policies      | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es)       |
 | How To Sub Only Archives                    | 17/12/2024, 10:53:02 pm   | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es)                     |
 | Stream Summary                              | 17/12/2024, 10:49:02 pm   | [Link](https://help.twitch.tv/s/article/stream-summary?language=es)                               |
 | Guest Star Getting Started                  | 17/12/2024, 10:47:34 pm   | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es)                   |
@@ -270,6 +270,15 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)              |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)  |
 | Markdown Basics                        | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name        | Last Updated (dd/mm/yyyy) | Link                                                              |
+|-------------|---------------------------|-------------------------------------------------------------------|
+| Beast Games | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=es)  |
 
 
 
