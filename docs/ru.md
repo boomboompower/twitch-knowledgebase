@@ -71,6 +71,7 @@
 | Twitch Charity Viewers                             | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=ru)                              |
 | Languages On Twitch                                | 14/05/2024, 8:21:41 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ru)                                 |
 | Subpoint Vs Subcount                               | 01/05/2024, 8:50:02 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=ru)                                |
+| Alerts By Twitch Faq                               | 20/04/2024, 10:50:58 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=ru)                                |
 
 
 

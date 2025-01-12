@@ -120,6 +120,8 @@
 | Twitch Account Settings                                       | 22/08/2023, 5:44:09 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=tr)                                        |
 | Account Hacked                                                | 22/08/2023, 5:44:05 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=tr)                                                 |
 | Patch Notes 20                                                | 19/08/2023, 6:03:31 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=tr)                                                 |
+| Guide To Broadcast Health                                     | 08/08/2023, 7:32:04 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=tr)                                      |
+| How To Appeal Flagged Content                                 | 08/08/2023, 7:32:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=tr)                                  |
 
 
 
@@ -128,8 +130,6 @@
 
 | Name                                    | Last Updated (dd/mm/yyyy) | Link                                                                                          |
 |-----------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
-| Guide To Broadcast Health               | 08/08/2023, 7:32:04 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=tr)                |
-| How To Appeal Flagged Content           | 08/08/2023, 7:32:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=tr)            |
 | New Device And Location Verification    | 03/08/2023, 7:30:09 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=tr)     |
 | Founders Badge                          | 28/07/2023, 3:34:47 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=tr)                           |
 | How To Edit Info Panels                 | 28/07/2023, 3:17:38 am    | [Link](https://help.twitch.tv/s/article/how-to-edit-info-panels?language=tr)                  |
@@ -176,6 +176,8 @@
 | Artist Badge Attribution                | 20/05/2022, 3:31:52 am    | [Link](https://help.twitch.tv/s/article/artist-badge-attribution?language=tr)                 |
 | Creating A Strong Password              | 18/05/2022, 0:39:26 am    | [Link](https://help.twitch.tv/s/article/creating-a-strong-password?language=tr)               |
 | How To Use The Friends Feature          | 29/04/2022, 5:56:25 am    | [Link](https://help.twitch.tv/s/article/how-to-use-the-friends-feature?language=tr)           |
+| Twitch On Apple Tv                      | 27/04/2022, 6:02:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-apple-tv?language=tr)                       |
+| Twitch On Lg Tv                         | 27/04/2022, 5:59:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=tr)                          |
 
 
 
@@ -184,8 +186,6 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
-| Twitch On Apple Tv                               | 27/04/2022, 6:02:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-apple-tv?language=tr)                                |
-| Twitch On Lg Tv                                  | 27/04/2022, 5:59:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=tr)                                   |
 | Official Twitch Channel Chat Rules               | 13/04/2022, 9:14:33 pm    | [Link](https://help.twitch.tv/s/article/official-twitch-channel-chat-rules?language=tr)                |
 | How To Get And Use The Ps App                    | 13/04/2022, 5:00:47 pm    | [Link](https://help.twitch.tv/s/article/how-to-get-and-use-the-ps-app?language=tr)                     |
 | Mobile Game Broadcasting                         | 06/04/2022, 4:06:35 pm    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=tr)                          |
@@ -227,6 +227,7 @@
 | Custom Bit Badges Guide                          | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=tr)                           |
 | Contacting Partner Help                          | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=tr)                           |
 | Extensions Switch With Your Game Selection       | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection?language=tr)        |
+| Recommended Hardware For Broadcasting            | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=tr)             |
 
 
 
