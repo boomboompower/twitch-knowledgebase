@@ -6,6 +6,9 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Recommended Software For Broadcasting       | 18/01/2025, 0:15:15 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=zh_TW)        |
+| Broadcasting Guidelines                     | 18/01/2025, 0:14:28 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=zh_TW)                      |
+| Stream Deck Setup                           | 18/01/2025, 0:13:14 pm    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=zh_TW)                            |
 | Languages On Twitch                         | 14/01/2025, 10:16:58 am   | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=zh_TW)                          |
 | How To Allow Ads Browser                    | 14/01/2025, 3:57:06 am    | [Link](https://help.twitch.tv/s/article/how-to-allow-ads-browser?language=zh_TW)                     |
 | Dmca And Copyright Faqs                     | 07/01/2025, 2:57:33 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=zh_TW)                      |
@@ -50,15 +53,18 @@
 | Requesting Your Data From Twitch            | 21/11/2024, 9:19:06 pm    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=zh_TW)             |
 | Delete Twitch Account                       | 21/11/2024, 9:19:03 pm    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=zh_TW)                        |
 | Children On Twitch                          | 21/11/2024, 9:19:02 pm    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=zh_TW)                           |
-| Rejected Payout Faq                         | 21/11/2024, 0:32:19 pm    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=zh_TW)                          |
-| Guide To Using Twitch Inspector             | 21/11/2024, 11:17:07 am   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=zh_TW)              |
-| How To Use Automod                          | 20/11/2024, 7:27:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=zh_TW)                           |
-| When Am I Getting Paid                      | 16/11/2024, 9:58:23 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=zh_TW)                       |
-| Research                                    | 13/11/2024, 8:55:18 am    | [Link](https://help.twitch.tv/s/article/research?language=zh_TW)                                     |
-| Payout Balance Faq                          | 13/11/2024, 8:11:07 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=zh_TW)                           |
-| Managing And Upgrading A Gift Subscription  | 13/11/2024, 7:12:46 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=zh_TW)   |
-| How To Share A Stream                       | 13/11/2024, 5:55:30 am    | [Link](https://help.twitch.tv/s/article/how-to-share-a-stream?language=zh_TW)                        |
-| How To Contact Extension Developer          | 09/11/2024, 11:42:44 am   | [Link](https://help.twitch.tv/s/article/how-to-contact-extension-developer?language=zh_TW)           |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| How To Allow Ads Browser | 14/01/2025, 3:57:06 am    | [Link](https://help.twitch.tv/s/article/how-to-allow-ads-browser?language=zh_TW)  |
+| Beast Games              | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=zh_TW)               |
+| How To Sub Only Archives | 17/12/2024, 8:11:02 pm    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=zh_TW)  |
+| How To Upgrade Prime     | 17/12/2024, 10:06:51 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=zh_TW)      |
 
 
 
