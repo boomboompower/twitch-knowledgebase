@@ -6,6 +6,13 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Twitch Charity                              | 23/01/2025, 0:27:21 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=zh_TW)                               |
+| Guide To Cheering With Bits                 | 23/01/2025, 0:03:23 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=zh_TW)                  |
+| Creator Dashboard                           | 23/01/2025, 3:22:31 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=zh_TW)                            |
+| Adding A Game And Box Art To The Directory  | 23/01/2025, 2:52:22 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=zh_TW)   |
+| Sponsored Subscriptions                     | 23/01/2025, 2:50:55 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=zh_TW)                      |
+| Streamer Read Ads                           | 23/01/2025, 2:50:13 am    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=zh_TW)                            |
+| Channel Skins                               | 23/01/2025, 2:49:20 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=zh_TW)                                |
 | Recommended Software For Broadcasting       | 18/01/2025, 0:15:15 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=zh_TW)        |
 | Broadcasting Guidelines                     | 18/01/2025, 0:14:28 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=zh_TW)                      |
 | Stream Deck Setup                           | 18/01/2025, 0:13:14 pm    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=zh_TW)                            |
@@ -14,7 +21,6 @@
 | Dmca And Copyright Faqs                     | 07/01/2025, 2:57:33 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=zh_TW)                      |
 | Username Rename And Recycling Policies      | 07/01/2025, 2:57:32 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=zh_TW)       |
 | Transcoding Options Faq                     | 07/01/2025, 2:55:20 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=zh_TW)                      |
-| Creator Dashboard                           | 07/01/2025, 2:55:05 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=zh_TW)                            |
 | Partner Front Page                          | 20/12/2024, 8:20:09 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                           |
 | Shared Chat                                 | 20/12/2024, 8:16:04 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=zh_TW)                                  |
 | Beast Games                                 | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=zh_TW)                                  |
@@ -47,12 +53,6 @@
 | Bonus Round                                 | 29/11/2024, 9:37:02 pm    | [Link](https://help.twitch.tv/s/article/bonus-round?language=zh_TW)                                  |
 | Supported Mobile Os                         | 29/11/2024, 9:36:03 pm    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=zh_TW)                          |
 | Mod View                                    | 29/11/2024, 3:04:15 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                     |
-| Managing Your Phone Number                  | 26/11/2024, 3:39:47 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)                   |
-| Drops Prime Difference                      | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=zh_TW)                       |
-| How Do I Stream Faq                         | 22/11/2024, 5:43:20 am    | [Link](https://help.twitch.tv/s/article/how-do-i-stream-faq?language=zh_TW)                          |
-| Requesting Your Data From Twitch            | 21/11/2024, 9:19:06 pm    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=zh_TW)             |
-| Delete Twitch Account                       | 21/11/2024, 9:19:03 pm    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=zh_TW)                        |
-| Children On Twitch                          | 21/11/2024, 9:19:02 pm    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=zh_TW)                           |
 
 
 
@@ -262,6 +262,23 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| How To Allow Ads Browser | 14/01/2025, 3:57:06 am    | [Link](https://help.twitch.tv/s/article/how-to-allow-ads-browser?language=zh_TW)  |
+| Partner Front Page       | 20/12/2024, 8:20:09 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)        |
+| Shared Chat              | 20/12/2024, 8:16:04 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=zh_TW)               |
+| Beast Games              | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=zh_TW)               |
+| How To Sub Only Archives | 17/12/2024, 8:11:02 pm    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=zh_TW)  |
+| How To Upgrade Prime     | 17/12/2024, 10:06:51 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=zh_TW)      |
+| Featured Clips           | 16/12/2024, 3:55:35 pm    | [Link](https://help.twitch.tv/s/article/featured-clips?language=zh_TW)            |
+| Dj Secondary             | 12/12/2024, 8:21:07 pm    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=zh_TW)              |
+| Shared Viewership        | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=zh_TW)         |
 
 
 

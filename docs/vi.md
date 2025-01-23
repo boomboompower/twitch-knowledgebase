@@ -4,9 +4,10 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name          | Last Updated (dd/mm/yyyy) | Link                                                                |
-|---------------|---------------------------|---------------------------------------------------------------------|
-| Chat Commands | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=vi)  |
+| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Guide To Cheering With Bits | 23/01/2025, 0:03:23 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=vi)  |
+| Chat Commands               | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=vi)                |
 
 
 
