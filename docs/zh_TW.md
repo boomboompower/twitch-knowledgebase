@@ -6,10 +6,11 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Custom Bit Badges Guide                     | 25/01/2025, 11:40:46 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=zh_TW)                      |
+| Twitch Charity                              | 24/01/2025, 7:37:33 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=zh_TW)                               |
+| Creator Dashboard                           | 24/01/2025, 7:32:34 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=zh_TW)                            |
+| Adding A Game And Box Art To The Directory  | 24/01/2025, 7:32:04 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=zh_TW)   |
 | Guide To Cheering With Bits                 | 24/01/2025, 3:14:06 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=zh_TW)                  |
-| Twitch Charity                              | 23/01/2025, 0:27:21 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=zh_TW)                               |
-| Creator Dashboard                           | 23/01/2025, 3:22:31 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=zh_TW)                            |
-| Adding A Game And Box Art To The Directory  | 23/01/2025, 2:52:22 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=zh_TW)   |
 | Sponsored Subscriptions                     | 23/01/2025, 2:50:55 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=zh_TW)                      |
 | Streamer Read Ads                           | 23/01/2025, 2:50:13 am    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=zh_TW)                            |
 | Channel Skins                               | 23/01/2025, 2:49:20 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=zh_TW)                                |

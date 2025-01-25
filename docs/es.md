@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Custom Bit Badges Guide                     | 25/01/2025, 11:40:45 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=es)                      |
 | Guide To Cheering With Bits                 | 24/01/2025, 3:14:12 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=es)                  |
 | Twitch Charity                              | 23/01/2025, 0:27:21 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=es)                               |
 | Creator Dashboard                           | 23/01/2025, 3:22:31 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=es)                            |
@@ -50,7 +51,6 @@
 | Alerts By Twitch Events                     | 03/12/2024, 10:57:05 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=es)                      |
 | Supported Mobile Os                         | 29/11/2024, 9:55:33 pm    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=es)                          |
 | Bonus Round                                 | 29/11/2024, 9:54:05 pm    | [Link](https://help.twitch.tv/s/article/bonus-round?language=es)                                  |
-| Mod View                                    | 29/11/2024, 3:04:06 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=es)                                     |
 
 
 

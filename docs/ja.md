@@ -6,10 +6,11 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Custom Bit Badges Guide                     | 25/01/2025, 11:40:45 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=ja)                      |
+| Twitch Charity                              | 24/01/2025, 6:10:32 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=ja)                               |
+| Creator Dashboard                           | 24/01/2025, 6:05:33 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=ja)                            |
+| Adding A Game And Box Art To The Directory  | 24/01/2025, 6:04:04 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=ja)   |
 | Guide To Cheering With Bits                 | 24/01/2025, 3:14:08 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ja)                  |
-| Twitch Charity                              | 23/01/2025, 0:27:21 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=ja)                               |
-| Creator Dashboard                           | 23/01/2025, 3:22:31 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=ja)                            |
-| Adding A Game And Box Art To The Directory  | 23/01/2025, 2:52:22 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=ja)   |
 | Sponsored Subscriptions                     | 23/01/2025, 2:50:55 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=ja)                      |
 | Streamer Read Ads                           | 23/01/2025, 2:50:13 am    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=ja)                            |
 | Channel Skins                               | 23/01/2025, 2:49:20 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=ja)                                |
@@ -49,9 +50,6 @@
 | Shared Viewership                           | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=ja)                            |
 | Stream Display Ads                          | 06/12/2024, 2:48:04 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=ja)                           |
 | Alerts By Twitch Events                     | 02/12/2024, 3:07:34 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ja)                      |
-| Mod View                                    | 29/11/2024, 3:04:07 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                     |
-| Bonus Round                                 | 28/11/2024, 6:05:03 pm    | [Link](https://help.twitch.tv/s/article/bonus-round?language=ja)                                  |
-| Supported Mobile Os                         | 28/11/2024, 5:40:33 pm    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=ja)                          |
 
 
 
