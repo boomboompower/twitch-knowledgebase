@@ -24,7 +24,6 @@
 | How To Manage Harassment In Chat                   | 06/06/2024, 3:12:27 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=nl_NL)                    |
 | Partner Program Overview                           | 22/05/2024, 9:35:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)                            |
 | Removing Recommendations You Are Not Interested In | 22/05/2024, 2:55:23 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=nl_NL)  |
-| Twitch Prime Partner Guide                         | 17/05/2024, 4:37:05 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=nl_NL)                          |
 
 
 
@@ -50,6 +49,7 @@
 | Creating An Account With Twitch                               | 11/07/2023, 2:20:34 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=nl_NL)                                |
 | Guide To Tags                                                 | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=nl_NL)                                                  |
 | How To Use Host Mode                                          | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=nl_NL)                                           |
+| Earning Revenue From Bits In Extensions Beta                  | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=nl_NL)                   |
 
 
 

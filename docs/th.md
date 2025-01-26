@@ -39,6 +39,11 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Alerts By Twitch Events                            | 28/11/2024, 0:18:19 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=th)                             |
+| Mod View                                           | 27/11/2024, 11:31:57 am   | [Link](https://help.twitch.tv/s/article/mod-view?language=th)                                            |
+| Managing Your Phone Number                         | 26/11/2024, 3:39:47 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=th)                          |
+| How Do I Stream Faq                                | 22/11/2024, 5:43:20 am    | [Link](https://help.twitch.tv/s/article/how-do-i-stream-faq?language=th)                                 |
+| Rejected Payout Faq                                | 21/11/2024, 0:32:19 pm    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=th)                                 |
 | Guide To Using Twitch Inspector                    | 21/11/2024, 11:17:07 am   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=th)                     |
 | When Am I Getting Paid                             | 16/11/2024, 9:58:23 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=th)                              |
 | How To Use Automod                                 | 14/11/2024, 10:42:03 am   | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=th)                                  |
@@ -49,7 +54,6 @@
 | Managing And Upgrading A Gift Subscription         | 13/11/2024, 7:12:46 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=th)          |
 | How To Share A Stream                              | 13/11/2024, 5:55:30 am    | [Link](https://help.twitch.tv/s/article/how-to-share-a-stream?language=th)                               |
 | How To Contact Extension Developer                 | 09/11/2024, 11:42:44 am   | [Link](https://help.twitch.tv/s/article/how-to-contact-extension-developer?language=th)                  |
-| Adding A Game And Box Art To The Directory         | 09/11/2024, 6:38:44 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=th)          |
 | Bits Purchase Troubleshooting                      | 09/11/2024, 6:37:00 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=th)                       |
 | Affiliate Or Partner Anniversary Settings          | 08/11/2024, 11:26:15 am   | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=th)           |
 | Your First Payout Walkthrough                      | 08/11/2024, 10:16:41 am   | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=th)                       |
@@ -65,7 +69,6 @@
 | How To Use Raids                                   | 06/06/2024, 3:04:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=th)                                    |
 | Partner Program Overview                           | 22/05/2024, 9:35:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)                            |
 | Removing Recommendations You Are Not Interested In | 22/05/2024, 2:55:23 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=th)  |
-| Twitch Prime Revenue Guide                         | 17/05/2024, 4:37:05 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-revenue-guide?language=th)                          |
 
 
 
@@ -75,7 +78,6 @@
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Twitch Affiliate Program Faq                                  | 16/05/2024, 0:28:53 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=th)                                   |
-| Twitch Charity                                                | 14/05/2024, 10:15:51 am   | [Link](https://help.twitch.tv/s/article/twitch-charity?language=th)                                                 |
 | Twitch Charity Faqs                                           | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=th)                                            |
 | Twitch Charity Viewers                                        | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=th)                                         |
 | Subpoint Vs Subcount                                          | 01/05/2024, 8:50:02 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=th)                                           |
@@ -99,7 +101,6 @@
 | Affiliate Settings Guide                                      | 03/12/2023, 8:17:09 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=th)                                       |
 | Partner Settings Guide                                        | 30/11/2023, 9:17:37 pm    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=th)                                         |
 | Subscriber Badge Guide                                        | 30/11/2023, 9:15:05 pm    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=th)                                         |
-| Guide To Cheering With Bits                                   | 30/11/2023, 9:15:03 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=th)                                    |
 | Games Irl And Music Directories                               | 30/11/2023, 9:07:02 pm    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=th)                                |
 | Ban Evasion                                                   | 28/10/2023, 5:03:28 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=th)                                                    |
 | Joining The Affiliate Program                                 | 23/10/2023, 4:19:06 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=th)                                  |
@@ -165,6 +166,7 @@
 | Channel Points Guide                    | 28/10/2022, 8:25:44 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=th)                     |
 | Cheering Experiment 2022                | 27/10/2022, 11:02:36 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=th)                 |
 | Earning Revenue From Bits In Extensions | 21/10/2022, 7:25:42 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=th)  |
+| Twitch Content Sharing Guidelines       | 13/10/2022, 7:53:07 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=th)        |
 
 
 
@@ -173,7 +175,6 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
-| Twitch Content Sharing Guidelines                 | 13/10/2022, 7:53:07 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=th)                  |
 | Charitable Donations                              | 27/09/2022, 11:46:37 pm   | [Link](https://help.twitch.tv/s/article/charitable-donations?language=th)                               |
 | Affiliate Emote Prefix Change                     | 21/09/2022, 4:59:50 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=th)                      |
 | Subscriber Emote Guide                            | 10/08/2022, 8:02:42 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=th)                             |
@@ -193,7 +194,6 @@
 | Audio Ads                                         | 19/02/2022, 10:05:52 am   | [Link](https://help.twitch.tv/s/article/audio-ads?language=th)                                          |
 | Where Are My Notifications                        | 19/02/2022, 10:04:09 am   | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=th)                         |
 | Setting Up Moderation For Your Twitch Channel     | 19/02/2022, 10:04:05 am   | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=th)      |
-| Custom Bit Badges Guide                           | 19/02/2022, 10:03:43 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=th)                            |
 | How To Handle View Follow Bots                    | 02/02/2022, 10:02:41 am   | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=th)                     |
 | List Of Prohibited Games                          | 02/02/2022, 10:02:39 am   | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=th)                           |
 | Modified Emotes                                   | 19/11/2021, 5:13:45 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=th)                                    |
@@ -212,6 +212,8 @@
 | Updating Payment Information Transaction History  | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=th)   |
 | Guide To Building A Moderation Team               | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/guide-to-building-a-moderation-team?language=th)                |
 | Streamer Community Survey                         | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=th)                          |
+| Ad Offer Faq                                      | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=th)                                       |
+| Contacting Partner Help                           | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=th)                            |
 
 
 
@@ -220,7 +222,6 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
-| Contacting Partner Help                | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=th)                 |
 | Recommended Hardware For Broadcasting  | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=th)   |
 | Low Latency Video                      | 22/10/2021, 8:53:06 am    | [Link](https://help.twitch.tv/s/article/low-latency-video?language=th)                       |
 | Nba G League Co Streaming Guide        | 22/10/2021, 8:53:06 am    | [Link](https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide?language=th)         |
