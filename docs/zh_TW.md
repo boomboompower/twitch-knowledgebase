@@ -6,7 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
-| Custom Bit Badges Guide                     | 25/01/2025, 11:40:46 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=zh_TW)                      |
+| Custom Bit Badges Guide                     | 30/01/2025, 2:41:04 pm    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=zh_TW)                      |
 | Twitch Charity                              | 24/01/2025, 7:37:33 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=zh_TW)                               |
 | Creator Dashboard                           | 24/01/2025, 7:32:34 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=zh_TW)                            |
 | Adding A Game And Box Art To The Directory  | 24/01/2025, 7:32:04 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=zh_TW)   |

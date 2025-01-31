@@ -6,10 +6,10 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Custom Bit Badges Guide                     | 30/01/2025, 7:13:07 pm    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=it)                      |
 | Adding A Game And Box Art To The Directory  | 27/01/2025, 8:10:03 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=it)   |
 | Creator Dashboard                           | 27/01/2025, 8:09:34 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=it)                            |
 | Twitch Charity                              | 27/01/2025, 8:07:07 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=it)                               |
-| Custom Bit Badges Guide                     | 25/01/2025, 11:40:45 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=it)                      |
 | Guide To Cheering With Bits                 | 24/01/2025, 3:14:16 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=it)                  |
 | Sponsored Subscriptions                     | 23/01/2025, 2:50:55 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=it)                      |
 | Streamer Read Ads                           | 23/01/2025, 2:50:13 am    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=it)                            |

@@ -6,10 +6,10 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Custom Bit Badges Guide                     | 30/01/2025, 1:37:34 pm    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=pt_BR)                      |
 | Twitch Charity                              | 27/01/2025, 3:15:41 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=pt_BR)                               |
 | Creator Dashboard                           | 27/01/2025, 0:36:11 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=pt_BR)                            |
 | Adding A Game And Box Art To The Directory  | 27/01/2025, 0:35:18 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=pt_BR)   |
-| Custom Bit Badges Guide                     | 25/01/2025, 11:40:46 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=pt_BR)                      |
 | Guide To Cheering With Bits                 | 24/01/2025, 3:14:26 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_BR)                  |
 | Sponsored Subscriptions                     | 23/01/2025, 2:50:55 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=pt_BR)                      |
 | Streamer Read Ads                           | 23/01/2025, 2:50:13 am    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=pt_BR)                            |
@@ -55,7 +55,6 @@
 | Content Classification Labels               | 03/12/2024, 2:17:36 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=pt_BR)                |
 | Supported Mobile Os                         | 29/11/2024, 10:32:33 am   | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=pt_BR)                          |
 | Bonus Round                                 | 29/11/2024, 6:36:33 am    | [Link](https://help.twitch.tv/s/article/bonus-round?language=pt_BR)                                  |
-| Mod View                                    | 29/11/2024, 3:04:11 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=pt_BR)                                     |
 
 
 
