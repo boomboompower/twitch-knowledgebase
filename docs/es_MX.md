@@ -51,7 +51,6 @@
 | Alerts By Twitch Events                     | 03/12/2024, 10:31:36 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=es_MX)                      |
 | Supported Mobile Os                         | 29/11/2024, 10:06:05 pm   | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=es_MX)                          |
 | Bonus Round                                 | 29/11/2024, 9:45:33 pm    | [Link](https://help.twitch.tv/s/article/bonus-round?language=es_MX)                                  |
-| Mod View                                    | 29/11/2024, 3:04:11 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=es_MX)                                     |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Content Classification Labels               | 05/02/2025, 1:56:09 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=de)                |
 | Custom Bit Badges Guide                     | 31/01/2025, 1:06:05 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=de)                      |
 | Creator Dashboard                           | 26/01/2025, 10:50:04 pm   | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=de)                            |
 | Adding A Game And Box Art To The Directory  | 26/01/2025, 10:48:33 pm   | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=de)   |
