@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Content Classification Labels               | 06/02/2025, 7:25:09 pm    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=es_MX)                |
 | Custom Bit Badges Guide                     | 30/01/2025, 10:22:06 pm   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=es_MX)                      |
 | Twitch Charity                              | 28/01/2025, 0:02:33 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=es_MX)                               |
 | Creator Dashboard                           | 27/01/2025, 11:52:34 pm   | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=es_MX)                            |
