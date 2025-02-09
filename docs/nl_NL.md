@@ -32,6 +32,7 @@
 
 | Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                          |
 |--------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
+| Twitch Prime Partner Guide           | 17/05/2024, 4:37:05 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=nl_NL)            |
 | Two Factor Authentication With Authy | 23/02/2024, 4:01:34 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=nl_NL)  |
 | Authy Faq                            | 23/02/2024, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=nl_NL)                             |
 
