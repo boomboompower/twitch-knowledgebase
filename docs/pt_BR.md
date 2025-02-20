@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Video On Demand                             | 20/02/2025, 5:13:50 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pt_BR)                              |
 | Twitch Affiliate Program Faq                | 15/02/2025, 4:29:28 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_BR)                 |
 | Content Classification Labels               | 06/02/2025, 0:49:33 pm    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=pt_BR)                |
 | Custom Bit Badges Guide                     | 30/01/2025, 1:37:34 pm    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=pt_BR)                      |
@@ -53,7 +54,6 @@
 | Annual Recap                                | 11/12/2024, 1:50:10 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=pt_BR)                                 |
 | Shared Viewership                           | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=pt_BR)                            |
 | Stream Display Ads                          | 06/12/2024, 2:48:20 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pt_BR)                           |
-| Alerts By Twitch Events                     | 03/12/2024, 2:32:06 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=pt_BR)                      |
 
 
 
@@ -267,6 +267,15 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_BR)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=pt_BR)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pt_BR)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name        | Last Updated (dd/mm/yyyy) | Link                                                                 |
+|-------------|---------------------------|----------------------------------------------------------------------|
+| Beast Games | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=pt_BR)  |
 
 
 

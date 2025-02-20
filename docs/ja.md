@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Video On Demand                             | 20/02/2025, 5:13:50 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                              |
 | Twitch Affiliate Program Faq                | 15/02/2025, 4:29:28 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                 |
 | Content Classification Labels               | 05/02/2025, 5:02:35 pm    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=ja)                |
 | Custom Bit Badges Guide                     | 30/01/2025, 7:52:04 pm    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=ja)                      |
@@ -266,6 +267,15 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)      |
 | Markdown Basics                            | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name        | Last Updated (dd/mm/yyyy) | Link                                                              |
+|-------------|---------------------------|-------------------------------------------------------------------|
+| Beast Games | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=ja)  |
 
 
 

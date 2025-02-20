@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Video On Demand                             | 20/02/2025, 5:13:50 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pl)                              |
 | Twitch Affiliate Program Faq                | 15/02/2025, 4:29:28 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pl)                 |
 | Custom Bit Badges Guide                     | 25/01/2025, 11:40:45 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=pl)                      |
 | Twitch Charity                              | 23/01/2025, 0:27:21 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=pl)                               |
@@ -31,7 +32,6 @@
 | Creator Goals                               | 11/12/2024, 10:54:10 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=pl)                                |
 | Twitch Turbo Guide                          | 07/12/2024, 8:09:33 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pl)                           |
 | Stream Display Ads                          | 05/12/2024, 10:40:12 am   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=pl)                           |
-| Twitch Chat Badges Guide                    | 03/12/2024, 10:53:11 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=pl)                     |
 
 
 

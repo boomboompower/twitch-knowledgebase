@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Video On Demand                             | 20/02/2025, 5:13:51 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                              |
 | Twitch Affiliate Program Faq                | 15/02/2025, 4:29:28 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                 |
 | Content Classification Labels               | 06/02/2025, 6:33:04 pm    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=zh_TW)                |
 | Custom Bit Badges Guide                     | 30/01/2025, 2:41:04 pm    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=zh_TW)                      |
@@ -266,6 +267,15 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name        | Last Updated (dd/mm/yyyy) | Link                                                                 |
+|-------------|---------------------------|----------------------------------------------------------------------|
+| Beast Games | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=zh_TW)  |
 
 
 

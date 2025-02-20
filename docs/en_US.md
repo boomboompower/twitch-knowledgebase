@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Video On Demand                             | 20/02/2025, 5:13:49 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                              |
 | Twitch Affiliate Program Faq                | 15/02/2025, 4:29:28 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                 |
 | Payout Details Faq                          | 15/02/2025, 4:29:21 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                           |
 | Content Classification Labels               | 04/02/2025, 5:00:02 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=en_US)                |
@@ -50,9 +51,6 @@
 | Annual Recap                                | 11/12/2024, 1:50:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=en_US)                                 |
 | Twitch Turbo Guide                          | 07/12/2024, 8:09:33 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                           |
 | Shared Viewership                           | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=en_US)                            |
-| Stream Display Ads                          | 05/12/2024, 10:40:11 am   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                           |
-| How To Use Badges                           | 03/12/2024, 10:54:16 am   | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=en_US)                            |
-| Twitch Chat Badges Guide                    | 03/12/2024, 10:53:11 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                     |
 
 
 
@@ -350,6 +348,17 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)      |
 | Markdown Basics                            | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                      | Last Updated (dd/mm/yyyy) | Link                                                                               |
+|---------------------------|---------------------------|------------------------------------------------------------------------------------|
+| Getting Started On Twitch | 18/01/2025, 0:17:01 pm    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=en_US)  |
+| Beast Games               | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=en_US)                |
+| How To Sub Only Archives  | 17/12/2024, 10:04:17 am   | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=en_US)   |
 
 
 
