@@ -6,8 +6,9 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                | 24/02/2025, 8:33:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                 |
+| Payout Details Faq                          | 24/02/2025, 8:33:34 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es_MX)                           |
 | Video On Demand                             | 20/02/2025, 5:13:50 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es_MX)                              |
-| Twitch Affiliate Program Faq                | 15/02/2025, 4:29:28 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                 |
 | Content Classification Labels               | 06/02/2025, 7:25:09 pm    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=es_MX)                |
 | Custom Bit Badges Guide                     | 30/01/2025, 10:22:06 pm   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=es_MX)                      |
 | Twitch Charity                              | 28/01/2025, 0:02:33 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=es_MX)                               |
@@ -49,8 +50,6 @@
 | Creator Goals                               | 11/12/2024, 10:54:11 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=es_MX)                                |
 | Twitch Turbo Guide                          | 11/12/2024, 2:00:38 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es_MX)                           |
 | Annual Recap                                | 11/12/2024, 1:50:10 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=es_MX)                                 |
-| Shared Viewership                           | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=es_MX)                            |
-| Stream Display Ads                          | 06/12/2024, 2:48:14 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=es_MX)                           |
 
 
 
@@ -266,6 +265,16 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Beast Games              | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=es_MX)               |
+| How To Sub Only Archives | 17/12/2024, 9:48:38 pm    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es_MX)  |
 
 
 

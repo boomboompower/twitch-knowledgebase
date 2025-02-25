@@ -6,8 +6,9 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
-| Video On Demand                             | 20/02/2025, 5:13:51 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                              |
-| Twitch Affiliate Program Faq                | 15/02/2025, 4:29:28 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                 |
+| Video On Demand                             | 25/02/2025, 3:02:02 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                              |
+| Twitch Affiliate Program Faq                | 25/02/2025, 1:02:09 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                 |
+| Payout Details Faq                          | 25/02/2025, 1:02:03 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=zh_TW)                           |
 | Content Classification Labels               | 06/02/2025, 6:33:04 pm    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=zh_TW)                |
 | Custom Bit Badges Guide                     | 30/01/2025, 2:41:04 pm    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=zh_TW)                      |
 | Twitch Charity                              | 24/01/2025, 7:37:33 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=zh_TW)                               |
@@ -50,8 +51,6 @@
 | Creator Goals                               | 11/12/2024, 10:54:11 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                                |
 | Twitch Turbo Guide                          | 11/12/2024, 2:00:35 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                           |
 | Annual Recap                                | 11/12/2024, 1:50:10 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=zh_TW)                                 |
-| Shared Viewership                           | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=zh_TW)                            |
-| Stream Display Ads                          | 06/12/2024, 2:48:17 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=zh_TW)                           |
 
 
 
@@ -266,6 +265,15 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name        | Last Updated (dd/mm/yyyy) | Link                                                                 |
+|-------------|---------------------------|----------------------------------------------------------------------|
+| Beast Games | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=zh_TW)  |
 
 
 

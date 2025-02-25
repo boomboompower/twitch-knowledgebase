@@ -50,7 +50,6 @@
 | Creator Goals                               | 11/12/2024, 10:54:10 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                |
 | Annual Recap                                | 11/12/2024, 1:50:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=en_US)                                 |
 | Twitch Turbo Guide                          | 07/12/2024, 8:09:33 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                           |
-| Shared Viewership                           | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=en_US)                            |
 
 
 
@@ -349,6 +348,17 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)      |
 | Markdown Basics                            | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                      | Last Updated (dd/mm/yyyy) | Link                                                                               |
+|---------------------------|---------------------------|------------------------------------------------------------------------------------|
+| Getting Started On Twitch | 18/01/2025, 0:17:01 pm    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=en_US)  |
+| Beast Games               | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=en_US)                |
+| How To Sub Only Archives  | 17/12/2024, 10:04:17 am   | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=en_US)   |
 
 
 

@@ -31,7 +31,6 @@
 | How To Use Clips                            | 13/12/2024, 9:49:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=th)                             |
 | Creator Goals                               | 11/12/2024, 10:54:10 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=th)                                |
 | Twitch Turbo Guide                          | 07/12/2024, 8:09:33 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=th)                           |
-| Stream Display Ads                          | 05/12/2024, 10:40:12 am   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=th)                           |
 
 
 
