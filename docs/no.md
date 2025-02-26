@@ -6,6 +6,7 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Twitch Prime Partner Guide             | 26/02/2025, 9:51:47 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=no)              |
 | Username Rename And Recycling Policies | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=no)  |
 | Twitch Teams                           | 17/12/2024, 10:02:55 am   | [Link](https://help.twitch.tv/s/article/twitch-teams?language=no)                            |
 | Chat Commands                          | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=no)                           |

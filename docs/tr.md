@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                  | 26/02/2025, 9:51:47 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=tr)                   |
 | Video On Demand                             | 20/02/2025, 5:13:49 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=tr)                              |
 | Twitch Affiliate Program Faq                | 15/02/2025, 4:29:28 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=tr)                 |
 | Custom Bit Badges Guide                     | 25/01/2025, 11:40:46 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=tr)                      |
@@ -30,7 +31,6 @@
 | Mobile Creator Mode                         | 14/12/2024, 2:27:15 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=tr)                          |
 | How To Use Clips                            | 13/12/2024, 9:49:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=tr)                             |
 | Creator Goals                               | 11/12/2024, 10:54:10 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=tr)                                |
-| Twitch Turbo Guide                          | 07/12/2024, 8:09:33 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=tr)                           |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                  | 26/02/2025, 9:51:46 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                   |
 | Twitch Affiliate Program Faq                | 24/02/2025, 10:26:08 pm   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                 |
 | Payout Details Faq                          | 24/02/2025, 10:26:05 pm   | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=ja)                           |
 | Video On Demand                             | 20/02/2025, 5:13:50 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                              |
@@ -50,7 +51,6 @@
 | Dj Secondary                                | 12/12/2024, 7:44:34 pm    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=ja)                                 |
 | Creator Goals                               | 11/12/2024, 10:54:11 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=ja)                                |
 | Twitch Turbo Guide                          | 11/12/2024, 2:00:46 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                           |
-| Annual Recap                                | 11/12/2024, 1:50:10 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=ja)                                 |
 
 
 
@@ -271,9 +271,10 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name        | Last Updated (dd/mm/yyyy) | Link                                                              |
-|-------------|---------------------------|-------------------------------------------------------------------|
-| Beast Games | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=ja)  |
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Beast Games              | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=ja)               |
+| How To Sub Only Archives | 17/12/2024, 7:25:02 pm    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=ja)  |
 
 
 

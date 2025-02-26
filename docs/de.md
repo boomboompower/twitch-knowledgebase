@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                  | 26/02/2025, 9:51:46 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=de)                   |
 | Payout Details Faq                          | 23/02/2025, 9:42:35 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=de)                           |
 | Twitch Affiliate Program Faq                | 23/02/2025, 9:42:34 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)                 |
 | Video On Demand                             | 20/02/2025, 5:13:49 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=de)                              |
@@ -50,7 +51,6 @@
 | How To Use Badges                           | 13/12/2024, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=de)                            |
 | Creator Goals                               | 11/12/2024, 10:54:10 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=de)                                |
 | Twitch Turbo Guide                          | 11/12/2024, 2:00:44 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=de)                           |
-| Annual Recap                                | 11/12/2024, 1:50:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=de)                                 |
 
 
 
@@ -277,6 +277,7 @@
 |--------------------------|---------------------------|--------------------------------------------------------------------------------|
 | Beast Games              | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=de)               |
 | How To Sub Only Archives | 17/12/2024, 10:15:04 pm   | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=de)  |
+| How To Upgrade Prime     | 17/12/2024, 10:06:50 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=de)      |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                  | 26/02/2025, 10:01:59 am   | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)                   |
 | Twitch Affiliate Program Faq                | 24/02/2025, 8:33:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                 |
 | Payout Details Faq                          | 24/02/2025, 8:33:34 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es_MX)                           |
 | Video On Demand                             | 20/02/2025, 5:13:50 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es_MX)                              |

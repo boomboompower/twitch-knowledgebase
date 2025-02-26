@@ -6,8 +6,9 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
-| Twitch Affiliate Program Faq                | 25/02/2025, 3:07:34 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                 |
-| Payout Details Faq                          | 25/02/2025, 3:07:33 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es)                           |
+| Prime Gaming Revenue Guide                  | 26/02/2025, 9:51:46 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es)                   |
+| Twitch Affiliate Program Faq                | 25/02/2025, 10:28:32 pm   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                 |
+| Payout Details Faq                          | 25/02/2025, 10:27:33 pm   | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es)                           |
 | Video On Demand                             | 20/02/2025, 5:13:49 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es)                              |
 | Content Classification Labels               | 06/02/2025, 11:25:14 pm   | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=es)                |
 | Custom Bit Badges Guide                     | 30/01/2025, 9:12:04 pm    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=es)                      |
@@ -275,6 +276,7 @@
 |--------------------------|---------------------------|--------------------------------------------------------------------------------|
 | Beast Games              | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=es)               |
 | How To Sub Only Archives | 17/12/2024, 10:53:02 pm   | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es)  |
+| How To Upgrade Prime     | 17/12/2024, 10:06:50 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=es)      |
 
 
 

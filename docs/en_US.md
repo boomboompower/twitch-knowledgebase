@@ -6,6 +6,9 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                  | 26/02/2025, 9:51:47 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)                   |
+| Creator Profile Setup                       | 26/02/2025, 6:01:35 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=en_US)                        |
+| Streamelements Campaigns                    | 26/02/2025, 6:01:25 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=en_US)                     |
 | Video On Demand                             | 20/02/2025, 5:13:49 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                              |
 | Twitch Affiliate Program Faq                | 15/02/2025, 4:29:28 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                 |
 | Payout Details Faq                          | 15/02/2025, 4:29:21 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                           |
@@ -48,8 +51,6 @@
 | How To Use Clips                            | 13/12/2024, 9:49:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                             |
 | Twitch Account Access Login Issues Guide    | 12/12/2024, 7:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=en_US)     |
 | Creator Goals                               | 11/12/2024, 10:54:10 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                |
-| Annual Recap                                | 11/12/2024, 1:50:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=en_US)                                 |
-| Twitch Turbo Guide                          | 07/12/2024, 8:09:33 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                           |
 
 
 
@@ -356,8 +357,11 @@
 
 | Name                      | Last Updated (dd/mm/yyyy) | Link                                                                               |
 |---------------------------|---------------------------|------------------------------------------------------------------------------------|
+| Creator Profile Setup     | 26/02/2025, 6:01:35 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=en_US)      |
+| Streamelements Campaigns  | 26/02/2025, 6:01:25 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=en_US)   |
 | Getting Started On Twitch | 18/01/2025, 0:17:01 pm    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=en_US)  |
 | Beast Games               | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=en_US)                |
+| How To Upgrade Prime      | 17/12/2024, 10:06:50 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=en_US)       |
 | How To Sub Only Archives  | 17/12/2024, 10:04:17 am   | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=en_US)   |
 
 
