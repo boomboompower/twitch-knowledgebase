@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| How To Use Clips                            | 27/02/2025, 8:42:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                             |
 | Prime Gaming Revenue Guide                  | 26/02/2025, 9:51:46 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                   |
 | Video On Demand                             | 25/02/2025, 3:02:02 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                              |
 | Twitch Affiliate Program Faq                | 25/02/2025, 1:02:09 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                 |
@@ -44,13 +45,13 @@
 | Mobile Creator Mode                         | 16/12/2024, 9:07:11 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=zh_TW)                          |
 | Twitch Account Access Login Issues Guide    | 16/12/2024, 7:05:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=zh_TW)     |
 | Featured Clips                              | 16/12/2024, 3:55:35 pm    | [Link](https://help.twitch.tv/s/article/featured-clips?language=zh_TW)                               |
-| How To Use Clips                            | 16/12/2024, 3:55:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                             |
 | Understanding Viewer Count Vs Users In Chat | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=zh_TW)  |
 | Dj Secondary                                | 12/12/2024, 8:21:07 pm    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=zh_TW)                                 |
 | How To Use Badges                           | 12/12/2024, 8:21:07 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=zh_TW)                            |
 | Twitch Chat Badges Guide                    | 12/12/2024, 8:21:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                     |
 | Creator Goals                               | 11/12/2024, 10:54:11 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                                |
 | Twitch Turbo Guide                          | 11/12/2024, 2:00:35 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                           |
+| Annual Recap                                | 11/12/2024, 1:50:10 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=zh_TW)                                 |
 
 
 

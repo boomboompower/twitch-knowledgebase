@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| How To Use Clips                            | 27/02/2025, 8:42:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                             |
 | Prime Gaming Revenue Guide                  | 26/02/2025, 9:51:46 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pt_BR)                   |
 | Twitch Affiliate Program Faq                | 24/02/2025, 9:31:08 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_BR)                 |
 | Payout Details Faq                          | 24/02/2025, 9:31:04 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=pt_BR)                           |
@@ -45,7 +46,6 @@
 | Chat Commands                               | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_BR)                                |
 | Mobile Creator Mode                         | 17/12/2024, 0:03:33 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=pt_BR)                          |
 | Twitch Account Access Login Issues Guide    | 16/12/2024, 10:25:33 pm   | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=pt_BR)     |
-| How To Use Clips                            | 16/12/2024, 10:23:39 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                             |
 | Featured Clips                              | 16/12/2024, 10:23:34 pm   | [Link](https://help.twitch.tv/s/article/featured-clips?language=pt_BR)                               |
 | Understanding Viewer Count Vs Users In Chat | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=pt_BR)  |
 | Dj Secondary                                | 12/12/2024, 9:41:39 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=pt_BR)                                 |

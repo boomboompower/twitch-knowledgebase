@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| How To Use Clips                            | 27/02/2025, 8:42:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                             |
 | Prime Gaming Revenue Guide                  | 26/02/2025, 9:51:46 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)                   |
 | Payout Details Faq                          | 24/02/2025, 9:42:37 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=it)                           |
 | Twitch Affiliate Program Faq                | 24/02/2025, 9:42:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=it)                 |
@@ -44,7 +45,6 @@
 | Mobile Creator Mode                         | 16/12/2024, 8:58:03 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=it)                          |
 | Twitch Account Access Login Issues Guide    | 16/12/2024, 8:53:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=it)     |
 | Featured Clips                              | 16/12/2024, 8:52:08 pm    | [Link](https://help.twitch.tv/s/article/featured-clips?language=it)                               |
-| How To Use Clips                            | 16/12/2024, 8:52:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                             |
 | Understanding Viewer Count Vs Users In Chat | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=it)  |
 | Dj Secondary                                | 12/12/2024, 8:25:09 pm    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=it)                                 |
 | How To Use Badges                           | 12/12/2024, 8:25:06 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=it)                            |

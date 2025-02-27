@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| How To Use Clips                            | 27/02/2025, 8:42:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                             |
 | Prime Gaming Revenue Guide                  | 26/02/2025, 9:51:47 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)                   |
 | Creator Profile Setup                       | 26/02/2025, 6:01:35 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=en_US)                        |
 | Streamelements Campaigns                    | 26/02/2025, 6:01:25 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=en_US)                     |
@@ -48,9 +49,9 @@
 | Stream Summary                              | 14/12/2024, 6:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=en_US)                               |
 | Mobile Creator Mode                         | 14/12/2024, 2:27:15 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=en_US)                          |
 | Featured Clips                              | 13/12/2024, 9:49:55 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=en_US)                               |
-| How To Use Clips                            | 13/12/2024, 9:49:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                             |
 | Twitch Account Access Login Issues Guide    | 12/12/2024, 7:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=en_US)     |
 | Creator Goals                               | 11/12/2024, 10:54:10 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                |
+| Annual Recap                                | 11/12/2024, 1:50:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=en_US)                                 |
 
 
 

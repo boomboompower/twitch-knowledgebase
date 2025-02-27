@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| How To Use Clips                            | 27/02/2025, 8:42:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                             |
 | Prime Gaming Revenue Guide                  | 26/02/2025, 9:51:46 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                   |
 | Twitch Affiliate Program Faq                | 24/02/2025, 10:26:08 pm   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                 |
 | Payout Details Faq                          | 24/02/2025, 10:26:05 pm   | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=ja)                           |
@@ -43,7 +44,6 @@
 | Chat Commands                               | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=ja)                                |
 | Mobile Creator Mode                         | 16/12/2024, 11:24:11 pm   | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=ja)                          |
 | Featured Clips                              | 16/12/2024, 11:23:41 pm   | [Link](https://help.twitch.tv/s/article/featured-clips?language=ja)                               |
-| How To Use Clips                            | 16/12/2024, 11:23:38 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                             |
 | Twitch Account Access Login Issues Guide    | 16/12/2024, 6:38:34 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=ja)     |
 | Understanding Viewer Count Vs Users In Chat | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=ja)  |
 | Twitch Chat Badges Guide                    | 12/12/2024, 7:44:37 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                     |
@@ -51,6 +51,7 @@
 | Dj Secondary                                | 12/12/2024, 7:44:34 pm    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=ja)                                 |
 | Creator Goals                               | 11/12/2024, 10:54:11 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=ja)                                |
 | Twitch Turbo Guide                          | 11/12/2024, 2:00:46 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                           |
+| Annual Recap                                | 11/12/2024, 1:50:10 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=ja)                                 |
 
 
 

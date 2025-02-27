@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| How To Use Clips                            | 27/02/2025, 8:42:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                             |
 | Prime Gaming Revenue Guide                  | 26/02/2025, 9:51:46 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=fr)                   |
 | Twitch Affiliate Program Faq                | 24/02/2025, 11:46:04 pm   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=fr)                 |
 | Payout Details Faq                          | 24/02/2025, 11:46:03 pm   | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=fr)                           |
@@ -42,7 +43,6 @@
 | Achievements                                | 17/12/2024, 10:01:03 am   | [Link](https://help.twitch.tv/s/article/achievements?language=fr)                                 |
 | Chat Commands                               | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=fr)                                |
 | Mobile Creator Mode                         | 17/12/2024, 0:35:32 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=fr)                          |
-| How To Use Clips                            | 17/12/2024, 0:33:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                             |
 | Featured Clips                              | 17/12/2024, 0:33:34 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=fr)                               |
 | Twitch Account Access Login Issues Guide    | 17/12/2024, 0:09:03 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=fr)     |
 | Understanding Viewer Count Vs Users In Chat | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=fr)  |
