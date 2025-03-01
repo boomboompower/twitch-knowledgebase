@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Creator Profile Setup                       | 28/02/2025, 11:58:03 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=zh_TW)                        |
 | How To Use Clips                            | 27/02/2025, 8:42:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                             |
 | Prime Gaming Revenue Guide                  | 26/02/2025, 9:51:46 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                   |
 | Video On Demand                             | 25/02/2025, 3:02:02 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                              |

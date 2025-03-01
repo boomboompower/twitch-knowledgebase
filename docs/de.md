@@ -51,7 +51,6 @@
 | How To Use Badges                           | 13/12/2024, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=de)                            |
 | Creator Goals                               | 11/12/2024, 10:54:10 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=de)                                |
 | Twitch Turbo Guide                          | 11/12/2024, 2:00:44 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=de)                           |
-| Annual Recap                                | 11/12/2024, 1:50:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=de)                                 |
 
 
 
