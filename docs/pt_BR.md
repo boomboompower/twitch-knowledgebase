@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Streamelements Campaigns                    | 04/03/2025, 10:35:32 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=pt_BR)                     |
 | Creator Profile Setup                       | 03/03/2025, 11:23:04 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=pt_BR)                        |
 | Prime Gaming Revenue Guide                  | 03/03/2025, 10:23:08 pm   | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pt_BR)                   |
 | How To Use Clips                            | 27/02/2025, 8:42:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                             |
@@ -273,9 +274,10 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                  | Last Updated (dd/mm/yyyy) | Link                                                                           |
-|-----------------------|---------------------------|--------------------------------------------------------------------------------|
-| Creator Profile Setup | 03/03/2025, 11:23:04 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=pt_BR)  |
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Streamelements Campaigns | 04/03/2025, 10:35:32 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=pt_BR)  |
+| Creator Profile Setup    | 03/03/2025, 11:23:04 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=pt_BR)     |
 
 
 

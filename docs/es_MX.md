@@ -6,6 +6,8 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Streamelements Campaigns                    | 04/03/2025, 10:53:33 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es_MX)                     |
+| Creator Profile Setup                       | 04/03/2025, 10:28:03 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es_MX)                        |
 | Prime Gaming Revenue Guide                  | 04/03/2025, 1:10:15 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)                   |
 | How To Use Clips                            | 27/02/2025, 8:42:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                             |
 | Twitch Affiliate Program Faq                | 24/02/2025, 8:33:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                 |
@@ -49,7 +51,6 @@
 | Dj Secondary                                | 12/12/2024, 11:17:04 pm   | [Link](https://help.twitch.tv/s/article/dj-secondary?language=es_MX)                                 |
 | How To Use Badges                           | 12/12/2024, 11:17:04 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=es_MX)                            |
 | Creator Goals                               | 11/12/2024, 10:54:11 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=es_MX)                                |
-| Twitch Turbo Guide                          | 11/12/2024, 2:00:38 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es_MX)                           |
 
 
 
@@ -267,6 +268,15 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Streamelements Campaigns | 04/03/2025, 10:53:33 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es_MX)  |
 
 
 

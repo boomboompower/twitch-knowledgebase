@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Streamelements Campaigns                    | 05/03/2025, 0:02:03 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)                     |
 | Creator Profile Setup                       | 04/03/2025, 0:05:04 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es)                        |
 | Prime Gaming Revenue Guide                  | 03/03/2025, 11:54:08 pm   | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es)                   |
 | How To Use Clips                            | 27/02/2025, 8:42:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                             |
@@ -49,9 +50,6 @@
 | How To Use Badges                           | 12/12/2024, 8:09:09 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=es)                            |
 | Dj Secondary                                | 12/12/2024, 8:09:06 pm    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=es)                                 |
 | Twitch Chat Badges Guide                    | 12/12/2024, 8:09:06 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es)                     |
-| Creator Goals                               | 11/12/2024, 10:54:11 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=es)                                |
-| Annual Recap                                | 11/12/2024, 2:20:05 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=es)                                 |
-| Twitch Turbo Guide                          | 11/12/2024, 2:00:42 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es)                           |
 
 
 
@@ -274,9 +272,10 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                  | Last Updated (dd/mm/yyyy) | Link                                                                        |
-|-----------------------|---------------------------|-----------------------------------------------------------------------------|
-| Creator Profile Setup | 04/03/2025, 0:05:04 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es)  |
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Streamelements Campaigns | 05/03/2025, 0:02:03 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)  |
+| Creator Profile Setup    | 04/03/2025, 0:05:04 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es)     |
 
 
 

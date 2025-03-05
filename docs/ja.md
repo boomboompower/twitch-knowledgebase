@@ -52,7 +52,6 @@
 | How To Use Badges                           | 12/12/2024, 7:44:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=ja)                            |
 | Dj Secondary                                | 12/12/2024, 7:44:34 pm    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=ja)                                 |
 | Creator Goals                               | 11/12/2024, 10:54:11 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=ja)                                |
-| Twitch Turbo Guide                          | 11/12/2024, 2:00:46 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                           |
 
 
 

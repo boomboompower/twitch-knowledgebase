@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Streamelements Campaigns                    | 04/03/2025, 11:30:32 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=fr)                     |
 | Creator Profile Setup                       | 03/03/2025, 9:53:32 pm    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=fr)                        |
 | Prime Gaming Revenue Guide                  | 03/03/2025, 9:12:09 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=fr)                   |
 | How To Use Clips                            | 27/02/2025, 8:42:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                             |
@@ -50,8 +51,6 @@
 | How To Use Badges                           | 12/12/2024, 11:57:58 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=fr)                            |
 | Twitch Chat Badges Guide                    | 12/12/2024, 11:57:53 pm   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=fr)                     |
 | Dj Secondary                                | 12/12/2024, 11:57:52 pm   | [Link](https://help.twitch.tv/s/article/dj-secondary?language=fr)                                 |
-| Creator Goals                               | 11/12/2024, 10:54:09 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=fr)                                |
-| Twitch Turbo Guide                          | 11/12/2024, 2:00:41 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=fr)                           |
 
 
 
@@ -276,9 +275,10 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                  | Last Updated (dd/mm/yyyy) | Link                                                                        |
-|-----------------------|---------------------------|-----------------------------------------------------------------------------|
-| Creator Profile Setup | 03/03/2025, 9:53:32 pm    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=fr)  |
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Streamelements Campaigns | 04/03/2025, 11:30:32 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=fr)  |
+| Creator Profile Setup    | 03/03/2025, 9:53:32 pm    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=fr)     |
 
 
 
