@@ -6,10 +6,10 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| How To Use Clips                            | 05/03/2025, 10:23:06 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                             |
 | Streamelements Campaigns                    | 04/03/2025, 10:53:33 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es_MX)                     |
 | Creator Profile Setup                       | 04/03/2025, 10:28:03 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es_MX)                        |
 | Prime Gaming Revenue Guide                  | 04/03/2025, 1:10:15 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)                   |
-| How To Use Clips                            | 27/02/2025, 8:42:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                             |
 | Twitch Affiliate Program Faq                | 24/02/2025, 8:33:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                 |
 | Payout Details Faq                          | 24/02/2025, 8:33:34 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es_MX)                           |
 | Video On Demand                             | 20/02/2025, 5:13:50 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es_MX)                              |
