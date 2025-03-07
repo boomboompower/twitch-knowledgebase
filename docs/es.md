@@ -6,6 +6,8 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| What Is Fraud                               | 07/03/2025, 0:23:23 pm    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=es)                                |
+| Twitch Ambassador Program                   | 07/03/2025, 0:21:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=es)                    |
 | Plus Program                                | 06/03/2025, 1:11:08 am    | [Link](https://help.twitch.tv/s/article/plus-program?language=es)                                 |
 | How To Use Clips                            | 05/03/2025, 9:58:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                             |
 | Streamelements Campaigns                    | 05/03/2025, 0:02:03 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)                     |
@@ -48,9 +50,6 @@
 | Understanding Viewer Count Vs Users In Chat | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=es)  |
 | Featured Clips                              | 14/12/2024, 3:03:08 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=es)                               |
 | Twitch Account Access Login Issues Guide    | 14/12/2024, 2:45:05 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=es)     |
-| How To Use Badges                           | 12/12/2024, 8:09:09 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=es)                            |
-| Dj Secondary                                | 12/12/2024, 8:09:06 pm    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=es)                                 |
-| Twitch Chat Badges Guide                    | 12/12/2024, 8:09:06 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es)                     |
 
 
 
