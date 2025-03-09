@@ -59,6 +59,8 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Twitch Account Access Login Issues Guide   | 12/12/2024, 7:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=en_US)    |
+| Creator Goals                              | 11/12/2024, 10:54:10 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                               |
 | Annual Recap                               | 11/12/2024, 1:50:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=en_US)                                |
 | Twitch Turbo Guide                         | 07/12/2024, 8:09:33 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                          |
 | Shared Viewership                          | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=en_US)                           |
@@ -171,8 +173,6 @@
 | Channel Page Setup                         | 29/08/2024, 7:08:16 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=en_US)                          |
 | Local Sub Price Countries                  | 23/08/2024, 8:24:10 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                   |
 | Month Length                               | 23/08/2024, 3:54:20 am    | [Link](https://help.twitch.tv/s/article/month-length?language=en_US)                                |
-| Tips For Applying To The Partner Program   | 25/06/2024, 5:58:40 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)    |
-| How To Manage Harassment In Chat           | 06/06/2024, 3:12:28 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=en_US)            |
 
 
 
@@ -181,8 +181,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Tips For Applying To The Partner Program                 | 25/06/2024, 5:58:40 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)                  |
+| How To Manage Harassment In Chat                         | 06/06/2024, 3:12:28 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=en_US)                          |
 | How To Use Raids                                         | 06/06/2024, 3:04:11 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=en_US)                                          |
-| Twitch Cares Mental Health Support Information           | 01/06/2024, 10:36:30 am   | [Link](https://help.twitch.tv/s/article/twitch-cares-mental-health-support-information?language=en_US)            |
 | Partner Program Overview                                 | 22/05/2024, 9:35:53 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=en_US)                                  |
 | How To Customize Content                                 | 22/05/2024, 2:55:24 am    | [Link](https://help.twitch.tv/s/article/how-to-customize-content?language=en_US)                                  |
 | Twitch Charity Faqs                                      | 14/05/2024, 10:15:48 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=en_US)                                       |
@@ -265,9 +266,6 @@
 | Xbox Promotion 2022                                           | 02/11/2022, 3:54:02 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=en_US)                                            |
 | Viewer Channel Point Guide                                    | 28/10/2022, 8:26:22 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=en_US)                                     |
 | Channel Points Guide                                          | 28/10/2022, 8:25:45 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=en_US)                                           |
-| Cheering Experiment 2022                                      | 27/10/2022, 11:02:37 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=en_US)                                       |
-| How To Use Extensions                                         | 26/10/2022, 7:05:22 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=en_US)                                          |
-| Earning Revenue From Bits In Extensions                       | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=en_US)                        |
 
 
 
@@ -276,6 +274,9 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                       |
 |---------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------|
+| Cheering Experiment 2022                          | 27/10/2022, 11:02:37 am   | [Link](https://help.twitch.tv/s/article/cheering-experiment-2022?language=en_US)                           |
+| How To Use Extensions                             | 26/10/2022, 7:05:22 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=en_US)                              |
+| Earning Revenue From Bits In Extensions           | 21/10/2022, 7:25:41 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=en_US)            |
 | Twitch Content Sharing Guidelines                 | 13/10/2022, 7:53:06 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=en_US)                  |
 | Charitable Donations                              | 22/09/2022, 4:41:17 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=en_US)                               |
 | Affiliate Emote Prefix Change                     | 21/09/2022, 4:59:49 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=en_US)                      |
@@ -322,12 +323,6 @@
 | How To Handle View Follow Bots                    | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=en_US)                     |
 | Guide To Building A Moderation Team               | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/guide-to-building-a-moderation-team?language=en_US)                |
 | Twitch Policies And Guidelines                    | 22/10/2021, 8:53:32 am    | [Link](https://help.twitch.tv/s/article/twitch-policies-and-guidelines?language=en_US)                     |
-| Making The Most Of Channel Points                 | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/making-the-most-of-channel-points?language=en_US)                  |
-| Audio Ads                                         | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/audio-ads?language=en_US)                                          |
-| Streamer Community Survey                         | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=en_US)                          |
-| Tips For Bounty Board Completing Bounties         | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/Tips-for-Bounty-Board-Completing-Bounties?language=en_US)          |
-| Surge Pricing Faq                                 | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/surge-pricing-faq?language=en_US)                                  |
-| Contacting Partner Help                           | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=en_US)                            |
 
 
 
@@ -336,6 +331,12 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Making The Most Of Channel Points          | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/making-the-most-of-channel-points?language=en_US)           |
+| Audio Ads                                  | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/audio-ads?language=en_US)                                   |
+| Streamer Community Survey                  | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=en_US)                   |
+| Tips For Bounty Board Completing Bounties  | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/Tips-for-Bounty-Board-Completing-Bounties?language=en_US)   |
+| Surge Pricing Faq                          | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/surge-pricing-faq?language=en_US)                           |
+| Contacting Partner Help                    | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=en_US)                     |
 | Extensions Switch With Your Game Selection | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection?language=en_US)  |
 | Pools Hottubs Beaches                      | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/pools-hottubs-beaches?language=en_US)                       |
 | Recommended Hardware For Broadcasting      | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=en_US)       |
@@ -352,17 +353,6 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)      |
 | Markdown Basics                            | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                             |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                      | Last Updated (dd/mm/yyyy) | Link                                                                               |
-|---------------------------|---------------------------|------------------------------------------------------------------------------------|
-| Creator Profile Setup     | 26/02/2025, 6:01:35 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=en_US)      |
-| Streamelements Campaigns  | 26/02/2025, 6:01:25 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=en_US)   |
-| Getting Started On Twitch | 18/01/2025, 0:17:01 pm    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=en_US)  |
 
 
 

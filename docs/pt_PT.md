@@ -62,6 +62,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Earning Revenue From Bits In Extensions Beta  | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=pt_PT)   |
 | Twitch Content Sharing Guidelines             | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=pt_PT)              |
 | A Tour Of Your Channel Page                   | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=pt_PT)                    |
 | How To Subscribe                              | 16/06/2022, 8:35:16 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                               |
@@ -72,7 +73,6 @@
 | Twitch Merchandise Store Support Faq          | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=pt_PT)           |
 | Setting Up Moderation For Your Twitch Channel | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=pt_PT)  |
 | Guide To Building A Moderation Team           | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/guide-to-building-a-moderation-team?language=pt_PT)            |
-| Partner Help And Contact Information          | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/partner-help-and-contact-information?language=pt_PT)           |
 
 
 
@@ -81,6 +81,7 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Partner Help And Contact Information   | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/partner-help-and-contact-information?language=pt_PT)    |
 | Recommended Hardware For Broadcasting  | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=pt_PT)   |
 | How To Use Go Live Notifications       | 22/10/2021, 8:53:07 am    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=pt_PT)        |
 | How To Use Collections                 | 22/10/2021, 8:53:07 am    | [Link](https://help.twitch.tv/s/article/how-to-use-collections?language=pt_PT)                  |

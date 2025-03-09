@@ -51,6 +51,7 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Earning Revenue From Bits In Extensions Beta      | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=sv)       |
 | Twitch Content Sharing Guidelines                 | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=sv)                  |
 | A Tour Of Your Channel Page                       | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=sv)                        |
 | Watching Twitch On Ios Devices                    | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=sv)                     |

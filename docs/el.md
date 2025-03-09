@@ -24,9 +24,17 @@
 ## Article-4
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
+| Name           | Last Updated (dd/mm/yyyy) | Link                                                                 |
+|----------------|---------------------------|----------------------------------------------------------------------|
+| Account Hacked | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=el)  |
+
+
+
+## Article-5
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-5.xml) this sitemap
+
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                               |
 |----------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------|
-| Account Hacked                               | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=el)                                |
 | Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=el)  |
 
 
