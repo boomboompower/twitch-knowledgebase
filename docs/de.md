@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Content Approval                            | 12/03/2025, 11:35:02 am   | [Link](https://help.twitch.tv/s/article/content-approval?language=de)                             |
 | What Is Fraud                               | 07/03/2025, 0:23:23 pm    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=de)                                |
 | Twitch Ambassador Program                   | 07/03/2025, 0:21:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=de)                    |
 | How To Use Clips                            | 05/03/2025, 1:56:06 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                             |
@@ -52,7 +53,6 @@
 | Understanding Viewer Count Vs Users In Chat | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=de)  |
 | Twitch Chat Badges Guide                    | 13/12/2024, 2:16:36 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=de)                     |
 | Dj Secondary                                | 13/12/2024, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=de)                                 |
-| How To Use Badges                           | 13/12/2024, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=de)                            |
 
 
 
@@ -273,6 +273,15 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Streamelements Campaigns | 04/03/2025, 7:49:04 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=de)  |
 
 
 

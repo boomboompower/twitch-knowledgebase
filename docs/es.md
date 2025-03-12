@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Content Approval                            | 12/03/2025, 11:35:03 am   | [Link](https://help.twitch.tv/s/article/content-approval?language=es)                             |
 | What Is Fraud                               | 07/03/2025, 0:23:23 pm    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=es)                                |
 | Twitch Ambassador Program                   | 07/03/2025, 0:21:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=es)                    |
 | Plus Program                                | 06/03/2025, 1:11:08 am    | [Link](https://help.twitch.tv/s/article/plus-program?language=es)                                 |
@@ -271,6 +272,15 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)      |
 | Markdown Basics                            | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Streamelements Campaigns | 05/03/2025, 0:02:03 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)  |
 
 
 

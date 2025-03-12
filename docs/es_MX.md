@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Content Approval                            | 12/03/2025, 11:35:03 am   | [Link](https://help.twitch.tv/s/article/content-approval?language=es_MX)                             |
 | What Is Fraud                               | 07/03/2025, 0:23:24 pm    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=es_MX)                                |
 | Twitch Ambassador Program                   | 07/03/2025, 0:21:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=es_MX)                    |
 | How To Use Clips                            | 05/03/2025, 10:23:06 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                             |
@@ -49,9 +50,6 @@
 | Twitch Account Access Login Issues Guide    | 16/12/2024, 10:17:03 pm   | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=es_MX)     |
 | Featured Clips                              | 16/12/2024, 10:16:37 pm   | [Link](https://help.twitch.tv/s/article/featured-clips?language=es_MX)                               |
 | Understanding Viewer Count Vs Users In Chat | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=es_MX)  |
-| Twitch Chat Badges Guide                    | 12/12/2024, 11:17:06 pm   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es_MX)                     |
-| Dj Secondary                                | 12/12/2024, 11:17:04 pm   | [Link](https://help.twitch.tv/s/article/dj-secondary?language=es_MX)                                 |
-| How To Use Badges                           | 12/12/2024, 11:17:04 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=es_MX)                            |
 
 
 
@@ -269,6 +267,15 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Streamelements Campaigns | 04/03/2025, 10:53:33 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es_MX)  |
 
 
 
