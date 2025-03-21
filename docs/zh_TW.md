@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Streamer Community Survey                                | 21/03/2025, 8:39:12 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=zh_TW)                                 |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 20/03/2025, 3:19:05 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=zh_TW)  |
 | Content Approval                                         | 12/03/2025, 11:35:04 am   | [Link](https://help.twitch.tv/s/article/content-approval?language=zh_TW)                                          |
 | What Is Fraud                                            | 07/03/2025, 0:23:24 pm    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=zh_TW)                                             |
@@ -51,7 +52,6 @@
 | Mobile Creator Mode                                      | 16/12/2024, 9:07:11 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=zh_TW)                                       |
 | Twitch Account Access Login Issues Guide                 | 16/12/2024, 7:05:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=zh_TW)                  |
 | Featured Clips                                           | 16/12/2024, 3:55:35 pm    | [Link](https://help.twitch.tv/s/article/featured-clips?language=zh_TW)                                            |
-| Understanding Viewer Count Vs Users In Chat              | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=zh_TW)               |
 
 
 
@@ -271,6 +271,16 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Streamelements Campaigns | 05/03/2025, 3:56:33 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=zh_TW)  |
+| Creator Profile Setup    | 28/02/2025, 11:58:03 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=zh_TW)     |
 
 
 
