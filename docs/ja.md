@@ -52,6 +52,7 @@
 | Mobile Creator Mode                                      | 16/12/2024, 11:24:11 pm   | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=ja)                                       |
 | Featured Clips                                           | 16/12/2024, 11:23:41 pm   | [Link](https://help.twitch.tv/s/article/featured-clips?language=ja)                                            |
 | Twitch Account Access Login Issues Guide                 | 16/12/2024, 6:38:34 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=ja)                  |
+| Understanding Viewer Count Vs Users In Chat              | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=ja)               |
 
 
 

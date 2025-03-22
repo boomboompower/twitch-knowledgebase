@@ -51,6 +51,7 @@
 | Mobile Creator Mode                                      | 17/12/2024, 3:32:04 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=es_MX)                                       |
 | Twitch Account Access Login Issues Guide                 | 16/12/2024, 10:17:03 pm   | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=es_MX)                  |
 | Featured Clips                                           | 16/12/2024, 10:16:37 pm   | [Link](https://help.twitch.tv/s/article/featured-clips?language=es_MX)                                            |
+| Understanding Viewer Count Vs Users In Chat              | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=es_MX)               |
 
 
 

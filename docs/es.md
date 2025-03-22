@@ -50,6 +50,7 @@
 | Achievements                                             | 17/12/2024, 10:01:05 am   | [Link](https://help.twitch.tv/s/article/achievements?language=es)                                              |
 | Chat Commands                                            | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=es)                                             |
 | Mobile Creator Mode                                      | 16/12/2024, 11:21:26 pm   | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=es)                                       |
+| Understanding Viewer Count Vs Users In Chat              | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=es)               |
 
 
 

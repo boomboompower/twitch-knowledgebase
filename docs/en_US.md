@@ -50,6 +50,7 @@
 | Achievements                                             | 17/12/2024, 10:01:04 am   | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                                              |
 | Chat Commands                                            | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=en_US)                                             |
 | Shared Chat                                              | 17/12/2024, 9:50:33 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=en_US)                                               |
+| Understanding Viewer Count Vs Users In Chat              | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=en_US)               |
 
 
 
