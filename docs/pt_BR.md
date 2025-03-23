@@ -256,7 +256,6 @@
 | Twitch Policies And Guidelines                    | 22/10/2021, 8:53:32 am    | [Link](https://help.twitch.tv/s/article/twitch-policies-and-guidelines?language=pt_BR)                     |
 | Making The Most Of Channel Points                 | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/making-the-most-of-channel-points?language=pt_BR)                  |
 | Audio Ads                                         | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/audio-ads?language=pt_BR)                                          |
-| Streamer Community Survey                         | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=pt_BR)                          |
 | Ad Offer Faq                                      | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=pt_BR)                                       |
 | Contacting Partner Help                           | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=pt_BR)                            |
 | Extensions Switch With Your Game Selection        | 22/10/2021, 8:53:11 am    | [Link](https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection?language=pt_BR)         |
@@ -272,16 +271,6 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_BR)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=pt_BR)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pt_BR)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Streamelements Campaigns | 04/03/2025, 10:35:32 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=pt_BR)  |
-| Creator Profile Setup    | 03/03/2025, 11:23:04 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=pt_BR)     |
 
 
 

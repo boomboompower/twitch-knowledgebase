@@ -59,6 +59,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Stream Summary                             | 14/12/2024, 6:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=en_US)                              |
 | Mobile Creator Mode                        | 14/12/2024, 2:27:15 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=en_US)                         |
 | Featured Clips                             | 13/12/2024, 9:49:55 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=en_US)                              |
 | Twitch Account Access Login Issues Guide   | 12/12/2024, 7:54:20 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=en_US)    |
@@ -333,7 +334,6 @@
 | Twitch Policies And Guidelines                   | 22/10/2021, 8:53:32 am    | [Link](https://help.twitch.tv/s/article/twitch-policies-and-guidelines?language=en_US)                    |
 | Making The Most Of Channel Points                | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/making-the-most-of-channel-points?language=en_US)                 |
 | Audio Ads                                        | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/audio-ads?language=en_US)                                         |
-| Streamer Community Survey                        | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=en_US)                         |
 | Tips For Bounty Board Completing Bounties        | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/Tips-for-Bounty-Board-Completing-Bounties?language=en_US)         |
 | Surge Pricing Faq                                | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/surge-pricing-faq?language=en_US)                                 |
 | Contacting Partner Help                          | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=en_US)                           |
@@ -353,16 +353,6 @@
 | Smart Notification Setting                       | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                        |
 | How To Log In To Twitch With One Click           | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)            |
 | Markdown Basics                                  | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                                   |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Creator Profile Setup    | 26/02/2025, 6:01:35 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=en_US)     |
-| Streamelements Campaigns | 26/02/2025, 6:01:25 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=en_US)  |
 
 
 

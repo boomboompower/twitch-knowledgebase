@@ -18,6 +18,7 @@
 
 | Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                     |
 |------------------------------------|---------------------------|------------------------------------------------------------------------------------------|
+| Stream Summary                     | 14/12/2024, 6:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=cs)                      |
 | Twitch Turbo Guide                 | 07/12/2024, 8:09:33 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=cs)                  |
 | Watching Twitch On Android Devices | 02/10/2024, 9:49:59 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=cs)  |
 

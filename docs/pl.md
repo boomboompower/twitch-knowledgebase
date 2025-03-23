@@ -38,6 +38,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Stream Summary                             | 14/12/2024, 6:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pl)                              |
 | Mobile Creator Mode                        | 14/12/2024, 2:27:15 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=pl)                         |
 | Creator Goals                              | 11/12/2024, 10:54:10 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=pl)                               |
 | Twitch Turbo Guide                         | 07/12/2024, 8:09:33 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pl)                          |
@@ -221,7 +222,6 @@
 | Guide To Building A Moderation Team              | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/guide-to-building-a-moderation-team?language=pl)               |
 | Twitch Policies And Guidelines                   | 22/10/2021, 8:53:32 am    | [Link](https://help.twitch.tv/s/article/twitch-policies-and-guidelines?language=pl)                    |
 | Making The Most Of Channel Points                | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/making-the-most-of-channel-points?language=pl)                 |
-| Streamer Community Survey                        | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=pl)                         |
 | Ad Offer Faq                                     | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=pl)                                      |
 | Contacting Partner Help                          | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=pl)                           |
 | Audio Ads                                        | 22/10/2021, 8:53:24 am    | [Link](https://help.twitch.tv/s/article/audio-ads?language=pl)                                         |

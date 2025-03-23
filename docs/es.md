@@ -225,7 +225,6 @@
 | Mobile Game Broadcasting                          | 08/04/2022, 2:20:34 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=es)                           |
 | Copyrighted Audio Warnings                        | 31/03/2022, 3:30:06 am    | [Link](https://help.twitch.tv/s/article/copyrighted-audio-warnings?language=es)                         |
 | Partner Cheermote Guide                           | 10/03/2022, 11:11:34 pm   | [Link](https://help.twitch.tv/s/article/partner-cheermote-guide?language=es)                            |
-| Streamer Community Survey                         | 18/02/2022, 8:19:05 pm    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=es)                          |
 | How To Handle View Follow Bots                    | 18/02/2022, 2:33:34 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=es)                     |
 | Audio Ads                                         | 18/02/2022, 1:39:07 am    | [Link](https://help.twitch.tv/s/article/audio-ads?language=es)                                          |
 | Where Are My Notifications                        | 17/02/2022, 9:28:35 pm    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=es)                         |
@@ -274,16 +273,6 @@
 | Smart Notification Setting                       | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                        |
 | How To Log In To Twitch With One Click           | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)            |
 | Markdown Basics                                  | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                                   |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
-|--------------------------|---------------------------|--------------------------------------------------------------------------------|
-| Streamelements Campaigns | 05/03/2025, 0:02:03 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)  |
-| Creator Profile Setup    | 04/03/2025, 0:05:04 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es)     |
 
 
 

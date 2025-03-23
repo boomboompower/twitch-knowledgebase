@@ -22,6 +22,7 @@
 
 | Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Stream Summary                     | 14/12/2024, 6:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                      |
 | Twitch Turbo Guide                 | 07/12/2024, 8:09:33 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                  |
 | How To Use Automod                 | 14/11/2024, 10:42:03 am   | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_PT)                  |
 | Watching Twitch On Android Devices | 02/10/2024, 9:49:59 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=pt_PT)  |
@@ -69,6 +70,7 @@
 | Watching Twitch On Ios Devices               | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=pt_PT)                |
 | How To Claim In Game Content                 | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=pt_PT)                  |
 | How To Use Twitch Prime Subscriptions        | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=pt_PT)         |
+| Twitch Merchandise Store Support Faq         | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=pt_PT)          |
 
 
 

@@ -258,7 +258,6 @@
 | Twitch Policies And Guidelines                    | 22/10/2021, 8:53:32 am    | [Link](https://help.twitch.tv/s/article/twitch-policies-and-guidelines?language=de)                     |
 | Making The Most Of Channel Points                 | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/making-the-most-of-channel-points?language=de)                  |
 | Audio Ads                                         | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/audio-ads?language=de)                                          |
-| Streamer Community Survey                         | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=de)                          |
 | Tips For Bounty Board Completing Bounties         | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/Tips-for-Bounty-Board-Completing-Bounties?language=de)          |
 | Ad Offer Faq                                      | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=de)                                       |
 | Contacting Partner Help                           | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=de)                            |
@@ -275,17 +274,6 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                      | Last Updated (dd/mm/yyyy) | Link                                                                            |
-|---------------------------|---------------------------|---------------------------------------------------------------------------------|
-| Twitch Ambassador Program | 07/03/2025, 0:21:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=de)  |
-| Streamelements Campaigns  | 04/03/2025, 7:49:04 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=de)   |
-| Creator Profile Setup     | 02/03/2025, 8:29:32 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=de)      |
 
 
 
