@@ -29,7 +29,6 @@
 | Mission Based Drops                                      | 17/12/2024, 10:02:32 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pl)                                       |
 | Achievements                                             | 17/12/2024, 10:01:04 am   | [Link](https://help.twitch.tv/s/article/achievements?language=pl)                                              |
 | Chat Commands                                            | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=pl)                                             |
-| Understanding Viewer Count Vs Users In Chat              | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=pl)               |
 
 
 

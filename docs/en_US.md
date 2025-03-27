@@ -50,7 +50,6 @@
 | Achievements                                             | 17/12/2024, 10:01:04 am   | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                                              |
 | Chat Commands                                            | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=en_US)                                             |
 | Shared Chat                                              | 17/12/2024, 9:50:33 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=en_US)                                               |
-| Understanding Viewer Count Vs Users In Chat              | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=en_US)               |
 
 
 
@@ -353,6 +352,15 @@
 | Smart Notification Setting                       | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                        |
 | How To Log In To Twitch With One Click           | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)            |
 | Markdown Basics                                  | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                                   |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Streamelements Campaigns | 26/02/2025, 6:01:25 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=en_US)  |
 
 
 

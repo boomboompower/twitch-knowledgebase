@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                               | 27/03/2025, 6:03:12 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                                |
 | Streamer Community Survey                                | 21/03/2025, 8:39:07 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=ja)                                 |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 20/03/2025, 5:38:35 pm    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=ja)  |
 | Content Approval                                         | 12/03/2025, 11:35:03 am   | [Link](https://help.twitch.tv/s/article/content-approval?language=ja)                                          |
@@ -14,7 +15,6 @@
 | Streamelements Campaigns                                 | 04/03/2025, 1:04:36 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=ja)                                  |
 | Creator Profile Setup                                    | 03/03/2025, 7:07:04 pm    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=ja)                                     |
 | How To Use Clips                                         | 03/03/2025, 3:11:36 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                          |
-| Prime Gaming Revenue Guide                               | 27/02/2025, 5:14:03 pm    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                                |
 | Twitch Affiliate Program Faq                             | 24/02/2025, 10:26:08 pm   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                              |
 | Payout Details Faq                                       | 24/02/2025, 10:26:05 pm   | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=ja)                                        |
 | Video On Demand                                          | 20/02/2025, 5:13:50 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                                           |
@@ -52,7 +52,6 @@
 | Mobile Creator Mode                                      | 16/12/2024, 11:24:11 pm   | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=ja)                                       |
 | Featured Clips                                           | 16/12/2024, 11:23:41 pm   | [Link](https://help.twitch.tv/s/article/featured-clips?language=ja)                                            |
 | Twitch Account Access Login Issues Guide                 | 16/12/2024, 6:38:34 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=ja)                  |
-| Understanding Viewer Count Vs Users In Chat              | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=ja)               |
 
 
 
@@ -272,6 +271,15 @@
 | Smart Notification Setting                       | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                        |
 | How To Log In To Twitch With One Click           | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)            |
 | Markdown Basics                                  | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                                   |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Streamelements Campaigns | 04/03/2025, 1:04:36 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=ja)  |
 
 
 
