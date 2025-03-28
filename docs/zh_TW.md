@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Streamelements Campaigns                                 | 28/03/2025, 5:01:34 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=zh_TW)                                  |
 | Prime Gaming Revenue Guide                               | 27/03/2025, 6:02:58 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                                |
 | Streamer Community Survey                                | 21/03/2025, 8:39:12 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=zh_TW)                                 |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 20/03/2025, 3:19:05 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=zh_TW)  |
@@ -13,7 +14,6 @@
 | What Is Fraud                                            | 07/03/2025, 0:23:24 pm    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=zh_TW)                                             |
 | Twitch Ambassador Program                                | 07/03/2025, 0:21:17 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=zh_TW)                                 |
 | How To Use Clips                                         | 06/03/2025, 0:12:35 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                          |
-| Streamelements Campaigns                                 | 05/03/2025, 3:56:33 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=zh_TW)                                  |
 | Creator Profile Setup                                    | 28/02/2025, 11:58:03 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=zh_TW)                                     |
 | Video On Demand                                          | 25/02/2025, 3:02:02 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                           |
 | Twitch Affiliate Program Faq                             | 25/02/2025, 1:02:09 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                              |
@@ -270,6 +270,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Streamelements Campaigns | 28/03/2025, 5:01:34 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=zh_TW)  |
 
 
 

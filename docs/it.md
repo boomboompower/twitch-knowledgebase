@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Streamelements Campaigns                                 | 28/03/2025, 5:01:34 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=it)                                  |
 | Prime Gaming Revenue Guide                               | 27/03/2025, 6:02:53 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)                                |
 | Streamer Community Survey                                | 21/03/2025, 8:39:18 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=it)                                 |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 20/03/2025, 9:20:34 pm    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=it)  |
@@ -13,7 +14,6 @@
 | What Is Fraud                                            | 07/03/2025, 0:23:24 pm    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=it)                                             |
 | Twitch Ambassador Program                                | 07/03/2025, 0:21:17 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=it)                                 |
 | How To Use Clips                                         | 05/03/2025, 9:36:36 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                          |
-| Streamelements Campaigns                                 | 04/03/2025, 7:35:33 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=it)                                  |
 | Creator Profile Setup                                    | 03/03/2025, 11:05:04 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=it)                                     |
 | Payout Details Faq                                       | 24/02/2025, 9:42:37 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=it)                                        |
 | Twitch Affiliate Program Faq                             | 24/02/2025, 9:42:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=it)                              |
@@ -52,6 +52,7 @@
 | Mobile Creator Mode                                      | 16/12/2024, 8:58:03 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=it)                                       |
 | Twitch Account Access Login Issues Guide                 | 16/12/2024, 8:53:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=it)                  |
 | Featured Clips                                           | 16/12/2024, 8:52:08 pm    | [Link](https://help.twitch.tv/s/article/featured-clips?language=it)                                            |
+| Understanding Viewer Count Vs Users In Chat              | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=it)               |
 
 
 
@@ -280,7 +281,7 @@
 
 | Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
 |--------------------------|---------------------------|--------------------------------------------------------------------------------|
-| Streamelements Campaigns | 04/03/2025, 7:35:33 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=it)  |
+| Streamelements Campaigns | 28/03/2025, 5:01:34 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=it)  |
 
 
 
