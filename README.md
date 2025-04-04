@@ -21,7 +21,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | German                        | 02/04/2025, 10:50:53 am   | 232 article(s) | [View](docs/de.md)     |
 | Greek                         | 23/01/2025, 0:03:23 pm    | 7 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 26/02/2025, 9:51:47 am    | 20 article(s)  | [View](docs/hu.md)     |
-| Italian                       | 02/04/2025, 10:50:54 am   | 227 article(s) | [View](docs/it.md)     |
+| Italian                       | 03/04/2025, 5:57:03 pm    | 228 article(s) | [View](docs/it.md)     |
 | Japanese                      | 02/04/2025, 10:50:54 am   | 228 article(s) | [View](docs/ja.md)     |
 | Norwegian                     | 26/02/2025, 9:51:47 am    | 29 article(s)  | [View](docs/no.md)     |
 | Polish                        | 02/04/2025, 10:47:44 am   | 191 article(s) | [View](docs/pl.md)     |

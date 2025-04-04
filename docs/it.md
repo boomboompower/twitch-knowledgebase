@@ -6,10 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Streamelements Campaigns                                 | 03/04/2025, 5:57:03 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=it)                                  |
 | Creator Profile Setup                                    | 02/04/2025, 10:50:54 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=it)                                     |
 | What Is Fraud                                            | 02/04/2025, 10:49:55 am   | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=it)                                             |
 | Payout History Dashboard Guide                           | 02/04/2025, 10:47:43 am   | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=it)                            |
-| Streamelements Campaigns                                 | 28/03/2025, 5:01:34 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=it)                                  |
 | Prime Gaming Revenue Guide                               | 27/03/2025, 6:02:53 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)                                |
 | Streamer Community Survey                                | 21/03/2025, 8:39:18 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=it)                                 |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 20/03/2025, 9:20:34 pm    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=it)  |
@@ -50,6 +50,7 @@
 | Mission Based Drops                                      | 17/12/2024, 10:02:32 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=it)                                       |
 | Achievements                                             | 17/12/2024, 10:01:05 am   | [Link](https://help.twitch.tv/s/article/achievements?language=it)                                              |
 | Chat Commands                                            | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=it)                                             |
+| Mobile Creator Mode                                      | 16/12/2024, 8:58:03 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=it)                                       |
 
 
 
