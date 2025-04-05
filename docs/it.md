@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Guide To Cheering With Bits                              | 05/04/2025, 10:33:32 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=it)                               |
 | Streamelements Campaigns                                 | 03/04/2025, 5:57:03 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=it)                                  |
 | Creator Profile Setup                                    | 02/04/2025, 10:50:54 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=it)                                     |
 | What Is Fraud                                            | 02/04/2025, 10:49:55 am   | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=it)                                             |
@@ -24,7 +25,6 @@
 | Adding A Game And Box Art To The Directory               | 27/01/2025, 8:10:03 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=it)                |
 | Creator Dashboard                                        | 27/01/2025, 8:09:34 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=it)                                         |
 | Twitch Charity                                           | 27/01/2025, 8:07:07 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=it)                                            |
-| Guide To Cheering With Bits                              | 24/01/2025, 3:14:16 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=it)                               |
 | Sponsored Subscriptions                                  | 23/01/2025, 2:50:55 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=it)                                   |
 | Streamer Read Ads                                        | 23/01/2025, 2:50:13 am    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=it)                                         |
 | Channel Skins                                            | 23/01/2025, 2:49:20 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=it)                                             |
@@ -50,7 +50,6 @@
 | Mission Based Drops                                      | 17/12/2024, 10:02:32 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=it)                                       |
 | Achievements                                             | 17/12/2024, 10:01:05 am   | [Link](https://help.twitch.tv/s/article/achievements?language=it)                                              |
 | Chat Commands                                            | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=it)                                             |
-| Mobile Creator Mode                                      | 16/12/2024, 8:58:03 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=it)                                       |
 
 
 
@@ -279,8 +278,8 @@
 
 | Name                      | Last Updated (dd/mm/yyyy) | Link                                                                            |
 |---------------------------|---------------------------|---------------------------------------------------------------------------------|
+| Streamelements Campaigns  | 03/04/2025, 5:57:03 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=it)   |
 | Creator Profile Setup     | 02/04/2025, 10:50:54 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=it)      |
-| Streamelements Campaigns  | 28/03/2025, 5:01:34 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=it)   |
 | Twitch Ambassador Program | 07/03/2025, 0:21:17 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=it)  |
 
 

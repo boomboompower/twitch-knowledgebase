@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Guide To Cheering With Bits                              | 05/04/2025, 10:33:32 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pl)                               |
 | Payout History Dashboard Guide                           | 02/04/2025, 10:47:44 am   | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=pl)                            |
 | Streamer Community Survey                                | 21/03/2025, 6:38:29 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=pl)                                 |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 14/03/2025, 4:03:59 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pl)  |
@@ -15,7 +16,6 @@
 | Twitch Affiliate Program Faq                             | 15/02/2025, 4:29:28 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pl)                              |
 | Custom Bit Badges Guide                                  | 25/01/2025, 11:40:45 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=pl)                                   |
 | Twitch Charity                                           | 23/01/2025, 0:27:21 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=pl)                                            |
-| Guide To Cheering With Bits                              | 23/01/2025, 0:03:23 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pl)                               |
 | Creator Dashboard                                        | 23/01/2025, 3:22:31 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=pl)                                         |
 | Adding A Game And Box Art To The Directory               | 23/01/2025, 2:52:22 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=pl)                |
 | Recommended Software For Broadcasting                    | 18/01/2025, 0:15:15 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=pl)                     |

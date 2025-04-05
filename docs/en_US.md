@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Plus Program                                             | 05/04/2025, 11:00:02 am   | [Link](https://help.twitch.tv/s/article/plus-program?language=en_US)                                              |
+| Guide To Cheering With Bits                              | 05/04/2025, 10:33:32 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=en_US)                               |
 | Creator Profile Setup                                    | 02/04/2025, 10:50:52 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=en_US)                                     |
 | What Is Fraud                                            | 02/04/2025, 10:49:54 am   | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=en_US)                                             |
 | Payout History Dashboard Guide                           | 02/04/2025, 10:47:41 am   | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=en_US)                            |
@@ -22,7 +24,6 @@
 | Content Classification Labels                            | 04/02/2025, 5:00:02 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=en_US)                             |
 | Custom Bit Badges Guide                                  | 25/01/2025, 11:40:44 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=en_US)                                   |
 | Twitch Charity                                           | 23/01/2025, 0:27:21 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=en_US)                                            |
-| Guide To Cheering With Bits                              | 23/01/2025, 0:03:23 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=en_US)                               |
 | Creator Dashboard                                        | 23/01/2025, 3:22:31 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=en_US)                                         |
 | Stream Together                                          | 23/01/2025, 3:11:58 am    | [Link](https://help.twitch.tv/s/article/stream-together?language=en_US)                                           |
 | Adding A Game And Box Art To The Directory               | 23/01/2025, 2:52:22 am    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=en_US)                |

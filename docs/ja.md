@@ -6,10 +6,11 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Guide To Cheering With Bits                              | 05/04/2025, 10:33:32 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ja)                               |
+| Streamelements Campaigns                                 | 04/04/2025, 3:22:03 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=ja)                                  |
 | Creator Profile Setup                                    | 02/04/2025, 10:50:54 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=ja)                                     |
 | What Is Fraud                                            | 02/04/2025, 10:49:54 am   | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=ja)                                             |
 | Payout History Dashboard Guide                           | 02/04/2025, 10:47:44 am   | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=ja)                            |
-| Streamelements Campaigns                                 | 28/03/2025, 5:01:34 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=ja)                                  |
 | Prime Gaming Revenue Guide                               | 27/03/2025, 6:03:12 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                                |
 | Streamer Community Survey                                | 21/03/2025, 8:39:07 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=ja)                                 |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 20/03/2025, 5:38:35 pm    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=ja)  |
@@ -24,7 +25,6 @@
 | Twitch Charity                                           | 24/01/2025, 6:10:32 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=ja)                                            |
 | Creator Dashboard                                        | 24/01/2025, 6:05:33 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=ja)                                         |
 | Adding A Game And Box Art To The Directory               | 24/01/2025, 6:04:04 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=ja)                |
-| Guide To Cheering With Bits                              | 24/01/2025, 3:14:08 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ja)                               |
 | Sponsored Subscriptions                                  | 23/01/2025, 2:50:55 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=ja)                                   |
 | Streamer Read Ads                                        | 23/01/2025, 2:50:13 am    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=ja)                                         |
 | Channel Skins                                            | 23/01/2025, 2:49:20 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=ja)                                             |
@@ -279,8 +279,8 @@
 
 | Name                      | Last Updated (dd/mm/yyyy) | Link                                                                            |
 |---------------------------|---------------------------|---------------------------------------------------------------------------------|
+| Streamelements Campaigns  | 04/04/2025, 3:22:03 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=ja)   |
 | Creator Profile Setup     | 02/04/2025, 10:50:54 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=ja)      |
-| Streamelements Campaigns  | 28/03/2025, 5:01:34 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=ja)   |
 | Twitch Ambassador Program | 07/03/2025, 0:21:17 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=ja)  |
 
 

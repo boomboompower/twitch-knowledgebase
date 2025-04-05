@@ -6,10 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Guide To Cheering With Bits                              | 05/04/2025, 10:33:32 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_PT)                               |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 14/03/2025, 4:03:59 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)  |
 | Twitch Prime Partner Guide                               | 26/02/2025, 9:51:47 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=pt_PT)                                |
 | Twitch Affiliate Program Faq                             | 15/02/2025, 4:29:28 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)                              |
-| Guide To Cheering With Bits                              | 23/01/2025, 0:03:23 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_PT)                               |
 | Recommended Software For Broadcasting                    | 18/01/2025, 0:15:15 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=pt_PT)                     |
 | Username Rename And Recycling Policies                   | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=pt_PT)                    |
 | Achievements                                             | 17/12/2024, 10:01:04 am   | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                                              |
