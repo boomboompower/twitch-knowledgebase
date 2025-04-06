@@ -63,6 +63,7 @@
 | How To Use Twitch Prime Subscriptions             | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=da)              |
 | Changes To Subscription Badges And Resub Messages | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages?language=da)  |
 | Twitch Merchandise Store Support Faq              | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=da)               |
+| Guide To Custom Messages                          | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=da)                           |
 
 
 
@@ -71,7 +72,6 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
-| Guide To Custom Messages               | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=da)                |
 | Ad Offer Faq                           | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=da)                            |
 | Recommended Hardware For Broadcasting  | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=da)   |
 | Getting Started With Amazon Associates | 22/10/2021, 8:53:06 am    | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=da)  |
