@@ -11,7 +11,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 |-------------------------------|---------------------------|----------------|------------------------|
 | Bulgarian                     | 17/12/2024, 10:00:19 am   | 2 article(s)   | [View](docs/bg.md)     |
 | Chinese (Simplified, China)   | 17/12/2024, 10:00:19 am   | 7 article(s)   | [View](docs/zh_CN.md)  |
-| Chinese (Traditional, Taiwan) | 08/04/2025, 7:40:36 am    | 227 article(s) | [View](docs/zh_TW.md)  |
+| Chinese (Traditional, Taiwan) | 08/04/2025, 7:40:36 am    | 226 article(s) | [View](docs/zh_TW.md)  |
 | Czech                         | 08/04/2025, 7:40:27 am    | 22 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 08/04/2025, 7:40:27 am    | 29 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 08/04/2025, 7:40:27 am    | 36 article(s)  | [View](docs/nl_NL.md)  |
@@ -30,8 +30,8 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Romanian                      | 17/12/2024, 10:00:19 am   | 2 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 08/04/2025, 7:40:27 am    | 193 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 17/12/2024, 10:00:19 am   | 2 article(s)   | [View](docs/sk.md)     |
-| Spanish                       | 08/04/2025, 7:40:35 am    | 229 article(s) | [View](docs/es.md)     |
-| Spanish (Mexico)              | 08/04/2025, 7:40:36 am    | 228 article(s) | [View](docs/es_MX.md)  |
+| Spanish                       | 11/04/2025, 0:10:06 am    | 229 article(s) | [View](docs/es.md)     |
+| Spanish (Mexico)              | 10/04/2025, 6:50:36 pm    | 228 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 19/12/2024, 9:17:57 am    | 26 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 08/04/2025, 7:40:27 am    | 187 article(s) | [View](docs/th.md)     |
 | Turkish                       | 08/04/2025, 7:40:27 am    | 191 article(s) | [View](docs/tr.md)     |
