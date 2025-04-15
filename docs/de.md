@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Video On Demand                                          | 15/04/2025, 3:39:17 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=de)                                           |
 | Dj Program Faq                                           | 12/04/2025, 10:20:43 am   | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=de)                                            |
 | Twitch Turbo Guide                                       | 12/04/2025, 10:20:18 am   | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=de)                                        |
 | Plus Program                                             | 11/04/2025, 9:55:05 pm    | [Link](https://help.twitch.tv/s/article/plus-program?language=de)                                              |
@@ -22,7 +23,6 @@
 | How To Use Clips                                         | 05/03/2025, 1:56:06 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                          |
 | Payout Details Faq                                       | 23/02/2025, 9:42:35 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=de)                                        |
 | Twitch Affiliate Program Faq                             | 23/02/2025, 9:42:34 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)                              |
-| Video On Demand                                          | 20/02/2025, 5:13:49 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=de)                                           |
 | Content Classification Labels                            | 05/02/2025, 1:56:09 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=de)                             |
 | Custom Bit Badges Guide                                  | 31/01/2025, 1:06:05 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=de)                                   |
 | Creator Dashboard                                        | 26/01/2025, 10:50:04 pm   | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=de)                                         |
@@ -276,6 +276,16 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Streamelements Campaigns | 04/04/2025, 11:26:21 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=de)  |
+| Creator Profile Setup    | 02/04/2025, 10:50:53 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=de)     |
 
 
 
