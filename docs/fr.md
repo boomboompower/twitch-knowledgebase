@@ -6,8 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Content Classification Labels                            | 28/04/2025, 10:14:39 am   | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=fr)                             |
 | Branded Content Policy                                   | 26/04/2025, 9:57:38 am    | [Link](https://help.twitch.tv/s/article/branded-content-policy?language=fr)                                    |
-| Content Classification Labels                            | 26/04/2025, 9:54:24 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=fr)                             |
 | Payout Balance Faq                                       | 17/04/2025, 5:32:24 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=fr)                                        |
 | Video On Demand                                          | 15/04/2025, 11:07:04 pm   | [Link](https://help.twitch.tv/s/article/video-on-demand?language=fr)                                           |
 | Dj Program Faq                                           | 12/04/2025, 10:20:43 am   | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=fr)                                            |
