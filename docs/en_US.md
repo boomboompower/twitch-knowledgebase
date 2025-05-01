@@ -55,7 +55,6 @@
 | How To Sub Only Archives                                 | 17/12/2024, 10:04:17 am   | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=en_US)                                  |
 | Stream Together Getting Started                          | 17/12/2024, 10:03:21 am   | [Link](https://help.twitch.tv/s/article/stream-together-getting-started?language=en_US)                           |
 | Twitch Teams                                             | 17/12/2024, 10:02:55 am   | [Link](https://help.twitch.tv/s/article/twitch-teams?language=en_US)                                              |
-| Mission Based Drops                                      | 17/12/2024, 10:02:32 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                                       |
 
 
 
