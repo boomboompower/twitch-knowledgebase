@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Leaderboards Guide                                       | 01/05/2025, 5:16:14 pm    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=it)                                        |
 | Twitch Chat Badges Guide                                 | 30/04/2025, 3:59:46 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=it)                                  |
 | How To Use Clips                                         | 30/04/2025, 3:59:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                          |
 | Payout Balance Faq                                       | 28/04/2025, 6:54:39 pm    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=it)                                        |
