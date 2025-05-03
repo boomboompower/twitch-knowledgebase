@@ -6,9 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Chat Badges Guide                                 | 02/05/2025, 8:50:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es)                                  |
+| How To Use Clips                                         | 02/05/2025, 8:50:11 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                          |
 | Leaderboards Guide                                       | 01/05/2025, 8:18:03 pm    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=es)                                        |
-| Twitch Chat Badges Guide                                 | 30/04/2025, 3:59:46 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es)                                  |
-| How To Use Clips                                         | 30/04/2025, 3:59:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                          |
 | Payout Balance Faq                                       | 28/04/2025, 6:36:02 pm    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=es)                                        |
 | Content Classification Labels                            | 28/04/2025, 6:35:34 pm    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=es)                             |
 | Branded Content Policy                                   | 26/04/2025, 9:57:38 am    | [Link](https://help.twitch.tv/s/article/branded-content-policy?language=es)                                    |
@@ -52,7 +52,6 @@
 | Experiments                                              | 17/12/2024, 10:06:11 am   | [Link](https://help.twitch.tv/s/article/experiments?language=es)                                               |
 | Stories                                                  | 17/12/2024, 10:05:47 am   | [Link](https://help.twitch.tv/s/article/stories?language=es)                                                   |
 | Failed Payments                                          | 17/12/2024, 10:05:12 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=es)                                           |
-| Twitch Teams                                             | 17/12/2024, 10:02:56 am   | [Link](https://help.twitch.tv/s/article/twitch-teams?language=es)                                              |
 
 
 

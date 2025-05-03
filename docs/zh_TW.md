@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Leaderboards Guide                                       | 02/05/2025, 1:10:36 pm    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=zh_TW)                                        |
 | How To Use Clips                                         | 01/05/2025, 11:37:35 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                          |
 | Twitch Chat Badges Guide                                 | 01/05/2025, 11:37:33 pm   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                                  |
 | Payout Balance Faq                                       | 28/04/2025, 11:15:05 pm   | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=zh_TW)                                        |

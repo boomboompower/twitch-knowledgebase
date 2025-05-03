@@ -6,9 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                         | 02/05/2025, 8:59:06 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                          |
+| Twitch Chat Badges Guide                                 | 02/05/2025, 8:59:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=de)                                  |
 | Leaderboards Guide                                       | 01/05/2025, 10:27:35 pm   | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=de)                                        |
-| Twitch Chat Badges Guide                                 | 30/04/2025, 3:59:46 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=de)                                  |
-| How To Use Clips                                         | 30/04/2025, 3:59:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                          |
 | Branded Content Policy                                   | 26/04/2025, 9:57:37 am    | [Link](https://help.twitch.tv/s/article/branded-content-policy?language=de)                                    |
 | Content Classification Labels                            | 26/04/2025, 9:57:36 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=de)                             |
 | Payout Balance Faq                                       | 24/04/2025, 8:35:04 pm    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=de)                                        |
