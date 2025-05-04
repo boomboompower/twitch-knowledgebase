@@ -62,12 +62,13 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Mission Based Drops                         | 17/12/2024, 10:02:32 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                          |
+| Achievements                                | 17/12/2024, 10:01:05 am   | [Link](https://help.twitch.tv/s/article/achievements?language=ja)                                 |
 | Chat Commands                               | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=ja)                                |
 | Mobile Creator Mode                         | 16/12/2024, 11:24:11 pm   | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=ja)                          |
 | Featured Clips                              | 16/12/2024, 11:23:41 pm   | [Link](https://help.twitch.tv/s/article/featured-clips?language=ja)                               |
 | Twitch Account Access Login Issues Guide    | 16/12/2024, 6:38:34 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=ja)     |
 | Understanding Viewer Count Vs Users In Chat | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=ja)  |
-| Twitch Chat Badges Guide                    | 12/12/2024, 7:44:37 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                     |
 | How To Use Badges                           | 12/12/2024, 7:44:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=ja)                            |
 | Dj Secondary                                | 12/12/2024, 7:44:34 pm    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=ja)                                 |
 | Creator Goals                               | 11/12/2024, 10:54:11 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=ja)                                |
@@ -274,17 +275,6 @@
 | Smart Notification Setting                    | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                     |
 | How To Log In To Twitch With One Click        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)         |
 | Markdown Basics                               | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                                |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                      | Last Updated (dd/mm/yyyy) | Link                                                                            |
-|---------------------------|---------------------------|---------------------------------------------------------------------------------|
-| Streamelements Campaigns  | 04/04/2025, 3:22:03 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=ja)   |
-| Creator Profile Setup     | 02/04/2025, 10:50:54 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=ja)      |
-| Twitch Ambassador Program | 07/03/2025, 0:21:17 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=ja)  |
 
 
 

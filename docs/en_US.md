@@ -54,6 +54,7 @@
 | Failed Payments                                          | 17/12/2024, 10:05:11 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=en_US)                                           |
 | How To Sub Only Archives                                 | 17/12/2024, 10:04:17 am   | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=en_US)                                  |
 | Stream Together Getting Started                          | 17/12/2024, 10:03:21 am   | [Link](https://help.twitch.tv/s/article/stream-together-getting-started?language=en_US)                           |
+| Twitch Teams                                             | 17/12/2024, 10:02:55 am   | [Link](https://help.twitch.tv/s/article/twitch-teams?language=en_US)                                              |
 
 
 
@@ -62,6 +63,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Mission Based Drops                         | 17/12/2024, 10:02:32 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                          |
 | Achievements                                | 17/12/2024, 10:01:04 am   | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                                 |
 | Chat Commands                               | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=en_US)                                |
 | Shared Chat                                 | 17/12/2024, 9:50:33 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=en_US)                                  |
@@ -75,7 +77,6 @@
 | Shared Viewership                           | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=en_US)                            |
 | Stream Display Ads                          | 05/12/2024, 10:40:11 am   | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=en_US)                           |
 | How To Use Badges                           | 03/12/2024, 10:54:16 am   | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=en_US)                            |
-| Twitch Chat Badges Guide                    | 03/12/2024, 10:53:11 am   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                     |
 | Alerts By Twitch Events                     | 28/11/2024, 0:18:19 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                      |
 | Dj Secondary                                | 28/11/2024, 11:45:52 am   | [Link](https://help.twitch.tv/s/article/dj-secondary?language=en_US)                                 |
 | Mod View                                    | 27/11/2024, 11:31:57 am   | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                     |
@@ -122,7 +123,6 @@
 | Managing Subscription Tiers                 | 13/11/2024, 7:16:01 am    | [Link](https://help.twitch.tv/s/article/managing-subscription-tiers?language=en_US)                  |
 | Managing And Upgrading A Gift Subscription  | 13/11/2024, 7:12:45 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=en_US)   |
 | Local Subscription Pricing                  | 13/11/2024, 7:07:19 am    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=en_US)                   |
-| Leaderboards Guide                          | 13/11/2024, 6:57:39 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=en_US)                           |
 | How To Share A Stream                       | 13/11/2024, 5:55:29 am    | [Link](https://help.twitch.tv/s/article/how-to-share-a-stream?language=en_US)                        |
 | Search With Tags                            | 13/11/2024, 5:43:18 am    | [Link](https://help.twitch.tv/s/article/search-with-tags?language=en_US)                             |
 | Dj Opt Out                                  | 13/11/2024, 5:21:41 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=en_US)                                   |
@@ -354,18 +354,6 @@
 | Smart Notification Setting                    | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                     |
 | How To Log In To Twitch With One Click        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)         |
 | Markdown Basics                               | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                                |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                      | Last Updated (dd/mm/yyyy) | Link                                                                               |
-|---------------------------|---------------------------|------------------------------------------------------------------------------------|
-| Combos                    | 29/04/2025, 7:57:21 am    | [Link](https://help.twitch.tv/s/article/combos?language=en_US)                     |
-| Creator Profile Setup     | 02/04/2025, 10:50:52 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=en_US)      |
-| Streamelements Campaigns  | 28/03/2025, 5:01:27 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=en_US)   |
-| Twitch Ambassador Program | 07/03/2025, 0:21:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=en_US)  |
 
 
 

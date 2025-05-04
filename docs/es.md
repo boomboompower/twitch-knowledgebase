@@ -52,6 +52,7 @@
 | Experiments                                              | 17/12/2024, 10:06:11 am   | [Link](https://help.twitch.tv/s/article/experiments?language=es)                                               |
 | Stories                                                  | 17/12/2024, 10:05:47 am   | [Link](https://help.twitch.tv/s/article/stories?language=es)                                                   |
 | Failed Payments                                          | 17/12/2024, 10:05:12 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=es)                                           |
+| Twitch Teams                                             | 17/12/2024, 10:02:56 am   | [Link](https://help.twitch.tv/s/article/twitch-teams?language=es)                                              |
 
 
 
@@ -60,6 +61,8 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Mission Based Drops                         | 17/12/2024, 10:02:32 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es)                          |
+| Achievements                                | 17/12/2024, 10:01:05 am   | [Link](https://help.twitch.tv/s/article/achievements?language=es)                                 |
 | Chat Commands                               | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=es)                                |
 | Mobile Creator Mode                         | 16/12/2024, 11:21:26 pm   | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=es)                          |
 | Understanding Viewer Count Vs Users In Chat | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=es)  |
@@ -67,7 +70,6 @@
 | Twitch Account Access Login Issues Guide    | 14/12/2024, 2:45:05 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=es)     |
 | How To Use Badges                           | 12/12/2024, 8:09:09 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=es)                            |
 | Dj Secondary                                | 12/12/2024, 8:09:06 pm    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=es)                                 |
-| Twitch Chat Badges Guide                    | 12/12/2024, 8:09:06 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es)                     |
 | Creator Goals                               | 11/12/2024, 10:54:11 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=es)                                |
 | Annual Recap                                | 11/12/2024, 2:20:05 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=es)                                 |
 | Shared Viewership                           | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=es)                            |
@@ -273,17 +275,6 @@
 | Smart Notification Setting                    | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                     |
 | How To Log In To Twitch With One Click        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)         |
 | Markdown Basics                               | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                                |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                      | Last Updated (dd/mm/yyyy) | Link                                                                            |
-|---------------------------|---------------------------|---------------------------------------------------------------------------------|
-| Streamelements Campaigns  | 04/04/2025, 4:18:33 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)   |
-| Creator Profile Setup     | 02/04/2025, 10:50:53 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es)      |
-| Twitch Ambassador Program | 07/03/2025, 0:21:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=es)  |
 
 
 

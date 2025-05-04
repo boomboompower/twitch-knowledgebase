@@ -62,6 +62,8 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Mission Based Drops                         | 17/12/2024, 10:02:32 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=zh_TW)                          |
+| Achievements                                | 17/12/2024, 10:01:05 am   | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                 |
 | Chat Commands                               | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_TW)                                |
 | Mobile Creator Mode                         | 16/12/2024, 9:07:11 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=zh_TW)                          |
 | Twitch Account Access Login Issues Guide    | 16/12/2024, 7:05:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=zh_TW)     |
@@ -69,7 +71,6 @@
 | Understanding Viewer Count Vs Users In Chat | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=zh_TW)  |
 | Dj Secondary                                | 12/12/2024, 8:21:07 pm    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=zh_TW)                                 |
 | How To Use Badges                           | 12/12/2024, 8:21:07 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=zh_TW)                            |
-| Twitch Chat Badges Guide                    | 12/12/2024, 8:21:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                     |
 | Creator Goals                               | 11/12/2024, 10:54:11 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                                |
 | Annual Recap                                | 11/12/2024, 1:50:10 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=zh_TW)                                 |
 | Shared Viewership                           | 06/12/2024, 5:00:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=zh_TW)                            |
@@ -273,16 +274,6 @@
 | Smart Notification Setting                       | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                        |
 | How To Log In To Twitch With One Click           | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)            |
 | Markdown Basics                                  | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                   |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Streamelements Campaigns | 03/04/2025, 1:48:05 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=zh_TW)  |
-| Creator Profile Setup    | 02/04/2025, 10:50:54 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=zh_TW)     |
 
 
 

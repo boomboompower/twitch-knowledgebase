@@ -62,6 +62,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Mission Based Drops                         | 17/12/2024, 10:02:32 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=fr)                          |
 | Achievements                                | 17/12/2024, 10:01:03 am   | [Link](https://help.twitch.tv/s/article/achievements?language=fr)                                 |
 | Chat Commands                               | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=fr)                                |
 | Mobile Creator Mode                         | 17/12/2024, 0:35:32 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=fr)                          |
@@ -69,7 +70,6 @@
 | Twitch Account Access Login Issues Guide    | 17/12/2024, 0:09:03 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=fr)     |
 | Understanding Viewer Count Vs Users In Chat | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=fr)  |
 | How To Use Badges                           | 12/12/2024, 11:57:58 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=fr)                            |
-| Twitch Chat Badges Guide                    | 12/12/2024, 11:57:53 pm   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=fr)                     |
 | Dj Secondary                                | 12/12/2024, 11:57:52 pm   | [Link](https://help.twitch.tv/s/article/dj-secondary?language=fr)                                 |
 | Creator Goals                               | 11/12/2024, 10:54:09 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=fr)                                |
 | Annual Recap                                | 11/12/2024, 1:50:10 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=fr)                                 |
@@ -277,17 +277,6 @@
 | Where Are My Notifications                       | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=fr)                        |
 | Smart Notification Setting                       | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=fr)                        |
 | Markdown Basics                                  | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=fr)                                   |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                      | Last Updated (dd/mm/yyyy) | Link                                                                            |
-|---------------------------|---------------------------|---------------------------------------------------------------------------------|
-| Streamelements Campaigns  | 04/04/2025, 10:11:45 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=fr)   |
-| Creator Profile Setup     | 02/04/2025, 10:50:53 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=fr)      |
-| Twitch Ambassador Program | 07/03/2025, 0:21:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=fr)  |
 
 
 
