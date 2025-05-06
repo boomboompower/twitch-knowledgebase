@@ -15,10 +15,10 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Czech                         | 12/04/2025, 10:20:09 am   | 22 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 08/04/2025, 7:40:27 am    | 29 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 12/04/2025, 10:20:09 am   | 34 article(s)  | [View](docs/nl_NL.md)  |
-| English (United States)       | 30/04/2025, 3:59:46 am    | 314 article(s) | [View](docs/en_US.md)  |
+| English (United States)       | 30/04/2025, 3:59:46 am    | 315 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 08/04/2025, 7:40:27 am    | 27 article(s)  | [View](docs/fi.md)     |
 | French                        | 02/05/2025, 7:41:34 pm    | 231 article(s) | [View](docs/fr.md)     |
-| German                        | 02/05/2025, 8:59:06 pm    | 229 article(s) | [View](docs/de.md)     |
+| German                        | 02/05/2025, 8:59:06 pm    | 230 article(s) | [View](docs/de.md)     |
 | Greek                         | 12/04/2025, 10:20:09 am   | 7 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 08/04/2025, 7:40:27 am    | 20 article(s)  | [View](docs/hu.md)     |
 | Italian                       | 02/05/2025, 6:50:38 pm    | 229 article(s) | [View](docs/it.md)     |
@@ -31,7 +31,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Russian                       | 30/04/2025, 3:59:46 am    | 191 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 17/12/2024, 10:00:19 am   | 2 article(s)   | [View](docs/sk.md)     |
 | Spanish                       | 02/05/2025, 8:50:16 pm    | 229 article(s) | [View](docs/es.md)     |
-| Spanish (Mexico)              | 02/05/2025, 7:10:03 pm    | 228 article(s) | [View](docs/es_MX.md)  |
+| Spanish (Mexico)              | 05/05/2025, 5:19:46 pm    | 228 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 19/12/2024, 9:17:57 am    | 25 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 30/04/2025, 3:59:46 am    | 185 article(s) | [View](docs/th.md)     |
 | Turkish                       | 30/04/2025, 3:59:46 am    | 190 article(s) | [View](docs/tr.md)     |
