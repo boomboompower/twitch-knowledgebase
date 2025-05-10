@@ -6,6 +6,13 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Disconnect Protection                                    | 10/05/2025, 9:27:33 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=es)                                     |
+| Founders Badge                                           | 10/05/2025, 4:43:36 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=es)                                            |
+| How To Contact Support                                   | 10/05/2025, 3:14:36 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=es)                                    |
+| Shared Viewership                                        | 10/05/2025, 3:13:29 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=es)                                         |
+| List Of Prohibited Games                                 | 10/05/2025, 3:12:57 am    | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=es)                                  |
+| Emote Guidelines                                         | 10/05/2025, 3:12:40 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es)                                          |
+| Custom Bit Badges Guide                                  | 09/05/2025, 11:01:33 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=es)                                   |
 | Twitch Chat Badges Guide                                 | 02/05/2025, 8:50:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es)                                  |
 | How To Use Clips                                         | 02/05/2025, 8:50:11 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                          |
 | Leaderboards Guide                                       | 01/05/2025, 8:18:03 pm    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=es)                                        |
@@ -28,7 +35,6 @@
 | Twitch Ambassador Program                                | 07/03/2025, 0:21:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=es)                                 |
 | Twitch Affiliate Program Faq                             | 25/02/2025, 10:28:32 pm   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                              |
 | Payout Details Faq                                       | 25/02/2025, 10:27:33 pm   | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es)                                        |
-| Custom Bit Badges Guide                                  | 30/01/2025, 9:12:04 pm    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=es)                                   |
 | Twitch Charity                                           | 27/01/2025, 11:27:33 pm   | [Link](https://help.twitch.tv/s/article/twitch-charity?language=es)                                            |
 | Creator Dashboard                                        | 27/01/2025, 11:27:04 pm   | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=es)                                         |
 | Adding A Game And Box Art To The Directory               | 27/01/2025, 11:26:32 pm   | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=es)                |
@@ -45,14 +51,6 @@
 | Partner Front Page                                       | 20/12/2024, 10:22:05 pm   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es)                                        |
 | Shared Chat                                              | 20/12/2024, 10:09:34 pm   | [Link](https://help.twitch.tv/s/article/shared-chat?language=es)                                               |
 | Beast Games                                              | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=es)                                               |
-| How To Sub Only Archives                                 | 17/12/2024, 10:53:02 pm   | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es)                                  |
-| Stream Summary                                           | 17/12/2024, 10:49:02 pm   | [Link](https://help.twitch.tv/s/article/stream-summary?language=es)                                            |
-| Guest Star Getting Started                               | 17/12/2024, 10:47:34 pm   | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es)                                |
-| How To Upgrade Prime                                     | 17/12/2024, 10:06:50 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=es)                                      |
-| Experiments                                              | 17/12/2024, 10:06:11 am   | [Link](https://help.twitch.tv/s/article/experiments?language=es)                                               |
-| Stories                                                  | 17/12/2024, 10:05:47 am   | [Link](https://help.twitch.tv/s/article/stories?language=es)                                                   |
-| Failed Payments                                          | 17/12/2024, 10:05:12 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=es)                                           |
-| Twitch Teams                                             | 17/12/2024, 10:02:56 am   | [Link](https://help.twitch.tv/s/article/twitch-teams?language=es)                                              |
 
 
 
@@ -275,6 +273,23 @@
 | Smart Notification Setting                    | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                     |
 | How To Log In To Twitch With One Click        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)         |
 | Markdown Basics                               | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                                |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                      | Last Updated (dd/mm/yyyy) | Link                                                                            |
+|---------------------------|---------------------------|---------------------------------------------------------------------------------|
+| Shared Viewership         | 10/05/2025, 3:13:29 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=es)          |
+| Streamelements Campaigns  | 04/04/2025, 4:18:33 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)   |
+| Creator Profile Setup     | 02/04/2025, 10:50:53 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es)      |
+| What Is Fraud             | 02/04/2025, 10:49:55 am   | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=es)              |
+| Content Approval          | 12/03/2025, 11:35:03 am   | [Link](https://help.twitch.tv/s/article/content-approval?language=es)           |
+| Twitch Ambassador Program | 07/03/2025, 0:21:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=es)  |
+| How To Allow Ads Browser  | 14/01/2025, 3:57:06 am    | [Link](https://help.twitch.tv/s/article/how-to-allow-ads-browser?language=es)   |
+| Shared Chat               | 20/12/2024, 10:09:34 pm   | [Link](https://help.twitch.tv/s/article/shared-chat?language=es)                |
+| Beast Games               | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=es)                |
 
 
 
