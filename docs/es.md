@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Disconnect Protection                                    | 10/05/2025, 9:27:33 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=es)                                     |
+| Disconnect Protection                                    | 15/05/2025, 3:20:31 pm    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=es)                                     |
 | Founders Badge                                           | 10/05/2025, 4:43:36 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=es)                                            |
 | How To Contact Support                                   | 10/05/2025, 3:14:36 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=es)                                    |
 | Shared Viewership                                        | 10/05/2025, 3:13:29 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=es)                                         |
@@ -52,7 +52,6 @@
 | Shared Chat                                              | 20/12/2024, 10:09:34 pm   | [Link](https://help.twitch.tv/s/article/shared-chat?language=es)                                               |
 | Beast Games                                              | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=es)                                               |
 | How To Sub Only Archives                                 | 17/12/2024, 10:53:02 pm   | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es)                                  |
-| Stream Summary                                           | 17/12/2024, 10:49:02 pm   | [Link](https://help.twitch.tv/s/article/stream-summary?language=es)                                            |
 
 
 

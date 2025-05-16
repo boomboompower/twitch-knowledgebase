@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Disconnect Protection                                    | 10/05/2025, 9:27:33 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=de)                                     |
+| Disconnect Protection                                    | 15/05/2025, 8:05:31 pm    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=de)                                     |
 | Founders Badge                                           | 10/05/2025, 4:43:36 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=de)                                            |
 | How To Contact Support                                   | 10/05/2025, 3:14:36 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=de)                                    |
 | Shared Viewership                                        | 10/05/2025, 3:13:29 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=de)                                         |
