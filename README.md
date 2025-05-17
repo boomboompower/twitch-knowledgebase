@@ -30,7 +30,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Romanian                      | 17/12/2024, 10:00:19 am   | 2 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 10/05/2025, 9:27:33 am    | 191 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 17/12/2024, 10:00:19 am   | 2 article(s)   | [View](docs/sk.md)     |
-| Spanish                       | 15/05/2025, 3:20:31 pm    | 229 article(s) | [View](docs/es.md)     |
+| Spanish                       | 15/05/2025, 3:20:31 pm    | 230 article(s) | [View](docs/es.md)     |
 | Spanish (Mexico)              | 15/05/2025, 6:41:01 pm    | 230 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 19/12/2024, 9:17:57 am    | 26 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 10/05/2025, 9:27:33 am    | 186 article(s) | [View](docs/th.md)     |
