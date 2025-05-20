@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Plus Program                                             | 20/05/2025, 2:56:36 am    | [Link](https://help.twitch.tv/s/article/plus-program?language=zh_TW)                                              |
 | Disconnect Protection                                    | 13/05/2025, 6:37:32 pm    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=zh_TW)                                     |
 | Founders Badge                                           | 10/05/2025, 4:43:37 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=zh_TW)                                            |
 | How To Contact Support                                   | 10/05/2025, 3:14:37 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=zh_TW)                                    |
@@ -22,7 +23,6 @@
 | Video On Demand                                          | 15/04/2025, 11:56:07 pm   | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                           |
 | Dj Program Faq                                           | 12/04/2025, 10:20:44 am   | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=zh_TW)                                            |
 | Twitch Turbo Guide                                       | 12/04/2025, 10:20:19 am   | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                                        |
-| Plus Program                                             | 11/04/2025, 9:05:37 pm    | [Link](https://help.twitch.tv/s/article/plus-program?language=zh_TW)                                              |
 | Guide To Cheering With Bits                              | 11/04/2025, 7:38:34 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=zh_TW)                               |
 | Prime Gaming Revenue Guide                               | 08/04/2025, 7:40:36 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                                |
 | Streamelements Campaigns                                 | 03/04/2025, 1:48:05 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=zh_TW)                                  |

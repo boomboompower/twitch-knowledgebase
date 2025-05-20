@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Plus Program                                             | 20/05/2025, 2:56:36 am    | [Link](https://help.twitch.tv/s/article/plus-program?language=fr)                                              |
 | Disconnect Protection                                    | 14/05/2025, 10:00:30 pm   | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=fr)                                     |
 | Founders Badge                                           | 10/05/2025, 4:43:37 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=fr)                                            |
 | How To Contact Support                                   | 10/05/2025, 3:14:37 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=fr)                                    |
@@ -23,7 +24,6 @@
 | Dj Program Faq                                           | 12/04/2025, 10:20:43 am   | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=fr)                                            |
 | Twitch Turbo Guide                                       | 12/04/2025, 10:20:19 am   | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=fr)                                        |
 | Guide To Cheering With Bits                              | 11/04/2025, 8:50:05 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=fr)                               |
-| Plus Program                                             | 11/04/2025, 8:46:35 pm    | [Link](https://help.twitch.tv/s/article/plus-program?language=fr)                                              |
 | Prime Gaming Revenue Guide                               | 08/04/2025, 7:40:36 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=fr)                                |
 | Streamelements Campaigns                                 | 04/04/2025, 10:11:45 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=fr)                                  |
 | Creator Profile Setup                                    | 02/04/2025, 10:50:53 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=fr)                                     |
@@ -278,6 +278,15 @@
 | Where Are My Notifications                       | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=fr)                        |
 | Smart Notification Setting                       | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=fr)                        |
 | Markdown Basics                                  | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=fr)                                   |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Streamelements Campaigns | 04/04/2025, 10:11:45 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=fr)  |
 
 
 

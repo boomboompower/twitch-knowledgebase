@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Plus Program                                             | 20/05/2025, 2:56:36 am    | [Link](https://help.twitch.tv/s/article/plus-program?language=es)                                              |
 | Disconnect Protection                                    | 15/05/2025, 3:20:31 pm    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=es)                                     |
 | Founders Badge                                           | 10/05/2025, 4:43:36 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=es)                                            |
 | How To Contact Support                                   | 10/05/2025, 3:14:36 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=es)                                    |
@@ -22,7 +23,6 @@
 | Video On Demand                                          | 15/04/2025, 8:04:03 pm    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es)                                           |
 | Dj Program Faq                                           | 12/04/2025, 10:20:43 am   | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=es)                                            |
 | Twitch Turbo Guide                                       | 12/04/2025, 10:20:09 am   | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es)                                        |
-| Plus Program                                             | 11/04/2025, 0:10:06 am    | [Link](https://help.twitch.tv/s/article/plus-program?language=es)                                              |
 | Guide To Cheering With Bits                              | 10/04/2025, 11:59:08 pm   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=es)                               |
 | Prime Gaming Revenue Guide                               | 08/04/2025, 7:40:35 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es)                                |
 | Streamelements Campaigns                                 | 04/04/2025, 4:18:33 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)                                  |
@@ -276,6 +276,15 @@
 | Smart Notification Setting                    | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                     |
 | How To Log In To Twitch With One Click        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)         |
 | Markdown Basics                               | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                                |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Streamelements Campaigns | 04/04/2025, 4:18:33 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)  |
 
 
 
