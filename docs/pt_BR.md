@@ -6,8 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Stream Quality                                           | 30/05/2025, 10:37:33 pm   | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)                                            |
 | How To Use Whispers                                      | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=pt_BR)                                       |
-| Stream Quality                                           | 30/05/2025, 8:20:34 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)                                            |
 | How To Use Clips                                         | 30/05/2025, 4:52:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                          |
 | Plus Program                                             | 21/05/2025, 1:12:34 pm    | [Link](https://help.twitch.tv/s/article/plus-program?language=pt_BR)                                              |
 | Disconnect Protection                                    | 15/05/2025, 10:10:00 pm   | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=pt_BR)                                     |

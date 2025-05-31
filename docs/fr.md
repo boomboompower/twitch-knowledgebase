@@ -6,8 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Stream Quality                                           | 30/05/2025, 9:02:45 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)                                            |
 | How To Use Whispers                                      | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=fr)                                       |
-| Stream Quality                                           | 30/05/2025, 5:48:29 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)                                            |
 | How To Use Clips                                         | 30/05/2025, 4:52:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                                          |
 | Plus Program                                             | 22/05/2025, 9:06:14 pm    | [Link](https://help.twitch.tv/s/article/plus-program?language=fr)                                              |
 | Disconnect Protection                                    | 14/05/2025, 10:00:30 pm   | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=fr)                                     |
@@ -285,8 +285,8 @@
 
 | Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
 |--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Stream Quality           | 30/05/2025, 9:02:45 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)            |
 | How To Use Whispers      | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=fr)       |
-| Stream Quality           | 30/05/2025, 5:48:29 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)            |
 | Streamelements Campaigns | 04/04/2025, 10:11:45 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=fr)  |
 
 

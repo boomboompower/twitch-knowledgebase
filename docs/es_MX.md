@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Stream Quality                                           | 30/05/2025, 9:50:34 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                                            |
 | How To Use Whispers                                      | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=es_MX)                                       |
 | How To Use Clips                                         | 30/05/2025, 4:52:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                                          |
 | Plus Program                                             | 22/05/2025, 5:26:10 pm    | [Link](https://help.twitch.tv/s/article/plus-program?language=es_MX)                                              |
@@ -284,6 +285,7 @@
 
 | Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
 |--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Stream Quality           | 30/05/2025, 9:50:34 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)            |
 | How To Use Whispers      | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=es_MX)       |
 | Streamelements Campaigns | 04/04/2025, 9:40:33 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es_MX)  |
 
