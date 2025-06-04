@@ -6,7 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Mod View                                                 | 03/06/2025, 4:00:03 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                                  |
+| Mod View                                                 | 03/06/2025, 11:33:04 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                                  |
+| Achievements                                             | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                              |
+| Joining The Affiliate Program                            | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)                             |
 | Stream Quality                                           | 30/05/2025, 7:53:32 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                                            |
 | How To Use Whispers                                      | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=zh_TW)                                       |
 | How To Use Clips                                         | 30/05/2025, 4:52:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                          |
@@ -52,8 +54,6 @@
 | Dmca And Copyright Faqs                                  | 07/01/2025, 2:57:33 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=zh_TW)                                   |
 | Username Rename And Recycling Policies                   | 07/01/2025, 2:57:32 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=zh_TW)                    |
 | Transcoding Options Faq                                  | 07/01/2025, 2:55:20 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=zh_TW)                                   |
-| Partner Front Page                                       | 20/12/2024, 8:20:09 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                                        |
-| Shared Chat                                              | 20/12/2024, 8:16:04 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=zh_TW)                                               |
 
 
 
@@ -283,9 +283,11 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name           | Last Updated (dd/mm/yyyy) | Link                                                                    |
-|----------------|---------------------------|-------------------------------------------------------------------------|
-| Stream Quality | 30/05/2025, 7:53:32 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)  |
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Stream Quality           | 30/05/2025, 7:53:32 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)            |
+| How To Use Whispers      | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=zh_TW)       |
+| Streamelements Campaigns | 03/04/2025, 1:48:05 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=zh_TW)  |
 
 
 

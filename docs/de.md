@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Achievements                                             | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/achievements?language=de)                                              |
+| Joining The Affiliate Program                            | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=de)                             |
 | Mod View                                                 | 03/06/2025, 4:00:03 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                                  |
 | Stream Quality                                           | 02/06/2025, 5:40:32 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=de)                                            |
 | How To Use Whispers                                      | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=de)                                       |
@@ -49,11 +51,6 @@
 | Stream Deck Setup                                        | 18/01/2025, 0:13:14 pm    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=de)                                         |
 | Languages On Twitch                                      | 14/01/2025, 10:16:57 am   | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=de)                                       |
 | How To Allow Ads Browser                                 | 14/01/2025, 3:57:06 am    | [Link](https://help.twitch.tv/s/article/how-to-allow-ads-browser?language=de)                                  |
-| Username Rename And Recycling Policies                   | 01/01/2025, 11:03:16 pm   | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=de)                    |
-| Transcoding Options Faq                                  | 01/01/2025, 11:02:36 pm   | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=de)                                   |
-| Dmca And Copyright Faqs                                  | 01/01/2025, 11:02:18 pm   | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=de)                                   |
-| Partner Front Page                                       | 20/12/2024, 10:26:33 pm   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=de)                                        |
-| Shared Chat                                              | 20/12/2024, 7:41:04 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=de)                                               |
 
 
 
@@ -286,10 +283,12 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                | Last Updated (dd/mm/yyyy) | Link                                                                      |
-|---------------------|---------------------------|---------------------------------------------------------------------------|
-| Stream Quality      | 02/06/2025, 5:40:32 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=de)       |
-| How To Use Whispers | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=de)  |
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Stream Quality           | 02/06/2025, 5:40:32 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=de)            |
+| How To Use Whispers      | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=de)       |
+| Streamelements Campaigns | 04/04/2025, 11:26:21 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=de)  |
+| Creator Profile Setup    | 02/04/2025, 10:50:53 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=de)     |
 
 
 

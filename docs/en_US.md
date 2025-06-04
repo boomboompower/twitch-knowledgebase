@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Achievements                                             | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                                              |
+| Joining The Affiliate Program                            | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=en_US)                             |
+| Partner Discord                                          | 03/06/2025, 2:21:28 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=en_US)                                           |
 | Mod View                                                 | 03/06/2025, 4:00:03 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                                  |
 | How To Use Whispers                                      | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=en_US)                                       |
 | Stream Quality                                           | 30/05/2025, 5:48:29 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=en_US)                                            |
@@ -53,8 +56,6 @@
 | Stream Deck Setup                                        | 18/01/2025, 0:13:14 pm    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=en_US)                                         |
 | Languages On Twitch                                      | 14/01/2025, 10:16:57 am   | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=en_US)                                       |
 | How To Allow Ads Browser                                 | 14/01/2025, 3:57:06 am    | [Link](https://help.twitch.tv/s/article/how-to-allow-ads-browser?language=en_US)                                  |
-| Transcoding Options Faq                                  | 20/12/2024, 9:14:32 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=en_US)                                   |
-| Dmca And Copyright Faqs                                  | 20/12/2024, 8:45:35 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=en_US)                                   |
 
 
 
@@ -362,10 +363,14 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                | Last Updated (dd/mm/yyyy) | Link                                                                         |
-|---------------------|---------------------------|------------------------------------------------------------------------------|
-| How To Use Whispers | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=en_US)  |
-| Stream Quality      | 30/05/2025, 5:48:29 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=en_US)       |
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| How To Use Whispers      | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=en_US)       |
+| Stream Quality           | 30/05/2025, 5:48:29 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=en_US)            |
+| Deceased Account         | 10/05/2025, 7:27:24 am    | [Link](https://help.twitch.tv/s/article/deceased-account?language=en_US)          |
+| Combos                   | 29/04/2025, 7:57:21 am    | [Link](https://help.twitch.tv/s/article/combos?language=en_US)                    |
+| Creator Profile Setup    | 02/04/2025, 10:50:52 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=en_US)     |
+| Streamelements Campaigns | 28/03/2025, 5:01:27 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=en_US)  |
 
 
 

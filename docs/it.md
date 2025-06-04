@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Achievements                                             | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/achievements?language=it)                                              |
+| Joining The Affiliate Program                            | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=it)                             |
 | Mod View                                                 | 03/06/2025, 4:00:03 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=it)                                                  |
 | Stream Quality                                           | 30/05/2025, 7:34:04 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=it)                                            |
 | How To Use Whispers                                      | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=it)                                       |
@@ -50,10 +52,6 @@
 | Languages On Twitch                                      | 14/01/2025, 10:16:57 am   | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=it)                                       |
 | How To Allow Ads Browser                                 | 14/01/2025, 3:57:06 am    | [Link](https://help.twitch.tv/s/article/how-to-allow-ads-browser?language=it)                                  |
 | Dmca And Copyright Faqs                                  | 07/01/2025, 2:30:42 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=it)                                   |
-| Username Rename And Recycling Policies                   | 07/01/2025, 2:29:49 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=it)                    |
-| Transcoding Options Faq                                  | 07/01/2025, 2:29:29 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=it)                                   |
-| Partner Front Page                                       | 20/12/2024, 8:40:32 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=it)                                        |
-| Shared Chat                                              | 20/12/2024, 7:30:05 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=it)                                               |
 
 
 
@@ -285,9 +283,11 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name           | Last Updated (dd/mm/yyyy) | Link                                                                 |
-|----------------|---------------------------|----------------------------------------------------------------------|
-| Stream Quality | 30/05/2025, 7:34:04 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=it)  |
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Stream Quality           | 30/05/2025, 7:34:04 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=it)            |
+| How To Use Whispers      | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=it)       |
+| Streamelements Campaigns | 03/04/2025, 5:57:03 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=it)  |
 
 
 

@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Achievements                                             | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/achievements?language=fr)                                              |
+| Joining The Affiliate Program                            | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=fr)                             |
 | Mod View                                                 | 03/06/2025, 4:00:03 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=fr)                                                  |
 | How To Use Clips                                         | 02/06/2025, 9:37:06 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                                          |
 | Stream Quality                                           | 30/05/2025, 9:02:45 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)                                            |
@@ -52,8 +54,6 @@
 | Transcoding Options Faq                                  | 07/01/2025, 2:57:33 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=fr)                                   |
 | Username Rename And Recycling Policies                   | 07/01/2025, 2:54:59 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=fr)                    |
 | Dmca And Copyright Faqs                                  | 07/01/2025, 2:52:22 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=fr)                                   |
-| Partner Front Page                                       | 20/12/2024, 10:24:32 pm   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=fr)                                        |
-| Shared Chat                                              | 20/12/2024, 9:19:15 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=fr)                                               |
 
 
 
@@ -286,10 +286,11 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                | Last Updated (dd/mm/yyyy) | Link                                                                      |
-|---------------------|---------------------------|---------------------------------------------------------------------------|
-| Stream Quality      | 30/05/2025, 9:02:45 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)       |
-| How To Use Whispers | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=fr)  |
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Stream Quality           | 30/05/2025, 9:02:45 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)            |
+| How To Use Whispers      | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=fr)       |
+| Streamelements Campaigns | 04/04/2025, 10:11:45 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=fr)  |
 
 
 
