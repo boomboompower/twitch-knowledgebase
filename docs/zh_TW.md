@@ -6,12 +6,12 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                         | 05/06/2025, 0:03:36 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                          |
 | Mod View                                                 | 03/06/2025, 11:33:04 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                                  |
 | Achievements                                             | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                              |
 | Joining The Affiliate Program                            | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)                             |
 | Stream Quality                                           | 30/05/2025, 7:53:32 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                                            |
 | How To Use Whispers                                      | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=zh_TW)                                       |
-| How To Use Clips                                         | 30/05/2025, 4:52:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                          |
 | Plus Program                                             | 22/05/2025, 3:11:05 pm    | [Link](https://help.twitch.tv/s/article/plus-program?language=zh_TW)                                              |
 | Disconnect Protection                                    | 13/05/2025, 6:37:32 pm    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=zh_TW)                                     |
 | Founders Badge                                           | 10/05/2025, 4:43:37 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=zh_TW)                                            |
