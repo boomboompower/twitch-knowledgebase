@@ -6,12 +6,12 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Stream Quality                                           | 06/06/2025, 4:35:11 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)                                            |
 | Partner Discord                                          | 04/06/2025, 4:37:34 am    | [Link](https://help.twitch.tv/s/article/partner-discord?language=pt_BR)                                           |
 | Achievements                                             | 03/06/2025, 10:01:07 pm   | [Link](https://help.twitch.tv/s/article/achievements?language=pt_BR)                                              |
 | Joining The Affiliate Program                            | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                             |
 | Mod View                                                 | 03/06/2025, 4:00:11 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=pt_BR)                                                  |
 | How To Use Clips                                         | 31/05/2025, 0:42:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                          |
-| Stream Quality                                           | 30/05/2025, 10:37:33 pm   | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)                                            |
 | How To Use Whispers                                      | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=pt_BR)                                       |
 | Plus Program                                             | 21/05/2025, 1:12:34 pm    | [Link](https://help.twitch.tv/s/article/plus-program?language=pt_BR)                                              |
 | Disconnect Protection                                    | 15/05/2025, 10:10:00 pm   | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=pt_BR)                                     |
@@ -284,7 +284,7 @@
 
 | Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
 |--------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Stream Quality           | 30/05/2025, 10:37:33 pm   | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)            |
+| Stream Quality           | 06/06/2025, 4:35:11 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)            |
 | How To Use Whispers      | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=pt_BR)       |
 | Streamelements Campaigns | 05/04/2025, 0:18:03 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=pt_BR)  |
 
