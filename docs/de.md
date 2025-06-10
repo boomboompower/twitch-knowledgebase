@@ -6,8 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Combos                                                   | 10/06/2025, 7:25:44 am    | [Link](https://help.twitch.tv/s/article/combos?language=de)                                                    |
+| Partner Program Overview                                 | 10/06/2025, 5:33:17 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                  |
+| Stream Quality                                           | 09/06/2025, 9:29:02 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=de)                                            |
 | Achievements                                             | 06/06/2025, 6:54:34 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=de)                                              |
-| Stream Quality                                           | 06/06/2025, 4:35:11 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=de)                                            |
 | Partner Discord                                          | 05/06/2025, 9:10:04 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=de)                                           |
 | Mod View                                                 | 04/06/2025, 10:39:04 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                                  |
 | How To Use Clips                                         | 04/06/2025, 10:27:04 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                          |
@@ -51,7 +53,6 @@
 | Broadcasting Guidelines                                  | 18/01/2025, 0:14:28 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=de)                                   |
 | Stream Deck Setup                                        | 18/01/2025, 0:13:14 pm    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=de)                                         |
 | Languages On Twitch                                      | 14/01/2025, 10:16:57 am   | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=de)                                       |
-| How To Allow Ads Browser                                 | 14/01/2025, 3:57:06 am    | [Link](https://help.twitch.tv/s/article/how-to-allow-ads-browser?language=de)                                  |
 
 
 
@@ -279,6 +280,18 @@
 | Smart Notification Setting                       | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                        |
 | How To Log In To Twitch With One Click           | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)            |
 | Markdown Basics                                  | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                   |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Combos                   | 10/06/2025, 7:25:44 am    | [Link](https://help.twitch.tv/s/article/combos?language=de)                    |
+| Stream Quality           | 09/06/2025, 9:29:02 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=de)            |
+| How To Use Whispers      | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=de)       |
+| Streamelements Campaigns | 04/04/2025, 11:26:21 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=de)  |
 
 
 
