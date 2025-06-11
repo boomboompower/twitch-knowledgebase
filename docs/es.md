@@ -6,9 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Stream Quality                                           | 11/06/2025, 9:56:54 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)                                            |
 | Combos                                                   | 10/06/2025, 7:25:44 am    | [Link](https://help.twitch.tv/s/article/combos?language=es)                                                    |
 | Partner Program Overview                                 | 10/06/2025, 5:33:19 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                                  |
-| Stream Quality                                           | 09/06/2025, 10:34:33 pm   | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)                                            |
 | Achievements                                             | 06/06/2025, 8:00:35 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=es)                                              |
 | Partner Discord                                          | 06/06/2025, 7:07:34 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=es)                                           |
 | How To Use Clips                                         | 04/06/2025, 11:53:35 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                          |
@@ -287,8 +287,8 @@
 
 | Name                | Last Updated (dd/mm/yyyy) | Link                                                                      |
 |---------------------|---------------------------|---------------------------------------------------------------------------|
+| Stream Quality      | 11/06/2025, 9:56:54 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)       |
 | Combos              | 10/06/2025, 7:25:44 am    | [Link](https://help.twitch.tv/s/article/combos?language=es)               |
-| Stream Quality      | 09/06/2025, 10:34:33 pm   | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)       |
 | How To Use Whispers | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=es)  |
 
 
