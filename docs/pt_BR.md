@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Local Sub Price Countries                                | 12/06/2025, 2:58:56 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pt_BR)                                 |
 | Stream Quality                                           | 11/06/2025, 9:56:54 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)                                            |
 | Combos                                                   | 10/06/2025, 7:25:45 am    | [Link](https://help.twitch.tv/s/article/combos?language=pt_BR)                                                    |
 | Partner Program Overview                                 | 10/06/2025, 5:33:20 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)                                  |

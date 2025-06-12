@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Local Sub Price Countries                                | 12/06/2025, 2:58:56 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es_MX)                                 |
 | Stream Quality                                           | 11/06/2025, 9:56:54 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                                            |
 | Combos                                                   | 10/06/2025, 7:25:44 am    | [Link](https://help.twitch.tv/s/article/combos?language=es_MX)                                                    |
 | Partner Program Overview                                 | 10/06/2025, 5:33:19 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)                                  |
@@ -52,8 +53,6 @@
 | Recommended Software For Broadcasting                    | 18/01/2025, 0:15:15 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es_MX)                     |
 | Broadcasting Guidelines                                  | 18/01/2025, 0:14:28 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=es_MX)                                   |
 | Stream Deck Setup                                        | 18/01/2025, 0:13:14 pm    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=es_MX)                                         |
-| Languages On Twitch                                      | 14/01/2025, 10:16:56 am   | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es_MX)                                       |
-| How To Allow Ads Browser                                 | 14/01/2025, 3:57:06 am    | [Link](https://help.twitch.tv/s/article/how-to-allow-ads-browser?language=es_MX)                                  |
 
 
 

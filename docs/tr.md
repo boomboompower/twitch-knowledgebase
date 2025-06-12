@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Local Sub Price Countries                                | 12/06/2025, 2:58:56 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=tr)                                 |
 | Partner Program Overview                                 | 10/06/2025, 5:33:17 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=tr)                                  |
 | Achievements                                             | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/achievements?language=tr)                                              |
 | Joining The Affiliate Program                            | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=tr)                             |
@@ -32,7 +33,6 @@
 | Recommended Software For Broadcasting                    | 18/01/2025, 0:15:15 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=tr)                     |
 | Broadcasting Guidelines                                  | 18/01/2025, 0:14:28 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=tr)                                   |
 | Stream Deck Setup                                        | 18/01/2025, 0:13:14 pm    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=tr)                                         |
-| Languages On Twitch                                      | 14/01/2025, 10:16:57 am   | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=tr)                                       |
 
 
 
