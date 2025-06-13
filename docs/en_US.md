@@ -56,7 +56,6 @@
 | Recommended Software For Broadcasting                    | 18/01/2025, 0:15:15 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=en_US)                     |
 | Broadcasting Guidelines                                  | 18/01/2025, 0:14:28 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                                   |
 | Stream Deck Setup                                        | 18/01/2025, 0:13:14 pm    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=en_US)                                         |
-| Languages On Twitch                                      | 14/01/2025, 10:16:57 am   | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=en_US)                                       |
 
 
 
@@ -385,6 +384,7 @@
 | Twitch Ingest Recommendation | 31/12/1899, 10:00:00 am   | [Link](https://help.twitch.tv/s/twitch-ingest-recommendation?language=en_US)  |
 | Govcontact                   | 31/12/1899, 10:00:00 am   | [Link](https://help.twitch.tv/s/govcontact?language=en_US)                    |
 | Partnerdiscordauth           | 31/12/1899, 10:00:00 am   | [Link](https://help.twitch.tv/s/partnerdiscordauth?language=en_US)            |
+| Ods Form                     | 31/12/1899, 10:00:00 am   | [Link](https://help.twitch.tv/s/ods-form?language=en_US)                      |
 
 
 
