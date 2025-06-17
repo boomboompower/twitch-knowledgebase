@@ -6,12 +6,14 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| How To Provide Feedback                                  | 17/06/2025, 10:32:33 am   | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=zh_TW)                                   |
+| Payout Balance Faq                                       | 17/06/2025, 5:46:26 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=zh_TW)                                        |
+| Local Sub Price Countries                                | 17/06/2025, 2:15:50 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                                 |
 | Updating Payment Information Transaction History         | 14/06/2025, 9:27:45 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=zh_TW)          |
 | Partner Program Overview                                 | 14/06/2025, 4:24:22 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                                  |
 | Twitch Turbo Guide                                       | 14/06/2025, 4:23:09 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                                        |
 | Revenue                                                  | 14/06/2025, 4:21:57 am    | [Link](https://help.twitch.tv/s/article/revenue?language=zh_TW)                                                   |
 | Stream Quality                                           | 13/06/2025, 8:31:32 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                                            |
-| Local Sub Price Countries                                | 12/06/2025, 2:58:56 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                                 |
 | Combos                                                   | 10/06/2025, 7:25:45 am    | [Link](https://help.twitch.tv/s/article/combos?language=zh_TW)                                                    |
 | Partner Discord                                          | 06/06/2025, 8:50:34 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=zh_TW)                                           |
 | Achievements                                             | 06/06/2025, 8:48:03 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                              |
@@ -29,7 +31,6 @@
 | Custom Bit Badges Guide                                  | 09/05/2025, 11:01:32 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=zh_TW)                                   |
 | Leaderboards Guide                                       | 02/05/2025, 1:10:36 pm    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=zh_TW)                                        |
 | Twitch Chat Badges Guide                                 | 01/05/2025, 11:37:33 pm   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                                  |
-| Payout Balance Faq                                       | 28/04/2025, 11:15:05 pm   | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=zh_TW)                                        |
 | Branded Content Policy                                   | 26/04/2025, 9:57:39 am    | [Link](https://help.twitch.tv/s/article/branded-content-policy?language=zh_TW)                                    |
 | Content Classification Labels                            | 26/04/2025, 9:57:37 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=zh_TW)                             |
 | Video On Demand                                          | 15/04/2025, 11:56:07 pm   | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                           |
@@ -279,6 +280,19 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Stream Quality           | 13/06/2025, 8:31:32 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)            |
+| Combos                   | 10/06/2025, 7:25:45 am    | [Link](https://help.twitch.tv/s/article/combos?language=zh_TW)                    |
+| How To Use Whispers      | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=zh_TW)       |
+| Streamelements Campaigns | 03/04/2025, 1:48:05 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=zh_TW)  |
+| Creator Profile Setup    | 02/04/2025, 10:50:54 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=zh_TW)     |
 
 
 
