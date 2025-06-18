@@ -6,13 +6,16 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Use Badges                                        | 18/06/2025, 8:48:23 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=es)                                         |
+| Languages On Twitch                                      | 18/06/2025, 8:46:30 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es)                                       |
+| Display Names On Twitch                                  | 18/06/2025, 8:45:44 am    | [Link](https://help.twitch.tv/s/article/display-names-on-twitch?language=es)                                   |
+| Updating Payment Information Transaction History         | 17/06/2025, 5:36:33 pm    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=es)          |
+| How To Provide Feedback                                  | 17/06/2025, 4:45:34 pm    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=es)                                   |
 | Payout Balance Faq                                       | 17/06/2025, 5:46:22 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=es)                                        |
-| How To Provide Feedback                                  | 17/06/2025, 3:37:03 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=es)                                   |
 | Twitch Chat Badges Guide                                 | 17/06/2025, 3:34:33 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es)                                  |
 | Twitch Ambassador Program                                | 17/06/2025, 3:34:32 am    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=es)                                 |
 | Local Sub Price Countries                                | 17/06/2025, 2:15:50 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es)                                 |
 | Stream Quality                                           | 16/06/2025, 4:23:34 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)                                            |
-| Updating Payment Information Transaction History         | 14/06/2025, 9:27:45 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=es)          |
 | Partner Program Overview                                 | 14/06/2025, 4:24:22 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                                  |
 | Twitch Turbo Guide                                       | 14/06/2025, 4:23:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es)                                        |
 | Revenue                                                  | 14/06/2025, 4:21:56 am    | [Link](https://help.twitch.tv/s/article/revenue?language=es)                                                   |
