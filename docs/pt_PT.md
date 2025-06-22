@@ -39,7 +39,6 @@
 | How To Manage Harassment In Chat     | 06/06/2024, 3:12:27 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_PT)      |
 | Two Factor Authentication With Authy | 23/02/2024, 4:01:34 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)  |
 | Authy Faq                            | 23/02/2024, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_PT)                             |
-| How To File A User Report            | 15/02/2024, 5:22:45 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=pt_PT)             |
 
 
 
@@ -48,6 +47,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| How To File A User Report                                     | 15/02/2024, 5:22:45 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=pt_PT)                                      |
 | Gift Subscriptions                                            | 08/09/2023, 9:56:46 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                                             |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/09/2023, 1:58:09 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pt_PT)  |
 | Twitch Account Settings                                       | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_PT)                                        |
@@ -67,8 +67,6 @@
 | A Tour Of Your Channel Page                  | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=pt_PT)                   |
 | How To Subscribe                             | 16/06/2022, 8:35:16 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                              |
 | Community Meetups Powered By Twitch          | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=pt_PT)           |
-| Watching Twitch On Ios Devices               | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=pt_PT)                |
-| How To Claim In Game Content                 | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=pt_PT)                  |
 
 
 
@@ -77,6 +75,8 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Watching Twitch On Ios Devices                | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=pt_PT)                 |
+| How To Claim In Game Content                  | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=pt_PT)                   |
 | How To Use Twitch Prime Subscriptions         | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=pt_PT)          |
 | Twitch Merchandise Store Support Faq          | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=pt_PT)           |
 | Setting Up Moderation For Your Twitch Channel | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=pt_PT)  |

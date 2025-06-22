@@ -28,7 +28,6 @@
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
 | Watching Twitch On Android Devices                 | 02/10/2024, 9:49:59 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=sv)                  |
-| Channel Page Setup                                 | 29/08/2024, 7:08:16 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=sv)                                  |
 | How To Manage Harassment In Chat                   | 06/06/2024, 3:12:27 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=sv)                    |
 | Removing Recommendations You Are Not Interested In | 22/05/2024, 2:55:23 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=sv)  |
 | Two Factor Authentication With Authy               | 23/02/2024, 4:01:34 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=sv)                |
@@ -56,7 +55,6 @@
 | Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=sv)  |
 | Twitch Content Sharing Guidelines            | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=sv)             |
 | A Tour Of Your Channel Page                  | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=sv)                   |
-| Watching Twitch On Ios Devices               | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=sv)                |
 
 
 
@@ -65,6 +63,8 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Watching Twitch On Ios Devices                    | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=sv)                     |
+| How To Claim In Game Content                      | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=sv)                       |
 | Changes To Subscription Badges And Resub Messages | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages?language=sv)  |
 | Twitch Merchandise Store Support Faq              | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=sv)               |
 | Guide To Custom Messages                          | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=sv)                           |

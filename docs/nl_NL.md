@@ -32,7 +32,6 @@
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
 | Watching Twitch On Android Devices                 | 02/10/2024, 9:49:59 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=nl_NL)                  |
-| Channel Page Setup                                 | 29/08/2024, 7:08:16 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=nl_NL)                                  |
 | How To Manage Harassment In Chat                   | 06/06/2024, 3:12:27 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=nl_NL)                    |
 | Removing Recommendations You Are Not Interested In | 22/05/2024, 2:55:23 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=nl_NL)  |
 | Two Factor Authentication With Authy               | 23/02/2024, 4:01:34 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=nl_NL)                |
@@ -64,8 +63,6 @@
 | Twitch Content Sharing Guidelines            | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=nl_NL)             |
 | A Tour Of Your Channel Page                  | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=nl_NL)                   |
 | Community Meetups Powered By Twitch          | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=nl_NL)           |
-| Watching Twitch On Ios Devices               | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=nl_NL)                |
-| How To Claim In Game Content                 | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=nl_NL)                  |
 
 
 
@@ -74,6 +71,8 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                       |
 |---------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------|
+| Watching Twitch On Ios Devices                    | 22/10/2021, 8:54:13 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-ios-devices?language=nl_NL)                     |
+| How To Claim In Game Content                      | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=nl_NL)                       |
 | How To Use Twitch Prime Subscriptions             | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=nl_NL)              |
 | Changes To Subscription Badges And Resub Messages | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages?language=nl_NL)  |
 | Twitch Merchandise Store Support Faq              | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=nl_NL)               |
