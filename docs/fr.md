@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Getting Started On Twitch                                | 27/06/2025, 1:18:23 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=fr)                                 |
 | Recommended Software For Broadcasting                    | 24/06/2025, 9:26:33 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=fr)                     |
 | Gift Subscriptions For Creators                          | 19/06/2025, 7:50:09 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=fr)                           |
 | Channel Points Faq                                       | 19/06/2025, 2:19:51 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=fr)                                        |

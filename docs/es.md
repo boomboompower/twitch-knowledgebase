@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Recommended Software For Broadcasting                    | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es)                     |
+| Recommended Software For Broadcasting                    | 26/06/2025, 3:22:03 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es)                     |
 | Gift Subscriptions For Creators                          | 19/06/2025, 7:50:09 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=es)                           |
 | Channel Points Faq                                       | 19/06/2025, 2:19:51 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=es)                                        |
 | Viewer Channel Point Guide                               | 19/06/2025, 2:19:41 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=es)                                |

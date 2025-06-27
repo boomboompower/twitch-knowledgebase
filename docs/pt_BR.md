@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Getting Started On Twitch                                | 26/06/2025, 2:22:05 pm    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=pt_BR)                                 |
 | Recommended Software For Broadcasting                    | 26/06/2025, 9:06:29 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=pt_BR)                     |
 | Gift Subscriptions For Creators                          | 19/06/2025, 7:50:09 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=pt_BR)                           |
 | Channel Points Faq                                       | 19/06/2025, 2:19:52 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=pt_BR)                                        |
@@ -61,7 +62,6 @@
 | Sponsored Subscriptions                                  | 23/01/2025, 2:50:55 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=pt_BR)                                   |
 | Streamer Read Ads                                        | 23/01/2025, 2:50:13 am    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=pt_BR)                                         |
 | Channel Skins                                            | 23/01/2025, 2:49:20 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=pt_BR)                                             |
-| Broadcasting Guidelines                                  | 18/01/2025, 0:14:28 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=pt_BR)                                   |
 
 
 
