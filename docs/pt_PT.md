@@ -33,13 +33,11 @@
 ## Article-3
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
-| Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                          |
-|--------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
-| Watching Twitch On Android Devices   | 02/10/2024, 9:49:59 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=pt_PT)    |
-| Channel Analytics                    | 01/10/2024, 8:25:42 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_PT)                     |
-| How To Manage Harassment In Chat     | 06/06/2024, 3:12:27 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_PT)      |
-| Two Factor Authentication With Authy | 23/02/2024, 4:01:34 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)  |
-| Authy Faq                            | 23/02/2024, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_PT)                             |
+| Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
+|------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Watching Twitch On Android Devices | 02/10/2024, 9:49:59 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=pt_PT)  |
+| Channel Analytics                  | 01/10/2024, 8:25:42 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=pt_PT)                   |
+| How To Manage Harassment In Chat   | 06/06/2024, 3:12:27 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_PT)    |
 
 
 
@@ -48,6 +46,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Authy Faq                                                     | 23/02/2024, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_PT)                                                      |
 | How To File A User Report                                     | 15/02/2024, 5:22:45 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=pt_PT)                                      |
 | Gift Subscriptions                                            | 08/09/2023, 9:56:46 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                                             |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/09/2023, 1:58:09 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pt_PT)  |

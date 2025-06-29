@@ -19,15 +19,6 @@
 
 
 
-## Article-3
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
-
-| Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                          |
-|--------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
-| Two Factor Authentication With Authy | 23/02/2024, 4:01:34 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=zh_CN)  |
-
-
-
 ## Article-4
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
