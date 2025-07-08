@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Partner Front Page                                       | 28/06/2025, 10:32:09 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=it)                                        |
+| Partner Front Page                                       | 07/07/2025, 5:50:10 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=it)                                        |
 | Twitch Stream Key Faq                                    | 28/06/2025, 6:11:09 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=it)                                     |
 | Two Factor Authentication                                | 28/06/2025, 6:11:04 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=it)                                 |
 | Getting Started On Twitch                                | 27/06/2025, 6:01:43 pm    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=it)                                 |
