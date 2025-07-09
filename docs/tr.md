@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                         | 09/07/2025, 6:22:31 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=tr)                                          |
 | Twitch Stream Key Faq                                    | 28/06/2025, 6:11:07 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=tr)                                     |
 | Two Factor Authentication                                | 28/06/2025, 6:11:03 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=tr)                                 |
 | Recommended Software For Broadcasting                    | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=tr)                     |
@@ -22,7 +23,6 @@
 | Achievements                                             | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/achievements?language=tr)                                              |
 | Joining The Affiliate Program                            | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=tr)                             |
 | Mod View                                                 | 03/06/2025, 4:00:03 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=tr)                                                  |
-| How To Use Clips                                         | 30/05/2025, 4:52:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=tr)                                          |
 | Disconnect Protection                                    | 10/05/2025, 9:27:33 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=tr)                                     |
 | Founders Badge                                           | 10/05/2025, 4:43:35 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=tr)                                            |
 | List Of Prohibited Games                                 | 10/05/2025, 3:12:56 am    | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=tr)                                  |

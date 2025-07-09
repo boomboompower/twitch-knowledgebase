@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                         | 09/07/2025, 6:22:31 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                          |
 | Partner Front Page                                       | 01/07/2025, 3:35:35 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=ja)                                        |
 | Twitch Stream Key Faq                                    | 28/06/2025, 6:11:07 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ja)                                     |
 | Two Factor Authentication                                | 28/06/2025, 6:11:04 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ja)                                 |
@@ -31,7 +32,6 @@
 | Partner Discord                                          | 06/06/2025, 3:18:34 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=ja)                                           |
 | Achievements                                             | 06/06/2025, 3:05:04 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=ja)                                              |
 | Mod View                                                 | 04/06/2025, 11:31:33 am   | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                                  |
-| How To Use Clips                                         | 04/06/2025, 11:26:04 am   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                          |
 | Joining The Affiliate Program                            | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ja)                             |
 | How To Use Whispers                                      | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=ja)                                       |
 | Plus Program                                             | 22/05/2025, 6:55:04 pm    | [Link](https://help.twitch.tv/s/article/plus-program?language=ja)                                              |
@@ -283,6 +283,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name           | Last Updated (dd/mm/yyyy) | Link                                                                 |
+|----------------|---------------------------|----------------------------------------------------------------------|
+| Stream Quality | 16/06/2025, 3:23:33 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)  |
 
 
 

@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                         | 09/07/2025, 6:22:31 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                          |
+| Mobile                                                   | 09/07/2025, 6:20:58 am    | [Link](https://help.twitch.tv/s/article/mobile?language=en_US)                                                    |
 | Partner Front Page                                       | 28/06/2025, 10:32:09 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)                                        |
 | Twitch Stream Key Faq                                    | 28/06/2025, 6:11:07 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=en_US)                                     |
 | Two Factor Authentication                                | 28/06/2025, 6:11:03 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=en_US)                                 |
@@ -33,7 +35,6 @@
 | Partner Discord                                          | 03/06/2025, 2:21:28 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=en_US)                                           |
 | Mod View                                                 | 03/06/2025, 4:00:03 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                                  |
 | How To Use Whispers                                      | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=en_US)                                       |
-| How To Use Clips                                         | 30/05/2025, 4:52:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                          |
 | Plus Program                                             | 20/05/2025, 2:56:36 am    | [Link](https://help.twitch.tv/s/article/plus-program?language=en_US)                                              |
 | Disconnect Protection                                    | 10/05/2025, 9:27:33 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=en_US)                                     |
 | Deceased Account                                         | 10/05/2025, 7:27:24 am    | [Link](https://help.twitch.tv/s/article/deceased-account?language=en_US)                                          |
@@ -356,6 +357,16 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                | Last Updated (dd/mm/yyyy) | Link                                                                         |
+|---------------------|---------------------------|------------------------------------------------------------------------------|
+| Stream Quality      | 11/06/2025, 9:56:54 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=en_US)       |
+| How To Use Whispers | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=en_US)  |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                         | 09/07/2025, 6:22:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                          |
 | Partner Front Page                                       | 01/07/2025, 1:52:35 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=pt_BR)                                        |
 | Twitch Stream Key Faq                                    | 28/06/2025, 6:11:09 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=pt_BR)                                     |
 | Two Factor Authentication                                | 28/06/2025, 6:11:04 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=pt_BR)                                 |
@@ -32,7 +33,6 @@
 | Achievements                                             | 03/06/2025, 10:01:07 pm   | [Link](https://help.twitch.tv/s/article/achievements?language=pt_BR)                                              |
 | Joining The Affiliate Program                            | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                             |
 | Mod View                                                 | 03/06/2025, 4:00:11 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=pt_BR)                                                  |
-| How To Use Clips                                         | 31/05/2025, 0:42:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                          |
 | How To Use Whispers                                      | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=pt_BR)                                       |
 | Plus Program                                             | 21/05/2025, 1:12:34 pm    | [Link](https://help.twitch.tv/s/article/plus-program?language=pt_BR)                                              |
 | Disconnect Protection                                    | 15/05/2025, 10:10:00 pm   | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=pt_BR)                                     |
@@ -284,6 +284,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_BR)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=pt_BR)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pt_BR)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name           | Last Updated (dd/mm/yyyy) | Link                                                                    |
+|----------------|---------------------------|-------------------------------------------------------------------------|
+| Stream Quality | 14/06/2025, 2:54:34 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)  |
 
 
 
