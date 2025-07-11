@@ -6,8 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Partner Front Page                                       | 11/07/2025, 6:12:27 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=de)                                        |
 | How To Use Clips                                         | 09/07/2025, 6:22:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                          |
-| Partner Front Page                                       | 01/07/2025, 6:17:10 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=de)                                        |
 | Twitch Stream Key Faq                                    | 28/06/2025, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=de)                                     |
 | Two Factor Authentication                                | 28/06/2025, 6:11:03 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=de)                                 |
 | Getting Started On Twitch                                | 27/06/2025, 8:19:04 pm    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=de)                                 |
