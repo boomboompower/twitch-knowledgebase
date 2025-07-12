@@ -6,7 +6,7 @@
 
 | Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                          |
 |--------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
-| Two Factor Authentication With Authy | 28/06/2025, 6:11:03 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=zh_CN)  |
+| Two Factor Authentication With Authy | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=zh_CN)  |
 
 
 
