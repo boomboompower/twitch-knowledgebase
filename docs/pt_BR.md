@@ -287,13 +287,3 @@
 
 
 
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                | Last Updated (dd/mm/yyyy) | Link                                                                         |
-|---------------------|---------------------------|------------------------------------------------------------------------------|
-| Stream Quality      | 14/06/2025, 2:54:34 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)       |
-| How To Use Whispers | 30/05/2025, 9:53:51 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=pt_BR)  |
-
-
-

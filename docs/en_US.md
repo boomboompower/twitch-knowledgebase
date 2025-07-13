@@ -124,7 +124,6 @@
 | Geoblocking                                 | 13/11/2024, 1:00:21 pm    | [Link](https://help.twitch.tv/s/article/geoblocking?language=en_US)                                  |
 | Update Logins To Twitch With Facebook       | 13/11/2024, 0:53:37 pm    | [Link](https://help.twitch.tv/s/article/update-logins-to-twitch-with-facebook?language=en_US)        |
 | Twitch Research Surveys                     | 13/11/2024, 0:26:44 pm    | [Link](https://help.twitch.tv/s/article/twitch-research-surveys?language=en_US)                      |
-| Mobile                                      | 13/11/2024, 0:21:39 pm    | [Link](https://help.twitch.tv/s/article/mobile?language=en_US)                                       |
 | Irl Category                                | 13/11/2024, 0:06:44 pm    | [Link](https://help.twitch.tv/s/article/irl-category?language=en_US)                                 |
 | Dj Unreleased                               | 13/11/2024, 0:00:09 pm    | [Link](https://help.twitch.tv/s/article/dj-unreleased?language=en_US)                                |
 | Subtember 2024 Faq                          | 13/11/2024, 11:41:23 am   | [Link](https://help.twitch.tv/s/article/subtember-2024-faq?language=en_US)                           |
@@ -357,18 +356,6 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                | Last Updated (dd/mm/yyyy) | Link                                                                         |
-|---------------------|---------------------------|------------------------------------------------------------------------------|
-| Stream Quality      | 11/06/2025, 9:56:54 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=en_US)       |
-| Combos              | 10/06/2025, 7:25:43 am    | [Link](https://help.twitch.tv/s/article/combos?language=en_US)               |
-| How To Use Whispers | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=en_US)  |
-| Deceased Account    | 10/05/2025, 7:27:24 am    | [Link](https://help.twitch.tv/s/article/deceased-account?language=en_US)     |
 
 
 
