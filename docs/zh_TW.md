@@ -6,8 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Stream Quality                                           | 15/07/2025, 8:46:16 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                                            |
+| Partner Front Page                                       | 14/07/2025, 2:05:35 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                                        |
 | Two Factor Authentication                                | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=zh_TW)                                 |
-| Partner Front Page                                       | 11/07/2025, 6:12:27 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                                        |
 | How To Use Clips                                         | 09/07/2025, 6:22:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                          |
 | Twitch Stream Key Faq                                    | 28/06/2025, 6:11:09 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=zh_TW)                                     |
 | Getting Started On Twitch                                | 28/06/2025, 1:21:33 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=zh_TW)                                 |
@@ -27,7 +28,6 @@
 | Partner Program Overview                                 | 14/06/2025, 4:24:22 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                                  |
 | Twitch Turbo Guide                                       | 14/06/2025, 4:23:09 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                                        |
 | Revenue                                                  | 14/06/2025, 4:21:57 am    | [Link](https://help.twitch.tv/s/article/revenue?language=zh_TW)                                                   |
-| Stream Quality                                           | 13/06/2025, 8:31:32 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                                            |
 | Combos                                                   | 10/06/2025, 7:25:45 am    | [Link](https://help.twitch.tv/s/article/combos?language=zh_TW)                                                    |
 | Partner Discord                                          | 06/06/2025, 8:50:34 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=zh_TW)                                           |
 | Achievements                                             | 06/06/2025, 8:48:03 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                              |
@@ -283,6 +283,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name           | Last Updated (dd/mm/yyyy) | Link                                                                    |
+|----------------|---------------------------|-------------------------------------------------------------------------|
+| Stream Quality | 15/07/2025, 8:46:16 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)  |
 
 
 

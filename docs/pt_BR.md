@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Stream Quality                                           | 15/07/2025, 8:46:16 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)                                            |
 | Partner Front Page                                       | 12/07/2025, 11:39:04 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=pt_BR)                                        |
 | Two Factor Authentication                                | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=pt_BR)                                 |
 | How To Use Clips                                         | 09/07/2025, 6:22:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                          |
@@ -24,7 +25,6 @@
 | Payout Balance Faq                                       | 17/06/2025, 5:46:26 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=pt_BR)                                        |
 | How To Provide Feedback                                  | 17/06/2025, 3:37:04 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=pt_BR)                                   |
 | Local Sub Price Countries                                | 17/06/2025, 2:15:50 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pt_BR)                                 |
-| Stream Quality                                           | 14/06/2025, 2:54:34 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)                                            |
 | Partner Program Overview                                 | 14/06/2025, 4:24:22 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)                                  |
 | Twitch Turbo Guide                                       | 14/06/2025, 4:23:09 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_BR)                                        |
 | Revenue                                                  | 14/06/2025, 4:21:57 am    | [Link](https://help.twitch.tv/s/article/revenue?language=pt_BR)                                                   |
@@ -284,6 +284,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_BR)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=pt_BR)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pt_BR)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name           | Last Updated (dd/mm/yyyy) | Link                                                                    |
+|----------------|---------------------------|-------------------------------------------------------------------------|
+| Stream Quality | 15/07/2025, 8:46:16 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)  |
 
 
 
