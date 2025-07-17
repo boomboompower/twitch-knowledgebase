@@ -6,12 +6,19 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Mobile                                                   | 17/07/2025, 9:06:45 am    | [Link](https://help.twitch.tv/s/article/mobile?language=en_US)                                                    |
+| Discovery Feed                                           | 17/07/2025, 9:06:38 am    | [Link](https://help.twitch.tv/s/article/discovery-feed?language=en_US)                                            |
+| How To Manage Harassment In Chat                         | 17/07/2025, 7:51:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=en_US)                          |
+| Leaderboards Guide                                       | 17/07/2025, 2:41:45 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=en_US)                                        |
+| Featured Clips                                           | 17/07/2025, 2:41:20 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=en_US)                                            |
+| How To Delete And Manage Clips                           | 17/07/2025, 2:41:12 am    | [Link](https://help.twitch.tv/s/article/how-to-delete-and-manage-clips?language=en_US)                            |
+| What Is The Front Page                                   | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=en_US)                                    |
+| Managing Roles For Your Channel                          | 17/07/2025, 2:33:22 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=en_US)                           |
 | Clips Settings                                           | 16/07/2025, 10:26:19 am   | [Link](https://help.twitch.tv/s/article/clips-settings?language=en_US)                                            |
 | Stream Quality                                           | 15/07/2025, 8:46:16 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=en_US)                                            |
 | Two Factor Authentication                                | 12/07/2025, 7:56:48 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=en_US)                                 |
 | Partner Front Page                                       | 11/07/2025, 6:12:27 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)                                        |
 | How To Use Clips                                         | 09/07/2025, 6:22:31 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                          |
-| Mobile                                                   | 09/07/2025, 6:20:58 am    | [Link](https://help.twitch.tv/s/article/mobile?language=en_US)                                                    |
 | Twitch Stream Key Faq                                    | 28/06/2025, 6:11:07 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=en_US)                                     |
 | Getting Started On Twitch                                | 24/06/2025, 7:10:55 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=en_US)                                 |
 | Recommended Software For Broadcasting                    | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=en_US)                     |
@@ -46,7 +53,6 @@
 | Emote Guidelines                                         | 10/05/2025, 3:12:40 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=en_US)                                          |
 | Custom Bit Badges Guide                                  | 09/05/2025, 11:01:32 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=en_US)                                   |
 | Twitch Chat Badges Guide                                 | 30/04/2025, 3:59:46 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                                  |
-| Leaderboards Guide                                       | 30/04/2025, 3:59:33 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=en_US)                                        |
 | Branded Content Policy                                   | 26/04/2025, 9:55:54 am    | [Link](https://help.twitch.tv/s/article/branded-content-policy?language=en_US)                                    |
 | Content Classification Labels                            | 26/04/2025, 9:54:24 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=en_US)                             |
 | Video On Demand                                          | 15/04/2025, 3:39:16 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                           |
@@ -58,10 +64,6 @@
 | Payout History Dashboard Guide                           | 02/04/2025, 10:47:41 am   | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=en_US)                            |
 | Streamer Community Survey                                | 21/03/2025, 6:38:29 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=en_US)                                 |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 14/03/2025, 4:03:59 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=en_US)  |
-| Content Approval                                         | 12/03/2025, 11:35:03 am   | [Link](https://help.twitch.tv/s/article/content-approval?language=en_US)                                          |
-| Twitch Ambassador Program                                | 07/03/2025, 0:21:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=en_US)                                 |
-| Twitch Affiliate Program Faq                             | 15/02/2025, 4:29:28 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                              |
-| Payout Details Faq                                       | 15/02/2025, 4:29:21 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                                        |
 
 
 
@@ -362,10 +364,18 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                | Last Updated (dd/mm/yyyy) | Link                                                                         |
-|---------------------|---------------------------|------------------------------------------------------------------------------|
-| Stream Quality      | 15/07/2025, 8:46:16 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=en_US)       |
-| How To Use Whispers | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=en_US)  |
+| Name                      | Last Updated (dd/mm/yyyy) | Link                                                                               |
+|---------------------------|---------------------------|------------------------------------------------------------------------------------|
+| What Is The Front Page    | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=en_US)     |
+| Stream Quality            | 15/07/2025, 8:46:16 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=en_US)             |
+| Getting Started On Twitch | 24/06/2025, 7:10:55 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=en_US)  |
+| Streamelements Campaigns  | 19/06/2025, 2:17:00 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=en_US)   |
+| Combos                    | 10/06/2025, 7:25:43 am    | [Link](https://help.twitch.tv/s/article/combos?language=en_US)                     |
+| How To Use Whispers       | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=en_US)        |
+| Deceased Account          | 10/05/2025, 7:27:24 am    | [Link](https://help.twitch.tv/s/article/deceased-account?language=en_US)           |
+| Shared Viewership         | 10/05/2025, 3:13:29 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=en_US)          |
+| Creator Profile Setup     | 02/04/2025, 10:50:52 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=en_US)      |
+| What Is Fraud             | 02/04/2025, 10:49:54 am   | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=en_US)              |
 
 
 

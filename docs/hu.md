@@ -4,9 +4,10 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                       | Last Updated (dd/mm/yyyy) | Link                                                                             |
-|----------------------------|---------------------------|----------------------------------------------------------------------------------|
-| Twitch Prime Partner Guide | 08/04/2025, 7:40:27 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=hu)  |
+| Name                             | Last Updated (dd/mm/yyyy) | Link                                                                                   |
+|----------------------------------|---------------------------|----------------------------------------------------------------------------------------|
+| How To Manage Harassment In Chat | 17/07/2025, 7:51:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=hu)  |
+| Twitch Prime Partner Guide       | 08/04/2025, 7:40:27 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=hu)        |
 
 
 
