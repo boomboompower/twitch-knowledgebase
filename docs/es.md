@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Stream Quality                                           | 17/07/2025, 6:24:39 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)                                            |
 | How To Manage Harassment In Chat                         | 17/07/2025, 7:51:31 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es)                          |
 | Combos                                                   | 17/07/2025, 7:32:04 am    | [Link](https://help.twitch.tv/s/article/combos?language=es)                                                    |
 | Leaderboards Guide                                       | 17/07/2025, 2:41:46 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=es)                                        |
@@ -14,7 +15,6 @@
 | What Is The Front Page                                   | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=es)                                    |
 | Managing Roles For Your Channel                          | 17/07/2025, 2:33:24 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es)                           |
 | Clips Settings                                           | 16/07/2025, 10:26:20 am   | [Link](https://help.twitch.tv/s/article/clips-settings?language=es)                                            |
-| Stream Quality                                           | 15/07/2025, 8:46:16 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)                                            |
 | Partner Front Page                                       | 14/07/2025, 6:32:06 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es)                                        |
 | Two Factor Authentication                                | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es)                                 |
 | How To Use Clips                                         | 09/07/2025, 6:22:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                          |

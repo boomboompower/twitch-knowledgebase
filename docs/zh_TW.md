@@ -61,6 +61,7 @@
 | Payout History Dashboard Guide                           | 02/04/2025, 10:47:45 am   | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=zh_TW)                            |
 | Streamer Community Survey                                | 21/03/2025, 8:39:12 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=zh_TW)                                 |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 20/03/2025, 3:19:05 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=zh_TW)  |
+| Content Approval                                         | 12/03/2025, 11:35:04 am   | [Link](https://help.twitch.tv/s/article/content-approval?language=zh_TW)                                          |
 
 
 
