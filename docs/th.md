@@ -35,7 +35,6 @@
 | Twitch Prime Revenue Guide                       | 08/04/2025, 7:40:27 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-revenue-guide?language=th)                        |
 | Guide To Cheering With Bits                      | 05/04/2025, 10:33:32 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=th)                       |
 | Payout History Dashboard Guide                   | 02/04/2025, 10:47:44 am   | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=th)                    |
-| Streamer Community Survey                        | 21/03/2025, 6:38:29 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=th)                         |
 
 
 
