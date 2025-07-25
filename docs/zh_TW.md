@@ -6,7 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
-| Stream Quality                                   | 24/07/2025, 5:42:59 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                                    |
+| Stream Quality                                   | 24/07/2025, 1:53:07 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                                    |
 | Gift Card                                        | 23/07/2025, 2:31:06 pm    | [Link](https://help.twitch.tv/s/article/gift-card?language=zh_TW)                                         |
 | Requesting Your Data From Twitch                 | 23/07/2025, 7:01:53 am    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=zh_TW)                  |
 | Simulcasting Guidelines                          | 22/07/2025, 3:30:05 am    | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=zh_TW)                           |
@@ -62,7 +62,6 @@
 | Creator Profile Setup                            | 02/04/2025, 10:50:54 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=zh_TW)                             |
 | What Is Fraud                                    | 02/04/2025, 10:49:56 am   | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=zh_TW)                                     |
 | Payout History Dashboard Guide                   | 02/04/2025, 10:47:45 am   | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=zh_TW)                    |
-| Streamer Community Survey                        | 21/03/2025, 8:39:12 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=zh_TW)                         |
 
 
 

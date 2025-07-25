@@ -6,7 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
-| Stream Quality                                   | 24/07/2025, 5:42:59 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                                    |
+| Stream Quality                                   | 24/07/2025, 9:08:34 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                                    |
 | Gift Card                                        | 23/07/2025, 8:09:34 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=es_MX)                                         |
 | Requesting Your Data From Twitch                 | 23/07/2025, 7:01:55 am    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=es_MX)                  |
 | Simulcasting Guidelines                          | 22/07/2025, 3:30:04 am    | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=es_MX)                           |
@@ -62,8 +62,6 @@
 | Prime Gaming Revenue Guide                       | 08/04/2025, 7:40:36 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)                        |
 | Creator Profile Setup                            | 02/04/2025, 10:50:53 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es_MX)                             |
 | What Is Fraud                                    | 02/04/2025, 10:49:55 am   | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=es_MX)                                     |
-| Payout History Dashboard Guide                   | 02/04/2025, 10:47:43 am   | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=es_MX)                    |
-| Streamer Community Survey                        | 21/03/2025, 8:39:14 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=es_MX)                         |
 
 
 

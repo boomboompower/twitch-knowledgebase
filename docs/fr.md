@@ -6,7 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
-| Stream Quality                                   | 24/07/2025, 5:42:59 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)                                    |
+| Stream Quality                                   | 24/07/2025, 8:48:03 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)                                    |
 | Gift Card                                        | 23/07/2025, 7:54:35 pm    | [Link](https://help.twitch.tv/s/article/gift-card?language=fr)                                         |
 | Requesting Your Data From Twitch                 | 23/07/2025, 7:01:55 am    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=fr)                  |
 | Simulcasting Guidelines                          | 22/07/2025, 3:30:04 am    | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=fr)                           |
@@ -62,7 +62,6 @@
 | Creator Profile Setup                            | 02/04/2025, 10:50:53 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=fr)                             |
 | What Is Fraud                                    | 02/04/2025, 10:49:55 am   | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=fr)                                     |
 | Payout History Dashboard Guide                   | 02/04/2025, 10:47:43 am   | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=fr)                    |
-| Streamer Community Survey                        | 21/03/2025, 8:39:10 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=fr)                         |
 
 
 
