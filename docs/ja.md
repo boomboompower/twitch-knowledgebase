@@ -6,12 +6,12 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Stream Quality                                     | 25/07/2025, 5:20:34 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)                                      |
 | Removing Recommendations You Are Not Interested In | 25/07/2025, 4:47:09 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=ja)  |
 | Patch Notes 20                                     | 25/07/2025, 4:46:35 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=ja)                                      |
 | Dj Program Faq                                     | 25/07/2025, 4:44:34 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=ja)                                      |
 | Content Classification Labels                      | 25/07/2025, 4:43:34 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=ja)                       |
 | Achievements                                       | 25/07/2025, 4:43:05 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ja)                                        |
-| Stream Quality                                     | 24/07/2025, 5:42:59 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)                                      |
 | Gift Card                                          | 23/07/2025, 3:50:37 pm    | [Link](https://help.twitch.tv/s/article/gift-card?language=ja)                                           |
 | Requesting Your Data From Twitch                   | 23/07/2025, 7:01:55 am    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=ja)                    |
 | Simulcasting Guidelines                            | 22/07/2025, 3:30:04 am    | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=ja)                             |
