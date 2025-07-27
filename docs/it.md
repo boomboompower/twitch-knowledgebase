@@ -69,53 +69,52 @@
 ## Article-2
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
 
-| Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
-|---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
-| Twitch Ambassador Program                   | 07/03/2025, 0:21:17 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=it)                    |
-| Payout Details Faq                          | 24/02/2025, 9:42:37 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=it)                           |
-| Twitch Affiliate Program Faq                | 24/02/2025, 9:42:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=it)                 |
-| Adding A Game And Box Art To The Directory  | 27/01/2025, 8:10:03 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=it)   |
-| Creator Dashboard                           | 27/01/2025, 8:09:34 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=it)                            |
-| Twitch Charity                              | 27/01/2025, 8:07:07 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=it)                               |
-| Sponsored Subscriptions                     | 23/01/2025, 2:50:55 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=it)                      |
-| Streamer Read Ads                           | 23/01/2025, 2:50:13 am    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=it)                            |
-| Channel Skins                               | 23/01/2025, 2:49:20 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=it)                                |
-| Broadcasting Guidelines                     | 18/01/2025, 0:14:28 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=it)                      |
-| Stream Deck Setup                           | 18/01/2025, 0:13:14 pm    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=it)                            |
-| How To Allow Ads Browser                    | 14/01/2025, 3:57:06 am    | [Link](https://help.twitch.tv/s/article/how-to-allow-ads-browser?language=it)                     |
-| Dmca And Copyright Faqs                     | 07/01/2025, 2:30:42 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=it)                      |
-| Username Rename And Recycling Policies      | 07/01/2025, 2:29:49 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=it)       |
-| Transcoding Options Faq                     | 07/01/2025, 2:29:29 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=it)                      |
-| Shared Chat                                 | 20/12/2024, 7:30:05 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=it)                                  |
-| Beast Games                                 | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=it)                                  |
-| Guest Star Getting Started                  | 17/12/2024, 7:07:40 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=it)                   |
-| How To Sub Only Archives                    | 17/12/2024, 7:00:32 pm    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=it)                     |
-| Stream Summary                              | 17/12/2024, 6:58:07 pm    | [Link](https://help.twitch.tv/s/article/stream-summary?language=it)                               |
-| How To Upgrade Prime                        | 17/12/2024, 10:06:51 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=it)                         |
-| Experiments                                 | 17/12/2024, 10:06:13 am   | [Link](https://help.twitch.tv/s/article/experiments?language=it)                                  |
-| Stories                                     | 17/12/2024, 10:05:48 am   | [Link](https://help.twitch.tv/s/article/stories?language=it)                                      |
-| Failed Payments                             | 17/12/2024, 10:05:12 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=it)                              |
-| Twitch Teams                                | 17/12/2024, 10:02:56 am   | [Link](https://help.twitch.tv/s/article/twitch-teams?language=it)                                 |
-| Mission Based Drops                         | 17/12/2024, 10:02:32 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=it)                          |
-| Chat Commands                               | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=it)                                |
-| Mobile Creator Mode                         | 16/12/2024, 8:58:03 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=it)                          |
-| Twitch Account Access Login Issues Guide    | 16/12/2024, 8:53:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=it)     |
-| Understanding Viewer Count Vs Users In Chat | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=it)  |
-| Dj Secondary                                | 12/12/2024, 8:25:09 pm    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=it)                                 |
-| Creator Goals                               | 11/12/2024, 10:54:11 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=it)                                |
-| Annual Recap                                | 11/12/2024, 1:50:10 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=it)                                 |
-| Stream Display Ads                          | 06/12/2024, 2:48:08 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=it)                           |
-| Alerts By Twitch Events                     | 03/12/2024, 8:30:36 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=it)                      |
-| Bonus Round                                 | 29/11/2024, 7:56:32 pm    | [Link](https://help.twitch.tv/s/article/bonus-round?language=it)                                  |
-| Supported Mobile Os                         | 29/11/2024, 7:36:32 pm    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=it)                          |
-| Managing Your Phone Number                  | 26/11/2024, 3:39:47 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=it)                   |
-| Drops Prime Difference                      | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=it)                       |
-| How Do I Stream Faq                         | 22/11/2024, 5:43:19 am    | [Link](https://help.twitch.tv/s/article/how-do-i-stream-faq?language=it)                          |
-| Requesting Your Data From Twitch            | 21/11/2024, 7:08:37 pm    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=it)             |
-| Delete Twitch Account                       | 21/11/2024, 7:08:33 pm    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=it)                        |
-| Children On Twitch                          | 21/11/2024, 7:08:33 pm    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=it)                           |
-| Rejected Payout Faq                         | 21/11/2024, 0:32:19 pm    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=it)                          |
-| Guide To Using Twitch Inspector             | 21/11/2024, 11:17:07 am   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=it)              |
+| Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
+|----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| About Account Suspensions Dmca Suspensions And Chat Bans | 20/03/2025, 9:20:34 pm    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=it)  |
+| Content Approval                                         | 12/03/2025, 11:35:03 am   | [Link](https://help.twitch.tv/s/article/content-approval?language=it)                                          |
+| Twitch Ambassador Program                                | 07/03/2025, 0:21:17 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=it)                                 |
+| Payout Details Faq                                       | 24/02/2025, 9:42:37 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=it)                                        |
+| Twitch Affiliate Program Faq                             | 24/02/2025, 9:42:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=it)                              |
+| Adding A Game And Box Art To The Directory               | 27/01/2025, 8:10:03 pm    | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=it)                |
+| Creator Dashboard                                        | 27/01/2025, 8:09:34 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=it)                                         |
+| Twitch Charity                                           | 27/01/2025, 8:07:07 pm    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=it)                                            |
+| Sponsored Subscriptions                                  | 23/01/2025, 2:50:55 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=it)                                   |
+| Streamer Read Ads                                        | 23/01/2025, 2:50:13 am    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=it)                                         |
+| Channel Skins                                            | 23/01/2025, 2:49:20 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=it)                                             |
+| Broadcasting Guidelines                                  | 18/01/2025, 0:14:28 pm    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=it)                                   |
+| Stream Deck Setup                                        | 18/01/2025, 0:13:14 pm    | [Link](https://help.twitch.tv/s/article/stream-deck-setup?language=it)                                         |
+| How To Allow Ads Browser                                 | 14/01/2025, 3:57:06 am    | [Link](https://help.twitch.tv/s/article/how-to-allow-ads-browser?language=it)                                  |
+| Dmca And Copyright Faqs                                  | 07/01/2025, 2:30:42 am    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=it)                                   |
+| Username Rename And Recycling Policies                   | 07/01/2025, 2:29:49 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=it)                    |
+| Transcoding Options Faq                                  | 07/01/2025, 2:29:29 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=it)                                   |
+| Shared Chat                                              | 20/12/2024, 7:30:05 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=it)                                               |
+| Beast Games                                              | 20/12/2024, 8:36:18 am    | [Link](https://help.twitch.tv/s/article/beast-games?language=it)                                               |
+| Guest Star Getting Started                               | 17/12/2024, 7:07:40 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=it)                                |
+| How To Sub Only Archives                                 | 17/12/2024, 7:00:32 pm    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=it)                                  |
+| Stream Summary                                           | 17/12/2024, 6:58:07 pm    | [Link](https://help.twitch.tv/s/article/stream-summary?language=it)                                            |
+| How To Upgrade Prime                                     | 17/12/2024, 10:06:51 am   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=it)                                      |
+| Experiments                                              | 17/12/2024, 10:06:13 am   | [Link](https://help.twitch.tv/s/article/experiments?language=it)                                               |
+| Stories                                                  | 17/12/2024, 10:05:48 am   | [Link](https://help.twitch.tv/s/article/stories?language=it)                                                   |
+| Failed Payments                                          | 17/12/2024, 10:05:12 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=it)                                           |
+| Twitch Teams                                             | 17/12/2024, 10:02:56 am   | [Link](https://help.twitch.tv/s/article/twitch-teams?language=it)                                              |
+| Mission Based Drops                                      | 17/12/2024, 10:02:32 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=it)                                       |
+| Chat Commands                                            | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=it)                                             |
+| Mobile Creator Mode                                      | 16/12/2024, 8:58:03 pm    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=it)                                       |
+| Twitch Account Access Login Issues Guide                 | 16/12/2024, 8:53:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=it)                  |
+| Understanding Viewer Count Vs Users In Chat              | 14/12/2024, 6:18:38 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=it)               |
+| Dj Secondary                                             | 12/12/2024, 8:25:09 pm    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=it)                                              |
+| Creator Goals                                            | 11/12/2024, 10:54:11 am   | [Link](https://help.twitch.tv/s/article/creator-goals?language=it)                                             |
+| Annual Recap                                             | 11/12/2024, 1:50:10 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=it)                                              |
+| Stream Display Ads                                       | 06/12/2024, 2:48:08 am    | [Link](https://help.twitch.tv/s/article/stream-display-ads?language=it)                                        |
+| Alerts By Twitch Events                                  | 03/12/2024, 8:30:36 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=it)                                   |
+| Bonus Round                                              | 29/11/2024, 7:56:32 pm    | [Link](https://help.twitch.tv/s/article/bonus-round?language=it)                                               |
+| Supported Mobile Os                                      | 29/11/2024, 7:36:32 pm    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=it)                                       |
+| Managing Your Phone Number                               | 26/11/2024, 3:39:47 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=it)                                |
+| Drops Prime Difference                                   | 23/11/2024, 5:35:17 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=it)                                    |
+| How Do I Stream Faq                                      | 22/11/2024, 5:43:19 am    | [Link](https://help.twitch.tv/s/article/how-do-i-stream-faq?language=it)                                       |
+| Delete Twitch Account                                    | 21/11/2024, 7:08:33 pm    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=it)                                     |
+| Children On Twitch                                       | 21/11/2024, 7:08:33 pm    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=it)                                        |
 
 
 
@@ -124,6 +123,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Rejected Payout Faq                                | 21/11/2024, 0:32:19 pm    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=it)                                 |
+| Guide To Using Twitch Inspector                    | 21/11/2024, 11:17:07 am   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=it)                     |
 | How To Use Automod                                 | 20/11/2024, 7:19:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=it)                                  |
 | When Am I Getting Paid                             | 16/11/2024, 9:58:23 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=it)                              |
 | Research                                           | 13/11/2024, 8:55:18 am    | [Link](https://help.twitch.tv/s/article/research?language=it)                                            |
@@ -149,8 +150,6 @@
 | Twitch Charity Viewers                             | 14/05/2024, 10:14:25 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=it)                              |
 | Subpoint Vs Subcount                               | 01/05/2024, 8:50:03 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=it)                                |
 | Alerts By Twitch Faq                               | 26/04/2024, 5:07:12 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=it)                                |
-| Supported Browsers                                 | 20/04/2024, 7:06:09 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=it)                                  |
-| Sponsorship Experiments Faq                        | 13/04/2024, 0:21:24 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=it)                         |
 
 
 
@@ -159,6 +158,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Supported Browsers                                            | 20/04/2024, 7:06:09 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=it)                                             |
+| Sponsorship Experiments Faq                                   | 13/04/2024, 0:21:24 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=it)                                    |
 | Twitch Music Getting Started                                  | 08/04/2024, 5:30:37 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=it)                                   |
 | Setup Alerts By Twitch                                        | 27/03/2024, 8:07:03 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=it)                                         |
 | Authy Faq                                                     | 23/02/2024, 4:01:17 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=it)                                                      |
@@ -196,8 +197,6 @@
 | Alerts By Twitch Interactive Resubs                           | 26/07/2023, 4:07:09 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=it)                            |
 | Creating An Account With Twitch                               | 19/07/2023, 6:09:05 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=it)                                |
 | Creating Highlights And Stream Markers                        | 18/07/2023, 5:11:27 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=it)                         |
-| Lifetime Subscriber Guide For Partners                        | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=it)                         |
-| Music Options For Streamers                                   | 11/07/2023, 2:52:17 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=it)                                    |
 
 
 
@@ -206,6 +205,8 @@
 
 | Name                                    | Last Updated (dd/mm/yyyy) | Link                                                                                          |
 |-----------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
+| Lifetime Subscriber Guide For Partners  | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=it)   |
+| Music Options For Streamers             | 11/07/2023, 2:52:17 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=it)              |
 | Refunds On Twitch                       | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=it)                        |
 | Patch Notes 19                          | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=it)                           |
 | Local Recording                         | 30/05/2023, 5:46:33 pm    | [Link](https://help.twitch.tv/s/article/local-recording?language=it)                          |
@@ -248,7 +249,6 @@
 | Stream With Pride                       | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=it)                        |
 | Rpg Megacheer                           | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=it)                            |
 | Megacheer Food Fight                    | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=it)                     |
-| Community Meetups Powered By Twitch     | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=it)      |
 
 
 
@@ -257,6 +257,7 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Community Meetups Powered By Twitch               | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=it)                |
 | Twitch Prime Program Faq                          | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-program-faq?language=it)                           |
 | How To Claim In Game Content                      | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=it)                       |
 | Twitch Prime Guide                                | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-guide?language=it)                                 |
@@ -276,27 +277,15 @@
 | Audio Ads                                         | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/audio-ads?language=it)                                          |
 | Extensions Switch With Your Game Selection        | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection?language=it)         |
 | Recommended Hardware For Broadcasting             | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=it)              |
-| Amazon Associates                                 | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/amazon-associates?language=it)                                  |
 | Low Latency Video                                 | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/low-latency-video?language=it)                                  |
 | Nba G League Co Streaming Guide                   | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/nba-g-league-co-streaming-guide?language=it)                    |
 | How To Use Go Live Notifications                  | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=it)                   |
 | How To Use Collections                            | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/how-to-use-collections?language=it)                             |
-| Getting Started With Amazon Associates            | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=it)             |
 | Where Are My Notifications                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=it)                         |
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=it)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=it)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=it)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=it)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                   | Last Updated (dd/mm/yyyy) | Link                                                                         |
-|------------------------|---------------------------|------------------------------------------------------------------------------|
-| Stream Quality         | 24/07/2025, 5:42:59 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=it)          |
-| What Is The Front Page | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=it)  |
 
 
 

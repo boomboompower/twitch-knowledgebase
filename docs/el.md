@@ -47,12 +47,3 @@
 
 
 
-## Article-6
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-6.xml) this sitemap
-
-| Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
-|----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
-| Getting Started With Amazon Associates | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=el)  |
-
-
-

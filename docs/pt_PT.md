@@ -20,12 +20,13 @@
 ## Article-2
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
 
-| Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
-|----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
-| Twitch Affiliate Program Faq           | 15/02/2025, 4:29:28 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)            |
-| Username Rename And Recycling Policies | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=pt_PT)  |
-| Chat Commands                          | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_PT)                           |
-| Stream Summary                         | 14/12/2024, 6:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                          |
+| Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
+|----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| About Account Suspensions Dmca Suspensions And Chat Bans | 14/03/2025, 4:03:59 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)  |
+| Twitch Affiliate Program Faq                             | 15/02/2025, 4:29:28 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)                              |
+| Username Rename And Recycling Policies                   | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=pt_PT)                    |
+| Chat Commands                                            | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_PT)                                             |
+| Stream Summary                                           | 14/12/2024, 6:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                                            |
 
 
 
@@ -51,7 +52,6 @@
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 08/09/2023, 1:58:09 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pt_PT)  |
 | Twitch Account Settings                                       | 17/08/2023, 11:19:45 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_PT)                                        |
 | Account Hacked                                                | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=pt_PT)                                                 |
-| Lifetime Subscriber Guide For Partners                        | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=pt_PT)                         |
 
 
 
@@ -60,12 +60,12 @@
 
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                                  |
 |----------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------|
+| Lifetime Subscriber Guide For Partners       | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=pt_PT)        |
 | How To Use Host Mode                         | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=pt_PT)                          |
 | Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=pt_PT)  |
 | Twitch Content Sharing Guidelines            | 13/10/2022, 7:53:05 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=pt_PT)             |
 | A Tour Of Your Channel Page                  | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=pt_PT)                   |
 | How To Subscribe                             | 16/06/2022, 8:35:16 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                              |
-| Community Meetups Powered By Twitch          | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=pt_PT)           |
 
 
 
@@ -74,6 +74,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Community Meetups Powered By Twitch           | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=pt_PT)            |
 | How To Claim In Game Content                  | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=pt_PT)                   |
 | How To Use Twitch Prime Subscriptions         | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=pt_PT)          |
 | Twitch Merchandise Store Support Faq          | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=pt_PT)           |
@@ -83,7 +84,6 @@
 | Recommended Hardware For Broadcasting         | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=pt_PT)          |
 | How To Use Go Live Notifications              | 22/10/2021, 8:53:07 am    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=pt_PT)               |
 | How To Use Collections                        | 22/10/2021, 8:53:07 am    | [Link](https://help.twitch.tv/s/article/how-to-use-collections?language=pt_PT)                         |
-| Getting Started With Amazon Associates        | 22/10/2021, 8:53:07 am    | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=pt_PT)         |
 | Smart Notification Setting                    | 22/10/2021, 8:52:25 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_PT)                     |
 
 

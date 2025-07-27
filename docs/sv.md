@@ -69,7 +69,6 @@
 | Guide To Custom Messages                          | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=sv)                           |
 | Ad Offer Faq                                      | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=sv)                                       |
 | Recommended Hardware For Broadcasting             | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=sv)              |
-| Getting Started With Amazon Associates            | 22/10/2021, 8:53:05 am    | [Link](https://help.twitch.tv/s/article/getting-started-with-amazon-associates?language=sv)             |
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=sv)                 |
 
 
