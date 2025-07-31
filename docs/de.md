@@ -4,64 +4,62 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
-|--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
-| Date Of Birth Changes                            | 30/07/2025, 6:26:02 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=de)                             |
-| How To Add Stream Delay                          | 29/07/2025, 8:40:00 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=de)                           |
-| Stream Quality                                   | 25/07/2025, 5:45:36 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=de)                                    |
-| Gift Card                                        | 23/07/2025, 9:41:35 pm    | [Link](https://help.twitch.tv/s/article/gift-card?language=de)                                         |
-| Requesting Your Data From Twitch                 | 23/07/2025, 7:01:54 am    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=de)                  |
-| Simulcasting Guidelines                          | 22/07/2025, 3:30:03 am    | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=de)                           |
-| How To Manage Harassment In Chat                 | 17/07/2025, 7:51:31 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=de)                  |
-| Leaderboards Guide                               | 17/07/2025, 2:41:45 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=de)                                |
-| Featured Clips                                   | 17/07/2025, 2:41:20 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=de)                                    |
-| How To Delete And Manage Clips                   | 17/07/2025, 2:41:13 am    | [Link](https://help.twitch.tv/s/article/how-to-delete-and-manage-clips?language=de)                    |
-| What Is The Front Page                           | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=de)                            |
-| Managing Roles For Your Channel                  | 17/07/2025, 2:33:23 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=de)                   |
-| Clips Settings                                   | 16/07/2025, 10:26:20 am   | [Link](https://help.twitch.tv/s/article/clips-settings?language=de)                                    |
-| Partner Front Page                               | 14/07/2025, 7:00:48 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=de)                                |
-| Two Factor Authentication                        | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=de)                         |
-| How To Use Clips                                 | 09/07/2025, 6:22:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                  |
-| Twitch Stream Key Faq                            | 28/06/2025, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=de)                             |
-| Getting Started On Twitch                        | 27/06/2025, 8:19:04 pm    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=de)                         |
-| Recommended Software For Broadcasting            | 24/06/2025, 7:53:04 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=de)             |
-| Gift Subscriptions For Creators                  | 19/06/2025, 7:50:08 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=de)                   |
-| Channel Points Faq                               | 19/06/2025, 2:19:51 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=de)                                |
-| Viewer Channel Point Guide                       | 19/06/2025, 2:19:41 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=de)                        |
-| Streamelements Campaigns                         | 19/06/2025, 2:17:00 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=de)                          |
-| Channel Page Setup                               | 19/06/2025, 2:15:47 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=de)                                |
-| Updating Payment Information Transaction History | 18/06/2025, 10:45:32 pm   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=de)  |
-| How To Use Badges                                | 18/06/2025, 8:48:23 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=de)                                 |
-| Languages On Twitch                              | 18/06/2025, 8:46:30 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=de)                               |
-| Display Names On Twitch                          | 18/06/2025, 8:45:44 am    | [Link](https://help.twitch.tv/s/article/display-names-on-twitch?language=de)                           |
-| How To Provide Feedback                          | 17/06/2025, 8:47:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=de)                           |
-| Payout Balance Faq                               | 17/06/2025, 5:46:24 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=de)                                |
-| Local Sub Price Countries                        | 17/06/2025, 2:15:50 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=de)                         |
-| Partner Program Overview                         | 14/06/2025, 4:24:21 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                          |
-| Twitch Turbo Guide                               | 14/06/2025, 4:23:08 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=de)                                |
-| Revenue                                          | 14/06/2025, 4:21:55 am    | [Link](https://help.twitch.tv/s/article/revenue?language=de)                                           |
-| Combos                                           | 10/06/2025, 7:25:44 am    | [Link](https://help.twitch.tv/s/article/combos?language=de)                                            |
-| Achievements                                     | 06/06/2025, 6:54:34 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=de)                                      |
-| Partner Discord                                  | 05/06/2025, 9:10:04 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=de)                                   |
-| Mod View                                         | 04/06/2025, 10:39:04 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                          |
-| Joining The Affiliate Program                    | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=de)                     |
-| How To Use Whispers                              | 30/05/2025, 9:53:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=de)                               |
-| Plus Program                                     | 21/05/2025, 10:10:36 pm   | [Link](https://help.twitch.tv/s/article/plus-program?language=de)                                      |
-| Disconnect Protection                            | 15/05/2025, 8:05:31 pm    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=de)                             |
-| Founders Badge                                   | 10/05/2025, 4:43:36 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=de)                                    |
-| How To Contact Support                           | 10/05/2025, 3:14:36 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=de)                            |
-| Shared Viewership                                | 10/05/2025, 3:13:29 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=de)                                 |
-| List Of Prohibited Games                         | 10/05/2025, 3:12:56 am    | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=de)                          |
-| Emote Guidelines                                 | 10/05/2025, 3:12:40 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=de)                                  |
-| Custom Bit Badges Guide                          | 09/05/2025, 11:01:32 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=de)                           |
-| Twitch Chat Badges Guide                         | 02/05/2025, 8:59:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=de)                          |
-| Branded Content Policy                           | 26/04/2025, 9:57:37 am    | [Link](https://help.twitch.tv/s/article/branded-content-policy?language=de)                            |
-| Content Classification Labels                    | 26/04/2025, 9:57:36 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=de)                     |
-| Video On Demand                                  | 15/04/2025, 3:39:17 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=de)                                   |
-| Dj Program Faq                                   | 12/04/2025, 10:20:43 am   | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=de)                                    |
-| Guide To Cheering With Bits                      | 11/04/2025, 9:49:04 pm    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=de)                       |
-| Prime Gaming Revenue Guide                       | 08/04/2025, 7:40:27 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=de)                        |
-| Creator Profile Setup                            | 02/04/2025, 10:50:53 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=de)                             |
+| Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
+|---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Charity Charities                                      | 31/07/2025, 8:18:40 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-charities?language=de)                                       |
+| Ads Manager                                                   | 31/07/2025, 8:18:21 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=de)                                                    |
+| Founders Badge                                                | 31/07/2025, 8:18:15 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=de)                                                 |
+| Streamelements Campaigns                                      | 31/07/2025, 8:18:04 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=de)                                       |
+| Creator Goals                                                 | 31/07/2025, 8:17:15 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=de)                                                  |
+| Video On Demand                                               | 31/07/2025, 8:16:30 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=de)                                                |
+| Payout Details Faq                                            | 31/07/2025, 8:16:22 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=de)                                             |
+| Subscriber Emote Guide                                        | 31/07/2025, 8:16:14 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=de)                                         |
+| Subscriber Badge Guide                                        | 31/07/2025, 8:15:23 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=de)                                         |
+| Partner Onboarding Guide                                      | 31/07/2025, 8:15:06 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=de)                                       |
+| Amazon Tax Information Interview And Irs Annual Reporting Faq | 31/07/2025, 8:14:45 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=de)  |
+| Payout Balance Faq                                            | 31/07/2025, 8:14:05 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=de)                                             |
+| Twitch Charity                                                | 31/07/2025, 8:13:43 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=de)                                                 |
+| Twitch Affiliate Program Faq                                  | 31/07/2025, 8:13:36 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)                                   |
+| When Am I Getting Paid                                        | 31/07/2025, 8:13:20 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=de)                                         |
+| Leaderboards Guide                                            | 31/07/2025, 8:12:58 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=de)                                             |
+| Channel Points Guide                                          | 31/07/2025, 8:09:49 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=de)                                           |
+| Channel Points Faq                                            | 31/07/2025, 8:09:03 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=de)                                             |
+| Stories                                                       | 31/07/2025, 8:08:49 am    | [Link](https://help.twitch.tv/s/article/stories?language=de)                                                        |
+| Channel Points Predictions                                    | 31/07/2025, 8:08:42 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=de)                                     |
+| Plus Program                                                  | 31/07/2025, 8:08:33 am    | [Link](https://help.twitch.tv/s/article/plus-program?language=de)                                                   |
+| Cheering For Partners Affiliates                              | 31/07/2025, 8:08:26 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=de)                               |
+| Emote Guidelines                                              | 31/07/2025, 8:07:53 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=de)                                               |
+| Affiliate Emote Prefix Change                                 | 31/07/2025, 8:07:23 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=de)                                  |
+| Twitch Charity Faqs                                           | 31/07/2025, 8:06:32 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=de)                                            |
+| Date Of Birth Changes                                         | 30/07/2025, 6:26:02 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=de)                                          |
+| How To Add Stream Delay                                       | 29/07/2025, 8:40:00 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=de)                                        |
+| Stream Quality                                                | 25/07/2025, 5:45:36 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=de)                                                 |
+| Gift Card                                                     | 23/07/2025, 9:41:35 pm    | [Link](https://help.twitch.tv/s/article/gift-card?language=de)                                                      |
+| Requesting Your Data From Twitch                              | 23/07/2025, 7:01:54 am    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=de)                               |
+| Simulcasting Guidelines                                       | 22/07/2025, 3:30:03 am    | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=de)                                        |
+| How To Manage Harassment In Chat                              | 17/07/2025, 7:51:31 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=de)                               |
+| Featured Clips                                                | 17/07/2025, 2:41:20 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=de)                                                 |
+| How To Delete And Manage Clips                                | 17/07/2025, 2:41:13 am    | [Link](https://help.twitch.tv/s/article/how-to-delete-and-manage-clips?language=de)                                 |
+| What Is The Front Page                                        | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=de)                                         |
+| Managing Roles For Your Channel                               | 17/07/2025, 2:33:23 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=de)                                |
+| Clips Settings                                                | 16/07/2025, 10:26:20 am   | [Link](https://help.twitch.tv/s/article/clips-settings?language=de)                                                 |
+| Partner Front Page                                            | 14/07/2025, 7:00:48 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=de)                                             |
+| Two Factor Authentication                                     | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=de)                                      |
+| How To Use Clips                                              | 09/07/2025, 6:22:33 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                               |
+| Twitch Stream Key Faq                                         | 28/06/2025, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=de)                                          |
+| Getting Started On Twitch                                     | 27/06/2025, 8:19:04 pm    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=de)                                      |
+| Recommended Software For Broadcasting                         | 24/06/2025, 7:53:04 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=de)                          |
+| Gift Subscriptions For Creators                               | 19/06/2025, 7:50:08 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=de)                                |
+| Viewer Channel Point Guide                                    | 19/06/2025, 2:19:41 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=de)                                     |
+| Channel Page Setup                                            | 19/06/2025, 2:15:47 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=de)                                             |
+| Updating Payment Information Transaction History              | 18/06/2025, 10:45:32 pm   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=de)               |
+| How To Use Badges                                             | 18/06/2025, 8:48:23 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=de)                                              |
+| Languages On Twitch                                           | 18/06/2025, 8:46:30 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=de)                                            |
+| Display Names On Twitch                                       | 18/06/2025, 8:45:44 am    | [Link](https://help.twitch.tv/s/article/display-names-on-twitch?language=de)                                        |
+| How To Provide Feedback                                       | 17/06/2025, 8:47:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=de)                                        |
+| Local Sub Price Countries                                     | 17/06/2025, 2:15:50 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=de)                                      |
+| Partner Program Overview                                      | 14/06/2025, 4:24:21 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                       |
+| Twitch Turbo Guide                                            | 14/06/2025, 4:23:08 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=de)                                             |
 
 
 
@@ -293,10 +291,36 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                          |
-|-------------------------|---------------------------|-------------------------------------------------------------------------------|
-| How To Add Stream Delay | 29/07/2025, 8:40:00 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=de)  |
-| What Is The Front Page  | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=de)   |
+| Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                |
+|-------------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Twitch Charity Charities      | 31/07/2025, 8:18:40 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-charities?language=de)       |
+| Founders Badge                | 31/07/2025, 8:18:15 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=de)                 |
+| Streamelements Campaigns      | 31/07/2025, 8:18:04 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=de)       |
+| Creator Goals                 | 31/07/2025, 8:17:15 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=de)                  |
+| Video On Demand               | 31/07/2025, 8:16:30 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=de)                |
+| Payout Details Faq            | 31/07/2025, 8:16:22 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=de)             |
+| Subscriber Emote Guide        | 31/07/2025, 8:16:14 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=de)         |
+| Payout Balance Faq            | 31/07/2025, 8:14:05 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=de)             |
+| Twitch Charity                | 31/07/2025, 8:13:43 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=de)                 |
+| When Am I Getting Paid        | 31/07/2025, 8:13:20 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=de)         |
+| Leaderboards Guide            | 31/07/2025, 8:12:58 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=de)             |
+| Channel Points Guide          | 31/07/2025, 8:09:49 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=de)           |
+| Stories                       | 31/07/2025, 8:08:49 am    | [Link](https://help.twitch.tv/s/article/stories?language=de)                        |
+| Channel Points Predictions    | 31/07/2025, 8:08:42 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=de)     |
+| Plus Program                  | 31/07/2025, 8:08:33 am    | [Link](https://help.twitch.tv/s/article/plus-program?language=de)                   |
+| Affiliate Emote Prefix Change | 31/07/2025, 8:07:23 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=de)  |
+| Twitch Charity Faqs           | 31/07/2025, 8:06:32 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=de)            |
+| How To Add Stream Delay       | 29/07/2025, 8:40:00 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=de)        |
+| Stream Quality                | 25/07/2025, 5:45:36 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=de)                 |
+| Gift Card                     | 23/07/2025, 9:41:35 pm    | [Link](https://help.twitch.tv/s/article/gift-card?language=de)                      |
+| Featured Clips                | 17/07/2025, 2:41:20 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=de)                 |
+| What Is The Front Page        | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=de)         |
+| Partner Front Page            | 14/07/2025, 7:00:48 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=de)             |
+| Twitch Stream Key Faq         | 28/06/2025, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=de)          |
+| Getting Started On Twitch     | 27/06/2025, 8:19:04 pm    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=de)      |
+| How To Use Badges             | 18/06/2025, 8:48:23 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=de)              |
+| Languages On Twitch           | 18/06/2025, 8:46:30 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=de)            |
+| Local Sub Price Countries     | 17/06/2025, 2:15:50 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=de)      |
 
 
 

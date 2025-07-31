@@ -4,12 +4,12 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
-|---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| How To Manage Harassment In Chat      | 17/07/2025, 7:51:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=cs)       |
-| Recommended Software For Broadcasting | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=cs)  |
-| Twitch Turbo Guide                    | 14/06/2025, 4:23:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=cs)                     |
-| Prime Gaming Revenue Guide            | 08/04/2025, 7:40:27 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=cs)             |
+| Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
+|---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Amazon Tax Information Interview And Irs Annual Reporting Faq | 31/07/2025, 8:14:45 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=cs)  |
+| How To Manage Harassment In Chat                              | 17/07/2025, 7:51:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=cs)                               |
+| Recommended Software For Broadcasting                         | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=cs)                          |
+| Twitch Turbo Guide                                            | 14/06/2025, 4:23:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=cs)                                             |
 
 
 

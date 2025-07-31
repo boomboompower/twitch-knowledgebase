@@ -4,10 +4,9 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Twitch Turbo Guide          | 14/06/2025, 4:23:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=el)           |
-| Guide To Cheering With Bits | 05/04/2025, 10:33:32 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=el)  |
+| Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
+|--------------------|---------------------------|--------------------------------------------------------------------------|
+| Twitch Turbo Guide | 14/06/2025, 4:23:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=el)  |
 
 
 

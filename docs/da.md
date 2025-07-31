@@ -4,12 +4,12 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
-|---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| How To Manage Harassment In Chat      | 17/07/2025, 7:51:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=da)       |
-| Two Factor Authentication With Authy  | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=da)   |
-| Recommended Software For Broadcasting | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=da)  |
-| Twitch Prime Partner Guide            | 08/04/2025, 7:40:27 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=da)             |
+| Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
+|---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Amazon Tax Information Interview And Irs Annual Reporting Faq | 31/07/2025, 8:14:45 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=da)  |
+| How To Manage Harassment In Chat                              | 17/07/2025, 7:51:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=da)                               |
+| Two Factor Authentication With Authy                          | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=da)                           |
+| Recommended Software For Broadcasting                         | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=da)                          |
 
 
 
