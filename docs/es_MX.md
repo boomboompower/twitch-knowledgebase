@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Discovery Feed                                                | 05/08/2025, 5:37:42 am    | [Link](https://help.twitch.tv/s/article/discovery-feed?language=es_MX)                                                 |
+| Mobile                                                        | 05/08/2025, 5:37:40 am    | [Link](https://help.twitch.tv/s/article/mobile?language=es_MX)                                                         |
 | Twitch Charity Charities                                      | 31/07/2025, 8:18:40 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-charities?language=es_MX)                                       |
 | Ads Manager                                                   | 31/07/2025, 8:18:22 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=es_MX)                                                    |
 | Founders Badge                                                | 31/07/2025, 8:18:16 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=es_MX)                                                 |
@@ -60,7 +62,6 @@
 | Twitch Ambassador Program                                     | 17/06/2025, 3:28:04 am    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=es_MX)                                      |
 | Local Sub Price Countries                                     | 17/06/2025, 2:15:50 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es_MX)                                      |
 | Partner Program Overview                                      | 14/06/2025, 4:24:22 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)                                       |
-| Twitch Turbo Guide                                            | 14/06/2025, 4:23:08 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es_MX)                                             |
 
 
 
@@ -288,6 +289,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                   | Last Updated (dd/mm/yyyy) | Link                                                                            |
+|------------------------|---------------------------|---------------------------------------------------------------------------------|
+| What Is The Front Page | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=es_MX)  |
 
 
 
