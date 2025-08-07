@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Removing Recommendations You Are Not Interested In            | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=de)             |
 | Mobile                                                        | 05/08/2025, 5:37:42 am    | [Link](https://help.twitch.tv/s/article/mobile?language=de)                                                         |
 | Discovery Feed                                                | 05/08/2025, 5:37:35 am    | [Link](https://help.twitch.tv/s/article/discovery-feed?language=de)                                                 |
 | Twitch Charity Charities                                      | 31/07/2025, 8:18:40 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-charities?language=de)                                       |
@@ -60,7 +61,6 @@
 | Display Names On Twitch                                       | 18/06/2025, 8:45:44 am    | [Link](https://help.twitch.tv/s/article/display-names-on-twitch?language=de)                                        |
 | How To Provide Feedback                                       | 17/06/2025, 8:47:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=de)                                        |
 | Local Sub Price Countries                                     | 17/06/2025, 2:15:50 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=de)                                      |
-| Partner Program Overview                                      | 14/06/2025, 4:24:21 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                       |
 
 
 
@@ -300,6 +300,7 @@
 | Name                    | Last Updated (dd/mm/yyyy) | Link                                                                          |
 |-------------------------|---------------------------|-------------------------------------------------------------------------------|
 | How To Add Stream Delay | 29/07/2025, 8:40:00 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=de)  |
+| Stream Quality          | 25/07/2025, 5:45:36 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=de)           |
 | What Is The Front Page  | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=de)   |
 
 
