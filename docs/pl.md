@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Languages On Twitch                                           | 15/08/2025, 4:58:08 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=pl)                                            |
 | Removing Recommendations You Are Not Interested In            | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=pl)             |
 | Ads Manager                                                   | 31/07/2025, 8:18:21 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=pl)                                                    |
 | Founders Badge                                                | 31/07/2025, 8:18:15 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=pl)                                                 |
@@ -34,10 +35,7 @@
 | Recommended Software For Broadcasting                         | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=pl)                          |
 | Viewer Channel Point Guide                                    | 19/06/2025, 2:19:41 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=pl)                                     |
 | Channel Page Setup                                            | 19/06/2025, 2:15:46 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=pl)                                             |
-| Languages On Twitch                                           | 18/06/2025, 8:46:29 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=pl)                                            |
 | How To Provide Feedback                                       | 17/06/2025, 3:37:03 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=pl)                                        |
-| Local Sub Price Countries                                     | 17/06/2025, 2:15:50 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pl)                                      |
-| Updating Payment Information Transaction History              | 14/06/2025, 9:27:45 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=pl)               |
 
 
 

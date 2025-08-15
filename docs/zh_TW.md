@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Shared Chat                                                   | 15/08/2025, 9:26:47 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=zh_TW)                                                    |
+| Languages On Twitch                                           | 15/08/2025, 4:58:10 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=zh_TW)                                            |
+| Stream Quality                                                | 15/08/2025, 3:19:21 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                                                 |
 | Removing Recommendations You Are Not Interested In            | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=zh_TW)             |
 | Mobile                                                        | 31/07/2025, 7:36:04 pm    | [Link](https://help.twitch.tv/s/article/mobile?language=zh_TW)                                                         |
 | Discovery Feed                                                | 31/07/2025, 7:36:04 pm    | [Link](https://help.twitch.tv/s/article/discovery-feed?language=zh_TW)                                                 |
@@ -36,7 +39,6 @@
 | Twitch Charity Faqs                                           | 31/07/2025, 8:06:33 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=zh_TW)                                            |
 | Date Of Birth Changes                                         | 30/07/2025, 6:26:03 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                                          |
 | How To Add Stream Delay                                       | 29/07/2025, 8:40:01 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=zh_TW)                                        |
-| Stream Quality                                                | 24/07/2025, 1:53:07 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                                                 |
 | Gift Card                                                     | 23/07/2025, 2:31:06 pm    | [Link](https://help.twitch.tv/s/article/gift-card?language=zh_TW)                                                      |
 | Requesting Your Data From Twitch                              | 23/07/2025, 7:01:53 am    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=zh_TW)                               |
 | Simulcasting Guidelines                                       | 22/07/2025, 3:30:05 am    | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=zh_TW)                                        |
@@ -56,11 +58,9 @@
 | Viewer Channel Point Guide                                    | 19/06/2025, 2:19:42 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=zh_TW)                                     |
 | Channel Page Setup                                            | 19/06/2025, 2:15:48 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=zh_TW)                                             |
 | How To Use Badges                                             | 18/06/2025, 8:48:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=zh_TW)                                              |
-| Languages On Twitch                                           | 18/06/2025, 8:46:31 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=zh_TW)                                            |
 | Display Names On Twitch                                       | 18/06/2025, 8:45:45 am    | [Link](https://help.twitch.tv/s/article/display-names-on-twitch?language=zh_TW)                                        |
 | Updating Payment Information Transaction History              | 18/06/2025, 1:01:05 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=zh_TW)               |
 | How To Provide Feedback                                       | 17/06/2025, 10:32:33 am   | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=zh_TW)                                        |
-| Local Sub Price Countries                                     | 17/06/2025, 2:15:50 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                                      |
 
 
 
@@ -291,6 +291,17 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                             |
+|-------------------------|---------------------------|----------------------------------------------------------------------------------|
+| Stream Quality          | 15/08/2025, 3:19:21 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)           |
+| How To Add Stream Delay | 29/07/2025, 8:40:01 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=zh_TW)  |
+| What Is The Front Page  | 17/07/2025, 2:37:44 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=zh_TW)   |
 
 
 

@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Shared Chat                                                   | 15/08/2025, 9:26:45 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=ja)                                                    |
+| Languages On Twitch                                           | 15/08/2025, 4:58:09 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ja)                                            |
+| Stream Quality                                                | 15/08/2025, 3:19:09 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)                                                 |
 | Partner Program Overview                                      | 07/08/2025, 6:53:38 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                                       |
 | Shared Viewership                                             | 07/08/2025, 6:53:36 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=ja)                                              |
 | Tips For Applying To The Partner Program                      | 07/08/2025, 6:53:36 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ja)                       |
@@ -39,7 +42,6 @@
 | Twitch Charity Faqs                                           | 31/07/2025, 8:06:33 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=ja)                                            |
 | Date Of Birth Changes                                         | 30/07/2025, 6:26:03 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                                          |
 | How To Add Stream Delay                                       | 29/07/2025, 8:40:01 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=ja)                                        |
-| Stream Quality                                                | 25/07/2025, 5:20:34 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)                                                 |
 | Patch Notes 20                                                | 25/07/2025, 4:46:35 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=ja)                                                 |
 | Dj Program Faq                                                | 25/07/2025, 4:44:34 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=ja)                                                 |
 | Content Classification Labels                                 | 25/07/2025, 4:43:34 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=ja)                                  |
@@ -63,11 +65,9 @@
 | Viewer Channel Point Guide                                    | 19/06/2025, 2:19:42 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=ja)                                     |
 | Channel Page Setup                                            | 19/06/2025, 2:15:45 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=ja)                                             |
 | How To Use Badges                                             | 18/06/2025, 8:48:23 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=ja)                                              |
-| Languages On Twitch                                           | 18/06/2025, 8:46:31 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ja)                                            |
 | Display Names On Twitch                                       | 18/06/2025, 8:45:44 am    | [Link](https://help.twitch.tv/s/article/display-names-on-twitch?language=ja)                                        |
 | How To Provide Feedback                                       | 17/06/2025, 6:11:32 pm    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=ja)                                        |
 | Updating Payment Information Transaction History              | 17/06/2025, 11:42:03 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=ja)               |
-| Local Sub Price Countries                                     | 17/06/2025, 2:15:50 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ja)                                      |
 
 
 
@@ -291,6 +291,17 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                          |
+|-------------------------|---------------------------|-------------------------------------------------------------------------------|
+| Stream Quality          | 15/08/2025, 3:19:09 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)           |
+| How To Add Stream Delay | 29/07/2025, 8:40:01 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=ja)  |
+| What Is The Front Page  | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=ja)   |
 
 
 
