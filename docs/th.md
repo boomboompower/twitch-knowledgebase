@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Multi Month Subscriptions                                     | 16/08/2025, 7:08:59 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=th)                                      |
+| Subscriptions On Mobile                                       | 16/08/2025, 7:08:28 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=th)                                        |
 | Languages On Twitch                                           | 15/08/2025, 4:58:08 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=th)                                            |
 | Removing Recommendations You Are Not Interested In            | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=th)             |
 | Ads Manager                                                   | 31/07/2025, 8:18:21 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=th)                                                    |
@@ -35,7 +37,6 @@
 | Recommended Software For Broadcasting                         | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=th)                          |
 | Viewer Channel Point Guide                                    | 19/06/2025, 2:19:41 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=th)                                     |
 | Channel Page Setup                                            | 19/06/2025, 2:15:46 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=th)                                             |
-| How To Provide Feedback                                       | 17/06/2025, 3:37:03 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=th)                                        |
 
 
 

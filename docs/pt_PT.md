@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| How To Subscribe                                              | 16/08/2025, 7:08:50 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                                               |
+| Gift Subscriptions                                            | 16/08/2025, 7:08:39 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                                             |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 31/07/2025, 8:14:45 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pt_PT)  |
 | Twitch Affiliate Program Faq                                  | 31/07/2025, 8:13:34 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)                                   |
 | How To Manage Harassment In Chat                              | 17/07/2025, 7:51:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_PT)                               |

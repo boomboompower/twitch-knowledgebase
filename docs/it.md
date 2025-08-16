@@ -6,7 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Shared Chat                                                   | 15/08/2025, 9:26:46 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=it)                                                    |
+| Shared Chat                                                   | 16/08/2025, 9:22:04 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=it)                                                    |
+| Multi Month Subscriptions                                     | 16/08/2025, 7:08:59 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=it)                                      |
+| Subscriptions On Mobile                                       | 16/08/2025, 7:08:30 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=it)                                        |
+| Streamer Benefits                                             | 16/08/2025, 7:05:41 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=it)                                              |
 | Languages On Twitch                                           | 15/08/2025, 4:58:09 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=it)                                            |
 | Stream Quality                                                | 15/08/2025, 3:19:17 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=it)                                                 |
 | Removing Recommendations You Are Not Interested In            | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=it)             |
@@ -57,10 +60,6 @@
 | Gift Subscriptions For Creators                               | 19/06/2025, 7:50:09 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=it)                                |
 | Viewer Channel Point Guide                                    | 19/06/2025, 2:19:41 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=it)                                     |
 | Channel Page Setup                                            | 19/06/2025, 2:15:48 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=it)                                             |
-| How To Use Badges                                             | 18/06/2025, 8:48:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=it)                                              |
-| Display Names On Twitch                                       | 18/06/2025, 8:45:44 am    | [Link](https://help.twitch.tv/s/article/display-names-on-twitch?language=it)                                        |
-| Updating Payment Information Transaction History              | 17/06/2025, 7:29:02 pm    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=it)               |
-| How To Provide Feedback                                       | 17/06/2025, 5:50:34 pm    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=it)                                        |
 
 
 
@@ -297,11 +296,13 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                          |
-|-------------------------|---------------------------|-------------------------------------------------------------------------------|
-| Stream Quality          | 15/08/2025, 3:19:17 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=it)           |
-| How To Add Stream Delay | 29/07/2025, 8:40:01 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=it)  |
-| What Is The Front Page  | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=it)   |
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Streamer Benefits        | 16/08/2025, 7:05:41 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=it)         |
+| Stream Quality           | 15/08/2025, 3:19:17 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=it)            |
+| Streamelements Campaigns | 31/07/2025, 8:18:05 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=it)  |
+| How To Add Stream Delay  | 29/07/2025, 8:40:01 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=it)   |
+| What Is The Front Page   | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=it)    |
 
 
 

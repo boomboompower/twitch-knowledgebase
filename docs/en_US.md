@@ -6,7 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Shared Chat                                                   | 15/08/2025, 9:26:45 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=en_US)                                                    |
+| Shared Chat                                                   | 16/08/2025, 9:22:04 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=en_US)                                                    |
+| Multi Month Subscriptions                                     | 16/08/2025, 7:08:59 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=en_US)                                      |
+| Subscriptions On Mobile                                       | 16/08/2025, 7:08:28 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=en_US)                                        |
+| Streamer Benefits                                             | 16/08/2025, 7:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=en_US)                                              |
 | Languages On Twitch                                           | 15/08/2025, 4:58:08 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=en_US)                                            |
 | Stream Quality                                                | 14/08/2025, 10:49:36 am   | [Link](https://help.twitch.tv/s/article/stream-quality?language=en_US)                                                 |
 | Dual Format Vertical Video                                    | 14/08/2025, 7:00:36 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)                                     |
@@ -60,9 +63,6 @@
 | Gift Subscriptions For Creators                               | 19/06/2025, 7:50:08 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=en_US)                                |
 | Viewer Channel Point Guide                                    | 19/06/2025, 2:19:41 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=en_US)                                     |
 | Channel Page Setup                                            | 19/06/2025, 2:15:46 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=en_US)                                             |
-| How To Use Badges                                             | 18/06/2025, 8:48:23 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=en_US)                                              |
-| Display Names On Twitch                                       | 18/06/2025, 8:45:38 am    | [Link](https://help.twitch.tv/s/article/display-names-on-twitch?language=en_US)                                        |
-| How To Provide Feedback                                       | 17/06/2025, 3:37:03 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=en_US)                                        |
 
 
 
@@ -362,11 +362,14 @@
 
 | Name                       | Last Updated (dd/mm/yyyy) | Link                                                                                |
 |----------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Streamer Benefits          | 16/08/2025, 7:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=en_US)           |
 | Stream Quality             | 14/08/2025, 10:49:36 am   | [Link](https://help.twitch.tv/s/article/stream-quality?language=en_US)              |
 | Dual Format Vertical Video | 14/08/2025, 7:00:36 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)  |
 | Subtember 2025 Faq         | 13/08/2025, 4:19:23 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=en_US)          |
+| Streamelements Campaigns   | 31/07/2025, 8:18:04 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=en_US)    |
 | How To Add Stream Delay    | 29/07/2025, 8:40:00 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=en_US)     |
 | What Is The Front Page     | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=en_US)      |
+| Getting Started On Twitch  | 24/06/2025, 7:10:55 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=en_US)   |
 
 
 
