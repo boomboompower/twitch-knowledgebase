@@ -32,17 +32,15 @@
 | Chat Commands                      | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=fi)                       |
 | Stream Summary                     | 14/12/2024, 6:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=fi)                      |
 | Watching Twitch On Android Devices | 02/10/2024, 9:49:59 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=fi)  |
-| How To Use Raids                   | 06/06/2024, 3:04:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=fi)                    |
 
 
 
 ## Article-4
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
-| Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
-|--------------------|---------------------------|--------------------------------------------------------------------------|
-| Gift Subscriptions | 08/09/2023, 9:56:46 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=fi)  |
-| Account Hacked     | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=fi)      |
+| Name             | Last Updated (dd/mm/yyyy) | Link                                                                   |
+|------------------|---------------------------|------------------------------------------------------------------------|
+| How To Use Raids | 06/06/2024, 3:04:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=fi)  |
 
 
 
@@ -51,6 +49,7 @@
 
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                               |
 |----------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------|
+| Account Hacked                               | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=fi)                                |
 | How To Appeal Flagged Content                | 02/08/2023, 3:24:17 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=fi)                 |
 | Creating An Account With Twitch              | 11/07/2023, 2:20:34 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fi)               |
 | Guide To Tags                                | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=fi)                                 |

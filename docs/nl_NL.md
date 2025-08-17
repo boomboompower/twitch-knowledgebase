@@ -18,12 +18,13 @@
 ## Article-2
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
 
-| Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
-|----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
-| Partner Program Overview               | 14/06/2025, 4:24:20 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)                |
-| Twitch Turbo Guide                     | 14/06/2025, 4:23:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=nl_NL)                      |
-| Twitch Prime Partner Guide             | 08/04/2025, 7:40:27 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=nl_NL)              |
-| Username Rename And Recycling Policies | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=nl_NL)  |
+| Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
+|--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Updating Payment Information Transaction History | 14/06/2025, 9:27:45 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=nl_NL)  |
+| Partner Program Overview                         | 14/06/2025, 4:24:20 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)                          |
+| Twitch Turbo Guide                               | 14/06/2025, 4:23:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=nl_NL)                                |
+| Twitch Prime Partner Guide                       | 08/04/2025, 7:40:27 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=nl_NL)                        |
+| Username Rename And Recycling Policies           | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=nl_NL)            |
 
 
 
@@ -42,11 +43,9 @@
 ## Article-4
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
-| Name               | Last Updated (dd/mm/yyyy) | Link                                                                        |
-|--------------------|---------------------------|-----------------------------------------------------------------------------|
-| Authy Faq          | 23/02/2024, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=nl_NL)           |
-| Gift Subscriptions | 08/09/2023, 9:56:46 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=nl_NL)  |
-| Account Hacked     | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=nl_NL)      |
+| Name      | Last Updated (dd/mm/yyyy) | Link                                                               |
+|-----------|---------------------------|--------------------------------------------------------------------|
+| Authy Faq | 23/02/2024, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=nl_NL)  |
 
 
 
@@ -55,6 +54,7 @@
 
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                                  |
 |----------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------|
+| Account Hacked                               | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=nl_NL)                                |
 | Creating Highlights And Stream Markers       | 18/07/2023, 5:11:27 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=nl_NL)        |
 | Creating An Account With Twitch              | 11/07/2023, 2:20:34 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=nl_NL)               |
 | Guide To Tags                                | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=nl_NL)                                 |

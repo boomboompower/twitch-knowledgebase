@@ -26,7 +26,15 @@
 | Name                      | Last Updated (dd/mm/yyyy) | Link                                                                            |
 |---------------------------|---------------------------|---------------------------------------------------------------------------------|
 | How To File A User Report | 15/02/2024, 5:22:45 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=vi)  |
-| Account Hacked            | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=vi)             |
+
+
+
+## Article-5
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-5.xml) this sitemap
+
+| Name           | Last Updated (dd/mm/yyyy) | Link                                                                 |
+|----------------|---------------------------|----------------------------------------------------------------------|
+| Account Hacked | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=vi)  |
 
 
 
