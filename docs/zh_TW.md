@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Subtember 2025 Faq                                            | 17/08/2025, 1:48:02 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=zh_TW)                                             |
 | Shared Chat                                                   | 16/08/2025, 1:53:21 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=zh_TW)                                                    |
 | Multi Month Subscriptions                                     | 16/08/2025, 7:09:00 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=zh_TW)                                      |
 | Subscriptions On Mobile                                       | 16/08/2025, 7:08:30 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=zh_TW)                                        |
@@ -60,7 +61,6 @@
 | Gift Subscriptions For Creators                               | 19/06/2025, 7:50:10 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=zh_TW)                                |
 | Viewer Channel Point Guide                                    | 19/06/2025, 2:19:42 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=zh_TW)                                     |
 | Channel Page Setup                                            | 19/06/2025, 2:15:48 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=zh_TW)                                             |
-| How To Use Badges                                             | 18/06/2025, 8:48:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=zh_TW)                                              |
 
 
 

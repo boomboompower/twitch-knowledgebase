@@ -61,7 +61,6 @@
 | Viewer Channel Point Guide                                    | 19/06/2025, 2:19:42 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=fr)                                     |
 | Channel Page Setup                                            | 19/06/2025, 2:15:48 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=fr)                                             |
 | Updating Payment Information Transaction History              | 18/06/2025, 10:35:32 pm   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=fr)               |
-| How To Use Badges                                             | 18/06/2025, 8:48:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=fr)                                              |
 
 
 

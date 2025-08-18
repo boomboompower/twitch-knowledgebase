@@ -11,13 +11,13 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 |-------------------------------|---------------------------|----------------|------------------------|
 | Bulgarian                     | 17/12/2024, 10:00:19 am   | 2 article(s)   | [View](docs/bg.md)     |
 | Chinese (Simplified, China)   | 31/07/2025, 8:14:45 am    | 6 article(s)   | [View](docs/zh_CN.md)  |
-| Chinese (Traditional, Taiwan) | 16/08/2025, 1:53:21 pm    | 246 article(s) | [View](docs/zh_TW.md)  |
+| Chinese (Traditional, Taiwan) | 17/08/2025, 1:48:02 pm    | 246 article(s) | [View](docs/zh_TW.md)  |
 | Czech                         | 16/08/2025, 7:08:39 am    | 20 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 16/08/2025, 7:08:39 am    | 27 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 16/08/2025, 7:08:39 am    | 34 article(s)  | [View](docs/nl_NL.md)  |
-| English (United States)       | 16/08/2025, 9:22:04 am    | 317 article(s) | [View](docs/en_US.md)  |
+| English (United States)       | 16/08/2025, 9:22:04 am    | 319 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 16/08/2025, 7:08:39 am    | 25 article(s)  | [View](docs/fi.md)     |
-| French                        | 16/08/2025, 1:53:07 pm    | 247 article(s) | [View](docs/fr.md)     |
+| French                        | 16/08/2025, 1:53:07 pm    | 246 article(s) | [View](docs/fr.md)     |
 | German                        | 16/08/2025, 1:53:10 pm    | 247 article(s) | [View](docs/de.md)     |
 | Greek                         | 14/06/2025, 4:23:07 am    | 6 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 16/08/2025, 7:08:39 am    | 18 article(s)  | [View](docs/hu.md)     |
@@ -31,7 +31,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Russian                       | 16/08/2025, 7:08:59 am    | 189 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 17/12/2024, 10:00:19 am   | 2 article(s)   | [View](docs/sk.md)     |
 | Spanish                       | 16/08/2025, 1:53:07 pm    | 245 article(s) | [View](docs/es.md)     |
-| Spanish (Mexico)              | 16/08/2025, 1:53:04 pm    | 245 article(s) | [View](docs/es_MX.md)  |
+| Spanish (Mexico)              | 17/08/2025, 7:21:04 pm    | 246 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 16/08/2025, 7:08:39 am    | 24 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 16/08/2025, 7:08:59 am    | 184 article(s) | [View](docs/th.md)     |
 | Turkish                       | 16/08/2025, 7:08:59 am    | 187 article(s) | [View](docs/tr.md)     |
