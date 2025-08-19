@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Subtember 2025 Faq                                            | 18/08/2025, 11:11:34 pm   | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=de)                                             |
 | Shared Chat                                                   | 16/08/2025, 1:53:10 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=de)                                                    |
 | Multi Month Subscriptions                                     | 16/08/2025, 7:08:59 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=de)                                      |
 | Subscriptions On Mobile                                       | 16/08/2025, 7:08:29 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=de)                                        |
@@ -60,7 +61,6 @@
 | Recommended Software For Broadcasting                         | 24/06/2025, 7:53:04 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=de)                          |
 | Gift Subscriptions For Creators                               | 19/06/2025, 7:50:08 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=de)                                |
 | Channel Page Setup                                            | 19/06/2025, 2:15:47 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=de)                                             |
-| Updating Payment Information Transaction History              | 18/06/2025, 10:45:32 pm   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=de)               |
 
 
 
@@ -301,6 +301,15 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)              |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)  |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
+|--------------------|---------------------------|--------------------------------------------------------------------------|
+| Subtember 2025 Faq | 18/08/2025, 11:11:34 pm   | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=de)  |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Subtember 2025 Faq                                            | 18/08/2025, 7:59:22 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=fr)                                             |
 | Shared Chat                                                   | 16/08/2025, 1:53:07 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=fr)                                                    |
 | Multi Month Subscriptions                                     | 16/08/2025, 7:08:59 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=fr)                                      |
 | Subscriptions On Mobile                                       | 16/08/2025, 7:08:28 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=fr)                                        |
@@ -60,7 +61,6 @@
 | Gift Subscriptions For Creators                               | 19/06/2025, 7:50:09 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=fr)                                |
 | Viewer Channel Point Guide                                    | 19/06/2025, 2:19:42 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=fr)                                     |
 | Channel Page Setup                                            | 19/06/2025, 2:15:48 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=fr)                                             |
-| Updating Payment Information Transaction History              | 18/06/2025, 10:35:32 pm   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=fr)               |
 
 
 

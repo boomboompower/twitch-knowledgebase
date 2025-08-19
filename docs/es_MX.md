@@ -61,8 +61,6 @@
 | Gift Subscriptions For Creators                               | 19/06/2025, 7:50:09 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=es_MX)                                |
 | Viewer Channel Point Guide                                    | 19/06/2025, 2:19:42 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=es_MX)                                     |
 | Channel Page Setup                                            | 19/06/2025, 2:15:48 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=es_MX)                                             |
-| Updating Payment Information Transaction History              | 18/06/2025, 9:29:37 pm    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=es_MX)               |
-| How To Use Badges                                             | 18/06/2025, 8:48:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=es_MX)                                              |
 
 
 
@@ -300,6 +298,15 @@
 | Name            | Last Updated (dd/mm/yyyy) | Link                                                                     |
 |-----------------|---------------------------|--------------------------------------------------------------------------|
 | Markdown Basics | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)  |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name               | Last Updated (dd/mm/yyyy) | Link                                                                        |
+|--------------------|---------------------------|-----------------------------------------------------------------------------|
+| Subtember 2025 Faq | 17/08/2025, 7:21:04 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=es_MX)  |
 
 
 

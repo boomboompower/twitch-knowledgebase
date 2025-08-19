@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Subtember 2025 Faq                                            | 18/08/2025, 6:03:33 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=it)                                             |
 | Shared Chat                                                   | 16/08/2025, 1:53:14 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=it)                                                    |
 | Multi Month Subscriptions                                     | 16/08/2025, 7:08:59 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=it)                                      |
 | Subscriptions On Mobile                                       | 16/08/2025, 7:08:30 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=it)                                        |

@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Subtember 2025 Faq                                            | 18/08/2025, 4:04:10 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=es)                                             |
 | Shared Chat                                                   | 16/08/2025, 1:53:07 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=es)                                                    |
 | Multi Month Subscriptions                                     | 16/08/2025, 7:08:58 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=es)                                      |
 | Subscriptions On Mobile                                       | 16/08/2025, 7:08:30 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=es)                                        |
@@ -299,6 +300,15 @@
 | Name            | Last Updated (dd/mm/yyyy) | Link                                                                  |
 |-----------------|---------------------------|-----------------------------------------------------------------------|
 | Markdown Basics | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)  |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
+|--------------------|---------------------------|--------------------------------------------------------------------------|
+| Subtember 2025 Faq | 18/08/2025, 4:04:10 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=es)  |
 
 
 
