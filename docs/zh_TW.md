@@ -6,8 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Clips Settings                                                | 21/08/2025, 6:53:55 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=zh_TW)                                                 |
+| How To Use Clips                                              | 21/08/2025, 5:30:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                               |
+| Shared Chat                                                   | 21/08/2025, 3:08:56 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=zh_TW)                                                    |
 | Subtember 2025 Faq                                            | 17/08/2025, 1:48:02 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=zh_TW)                                             |
-| Shared Chat                                                   | 16/08/2025, 1:53:21 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=zh_TW)                                                    |
 | Multi Month Subscriptions                                     | 16/08/2025, 7:09:00 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=zh_TW)                                      |
 | Subscriptions On Mobile                                       | 16/08/2025, 7:08:30 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=zh_TW)                                        |
 | Streamer Benefits                                             | 16/08/2025, 7:05:08 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)                                              |
@@ -51,10 +53,8 @@
 | How To Delete And Manage Clips                                | 17/07/2025, 2:41:14 am    | [Link](https://help.twitch.tv/s/article/how-to-delete-and-manage-clips?language=zh_TW)                                 |
 | What Is The Front Page                                        | 17/07/2025, 2:37:44 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=zh_TW)                                         |
 | Managing Roles For Your Channel                               | 17/07/2025, 2:33:24 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=zh_TW)                                |
-| Clips Settings                                                | 16/07/2025, 10:26:21 am   | [Link](https://help.twitch.tv/s/article/clips-settings?language=zh_TW)                                                 |
 | Partner Front Page                                            | 14/07/2025, 2:05:35 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                                             |
 | Two Factor Authentication                                     | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=zh_TW)                                      |
-| How To Use Clips                                              | 09/07/2025, 6:22:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                               |
 | Twitch Stream Key Faq                                         | 28/06/2025, 6:11:09 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=zh_TW)                                          |
 | Getting Started On Twitch                                     | 28/06/2025, 1:21:33 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=zh_TW)                                      |
 | Recommended Software For Broadcasting                         | 25/06/2025, 2:13:33 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=zh_TW)                          |
@@ -300,6 +300,17 @@
 | Name            | Last Updated (dd/mm/yyyy) | Link                                                                     |
 |-----------------|---------------------------|--------------------------------------------------------------------------|
 | Markdown Basics | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)  |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                   | Last Updated (dd/mm/yyyy) | Link                                                                            |
+|------------------------|---------------------------|---------------------------------------------------------------------------------|
+| Subtember 2025 Faq     | 17/08/2025, 1:48:02 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=zh_TW)      |
+| Streamer Benefits      | 16/08/2025, 7:05:08 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)       |
+| What Is The Front Page | 17/07/2025, 2:37:44 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=zh_TW)  |
 
 
 
