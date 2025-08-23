@@ -21,7 +21,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | German                        | 21/08/2025, 6:53:55 am    | 251 article(s) | [View](docs/de.md)     |
 | Greek                         | 14/06/2025, 4:23:07 am    | 6 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 16/08/2025, 7:08:39 am    | 18 article(s)  | [View](docs/hu.md)     |
-| Italian                       | 21/08/2025, 6:53:55 am    | 249 article(s) | [View](docs/it.md)     |
+| Italian                       | 22/08/2025, 11:25:03 pm   | 249 article(s) | [View](docs/it.md)     |
 | Japanese                      | 21/08/2025, 6:53:55 am    | 246 article(s) | [View](docs/ja.md)     |
 | Norwegian                     | 16/08/2025, 7:08:39 am    | 27 article(s)  | [View](docs/no.md)     |
 | Polish                        | 21/08/2025, 5:30:34 am    | 186 article(s) | [View](docs/pl.md)     |
@@ -30,11 +30,11 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Romanian                      | 17/12/2024, 10:00:19 am   | 2 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 21/08/2025, 5:30:34 am    | 189 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 17/12/2024, 10:00:19 am   | 2 article(s)   | [View](docs/sk.md)     |
-| Spanish                       | 21/08/2025, 6:53:55 am    | 250 article(s) | [View](docs/es.md)     |
-| Spanish (Mexico)              | 21/08/2025, 6:53:55 am    | 248 article(s) | [View](docs/es_MX.md)  |
+| Spanish                       | 22/08/2025, 3:30:45 pm    | 250 article(s) | [View](docs/es.md)     |
+| Spanish (Mexico)              | 23/08/2025, 5:04:42 am    | 248 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 16/08/2025, 7:08:39 am    | 24 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 21/08/2025, 5:30:34 am    | 184 article(s) | [View](docs/th.md)     |
-| Turkish                       | 21/08/2025, 5:30:34 am    | 187 article(s) | [View](docs/tr.md)     |
+| Turkish                       | 21/08/2025, 5:30:34 am    | 186 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 05/04/2025, 10:33:32 am   | 6 article(s)   | [View](docs/vi.md)     |
 
 ### Dumping
