@@ -150,7 +150,6 @@
 | Navigating The Feedback Forum           | 26/08/2023, 1:18:35 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=th)            |
 | Twitch Account Settings                 | 24/08/2023, 9:42:06 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=th)                  |
 | Account Hacked                          | 24/08/2023, 9:42:03 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=th)                           |
-| Patch Notes 20                          | 19/08/2023, 6:03:31 am    | [Link](https://help.twitch.tv/s/article/patch-notes-20?language=th)                           |
 | Guide To Broadcast Health               | 09/08/2023, 9:46:06 pm    | [Link](https://help.twitch.tv/s/article/guide-to-broadcast-health?language=th)                |
 | How To Appeal Flagged Content           | 09/08/2023, 9:46:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=th)            |
 | New Device And Location Verification    | 04/08/2023, 1:44:42 am    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=th)     |
@@ -163,7 +162,6 @@
 | Lifetime Subscriber Guide For Partners  | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=th)   |
 | Music Options For Streamers             | 11/07/2023, 2:52:16 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=th)              |
 | Refunds On Twitch                       | 01/07/2023, 11:23:36 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=th)                        |
-| Patch Notes 19                          | 23/06/2023, 6:48:02 am    | [Link](https://help.twitch.tv/s/article/patch-notes-19?language=th)                           |
 | Local Recording                         | 30/05/2023, 3:45:13 am    | [Link](https://help.twitch.tv/s/article/local-recording?language=th)                          |
 | Emote Analytics                         | 22/05/2023, 1:31:03 am    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=th)                          |
 | Guide To Tags                           | 11/05/2023, 11:31:08 pm   | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=th)                            |
@@ -186,6 +184,9 @@
 | How To Use The Friends Feature          | 29/04/2022, 5:56:25 am    | [Link](https://help.twitch.tv/s/article/how-to-use-the-friends-feature?language=th)           |
 | Twitch On Lg Tv                         | 28/04/2022, 3:59:33 am    | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=th)                          |
 | Twitch On Apple Tv                      | 28/04/2022, 3:59:06 am    | [Link](https://help.twitch.tv/s/article/twitch-on-apple-tv?language=th)                       |
+| Official Twitch Channel Chat Rules      | 14/04/2022, 8:45:03 pm    | [Link](https://help.twitch.tv/s/article/official-twitch-channel-chat-rules?language=th)       |
+| Twitch Policies And Guidelines          | 14/04/2022, 8:03:38 pm    | [Link](https://help.twitch.tv/s/article/twitch-policies-and-guidelines?language=th)           |
+| How To Get And Use The Ps App           | 14/04/2022, 5:50:02 pm    | [Link](https://help.twitch.tv/s/article/how-to-get-and-use-the-ps-app?language=th)            |
 
 
 
@@ -194,9 +195,6 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
-| Official Twitch Channel Chat Rules                | 14/04/2022, 8:45:03 pm    | [Link](https://help.twitch.tv/s/article/official-twitch-channel-chat-rules?language=th)                 |
-| Twitch Policies And Guidelines                    | 14/04/2022, 8:03:38 pm    | [Link](https://help.twitch.tv/s/article/twitch-policies-and-guidelines?language=th)                     |
-| How To Get And Use The Ps App                     | 14/04/2022, 5:50:02 pm    | [Link](https://help.twitch.tv/s/article/how-to-get-and-use-the-ps-app?language=th)                      |
 | Mobile Game Broadcasting                          | 07/04/2022, 7:14:34 pm    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=th)                           |
 | Copyrighted Audio Warnings                        | 31/03/2022, 3:30:07 am    | [Link](https://help.twitch.tv/s/article/copyrighted-audio-warnings?language=th)                         |
 | Partner Cheermote Guide                           | 10/03/2022, 4:31:34 am    | [Link](https://help.twitch.tv/s/article/partner-cheermote-guide?language=th)                            |
@@ -229,15 +227,7 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=th)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=th)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=th)             |
-
-
-
-## Article-7
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-7.xml) this sitemap
-
-| Name            | Last Updated (dd/mm/yyyy) | Link                                                                  |
-|-----------------|---------------------------|-----------------------------------------------------------------------|
-| Markdown Basics | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=th)  |
+| Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=th)                                    |
 
 
 
