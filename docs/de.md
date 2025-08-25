@@ -6,7 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Clips Settings                                                | 21/08/2025, 6:53:55 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=de)                                                 |
+| Clips Settings                                                | 24/08/2025, 11:40:03 pm   | [Link](https://help.twitch.tv/s/article/clips-settings?language=de)                                                 |
 | How To Use Clips                                              | 21/08/2025, 5:30:34 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                               |
 | Shared Chat                                                   | 21/08/2025, 3:08:56 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=de)                                                    |
 | Subtember 2025 Faq                                            | 18/08/2025, 11:11:34 pm   | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=de)                                             |
@@ -292,6 +292,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
+|--------------------|---------------------------|--------------------------------------------------------------------------|
+| Subtember 2025 Faq | 18/08/2025, 11:11:34 pm   | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=de)  |
 
 
 
