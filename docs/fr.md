@@ -6,7 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Clips Settings                                                | 21/08/2025, 6:53:55 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=fr)                                                 |
+| Clips Settings                                                | 25/08/2025, 9:09:38 pm    | [Link](https://help.twitch.tv/s/article/clips-settings?language=fr)                                                 |
 | How To Use Clips                                              | 21/08/2025, 5:30:49 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                                               |
 | Shared Chat                                                   | 21/08/2025, 3:08:56 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=fr)                                                    |
 | Subtember 2025 Faq                                            | 18/08/2025, 7:59:22 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=fr)                                             |
