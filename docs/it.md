@@ -6,10 +6,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Achievements                                                  | 30/08/2025, 7:39:09 am    | [Link](https://help.twitch.tv/s/article/achievements?language=it)                                                   |
+| How To Use Clips                                              | 30/08/2025, 7:11:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                               |
 | Twitch Chat Badges Guide                                      | 29/08/2025, 6:25:21 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=it)                                       |
 | How To Use Badges                                             | 29/08/2025, 6:25:16 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=it)                                              |
 | Clips Settings                                                | 22/08/2025, 11:25:03 pm   | [Link](https://help.twitch.tv/s/article/clips-settings?language=it)                                                 |
-| How To Use Clips                                              | 21/08/2025, 5:30:49 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                               |
 | Shared Chat                                                   | 21/08/2025, 3:08:56 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=it)                                                    |
 | Subtember 2025 Faq                                            | 18/08/2025, 6:03:33 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=it)                                             |
 | Multi Month Subscriptions                                     | 16/08/2025, 7:08:59 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=it)                                      |
@@ -60,7 +61,6 @@
 | Twitch Stream Key Faq                                         | 28/06/2025, 6:11:09 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=it)                                          |
 | Getting Started On Twitch                                     | 27/06/2025, 6:01:43 pm    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=it)                                      |
 | Recommended Software For Broadcasting                         | 26/06/2025, 5:20:42 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=it)                          |
-| Gift Subscriptions For Creators                               | 19/06/2025, 7:50:09 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=it)                                |
 
 
 
@@ -297,10 +297,12 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
-|--------------------|---------------------------|--------------------------------------------------------------------------|
-| Subtember 2025 Faq | 18/08/2025, 6:03:33 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=it)  |
-| Streamer Benefits  | 16/08/2025, 7:05:41 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=it)   |
+| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                          |
+|-------------------------|---------------------------|-------------------------------------------------------------------------------|
+| Subtember 2025 Faq      | 18/08/2025, 6:03:33 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=it)       |
+| Streamer Benefits       | 16/08/2025, 7:05:41 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=it)        |
+| How To Add Stream Delay | 29/07/2025, 8:40:01 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=it)  |
+| What Is The Front Page  | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=it)   |
 
 
 
