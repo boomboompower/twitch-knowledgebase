@@ -36,6 +36,7 @@
 | Managing Roles For Your Channel                               | 17/07/2025, 2:33:22 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=tr)                                |
 | Two Factor Authentication                                     | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=tr)                                      |
 | Twitch Stream Key Faq                                         | 28/06/2025, 6:11:07 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=tr)                                          |
+| Recommended Software For Broadcasting                         | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=tr)                          |
 
 
 
@@ -44,18 +45,18 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Viewer Channel Point Guide                               | 19/06/2025, 2:19:41 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=tr)                                |
+| Channel Page Setup                                       | 19/06/2025, 2:15:46 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=tr)                                        |
 | How To Provide Feedback                                  | 17/06/2025, 3:37:03 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=tr)                                   |
 | Local Sub Price Countries                                | 17/06/2025, 2:15:50 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=tr)                                 |
 | Updating Payment Information Transaction History         | 14/06/2025, 9:27:45 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=tr)          |
 | Partner Program Overview                                 | 14/06/2025, 4:24:20 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=tr)                                  |
 | Twitch Turbo Guide                                       | 14/06/2025, 4:23:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=tr)                                        |
-| Achievements                                             | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/achievements?language=tr)                                              |
 | Joining The Affiliate Program                            | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=tr)                             |
 | Mod View                                                 | 03/06/2025, 4:00:03 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=tr)                                                  |
 | Disconnect Protection                                    | 10/05/2025, 9:27:33 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=tr)                                     |
 | List Of Prohibited Games                                 | 10/05/2025, 3:12:56 am    | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=tr)                                  |
 | Custom Bit Badges Guide                                  | 09/05/2025, 11:01:32 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=tr)                                   |
-| Twitch Chat Badges Guide                                 | 30/04/2025, 3:59:46 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=tr)                                  |
 | Prime Gaming Revenue Guide                               | 08/04/2025, 7:40:27 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=tr)                                |
 | Guide To Cheering With Bits                              | 05/04/2025, 10:33:32 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=tr)                               |
 | Payout History Dashboard Guide                           | 02/04/2025, 10:47:44 am   | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=tr)                            |
@@ -172,7 +173,6 @@
 | Guide To Closed Captions                | 20/03/2023, 9:12:04 pm    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=tr)                 |
 | Mobile Irl Broadcasting                 | 24/01/2023, 5:59:40 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=tr)                  |
 | Twitch Mobile App Update                | 16/01/2023, 8:13:32 pm    | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=tr)                 |
-| Live Viewer Feedback                    | 10/12/2022, 8:46:51 am    | [Link](https://help.twitch.tv/s/article/live-viewer-feedback?language=tr)                     |
 | How To Use Extensions                   | 04/11/2022, 8:57:09 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=tr)                    |
 | Xbox Promotion 2022                     | 02/11/2022, 3:54:04 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=tr)                      |
 | Earning Revenue From Bits In Extensions | 21/10/2022, 7:25:42 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=tr)  |
@@ -186,6 +186,7 @@
 | Twitch On Lg Tv                         | 27/04/2022, 5:59:03 pm    | [Link](https://help.twitch.tv/s/article/twitch-on-lg-tv?language=tr)                          |
 | Official Twitch Channel Chat Rules      | 13/04/2022, 9:14:33 pm    | [Link](https://help.twitch.tv/s/article/official-twitch-channel-chat-rules?language=tr)       |
 | How To Get And Use The Ps App           | 13/04/2022, 5:00:47 pm    | [Link](https://help.twitch.tv/s/article/how-to-get-and-use-the-ps-app?language=tr)            |
+| Mobile Game Broadcasting                | 06/04/2022, 4:06:35 pm    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=tr)                 |
 
 
 
@@ -194,8 +195,6 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
-| Mobile Game Broadcasting                      | 06/04/2022, 4:06:35 pm    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=tr)                       |
-| Copyrighted Audio Warnings                    | 31/03/2022, 3:30:07 am    | [Link](https://help.twitch.tv/s/article/copyrighted-audio-warnings?language=tr)                     |
 | Partner Cheermote Guide                       | 10/03/2022, 6:15:34 pm    | [Link](https://help.twitch.tv/s/article/partner-cheermote-guide?language=tr)                        |
 | Modified Emotes                               | 19/11/2021, 5:13:43 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=tr)                                |
 | Default Emotes                                | 19/11/2021, 5:12:25 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=tr)                                 |
@@ -208,7 +207,6 @@
 | How To Claim In Game Content                  | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=tr)                   |
 | Twitch Prime Guide                            | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-guide?language=tr)                             |
 | How To Use Twitch Prime Subscriptions         | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-twitch-prime-subscriptions?language=tr)          |
-| How To Link Your Amazon Account               | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-link-your-amazon-account?language=tr)                |
 | Twitch Merchandise Store Support Faq          | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=tr)           |
 | Guide To Custom Messages                      | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=tr)                       |
 | Contacting Purchase Support                   | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=tr)                    |
