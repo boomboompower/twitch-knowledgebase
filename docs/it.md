@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| How Twitch Contacts You                                       | 03/09/2025, 7:57:04 pm    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=it)                                        |
 | Achievements                                                  | 30/08/2025, 7:39:09 am    | [Link](https://help.twitch.tv/s/article/achievements?language=it)                                                   |
 | How To Use Clips                                              | 30/08/2025, 7:11:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                               |
 | Twitch Chat Badges Guide                                      | 29/08/2025, 6:25:21 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=it)                                       |

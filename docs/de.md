@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| How Twitch Contacts You                                       | 03/09/2025, 6:56:32 pm    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=de)                                        |
 | Achievements                                                  | 30/08/2025, 7:39:02 am    | [Link](https://help.twitch.tv/s/article/achievements?language=de)                                                   |
 | How To Use Clips                                              | 30/08/2025, 7:11:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                               |
 | Twitch Chat Badges Guide                                      | 29/08/2025, 6:25:20 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=de)                                       |
@@ -290,6 +291,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
+|--------------------|---------------------------|--------------------------------------------------------------------------|
+| Subtember 2025 Faq | 18/08/2025, 11:11:34 pm   | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=de)  |
 
 
 

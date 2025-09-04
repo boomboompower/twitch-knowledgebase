@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| How Twitch Contacts You                                       | 03/09/2025, 6:08:02 pm    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=zh_TW)                                        |
 | Achievements                                                  | 30/08/2025, 7:39:03 am    | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                                   |
 | How To Use Clips                                              | 30/08/2025, 7:11:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                               |
 | Twitch Chat Badges Guide                                      | 29/08/2025, 5:45:38 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                                       |
@@ -61,7 +62,6 @@
 | Twitch Stream Key Faq                                         | 28/06/2025, 6:11:09 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=zh_TW)                                          |
 | Getting Started On Twitch                                     | 28/06/2025, 1:21:33 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=zh_TW)                                      |
 | Recommended Software For Broadcasting                         | 25/06/2025, 2:13:33 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=zh_TW)                          |
-| Gift Subscriptions For Creators                               | 19/06/2025, 7:50:10 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=zh_TW)                                |
 
 
 
