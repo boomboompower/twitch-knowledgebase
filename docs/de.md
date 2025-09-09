@@ -293,3 +293,12 @@
 
 
 
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
+|--------------------|---------------------------|--------------------------------------------------------------------------|
+| Subtember 2025 Faq | 05/09/2025, 9:35:21 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=de)  |
+
+
+

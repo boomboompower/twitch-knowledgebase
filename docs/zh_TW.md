@@ -6,9 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Subtember 2025 Faq                                            | 09/09/2025, 1:41:08 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=zh_TW)                                             |
+| Setting Up Moderation For Your Twitch Channel                 | 09/09/2025, 0:49:18 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=zh_TW)                  |
 | How Twitch Contacts You                                       | 06/09/2025, 7:51:17 am    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=zh_TW)                                        |
-| Setting Up Moderation For Your Twitch Channel                 | 05/09/2025, 6:24:09 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=zh_TW)                  |
-| Subtember 2025 Faq                                            | 05/09/2025, 2:52:54 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=zh_TW)                                             |
 | Bleed Purple                                                  | 05/09/2025, 2:28:31 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=zh_TW)                                                   |
 | Achievements                                                  | 30/08/2025, 7:39:03 am    | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                                   |
 | How To Use Clips                                              | 30/08/2025, 7:11:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                               |

@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Chat Bot Badge About                                          | 09/09/2025, 6:23:32 am    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=pt_BR)                                           |
 | How Twitch Contacts You                                       | 06/09/2025, 7:51:17 am    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=pt_BR)                                        |
 | Setting Up Moderation For Your Twitch Channel                 | 05/09/2025, 8:35:32 pm    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=pt_BR)                  |
 | Subtember 2025 Faq                                            | 05/09/2025, 8:33:18 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=pt_BR)                                             |
@@ -287,6 +288,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_BR)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=pt_BR)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pt_BR)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                          |
+|----------------------|---------------------------|-------------------------------------------------------------------------------|
+| Chat Bot Badge About | 09/09/2025, 6:23:32 am    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=pt_BR)  |
 
 
 

@@ -359,6 +359,7 @@
 
 | Name                       | Last Updated (dd/mm/yyyy) | Link                                                                                |
 |----------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Subtember 2025 Faq         | 05/09/2025, 2:52:54 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=en_US)          |
 | Chat Bot Badge About       | 05/09/2025, 2:39:15 am    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=en_US)        |
 | Dual Format Vertical Video | 14/08/2025, 7:00:36 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)  |
 

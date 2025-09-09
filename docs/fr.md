@@ -6,9 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Setting Up Moderation For Your Twitch Channel                 | 08/09/2025, 9:50:04 pm    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=fr)                  |
+| Subtember 2025 Faq                                            | 08/09/2025, 9:49:34 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=fr)                                             |
 | How Twitch Contacts You                                       | 06/09/2025, 7:51:17 am    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=fr)                                        |
-| Setting Up Moderation For Your Twitch Channel                 | 05/09/2025, 6:24:09 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=fr)                  |
-| Subtember 2025 Faq                                            | 05/09/2025, 2:52:54 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=fr)                                             |
 | Bleed Purple                                                  | 05/09/2025, 2:28:31 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=fr)                                                   |
 | Achievements                                                  | 30/08/2025, 7:39:09 am    | [Link](https://help.twitch.tv/s/article/achievements?language=fr)                                                   |
 | How To Use Clips                                              | 30/08/2025, 7:11:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                                               |
@@ -61,7 +61,6 @@
 | Managing Roles For Your Channel                               | 17/07/2025, 2:33:24 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=fr)                                |
 | Partner Front Page                                            | 14/07/2025, 9:40:08 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=fr)                                             |
 | Two Factor Authentication                                     | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=fr)                                      |
-| Twitch Stream Key Faq                                         | 28/06/2025, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=fr)                                          |
 
 
 

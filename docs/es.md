@@ -6,9 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Subtember 2025 Faq                                            | 08/09/2025, 5:17:04 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=es)                                             |
+| Setting Up Moderation For Your Twitch Channel                 | 08/09/2025, 5:15:45 pm    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=es)                  |
 | How Twitch Contacts You                                       | 06/09/2025, 7:51:17 am    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=es)                                        |
-| Setting Up Moderation For Your Twitch Channel                 | 05/09/2025, 6:24:09 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=es)                  |
-| Subtember 2025 Faq                                            | 05/09/2025, 2:52:54 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=es)                                             |
 | Bleed Purple                                                  | 05/09/2025, 2:28:30 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es)                                                   |
 | Achievements                                                  | 30/08/2025, 7:39:05 am    | [Link](https://help.twitch.tv/s/article/achievements?language=es)                                                   |
 | How To Use Clips                                              | 30/08/2025, 7:11:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                               |
@@ -287,6 +287,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
+|--------------------|---------------------------|--------------------------------------------------------------------------|
+| Subtember 2025 Faq | 08/09/2025, 5:17:04 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=es)  |
 
 
 
