@@ -62,7 +62,6 @@
 | Managing Roles For Your Channel                               | 17/07/2025, 2:33:24 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=pt_BR)                                |
 | Partner Front Page                                            | 12/07/2025, 11:39:04 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=pt_BR)                                             |
 | Two Factor Authentication                                     | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=pt_BR)                                      |
-| Twitch Stream Key Faq                                         | 28/06/2025, 6:11:09 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=pt_BR)                                          |
 
 
 

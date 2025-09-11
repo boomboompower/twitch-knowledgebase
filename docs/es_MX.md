@@ -62,7 +62,6 @@
 | Managing Roles For Your Channel                               | 17/07/2025, 2:33:24 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es_MX)                                |
 | Two Factor Authentication                                     | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es_MX)                                      |
 | Partner Front Page                                            | 12/07/2025, 3:36:34 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es_MX)                                             |
-| Twitch Stream Key Faq                                         | 28/06/2025, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=es_MX)                                          |
 
 
 
@@ -295,9 +294,10 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name               | Last Updated (dd/mm/yyyy) | Link                                                                        |
-|--------------------|---------------------------|-----------------------------------------------------------------------------|
-| Subtember 2025 Faq | 08/09/2025, 8:05:05 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=es_MX)  |
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                          |
+|----------------------|---------------------------|-------------------------------------------------------------------------------|
+| Chat Bot Badge About | 10/09/2025, 0:59:42 am    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=es_MX)  |
+| Subtember 2025 Faq   | 08/09/2025, 8:05:05 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=es_MX)    |
 
 
 
