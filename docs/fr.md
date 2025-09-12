@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Chat Bot Badge About                                          | 11/09/2025, 9:54:36 pm    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=fr)                                           |
 | Setting Up Moderation For Your Twitch Channel                 | 08/09/2025, 9:50:04 pm    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=fr)                  |
 | Subtember 2025 Faq                                            | 08/09/2025, 9:49:34 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=fr)                                             |
 | How Twitch Contacts You                                       | 06/09/2025, 7:51:17 am    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=fr)                                        |
