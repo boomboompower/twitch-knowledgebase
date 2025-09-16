@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Twitch Chat Badges Guide                                      | 16/09/2025, 8:45:09 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es_MX)                                       |
+| How To Use Badges                                             | 16/09/2025, 8:44:47 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=es_MX)                                              |
 | Chat Bot Badge About                                          | 10/09/2025, 0:59:42 am    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=es_MX)                                           |
 | Setting Up Moderation For Your Twitch Channel                 | 08/09/2025, 8:47:33 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=es_MX)                  |
 | Subtember 2025 Faq                                            | 08/09/2025, 8:05:05 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=es_MX)                                             |
@@ -13,8 +15,6 @@
 | Bleed Purple                                                  | 05/09/2025, 2:28:31 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es_MX)                                                   |
 | Achievements                                                  | 30/08/2025, 7:39:06 am    | [Link](https://help.twitch.tv/s/article/achievements?language=es_MX)                                                   |
 | How To Use Clips                                              | 30/08/2025, 7:11:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                                               |
-| Twitch Chat Badges Guide                                      | 29/08/2025, 6:25:21 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es_MX)                                       |
-| How To Use Badges                                             | 29/08/2025, 6:25:15 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=es_MX)                                              |
 | Clips Settings                                                | 23/08/2025, 5:04:42 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=es_MX)                                                 |
 | Shared Chat                                                   | 21/08/2025, 3:08:56 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=es_MX)                                                    |
 | Multi Month Subscriptions                                     | 16/08/2025, 7:08:59 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=es_MX)                                      |
@@ -289,6 +289,16 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                          |
+|----------------------|---------------------------|-------------------------------------------------------------------------------|
+| Chat Bot Badge About | 10/09/2025, 0:59:42 am    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=es_MX)  |
+| Subtember 2025 Faq   | 08/09/2025, 8:05:05 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=es_MX)    |
 
 
 
