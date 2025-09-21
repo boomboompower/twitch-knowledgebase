@@ -21,6 +21,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Two Factor Authentication With Authy                     | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)                      |
 | Recommended Software For Broadcasting                    | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=pt_PT)                     |
 | Twitch Turbo Guide                                       | 14/06/2025, 4:23:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                                        |
 | Joining The Affiliate Program                            | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)                             |

@@ -19,6 +19,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Two Factor Authentication With Authy  | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=da)   |
 | Recommended Software For Broadcasting | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=da)  |
 | Twitch Prime Partner Guide            | 08/04/2025, 7:40:27 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=da)             |
 
@@ -51,7 +52,6 @@
 |----------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------|
 | Account Hacked                               | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=da)                                |
 | How To Appeal Flagged Content                | 02/08/2023, 3:24:17 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=da)                 |
-| Creating An Account With Twitch              | 11/07/2023, 2:20:34 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=da)               |
 | Guide To Tags                                | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=da)                                 |
 | How To Use Host Mode                         | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=da)                          |
 | How To Use Extensions                        | 26/10/2022, 7:04:49 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=da)                         |

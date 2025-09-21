@@ -19,6 +19,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Two Factor Authentication With Authy             | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=nl_NL)              |
 | Channel Page Setup                               | 19/06/2025, 2:15:46 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=nl_NL)                                |
 | Updating Payment Information Transaction History | 14/06/2025, 9:27:45 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=nl_NL)  |
 | Partner Program Overview                         | 14/06/2025, 4:24:20 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)                          |
@@ -56,7 +57,6 @@
 |----------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------|
 | Account Hacked                               | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=nl_NL)                                |
 | Creating Highlights And Stream Markers       | 18/07/2023, 5:11:27 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=nl_NL)        |
-| Creating An Account With Twitch              | 11/07/2023, 2:20:34 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=nl_NL)               |
 | Guide To Tags                                | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=nl_NL)                                 |
 | How To Use Host Mode                         | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=nl_NL)                          |
 | Earning Revenue From Bits In Extensions Beta | 21/10/2022, 7:25:40 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=nl_NL)  |

@@ -44,6 +44,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Managing Roles For Your Channel                          | 17/07/2025, 2:33:22 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ru)                           |
+| Two Factor Authentication                                | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ru)                                 |
 | Twitch Stream Key Faq                                    | 28/06/2025, 6:11:07 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ru)                                     |
 | Recommended Software For Broadcasting                    | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ru)                     |
 | Viewer Channel Point Guide                               | 19/06/2025, 2:19:41 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=ru)                                |
@@ -93,7 +95,6 @@
 | Guide To Using Twitch Inspector             | 21/11/2024, 11:17:07 am   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=ru)              |
 | How To Use Automod                          | 14/11/2024, 10:42:03 am   | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ru)                           |
 | Delete Twitch Account                       | 14/11/2024, 4:17:32 am    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=ru)                        |
-| Children On Twitch                          | 14/11/2024, 4:14:03 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=ru)                           |
 | Research                                    | 13/11/2024, 8:55:18 am    | [Link](https://help.twitch.tv/s/article/research?language=ru)                                     |
 | Managing And Upgrading A Gift Subscription  | 13/11/2024, 7:12:46 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=ru)   |
 | How To Share A Stream                       | 13/11/2024, 5:55:30 am    | [Link](https://help.twitch.tv/s/article/how-to-share-a-stream?language=ru)                        |
@@ -158,7 +159,6 @@
 | Alerts By Twitch Css                    | 26/07/2023, 4:07:25 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-css?language=ru)                     |
 | Alerts By Twitch Customization          | 26/07/2023, 4:07:21 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-customization?language=ru)           |
 | Alerts By Twitch Interactive Resubs     | 26/07/2023, 4:07:09 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-interactive-resubs?language=ru)      |
-| Creating An Account With Twitch         | 19/07/2023, 9:03:33 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ru)          |
 | Creating Highlights And Stream Markers  | 18/07/2023, 5:11:27 am    | [Link](https://help.twitch.tv/s/article/creating-highlights-and-stream-markers?language=ru)   |
 | Lifetime Subscriber Guide For Partners  | 11/07/2023, 9:35:03 am    | [Link](https://help.twitch.tv/s/article/lifetime-subscriber-guide-for-partners?language=ru)   |
 | Music Options For Streamers             | 11/07/2023, 2:52:16 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=ru)              |
@@ -175,7 +175,6 @@
 | Mobile Irl Broadcasting                 | 24/01/2023, 5:59:40 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=ru)                  |
 | Twitch Mobile App Update                | 16/01/2023, 5:47:02 pm    | [Link](https://help.twitch.tv/s/article/twitch-mobile-app-update?language=ru)                 |
 | How To Use Extensions                   | 04/11/2022, 8:55:36 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=ru)                    |
-| Xbox Promotion 2022                     | 02/11/2022, 3:54:03 am    | [Link](https://help.twitch.tv/s/article/xbox-promotion-2022?language=ru)                      |
 | Earning Revenue From Bits In Extensions | 21/10/2022, 7:25:42 am    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=ru)  |
 | Twitch Content Sharing Guidelines       | 13/10/2022, 7:53:07 am    | [Link](https://help.twitch.tv/s/article/twitch-content-sharing-guidelines?language=ru)        |
 | Charitable Donations                    | 26/09/2022, 9:27:03 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=ru)                     |
@@ -188,6 +187,8 @@
 | How To Get And Use The Ps App           | 14/04/2022, 8:03:09 pm    | [Link](https://help.twitch.tv/s/article/how-to-get-and-use-the-ps-app?language=ru)            |
 | Official Twitch Channel Chat Rules      | 14/04/2022, 8:03:06 pm    | [Link](https://help.twitch.tv/s/article/official-twitch-channel-chat-rules?language=ru)       |
 | Mobile Game Broadcasting                | 07/04/2022, 7:36:33 pm    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=ru)                 |
+| Copyrighted Audio Warnings              | 31/03/2022, 3:30:07 am    | [Link](https://help.twitch.tv/s/article/copyrighted-audio-warnings?language=ru)               |
+| Partner Cheermote Guide                 | 10/03/2022, 11:41:34 pm   | [Link](https://help.twitch.tv/s/article/partner-cheermote-guide?language=ru)                  |
 
 
 
@@ -196,7 +197,6 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
-| Partner Cheermote Guide                           | 10/03/2022, 11:41:34 pm   | [Link](https://help.twitch.tv/s/article/partner-cheermote-guide?language=ru)                            |
 | Modified Emotes                                   | 19/11/2021, 5:13:45 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=ru)                                    |
 | Default Emotes                                    | 19/11/2021, 5:12:25 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=ru)                                     |
 | Stream With Pride                                 | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=ru)                                  |
