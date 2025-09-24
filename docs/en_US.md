@@ -64,7 +64,6 @@
 | How To Manage Harassment In Chat                              | 17/07/2025, 7:51:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=en_US)                               |
 | Featured Clips                                                | 17/07/2025, 2:41:20 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=en_US)                                                 |
 | How To Delete And Manage Clips                                | 17/07/2025, 2:41:12 am    | [Link](https://help.twitch.tv/s/article/how-to-delete-and-manage-clips?language=en_US)                                 |
-| What Is The Front Page                                        | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=en_US)                                         |
 
 
 
@@ -358,9 +357,10 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name             | Last Updated (dd/mm/yyyy) | Link                                                                      |
-|------------------|---------------------------|---------------------------------------------------------------------------|
-| Age Verification | 17/09/2025, 4:53:42 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=en_US)  |
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                          |
+|----------------------|---------------------------|-------------------------------------------------------------------------------|
+| Age Verification     | 17/09/2025, 4:53:42 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=en_US)      |
+| Chat Bot Badge About | 05/09/2025, 2:39:15 am    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=en_US)  |
 
 
 

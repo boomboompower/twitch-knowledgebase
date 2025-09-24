@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Digital Services Act                                          | 23/09/2025, 11:17:33 pm   | [Link](https://help.twitch.tv/s/article/digital-services-act?language=es)                                           |
+| Dual Format Vertical Video                                    | 23/09/2025, 10:59:33 pm   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es)                                     |
 | Age Verification                                              | 22/09/2025, 11:38:33 pm   | [Link](https://help.twitch.tv/s/article/age-verification?language=es)                                               |
 | Date Of Birth Changes                                         | 19/09/2025, 5:25:09 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                                          |
 | Creating An Account With Twitch                               | 19/09/2025, 5:24:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es)                                |
@@ -62,8 +64,6 @@
 | Combos                                                        | 17/07/2025, 7:32:04 am    | [Link](https://help.twitch.tv/s/article/combos?language=es)                                                         |
 | Featured Clips                                                | 17/07/2025, 2:41:19 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=es)                                                 |
 | How To Delete And Manage Clips                                | 17/07/2025, 2:41:13 am    | [Link](https://help.twitch.tv/s/article/how-to-delete-and-manage-clips?language=es)                                 |
-| What Is The Front Page                                        | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=es)                                         |
-| Managing Roles For Your Channel                               | 17/07/2025, 2:33:24 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es)                                |
 
 
 
@@ -294,9 +294,10 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name             | Last Updated (dd/mm/yyyy) | Link                                                                   |
-|------------------|---------------------------|------------------------------------------------------------------------|
-| Age Verification | 22/09/2025, 11:38:33 pm   | [Link](https://help.twitch.tv/s/article/age-verification?language=es)  |
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                       |
+|----------------------|---------------------------|----------------------------------------------------------------------------|
+| Age Verification     | 22/09/2025, 11:38:33 pm   | [Link](https://help.twitch.tv/s/article/age-verification?language=es)      |
+| Chat Bot Badge About | 11/09/2025, 7:37:33 pm    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=es)  |
 
 
 

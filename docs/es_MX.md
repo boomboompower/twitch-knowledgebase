@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                                    | 24/09/2025, 5:47:32 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                                     |
+| Age Verification                                              | 24/09/2025, 5:47:09 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)                                               |
+| Digital Services Act                                          | 23/09/2025, 11:15:36 pm   | [Link](https://help.twitch.tv/s/article/digital-services-act?language=es_MX)                                           |
 | Date Of Birth Changes                                         | 19/09/2025, 5:25:09 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                                          |
 | Creating An Account With Twitch                               | 19/09/2025, 5:24:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)                                |
 | Children On Twitch                                            | 19/09/2025, 5:24:37 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=es_MX)                                             |
@@ -60,8 +63,6 @@
 | How To Manage Harassment In Chat                              | 17/07/2025, 7:51:31 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es_MX)                               |
 | Featured Clips                                                | 17/07/2025, 2:41:20 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=es_MX)                                                 |
 | How To Delete And Manage Clips                                | 17/07/2025, 2:41:13 am    | [Link](https://help.twitch.tv/s/article/how-to-delete-and-manage-clips?language=es_MX)                                 |
-| What Is The Front Page                                        | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=es_MX)                                         |
-| Managing Roles For Your Channel                               | 17/07/2025, 2:33:24 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es_MX)                                |
 
 
 
@@ -288,6 +289,16 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                          |
+|----------------------|---------------------------|-------------------------------------------------------------------------------|
+| Age Verification     | 24/09/2025, 5:47:09 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)      |
+| Chat Bot Badge About | 10/09/2025, 0:59:42 am    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=es_MX)  |
 
 
 
