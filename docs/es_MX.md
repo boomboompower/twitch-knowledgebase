@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Shared Chat                                                   | 25/09/2025, 9:10:38 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=es_MX)                                                    |
+| Stream Quality                                                | 25/09/2025, 8:39:00 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                                                 |
 | Dual Format Vertical Video                                    | 24/09/2025, 5:47:32 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                                     |
 | Age Verification                                              | 24/09/2025, 5:47:09 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)                                               |
 | Digital Services Act                                          | 23/09/2025, 11:15:36 pm   | [Link](https://help.twitch.tv/s/article/digital-services-act?language=es_MX)                                           |
@@ -22,12 +24,10 @@
 | Achievements                                                  | 30/08/2025, 7:39:06 am    | [Link](https://help.twitch.tv/s/article/achievements?language=es_MX)                                                   |
 | How To Use Clips                                              | 30/08/2025, 7:11:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                                               |
 | Clips Settings                                                | 23/08/2025, 5:04:42 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=es_MX)                                                 |
-| Shared Chat                                                   | 21/08/2025, 3:08:56 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=es_MX)                                                    |
 | Multi Month Subscriptions                                     | 16/08/2025, 7:08:59 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=es_MX)                                      |
 | Subscriptions On Mobile                                       | 16/08/2025, 7:08:30 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=es_MX)                                        |
 | Streamer Benefits                                             | 16/08/2025, 7:06:14 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                                              |
 | Languages On Twitch                                           | 15/08/2025, 4:58:09 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=es_MX)                                            |
-| Stream Quality                                                | 15/08/2025, 3:19:13 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                                                 |
 | Removing Recommendations You Are Not Interested In            | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=es_MX)             |
 | Discovery Feed                                                | 05/08/2025, 5:37:42 am    | [Link](https://help.twitch.tv/s/article/discovery-feed?language=es_MX)                                                 |
 | Mobile                                                        | 05/08/2025, 5:37:40 am    | [Link](https://help.twitch.tv/s/article/mobile?language=es_MX)                                                         |
@@ -295,10 +295,11 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                          |
-|----------------------|---------------------------|-------------------------------------------------------------------------------|
-| Age Verification     | 24/09/2025, 5:47:09 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)      |
-| Chat Bot Badge About | 10/09/2025, 0:59:42 am    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=es_MX)  |
+| Name                       | Last Updated (dd/mm/yyyy) | Link                                                                                |
+|----------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Dual Format Vertical Video | 24/09/2025, 5:47:32 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)  |
+| Age Verification           | 24/09/2025, 5:47:09 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)            |
+| Chat Bot Badge About       | 10/09/2025, 0:59:42 am    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=es_MX)        |
 
 
 

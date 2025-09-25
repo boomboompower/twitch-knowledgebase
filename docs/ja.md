@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Shared Chat                                                   | 25/09/2025, 9:10:38 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=ja)                                                    |
+| Stream Quality                                                | 25/09/2025, 8:39:00 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)                                                 |
+| Dual Format Vertical Video                                    | 24/09/2025, 4:37:06 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)                                     |
 | Digital Services Act                                          | 23/09/2025, 11:13:34 pm   | [Link](https://help.twitch.tv/s/article/digital-services-act?language=ja)                                           |
 | Date Of Birth Changes                                         | 19/09/2025, 5:25:10 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                                          |
 | Creating An Account With Twitch                               | 19/09/2025, 5:24:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ja)                                |
@@ -20,11 +23,9 @@
 | Achievements                                                  | 30/08/2025, 7:39:11 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ja)                                                   |
 | How To Use Clips                                              | 30/08/2025, 7:11:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                               |
 | Clips Settings                                                | 25/08/2025, 10:10:11 am   | [Link](https://help.twitch.tv/s/article/clips-settings?language=ja)                                                 |
-| Shared Chat                                                   | 21/08/2025, 3:08:56 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=ja)                                                    |
 | Multi Month Subscriptions                                     | 16/08/2025, 7:09:00 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=ja)                                      |
 | Subscriptions On Mobile                                       | 16/08/2025, 7:08:30 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ja)                                        |
 | Languages On Twitch                                           | 15/08/2025, 4:58:09 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ja)                                            |
-| Stream Quality                                                | 15/08/2025, 3:19:09 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)                                                 |
 | Partner Program Overview                                      | 07/08/2025, 6:53:38 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                                       |
 | Shared Viewership                                             | 07/08/2025, 6:53:36 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=ja)                                              |
 | Tips For Applying To The Partner Program                      | 07/08/2025, 6:53:36 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ja)                       |
@@ -293,9 +294,10 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                       |
-|----------------------|---------------------------|----------------------------------------------------------------------------|
-| Chat Bot Badge About | 10/09/2025, 1:38:03 pm    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=ja)  |
+| Name                       | Last Updated (dd/mm/yyyy) | Link                                                                             |
+|----------------------------|---------------------------|----------------------------------------------------------------------------------|
+| Dual Format Vertical Video | 24/09/2025, 4:37:06 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)  |
+| Chat Bot Badge About       | 10/09/2025, 1:38:03 pm    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=ja)        |
 
 
 
