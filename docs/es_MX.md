@@ -6,9 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Stream Quality                                                | 27/09/2025, 10:16:01 am   | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                                                 |
+| Stream Rewind                                                 | 27/09/2025, 3:06:07 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es_MX)                                                  |
 | Supported Mobile Os                                           | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=es_MX)                                            |
 | Shared Chat                                                   | 25/09/2025, 11:04:42 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=es_MX)                                                    |
-| Stream Quality                                                | 25/09/2025, 8:39:00 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                                                 |
 | Dual Format Vertical Video                                    | 24/09/2025, 5:47:32 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                                     |
 | Age Verification                                              | 24/09/2025, 5:47:09 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)                                               |
 | Digital Services Act                                          | 23/09/2025, 11:15:36 pm   | [Link](https://help.twitch.tv/s/article/digital-services-act?language=es_MX)                                           |
@@ -296,6 +297,7 @@
 
 | Name                       | Last Updated (dd/mm/yyyy) | Link                                                                                |
 |----------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Stream Rewind              | 27/09/2025, 3:06:07 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es_MX)               |
 | Dual Format Vertical Video | 24/09/2025, 5:47:32 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)  |
 | Age Verification           | 24/09/2025, 5:47:09 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)            |
 | Chat Bot Badge About       | 10/09/2025, 0:59:42 am    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=es_MX)        |
