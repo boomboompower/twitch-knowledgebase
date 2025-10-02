@@ -63,6 +63,8 @@
 | How To Add Stream Delay                                       | 29/07/2025, 8:40:00 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=de)                                        |
 | Gift Card                                                     | 23/07/2025, 9:41:35 pm    | [Link](https://help.twitch.tv/s/article/gift-card?language=de)                                                      |
 | Requesting Your Data From Twitch                              | 23/07/2025, 7:01:54 am    | [Link](https://help.twitch.tv/s/article/requesting-your-data-from-twitch?language=de)                               |
+| Simulcasting Guidelines                                       | 22/07/2025, 3:30:03 am    | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=de)                                        |
+| How To Manage Harassment In Chat                              | 17/07/2025, 7:51:31 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=de)                               |
 
 
 
