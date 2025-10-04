@@ -6,11 +6,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Chat Badges Guide                                      | 03/10/2025, 9:25:08 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=fr)                                       |
+| How To Use Badges                                             | 03/10/2025, 9:25:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=fr)                                              |
+| Viewer Channel Point Guide                                    | 03/10/2025, 9:24:10 pm    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=fr)                                     |
+| Channel Points Faq                                            | 03/10/2025, 9:24:10 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=fr)                                             |
 | Partner Front Page                                            | 03/10/2025, 7:00:27 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=fr)                                             |
-| Channel Points Faq                                            | 03/10/2025, 6:52:42 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=fr)                                             |
-| Viewer Channel Point Guide                                    | 03/10/2025, 6:52:04 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=fr)                                     |
-| How To Use Badges                                             | 03/10/2025, 6:34:14 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=fr)                                              |
-| Twitch Chat Badges Guide                                      | 03/10/2025, 6:33:20 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=fr)                                       |
 | Social Badge                                                  | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=fr)                                                   |
 | Refunds On Twitch                                             | 01/10/2025, 3:03:07 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=fr)                                              |
 | Stream Rewind                                                 | 30/09/2025, 9:34:33 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=fr)                                                  |
@@ -63,7 +63,6 @@
 | Affiliate Emote Prefix Change                                 | 31/07/2025, 8:07:24 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=fr)                                  |
 | Twitch Charity Faqs                                           | 31/07/2025, 8:06:33 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=fr)                                            |
 | How To Add Stream Delay                                       | 29/07/2025, 8:40:00 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=fr)                                        |
-| Gift Card                                                     | 23/07/2025, 7:54:35 pm    | [Link](https://help.twitch.tv/s/article/gift-card?language=fr)                                                      |
 
 
 

@@ -6,11 +6,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Channel Points Faq                                            | 03/10/2025, 11:10:42 pm   | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=zh_TW)                                             |
+| Viewer Channel Point Guide                                    | 03/10/2025, 11:10:40 pm   | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=zh_TW)                                     |
+| How To Use Badges                                             | 03/10/2025, 11:07:52 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=zh_TW)                                              |
+| Twitch Chat Badges Guide                                      | 03/10/2025, 11:07:46 pm   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                                       |
 | Partner Front Page                                            | 03/10/2025, 7:00:28 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                                             |
-| Channel Points Faq                                            | 03/10/2025, 6:52:42 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=zh_TW)                                             |
-| Viewer Channel Point Guide                                    | 03/10/2025, 6:52:04 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=zh_TW)                                     |
-| How To Use Badges                                             | 03/10/2025, 6:34:14 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=zh_TW)                                              |
-| Twitch Chat Badges Guide                                      | 03/10/2025, 6:33:20 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                                       |
 | Social Badge                                                  | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=zh_TW)                                                   |
 | Refunds On Twitch                                             | 01/10/2025, 3:03:19 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=zh_TW)                                              |
 | Dual Format Vertical Video                                    | 30/09/2025, 3:34:54 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                                     |

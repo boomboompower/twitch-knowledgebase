@@ -63,7 +63,6 @@
 | Affiliate Emote Prefix Change                                 | 31/07/2025, 8:07:23 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=de)                                  |
 | Twitch Charity Faqs                                           | 31/07/2025, 8:06:32 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=de)                                            |
 | How To Add Stream Delay                                       | 29/07/2025, 8:40:00 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=de)                                        |
-| Gift Card                                                     | 23/07/2025, 9:41:35 pm    | [Link](https://help.twitch.tv/s/article/gift-card?language=de)                                                      |
 
 
 

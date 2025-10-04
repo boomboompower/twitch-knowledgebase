@@ -65,8 +65,6 @@
 | Affiliate Emote Prefix Change                                 | 31/07/2025, 8:07:24 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=ja)                                  |
 | Twitch Charity Faqs                                           | 31/07/2025, 8:06:33 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=ja)                                            |
 | How To Add Stream Delay                                       | 29/07/2025, 8:40:01 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=ja)                                        |
-| Dj Program Faq                                                | 25/07/2025, 4:44:34 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=ja)                                                 |
-| Content Classification Labels                                 | 25/07/2025, 4:43:34 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=ja)                                  |
 
 
 
