@@ -18,6 +18,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| How To Manage Harassment In Chat      | 17/07/2025, 7:51:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=da)       |
 | Two Factor Authentication With Authy  | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=da)   |
 | Recommended Software For Broadcasting | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=da)  |
 | Twitch Prime Partner Guide            | 08/04/2025, 7:40:27 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=da)             |
