@@ -61,8 +61,6 @@
 | Plus Program                                                  | 31/07/2025, 8:08:33 am    | [Link](https://help.twitch.tv/s/article/plus-program?language=en_US)                                                   |
 | Cheering For Partners Affiliates                              | 31/07/2025, 8:08:25 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=en_US)                               |
 | Emote Guidelines                                              | 31/07/2025, 8:07:54 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=en_US)                                               |
-| Affiliate Emote Prefix Change                                 | 31/07/2025, 8:07:23 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=en_US)                                  |
-| Twitch Charity Faqs                                           | 31/07/2025, 8:06:32 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=en_US)                                            |
 
 
 
@@ -354,6 +352,17 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                  | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|-----------------------|---------------------------|--------------------------------------------------------------------------------|
+| Social Badge          | 03/10/2025, 6:32:22 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=en_US)           |
+| Recover Watch Streaks | 02/10/2025, 3:57:04 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=en_US)  |
+| Stream Rewind         | 26/09/2025, 7:22:04 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=en_US)          |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Recover Watch Streaks                                         | 06/10/2025, 10:27:12 pm   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=zh_TW)                                          |
 | Alerts By Twitch Events                                       | 04/10/2025, 11:38:32 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=zh_TW)                                        |
 | Combos                                                        | 04/10/2025, 11:38:16 am   | [Link](https://help.twitch.tv/s/article/combos?language=zh_TW)                                                         |
 | Dual Format Vertical Video                                    | 04/10/2025, 10:47:52 am   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                                     |
@@ -63,7 +64,6 @@
 | Cheering For Partners Affiliates                              | 31/07/2025, 8:08:27 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=zh_TW)                               |
 | Emote Guidelines                                              | 31/07/2025, 8:07:55 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=zh_TW)                                               |
 | Affiliate Emote Prefix Change                                 | 31/07/2025, 8:07:25 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=zh_TW)                                  |
-| Twitch Charity Faqs                                           | 31/07/2025, 8:06:33 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=zh_TW)                                            |
 
 
 
@@ -294,6 +294,16 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name          | Last Updated (dd/mm/yyyy) | Link                                                                   |
+|---------------|---------------------------|------------------------------------------------------------------------|
+| Social Badge  | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=zh_TW)   |
+| Stream Rewind | 28/09/2025, 6:32:32 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=zh_TW)  |
 
 
 
