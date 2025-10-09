@@ -6,17 +6,17 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Refunds On Twitch                                             | 09/10/2025, 4:15:09 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es)                                              |
+| Dual Format Vertical Video                                    | 08/10/2025, 6:41:05 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es)                                     |
+| Alerts By Twitch Events                                       | 08/10/2025, 6:35:10 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=es)                                        |
+| Combos                                                        | 08/10/2025, 6:35:04 pm    | [Link](https://help.twitch.tv/s/article/combos?language=es)                                                         |
 | Recover Watch Streaks                                         | 07/10/2025, 10:35:40 pm   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es)                                          |
 | Viewer Channel Point Guide                                    | 07/10/2025, 9:50:05 pm    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=es)                                     |
 | Channel Points Faq                                            | 07/10/2025, 9:50:05 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=es)                                             |
 | How To Use Badges                                             | 07/10/2025, 9:49:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=es)                                              |
 | Twitch Chat Badges Guide                                      | 07/10/2025, 9:49:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es)                                       |
-| Alerts By Twitch Events                                       | 04/10/2025, 11:38:32 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=es)                                        |
-| Combos                                                        | 04/10/2025, 11:38:16 am   | [Link](https://help.twitch.tv/s/article/combos?language=es)                                                         |
-| Dual Format Vertical Video                                    | 04/10/2025, 10:47:52 am   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es)                                     |
 | Partner Front Page                                            | 03/10/2025, 7:00:27 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es)                                             |
 | Social Badge                                                  | 03/10/2025, 6:32:22 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=es)                                                   |
-| Refunds On Twitch                                             | 01/10/2025, 3:03:38 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es)                                              |
 | Stream Rewind                                                 | 30/09/2025, 10:28:03 pm   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es)                                                  |
 | Stream Quality                                                | 29/09/2025, 9:54:35 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)                                                 |
 | Supported Mobile Os                                           | 26/09/2025, 5:45:36 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=es)                                            |
@@ -299,10 +299,11 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name          | Last Updated (dd/mm/yyyy) | Link                                                                |
-|---------------|---------------------------|---------------------------------------------------------------------|
-| Social Badge  | 03/10/2025, 6:32:22 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=es)   |
-| Stream Rewind | 30/09/2025, 10:28:03 pm   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es)  |
+| Name                  | Last Updated (dd/mm/yyyy) | Link                                                                        |
+|-----------------------|---------------------------|-----------------------------------------------------------------------------|
+| Recover Watch Streaks | 07/10/2025, 10:35:40 pm   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es)  |
+| Social Badge          | 03/10/2025, 6:32:22 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=es)           |
+| Stream Rewind         | 30/09/2025, 10:28:03 pm   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es)          |
 
 
 

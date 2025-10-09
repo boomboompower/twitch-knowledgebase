@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Refunds On Twitch                                             | 09/10/2025, 4:15:10 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=pt_BR)                                              |
 | Dual Format Vertical Video                                    | 07/10/2025, 9:27:34 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=pt_BR)                                     |
 | Alerts By Twitch Events                                       | 07/10/2025, 6:50:06 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=pt_BR)                                        |
 | Combos                                                        | 07/10/2025, 6:50:04 am    | [Link](https://help.twitch.tv/s/article/combos?language=pt_BR)                                                         |
@@ -16,7 +17,6 @@
 | Twitch Chat Badges Guide                                      | 04/10/2025, 5:23:35 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=pt_BR)                                       |
 | Partner Front Page                                            | 03/10/2025, 7:00:26 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=pt_BR)                                             |
 | Social Badge                                                  | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=pt_BR)                                                   |
-| Refunds On Twitch                                             | 01/10/2025, 3:03:31 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=pt_BR)                                              |
 | Stream Rewind                                                 | 29/09/2025, 5:20:02 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=pt_BR)                                                  |
 | Stream Quality                                                | 26/09/2025, 0:18:10 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)                                                 |
 | Supported Mobile Os                                           | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=pt_BR)                                            |

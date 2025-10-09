@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Refunds On Twitch                                             | 09/10/2025, 4:15:08 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ja)                                              |
 | Alerts By Twitch Events                                       | 07/10/2025, 0:06:15 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ja)                                        |
 | Combos                                                        | 07/10/2025, 0:06:04 pm    | [Link](https://help.twitch.tv/s/article/combos?language=ja)                                                         |
 | Dual Format Vertical Video                                    | 07/10/2025, 11:58:34 am   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)                                     |
@@ -17,7 +18,6 @@
 | Partner Front Page                                            | 03/10/2025, 7:00:28 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=ja)                                             |
 | Social Badge                                                  | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=ja)                                                   |
 | Stream Rewind                                                 | 01/10/2025, 0:04:38 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=ja)                                                  |
-| Refunds On Twitch                                             | 01/10/2025, 3:03:34 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ja)                                              |
 | Stream Quality                                                | 29/09/2025, 6:14:38 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)                                                 |
 | Supported Mobile Os                                           | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=ja)                                            |
 | Age Verification                                              | 25/09/2025, 11:42:03 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=ja)                                               |
@@ -299,10 +299,11 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name          | Last Updated (dd/mm/yyyy) | Link                                                                |
-|---------------|---------------------------|---------------------------------------------------------------------|
-| Social Badge  | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=ja)   |
-| Stream Rewind | 01/10/2025, 0:04:38 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=ja)  |
+| Name                  | Last Updated (dd/mm/yyyy) | Link                                                                        |
+|-----------------------|---------------------------|-----------------------------------------------------------------------------|
+| Recover Watch Streaks | 06/10/2025, 3:28:02 pm    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=ja)  |
+| Social Badge          | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=ja)           |
+| Stream Rewind         | 01/10/2025, 0:04:38 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=ja)          |
 
 
 

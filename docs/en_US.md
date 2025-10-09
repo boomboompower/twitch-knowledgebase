@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Refunds On Twitch                                             | 09/10/2025, 4:15:08 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=en_US)                                              |
 | Alerts By Twitch Events                                       | 04/10/2025, 11:38:32 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                                        |
 | Combos                                                        | 04/10/2025, 11:38:16 am   | [Link](https://help.twitch.tv/s/article/combos?language=en_US)                                                         |
 | Dual Format Vertical Video                                    | 04/10/2025, 10:47:52 am   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)                                     |
@@ -61,7 +62,6 @@
 | Plus Program                                                  | 31/07/2025, 8:08:33 am    | [Link](https://help.twitch.tv/s/article/plus-program?language=en_US)                                                   |
 | Cheering For Partners Affiliates                              | 31/07/2025, 8:08:25 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=en_US)                               |
 | Emote Guidelines                                              | 31/07/2025, 8:07:54 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=en_US)                                               |
-| Affiliate Emote Prefix Change                                 | 31/07/2025, 8:07:23 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=en_US)                                  |
 
 
 

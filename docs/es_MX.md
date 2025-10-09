@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Refunds On Twitch                                             | 09/10/2025, 4:15:09 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es_MX)                                              |
 | Dual Format Vertical Video                                    | 07/10/2025, 11:26:04 pm   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                                     |
 | Alerts By Twitch Events                                       | 07/10/2025, 11:25:34 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=es_MX)                                        |
 | Combos                                                        | 07/10/2025, 11:25:33 pm   | [Link](https://help.twitch.tv/s/article/combos?language=es_MX)                                                         |
@@ -16,7 +17,6 @@
 | Partner Front Page                                            | 03/10/2025, 7:00:27 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es_MX)                                             |
 | Social Badge                                                  | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=es_MX)                                                   |
 | Recover Watch Streaks                                         | 02/10/2025, 10:16:03 pm   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                                          |
-| Refunds On Twitch                                             | 01/10/2025, 3:03:36 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es_MX)                                              |
 | Stream Rewind                                                 | 27/09/2025, 11:40:12 am   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es_MX)                                                  |
 | Stream Quality                                                | 27/09/2025, 10:16:01 am   | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                                                 |
 | Supported Mobile Os                                           | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=es_MX)                                            |
@@ -299,10 +299,11 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name          | Last Updated (dd/mm/yyyy) | Link                                                                   |
-|---------------|---------------------------|------------------------------------------------------------------------|
-| Social Badge  | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=es_MX)   |
-| Stream Rewind | 27/09/2025, 11:40:12 am   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es_MX)  |
+| Name                  | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|-----------------------|---------------------------|--------------------------------------------------------------------------------|
+| Social Badge          | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=es_MX)           |
+| Recover Watch Streaks | 02/10/2025, 10:16:03 pm   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)  |
+| Stream Rewind         | 27/09/2025, 11:40:12 am   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es_MX)          |
 
 
 

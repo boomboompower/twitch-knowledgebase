@@ -6,17 +6,17 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Refunds On Twitch                                             | 09/10/2025, 4:15:10 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=zh_TW)                                              |
+| Combos                                                        | 08/10/2025, 7:01:37 pm    | [Link](https://help.twitch.tv/s/article/combos?language=zh_TW)                                                         |
+| Alerts By Twitch Events                                       | 08/10/2025, 7:01:36 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=zh_TW)                                        |
+| Dual Format Vertical Video                                    | 08/10/2025, 6:54:05 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                                     |
 | Recover Watch Streaks                                         | 06/10/2025, 10:27:12 pm   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=zh_TW)                                          |
-| Alerts By Twitch Events                                       | 04/10/2025, 11:38:32 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=zh_TW)                                        |
-| Combos                                                        | 04/10/2025, 11:38:16 am   | [Link](https://help.twitch.tv/s/article/combos?language=zh_TW)                                                         |
-| Dual Format Vertical Video                                    | 04/10/2025, 10:47:52 am   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                                     |
 | Channel Points Faq                                            | 03/10/2025, 11:10:42 pm   | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=zh_TW)                                             |
 | Viewer Channel Point Guide                                    | 03/10/2025, 11:10:40 pm   | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=zh_TW)                                     |
 | How To Use Badges                                             | 03/10/2025, 11:07:52 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=zh_TW)                                              |
 | Twitch Chat Badges Guide                                      | 03/10/2025, 11:07:46 pm   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                                       |
 | Partner Front Page                                            | 03/10/2025, 7:00:28 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                                             |
 | Social Badge                                                  | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=zh_TW)                                                   |
-| Refunds On Twitch                                             | 01/10/2025, 3:03:19 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=zh_TW)                                              |
 | Stream Rewind                                                 | 28/09/2025, 6:32:32 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=zh_TW)                                                  |
 | Stream Quality                                                | 28/09/2025, 5:51:53 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                                                 |
 | Supported Mobile Os                                           | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=zh_TW)                                            |
