@@ -15,16 +15,16 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Czech                         | 16/08/2025, 7:08:39 am    | 20 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 19/09/2025, 5:24:51 am    | 27 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 19/09/2025, 5:24:51 am    | 34 article(s)  | [View](docs/nl_NL.md)  |
-| English (United States)       | 09/10/2025, 4:15:08 am    | 317 article(s) | [View](docs/en_US.md)  |
+| English (United States)       | 09/10/2025, 4:15:08 am    | 318 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 19/09/2025, 5:24:51 am    | 25 article(s)  | [View](docs/fi.md)     |
 | French                        | 09/10/2025, 4:15:09 am    | 252 article(s) | [View](docs/fr.md)     |
-| German                        | 09/10/2025, 4:15:09 am    | 251 article(s) | [View](docs/de.md)     |
+| German                        | 09/10/2025, 4:15:09 am    | 252 article(s) | [View](docs/de.md)     |
 | Greek                         | 14/06/2025, 4:23:07 am    | 6 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 16/08/2025, 7:08:39 am    | 18 article(s)  | [View](docs/hu.md)     |
 | Italian                       | 09/10/2025, 4:15:09 am    | 251 article(s) | [View](docs/it.md)     |
 | Japanese                      | 09/10/2025, 4:15:08 am    | 250 article(s) | [View](docs/ja.md)     |
 | Norwegian                     | 19/09/2025, 5:24:51 am    | 27 article(s)  | [View](docs/no.md)     |
-| Polish                        | 09/10/2025, 4:15:08 am    | 179 article(s) | [View](docs/pl.md)     |
+| Polish                        | 09/10/2025, 4:15:08 am    | 180 article(s) | [View](docs/pl.md)     |
 | Portuguese (Brazil)           | 09/10/2025, 4:15:10 am    | 249 article(s) | [View](docs/pt_BR.md)  |
 | Portuguese (Portugal)         | 05/09/2025, 6:24:09 am    | 39 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 17/12/2024, 10:00:19 am   | 2 article(s)   | [View](docs/ro.md)     |
