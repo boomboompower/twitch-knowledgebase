@@ -6,13 +6,13 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                                    | 18/10/2025, 4:31:02 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)                                     |
 | Subscription Cancellation Reasons                             | 15/10/2025, 1:54:53 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ja)                              |
 | What Is Fraud                                                 | 15/10/2025, 1:53:11 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=ja)                                                  |
 | Costreaming                                                   | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=ja)                                                    |
 | Refunds On Twitch                                             | 09/10/2025, 4:15:08 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ja)                                              |
 | Alerts By Twitch Events                                       | 07/10/2025, 0:06:15 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ja)                                        |
 | Combos                                                        | 07/10/2025, 0:06:04 pm    | [Link](https://help.twitch.tv/s/article/combos?language=ja)                                                         |
-| Dual Format Vertical Video                                    | 07/10/2025, 11:58:34 am   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)                                     |
 | Channel Points Faq                                            | 06/10/2025, 3:31:06 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ja)                                             |
 | Viewer Channel Point Guide                                    | 06/10/2025, 3:31:05 pm    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=ja)                                     |
 | How To Use Badges                                             | 06/10/2025, 3:29:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=ja)                                              |
@@ -65,7 +65,6 @@
 | Channel Points Guide                                          | 31/07/2025, 8:09:50 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=ja)                                           |
 | Stories                                                       | 31/07/2025, 8:08:50 am    | [Link](https://help.twitch.tv/s/article/stories?language=ja)                                                        |
 | Channel Points Predictions                                    | 31/07/2025, 8:08:43 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=ja)                                     |
-| Plus Program                                                  | 31/07/2025, 8:08:33 am    | [Link](https://help.twitch.tv/s/article/plus-program?language=ja)                                                   |
 
 
 

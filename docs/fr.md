@@ -6,19 +6,23 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Partner Front Page                                            | 18/10/2025, 6:41:24 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=fr)                                             |
+| Branded Content Policy                                        | 18/10/2025, 6:41:03 am    | [Link](https://help.twitch.tv/s/article/branded-content-policy?language=fr)                                         |
+| Bounty Board Program Information And Faq                      | 18/10/2025, 6:40:23 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=fr)                       |
+| Sponsorship Experiments Faq                                   | 18/10/2025, 6:10:12 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=fr)                                    |
+| Channel Skins                                                 | 18/10/2025, 6:10:05 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=fr)                                                  |
+| Dual Format Vertical Video                                    | 18/10/2025, 4:31:02 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                                     |
 | Subscription Cancellation Reasons                             | 15/10/2025, 1:54:52 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=fr)                              |
 | What Is Fraud                                                 | 15/10/2025, 1:53:11 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=fr)                                                  |
 | Costreaming                                                   | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=fr)                                                    |
 | Refunds On Twitch                                             | 09/10/2025, 4:15:09 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=fr)                                              |
 | Combos                                                        | 08/10/2025, 8:07:08 pm    | [Link](https://help.twitch.tv/s/article/combos?language=fr)                                                         |
 | Alerts By Twitch Events                                       | 08/10/2025, 8:07:05 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=fr)                                        |
-| Dual Format Vertical Video                                    | 08/10/2025, 7:58:08 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                                     |
 | Recover Watch Streaks                                         | 07/10/2025, 10:11:34 pm   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=fr)                                          |
 | Twitch Chat Badges Guide                                      | 03/10/2025, 9:25:08 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=fr)                                       |
 | How To Use Badges                                             | 03/10/2025, 9:25:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=fr)                                              |
 | Viewer Channel Point Guide                                    | 03/10/2025, 9:24:10 pm    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=fr)                                     |
 | Channel Points Faq                                            | 03/10/2025, 9:24:10 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=fr)                                             |
-| Partner Front Page                                            | 03/10/2025, 7:00:27 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=fr)                                             |
 | Social Badge                                                  | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=fr)                                                   |
 | Stream Rewind                                                 | 30/09/2025, 9:34:33 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=fr)                                                  |
 | Stream Quality                                                | 29/09/2025, 10:03:12 pm   | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)                                                 |
@@ -63,7 +67,6 @@
 | Channel Points Guide                                          | 31/07/2025, 8:09:50 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=fr)                                           |
 | Stories                                                       | 31/07/2025, 8:08:50 am    | [Link](https://help.twitch.tv/s/article/stories?language=fr)                                                        |
 | Channel Points Predictions                                    | 31/07/2025, 8:08:43 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=fr)                                     |
-| Plus Program                                                  | 31/07/2025, 8:08:34 am    | [Link](https://help.twitch.tv/s/article/plus-program?language=fr)                                                   |
 
 
 
