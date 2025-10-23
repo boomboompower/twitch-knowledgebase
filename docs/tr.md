@@ -6,6 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Music Options For Streamers                                   | 23/10/2025, 9:18:37 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=tr)                                    |
+| Partner Program Overview                                      | 23/10/2025, 9:01:08 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=tr)                                       |
+| Achievements                                                  | 23/10/2025, 8:45:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=tr)                                                   |
+| Tips For Applying To The Partner Program                      | 23/10/2025, 8:02:21 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=tr)                       |
 | Subscription Cancellation Reasons                             | 15/10/2025, 1:54:51 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=tr)                              |
 | Refunds On Twitch                                             | 09/10/2025, 4:15:08 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=tr)                                              |
 | Alerts By Twitch Events                                       | 04/10/2025, 11:38:32 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=tr)                                        |
@@ -16,7 +20,6 @@
 | Creating An Account With Twitch                               | 19/09/2025, 5:24:51 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=tr)                                |
 | Children On Twitch                                            | 19/09/2025, 5:24:36 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=tr)                                             |
 | Setting Up Moderation For Your Twitch Channel                 | 05/09/2025, 6:24:09 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=tr)                  |
-| Achievements                                                  | 30/08/2025, 7:24:13 am    | [Link](https://help.twitch.tv/s/article/achievements?language=tr)                                                   |
 | How To Use Clips                                              | 30/08/2025, 7:11:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=tr)                                               |
 | Multi Month Subscriptions                                     | 16/08/2025, 7:08:59 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=tr)                                      |
 | Subscriptions On Mobile                                       | 16/08/2025, 7:08:28 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=tr)                                        |
@@ -33,9 +36,6 @@
 | Payout Balance Faq                                            | 31/07/2025, 8:14:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=tr)                                             |
 | Twitch Charity                                                | 31/07/2025, 8:13:43 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=tr)                                                 |
 | Twitch Affiliate Program Faq                                  | 31/07/2025, 8:13:34 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=tr)                                   |
-| When Am I Getting Paid                                        | 31/07/2025, 8:13:20 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=tr)                                         |
-| Channel Points Guide                                          | 31/07/2025, 8:09:49 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=tr)                                           |
-| Channel Points Predictions                                    | 31/07/2025, 8:08:42 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=tr)                                     |
 
 
 

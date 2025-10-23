@@ -6,8 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Achievements                                                  | 23/10/2025, 8:45:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                                                   |
 | Setting Up Moderation For Your Twitch Channel                 | 05/09/2025, 6:24:09 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=pt_PT)                  |
-| Achievements                                                  | 30/08/2025, 7:24:13 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                                                   |
 | How To Subscribe                                              | 16/08/2025, 7:08:50 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                                               |
 | Gift Subscriptions                                            | 16/08/2025, 7:08:39 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                                             |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 31/07/2025, 8:14:45 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pt_PT)  |

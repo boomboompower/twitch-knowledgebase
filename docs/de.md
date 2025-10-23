@@ -6,6 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Music Options For Streamers                                   | 23/10/2025, 11:25:34 am   | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=de)                                    |
+| Partner Program Overview                                      | 23/10/2025, 9:01:08 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                       |
+| Achievements                                                  | 23/10/2025, 8:45:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=de)                                                   |
+| Tips For Applying To The Partner Program                      | 23/10/2025, 8:02:21 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=de)                       |
 | Dual Format Vertical Video                                    | 18/10/2025, 4:31:02 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=de)                                     |
 | Subscription Cancellation Reasons                             | 15/10/2025, 1:54:52 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=de)                              |
 | What Is Fraud                                                 | 15/10/2025, 1:53:10 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=de)                                                  |
@@ -34,7 +38,6 @@
 | Setting Up Moderation For Your Twitch Channel                 | 05/09/2025, 9:35:23 pm    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=de)                  |
 | Subtember 2025 Faq                                            | 05/09/2025, 9:35:21 pm    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=de)                                             |
 | Bleed Purple                                                  | 05/09/2025, 2:28:30 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=de)                                                   |
-| Achievements                                                  | 30/08/2025, 7:39:02 am    | [Link](https://help.twitch.tv/s/article/achievements?language=de)                                                   |
 | How To Use Clips                                              | 30/08/2025, 7:11:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                               |
 | Clips Settings                                                | 24/08/2025, 11:40:03 pm   | [Link](https://help.twitch.tv/s/article/clips-settings?language=de)                                                 |
 | Multi Month Subscriptions                                     | 16/08/2025, 7:08:59 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=de)                                      |
@@ -59,10 +62,6 @@
 | Twitch Charity                                                | 31/07/2025, 8:13:43 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=de)                                                 |
 | Twitch Affiliate Program Faq                                  | 31/07/2025, 8:13:36 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)                                   |
 | When Am I Getting Paid                                        | 31/07/2025, 8:13:20 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=de)                                         |
-| Leaderboards Guide                                            | 31/07/2025, 8:12:58 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=de)                                             |
-| Channel Points Guide                                          | 31/07/2025, 8:09:49 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=de)                                           |
-| Stories                                                       | 31/07/2025, 8:08:49 am    | [Link](https://help.twitch.tv/s/article/stories?language=de)                                                        |
-| Channel Points Predictions                                    | 31/07/2025, 8:08:42 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=de)                                     |
 
 
 
@@ -291,6 +290,20 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                  | Last Updated (dd/mm/yyyy) | Link                                                                        |
+|-----------------------|---------------------------|-----------------------------------------------------------------------------|
+| Costreaming           | 15/10/2025, 1:33:19 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=de)            |
+| Recover Watch Streaks | 07/10/2025, 9:11:51 pm    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=de)  |
+| Social Badge          | 03/10/2025, 6:32:22 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=de)           |
+| Stream Rewind         | 30/09/2025, 10:31:36 pm   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=de)          |
+| Age Verification      | 25/09/2025, 11:30:48 pm   | [Link](https://help.twitch.tv/s/article/age-verification?language=de)       |
+| Chat Bot Badge About  | 09/09/2025, 7:11:39 pm    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=de)   |
 
 
 
