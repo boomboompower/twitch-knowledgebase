@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                                    | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es)                                     |
 | Music Options For Streamers                                   | 23/10/2025, 10:49:12 am   | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=es)                                    |
 | Partner Program Overview                                      | 23/10/2025, 9:01:11 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                                       |
 | Achievements                                                  | 23/10/2025, 8:45:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=es)                                                   |
@@ -61,7 +62,6 @@
 | Payout Balance Faq                                            | 31/07/2025, 8:14:06 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=es)                                             |
 | Twitch Charity                                                | 31/07/2025, 8:13:44 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=es)                                                 |
 | Twitch Affiliate Program Faq                                  | 31/07/2025, 8:13:37 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                                   |
-| When Am I Getting Paid                                        | 31/07/2025, 8:13:20 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=es)                                         |
 
 
 

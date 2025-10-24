@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Prime Partner Guide                                    | 24/10/2025, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=hu)                                     |
 | Gift Subscriptions                                            | 16/08/2025, 7:08:39 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=hu)                                             |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 31/07/2025, 8:14:45 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=hu)  |
 

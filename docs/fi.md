@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Prime Partner Guide                                    | 24/10/2025, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=fi)                                     |
 | Creating An Account With Twitch                               | 19/09/2025, 5:24:51 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fi)                                |
 | Gift Subscriptions                                            | 16/08/2025, 7:08:39 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=fi)                                             |
 | Removing Recommendations You Are Not Interested In            | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=fi)             |

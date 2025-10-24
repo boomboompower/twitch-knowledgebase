@@ -6,10 +6,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                                    | 24/10/2025, 6:56:09 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=de)                                     |
+| Tips For Applying To The Partner Program                      | 23/10/2025, 10:52:31 pm   | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=de)                       |
+| Achievements                                                  | 23/10/2025, 10:52:28 pm   | [Link](https://help.twitch.tv/s/article/achievements?language=de)                                                   |
+| Partner Program Overview                                      | 23/10/2025, 10:52:27 pm   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                       |
 | Music Options For Streamers                                   | 23/10/2025, 11:25:34 am   | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=de)                                    |
-| Partner Program Overview                                      | 23/10/2025, 9:01:08 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                       |
-| Achievements                                                  | 23/10/2025, 8:45:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=de)                                                   |
-| Tips For Applying To The Partner Program                      | 23/10/2025, 8:02:21 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=de)                       |
 | Dual Format Vertical Video                                    | 18/10/2025, 4:31:02 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=de)                                     |
 | Subscription Cancellation Reasons                             | 15/10/2025, 1:54:52 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=de)                              |
 | What Is Fraud                                                 | 15/10/2025, 1:53:10 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=de)                                                  |
@@ -61,7 +62,6 @@
 | Payout Balance Faq                                            | 31/07/2025, 8:14:05 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=de)                                             |
 | Twitch Charity                                                | 31/07/2025, 8:13:43 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=de)                                                 |
 | Twitch Affiliate Program Faq                                  | 31/07/2025, 8:13:36 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)                                   |
-| When Am I Getting Paid                                        | 31/07/2025, 8:13:20 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=de)                                         |
 
 
 

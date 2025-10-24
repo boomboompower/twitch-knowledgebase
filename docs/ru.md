@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                                    | 24/10/2025, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ru)                                     |
 | Music Options For Streamers                                   | 23/10/2025, 9:18:37 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=ru)                                    |
 | Partner Program Overview                                      | 23/10/2025, 9:01:08 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ru)                                       |
 | Achievements                                                  | 23/10/2025, 8:45:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ru)                                                   |
@@ -35,7 +36,6 @@
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 31/07/2025, 8:14:45 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=ru)  |
 | Payout Balance Faq                                            | 31/07/2025, 8:14:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=ru)                                             |
 | Twitch Charity                                                | 31/07/2025, 8:13:43 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=ru)                                                 |
-| Twitch Affiliate Program Faq                                  | 31/07/2025, 8:13:34 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ru)                                   |
 
 
 

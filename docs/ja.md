@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                                    | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                                     |
 | Music Options For Streamers                                   | 23/10/2025, 11:10:59 am   | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=ja)                                    |
 | Partner Program Overview                                      | 23/10/2025, 9:01:12 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                                       |
 | Achievements                                                  | 23/10/2025, 8:45:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ja)                                                   |

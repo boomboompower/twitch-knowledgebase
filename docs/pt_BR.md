@@ -6,10 +6,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Tips For Applying To The Partner Program                      | 24/10/2025, 7:49:10 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=pt_BR)                       |
+| Achievements                                                  | 24/10/2025, 7:49:08 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_BR)                                                   |
+| Partner Program Overview                                      | 24/10/2025, 7:49:08 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)                                       |
+| Prime Gaming Revenue Guide                                    | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pt_BR)                                     |
 | Music Options For Streamers                                   | 23/10/2025, 10:47:03 am   | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=pt_BR)                                    |
-| Partner Program Overview                                      | 23/10/2025, 9:01:12 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)                                       |
-| Achievements                                                  | 23/10/2025, 8:45:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_BR)                                                   |
-| Tips For Applying To The Partner Program                      | 23/10/2025, 8:02:21 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=pt_BR)                       |
 | Dual Format Vertical Video                                    | 18/10/2025, 4:31:02 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=pt_BR)                                     |
 | Costreaming                                                   | 17/10/2025, 2:11:17 pm    | [Link](https://help.twitch.tv/s/article/costreaming?language=pt_BR)                                                    |
 | Subscription Cancellation Reasons                             | 15/10/2025, 1:54:53 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=pt_BR)                              |

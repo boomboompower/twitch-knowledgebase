@@ -6,7 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Music Options For Streamers                                   | 23/10/2025, 11:04:18 am   | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=it)                                    |
+| Prime Gaming Revenue Guide                                    | 24/10/2025, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)                                     |
+| Music Options For Streamers                                   | 23/10/2025, 1:58:01 pm    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=it)                                    |
 | Partner Program Overview                                      | 23/10/2025, 9:01:12 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=it)                                       |
 | Achievements                                                  | 23/10/2025, 8:45:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=it)                                                   |
 | Tips For Applying To The Partner Program                      | 23/10/2025, 8:02:21 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=it)                       |
@@ -60,8 +61,6 @@
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 31/07/2025, 8:14:46 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=it)  |
 | Payout Balance Faq                                            | 31/07/2025, 8:14:06 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=it)                                             |
 | Twitch Charity                                                | 31/07/2025, 8:13:44 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=it)                                                 |
-| Twitch Affiliate Program Faq                                  | 31/07/2025, 8:13:33 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=it)                                   |
-| When Am I Getting Paid                                        | 31/07/2025, 8:13:20 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=it)                                         |
 
 
 
