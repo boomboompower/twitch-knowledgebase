@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Video On Demand                                               | 28/10/2025, 5:19:55 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                                |
 | Dual Format Vertical Video                                    | 25/10/2025, 9:11:00 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)                                     |
 | Prime Gaming Revenue Guide                                    | 24/10/2025, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)                                     |
 | In Game Experience Selector                                   | 23/10/2025, 0:50:11 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=en_US)                                    |
@@ -55,7 +56,6 @@
 | Founders Badge                                                | 31/07/2025, 8:18:15 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=en_US)                                                 |
 | Streamelements Campaigns                                      | 31/07/2025, 8:18:04 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=en_US)                                       |
 | Creator Goals                                                 | 31/07/2025, 8:17:15 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                                  |
-| Video On Demand                                               | 31/07/2025, 8:16:30 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                                |
 | Payout Details Faq                                            | 31/07/2025, 8:16:22 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                                             |
 | Subscriber Emote Guide                                        | 31/07/2025, 8:16:14 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=en_US)                                         |
 | Subscriber Badge Guide                                        | 31/07/2025, 8:15:22 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=en_US)                                         |
@@ -64,6 +64,7 @@
 | Payout Balance Faq                                            | 31/07/2025, 8:14:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=en_US)                                             |
 | Twitch Charity                                                | 31/07/2025, 8:13:43 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=en_US)                                                 |
 | Twitch Affiliate Program Faq                                  | 31/07/2025, 8:13:34 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                                   |
+| When Am I Getting Paid                                        | 31/07/2025, 8:13:20 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=en_US)                                         |
 
 
 
@@ -362,6 +363,8 @@
 | In Game Experience Selector | 23/10/2025, 0:50:11 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=en_US)  |
 | Mdr Interview               | 23/10/2025, 6:06:42 am    | [Link](https://help.twitch.tv/s/article/mdr-interview?language=en_US)                |
 | Auto Clips                  | 18/10/2025, 4:31:03 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                   |
+| Costreaming                 | 15/10/2025, 1:33:19 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=en_US)                  |
+| Stream Rewind               | 26/09/2025, 7:22:04 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=en_US)                |
 
 
 

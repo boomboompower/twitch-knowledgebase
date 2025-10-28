@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Video On Demand                                               | 28/10/2025, 5:19:55 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pl)                                                |
 | Prime Gaming Revenue Guide                                    | 24/10/2025, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pl)                                     |
 | Music Options For Streamers                                   | 23/10/2025, 9:18:37 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=pl)                                    |
 | Partner Program Overview                                      | 23/10/2025, 9:01:08 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pl)                                       |
@@ -29,7 +30,6 @@
 | Ads Manager                                                   | 31/07/2025, 8:18:21 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=pl)                                                    |
 | Founders Badge                                                | 31/07/2025, 8:18:15 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=pl)                                                 |
 | Creator Goals                                                 | 31/07/2025, 8:17:15 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=pl)                                                  |
-| Video On Demand                                               | 31/07/2025, 8:16:30 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pl)                                                |
 | Subscriber Emote Guide                                        | 31/07/2025, 8:16:14 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=pl)                                         |
 | Subscriber Badge Guide                                        | 31/07/2025, 8:15:22 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=pl)                                         |
 | Partner Onboarding Guide                                      | 31/07/2025, 8:15:05 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pl)                                       |

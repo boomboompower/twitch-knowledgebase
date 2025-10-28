@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Video On Demand                                               | 28/10/2025, 5:19:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es_MX)                                                |
 | Dual Format Vertical Video                                    | 25/10/2025, 9:11:00 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                                     |
 | Prime Gaming Revenue Guide                                    | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)                                     |
 | Tips For Applying To The Partner Program                      | 24/10/2025, 0:36:13 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=es_MX)                       |
@@ -53,7 +54,6 @@
 | Founders Badge                                                | 31/07/2025, 8:18:16 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=es_MX)                                                 |
 | Streamelements Campaigns                                      | 31/07/2025, 8:18:05 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es_MX)                                       |
 | Creator Goals                                                 | 31/07/2025, 8:17:15 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=es_MX)                                                  |
-| Video On Demand                                               | 31/07/2025, 8:16:31 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es_MX)                                                |
 | Payout Details Faq                                            | 31/07/2025, 8:16:22 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es_MX)                                             |
 | Subscriber Emote Guide                                        | 31/07/2025, 8:16:14 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=es_MX)                                         |
 | Subscriber Badge Guide                                        | 31/07/2025, 8:15:23 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es_MX)                                         |
@@ -288,6 +288,16 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name          | Last Updated (dd/mm/yyyy) | Link                                                                   |
+|---------------|---------------------------|------------------------------------------------------------------------|
+| Costreaming   | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=es_MX)    |
+| Stream Rewind | 27/09/2025, 11:40:12 am   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es_MX)  |
 
 
 
