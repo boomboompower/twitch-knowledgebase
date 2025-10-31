@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| In Game Experience Selector                                   | 30/10/2025, 10:38:53 pm   | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=es_MX)                                    |
 | Dual Format Vertical Video                                    | 29/10/2025, 11:21:45 pm   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                                     |
 | Twitch Chat Badges Guide                                      | 29/10/2025, 9:15:18 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es_MX)                                       |
 | Twitch Merchandise Store Support Faq                          | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=es_MX)                           |
@@ -295,17 +296,18 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                       | Last Updated (dd/mm/yyyy) | Link                                                                                |
-|----------------------------|---------------------------|-------------------------------------------------------------------------------------|
-| Auto Clips                 | 28/10/2025, 10:44:22 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                  |
-| Dual Format Vertical Video | 25/10/2025, 9:11:00 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)  |
-| Costreaming                | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=es_MX)                 |
-| Social Badge               | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=es_MX)                |
-| Recover Watch Streaks      | 02/10/2025, 10:16:03 pm   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)       |
-| Stream Rewind              | 27/09/2025, 11:40:12 am   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es_MX)               |
-| Age Verification           | 24/09/2025, 5:47:09 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)            |
-| Chat Bot Badge About       | 10/09/2025, 0:59:42 am    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=es_MX)        |
-| Subtember 2025 Faq         | 08/09/2025, 8:05:05 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=es_MX)          |
+| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                                 |
+|-----------------------------|---------------------------|--------------------------------------------------------------------------------------|
+| In Game Experience Selector | 30/10/2025, 10:38:53 pm   | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=es_MX)  |
+| Auto Clips                  | 28/10/2025, 10:44:22 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                   |
+| Dual Format Vertical Video  | 25/10/2025, 9:11:00 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)   |
+| Costreaming                 | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=es_MX)                  |
+| Social Badge                | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=es_MX)                 |
+| Recover Watch Streaks       | 02/10/2025, 10:16:03 pm   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)        |
+| Stream Rewind               | 27/09/2025, 11:40:12 am   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es_MX)                |
+| Age Verification            | 24/09/2025, 5:47:09 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)             |
+| Chat Bot Badge About        | 10/09/2025, 0:59:42 am    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=es_MX)         |
+| Subtember 2025 Faq          | 08/09/2025, 8:05:05 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=es_MX)           |
 
 
 
