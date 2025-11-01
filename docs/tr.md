@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Partner Program Overview                           | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=tr)                            |
 | Twitch Chat Badges Guide                           | 29/10/2025, 9:15:17 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=tr)                            |
 | Twitch Merchandise Store Support Faq               | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=tr)                |
 | Twitch Turbo Guide                                 | 29/10/2025, 9:14:03 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=tr)                                  |
@@ -14,7 +15,6 @@
 | Video On Demand                                    | 28/10/2025, 5:19:55 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=tr)                                     |
 | Prime Gaming Revenue Guide                         | 24/10/2025, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=tr)                          |
 | Music Options For Streamers                        | 23/10/2025, 9:18:37 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=tr)                         |
-| Partner Program Overview                           | 23/10/2025, 9:01:08 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=tr)                            |
 | Achievements                                       | 23/10/2025, 8:45:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=tr)                                        |
 | Tips For Applying To The Partner Program           | 23/10/2025, 8:02:21 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=tr)            |
 | Subscription Cancellation Reasons                  | 15/10/2025, 1:54:51 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=tr)                   |
@@ -35,7 +35,6 @@
 | Creator Goals                                      | 31/07/2025, 8:17:15 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=tr)                                       |
 | Subscriber Emote Guide                             | 31/07/2025, 8:16:14 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=tr)                              |
 | Subscriber Badge Guide                             | 31/07/2025, 8:15:22 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=tr)                              |
-| Partner Onboarding Guide                           | 31/07/2025, 8:15:05 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=tr)                            |
 
 
 

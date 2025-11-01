@@ -6,6 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Partner Program Overview                           | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=fr)                            |
+| Drops Prime Difference                             | 01/11/2025, 7:42:57 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=fr)                              |
 | Auto Clips                                         | 31/10/2025, 11:04:38 am   | [Link](https://help.twitch.tv/s/article/auto-clips?language=fr)                                          |
 | Dual Format Vertical Video                         | 31/10/2025, 3:33:08 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                          |
 | Twitch Chat Badges Guide                           | 29/10/2025, 9:15:17 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=fr)                            |
@@ -14,7 +16,6 @@
 | Founders Badge                                     | 29/10/2025, 9:12:16 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=fr)                                      |
 | Your First Payout Walkthrough                      | 29/10/2025, 9:11:56 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=fr)                       |
 | Video On Demand                                    | 28/10/2025, 5:19:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=fr)                                     |
-| Partner Program Overview                           | 27/10/2025, 9:29:31 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=fr)                            |
 | Achievements                                       | 27/10/2025, 9:29:29 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=fr)                                        |
 | Tips For Applying To The Partner Program           | 27/10/2025, 9:29:28 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=fr)            |
 | Prime Gaming Revenue Guide                         | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=fr)                          |

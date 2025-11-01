@@ -6,6 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Partner Program Overview                           | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=it)                            |
+| Drops Prime Difference                             | 01/11/2025, 7:42:57 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=it)                              |
 | Auto Clips                                         | 30/10/2025, 9:49:33 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=it)                                          |
 | Dual Format Vertical Video                         | 30/10/2025, 9:21:59 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=it)                          |
 | Twitch Chat Badges Guide                           | 29/10/2025, 9:15:19 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=it)                            |
@@ -16,7 +18,6 @@
 | Video On Demand                                    | 28/10/2025, 5:19:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=it)                                     |
 | Tips For Applying To The Partner Program           | 27/10/2025, 7:23:59 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=it)            |
 | Achievements                                       | 27/10/2025, 7:23:56 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=it)                                        |
-| Partner Program Overview                           | 27/10/2025, 7:23:54 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=it)                            |
 | Prime Gaming Revenue Guide                         | 24/10/2025, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)                          |
 | Music Options For Streamers                        | 23/10/2025, 1:58:01 pm    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=it)                         |
 | Subscription Cancellation Reasons                  | 15/10/2025, 1:54:53 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=it)                   |
@@ -297,6 +298,7 @@
 
 | Name                       | Last Updated (dd/mm/yyyy) | Link                                                                             |
 |----------------------------|---------------------------|----------------------------------------------------------------------------------|
+| Auto Clips                 | 30/10/2025, 9:49:33 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=it)                  |
 | Dual Format Vertical Video | 25/10/2025, 9:11:00 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=it)  |
 | Costreaming                | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=it)                 |
 | Recover Watch Streaks      | 06/10/2025, 11:38:02 pm   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=it)       |

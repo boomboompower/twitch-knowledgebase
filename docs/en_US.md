@@ -6,6 +6,8 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Partner Program Overview                      | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=en_US)                       |
+| Drops Prime Differences                       | 01/11/2025, 7:42:56 am    | [Link](https://help.twitch.tv/s/article/drops-prime-differences?language=en_US)                        |
 | Twitch Chat Badges Guide                      | 29/10/2025, 9:15:17 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                       |
 | Twitch Merchandise Store Support Faq          | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=en_US)           |
 | Twitch Turbo Guide                            | 29/10/2025, 9:14:03 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                             |
@@ -16,7 +18,6 @@
 | Prime Gaming Revenue Guide                    | 24/10/2025, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)                     |
 | In Game Experience Selector                   | 23/10/2025, 0:50:11 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=en_US)                    |
 | Music Options For Streamers                   | 23/10/2025, 9:18:37 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=en_US)                    |
-| Partner Program Overview                      | 23/10/2025, 9:01:08 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=en_US)                       |
 | Achievements                                  | 23/10/2025, 8:45:19 am    | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                                   |
 | Tips For Applying To The Partner Program      | 23/10/2025, 8:02:21 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)       |
 | Mdr Interview                                 | 23/10/2025, 6:06:42 am    | [Link](https://help.twitch.tv/s/article/mdr-interview?language=en_US)                                  |
