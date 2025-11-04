@@ -34,7 +34,6 @@
 | Ads Manager                                        | 31/07/2025, 8:18:21 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=tr)                                         |
 | Creator Goals                                      | 31/07/2025, 8:17:15 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=tr)                                       |
 | Subscriber Emote Guide                             | 31/07/2025, 8:16:14 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=tr)                              |
-| Subscriber Badge Guide                             | 31/07/2025, 8:15:22 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=tr)                              |
 
 
 

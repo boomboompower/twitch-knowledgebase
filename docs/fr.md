@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Moderation Analytics                               | 04/11/2025, 9:04:49 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=fr)                                |
 | Partner Program Overview                           | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=fr)                            |
 | Drops Prime Difference                             | 01/11/2025, 7:42:57 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=fr)                              |
 | Auto Clips                                         | 31/10/2025, 11:04:38 am   | [Link](https://help.twitch.tv/s/article/auto-clips?language=fr)                                          |
@@ -66,7 +67,6 @@
 | Payout Details Faq                                 | 31/07/2025, 8:16:22 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=fr)                                  |
 | Subscriber Emote Guide                             | 31/07/2025, 8:16:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=fr)                              |
 | Subscriber Badge Guide                             | 31/07/2025, 8:15:23 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=fr)                              |
-| Partner Onboarding Guide                           | 31/07/2025, 8:15:06 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=fr)                            |
 
 
 
@@ -292,6 +292,15 @@
 | Where Are My Notifications                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=fr)                         |
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=fr)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=fr)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name       | Last Updated (dd/mm/yyyy) | Link                                                             |
+|------------|---------------------------|------------------------------------------------------------------|
+| Auto Clips | 31/10/2025, 11:04:38 am   | [Link](https://help.twitch.tv/s/article/auto-clips?language=fr)  |
 
 
 

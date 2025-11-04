@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Moderation Analytics                               | 04/11/2025, 9:04:49 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=es)                                |
 | Partner Program Overview                           | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                            |
 | Drops Prime Difference                             | 01/11/2025, 7:42:57 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=es)                              |
 | Auto Clips                                         | 31/10/2025, 3:39:43 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es)                                          |
@@ -287,6 +288,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name       | Last Updated (dd/mm/yyyy) | Link                                                             |
+|------------|---------------------------|------------------------------------------------------------------|
+| Auto Clips | 31/10/2025, 3:39:43 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es)  |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Moderation Analytics                               | 04/11/2025, 9:04:49 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=ja)                                |
 | Partner Program Overview                           | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                            |
 | Drops Prime Difference                             | 01/11/2025, 7:42:57 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=ja)                              |
 | Dual Format Vertical Video                         | 31/10/2025, 6:35:15 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)                          |
@@ -62,7 +63,6 @@
 | Payout Details Faq                                 | 31/07/2025, 8:16:22 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=ja)                                  |
 | Subscriber Emote Guide                             | 31/07/2025, 8:16:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=ja)                              |
 | Subscriber Badge Guide                             | 31/07/2025, 8:15:23 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ja)                              |
-| Partner Onboarding Guide                           | 31/07/2025, 8:15:06 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ja)                            |
 
 
 
@@ -290,6 +290,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name       | Last Updated (dd/mm/yyyy) | Link                                                             |
+|------------|---------------------------|------------------------------------------------------------------|
+| Auto Clips | 31/10/2025, 4:42:03 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)  |
 
 
 

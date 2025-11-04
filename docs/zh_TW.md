@@ -6,6 +6,10 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Moderation Analytics                               | 04/11/2025, 9:04:50 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=zh_TW)                                |
+| In Game Experience Selector                        | 04/11/2025, 7:28:54 am    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=zh_TW)                         |
+| Auto Clips                                         | 03/11/2025, 5:59:12 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                          |
+| Dual Format Vertical Video                         | 03/11/2025, 5:03:19 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                          |
 | Partner Program Overview                           | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                            |
 | Drops Prime Difference                             | 01/11/2025, 7:42:58 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=zh_TW)                              |
 | Twitch Chat Badges Guide                           | 29/10/2025, 9:15:19 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                            |
@@ -14,7 +18,6 @@
 | Founders Badge                                     | 29/10/2025, 9:12:16 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=zh_TW)                                      |
 | Your First Payout Walkthrough                      | 29/10/2025, 9:11:57 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=zh_TW)                       |
 | Video On Demand                                    | 28/10/2025, 5:19:57 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                     |
-| Dual Format Vertical Video                         | 25/10/2025, 9:11:00 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                          |
 | Tips For Applying To The Partner Program           | 24/10/2025, 8:02:28 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=zh_TW)            |
 | Achievements                                       | 24/10/2025, 7:45:35 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                        |
 | Prime Gaming Revenue Guide                         | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                          |
@@ -61,7 +64,6 @@
 | Payout Details Faq                                 | 31/07/2025, 8:16:22 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=zh_TW)                                  |
 | Subscriber Emote Guide                             | 31/07/2025, 8:16:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=zh_TW)                              |
 | Subscriber Badge Guide                             | 31/07/2025, 8:15:24 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=zh_TW)                              |
-| Partner Onboarding Guide                           | 31/07/2025, 8:15:07 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=zh_TW)                            |
 
 
 
@@ -290,6 +292,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                                 |
+|-----------------------------|---------------------------|--------------------------------------------------------------------------------------|
+| In Game Experience Selector | 04/11/2025, 7:28:54 am    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=zh_TW)  |
 
 
 
