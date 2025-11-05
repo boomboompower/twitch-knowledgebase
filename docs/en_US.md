@@ -63,7 +63,6 @@
 | Creator Goals                                 | 31/07/2025, 8:17:15 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                  |
 | Payout Details Faq                            | 31/07/2025, 8:16:22 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                             |
 | Subscriber Emote Guide                        | 31/07/2025, 8:16:14 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=en_US)                         |
-| Subscriber Badge Guide                        | 31/07/2025, 8:15:22 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=en_US)                         |
 
 
 

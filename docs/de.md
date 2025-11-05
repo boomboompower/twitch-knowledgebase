@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| In Game Experience Selector                        | 04/11/2025, 11:38:53 pm   | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=de)                         |
 | Moderation Analytics                               | 04/11/2025, 9:04:49 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=de)                                |
 | Partner Program Overview                           | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                            |
 | Drops Prime Difference                             | 01/11/2025, 7:42:57 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=de)                              |
@@ -62,7 +63,6 @@
 | Creator Goals                                      | 31/07/2025, 8:17:15 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=de)                                       |
 | Payout Details Faq                                 | 31/07/2025, 8:16:22 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=de)                                  |
 | Subscriber Emote Guide                             | 31/07/2025, 8:16:14 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=de)                              |
-| Subscriber Badge Guide                             | 31/07/2025, 8:15:23 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=de)                              |
 
 
 
@@ -296,9 +296,10 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name       | Last Updated (dd/mm/yyyy) | Link                                                             |
-|------------|---------------------------|------------------------------------------------------------------|
-| Auto Clips | 31/10/2025, 10:36:48 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=de)  |
+| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| In Game Experience Selector | 04/11/2025, 11:38:53 pm   | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=de)  |
+| Auto Clips                  | 31/10/2025, 10:36:48 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=de)                   |
 
 
 

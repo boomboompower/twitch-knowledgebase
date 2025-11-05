@@ -6,6 +6,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| In Game Experience Selector                        | 04/11/2025, 6:35:37 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=ja)                         |
 | Moderation Analytics                               | 04/11/2025, 9:04:49 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=ja)                                |
 | Partner Program Overview                           | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                            |
 | Drops Prime Difference                             | 01/11/2025, 7:42:57 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=ja)                              |
