@@ -15,26 +15,26 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Czech                         | 29/10/2025, 9:14:46 am    | 18 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 29/10/2025, 9:14:46 am    | 25 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 01/11/2025, 9:24:14 am    | 31 article(s)  | [View](docs/nl_NL.md)  |
-| English (United States)       | 04/11/2025, 9:04:49 am    | 315 article(s) | [View](docs/en_US.md)  |
+| English (United States)       | 04/11/2025, 9:04:49 am    | 314 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 29/10/2025, 9:14:46 am    | 23 article(s)  | [View](docs/fi.md)     |
 | French                        | 05/11/2025, 0:17:37 am    | 247 article(s) | [View](docs/fr.md)     |
-| German                        | 04/11/2025, 11:38:53 pm   | 246 article(s) | [View](docs/de.md)     |
+| German                        | 04/11/2025, 11:38:53 pm   | 247 article(s) | [View](docs/de.md)     |
 | Greek                         | 29/10/2025, 9:14:03 am    | 6 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 29/10/2025, 9:14:46 am    | 17 article(s)  | [View](docs/hu.md)     |
-| Italian                       | 04/11/2025, 9:04:49 am    | 246 article(s) | [View](docs/it.md)     |
+| Italian                       | 04/11/2025, 9:04:49 am    | 247 article(s) | [View](docs/it.md)     |
 | Japanese                      | 04/11/2025, 6:35:37 pm    | 246 article(s) | [View](docs/ja.md)     |
 | Norwegian                     | 29/10/2025, 9:14:46 am    | 26 article(s)  | [View](docs/no.md)     |
-| Polish                        | 01/11/2025, 9:24:14 am    | 174 article(s) | [View](docs/pl.md)     |
-| Portuguese (Brazil)           | 04/11/2025, 9:04:49 am    | 245 article(s) | [View](docs/pt_BR.md)  |
+| Polish                        | 01/11/2025, 9:24:14 am    | 176 article(s) | [View](docs/pl.md)     |
+| Portuguese (Brazil)           | 04/11/2025, 9:04:49 am    | 246 article(s) | [View](docs/pt_BR.md)  |
 | Portuguese (Portugal)         | 29/10/2025, 9:14:46 am    | 37 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 17/12/2024, 10:00:19 am   | 2 article(s)   | [View](docs/ro.md)     |
-| Russian                       | 01/11/2025, 9:24:14 am    | 175 article(s) | [View](docs/ru.md)     |
+| Russian                       | 01/11/2025, 9:24:14 am    | 178 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 17/12/2024, 10:00:19 am   | 2 article(s)   | [View](docs/sk.md)     |
-| Spanish                       | 04/11/2025, 8:11:18 pm    | 245 article(s) | [View](docs/es.md)     |
-| Spanish (Mexico)              | 04/11/2025, 9:04:49 am    | 247 article(s) | [View](docs/es_MX.md)  |
+| Spanish                       | 04/11/2025, 8:11:18 pm    | 246 article(s) | [View](docs/es.md)     |
+| Spanish (Mexico)              | 04/11/2025, 9:04:49 am    | 246 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 29/10/2025, 9:14:46 am    | 23 article(s)  | [View](docs/sv.md)     |
-| Thai                          | 01/11/2025, 9:24:14 am    | 171 article(s) | [View](docs/th.md)     |
-| Turkish                       | 01/11/2025, 9:24:14 am    | 175 article(s) | [View](docs/tr.md)     |
+| Thai                          | 01/11/2025, 9:24:14 am    | 173 article(s) | [View](docs/th.md)     |
+| Turkish                       | 01/11/2025, 9:24:14 am    | 177 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 05/04/2025, 10:33:32 am   | 6 article(s)   | [View](docs/vi.md)     |
 
 ### Dumping

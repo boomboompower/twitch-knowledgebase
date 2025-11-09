@@ -71,6 +71,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Partner Onboarding Guide                                      | 31/07/2025, 8:15:06 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=de)                                       |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 31/07/2025, 8:14:45 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=de)  |
 | Payout Balance Faq                                            | 31/07/2025, 8:14:05 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=de)                                             |
 | Twitch Charity                                                | 31/07/2025, 8:13:43 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=de)                                                 |
@@ -125,7 +126,6 @@
 | Content Approval                                              | 12/03/2025, 11:35:02 am   | [Link](https://help.twitch.tv/s/article/content-approval?language=de)                                               |
 | Twitch Ambassador Program                                     | 07/03/2025, 0:21:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=de)                                      |
 | Creator Dashboard                                             | 26/01/2025, 10:50:04 pm   | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=de)                                              |
-| Adding A Game And Box Art To The Directory                    | 26/01/2025, 10:48:33 pm   | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=de)                     |
 
 
 
@@ -134,6 +134,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Adding A Game And Box Art To The Directory  | 26/01/2025, 10:48:33 pm   | [Link](https://help.twitch.tv/s/article/adding-a-game-and-box-art-to-the-directory?language=de)   |
 | Sponsored Subscriptions                     | 23/01/2025, 2:50:54 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=de)                      |
 | Streamer Read Ads                           | 23/01/2025, 2:50:12 am    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=de)                            |
 | Channel Skins                               | 23/01/2025, 2:49:19 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=de)                                |
@@ -179,34 +180,34 @@
 ## Article-4
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
-| Name                                     | Last Updated (dd/mm/yyyy) | Link                                                                                           |
-|------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
-| Political Onboarding                     | 05/11/2024, 1:08:41 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=de)                      |
-| Channel Analytics                        | 01/10/2024, 8:25:42 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=de)                         |
-| Locating Your Twitch Invoice Number      | 19/09/2024, 5:57:03 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=de)       |
-| Month Length                             | 28/08/2024, 9:11:04 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=de)                              |
-| How To Use Raids                         | 11/06/2024, 9:34:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=de)                          |
-| Twitch Charity Viewers                   | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=de)                    |
-| Subpoint Vs Subcount                     | 01/05/2024, 8:50:02 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=de)                      |
-| Alerts By Twitch Faq                     | 26/04/2024, 9:27:04 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=de)                      |
-| Supported Browsers                       | 20/04/2024, 7:06:09 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=de)                        |
-| Sponsorship Experiments Faq              | 13/04/2024, 0:21:24 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=de)               |
-| Twitch Music Getting Started             | 08/04/2024, 9:36:37 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=de)              |
-| Setup Alerts By Twitch                   | 27/03/2024, 9:25:40 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=de)                    |
-| Authy Faq                                | 23/02/2024, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=de)                                 |
-| How To File A User Report                | 15/02/2024, 5:22:54 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=de)                 |
-| Emote Slots                              | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=de)                               |
-| Emote Library                            | 31/01/2024, 4:36:47 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=de)                             |
-| Animated Emotes                          | 31/01/2024, 4:27:28 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=de)                           |
-| First Steps For New Affiliates           | 07/12/2023, 11:01:38 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=de)            |
-| Alerts By Twitch                         | 05/12/2023, 0:02:35 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=de)                          |
-| Affiliate Settings Guide                 | 03/12/2023, 8:17:24 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=de)                  |
-| Partner Settings Guide                   | 30/11/2023, 11:46:04 pm   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=de)                    |
-| Games Irl And Music Directories          | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=de)           |
-| Ban Evasion                              | 28/10/2023, 5:03:39 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=de)                               |
-| Bounty Board Program Information And Faq | 23/09/2023, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=de)  |
-| Affiliate Onboarding Guide               | 19/09/2023, 9:07:48 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=de)                |
-| Hindsight 2020                           | 12/09/2023, 6:19:22 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=de)                            |
+| Name                                      | Last Updated (dd/mm/yyyy) | Link                                                                                            |
+|-------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Affiliate Or Partner Anniversary Settings | 08/11/2024, 11:26:14 am   | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=de)  |
+| Political Onboarding                      | 05/11/2024, 1:08:41 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=de)                       |
+| Channel Analytics                         | 01/10/2024, 8:25:42 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=de)                          |
+| Locating Your Twitch Invoice Number       | 19/09/2024, 5:57:03 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=de)        |
+| Month Length                              | 28/08/2024, 9:11:04 pm    | [Link](https://help.twitch.tv/s/article/month-length?language=de)                               |
+| How To Use Raids                          | 11/06/2024, 9:34:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=de)                           |
+| Twitch Charity Viewers                    | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=de)                     |
+| Subpoint Vs Subcount                      | 01/05/2024, 8:50:02 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=de)                       |
+| Alerts By Twitch Faq                      | 26/04/2024, 9:27:04 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=de)                       |
+| Supported Browsers                        | 20/04/2024, 7:06:09 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=de)                         |
+| Sponsorship Experiments Faq               | 13/04/2024, 0:21:24 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=de)                |
+| Twitch Music Getting Started              | 08/04/2024, 9:36:37 pm    | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=de)               |
+| Setup Alerts By Twitch                    | 27/03/2024, 9:25:40 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=de)                     |
+| Authy Faq                                 | 23/02/2024, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/authy-faq?language=de)                                  |
+| How To File A User Report                 | 15/02/2024, 5:22:54 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=de)                  |
+| Emote Slots                               | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=de)                                |
+| Emote Library                             | 31/01/2024, 4:36:47 am    | [Link](https://help.twitch.tv/s/article/emote-library?language=de)                              |
+| Animated Emotes                           | 31/01/2024, 4:27:28 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=de)                            |
+| First Steps For New Affiliates            | 07/12/2023, 11:01:38 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=de)             |
+| Alerts By Twitch                          | 05/12/2023, 0:02:35 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=de)                           |
+| Affiliate Settings Guide                  | 03/12/2023, 8:17:24 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=de)                   |
+| Partner Settings Guide                    | 30/11/2023, 11:46:04 pm   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=de)                     |
+| Games Irl And Music Directories           | 01/11/2023, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=de)            |
+| Ban Evasion                               | 28/10/2023, 5:03:39 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=de)                                |
+| Bounty Board Program Information And Faq  | 23/09/2023, 2:16:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=de)   |
+| Affiliate Onboarding Guide                | 19/09/2023, 9:07:48 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=de)                 |
 
 
 
@@ -215,6 +216,7 @@
 
 | Name                                    | Last Updated (dd/mm/yyyy) | Link                                                                                          |
 |-----------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
+| Hindsight 2020                          | 12/09/2023, 6:19:22 am    | [Link](https://help.twitch.tv/s/article/hindsight-2020?language=de)                           |
 | Moments                                 | 01/09/2023, 2:59:10 am    | [Link](https://help.twitch.tv/s/article/moments?language=de)                                  |
 | Tips On Feedback                        | 26/08/2023, 1:13:42 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=de)                         |
 | Understanding Feedback Updates          | 26/08/2023, 1:13:34 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=de)           |
@@ -263,6 +265,7 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Modified Emotes                                   | 19/11/2021, 5:13:45 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=de)                                    |
 | Default Emotes                                    | 19/11/2021, 5:12:25 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=de)                                     |
 | Stream With Pride                                 | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/stream-with-pride?language=de)                                  |
 | Rpg Megacheer                                     | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=de)                                      |
@@ -290,16 +293,6 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| In Game Experience Selector | 04/11/2025, 11:38:53 pm   | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=de)  |
-| Auto Clips                  | 31/10/2025, 10:36:48 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=de)                   |
 
 
 
