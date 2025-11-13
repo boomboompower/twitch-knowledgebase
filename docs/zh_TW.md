@@ -6,6 +6,10 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Date Of Birth Changes                              | 13/11/2025, 5:09:35 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                               |
+| Creating An Account With Twitch                    | 13/11/2025, 5:09:27 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)                     |
+| Children On Twitch                                 | 13/11/2025, 5:09:06 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=zh_TW)                                  |
+| Age Verification                                   | 13/11/2025, 5:08:46 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=zh_TW)                                    |
 | Moderation Analytics                               | 04/11/2025, 9:04:50 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=zh_TW)                                |
 | In Game Experience Selector                        | 04/11/2025, 7:28:54 am    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=zh_TW)                         |
 | Auto Clips                                         | 03/11/2025, 5:59:12 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                          |
@@ -38,11 +42,7 @@
 | Stream Quality                                     | 28/09/2025, 5:51:53 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                                      |
 | Supported Mobile Os                                | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=zh_TW)                                 |
 | Shared Chat                                        | 25/09/2025, 11:04:36 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=zh_TW)                                         |
-| Age Verification                                   | 24/09/2025, 5:32:35 pm    | [Link](https://help.twitch.tv/s/article/age-verification?language=zh_TW)                                    |
 | Digital Services Act                               | 23/09/2025, 11:05:22 pm   | [Link](https://help.twitch.tv/s/article/digital-services-act?language=zh_TW)                                |
-| Date Of Birth Changes                              | 19/09/2025, 5:25:10 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                               |
-| Creating An Account With Twitch                    | 19/09/2025, 5:24:53 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)                     |
-| Children On Twitch                                 | 19/09/2025, 5:24:37 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=zh_TW)                                  |
 | Chat Bot Badge About                               | 10/09/2025, 6:00:35 pm    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=zh_TW)                                |
 | Subtember 2025 Faq                                 | 09/09/2025, 1:41:08 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=zh_TW)                                  |
 | Setting Up Moderation For Your Twitch Channel      | 09/09/2025, 0:49:18 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=zh_TW)       |
@@ -293,6 +293,19 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                                 |
+|-----------------------------|---------------------------|--------------------------------------------------------------------------------------|
+| In Game Experience Selector | 04/11/2025, 7:28:54 am    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=zh_TW)  |
+| Auto Clips                  | 03/11/2025, 5:59:12 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                   |
+| Costreaming                 | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=zh_TW)                  |
+| Social Badge                | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=zh_TW)                 |
+| Stream Rewind               | 28/09/2025, 6:32:32 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=zh_TW)                |
 
 
 

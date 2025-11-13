@@ -6,6 +6,9 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Date Of Birth Changes                              | 13/11/2025, 5:09:33 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=th)                               |
+| Creating An Account With Twitch                    | 13/11/2025, 5:09:19 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=th)                     |
+| Children On Twitch                                 | 13/11/2025, 5:09:04 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=th)                                  |
 | Partner Program Overview                           | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=th)                            |
 | Twitch Chat Badges Guide                           | 29/10/2025, 9:15:17 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=th)                            |
 | Twitch Merchandise Store Support Faq               | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=th)                |
@@ -22,9 +25,6 @@
 | Alerts By Twitch Events                            | 04/10/2025, 11:38:32 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=th)                             |
 | Channel Points Faq                                 | 03/10/2025, 6:52:42 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=th)                                  |
 | Viewer Channel Point Guide                         | 03/10/2025, 6:52:04 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=th)                          |
-| Date Of Birth Changes                              | 19/09/2025, 5:25:08 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=th)                               |
-| Creating An Account With Twitch                    | 19/09/2025, 5:24:51 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=th)                     |
-| Children On Twitch                                 | 19/09/2025, 5:24:36 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=th)                                  |
 | Setting Up Moderation For Your Twitch Channel      | 05/09/2025, 6:24:09 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=th)       |
 | How To Use Clips                                   | 30/08/2025, 7:11:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=th)                                    |
 | Multi Month Subscriptions                          | 16/08/2025, 7:08:59 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=th)                           |
