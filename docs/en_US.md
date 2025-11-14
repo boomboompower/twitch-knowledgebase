@@ -6,10 +6,10 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Age Verification                              | 14/11/2025, 9:46:33 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=en_US)                               |
 | Date Of Birth Changes                         | 13/11/2025, 5:09:33 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=en_US)                          |
 | Creating An Account With Twitch               | 13/11/2025, 5:09:19 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=en_US)                |
 | Children On Twitch                            | 13/11/2025, 5:09:04 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=en_US)                             |
-| Age Verification                              | 13/11/2025, 5:08:44 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=en_US)                               |
 | Moderation Analytics                          | 04/11/2025, 9:04:49 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=en_US)                           |
 | Partner Program Overview                      | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=en_US)                       |
 | Drops Prime Differences                       | 01/11/2025, 7:42:56 am    | [Link](https://help.twitch.tv/s/article/drops-prime-differences?language=en_US)                        |

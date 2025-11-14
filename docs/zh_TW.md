@@ -6,10 +6,10 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Age Verification                                   | 14/11/2025, 9:46:33 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=zh_TW)                                    |
 | Date Of Birth Changes                              | 13/11/2025, 5:09:35 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                               |
 | Creating An Account With Twitch                    | 13/11/2025, 5:09:27 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)                     |
 | Children On Twitch                                 | 13/11/2025, 5:09:06 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=zh_TW)                                  |
-| Age Verification                                   | 13/11/2025, 5:08:46 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=zh_TW)                                    |
 | Moderation Analytics                               | 04/11/2025, 9:04:50 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=zh_TW)                                |
 | In Game Experience Selector                        | 04/11/2025, 7:28:54 am    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=zh_TW)                         |
 | Auto Clips                                         | 03/11/2025, 5:59:12 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                          |
