@@ -6,8 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Age Verification                                   | 18/11/2025, 7:43:03 pm    | [Link](https://help.twitch.tv/s/article/age-verification?language=es)                                    |
 | Emote Guidelines                                   | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es)                                    |
-| Age Verification                                   | 14/11/2025, 9:46:33 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=es)                                    |
 | Date Of Birth Changes                              | 13/11/2025, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                               |
 | Creating An Account With Twitch                    | 13/11/2025, 5:09:18 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es)                     |
 | Children On Twitch                                 | 13/11/2025, 5:09:05 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=es)                                  |
