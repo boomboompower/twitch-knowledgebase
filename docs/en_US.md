@@ -6,6 +6,8 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Combos                                        | 21/11/2025, 10:57:35 am   | [Link](https://help.twitch.tv/s/article/combos?language=en_US)                                         |
+| Auto Clips                                    | 21/11/2025, 4:28:33 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                                     |
 | Emote Guidelines                              | 18/11/2025, 5:07:32 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=en_US)                               |
 | Age Verification                              | 14/11/2025, 9:46:33 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=en_US)                               |
 | Date Of Birth Changes                         | 13/11/2025, 5:09:33 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=en_US)                          |
@@ -27,14 +29,12 @@
 | Achievements                                  | 23/10/2025, 8:45:19 am    | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                                   |
 | Tips For Applying To The Partner Program      | 23/10/2025, 8:02:21 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)       |
 | Mdr Interview                                 | 23/10/2025, 6:06:42 am    | [Link](https://help.twitch.tv/s/article/mdr-interview?language=en_US)                                  |
-| Auto Clips                                    | 18/10/2025, 4:31:03 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                                     |
 | Subscription Cancellation Reasons             | 15/10/2025, 1:54:51 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=en_US)              |
 | What Is Fraud                                 | 15/10/2025, 1:53:10 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=en_US)                                  |
 | Costreaming                                   | 15/10/2025, 1:33:19 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=en_US)                                    |
 | Stream Together                               | 15/10/2025, 1:33:00 am    | [Link](https://help.twitch.tv/s/article/stream-together?language=en_US)                                |
 | Refunds On Twitch                             | 09/10/2025, 4:15:08 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=en_US)                              |
 | Alerts By Twitch Events                       | 04/10/2025, 11:38:32 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=en_US)                        |
-| Combos                                        | 04/10/2025, 11:38:16 am   | [Link](https://help.twitch.tv/s/article/combos?language=en_US)                                         |
 | Partner Front Page                            | 03/10/2025, 7:00:26 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)                             |
 | Channel Points Faq                            | 03/10/2025, 6:52:42 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=en_US)                             |
 | Viewer Channel Point Guide                    | 03/10/2025, 6:52:04 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=en_US)                     |
@@ -361,9 +361,9 @@
 
 | Name                        | Last Updated (dd/mm/yyyy) | Link                                                                                 |
 |-----------------------------|---------------------------|--------------------------------------------------------------------------------------|
+| Auto Clips                  | 21/11/2025, 4:28:33 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                   |
 | In Game Experience Selector | 23/10/2025, 0:50:11 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=en_US)  |
 | Mdr Interview               | 23/10/2025, 6:06:42 am    | [Link](https://help.twitch.tv/s/article/mdr-interview?language=en_US)                |
-| Auto Clips                  | 18/10/2025, 4:31:03 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                   |
 
 
 

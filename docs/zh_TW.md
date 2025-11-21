@@ -6,6 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Combos                                             | 21/11/2025, 10:57:35 am   | [Link](https://help.twitch.tv/s/article/combos?language=zh_TW)                                              |
+| Auto Clips                                         | 21/11/2025, 4:28:33 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                          |
 | Age Verification                                   | 18/11/2025, 10:38:43 pm   | [Link](https://help.twitch.tv/s/article/age-verification?language=zh_TW)                                    |
 | Emote Guidelines                                   | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=zh_TW)                                    |
 | Date Of Birth Changes                              | 13/11/2025, 5:09:35 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                               |
@@ -13,7 +15,6 @@
 | Children On Twitch                                 | 13/11/2025, 5:09:06 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=zh_TW)                                  |
 | Moderation Analytics                               | 04/11/2025, 9:04:50 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=zh_TW)                                |
 | In Game Experience Selector                        | 04/11/2025, 7:28:54 am    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=zh_TW)                         |
-| Auto Clips                                         | 03/11/2025, 5:59:12 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                          |
 | Dual Format Vertical Video                         | 03/11/2025, 5:03:19 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                          |
 | Partner Program Overview                           | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                            |
 | Drops Prime Difference                             | 01/11/2025, 7:42:58 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=zh_TW)                              |
@@ -31,7 +32,6 @@
 | What Is Fraud                                      | 15/10/2025, 1:53:11 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=zh_TW)                                       |
 | Costreaming                                        | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=zh_TW)                                         |
 | Refunds On Twitch                                  | 09/10/2025, 4:15:10 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=zh_TW)                                   |
-| Combos                                             | 08/10/2025, 7:01:37 pm    | [Link](https://help.twitch.tv/s/article/combos?language=zh_TW)                                              |
 | Alerts By Twitch Events                            | 08/10/2025, 7:01:36 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=zh_TW)                             |
 | Recover Watch Streaks                              | 06/10/2025, 10:27:12 pm   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=zh_TW)                               |
 | Channel Points Faq                                 | 03/10/2025, 11:10:42 pm   | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=zh_TW)                                  |

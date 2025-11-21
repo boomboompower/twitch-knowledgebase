@@ -6,6 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Combos                                             | 21/11/2025, 10:57:35 am   | [Link](https://help.twitch.tv/s/article/combos?language=es_MX)                                              |
+| Auto Clips                                         | 21/11/2025, 4:28:33 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                                          |
 | Emote Guidelines                                   | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es_MX)                                    |
 | Age Verification                                   | 15/11/2025, 7:02:33 pm    | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)                                    |
 | Date Of Birth Changes                              | 13/11/2025, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                               |
@@ -21,7 +23,6 @@
 | Twitch Turbo Guide                                 | 29/10/2025, 9:14:03 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es_MX)                                  |
 | Founders Badge                                     | 29/10/2025, 9:12:16 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=es_MX)                                      |
 | Your First Payout Walkthrough                      | 29/10/2025, 9:11:56 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=es_MX)                       |
-| Auto Clips                                         | 28/10/2025, 10:44:22 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                                          |
 | Video On Demand                                    | 28/10/2025, 5:19:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es_MX)                                     |
 | Prime Gaming Revenue Guide                         | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es_MX)                          |
 | Tips For Applying To The Partner Program           | 24/10/2025, 0:36:13 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=es_MX)            |
@@ -32,7 +33,6 @@
 | Costreaming                                        | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=es_MX)                                         |
 | Refunds On Twitch                                  | 09/10/2025, 4:15:09 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es_MX)                                   |
 | Alerts By Twitch Events                            | 07/10/2025, 11:25:34 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=es_MX)                             |
-| Combos                                             | 07/10/2025, 11:25:33 pm   | [Link](https://help.twitch.tv/s/article/combos?language=es_MX)                                              |
 | How To Use Badges                                  | 07/10/2025, 2:14:08 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=es_MX)                                   |
 | Viewer Channel Point Guide                         | 07/10/2025, 2:14:04 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=es_MX)                          |
 | Channel Points Faq                                 | 07/10/2025, 2:14:04 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=es_MX)                                  |
@@ -299,8 +299,8 @@
 
 | Name                        | Last Updated (dd/mm/yyyy) | Link                                                                                 |
 |-----------------------------|---------------------------|--------------------------------------------------------------------------------------|
+| Auto Clips                  | 21/11/2025, 4:28:33 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                   |
 | In Game Experience Selector | 30/10/2025, 10:38:53 pm   | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=es_MX)  |
-| Auto Clips                  | 28/10/2025, 10:44:22 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                   |
 
 
 

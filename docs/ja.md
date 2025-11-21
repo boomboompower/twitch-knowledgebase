@@ -6,6 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Combos                                             | 21/11/2025, 10:57:35 am   | [Link](https://help.twitch.tv/s/article/combos?language=ja)                                              |
+| Auto Clips                                         | 21/11/2025, 4:28:33 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                                          |
 | Emote Guidelines                                   | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=ja)                                    |
 | Age Verification                                   | 17/11/2025, 0:21:58 pm    | [Link](https://help.twitch.tv/s/article/age-verification?language=ja)                                    |
 | Date Of Birth Changes                              | 13/11/2025, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                               |
@@ -16,7 +18,6 @@
 | Partner Program Overview                           | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                            |
 | Drops Prime Difference                             | 01/11/2025, 7:42:57 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=ja)                              |
 | Dual Format Vertical Video                         | 31/10/2025, 6:35:15 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)                          |
-| Auto Clips                                         | 31/10/2025, 4:42:03 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                                          |
 | Twitch Chat Badges Guide                           | 29/10/2025, 9:15:19 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                            |
 | Twitch Merchandise Store Support Faq               | 29/10/2025, 9:14:47 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=ja)                |
 | Twitch Turbo Guide                                 | 29/10/2025, 9:14:04 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                                  |
@@ -32,7 +33,6 @@
 | Costreaming                                        | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=ja)                                         |
 | Refunds On Twitch                                  | 09/10/2025, 4:15:08 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ja)                                   |
 | Alerts By Twitch Events                            | 07/10/2025, 0:06:15 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ja)                             |
-| Combos                                             | 07/10/2025, 0:06:04 pm    | [Link](https://help.twitch.tv/s/article/combos?language=ja)                                              |
 | Channel Points Faq                                 | 06/10/2025, 3:31:06 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ja)                                  |
 | Viewer Channel Point Guide                         | 06/10/2025, 3:31:05 pm    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=ja)                          |
 | How To Use Badges                                  | 06/10/2025, 3:29:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=ja)                                   |
@@ -299,6 +299,7 @@
 
 | Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
 |-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Auto Clips                  | 21/11/2025, 4:28:33 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                   |
 | In Game Experience Selector | 04/11/2025, 6:35:37 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=ja)  |
 
 
