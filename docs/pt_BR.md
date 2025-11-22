@@ -6,8 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Auto Clips                                         | 22/11/2025, 10:28:13 am   | [Link](https://help.twitch.tv/s/article/auto-clips?language=pt_BR)                                          |
 | Combos                                             | 21/11/2025, 10:57:35 am   | [Link](https://help.twitch.tv/s/article/combos?language=pt_BR)                                              |
-| Auto Clips                                         | 21/11/2025, 4:28:33 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=pt_BR)                                          |
 | Emote Guidelines                                   | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=pt_BR)                                    |
 | Age Verification                                   | 15/11/2025, 1:53:39 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=pt_BR)                                    |
 | Date Of Birth Changes                              | 13/11/2025, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pt_BR)                               |
@@ -61,7 +61,6 @@
 | Streamelements Campaigns                           | 31/07/2025, 8:18:06 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=pt_BR)                            |
 | Creator Goals                                      | 31/07/2025, 8:17:17 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=pt_BR)                                       |
 | Payout Details Faq                                 | 31/07/2025, 8:16:22 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=pt_BR)                                  |
-| Subscriber Emote Guide                             | 31/07/2025, 8:16:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=pt_BR)                              |
 
 
 

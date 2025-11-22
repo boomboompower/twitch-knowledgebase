@@ -63,7 +63,6 @@
 | Streamelements Campaigns                           | 31/07/2025, 8:18:05 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)                            |
 | Creator Goals                                      | 31/07/2025, 8:17:16 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=es)                                       |
 | Payout Details Faq                                 | 31/07/2025, 8:16:22 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es)                                  |
-| Subscriber Emote Guide                             | 31/07/2025, 8:16:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=es)                              |
 
 
 
