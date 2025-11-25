@@ -6,8 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Auto Clips                                         | 24/11/2025, 6:48:42 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                          |
 | Combos                                             | 21/11/2025, 10:57:35 am   | [Link](https://help.twitch.tv/s/article/combos?language=zh_TW)                                              |
-| Auto Clips                                         | 21/11/2025, 4:28:33 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                          |
 | Age Verification                                   | 18/11/2025, 10:38:43 pm   | [Link](https://help.twitch.tv/s/article/age-verification?language=zh_TW)                                    |
 | Emote Guidelines                                   | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=zh_TW)                                    |
 | Date Of Birth Changes                              | 13/11/2025, 5:09:35 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                               |

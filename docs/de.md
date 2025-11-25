@@ -6,8 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Auto Clips                                         | 24/11/2025, 11:34:38 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=de)                                          |
 | Combos                                             | 21/11/2025, 10:57:35 am   | [Link](https://help.twitch.tv/s/article/combos?language=de)                                              |
-| Auto Clips                                         | 21/11/2025, 4:28:33 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=de)                                          |
 | Age Verification                                   | 18/11/2025, 11:51:23 pm   | [Link](https://help.twitch.tv/s/article/age-verification?language=de)                                    |
 | Emote Guidelines                                   | 18/11/2025, 5:07:32 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=de)                                    |
 | Date Of Birth Changes                              | 13/11/2025, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=de)                               |
@@ -294,6 +294,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| In Game Experience Selector | 04/11/2025, 11:38:53 pm   | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=de)  |
 
 
 
