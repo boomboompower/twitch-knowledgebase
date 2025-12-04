@@ -6,8 +6,11 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| How Subscription Streaks Work                      | 04/12/2025, 11:09:15 am   | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=ja)                       |
+| Contacting Purchase Support                        | 04/12/2025, 10:40:32 am   | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=ja)                         |
+| Video On Demand                                    | 04/12/2025, 1:28:01 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                                     |
+| Annual Recap                                       | 03/12/2025, 4:10:32 pm    | [Link](https://help.twitch.tv/s/article/annual-recap?language=ja)                                        |
 | Code Based Drops Rewards                           | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=ja)                            |
-| Annual Recap                                       | 03/12/2025, 2:00:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=ja)                                        |
 | Combos                                             | 27/11/2025, 11:37:20 am   | [Link](https://help.twitch.tv/s/article/combos?language=ja)                                              |
 | Auto Clips                                         | 24/11/2025, 5:50:53 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                                          |
 | Emote Guidelines                                   | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=ja)                                    |
@@ -25,7 +28,6 @@
 | Twitch Turbo Guide                                 | 29/10/2025, 9:14:04 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                                  |
 | Founders Badge                                     | 29/10/2025, 9:12:14 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=ja)                                      |
 | Your First Payout Walkthrough                      | 29/10/2025, 9:11:57 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=ja)                       |
-| Video On Demand                                    | 28/10/2025, 5:19:57 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                                     |
 | Tips For Applying To The Partner Program           | 27/10/2025, 1:40:34 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ja)            |
 | Achievements                                       | 27/10/2025, 1:40:28 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=ja)                                        |
 | Prime Gaming Revenue Guide                         | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                          |
@@ -58,11 +60,6 @@
 | Languages On Twitch                                | 15/08/2025, 4:58:09 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=ja)                                 |
 | Shared Viewership                                  | 07/08/2025, 6:53:36 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=ja)                                   |
 | Removing Recommendations You Are Not Interested In | 07/08/2025, 4:44:25 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=ja)  |
-| Discovery Feed                                     | 31/07/2025, 11:22:43 am   | [Link](https://help.twitch.tv/s/article/discovery-feed?language=ja)                                      |
-| Mobile                                             | 31/07/2025, 11:22:33 am   | [Link](https://help.twitch.tv/s/article/mobile?language=ja)                                              |
-| Twitch Charity Charities                           | 31/07/2025, 8:18:41 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-charities?language=ja)                            |
-| Ads Manager                                        | 31/07/2025, 8:18:22 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=ja)                                         |
-| Streamelements Campaigns                           | 31/07/2025, 8:18:05 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=ja)                            |
 
 
 
@@ -300,7 +297,9 @@
 | Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
 |-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
 | Code Based Drops Rewards    | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=ja)     |
+| Auto Clips                  | 24/11/2025, 5:50:53 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                   |
 | In Game Experience Selector | 04/11/2025, 6:35:37 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=ja)  |
+| Costreaming                 | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=ja)                  |
 
 
 

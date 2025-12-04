@@ -6,6 +6,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Contacting Purchase Support                        | 04/12/2025, 10:40:32 am   | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=th)                         |
+| Video On Demand                                    | 03/12/2025, 1:30:54 pm    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=th)                                     |
 | Emote Guidelines                                   | 18/11/2025, 5:07:32 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=th)                                    |
 | Date Of Birth Changes                              | 13/11/2025, 5:09:33 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=th)                               |
 | Creating An Account With Twitch                    | 13/11/2025, 5:09:19 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=th)                     |
@@ -16,7 +18,6 @@
 | Twitch Turbo Guide                                 | 29/10/2025, 9:14:03 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=th)                                  |
 | Founders Badge                                     | 29/10/2025, 9:12:14 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=th)                                      |
 | Your First Payout Walkthrough                      | 29/10/2025, 9:11:55 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=th)                       |
-| Video On Demand                                    | 28/10/2025, 5:19:55 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=th)                                     |
 | Twitch Prime Revenue Guide                         | 24/10/2025, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-revenue-guide?language=th)                          |
 | Music Options For Streamers                        | 23/10/2025, 9:18:37 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=th)                         |
 | Achievements                                       | 23/10/2025, 8:45:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=th)                                        |
@@ -32,7 +33,6 @@
 | Subscriptions On Mobile                            | 16/08/2025, 7:08:28 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=th)                             |
 | Languages On Twitch                                | 15/08/2025, 4:58:08 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=th)                                 |
 | Removing Recommendations You Are Not Interested In | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=th)  |
-| Ads Manager                                        | 31/07/2025, 8:18:21 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=th)                                         |
 
 
 

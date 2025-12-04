@@ -6,8 +6,11 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| How Subscription Streaks Work                      | 04/12/2025, 11:09:16 am   | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=zh_TW)                       |
+| Contacting Purchase Support                        | 04/12/2025, 10:40:32 am   | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=zh_TW)                         |
+| Video On Demand                                    | 04/12/2025, 1:56:46 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                     |
+| Annual Recap                                       | 03/12/2025, 8:08:03 pm    | [Link](https://help.twitch.tv/s/article/annual-recap?language=zh_TW)                                        |
 | Code Based Drops Rewards                           | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=zh_TW)                            |
-| Annual Recap                                       | 03/12/2025, 2:00:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=zh_TW)                                        |
 | Combos                                             | 27/11/2025, 5:35:54 pm    | [Link](https://help.twitch.tv/s/article/combos?language=zh_TW)                                              |
 | Auto Clips                                         | 24/11/2025, 6:48:42 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                          |
 | Age Verification                                   | 18/11/2025, 10:38:43 pm   | [Link](https://help.twitch.tv/s/article/age-verification?language=zh_TW)                                    |
@@ -25,7 +28,6 @@
 | Twitch Turbo Guide                                 | 29/10/2025, 9:14:05 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                                  |
 | Founders Badge                                     | 29/10/2025, 9:12:16 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=zh_TW)                                      |
 | Your First Payout Walkthrough                      | 29/10/2025, 9:11:57 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=zh_TW)                       |
-| Video On Demand                                    | 28/10/2025, 5:19:57 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                     |
 | Tips For Applying To The Partner Program           | 24/10/2025, 8:02:28 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=zh_TW)            |
 | Achievements                                       | 24/10/2025, 7:45:35 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                        |
 | Prime Gaming Revenue Guide                         | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                          |
@@ -58,10 +60,6 @@
 | Streamer Benefits                                  | 16/08/2025, 7:05:08 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)                                   |
 | Languages On Twitch                                | 15/08/2025, 4:58:10 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=zh_TW)                                 |
 | Removing Recommendations You Are Not Interested In | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=zh_TW)  |
-| Mobile                                             | 31/07/2025, 7:36:04 pm    | [Link](https://help.twitch.tv/s/article/mobile?language=zh_TW)                                              |
-| Discovery Feed                                     | 31/07/2025, 7:36:04 pm    | [Link](https://help.twitch.tv/s/article/discovery-feed?language=zh_TW)                                      |
-| Twitch Charity Charities                           | 31/07/2025, 8:18:41 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-charities?language=zh_TW)                            |
-| Ads Manager                                        | 31/07/2025, 8:18:23 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=zh_TW)                                         |
 
 
 
@@ -300,7 +298,9 @@
 | Name                        | Last Updated (dd/mm/yyyy) | Link                                                                                 |
 |-----------------------------|---------------------------|--------------------------------------------------------------------------------------|
 | Code Based Drops Rewards    | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=zh_TW)     |
+| Auto Clips                  | 24/11/2025, 6:48:42 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                   |
 | In Game Experience Selector | 04/11/2025, 7:28:54 am    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=zh_TW)  |
+| Costreaming                 | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=zh_TW)                  |
 
 
 

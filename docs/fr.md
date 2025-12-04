@@ -6,6 +6,9 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| How Subscription Streaks Work                      | 04/12/2025, 11:09:15 am   | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=fr)                       |
+| Contacting Purchase Support                        | 04/12/2025, 10:40:32 am   | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=fr)                         |
+| Video On Demand                                    | 04/12/2025, 1:26:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=fr)                                     |
 | Code Based Drops Rewards                           | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=fr)                            |
 | Annual Recap                                       | 03/12/2025, 2:00:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=fr)                                        |
 | Combos                                             | 28/11/2025, 0:46:34 am    | [Link](https://help.twitch.tv/s/article/combos?language=fr)                                              |
@@ -25,7 +28,6 @@
 | Twitch Turbo Guide                                 | 29/10/2025, 9:14:04 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=fr)                                  |
 | Founders Badge                                     | 29/10/2025, 9:12:16 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=fr)                                      |
 | Your First Payout Walkthrough                      | 29/10/2025, 9:11:56 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=fr)                       |
-| Video On Demand                                    | 28/10/2025, 5:19:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=fr)                                     |
 | Achievements                                       | 27/10/2025, 9:29:29 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=fr)                                        |
 | Tips For Applying To The Partner Program           | 27/10/2025, 9:29:28 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=fr)            |
 | Prime Gaming Revenue Guide                         | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=fr)                          |
@@ -64,9 +66,6 @@
 | Removing Recommendations You Are Not Interested In | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=fr)  |
 | Discovery Feed                                     | 05/08/2025, 5:38:11 am    | [Link](https://help.twitch.tv/s/article/discovery-feed?language=fr)                                      |
 | Mobile                                             | 05/08/2025, 5:38:05 am    | [Link](https://help.twitch.tv/s/article/mobile?language=fr)                                              |
-| Twitch Charity Charities                           | 31/07/2025, 8:18:41 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-charities?language=fr)                            |
-| Ads Manager                                        | 31/07/2025, 8:18:22 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=fr)                                         |
-| Streamelements Campaigns                           | 31/07/2025, 8:18:05 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=fr)                            |
 
 
 
@@ -302,7 +301,9 @@
 | Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
 |-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
 | Code Based Drops Rewards    | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=fr)     |
+| Auto Clips                  | 24/11/2025, 10:13:52 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=fr)                   |
 | In Game Experience Selector | 05/11/2025, 0:17:37 am    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=fr)  |
+| Costreaming                 | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=fr)                  |
 
 
 
