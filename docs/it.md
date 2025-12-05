@@ -6,11 +6,12 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
-| How Subscription Streaks Work                      | 04/12/2025, 11:09:15 am   | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=it)                       |
-| Contacting Purchase Support                        | 04/12/2025, 10:40:32 am   | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=it)                         |
+| How To Upgrade Prime                               | 05/12/2025, 6:15:31 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=it)                                |
+| How Subscription Streaks Work                      | 05/12/2025, 3:03:27 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=it)                       |
+| Contacting Purchase Support                        | 05/12/2025, 2:55:55 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=it)                         |
+| Annual Recap                                       | 04/12/2025, 8:45:51 pm    | [Link](https://help.twitch.tv/s/article/annual-recap?language=it)                                        |
 | Video On Demand                                    | 04/12/2025, 2:53:19 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=it)                                     |
 | Code Based Drops Rewards                           | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=it)                            |
-| Annual Recap                                       | 03/12/2025, 2:00:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=it)                                        |
 | Combos                                             | 26/11/2025, 11:29:49 pm   | [Link](https://help.twitch.tv/s/article/combos?language=it)                                              |
 | Auto Clips                                         | 21/11/2025, 11:39:13 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=it)                                          |
 | Emote Guidelines                                   | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=it)                                    |
@@ -60,8 +61,6 @@
 | Streamer Benefits                                  | 16/08/2025, 7:05:41 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=it)                                   |
 | Languages On Twitch                                | 15/08/2025, 4:58:09 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=it)                                 |
 | Removing Recommendations You Are Not Interested In | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=it)  |
-| Mobile                                             | 05/08/2025, 5:38:16 am    | [Link](https://help.twitch.tv/s/article/mobile?language=it)                                              |
-| Discovery Feed                                     | 05/08/2025, 5:38:11 am    | [Link](https://help.twitch.tv/s/article/discovery-feed?language=it)                                      |
 
 
 

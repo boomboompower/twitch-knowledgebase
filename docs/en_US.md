@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| How To Upgrade Prime                          | 05/12/2025, 6:15:29 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=en_US)                           |
 | How Subscription Streaks Work                 | 04/12/2025, 11:09:14 am   | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=en_US)                  |
 | Link Amazon Twitch Accounts                   | 04/12/2025, 10:55:18 am   | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=en_US)                    |
 | Contacting Purchase Support                   | 04/12/2025, 10:40:32 am   | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=en_US)                    |

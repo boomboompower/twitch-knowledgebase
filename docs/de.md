@@ -6,8 +6,9 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
-| How Subscription Streaks Work                      | 04/12/2025, 11:09:15 am   | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=de)                       |
-| Contacting Purchase Support                        | 04/12/2025, 10:40:32 am   | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=de)                         |
+| How To Upgrade Prime                               | 05/12/2025, 6:15:29 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=de)                                |
+| How Subscription Streaks Work                      | 05/12/2025, 3:03:25 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=de)                       |
+| Contacting Purchase Support                        | 05/12/2025, 2:55:55 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=de)                         |
 | Video On Demand                                    | 04/12/2025, 2:53:22 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=de)                                     |
 | Code Based Drops Rewards                           | 03/12/2025, 7:47:57 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=de)                            |
 | Annual Recap                                       | 03/12/2025, 2:00:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=de)                                        |
@@ -60,7 +61,6 @@
 | Streamer Benefits                                  | 16/08/2025, 7:05:53 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=de)                                   |
 | Languages On Twitch                                | 15/08/2025, 4:58:08 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=de)                                 |
 | Removing Recommendations You Are Not Interested In | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=de)  |
-| Mobile                                             | 05/08/2025, 5:37:42 am    | [Link](https://help.twitch.tv/s/article/mobile?language=de)                                              |
 
 
 

@@ -4,11 +4,10 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
-|----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
-| Twitch Merchandise Store Support Faq               | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=sv)                |
-| Gift Subscriptions                                 | 16/08/2025, 7:08:39 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=sv)                                  |
-| Removing Recommendations You Are Not Interested In | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=sv)  |
+| Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                       |
+|--------------------------------------|---------------------------|--------------------------------------------------------------------------------------------|
+| Twitch Merchandise Store Support Faq | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=sv)  |
+| Gift Subscriptions                   | 16/08/2025, 7:08:39 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=sv)                    |
 
 
 

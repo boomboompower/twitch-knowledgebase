@@ -6,8 +6,10 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
 |----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
-| How Subscription Streaks Work                      | 04/12/2025, 11:09:15 am   | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=es_MX)                       |
-| Contacting Purchase Support                        | 04/12/2025, 10:40:32 am   | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=es_MX)                         |
+| Link Amazon Twitch Accounts                        | 05/12/2025, 10:15:11 am   | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=es_MX)                         |
+| How To Upgrade Prime                               | 05/12/2025, 6:15:30 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=es_MX)                                |
+| How Subscription Streaks Work                      | 05/12/2025, 3:03:19 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=es_MX)                       |
+| Contacting Purchase Support                        | 05/12/2025, 2:55:48 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=es_MX)                         |
 | Video On Demand                                    | 04/12/2025, 1:26:57 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es_MX)                                     |
 | Code Based Drops Rewards                           | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=es_MX)                            |
 | Annual Recap                                       | 03/12/2025, 5:49:41 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=es_MX)                                        |
@@ -297,6 +299,7 @@
 
 | Name                        | Last Updated (dd/mm/yyyy) | Link                                                                                 |
 |-----------------------------|---------------------------|--------------------------------------------------------------------------------------|
+| Link Amazon Twitch Accounts | 05/12/2025, 10:15:11 am   | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=es_MX)  |
 | Code Based Drops Rewards    | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=es_MX)     |
 | Auto Clips                  | 22/11/2025, 5:29:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                   |
 | In Game Experience Selector | 30/10/2025, 10:38:53 pm   | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=es_MX)  |

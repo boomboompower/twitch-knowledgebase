@@ -4,15 +4,14 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
-|----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
-| Creating An Account With Twitch                    | 13/11/2025, 5:09:19 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=nl_NL)                     |
-| Partner Program Overview                           | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)                            |
-| Twitch Merchandise Store Support Faq               | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=nl_NL)                |
-| Twitch Turbo Guide                                 | 29/10/2025, 9:14:03 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=nl_NL)                                  |
-| Twitch Prime Partner Guide                         | 24/10/2025, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=nl_NL)                          |
-| Gift Subscriptions                                 | 16/08/2025, 7:08:39 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=nl_NL)                                  |
-| Removing Recommendations You Are Not Interested In | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=nl_NL)  |
+| Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                          |
+|--------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
+| Creating An Account With Twitch      | 13/11/2025, 5:09:19 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=nl_NL)       |
+| Partner Program Overview             | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)              |
+| Twitch Merchandise Store Support Faq | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=nl_NL)  |
+| Twitch Turbo Guide                   | 29/10/2025, 9:14:03 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=nl_NL)                    |
+| Twitch Prime Partner Guide           | 24/10/2025, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=nl_NL)            |
+| Gift Subscriptions                   | 16/08/2025, 7:08:39 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=nl_NL)                    |
 
 
 

@@ -6,8 +6,9 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
-| How Subscription Streaks Work                      | 04/12/2025, 11:09:15 am   | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=ja)                       |
-| Contacting Purchase Support                        | 04/12/2025, 10:40:32 am   | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=ja)                         |
+| How To Upgrade Prime                               | 05/12/2025, 6:15:31 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=ja)                                |
+| How Subscription Streaks Work                      | 05/12/2025, 3:03:15 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=ja)                       |
+| Contacting Purchase Support                        | 05/12/2025, 2:55:53 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=ja)                         |
 | Video On Demand                                    | 04/12/2025, 1:28:01 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                                     |
 | Annual Recap                                       | 03/12/2025, 4:10:32 pm    | [Link](https://help.twitch.tv/s/article/annual-recap?language=ja)                                        |
 | Code Based Drops Rewards                           | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=ja)                            |
