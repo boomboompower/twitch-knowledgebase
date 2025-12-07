@@ -27,20 +27,20 @@
 | Two Factor Authentication With Authy                          | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)                           |
 | Recommended Software For Broadcasting                         | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=pt_PT)                          |
 | Joining The Affiliate Program                                 | 03/06/2025, 10:01:05 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)                                  |
-| Guide To Cheering With Bits                                   | 05/04/2025, 10:33:32 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_PT)                                    |
-| About Account Suspensions Dmca Suspensions And Chat Bans      | 14/03/2025, 4:03:59 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)       |
 
 
 
 ## Article-3
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
 
-| Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
-|----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
-| Username Rename And Recycling Policies | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=pt_PT)  |
-| Chat Commands                          | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_PT)                           |
-| Stream Summary                         | 14/12/2024, 6:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                          |
-| How To Use Automod                     | 14/11/2024, 10:42:03 am   | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_PT)                      |
+| Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
+|----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Guide To Cheering With Bits                              | 05/04/2025, 10:33:32 am   | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pt_PT)                               |
+| About Account Suspensions Dmca Suspensions And Chat Bans | 14/03/2025, 4:03:59 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)  |
+| Username Rename And Recycling Policies                   | 19/12/2024, 9:17:57 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=pt_PT)                    |
+| Chat Commands                                            | 17/12/2024, 10:00:19 am   | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_PT)                                             |
+| Stream Summary                                           | 14/12/2024, 6:06:03 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                                            |
+| How To Use Automod                                       | 14/11/2024, 10:42:03 am   | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_PT)                                        |
 
 
 
