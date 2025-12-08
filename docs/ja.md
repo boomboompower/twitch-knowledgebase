@@ -63,7 +63,6 @@
 | How To Use Clips                              | 30/08/2025, 7:11:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                               |
 | Clips Settings                                | 25/08/2025, 10:10:11 am   | [Link](https://help.twitch.tv/s/article/clips-settings?language=ja)                                 |
 | Multi Month Subscriptions                     | 16/08/2025, 7:09:00 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=ja)                      |
-| Subscriptions On Mobile                       | 16/08/2025, 7:08:30 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ja)                        |
 
 
 
