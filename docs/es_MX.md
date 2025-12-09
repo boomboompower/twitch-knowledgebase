@@ -6,12 +6,16 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
-| Bounty Board Program Information And Faq      | 05/12/2025, 0:43:59 pm    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=es_MX)       |
-| Creator Profile Setup                         | 05/12/2025, 0:38:36 pm    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es_MX)                          |
-| Streamelements Campaigns                      | 05/12/2025, 0:38:11 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es_MX)                       |
-| Sponsored Subscriptions                       | 05/12/2025, 0:37:48 pm    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=es_MX)                        |
-| Channel Skins                                 | 05/12/2025, 0:37:23 pm    | [Link](https://help.twitch.tv/s/article/channel-skins?language=es_MX)                                  |
-| Streamer Read Ads                             | 05/12/2025, 0:36:58 pm    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=es_MX)                              |
+| Date Of Birth Changes                         | 09/12/2025, 9:59:07 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                          |
+| Sponsorship Overview                          | 09/12/2025, 8:03:12 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es_MX)                           |
+| Channel Skins                                 | 09/12/2025, 7:25:12 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=es_MX)                                  |
+| Sponsored Subscriptions                       | 09/12/2025, 7:25:03 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=es_MX)                        |
+| Streamelements Campaigns                      | 09/12/2025, 7:25:00 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es_MX)                       |
+| Creator Profile Setup                         | 09/12/2025, 7:25:00 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es_MX)                          |
+| Bounty Board Program Information And Faq      | 09/12/2025, 7:24:58 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=es_MX)       |
+| Streamer Read Ads                             | 09/12/2025, 7:24:57 am    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=es_MX)                              |
+| Stream Together Troubleshooting Guide         | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=es_MX)          |
+| Guest Star Getting Started                    | 09/12/2025, 3:54:12 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es_MX)                     |
 | Link Amazon Twitch Accounts                   | 05/12/2025, 10:15:11 am   | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=es_MX)                    |
 | How To Upgrade Prime                          | 05/12/2025, 6:15:30 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=es_MX)                           |
 | How Subscription Streaks Work                 | 05/12/2025, 3:03:19 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=es_MX)                  |
@@ -23,7 +27,6 @@
 | Auto Clips                                    | 22/11/2025, 5:29:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                                     |
 | Emote Guidelines                              | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es_MX)                               |
 | Age Verification                              | 15/11/2025, 7:02:33 pm    | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)                               |
-| Date Of Birth Changes                         | 13/11/2025, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                          |
 | Creating An Account With Twitch               | 13/11/2025, 5:09:27 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)                |
 | Children On Twitch                            | 13/11/2025, 5:09:05 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=es_MX)                             |
 | Moderation Analytics                          | 04/11/2025, 9:04:49 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=es_MX)                           |
@@ -61,9 +64,6 @@
 | Subtember 2025 Faq                            | 08/09/2025, 8:05:05 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=es_MX)                             |
 | How Twitch Contacts You                       | 06/09/2025, 7:51:17 am    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=es_MX)                        |
 | Bleed Purple                                  | 05/09/2025, 2:28:31 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es_MX)                                   |
-| How To Use Clips                              | 30/08/2025, 7:11:48 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                               |
-| Clips Settings                                | 23/08/2025, 5:04:42 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=es_MX)                                 |
-| Multi Month Subscriptions                     | 16/08/2025, 7:08:59 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=es_MX)                      |
 
 
 
@@ -294,6 +294,20 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
+|---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Sponsorship Overview                  | 09/12/2025, 8:03:12 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es_MX)                   |
+| Stream Together Troubleshooting Guide | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=es_MX)  |
+| Link Amazon Twitch Accounts           | 05/12/2025, 10:15:11 am   | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=es_MX)            |
+| Code Based Drops Rewards              | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=es_MX)               |
+| Auto Clips                            | 22/11/2025, 5:29:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                             |
+| In Game Experience Selector           | 30/10/2025, 10:38:53 pm   | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=es_MX)            |
 
 
 

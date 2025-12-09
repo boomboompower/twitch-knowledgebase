@@ -12,7 +12,6 @@
 | Twitch Prime Partner Guide                    | 24/10/2025, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=pt_PT)                     |
 | Achievements                                  | 23/10/2025, 8:45:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                                   |
 | Setting Up Moderation For Your Twitch Channel | 05/09/2025, 6:24:09 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=pt_PT)  |
-| Gift Subscriptions                            | 16/08/2025, 7:08:39 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                             |
 
 
 
