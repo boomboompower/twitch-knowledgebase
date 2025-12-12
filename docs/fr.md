@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Stream Quality                                | 12/12/2025, 8:41:58 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)                                 |
 | Age Verification                              | 11/12/2025, 10:05:58 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=fr)                               |
 | Subscriptions On Mobile                       | 11/12/2025, 7:40:18 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=fr)                        |
 | Link Amazon Twitch Accounts                   | 09/12/2025, 11:59:57 pm   | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=fr)                    |
@@ -57,7 +58,6 @@
 | Channel Points Faq                            | 03/10/2025, 9:24:10 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=fr)                             |
 | Social Badge                                  | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=fr)                                   |
 | Stream Rewind                                 | 30/09/2025, 9:34:33 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=fr)                                  |
-| Stream Quality                                | 29/09/2025, 10:03:12 pm   | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)                                 |
 | Supported Mobile Os                           | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=fr)                            |
 | Shared Chat                                   | 25/09/2025, 11:04:41 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=fr)                                    |
 | Digital Services Act                          | 23/09/2025, 11:06:51 pm   | [Link](https://help.twitch.tv/s/article/digital-services-act?language=fr)                           |

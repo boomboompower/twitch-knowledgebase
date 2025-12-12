@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Stream Quality                                | 12/12/2025, 8:41:58 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=en_US)                                 |
 | Reactions                                     | 11/12/2025, 11:16:17 am   | [Link](https://help.twitch.tv/s/article/reactions?language=en_US)                                      |
 | Age Verification                              | 11/12/2025, 10:05:58 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=en_US)                               |
 | Subscriptions On Mobile                       | 11/12/2025, 7:40:18 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=en_US)                        |
@@ -61,12 +62,9 @@
 | Stream Rewind                                 | 26/09/2025, 7:22:04 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=en_US)                                  |
 | Supported Mobile Os                           | 26/09/2025, 5:45:36 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=en_US)                            |
 | Shared Chat                                   | 25/09/2025, 9:10:37 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=en_US)                                    |
-| Stream Quality                                | 25/09/2025, 8:39:00 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=en_US)                                 |
 | Digital Services Act                          | 17/09/2025, 6:29:32 am    | [Link](https://help.twitch.tv/s/article/digital-services-act?language=en_US)                           |
 | How Twitch Contacts You                       | 06/09/2025, 7:51:17 am    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=en_US)                        |
 | Setting Up Moderation For Your Twitch Channel | 05/09/2025, 6:24:09 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=en_US)  |
-| Subtember 2025 Faq                            | 05/09/2025, 2:52:54 am    | [Link](https://help.twitch.tv/s/article/subtember-2025-faq?language=en_US)                             |
-| Chat Bot Badge About                          | 05/09/2025, 2:39:15 am    | [Link](https://help.twitch.tv/s/article/chat-bot-badge-about?language=en_US)                           |
 
 
 

@@ -6,6 +6,9 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Stream Quality                                | 12/12/2025, 8:41:58 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)                                 |
+| Streamelements Campaigns                      | 11/12/2025, 1:37:52 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=pt_BR)                       |
+| Reactions                                     | 11/12/2025, 1:12:27 pm    | [Link](https://help.twitch.tv/s/article/reactions?language=pt_BR)                                      |
 | Age Verification                              | 11/12/2025, 10:05:58 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=pt_BR)                               |
 | Subscriptions On Mobile                       | 11/12/2025, 7:40:20 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=pt_BR)                        |
 | Sponsorship Overview                          | 09/12/2025, 1:59:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=pt_BR)                           |
@@ -15,7 +18,6 @@
 | Link Amazon Twitch Accounts                   | 06/12/2025, 2:44:38 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=pt_BR)                    |
 | Bounty Board Program Information And Faq      | 05/12/2025, 0:43:59 pm    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=pt_BR)       |
 | Creator Profile Setup                         | 05/12/2025, 0:38:36 pm    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=pt_BR)                          |
-| Streamelements Campaigns                      | 05/12/2025, 0:38:11 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=pt_BR)                       |
 | Sponsored Subscriptions                       | 05/12/2025, 0:37:48 pm    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=pt_BR)                        |
 | Channel Skins                                 | 05/12/2025, 0:37:23 pm    | [Link](https://help.twitch.tv/s/article/channel-skins?language=pt_BR)                                  |
 | Streamer Read Ads                             | 05/12/2025, 0:36:58 pm    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=pt_BR)                              |
@@ -56,7 +58,6 @@
 | Partner Front Page                            | 03/10/2025, 7:00:26 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=pt_BR)                             |
 | Social Badge                                  | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=pt_BR)                                   |
 | Stream Rewind                                 | 29/09/2025, 5:20:02 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=pt_BR)                                  |
-| Stream Quality                                | 26/09/2025, 0:18:10 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)                                 |
 | Supported Mobile Os                           | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=pt_BR)                            |
 | Shared Chat                                   | 25/09/2025, 11:04:55 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=pt_BR)                                    |
 | Digital Services Act                          | 23/09/2025, 11:14:32 pm   | [Link](https://help.twitch.tv/s/article/digital-services-act?language=pt_BR)                           |
