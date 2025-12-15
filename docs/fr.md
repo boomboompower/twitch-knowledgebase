@@ -6,6 +6,7 @@
 
 | Name                                     | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Reactions                                | 15/12/2025, 0:39:59 am    | [Link](https://help.twitch.tv/s/article/reactions?language=fr)                                 |
 | Failed Payments                          | 13/12/2025, 0:07:01 pm    | [Link](https://help.twitch.tv/s/article/failed-payments?language=fr)                           |
 | Delete Twitch Account                    | 13/12/2025, 11:23:06 am   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=fr)                     |
 | Partner Front Page                       | 13/12/2025, 10:28:28 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=fr)                        |

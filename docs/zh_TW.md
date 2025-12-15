@@ -62,7 +62,6 @@
 | Social Badge                             | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=zh_TW)                              |
 | Stream Rewind                            | 28/09/2025, 6:32:32 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=zh_TW)                             |
 | Supported Mobile Os                      | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=zh_TW)                       |
-| Shared Chat                              | 25/09/2025, 11:04:36 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=zh_TW)                               |
 
 
 
@@ -299,6 +298,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                          |
+|----------------------|---------------------------|-------------------------------------------------------------------------------|
+| Sponsorship Overview | 14/12/2025, 7:28:08 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=zh_TW)  |
 
 
 

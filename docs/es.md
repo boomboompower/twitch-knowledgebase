@@ -61,7 +61,6 @@
 | Stream Rewind                            | 30/09/2025, 10:28:03 pm   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es)                             |
 | Supported Mobile Os                      | 26/09/2025, 5:45:36 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=es)                       |
 | Shared Chat                              | 25/09/2025, 11:04:48 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=es)                               |
-| Digital Services Act                     | 23/09/2025, 11:17:33 pm   | [Link](https://help.twitch.tv/s/article/digital-services-act?language=es)                      |
 
 
 
@@ -296,6 +295,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Code Based Drops Rewards | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=es)  |
 
 
 

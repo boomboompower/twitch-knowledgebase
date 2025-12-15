@@ -62,7 +62,6 @@
 | Stream Rewind                            | 01/10/2025, 0:04:38 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=ja)                             |
 | Supported Mobile Os                      | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=ja)                       |
 | Shared Chat                              | 25/09/2025, 11:04:54 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=ja)                               |
-| Digital Services Act                     | 23/09/2025, 11:13:34 pm   | [Link](https://help.twitch.tv/s/article/digital-services-act?language=ja)                      |
 
 
 

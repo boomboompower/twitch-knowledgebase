@@ -60,8 +60,6 @@
 | Social Badge                             | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=it)                              |
 | Stream Rewind                            | 30/09/2025, 0:39:36 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=it)                             |
 | Supported Mobile Os                      | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=it)                       |
-| Shared Chat                              | 25/09/2025, 11:04:36 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=it)                               |
-| Digital Services Act                     | 23/09/2025, 11:12:33 pm   | [Link](https://help.twitch.tv/s/article/digital-services-act?language=it)                      |
 
 
 

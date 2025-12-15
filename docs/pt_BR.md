@@ -6,6 +6,7 @@
 
 | Name                                     | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Age Verification                         | 15/12/2025, 8:09:53 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=pt_BR)                          |
 | Creator Profile Setup                    | 13/12/2025, 3:10:21 pm    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=pt_BR)                     |
 | Sponsored Subscriptions                  | 13/12/2025, 3:10:17 pm    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=pt_BR)                   |
 | Channel Skins                            | 13/12/2025, 3:09:48 pm    | [Link](https://help.twitch.tv/s/article/channel-skins?language=pt_BR)                             |
@@ -18,7 +19,6 @@
 | Stream Quality                           | 12/12/2025, 8:41:58 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)                            |
 | Streamelements Campaigns                 | 11/12/2025, 1:37:52 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=pt_BR)                  |
 | Reactions                                | 11/12/2025, 1:12:27 pm    | [Link](https://help.twitch.tv/s/article/reactions?language=pt_BR)                                 |
-| Age Verification                         | 11/12/2025, 10:05:58 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=pt_BR)                          |
 | Subscriptions On Mobile                  | 11/12/2025, 7:40:20 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=pt_BR)                   |
 | Sponsorship Overview                     | 09/12/2025, 1:59:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=pt_BR)                      |
 | Date Of Birth Changes                    | 09/12/2025, 9:59:08 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pt_BR)                     |
@@ -63,7 +63,6 @@
 | Stream Rewind                            | 29/09/2025, 5:20:02 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=pt_BR)                             |
 | Supported Mobile Os                      | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=pt_BR)                       |
 | Shared Chat                              | 25/09/2025, 11:04:55 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=pt_BR)                               |
-| Digital Services Act                     | 23/09/2025, 11:14:32 pm   | [Link](https://help.twitch.tv/s/article/digital-services-act?language=pt_BR)                      |
 
 
 
@@ -298,6 +297,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_BR)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=pt_BR)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pt_BR)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                          |
+|----------------------|---------------------------|-------------------------------------------------------------------------------|
+| Sponsorship Overview | 09/12/2025, 1:59:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=pt_BR)  |
 
 
 

@@ -64,7 +64,6 @@
 | Recover Watch Streaks                    | 02/10/2025, 3:57:04 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=en_US)                     |
 | Stream Rewind                            | 26/09/2025, 7:22:04 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=en_US)                             |
 | Supported Mobile Os                      | 26/09/2025, 5:45:36 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=en_US)                       |
-| Shared Chat                              | 25/09/2025, 9:10:37 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=en_US)                               |
 
 
 
@@ -356,6 +355,16 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Sponsorship Overview     | 05/12/2025, 0:36:33 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=en_US)      |
+| Code Based Drops Rewards | 03/12/2025, 7:47:57 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=en_US)  |
 
 
 
