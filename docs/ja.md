@@ -6,6 +6,8 @@
 
 | Name                                     | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Stream Quality                           | 17/12/2025, 11:59:39 am   | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)                            |
+| Age Verification                         | 17/12/2025, 11:24:19 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=ja)                          |
 | Failed Payments                          | 16/12/2025, 11:40:23 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=ja)                           |
 | Delete Twitch Account                    | 16/12/2025, 11:33:29 am   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=ja)                     |
 | Bounty Board Program Information And Faq | 15/12/2025, 2:55:47 pm    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=ja)  |
@@ -19,8 +21,6 @@
 | Twitch Account Settings                  | 13/12/2025, 9:59:37 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ja)                   |
 | Reactions                                | 12/12/2025, 6:32:13 pm    | [Link](https://help.twitch.tv/s/article/reactions?language=ja)                                 |
 | Link Amazon Twitch Accounts              | 12/12/2025, 6:26:56 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=ja)               |
-| Stream Quality                           | 12/12/2025, 8:41:58 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)                            |
-| Age Verification                         | 11/12/2025, 10:05:58 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=ja)                          |
 | Subscriptions On Mobile                  | 11/12/2025, 7:40:20 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ja)                   |
 | Date Of Birth Changes                    | 09/12/2025, 9:59:08 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                     |
 | Stream Together Troubleshooting Guide    | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=ja)     |
@@ -62,6 +62,7 @@
 | Social Badge                             | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=ja)                              |
 | Stream Rewind                            | 01/10/2025, 0:04:38 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=ja)                             |
 | Supported Mobile Os                      | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=ja)                       |
+| Shared Chat                              | 25/09/2025, 11:04:54 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=ja)                               |
 
 
 

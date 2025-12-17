@@ -6,6 +6,8 @@
 
 | Name                                     | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Delete Twitch Account                    | 16/12/2025, 7:27:25 pm    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=zh_TW)                     |
+| Failed Payments                          | 16/12/2025, 7:07:38 pm    | [Link](https://help.twitch.tv/s/article/failed-payments?language=zh_TW)                           |
 | Sponsorship Overview                     | 14/12/2025, 7:28:08 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=zh_TW)                      |
 | Sponsored Subscriptions                  | 13/12/2025, 8:15:10 pm    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=zh_TW)                   |
 | Bounty Board Program Information And Faq | 13/12/2025, 8:15:07 pm    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=zh_TW)  |
@@ -13,8 +15,6 @@
 | Channel Skins                            | 13/12/2025, 8:15:02 pm    | [Link](https://help.twitch.tv/s/article/channel-skins?language=zh_TW)                             |
 | Streamelements Campaigns                 | 13/12/2025, 8:14:58 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=zh_TW)                  |
 | Streamer Read Ads                        | 13/12/2025, 8:14:58 pm    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=zh_TW)                         |
-| Failed Payments                          | 13/12/2025, 0:07:01 pm    | [Link](https://help.twitch.tv/s/article/failed-payments?language=zh_TW)                           |
-| Delete Twitch Account                    | 13/12/2025, 11:23:06 am   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=zh_TW)                     |
 | Partner Front Page                       | 13/12/2025, 10:28:28 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                        |
 | Twitch Account Settings                  | 13/12/2025, 9:59:37 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=zh_TW)                   |
 | Stream Quality                           | 12/12/2025, 8:41:58 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                            |

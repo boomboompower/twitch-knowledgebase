@@ -6,10 +6,10 @@
 
 | Name                                     | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Partner Front Page                       | 16/12/2025, 0:58:37 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es_MX)                        |
 | Failed Payments                          | 16/12/2025, 0:01:29 pm    | [Link](https://help.twitch.tv/s/article/failed-payments?language=es_MX)                           |
 | Delete Twitch Account                    | 16/12/2025, 11:59:12 am   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=es_MX)                     |
 | Stream Quality                           | 13/12/2025, 1:34:58 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                            |
-| Partner Front Page                       | 13/12/2025, 10:28:28 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es_MX)                        |
 | Age Verification                         | 13/12/2025, 10:07:18 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)                          |
 | Twitch Account Settings                  | 13/12/2025, 9:59:36 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es_MX)                   |
 | Reactions                                | 11/12/2025, 11:16:17 am   | [Link](https://help.twitch.tv/s/article/reactions?language=es_MX)                                 |
@@ -61,6 +61,8 @@
 | Social Badge                             | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=es_MX)                              |
 | Recover Watch Streaks                    | 02/10/2025, 10:16:03 pm   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                     |
 | Stream Rewind                            | 27/09/2025, 11:40:12 am   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es_MX)                             |
+| Supported Mobile Os                      | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=es_MX)                       |
+| Shared Chat                              | 25/09/2025, 11:04:42 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=es_MX)                               |
 
 
 

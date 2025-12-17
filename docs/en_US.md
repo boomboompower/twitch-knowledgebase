@@ -63,6 +63,7 @@
 | Social Badge                             | 03/10/2025, 6:32:22 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=en_US)                              |
 | Recover Watch Streaks                    | 02/10/2025, 3:57:04 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=en_US)                     |
 | Stream Rewind                            | 26/09/2025, 7:22:04 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=en_US)                             |
+| Supported Mobile Os                      | 26/09/2025, 5:45:36 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=en_US)                       |
 
 
 

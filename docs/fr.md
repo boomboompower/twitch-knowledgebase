@@ -63,6 +63,7 @@
 | Channel Points Faq                       | 03/10/2025, 9:24:10 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=fr)                        |
 | Social Badge                             | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=fr)                              |
 | Stream Rewind                            | 30/09/2025, 9:34:33 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=fr)                             |
+| Supported Mobile Os                      | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=fr)                       |
 
 
 

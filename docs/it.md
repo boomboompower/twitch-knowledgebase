@@ -6,6 +6,8 @@
 
 | Name                                     | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Stream Quality                           | 16/12/2025, 8:47:34 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=it)                            |
+| Age Verification                         | 16/12/2025, 8:37:34 pm    | [Link](https://help.twitch.tv/s/article/age-verification?language=it)                          |
 | Reactions                                | 16/12/2025, 1:21:12 am    | [Link](https://help.twitch.tv/s/article/reactions?language=it)                                 |
 | Sponsorship Overview                     | 16/12/2025, 1:20:22 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=it)                      |
 | Failed Payments                          | 13/12/2025, 0:06:59 pm    | [Link](https://help.twitch.tv/s/article/failed-payments?language=it)                           |
@@ -18,9 +20,7 @@
 | Streamelements Campaigns                 | 12/12/2025, 11:42:55 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=it)                  |
 | Sponsored Subscriptions                  | 12/12/2025, 11:42:53 pm   | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=it)                   |
 | Channel Skins                            | 12/12/2025, 11:42:52 pm   | [Link](https://help.twitch.tv/s/article/channel-skins?language=it)                             |
-| Stream Quality                           | 12/12/2025, 8:41:58 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=it)                            |
 | Link Amazon Twitch Accounts              | 11/12/2025, 8:43:18 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=it)               |
-| Age Verification                         | 11/12/2025, 10:05:58 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=it)                          |
 | Subscriptions On Mobile                  | 11/12/2025, 7:40:20 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=it)                   |
 | Date Of Birth Changes                    | 09/12/2025, 9:59:06 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=it)                     |
 | Stream Together Troubleshooting Guide    | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=it)     |

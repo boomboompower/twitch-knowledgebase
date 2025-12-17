@@ -61,6 +61,8 @@
 | Recover Watch Streaks                    | 07/10/2025, 9:11:51 pm    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=de)                     |
 | Social Badge                             | 03/10/2025, 6:32:22 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=de)                              |
 | Stream Rewind                            | 30/09/2025, 10:31:36 pm   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=de)                             |
+| Supported Mobile Os                      | 26/09/2025, 5:45:37 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=de)                       |
+| Shared Chat                              | 25/09/2025, 11:04:50 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=de)                               |
 
 
 

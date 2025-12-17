@@ -61,6 +61,8 @@
 | How To Use Badges                        | 07/10/2025, 9:49:35 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=es)                         |
 | Social Badge                             | 03/10/2025, 6:32:22 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=es)                              |
 | Stream Rewind                            | 30/09/2025, 10:28:03 pm   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es)                             |
+| Supported Mobile Os                      | 26/09/2025, 5:45:36 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=es)                       |
+| Shared Chat                              | 25/09/2025, 11:04:48 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=es)                               |
 
 
 
