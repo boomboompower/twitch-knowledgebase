@@ -4,65 +4,64 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                     | Last Updated (dd/mm/yyyy) | Link                                                                                           |
-|------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
-| Stream Quality                           | 17/12/2025, 11:59:39 am   | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)                            |
-| Age Verification                         | 17/12/2025, 11:24:19 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=ja)                          |
-| Failed Payments                          | 16/12/2025, 11:40:23 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=ja)                           |
-| Delete Twitch Account                    | 16/12/2025, 11:33:29 am   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=ja)                     |
-| Bounty Board Program Information And Faq | 15/12/2025, 2:55:47 pm    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=ja)  |
-| Streamelements Campaigns                 | 15/12/2025, 2:55:46 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=ja)                  |
-| Streamer Read Ads                        | 15/12/2025, 2:55:43 pm    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=ja)                         |
-| Channel Skins                            | 15/12/2025, 2:55:41 pm    | [Link](https://help.twitch.tv/s/article/channel-skins?language=ja)                             |
-| Creator Profile Setup                    | 15/12/2025, 2:55:39 pm    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=ja)                     |
-| Sponsored Subscriptions                  | 15/12/2025, 2:55:38 pm    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=ja)                   |
-| Sponsorship Overview                     | 15/12/2025, 1:25:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=ja)                      |
-| Partner Front Page                       | 13/12/2025, 10:28:28 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=ja)                        |
-| Twitch Account Settings                  | 13/12/2025, 9:59:37 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ja)                   |
-| Reactions                                | 12/12/2025, 6:32:13 pm    | [Link](https://help.twitch.tv/s/article/reactions?language=ja)                                 |
-| Link Amazon Twitch Accounts              | 12/12/2025, 6:26:56 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=ja)               |
-| Subscriptions On Mobile                  | 11/12/2025, 7:40:20 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ja)                   |
-| Date Of Birth Changes                    | 09/12/2025, 9:59:08 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                     |
-| Stream Together Troubleshooting Guide    | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=ja)     |
-| Guest Star Getting Started               | 09/12/2025, 3:54:12 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ja)                |
-| How To Upgrade Prime                     | 05/12/2025, 6:15:31 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=ja)                      |
-| How Subscription Streaks Work            | 05/12/2025, 3:03:15 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=ja)             |
-| Contacting Purchase Support              | 05/12/2025, 2:55:53 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=ja)               |
-| Video On Demand                          | 04/12/2025, 1:28:01 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                           |
-| Annual Recap                             | 03/12/2025, 4:10:32 pm    | [Link](https://help.twitch.tv/s/article/annual-recap?language=ja)                              |
-| Code Based Drops Rewards                 | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=ja)                  |
-| Combos                                   | 27/11/2025, 11:37:20 am   | [Link](https://help.twitch.tv/s/article/combos?language=ja)                                    |
-| Auto Clips                               | 24/11/2025, 5:50:53 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                                |
-| Emote Guidelines                         | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=ja)                          |
-| Creating An Account With Twitch          | 13/11/2025, 5:09:27 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ja)           |
-| Children On Twitch                       | 13/11/2025, 5:09:05 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=ja)                        |
-| In Game Experience Selector              | 04/11/2025, 6:35:37 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=ja)               |
-| Moderation Analytics                     | 04/11/2025, 9:04:49 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=ja)                      |
-| Partner Program Overview                 | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                  |
-| Drops Prime Difference                   | 01/11/2025, 7:42:57 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=ja)                    |
-| Dual Format Vertical Video               | 31/10/2025, 6:35:15 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)                |
-| Twitch Chat Badges Guide                 | 29/10/2025, 9:15:19 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                  |
-| Twitch Merchandise Store Support Faq     | 29/10/2025, 9:14:47 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=ja)      |
-| Twitch Turbo Guide                       | 29/10/2025, 9:14:04 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                        |
-| Founders Badge                           | 29/10/2025, 9:12:14 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=ja)                            |
-| Your First Payout Walkthrough            | 29/10/2025, 9:11:57 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=ja)             |
-| Tips For Applying To The Partner Program | 27/10/2025, 1:40:34 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ja)  |
-| Achievements                             | 27/10/2025, 1:40:28 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=ja)                              |
-| Prime Gaming Revenue Guide               | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                |
-| Music Options For Streamers              | 23/10/2025, 11:10:59 am   | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=ja)               |
-| Subscription Cancellation Reasons        | 15/10/2025, 1:54:53 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ja)         |
-| What Is Fraud                            | 15/10/2025, 1:53:11 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=ja)                             |
-| Costreaming                              | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=ja)                               |
-| Refunds On Twitch                        | 09/10/2025, 4:15:08 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ja)                         |
-| Alerts By Twitch Events                  | 07/10/2025, 0:06:15 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ja)                   |
-| Channel Points Faq                       | 06/10/2025, 3:31:06 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ja)                        |
-| Viewer Channel Point Guide               | 06/10/2025, 3:31:05 pm    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=ja)                |
-| How To Use Badges                        | 06/10/2025, 3:29:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=ja)                         |
-| Recover Watch Streaks                    | 06/10/2025, 3:28:02 pm    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=ja)                     |
-| Social Badge                             | 03/10/2025, 6:32:23 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=ja)                              |
-| Stream Rewind                            | 01/10/2025, 0:04:38 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=ja)                             |
-| Supported Mobile Os                      | 26/09/2025, 5:45:38 am    | [Link](https://help.twitch.tv/s/article/supported-mobile-os?language=ja)                       |
-| Shared Chat                              | 25/09/2025, 11:04:54 am   | [Link](https://help.twitch.tv/s/article/shared-chat?language=ja)                               |
+| Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
+|-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Managing Roles For Your Channel               | 18/12/2025, 10:33:07 am   | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ja)                |
+| Mod View                                      | 18/12/2025, 5:33:11 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                       |
+| Channel Points Predictions                    | 18/12/2025, 5:33:04 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=ja)                     |
+| Twitch Chat Badges Guide                      | 18/12/2025, 5:32:51 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                       |
+| Setting Up Moderation For Your Twitch Channel | 18/12/2025, 5:32:46 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=ja)  |
+| Stream Quality                                | 17/12/2025, 11:59:39 am   | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)                                 |
+| Age Verification                              | 17/12/2025, 11:24:19 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=ja)                               |
+| Failed Payments                               | 16/12/2025, 11:40:23 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=ja)                                |
+| Delete Twitch Account                         | 16/12/2025, 11:33:29 am   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=ja)                          |
+| Bounty Board Program Information And Faq      | 15/12/2025, 2:55:47 pm    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=ja)       |
+| Streamelements Campaigns                      | 15/12/2025, 2:55:46 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=ja)                       |
+| Streamer Read Ads                             | 15/12/2025, 2:55:43 pm    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=ja)                              |
+| Channel Skins                                 | 15/12/2025, 2:55:41 pm    | [Link](https://help.twitch.tv/s/article/channel-skins?language=ja)                                  |
+| Creator Profile Setup                         | 15/12/2025, 2:55:39 pm    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=ja)                          |
+| Sponsored Subscriptions                       | 15/12/2025, 2:55:38 pm    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=ja)                        |
+| Sponsorship Overview                          | 15/12/2025, 1:25:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=ja)                           |
+| Partner Front Page                            | 13/12/2025, 10:28:28 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=ja)                             |
+| Twitch Account Settings                       | 13/12/2025, 9:59:37 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ja)                        |
+| Reactions                                     | 12/12/2025, 6:32:13 pm    | [Link](https://help.twitch.tv/s/article/reactions?language=ja)                                      |
+| Link Amazon Twitch Accounts                   | 12/12/2025, 6:26:56 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=ja)                    |
+| Subscriptions On Mobile                       | 11/12/2025, 7:40:20 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ja)                        |
+| Date Of Birth Changes                         | 09/12/2025, 9:59:08 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                          |
+| Stream Together Troubleshooting Guide         | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=ja)          |
+| Guest Star Getting Started                    | 09/12/2025, 3:54:12 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ja)                     |
+| How To Upgrade Prime                          | 05/12/2025, 6:15:31 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=ja)                           |
+| How Subscription Streaks Work                 | 05/12/2025, 3:03:15 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=ja)                  |
+| Contacting Purchase Support                   | 05/12/2025, 2:55:53 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=ja)                    |
+| Video On Demand                               | 04/12/2025, 1:28:01 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                                |
+| Annual Recap                                  | 03/12/2025, 4:10:32 pm    | [Link](https://help.twitch.tv/s/article/annual-recap?language=ja)                                   |
+| Code Based Drops Rewards                      | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=ja)                       |
+| Combos                                        | 27/11/2025, 11:37:20 am   | [Link](https://help.twitch.tv/s/article/combos?language=ja)                                         |
+| Auto Clips                                    | 24/11/2025, 5:50:53 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                                     |
+| Emote Guidelines                              | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=ja)                               |
+| Creating An Account With Twitch               | 13/11/2025, 5:09:27 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ja)                |
+| Children On Twitch                            | 13/11/2025, 5:09:05 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=ja)                             |
+| In Game Experience Selector                   | 04/11/2025, 6:35:37 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=ja)                    |
+| Moderation Analytics                          | 04/11/2025, 9:04:49 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=ja)                           |
+| Partner Program Overview                      | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=ja)                       |
+| Drops Prime Difference                        | 01/11/2025, 7:42:57 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=ja)                         |
+| Dual Format Vertical Video                    | 31/10/2025, 6:35:15 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)                     |
+| Twitch Merchandise Store Support Faq          | 29/10/2025, 9:14:47 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=ja)           |
+| Twitch Turbo Guide                            | 29/10/2025, 9:14:04 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                             |
+| Founders Badge                                | 29/10/2025, 9:12:14 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=ja)                                 |
+| Your First Payout Walkthrough                 | 29/10/2025, 9:11:57 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=ja)                  |
+| Tips For Applying To The Partner Program      | 27/10/2025, 1:40:34 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ja)       |
+| Achievements                                  | 27/10/2025, 1:40:28 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=ja)                                   |
+| Prime Gaming Revenue Guide                    | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                     |
+| Music Options For Streamers                   | 23/10/2025, 11:10:59 am   | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=ja)                    |
+| Subscription Cancellation Reasons             | 15/10/2025, 1:54:53 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ja)              |
+| What Is Fraud                                 | 15/10/2025, 1:53:11 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=ja)                                  |
+| Costreaming                                   | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=ja)                                    |
+| Refunds On Twitch                             | 09/10/2025, 4:15:08 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ja)                              |
+| Alerts By Twitch Events                       | 07/10/2025, 0:06:15 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ja)                        |
+| Channel Points Faq                            | 06/10/2025, 3:31:06 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ja)                             |
+| Viewer Channel Point Guide                    | 06/10/2025, 3:31:05 pm    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=ja)                     |
+| How To Use Badges                             | 06/10/2025, 3:29:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=ja)                              |
 
 
 
@@ -303,11 +302,15 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Sponsorship Overview        | 15/12/2025, 1:25:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=ja)         |
-| Code Based Drops Rewards    | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=ja)     |
-| In Game Experience Selector | 04/11/2025, 6:35:37 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=ja)  |
+| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
+|---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Sponsorship Overview                  | 15/12/2025, 1:25:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=ja)                   |
+| Link Amazon Twitch Accounts           | 12/12/2025, 6:26:56 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=ja)            |
+| Stream Together Troubleshooting Guide | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=ja)  |
+| Code Based Drops Rewards              | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=ja)               |
+| Auto Clips                            | 24/11/2025, 5:50:53 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                             |
+| In Game Experience Selector           | 04/11/2025, 6:35:37 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=ja)            |
+| Costreaming                           | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=ja)                            |
 
 
 
