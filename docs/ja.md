@@ -6,11 +6,11 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Channel Points Predictions                    | 18/12/2025, 0:54:28 pm    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=ja)                     |
+| Twitch Chat Badges Guide                      | 18/12/2025, 0:54:27 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                       |
+| Mod View                                      | 18/12/2025, 0:54:24 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                       |
+| Setting Up Moderation For Your Twitch Channel | 18/12/2025, 0:54:23 pm    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=ja)  |
 | Managing Roles For Your Channel               | 18/12/2025, 10:33:07 am   | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ja)                |
-| Mod View                                      | 18/12/2025, 5:33:11 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                       |
-| Channel Points Predictions                    | 18/12/2025, 5:33:04 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=ja)                     |
-| Twitch Chat Badges Guide                      | 18/12/2025, 5:32:51 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                       |
-| Setting Up Moderation For Your Twitch Channel | 18/12/2025, 5:32:46 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=ja)  |
 | Stream Quality                                | 17/12/2025, 11:59:39 am   | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)                                 |
 | Age Verification                              | 17/12/2025, 11:24:19 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=ja)                               |
 | Failed Payments                               | 16/12/2025, 11:40:23 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=ja)                                |
@@ -62,6 +62,7 @@
 | Channel Points Faq                            | 06/10/2025, 3:31:06 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ja)                             |
 | Viewer Channel Point Guide                    | 06/10/2025, 3:31:05 pm    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=ja)                     |
 | How To Use Badges                             | 06/10/2025, 3:29:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=ja)                              |
+| Recover Watch Streaks                         | 06/10/2025, 3:28:02 pm    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=ja)                          |
 
 
 

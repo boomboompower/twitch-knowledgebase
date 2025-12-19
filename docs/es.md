@@ -6,11 +6,13 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Twitch Chat Badges Guide                      | 18/12/2025, 11:26:35 pm   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es)                       |
+| Setting Up Moderation For Your Twitch Channel | 18/12/2025, 11:26:33 pm   | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=es)  |
+| Mod View                                      | 18/12/2025, 11:26:32 pm   | [Link](https://help.twitch.tv/s/article/mod-view?language=es)                                       |
+| Channel Points Predictions                    | 18/12/2025, 11:26:30 pm   | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=es)                     |
+| Failed Payments                               | 18/12/2025, 10:48:43 pm   | [Link](https://help.twitch.tv/s/article/failed-payments?language=es)                                |
+| Delete Twitch Account                         | 18/12/2025, 10:47:43 pm   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=es)                          |
 | Managing Roles For Your Channel               | 18/12/2025, 11:10:12 am   | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es)                |
-| Mod View                                      | 18/12/2025, 5:33:11 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=es)                                       |
-| Channel Points Predictions                    | 18/12/2025, 5:33:04 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=es)                     |
-| Twitch Chat Badges Guide                      | 18/12/2025, 5:32:51 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es)                       |
-| Setting Up Moderation For Your Twitch Channel | 18/12/2025, 5:32:46 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=es)  |
 | Stream Quality                                | 17/12/2025, 7:13:44 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)                                 |
 | Age Verification                              | 17/12/2025, 6:36:04 pm    | [Link](https://help.twitch.tv/s/article/age-verification?language=es)                               |
 | Reactions                                     | 16/12/2025, 1:10:28 am    | [Link](https://help.twitch.tv/s/article/reactions?language=es)                                      |
@@ -21,8 +23,6 @@
 | Streamelements Campaigns                      | 16/12/2025, 0:59:36 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)                       |
 | Bounty Board Program Information And Faq      | 16/12/2025, 0:59:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=es)       |
 | Sponsorship Overview                          | 15/12/2025, 11:25:48 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es)                           |
-| Failed Payments                               | 13/12/2025, 0:07:00 pm    | [Link](https://help.twitch.tv/s/article/failed-payments?language=es)                                |
-| Delete Twitch Account                         | 13/12/2025, 11:23:06 am   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=es)                          |
 | Partner Front Page                            | 13/12/2025, 10:28:28 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es)                             |
 | Twitch Account Settings                       | 13/12/2025, 9:59:36 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es)                        |
 | Link Amazon Twitch Accounts                   | 12/12/2025, 6:56:24 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=es)                    |
