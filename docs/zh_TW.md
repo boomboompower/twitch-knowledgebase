@@ -6,11 +6,13 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
-| Creator Dashboard                             | 20/12/2025, 9:12:52 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=zh_TW)                              |
-| How To Use Automod                            | 20/12/2025, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=zh_TW)                             |
-| Setting Up Moderation For Your Twitch Channel | 20/12/2025, 9:02:22 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=zh_TW)  |
+| Setting Up Moderation For Your Twitch Channel | 22/12/2025, 9:36:22 pm    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=zh_TW)  |
+| How To Use Automod                            | 22/12/2025, 9:36:20 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=zh_TW)                             |
+| Chat Verification Settings                    | 22/12/2025, 9:36:16 pm    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=zh_TW)                     |
+| Follower Verification                         | 22/12/2025, 9:36:13 pm    | [Link](https://help.twitch.tv/s/article/follower-verification?language=zh_TW)                          |
+| Creator Dashboard                             | 22/12/2025, 9:36:13 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=zh_TW)                              |
+| How To Use Go Live Notifications              | 22/12/2025, 9:24:43 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=zh_TW)               |
 | Partner Front Page                            | 20/12/2025, 5:56:32 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                             |
-| How To Use Go Live Notifications              | 19/12/2025, 2:02:13 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=zh_TW)               |
 | Partner Discord                               | 19/12/2025, 1:28:32 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=zh_TW)                                |
 | Managing Roles For Your Channel               | 18/12/2025, 7:39:49 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=zh_TW)                |
 | Channel Points Predictions                    | 18/12/2025, 7:17:57 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=zh_TW)                     |
@@ -60,7 +62,6 @@
 | Music Options For Streamers                   | 23/10/2025, 0:42:15 pm    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=zh_TW)                    |
 | Subscription Cancellation Reasons             | 15/10/2025, 1:54:53 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=zh_TW)              |
 | What Is Fraud                                 | 15/10/2025, 1:53:11 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=zh_TW)                                  |
-| Costreaming                                   | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=zh_TW)                                    |
 
 
 
