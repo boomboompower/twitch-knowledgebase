@@ -6,11 +6,11 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| How To Use Go Live Notifications              | 29/12/2025, 7:35:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=fr)               |
 | Creator Dashboard                             | 20/12/2025, 9:12:52 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=fr)                              |
 | How To Use Automod                            | 20/12/2025, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=fr)                             |
 | Setting Up Moderation For Your Twitch Channel | 20/12/2025, 9:02:22 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=fr)  |
 | Partner Front Page                            | 20/12/2025, 1:22:43 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=fr)                             |
-| How To Use Go Live Notifications              | 19/12/2025, 2:02:13 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=fr)               |
 | Partner Discord                               | 19/12/2025, 1:28:31 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=fr)                                |
 | Managing Roles For Your Channel               | 18/12/2025, 10:04:48 pm   | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=fr)                |
 | Twitch Chat Badges Guide                      | 18/12/2025, 9:50:04 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=fr)                       |
