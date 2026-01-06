@@ -51,7 +51,6 @@
 | In Game Experience Selector                   | 04/11/2025, 7:28:54 am    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=zh_TW)                    |
 | Dual Format Vertical Video                    | 03/11/2025, 5:03:19 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                     |
 | Partner Program Overview                      | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                       |
-| Drops Prime Difference                        | 01/11/2025, 7:42:58 am    | [Link](https://help.twitch.tv/s/article/drops-prime-difference?language=zh_TW)                         |
 | Twitch Merchandise Store Support Faq          | 29/10/2025, 9:14:47 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=zh_TW)           |
 | Twitch Turbo Guide                            | 29/10/2025, 9:14:05 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                             |
 | Founders Badge                                | 29/10/2025, 9:12:16 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=zh_TW)                                 |
@@ -62,6 +61,7 @@
 | Music Options For Streamers                   | 23/10/2025, 0:42:15 pm    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=zh_TW)                    |
 | Subscription Cancellation Reasons             | 15/10/2025, 1:54:53 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=zh_TW)              |
 | What Is Fraud                                 | 15/10/2025, 1:53:11 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=zh_TW)                                  |
+| Costreaming                                   | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=zh_TW)                                    |
 
 
 
