@@ -6,11 +6,13 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
-| Creator Dashboard                             | 20/12/2025, 9:12:52 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=ja)                              |
-| How To Use Automod                            | 20/12/2025, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ja)                             |
-| Setting Up Moderation For Your Twitch Channel | 20/12/2025, 9:02:22 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=ja)  |
+| How To Use Automod                            | 07/01/2026, 10:59:41 am   | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ja)                             |
+| Follower Verification                         | 07/01/2026, 10:59:40 am   | [Link](https://help.twitch.tv/s/article/follower-verification?language=ja)                          |
+| Chat Verification Settings                    | 07/01/2026, 10:59:38 am   | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=ja)                     |
+| Setting Up Moderation For Your Twitch Channel | 07/01/2026, 10:59:38 am   | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=ja)  |
+| Creator Dashboard                             | 07/01/2026, 10:59:35 am   | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=ja)                              |
+| How To Use Go Live Notifications              | 07/01/2026, 10:52:25 am   | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=ja)               |
 | Partner Front Page                            | 19/12/2025, 2:26:12 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=ja)                             |
-| How To Use Go Live Notifications              | 19/12/2025, 2:02:13 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=ja)               |
 | Partner Discord                               | 19/12/2025, 1:28:32 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=ja)                                |
 | Channel Points Predictions                    | 18/12/2025, 0:54:28 pm    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=ja)                     |
 | Twitch Chat Badges Guide                      | 18/12/2025, 0:54:27 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                       |
@@ -59,7 +61,6 @@
 | Music Options For Streamers                   | 23/10/2025, 11:10:59 am   | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=ja)                    |
 | Subscription Cancellation Reasons             | 15/10/2025, 1:54:53 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ja)              |
 | What Is Fraud                                 | 15/10/2025, 1:53:11 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=ja)                                  |
-| Costreaming                                   | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=ja)                                    |
 
 
 
@@ -295,6 +296,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                       |
+|----------------------|---------------------------|----------------------------------------------------------------------------|
+| Sponsorship Overview | 15/12/2025, 1:25:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=ja)  |
 
 
 

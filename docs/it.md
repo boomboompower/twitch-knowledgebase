@@ -6,10 +6,10 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| How To Use Go Live Notifications              | 06/01/2026, 8:42:55 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=it)               |
 | Creator Dashboard                             | 20/12/2025, 9:12:52 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=it)                              |
 | How To Use Automod                            | 20/12/2025, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=it)                             |
 | Setting Up Moderation For Your Twitch Channel | 20/12/2025, 9:02:22 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=it)  |
-| How To Use Go Live Notifications              | 19/12/2025, 2:02:13 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=it)               |
 | Partner Discord                               | 19/12/2025, 1:28:32 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=it)                                |
 | Partner Front Page                            | 18/12/2025, 8:33:53 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=it)                             |
 | Managing Roles For Your Channel               | 18/12/2025, 8:00:54 pm    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=it)                |
@@ -59,7 +59,6 @@
 | Music Options For Streamers                   | 23/10/2025, 1:58:01 pm    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=it)                    |
 | Subscription Cancellation Reasons             | 15/10/2025, 1:54:53 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=it)              |
 | What Is Fraud                                 | 15/10/2025, 1:53:10 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=it)                                  |
-| Costreaming                                   | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=it)                                    |
 
 
 
@@ -297,6 +296,15 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=it)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=it)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=it)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                       |
+|----------------------|---------------------------|----------------------------------------------------------------------------|
+| Sponsorship Overview | 16/12/2025, 1:20:22 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=it)  |
 
 
 
