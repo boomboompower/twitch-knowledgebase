@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Two Factor Authentication                     | 08/01/2026, 11:04:41 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=en_US)                      |
 | Chat Verification Settings                    | 20/12/2025, 9:13:29 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=en_US)                     |
 | Creator Dashboard                             | 20/12/2025, 9:12:52 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=en_US)                              |
 | Follower Verification                         | 20/12/2025, 9:07:27 am    | [Link](https://help.twitch.tv/s/article/follower-verification?language=en_US)                          |
@@ -59,9 +60,6 @@
 | Music Options For Streamers                   | 23/10/2025, 9:18:37 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=en_US)                    |
 | Achievements                                  | 23/10/2025, 8:45:19 am    | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                                   |
 | Tips For Applying To The Partner Program      | 23/10/2025, 8:02:21 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)       |
-| Mdr Interview                                 | 23/10/2025, 6:06:42 am    | [Link](https://help.twitch.tv/s/article/mdr-interview?language=en_US)                                  |
-| Subscription Cancellation Reasons             | 15/10/2025, 1:54:51 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=en_US)              |
-| What Is Fraud                                 | 15/10/2025, 1:53:10 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=en_US)                                  |
 
 
 
@@ -360,9 +358,13 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                          |
-|----------------------|---------------------------|-------------------------------------------------------------------------------|
-| Sponsorship Overview | 05/12/2025, 0:36:33 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=en_US)  |
+| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
+|---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Stream Together Troubleshooting Guide | 09/12/2025, 3:56:23 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=en_US)  |
+| Sponsorship Overview                  | 05/12/2025, 0:36:33 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=en_US)                   |
+| Link Amazon Twitch Accounts           | 04/12/2025, 10:55:18 am   | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=en_US)            |
+| Code Based Drops Rewards              | 03/12/2025, 7:47:57 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=en_US)               |
+| In Game Experience Selector           | 23/10/2025, 0:50:11 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=en_US)            |
 
 
 

@@ -6,11 +6,14 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
-| Creator Dashboard                             | 20/12/2025, 9:12:52 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=de)                              |
-| How To Use Automod                            | 20/12/2025, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=de)                             |
-| Setting Up Moderation For Your Twitch Channel | 20/12/2025, 9:02:22 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=de)  |
+| Two Factor Authentication                     | 08/01/2026, 11:04:41 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=de)                      |
+| Follower Verification                         | 07/01/2026, 9:04:05 pm    | [Link](https://help.twitch.tv/s/article/follower-verification?language=de)                          |
+| Setting Up Moderation For Your Twitch Channel | 07/01/2026, 9:04:02 pm    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=de)  |
+| Creator Dashboard                             | 07/01/2026, 9:03:59 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=de)                              |
+| How To Use Automod                            | 07/01/2026, 9:03:54 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=de)                             |
+| Chat Verification Settings                    | 07/01/2026, 9:03:53 pm    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=de)                     |
+| How To Use Go Live Notifications              | 07/01/2026, 8:51:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=de)               |
 | Partner Front Page                            | 20/12/2025, 1:04:44 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=de)                             |
-| How To Use Go Live Notifications              | 19/12/2025, 2:02:13 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=de)               |
 | Partner Discord                               | 19/12/2025, 1:28:30 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=de)                                |
 | Managing Roles For Your Channel               | 19/12/2025, 0:49:05 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=de)                |
 | Twitch Chat Badges Guide                      | 19/12/2025, 0:27:36 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=de)                       |
@@ -57,8 +60,6 @@
 | Tips For Applying To The Partner Program      | 23/10/2025, 10:52:31 pm   | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=de)       |
 | Achievements                                  | 23/10/2025, 10:52:28 pm   | [Link](https://help.twitch.tv/s/article/achievements?language=de)                                   |
 | Music Options For Streamers                   | 23/10/2025, 11:25:34 am   | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=de)                    |
-| Subscription Cancellation Reasons             | 15/10/2025, 1:54:52 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=de)              |
-| What Is Fraud                                 | 15/10/2025, 1:53:10 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=de)                                  |
 
 
 
@@ -303,9 +304,13 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                       |
-|----------------------|---------------------------|----------------------------------------------------------------------------|
-| Sponsorship Overview | 15/12/2025, 7:55:07 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=de)  |
+| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
+|---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Sponsorship Overview                  | 15/12/2025, 7:55:07 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=de)                   |
+| Link Amazon Twitch Accounts           | 11/12/2025, 10:47:08 pm   | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=de)            |
+| Stream Together Troubleshooting Guide | 09/12/2025, 3:56:23 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=de)  |
+| Code Based Drops Rewards              | 03/12/2025, 7:47:57 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=de)               |
+| In Game Experience Selector           | 04/11/2025, 11:38:53 pm   | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=de)            |
 
 
 

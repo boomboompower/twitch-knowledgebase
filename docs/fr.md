@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Two Factor Authentication                     | 08/01/2026, 11:04:41 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=fr)                      |
 | Chat Verification Settings                    | 03/01/2026, 1:58:13 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=fr)                     |
 | Creator Dashboard                             | 03/01/2026, 1:58:11 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=fr)                              |
 | Setting Up Moderation For Your Twitch Channel | 03/01/2026, 1:58:06 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=fr)  |
@@ -59,11 +60,6 @@
 | Tips For Applying To The Partner Program      | 27/10/2025, 9:29:28 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=fr)       |
 | Prime Gaming Revenue Guide                    | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=fr)                     |
 | Music Options For Streamers                   | 23/10/2025, 2:22:12 pm    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=fr)                    |
-| Branded Content Policy                        | 18/10/2025, 6:41:03 am    | [Link](https://help.twitch.tv/s/article/branded-content-policy?language=fr)                         |
-| Sponsorship Experiments Faq                   | 18/10/2025, 6:10:12 am    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=fr)                    |
-| Subscription Cancellation Reasons             | 15/10/2025, 1:54:52 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=fr)              |
-| What Is Fraud                                 | 15/10/2025, 1:53:11 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=fr)                                  |
-| Costreaming                                   | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=fr)                                    |
 
 
 
@@ -305,9 +301,12 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                       |
-|----------------------|---------------------------|----------------------------------------------------------------------------|
-| Sponsorship Overview | 15/12/2025, 11:28:22 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=fr)  |
+| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
+|---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Sponsorship Overview                  | 15/12/2025, 11:28:22 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=fr)                   |
+| Stream Together Troubleshooting Guide | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=fr)  |
+| Code Based Drops Rewards              | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=fr)               |
+| In Game Experience Selector           | 05/11/2025, 0:17:37 am    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=fr)            |
 
 
 

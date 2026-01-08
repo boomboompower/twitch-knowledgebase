@@ -6,6 +6,8 @@
 
 | Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                       |
 |--------------------------------------|---------------------------|--------------------------------------------------------------------------------------------|
+| Two Factor Authentication With Authy | 08/01/2026, 11:04:41 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=sv)  |
+| Gift Subscriptions                   | 08/01/2026, 8:14:16 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=sv)                    |
 | Twitch Merchandise Store Support Faq | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=sv)  |
 
 

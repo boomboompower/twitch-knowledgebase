@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Two Factor Authentication                     | 08/01/2026, 11:04:41 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=pl)                      |
 | Creator Dashboard                             | 20/12/2025, 9:12:52 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=pl)                              |
 | How To Use Automod                            | 20/12/2025, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pl)                             |
 | Setting Up Moderation For Your Twitch Channel | 20/12/2025, 9:02:22 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=pl)  |
@@ -34,7 +35,6 @@
 | Music Options For Streamers                   | 23/10/2025, 9:18:37 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=pl)                    |
 | Achievements                                  | 23/10/2025, 8:45:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pl)                                   |
 | Tips For Applying To The Partner Program      | 23/10/2025, 8:02:21 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=pl)       |
-| Subscription Cancellation Reasons             | 15/10/2025, 1:54:51 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=pl)              |
 
 
 

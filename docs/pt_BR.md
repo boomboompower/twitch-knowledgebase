@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Two Factor Authentication                     | 08/01/2026, 11:04:42 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=pt_BR)                      |
 | Setting Up Moderation For Your Twitch Channel | 21/12/2025, 5:33:52 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=pt_BR)  |
 | How To Use Automod                            | 21/12/2025, 5:33:50 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_BR)                             |
 | Follower Verification                         | 20/12/2025, 3:52:19 pm    | [Link](https://help.twitch.tv/s/article/follower-verification?language=pt_BR)                          |
@@ -59,9 +60,6 @@
 | Achievements                                  | 24/10/2025, 7:49:08 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_BR)                                   |
 | Prime Gaming Revenue Guide                    | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pt_BR)                     |
 | Music Options For Streamers                   | 23/10/2025, 10:47:03 am   | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=pt_BR)                    |
-| Costreaming                                   | 17/10/2025, 2:11:17 pm    | [Link](https://help.twitch.tv/s/article/costreaming?language=pt_BR)                                    |
-| Subscription Cancellation Reasons             | 15/10/2025, 1:54:53 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=pt_BR)              |
-| What Is Fraud                                 | 15/10/2025, 1:53:11 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=pt_BR)                                  |
 
 
 
@@ -297,6 +295,18 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_BR)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=pt_BR)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pt_BR)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
+|---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Sponsorship Overview                  | 09/12/2025, 1:59:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=pt_BR)                   |
+| Stream Together Troubleshooting Guide | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=pt_BR)  |
+| Code Based Drops Rewards              | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=pt_BR)               |
+| In Game Experience Selector           | 30/10/2025, 3:58:39 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=pt_BR)            |
 
 
 

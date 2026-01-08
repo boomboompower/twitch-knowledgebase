@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Two Factor Authentication                     | 08/01/2026, 11:04:42 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ja)                      |
 | How To Use Automod                            | 07/01/2026, 10:59:41 am   | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ja)                             |
 | Follower Verification                         | 07/01/2026, 10:59:40 am   | [Link](https://help.twitch.tv/s/article/follower-verification?language=ja)                          |
 | Chat Verification Settings                    | 07/01/2026, 10:59:38 am   | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=ja)                     |
@@ -59,8 +60,6 @@
 | Achievements                                  | 27/10/2025, 1:40:28 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=ja)                                   |
 | Prime Gaming Revenue Guide                    | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                     |
 | Music Options For Streamers                   | 23/10/2025, 11:10:59 am   | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=ja)                    |
-| Subscription Cancellation Reasons             | 15/10/2025, 1:54:53 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ja)              |
-| What Is Fraud                                 | 15/10/2025, 1:53:11 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=ja)                                  |
 
 
 
@@ -302,9 +301,12 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                       |
-|----------------------|---------------------------|----------------------------------------------------------------------------|
-| Sponsorship Overview | 15/12/2025, 1:25:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=ja)  |
+| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
+|---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Sponsorship Overview                  | 15/12/2025, 1:25:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=ja)                   |
+| Stream Together Troubleshooting Guide | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=ja)  |
+| Code Based Drops Rewards              | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=ja)               |
+| In Game Experience Selector           | 04/11/2025, 6:35:37 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=ja)            |
 
 
 
