@@ -6,11 +6,13 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Creator Dashboard                             | 08/01/2026, 9:06:18 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=es)                              |
+| How To Use Automod                            | 08/01/2026, 9:06:14 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es)                             |
+| Follower Verification                         | 08/01/2026, 9:06:11 pm    | [Link](https://help.twitch.tv/s/article/follower-verification?language=es)                          |
+| Setting Up Moderation For Your Twitch Channel | 08/01/2026, 9:06:09 pm    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=es)  |
+| Chat Verification Settings                    | 08/01/2026, 9:06:08 pm    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=es)                     |
 | Two Factor Authentication                     | 08/01/2026, 11:04:41 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es)                      |
 | How To Use Go Live Notifications              | 07/01/2026, 6:52:49 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=es)               |
-| Creator Dashboard                             | 20/12/2025, 9:12:52 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=es)                              |
-| How To Use Automod                            | 20/12/2025, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es)                             |
-| Setting Up Moderation For Your Twitch Channel | 20/12/2025, 9:02:22 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=es)  |
 | Partner Front Page                            | 19/12/2025, 10:54:43 pm   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es)                             |
 | Partner Discord                               | 19/12/2025, 1:28:31 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=es)                                |
 | Twitch Chat Badges Guide                      | 18/12/2025, 11:26:35 pm   | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es)                       |
