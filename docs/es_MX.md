@@ -68,6 +68,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Subscription Cancellation Reasons                             | 15/10/2025, 1:54:52 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=es_MX)                              |
+| What Is Fraud                                                 | 15/10/2025, 1:53:10 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=es_MX)                                                  |
 | Costreaming                                                   | 15/10/2025, 1:33:20 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=es_MX)                                                    |
 | Refunds On Twitch                                             | 09/10/2025, 4:15:09 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es_MX)                                              |
 | Alerts By Twitch Events                                       | 07/10/2025, 11:25:34 pm   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=es_MX)                                        |
@@ -119,7 +121,6 @@
 | Featured Clips                                                | 17/07/2025, 2:41:20 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=es_MX)                                                 |
 | How To Delete And Manage Clips                                | 17/07/2025, 2:41:13 am    | [Link](https://help.twitch.tv/s/article/how-to-delete-and-manage-clips?language=es_MX)                                 |
 | What Is The Front Page                                        | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=es_MX)                                         |
-| Two Factor Authentication                                     | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es_MX)                                      |
 | Twitch Stream Key Faq                                         | 28/06/2025, 6:11:08 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=es_MX)                                          |
 | Getting Started On Twitch                                     | 27/06/2025, 4:52:33 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=es_MX)                                      |
 | Recommended Software For Broadcasting                         | 25/06/2025, 7:19:11 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=es_MX)                          |
@@ -296,18 +297,6 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
-|---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
-| Sponsorship Overview                  | 09/12/2025, 8:03:12 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es_MX)                   |
-| Stream Together Troubleshooting Guide | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=es_MX)  |
-| Code Based Drops Rewards              | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=es_MX)               |
-| In Game Experience Selector           | 30/10/2025, 10:38:53 pm   | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=es_MX)            |
 
 
 

@@ -43,6 +43,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Subscription Cancellation Reasons                             | 15/10/2025, 1:54:51 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ru)                              |
 | Refunds On Twitch                                             | 09/10/2025, 4:15:08 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ru)                                              |
 | Alerts By Twitch Events                                       | 04/10/2025, 11:38:32 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ru)                                        |
 | Channel Points Faq                                            | 03/10/2025, 6:52:42 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ru)                                             |
@@ -65,7 +66,6 @@
 | Affiliate Emote Prefix Change                                 | 31/07/2025, 8:07:23 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=ru)                                  |
 | Twitch Charity Faqs                                           | 31/07/2025, 8:06:32 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=ru)                                            |
 | How To Manage Harassment In Chat                              | 17/07/2025, 7:51:30 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ru)                               |
-| Two Factor Authentication                                     | 12/07/2025, 7:56:49 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ru)                                      |
 | Twitch Stream Key Faq                                         | 28/06/2025, 6:11:07 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ru)                                          |
 | Recommended Software For Broadcasting                         | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=ru)                          |
 | Channel Page Setup                                            | 19/06/2025, 2:15:46 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=ru)                                             |

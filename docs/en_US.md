@@ -68,6 +68,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Mdr Interview                                                 | 23/10/2025, 6:06:42 am    | [Link](https://help.twitch.tv/s/article/mdr-interview?language=en_US)                                                  |
+| Subscription Cancellation Reasons                             | 15/10/2025, 1:54:51 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=en_US)                              |
+| What Is Fraud                                                 | 15/10/2025, 1:53:10 am    | [Link](https://help.twitch.tv/s/article/what-is-fraud?language=en_US)                                                  |
 | Costreaming                                                   | 15/10/2025, 1:33:19 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=en_US)                                                    |
 | Stream Together                                               | 15/10/2025, 1:33:00 am    | [Link](https://help.twitch.tv/s/article/stream-together?language=en_US)                                                |
 | Refunds On Twitch                                             | 09/10/2025, 4:15:08 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=en_US)                                              |
@@ -120,7 +123,6 @@
 | Featured Clips                                                | 17/07/2025, 2:41:20 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=en_US)                                                 |
 | How To Delete And Manage Clips                                | 17/07/2025, 2:41:12 am    | [Link](https://help.twitch.tv/s/article/how-to-delete-and-manage-clips?language=en_US)                                 |
 | What Is The Front Page                                        | 17/07/2025, 2:37:43 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=en_US)                                         |
-| Two Factor Authentication                                     | 12/07/2025, 7:56:48 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=en_US)                                      |
 | Twitch Stream Key Faq                                         | 28/06/2025, 6:11:07 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=en_US)                                          |
 | Getting Started On Twitch                                     | 24/06/2025, 7:10:55 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=en_US)                                      |
 | Recommended Software For Broadcasting                         | 24/06/2025, 6:58:11 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=en_US)                          |
@@ -352,19 +354,6 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
-|---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
-| Stream Together Troubleshooting Guide | 09/12/2025, 3:56:23 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=en_US)  |
-| Sponsorship Overview                  | 05/12/2025, 0:36:33 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=en_US)                   |
-| Link Amazon Twitch Accounts           | 04/12/2025, 10:55:18 am   | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=en_US)            |
-| Code Based Drops Rewards              | 03/12/2025, 7:47:57 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=en_US)               |
-| In Game Experience Selector           | 23/10/2025, 0:50:11 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=en_US)            |
 
 
 
