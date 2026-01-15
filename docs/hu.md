@@ -6,7 +6,7 @@
 
 | Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                       |
 |--------------------------------------|---------------------------|--------------------------------------------------------------------------------------------|
-| Gift Subscriptions                   | 08/01/2026, 8:14:16 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=hu)                    |
+| Gift Subscriptions                   | 14/01/2026, 1:24:12 pm    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=hu)                    |
 | Twitch Merchandise Store Support Faq | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=hu)  |
 | Twitch Prime Partner Guide           | 24/10/2025, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=hu)            |
 
