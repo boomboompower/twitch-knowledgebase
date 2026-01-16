@@ -6,6 +6,8 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                    | 16/01/2026, 5:23:08 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                     |
+| Contacting Purchase Support                   | 16/01/2026, 5:23:01 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=zh_TW)                    |
 | Two Factor Authentication                     | 08/01/2026, 11:04:42 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=zh_TW)                      |
 | Setting Up Moderation For Your Twitch Channel | 22/12/2025, 9:36:22 pm    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=zh_TW)  |
 | How To Use Automod                            | 22/12/2025, 9:36:20 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=zh_TW)                             |
@@ -39,7 +41,6 @@
 | Link Amazon Twitch Accounts                   | 08/12/2025, 7:43:53 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=zh_TW)                    |
 | How To Upgrade Prime                          | 05/12/2025, 6:15:31 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=zh_TW)                           |
 | How Subscription Streaks Work                 | 05/12/2025, 3:03:16 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=zh_TW)                  |
-| Contacting Purchase Support                   | 05/12/2025, 2:55:48 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=zh_TW)                    |
 | Video On Demand                               | 04/12/2025, 1:56:46 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                |
 | Annual Recap                                  | 03/12/2025, 8:08:03 pm    | [Link](https://help.twitch.tv/s/article/annual-recap?language=zh_TW)                                   |
 | Code Based Drops Rewards                      | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=zh_TW)                       |
@@ -58,7 +59,6 @@
 | Your First Payout Walkthrough                 | 29/10/2025, 9:11:57 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=zh_TW)                  |
 | Tips For Applying To The Partner Program      | 24/10/2025, 8:02:28 pm    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=zh_TW)       |
 | Achievements                                  | 24/10/2025, 7:45:35 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                   |
-| Prime Gaming Revenue Guide                    | 24/10/2025, 6:56:10 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                     |
 | Music Options For Streamers                   | 23/10/2025, 0:42:15 pm    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=zh_TW)                    |
 
 
@@ -304,9 +304,11 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                          |
-|----------------------|---------------------------|-------------------------------------------------------------------------------|
-| Sponsorship Overview | 14/12/2025, 7:28:08 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=zh_TW)  |
+| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                                 |
+|-----------------------------|---------------------------|--------------------------------------------------------------------------------------|
+| Sponsorship Overview        | 14/12/2025, 7:28:08 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=zh_TW)         |
+| Code Based Drops Rewards    | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=zh_TW)     |
+| In Game Experience Selector | 04/11/2025, 7:28:54 am    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=zh_TW)  |
 
 
 
