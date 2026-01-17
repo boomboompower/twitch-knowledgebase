@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Mdr Interview                                 | 16/01/2026, 11:23:23 pm   | [Link](https://help.twitch.tv/s/article/mdr-interview?language=es)                                  |
 | Prime Gaming Revenue Guide                    | 16/01/2026, 5:23:08 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es)                     |
 | Contacting Purchase Support                   | 16/01/2026, 5:23:00 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=es)                    |
 | Creator Dashboard                             | 08/01/2026, 9:06:18 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=es)                              |

@@ -59,8 +59,6 @@
 | Dual Format Vertical Video                    | 25/10/2025, 9:11:00 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)                     |
 | In Game Experience Selector                   | 23/10/2025, 0:50:11 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=en_US)                    |
 | Music Options For Streamers                   | 23/10/2025, 9:18:37 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=en_US)                    |
-| Achievements                                  | 23/10/2025, 8:45:19 am    | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                                   |
-| Tips For Applying To The Partner Program      | 23/10/2025, 8:02:21 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)       |
 
 
 

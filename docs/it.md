@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Mdr Interview                                 | 17/01/2026, 0:21:33 am    | [Link](https://help.twitch.tv/s/article/mdr-interview?language=it)                                  |
 | Prime Gaming Revenue Guide                    | 16/01/2026, 5:23:06 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=it)                     |
 | Contacting Purchase Support                   | 16/01/2026, 5:23:01 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=it)                    |
 | Two Factor Authentication                     | 08/01/2026, 11:04:40 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=it)                      |
