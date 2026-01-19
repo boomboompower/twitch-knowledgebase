@@ -11,7 +11,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 |-------------------------------|---------------------------|----------------|------------------------|
 | Bulgarian                     | 17/12/2024, 10:00:19 am   | 2 article(s)   | [View](docs/bg.md)     |
 | Chinese (Simplified, China)   | 08/01/2026, 11:04:41 am   | 6 article(s)   | [View](docs/zh_CN.md)  |
-| Chinese (Traditional, Taiwan) | 16/01/2026, 5:23:08 am    | 252 article(s) | [View](docs/zh_TW.md)  |
+| Chinese (Traditional, Taiwan) | 19/01/2026, 8:24:28 am    | 253 article(s) | [View](docs/zh_TW.md)  |
 | Czech                         | 16/01/2026, 5:23:06 am    | 18 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 16/01/2026, 5:23:06 am    | 25 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 16/01/2026, 5:23:06 am    | 31 article(s)  | [View](docs/nl_NL.md)  |
@@ -33,7 +33,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Spanish                       | 16/01/2026, 11:23:23 pm   | 253 article(s) | [View](docs/es.md)     |
 | Spanish (Mexico)              | 16/01/2026, 5:23:08 am    | 253 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 14/01/2026, 1:24:12 pm    | 23 article(s)  | [View](docs/sv.md)     |
-| Thai                          | 16/01/2026, 5:23:06 am    | 171 article(s) | [View](docs/th.md)     |
+| Thai                          | 16/01/2026, 5:23:06 am    | 170 article(s) | [View](docs/th.md)     |
 | Turkish                       | 16/01/2026, 5:23:06 am    | 174 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 05/04/2025, 10:33:32 am   | 6 article(s)   | [View](docs/vi.md)     |
 
