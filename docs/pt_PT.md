@@ -16,7 +16,6 @@
 | How To Subscribe                              | 11/12/2025, 7:39:22 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                               |
 | Twitch Merchandise Store Support Faq          | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=pt_PT)           |
 | Twitch Turbo Guide                            | 29/10/2025, 9:14:03 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                             |
-| Achievements                                  | 23/10/2025, 8:45:20 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                                   |
 
 
 
