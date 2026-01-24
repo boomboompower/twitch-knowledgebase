@@ -6,6 +6,9 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Recover Watch Streaks                         | 24/01/2026, 10:01:25 am   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=ja)                          |
+| Dj Program Faq                                | 24/01/2026, 9:57:43 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=ja)                                 |
+| Streamer Benefits                             | 24/01/2026, 9:56:45 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                              |
 | Mdr Interview                                 | 16/01/2026, 10:35:18 am   | [Link](https://help.twitch.tv/s/article/mdr-interview?language=ja)                                  |
 | Prime Gaming Revenue Guide                    | 16/01/2026, 5:23:08 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                     |
 | Contacting Purchase Support                   | 16/01/2026, 5:23:01 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=ja)                    |
@@ -56,8 +59,6 @@
 | Dual Format Vertical Video                    | 31/10/2025, 6:35:15 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)                     |
 | Twitch Merchandise Store Support Faq          | 29/10/2025, 9:14:47 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=ja)           |
 | Twitch Turbo Guide                            | 29/10/2025, 9:14:04 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                             |
-| Founders Badge                                | 29/10/2025, 9:12:14 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=ja)                                 |
-| Your First Payout Walkthrough                 | 29/10/2025, 9:11:57 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=ja)                  |
 
 
 
@@ -296,6 +297,17 @@
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                         |
 | How To Log In To Twitch With One Click            | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)             |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Sponsorship Overview        | 15/12/2025, 1:25:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=ja)         |
+| Code Based Drops Rewards    | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=ja)     |
+| In Game Experience Selector | 04/11/2025, 6:35:37 pm    | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=ja)  |
 
 
 
