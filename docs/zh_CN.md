@@ -31,9 +31,17 @@
 ## Article-5
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-5.xml) this sitemap
 
+| Name           | Last Updated (dd/mm/yyyy) | Link                                                                    |
+|----------------|---------------------------|-------------------------------------------------------------------------|
+| Account Hacked | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=zh_CN)  |
+
+
+
+## Article-6
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-6.xml) this sitemap
+
 | Name                        | Last Updated (dd/mm/yyyy) | Link                                                                                 |
 |-----------------------------|---------------------------|--------------------------------------------------------------------------------------|
-| Account Hacked              | 17/08/2023, 11:14:51 am   | [Link](https://help.twitch.tv/s/article/account-hacked?language=zh_CN)               |
 | How To Use Host Mode        | 10/12/2022, 8:09:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=zh_CN)         |
 | A Tour Of Your Channel Page | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=zh_CN)  |
 
