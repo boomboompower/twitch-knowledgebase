@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                            | 27/01/2026, 5:26:36 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                             |
 | Twitch Prime Partner Guide                    | 16/01/2026, 5:23:06 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=pt_PT)                     |
 | Gift Subscriptions                            | 14/01/2026, 1:24:12 pm    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                             |
 | Two Factor Authentication With Authy          | 08/01/2026, 11:04:41 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)           |
@@ -14,7 +15,6 @@
 | How To Use Go Live Notifications              | 19/12/2025, 2:02:13 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=pt_PT)               |
 | Twitch Account Settings                       | 13/12/2025, 9:59:36 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_PT)                        |
 | How To Subscribe                              | 11/12/2025, 7:39:22 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                               |
-| Twitch Merchandise Store Support Faq          | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=pt_PT)           |
 
 
 

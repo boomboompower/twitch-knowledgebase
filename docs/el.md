@@ -6,7 +6,7 @@
 
 | Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
 |--------------------|---------------------------|--------------------------------------------------------------------------|
-| Twitch Turbo Guide | 29/10/2025, 9:14:03 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=el)  |
+| Twitch Turbo Guide | 27/01/2026, 5:26:36 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=el)  |
 
 
 

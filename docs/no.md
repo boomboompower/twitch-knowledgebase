@@ -10,7 +10,6 @@
 | Gift Subscriptions                   | 14/01/2026, 1:24:12 pm    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=no)                    |
 | Two Factor Authentication With Authy | 08/01/2026, 11:04:41 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=no)  |
 | Creating An Account With Twitch      | 13/11/2025, 5:09:19 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=no)       |
-| Twitch Merchandise Store Support Faq | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=no)  |
 
 
 
