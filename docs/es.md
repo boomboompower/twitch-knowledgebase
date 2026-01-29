@@ -6,6 +6,10 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Sponsored Subscriptions                       | 29/01/2026, 1:10:29 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=es)                        |
+| Streamelements Campaigns                      | 29/01/2026, 1:09:36 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)                       |
+| Creator Profile Setup                         | 29/01/2026, 1:09:29 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es)                          |
+| Channel Skins                                 | 29/01/2026, 0:47:44 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=es)                                  |
 | Revenue                                       | 27/01/2026, 5:26:47 am    | [Link](https://help.twitch.tv/s/article/revenue?language=es)                                        |
 | Twitch Turbo Guide                            | 27/01/2026, 5:26:39 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es)                             |
 | Recover Watch Streaks                         | 24/01/2026, 10:01:24 am   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es)                          |
@@ -32,11 +36,7 @@
 | Stream Quality                                | 17/12/2025, 7:13:44 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)                                 |
 | Age Verification                              | 17/12/2025, 6:36:04 pm    | [Link](https://help.twitch.tv/s/article/age-verification?language=es)                               |
 | Reactions                                     | 16/12/2025, 1:10:28 am    | [Link](https://help.twitch.tv/s/article/reactions?language=es)                                      |
-| Channel Skins                                 | 16/12/2025, 1:00:07 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=es)                                  |
-| Sponsored Subscriptions                       | 16/12/2025, 1:00:06 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=es)                        |
-| Creator Profile Setup                         | 16/12/2025, 0:59:42 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es)                          |
 | Streamer Read Ads                             | 16/12/2025, 0:59:38 am    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=es)                              |
-| Streamelements Campaigns                      | 16/12/2025, 0:59:36 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)                       |
 | Bounty Board Program Information And Faq      | 16/12/2025, 0:59:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=es)       |
 | Sponsorship Overview                          | 15/12/2025, 11:25:48 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es)                           |
 | Twitch Account Settings                       | 13/12/2025, 9:59:36 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es)                        |

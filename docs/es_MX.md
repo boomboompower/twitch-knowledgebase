@@ -59,7 +59,6 @@
 | Partner Program Overview                      | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)                       |
 | In Game Experience Selector                   | 30/10/2025, 10:38:53 pm   | [Link](https://help.twitch.tv/s/article/in-game-experience-selector?language=es_MX)                    |
 | Dual Format Vertical Video                    | 29/10/2025, 11:21:45 pm   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                     |
-| Twitch Merchandise Store Support Faq          | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=es_MX)           |
 
 
 
