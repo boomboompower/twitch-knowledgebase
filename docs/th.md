@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Managing Roles For Your Channel               | 31/01/2026, 5:23:18 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=th)                |
 | Twitch Turbo Guide                            | 27/01/2026, 5:26:36 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=th)                             |
 | Twitch Prime Revenue Guide                    | 16/01/2026, 5:23:06 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-revenue-guide?language=th)                     |
 | Contacting Purchase Support                   | 16/01/2026, 5:22:49 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=th)                    |
@@ -14,7 +15,6 @@
 | How To Use Automod                            | 20/12/2025, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=th)                             |
 | Setting Up Moderation For Your Twitch Channel | 20/12/2025, 9:02:22 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=th)  |
 | How To Use Go Live Notifications              | 19/12/2025, 2:02:13 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=th)               |
-| Managing Roles For Your Channel               | 18/12/2025, 5:33:17 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=th)                |
 | Mod View                                      | 18/12/2025, 5:33:11 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=th)                                       |
 | Channel Points Predictions                    | 18/12/2025, 5:33:04 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=th)                     |
 | Twitch Chat Badges Guide                      | 18/12/2025, 5:32:51 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=th)                       |

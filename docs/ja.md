@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Managing Roles For Your Channel               | 31/01/2026, 5:23:23 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ja)                |
 | Revenue                                       | 27/01/2026, 5:26:48 am    | [Link](https://help.twitch.tv/s/article/revenue?language=ja)                                        |
 | Twitch Turbo Guide                            | 27/01/2026, 5:26:40 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                             |
 | Recover Watch Streaks                         | 24/01/2026, 10:01:25 am   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=ja)                          |
@@ -26,7 +27,6 @@
 | Channel Points Predictions                    | 18/12/2025, 0:54:28 pm    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=ja)                     |
 | Twitch Chat Badges Guide                      | 18/12/2025, 0:54:27 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                       |
 | Mod View                                      | 18/12/2025, 0:54:24 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                       |
-| Managing Roles For Your Channel               | 18/12/2025, 10:33:07 am   | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ja)                |
 | Stream Quality                                | 17/12/2025, 11:59:39 am   | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)                                 |
 | Age Verification                              | 17/12/2025, 11:24:19 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=ja)                               |
 | Failed Payments                               | 16/12/2025, 11:40:23 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=ja)                                |

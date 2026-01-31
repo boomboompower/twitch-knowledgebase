@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Managing Roles For Your Channel               | 31/01/2026, 5:23:23 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es)                |
 | Sponsored Subscriptions                       | 29/01/2026, 1:10:29 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=es)                        |
 | Streamelements Campaigns                      | 29/01/2026, 1:09:36 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)                       |
 | Creator Profile Setup                         | 29/01/2026, 1:09:29 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es)                          |
@@ -32,7 +33,6 @@
 | Channel Points Predictions                    | 18/12/2025, 11:26:30 pm   | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=es)                     |
 | Failed Payments                               | 18/12/2025, 10:48:43 pm   | [Link](https://help.twitch.tv/s/article/failed-payments?language=es)                                |
 | Delete Twitch Account                         | 18/12/2025, 10:47:43 pm   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=es)                          |
-| Managing Roles For Your Channel               | 18/12/2025, 11:10:12 am   | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es)                |
 | Stream Quality                                | 17/12/2025, 7:13:44 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)                                 |
 | Age Verification                              | 17/12/2025, 6:36:04 pm    | [Link](https://help.twitch.tv/s/article/age-verification?language=es)                               |
 | Reactions                                     | 16/12/2025, 1:10:28 am    | [Link](https://help.twitch.tv/s/article/reactions?language=es)                                      |

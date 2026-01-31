@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Managing Roles For Your Channel               | 31/01/2026, 5:23:23 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=de)                |
 | Revenue                                       | 27/01/2026, 5:26:47 am    | [Link](https://help.twitch.tv/s/article/revenue?language=de)                                        |
 | Twitch Turbo Guide                            | 27/01/2026, 5:26:39 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=de)                             |
 | Recover Watch Streaks                         | 24/01/2026, 10:01:24 am   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=de)                          |
@@ -23,7 +24,6 @@
 | How To Use Go Live Notifications              | 07/01/2026, 8:51:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=de)               |
 | Partner Front Page                            | 20/12/2025, 1:04:44 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=de)                             |
 | Partner Discord                               | 19/12/2025, 1:28:30 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=de)                                |
-| Managing Roles For Your Channel               | 19/12/2025, 0:49:05 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=de)                |
 | Twitch Chat Badges Guide                      | 19/12/2025, 0:27:36 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=de)                       |
 | Mod View                                      | 19/12/2025, 0:27:32 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                       |
 | Channel Points Predictions                    | 19/12/2025, 0:27:28 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=de)                     |
