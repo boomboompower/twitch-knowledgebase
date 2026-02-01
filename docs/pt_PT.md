@@ -81,15 +81,7 @@
 | Partner Help And Contact Information         | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/partner-help-and-contact-information?language=pt_PT)          |
 | Recommended Hardware For Broadcasting        | 22/10/2021, 8:53:12 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=pt_PT)         |
 | How To Use Collections                       | 22/10/2021, 8:53:07 am    | [Link](https://help.twitch.tv/s/article/how-to-use-collections?language=pt_PT)                        |
-
-
-
-## Article-7
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-7.xml) this sitemap
-
-| Name                       | Last Updated (dd/mm/yyyy) | Link                                                                                |
-|----------------------------|---------------------------|-------------------------------------------------------------------------------------|
-| Smart Notification Setting | 22/10/2021, 8:52:25 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_PT)  |
+| Smart Notification Setting                   | 22/10/2021, 8:52:25 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_PT)                    |
 
 
 
