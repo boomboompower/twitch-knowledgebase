@@ -6,6 +6,8 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Mission Based Drops                           | 06/02/2026, 8:12:17 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                            |
+| Code Based Drops Rewards                      | 06/02/2026, 8:12:11 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=ja)                       |
 | Managing Roles For Your Channel               | 31/01/2026, 5:23:23 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ja)                |
 | Revenue                                       | 27/01/2026, 5:26:48 am    | [Link](https://help.twitch.tv/s/article/revenue?language=ja)                                        |
 | Twitch Turbo Guide                            | 27/01/2026, 5:26:40 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                             |
@@ -49,7 +51,6 @@
 | How Subscription Streaks Work                 | 05/12/2025, 3:03:15 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=ja)                  |
 | Video On Demand                               | 04/12/2025, 1:28:01 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                                |
 | Annual Recap                                  | 03/12/2025, 4:10:32 pm    | [Link](https://help.twitch.tv/s/article/annual-recap?language=ja)                                   |
-| Code Based Drops Rewards                      | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=ja)                       |
 | Combos                                        | 27/11/2025, 11:37:20 am   | [Link](https://help.twitch.tv/s/article/combos?language=ja)                                         |
 | Auto Clips                                    | 24/11/2025, 5:50:53 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                                     |
 | Emote Guidelines                              | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=ja)                               |
@@ -307,6 +308,16 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)              |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)  |
 | Markdown Basics                        | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Code Based Drops Rewards | 06/02/2026, 8:12:11 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=ja)  |
+| Sponsorship Overview     | 15/12/2025, 1:25:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=ja)      |
 
 
 

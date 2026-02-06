@@ -6,6 +6,8 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Mission Based Drops                           | 06/02/2026, 8:12:17 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=fr)                            |
+| Code Based Drops Rewards                      | 06/02/2026, 8:12:11 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=fr)                       |
 | Managing Roles For Your Channel               | 31/01/2026, 5:23:18 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=fr)                |
 | Revenue                                       | 27/01/2026, 5:26:48 am    | [Link](https://help.twitch.tv/s/article/revenue?language=fr)                                        |
 | Twitch Turbo Guide                            | 27/01/2026, 5:26:39 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=fr)                             |
@@ -49,7 +51,6 @@
 | How To Upgrade Prime                          | 05/12/2025, 6:15:30 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=fr)                           |
 | How Subscription Streaks Work                 | 05/12/2025, 3:03:19 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=fr)                  |
 | Video On Demand                               | 04/12/2025, 1:26:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=fr)                                |
-| Code Based Drops Rewards                      | 03/12/2025, 7:47:58 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=fr)                       |
 | Combos                                        | 28/11/2025, 0:46:34 am    | [Link](https://help.twitch.tv/s/article/combos?language=fr)                                         |
 | Auto Clips                                    | 24/11/2025, 10:13:52 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=fr)                                     |
 | Emote Guidelines                              | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=fr)                               |
@@ -308,6 +309,16 @@
 | Where Are My Notifications             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=fr)              |
 | Smart Notification Setting             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=fr)              |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=fr)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Code Based Drops Rewards | 06/02/2026, 8:12:11 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=fr)  |
+| Sponsorship Overview     | 15/12/2025, 11:28:22 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=fr)      |
 
 
 

@@ -6,6 +6,8 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Mission Based Drops                           | 06/02/2026, 8:12:17 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                            |
+| Code Based Drops Rewards                      | 06/02/2026, 8:12:11 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=en_US)                       |
 | Signing Up Logging In Social Accounts         | 31/01/2026, 6:09:11 am    | [Link](https://help.twitch.tv/s/article/signing-up-logging-in-social-accounts?language=en_US)          |
 | Managing Roles For Your Channel               | 31/01/2026, 5:23:18 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=en_US)                |
 | Revenue                                       | 27/01/2026, 5:26:47 am    | [Link](https://help.twitch.tv/s/article/revenue?language=en_US)                                        |
@@ -49,7 +51,6 @@
 | How Subscription Streaks Work                 | 04/12/2025, 11:09:14 am   | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=en_US)                  |
 | Link Amazon Twitch Accounts                   | 04/12/2025, 10:55:18 am   | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=en_US)                    |
 | Video On Demand                               | 03/12/2025, 1:30:54 pm    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                |
-| Code Based Drops Rewards                      | 03/12/2025, 7:47:57 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=en_US)                       |
 | Annual Recap                                  | 03/12/2025, 2:00:09 am    | [Link](https://help.twitch.tv/s/article/annual-recap?language=en_US)                                   |
 | Combos                                        | 21/11/2025, 10:57:35 am   | [Link](https://help.twitch.tv/s/article/combos?language=en_US)                                         |
 | Auto Clips                                    | 21/11/2025, 4:28:33 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                                     |
@@ -363,6 +364,17 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)              |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)  |
 | Markdown Basics                        | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
+|---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Code Based Drops Rewards              | 06/02/2026, 8:12:11 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=en_US)               |
+| Signing Up Logging In Social Accounts | 31/01/2026, 6:09:11 am    | [Link](https://help.twitch.tv/s/article/signing-up-logging-in-social-accounts?language=en_US)  |
+| Sponsorship Overview                  | 05/12/2025, 0:36:33 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=en_US)                   |
 
 
 
