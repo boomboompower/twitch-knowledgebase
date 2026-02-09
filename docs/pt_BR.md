@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Code Based Drops Rewards                         | 09/02/2026, 9:12:53 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=pt_BR)                          |
 | Updating Payment Information Transaction History | 07/02/2026, 1:44:07 pm    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=pt_BR)  |
 | Contacting Purchase Support                      | 07/02/2026, 4:36:10 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=pt_BR)                       |
 | Locating Your Twitch Invoice Number              | 07/02/2026, 4:35:30 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=pt_BR)               |
@@ -13,7 +14,6 @@
 | Affiliate Onboarding Guide                       | 07/02/2026, 4:34:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pt_BR)                        |
 | Streamer Benefits                                | 07/02/2026, 4:34:02 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=pt_BR)                                 |
 | Mission Based Drops                              | 06/02/2026, 8:12:17 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pt_BR)                               |
-| Code Based Drops Rewards                         | 06/02/2026, 8:12:11 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=pt_BR)                          |
 | Managing Roles For Your Channel                  | 31/01/2026, 5:23:23 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=pt_BR)                   |
 | Revenue                                          | 27/01/2026, 5:26:48 am    | [Link](https://help.twitch.tv/s/article/revenue?language=pt_BR)                                           |
 | Twitch Turbo Guide                               | 27/01/2026, 5:26:40 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_BR)                                |

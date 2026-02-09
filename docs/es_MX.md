@@ -59,7 +59,6 @@
 | Auto Clips                                       | 22/11/2025, 5:29:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                                        |
 | Emote Guidelines                                 | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es_MX)                                  |
 | Creating An Account With Twitch                  | 13/11/2025, 5:09:27 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)                   |
-| Children On Twitch                               | 13/11/2025, 5:09:05 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=es_MX)                                |
 
 
 
