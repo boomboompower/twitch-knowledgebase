@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                       | 10/02/2026, 4:16:05 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)                        |
 | Updating Payment Information Transaction History | 07/02/2026, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=en_US)  |
 | Contacting Purchase Support                      | 07/02/2026, 4:36:09 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=en_US)                       |
 | Locating Your Twitch Invoice Number              | 07/02/2026, 4:35:28 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=en_US)               |
@@ -363,6 +364,16 @@
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)  |
 | Markdown Basics                        | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
+|---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Signing Up Logging In Social Accounts | 31/01/2026, 6:09:11 am    | [Link](https://help.twitch.tv/s/article/signing-up-logging-in-social-accounts?language=en_US)  |
+| Sponsorship Overview                  | 05/12/2025, 0:36:33 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=en_US)                   |
 
 
 

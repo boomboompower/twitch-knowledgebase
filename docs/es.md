@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                       | 10/02/2026, 4:16:05 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es)                        |
 | Updating Payment Information Transaction History | 07/02/2026, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=es)  |
 | Contacting Purchase Support                      | 07/02/2026, 4:36:10 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=es)                       |
 | Locating Your Twitch Invoice Number              | 07/02/2026, 4:35:30 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=es)               |
@@ -58,8 +59,6 @@
 | Combos                                           | 27/11/2025, 8:43:03 pm    | [Link](https://help.twitch.tv/s/article/combos?language=es)                                            |
 | Auto Clips                                       | 24/11/2025, 10:04:14 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=es)                                        |
 | Emote Guidelines                                 | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es)                                  |
-| Creating An Account With Twitch                  | 13/11/2025, 5:09:18 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es)                   |
-| Children On Twitch                               | 13/11/2025, 5:09:05 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=es)                                |
 
 
 
@@ -307,6 +306,15 @@
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)  |
 | Markdown Basics                        | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                       |
+|----------------------|---------------------------|----------------------------------------------------------------------------|
+| Sponsorship Overview | 15/12/2025, 11:25:48 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es)  |
 
 
 

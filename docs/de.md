@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                       | 10/02/2026, 4:16:05 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=de)                        |
 | Updating Payment Information Transaction History | 07/02/2026, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=de)  |
 | Contacting Purchase Support                      | 07/02/2026, 4:36:09 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=de)                       |
 | Locating Your Twitch Invoice Number              | 07/02/2026, 4:35:29 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=de)               |
@@ -59,7 +60,6 @@
 | Auto Clips                                       | 24/11/2025, 11:34:38 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=de)                                        |
 | Emote Guidelines                                 | 18/11/2025, 5:07:32 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=de)                                  |
 | Creating An Account With Twitch                  | 13/11/2025, 5:09:26 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=de)                   |
-| Children On Twitch                               | 13/11/2025, 5:09:05 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=de)                                |
 
 
 
@@ -308,6 +308,15 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)              |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)  |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                       |
+|----------------------|---------------------------|----------------------------------------------------------------------------|
+| Sponsorship Overview | 15/12/2025, 7:55:07 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=de)  |
 
 
 

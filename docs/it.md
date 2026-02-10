@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                       | 10/02/2026, 4:16:05 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=it)                        |
 | Updating Payment Information Transaction History | 07/02/2026, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=it)  |
 | Contacting Purchase Support                      | 07/02/2026, 4:36:10 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=it)                       |
 | Locating Your Twitch Invoice Number              | 07/02/2026, 4:35:28 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=it)               |
@@ -308,6 +309,15 @@
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=it)  |
 | Markdown Basics                        | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=it)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                       |
+|----------------------|---------------------------|----------------------------------------------------------------------------|
+| Sponsorship Overview | 16/12/2025, 1:20:22 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=it)  |
 
 
 

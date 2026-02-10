@@ -6,6 +6,8 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                       | 10/02/2026, 4:16:05 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                        |
+| Code Based Drops Rewards                         | 09/02/2026, 10:59:13 pm   | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=fr)                          |
 | Updating Payment Information Transaction History | 07/02/2026, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=fr)  |
 | Contacting Purchase Support                      | 07/02/2026, 4:36:10 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=fr)                       |
 | Locating Your Twitch Invoice Number              | 07/02/2026, 4:35:30 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=fr)               |
@@ -13,7 +15,6 @@
 | Affiliate Onboarding Guide                       | 07/02/2026, 4:34:11 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=fr)                        |
 | Streamer Benefits                                | 07/02/2026, 4:34:02 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=fr)                                 |
 | Mission Based Drops                              | 06/02/2026, 8:12:17 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=fr)                               |
-| Code Based Drops Rewards                         | 06/02/2026, 8:12:11 am    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=fr)                          |
 | Managing Roles For Your Channel                  | 31/01/2026, 5:23:18 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=fr)                   |
 | Revenue                                          | 27/01/2026, 5:26:48 am    | [Link](https://help.twitch.tv/s/article/revenue?language=fr)                                           |
 | Twitch Turbo Guide                               | 27/01/2026, 5:26:39 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=fr)                                |
@@ -59,7 +60,6 @@
 | Auto Clips                                       | 24/11/2025, 10:13:52 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=fr)                                        |
 | Emote Guidelines                                 | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=fr)                                  |
 | Creating An Account With Twitch                  | 13/11/2025, 5:09:27 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fr)                   |
-| Children On Twitch                               | 13/11/2025, 5:09:05 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=fr)                                |
 
 
 
@@ -307,6 +307,15 @@
 | Where Are My Notifications             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=fr)              |
 | Smart Notification Setting             | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=fr)              |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=fr)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                       |
+|----------------------|---------------------------|----------------------------------------------------------------------------|
+| Sponsorship Overview | 15/12/2025, 11:28:22 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=fr)  |
 
 
 

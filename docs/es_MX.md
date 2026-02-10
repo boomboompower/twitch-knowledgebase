@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                       | 10/02/2026, 4:16:06 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                        |
 | Updating Payment Information Transaction History | 07/02/2026, 2:13:58 pm    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=es_MX)  |
 | Code Based Drops Rewards                         | 07/02/2026, 11:44:38 am   | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=es_MX)                          |
 | Contacting Purchase Support                      | 07/02/2026, 4:36:10 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=es_MX)                       |
@@ -306,6 +307,15 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)              |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)  |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                          |
+|----------------------|---------------------------|-------------------------------------------------------------------------------|
+| Sponsorship Overview | 09/12/2025, 8:03:12 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es_MX)  |
 
 
 
