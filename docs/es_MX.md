@@ -6,12 +6,14 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Partner Onboarding Guide                         | 11/02/2026, 0:53:48 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es_MX)                          |
+| Failed Payments                                  | 11/02/2026, 11:05:10 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=es_MX)                                   |
+| How To Purchase Bits                             | 11/02/2026, 11:04:59 am   | [Link](https://help.twitch.tv/s/article/how-to-purchase-bits?language=es_MX)                              |
 | Dual Format Vertical Video                       | 10/02/2026, 4:16:06 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                        |
 | Updating Payment Information Transaction History | 07/02/2026, 2:13:58 pm    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=es_MX)  |
 | Code Based Drops Rewards                         | 07/02/2026, 11:44:38 am   | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=es_MX)                          |
 | Contacting Purchase Support                      | 07/02/2026, 4:36:10 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=es_MX)                       |
 | Locating Your Twitch Invoice Number              | 07/02/2026, 4:35:30 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=es_MX)               |
-| Partner Onboarding Guide                         | 07/02/2026, 4:34:27 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es_MX)                          |
 | Affiliate Onboarding Guide                       | 07/02/2026, 4:34:11 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                        |
 | Streamer Benefits                                | 07/02/2026, 4:34:01 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                                 |
 | Mission Based Drops                              | 06/02/2026, 8:12:17 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                               |
@@ -34,7 +36,6 @@
 | Channel Points Predictions                       | 18/12/2025, 5:33:05 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=es_MX)                        |
 | Twitch Chat Badges Guide                         | 18/12/2025, 5:32:54 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es_MX)                          |
 | Partner Front Page                               | 16/12/2025, 0:58:37 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es_MX)                                |
-| Failed Payments                                  | 16/12/2025, 0:01:29 pm    | [Link](https://help.twitch.tv/s/article/failed-payments?language=es_MX)                                   |
 | Delete Twitch Account                            | 16/12/2025, 11:59:12 am   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=es_MX)                             |
 | Stream Quality                                   | 13/12/2025, 1:34:58 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                                    |
 | Age Verification                                 | 13/12/2025, 10:07:18 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)                                  |
@@ -59,7 +60,6 @@
 | Combos                                           | 22/11/2025, 6:01:58 am    | [Link](https://help.twitch.tv/s/article/combos?language=es_MX)                                            |
 | Auto Clips                                       | 22/11/2025, 5:29:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                                        |
 | Emote Guidelines                                 | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=es_MX)                                  |
-| Creating An Account With Twitch                  | 13/11/2025, 5:09:27 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)                   |
 
 
 
@@ -313,9 +313,12 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                 | Last Updated (dd/mm/yyyy) | Link                                                                          |
-|----------------------|---------------------------|-------------------------------------------------------------------------------|
-| Sponsorship Overview | 09/12/2025, 8:03:12 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es_MX)  |
+| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
+|---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Code Based Drops Rewards              | 07/02/2026, 11:44:38 am   | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=es_MX)               |
+| Mdr Interview                         | 15/01/2026, 1:26:17 pm    | [Link](https://help.twitch.tv/s/article/mdr-interview?language=es_MX)                          |
+| Sponsorship Overview                  | 09/12/2025, 8:03:12 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es_MX)                   |
+| Stream Together Troubleshooting Guide | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=es_MX)  |
 
 
 

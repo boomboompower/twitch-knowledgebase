@@ -6,10 +6,10 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Partner Onboarding Guide                         | 11/02/2026, 0:34:08 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ru)                          |
 | Updating Payment Information Transaction History | 07/02/2026, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=ru)  |
 | Contacting Purchase Support                      | 07/02/2026, 4:36:09 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=ru)                       |
 | Locating Your Twitch Invoice Number              | 07/02/2026, 4:35:28 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=ru)               |
-| Partner Onboarding Guide                         | 07/02/2026, 4:34:26 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ru)                          |
 | Affiliate Onboarding Guide                       | 07/02/2026, 4:34:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ru)                        |
 | Mission Based Drops                              | 06/02/2026, 8:12:17 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ru)                               |
 | Managing Roles For Your Channel                  | 31/01/2026, 5:23:18 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ru)                   |
@@ -30,8 +30,6 @@
 | Guest Star Getting Started                       | 09/12/2025, 3:54:11 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ru)                        |
 | Bounty Board Program Information And Faq         | 05/12/2025, 0:43:59 pm    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=ru)          |
 | Video On Demand                                  | 03/12/2025, 1:30:54 pm    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ru)                                   |
-| Emote Guidelines                                 | 18/11/2025, 5:07:32 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=ru)                                  |
-| Creating An Account With Twitch                  | 13/11/2025, 5:09:19 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ru)                   |
 
 
 
