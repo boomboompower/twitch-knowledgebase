@@ -6,6 +6,7 @@
 
 | Name                       | Last Updated (dd/mm/yyyy) | Link                                                                             |
 |----------------------------|---------------------------|----------------------------------------------------------------------------------|
+| Account Hacked             | 11/02/2026, 3:50:32 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=cs)              |
 | Twitch Turbo Guide         | 27/01/2026, 5:26:36 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=cs)          |
 | Prime Gaming Revenue Guide | 16/01/2026, 5:23:06 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=cs)  |
 | Gift Subscriptions         | 14/01/2026, 1:24:12 pm    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=cs)          |

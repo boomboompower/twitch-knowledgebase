@@ -6,9 +6,19 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Twitch Account Settings                          | 12/02/2026, 10:26:58 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pl)                           |
+| Supported Browsers                               | 11/02/2026, 4:39:24 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=pl)                                |
+| Date Of Birth Changes                            | 11/02/2026, 4:18:55 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pl)                             |
+| Channel Points Faq                               | 11/02/2026, 4:01:23 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=pl)                                |
+| Contacting Purchase Support                      | 11/02/2026, 3:52:31 pm    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=pl)                       |
+| Account Hacked                                   | 11/02/2026, 3:50:32 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=pl)                                    |
+| Dmca And Copyright Faqs                          | 11/02/2026, 2:59:08 pm    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=pl)                           |
+| Achievements                                     | 11/02/2026, 2:52:12 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=pl)                                      |
+| Creator Dashboard                                | 11/02/2026, 2:01:14 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=pl)                                 |
+| How To Use Automod                               | 11/02/2026, 2:01:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pl)                                |
+| Mod View                                         | 11/02/2026, 1:58:27 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=pl)                                          |
 | Partner Onboarding Guide                         | 11/02/2026, 0:34:08 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pl)                          |
 | Updating Payment Information Transaction History | 07/02/2026, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=pl)  |
-| Contacting Purchase Support                      | 07/02/2026, 4:36:09 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=pl)                       |
 | Locating Your Twitch Invoice Number              | 07/02/2026, 4:35:28 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=pl)               |
 | Affiliate Onboarding Guide                       | 07/02/2026, 4:34:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pl)                        |
 | Mission Based Drops                              | 06/02/2026, 8:12:17 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pl)                               |
@@ -16,20 +26,12 @@
 | Twitch Turbo Guide                               | 27/01/2026, 5:26:36 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pl)                                |
 | Prime Gaming Revenue Guide                       | 16/01/2026, 5:23:06 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pl)                        |
 | Two Factor Authentication                        | 08/01/2026, 11:04:41 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=pl)                         |
-| Creator Dashboard                                | 20/12/2025, 9:12:52 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=pl)                                 |
-| How To Use Automod                               | 20/12/2025, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pl)                                |
 | Setting Up Moderation For Your Twitch Channel    | 20/12/2025, 9:02:22 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=pl)     |
 | How To Use Go Live Notifications                 | 19/12/2025, 2:02:13 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=pl)                  |
-| Mod View                                         | 18/12/2025, 5:33:11 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=pl)                                          |
 | Channel Points Predictions                       | 18/12/2025, 5:33:04 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=pl)                        |
 | Twitch Chat Badges Guide                         | 18/12/2025, 5:32:51 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=pl)                          |
 | Delete Twitch Account                            | 13/12/2025, 11:23:06 am   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=pl)                             |
-| Twitch Account Settings                          | 13/12/2025, 9:59:36 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pl)                           |
 | Subscriptions On Mobile                          | 11/12/2025, 7:40:18 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=pl)                           |
-| Date Of Birth Changes                            | 09/12/2025, 9:59:06 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pl)                             |
-| Guest Star Getting Started                       | 09/12/2025, 3:54:11 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=pl)                        |
-| Bounty Board Program Information And Faq         | 05/12/2025, 0:43:59 pm    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=pl)          |
-| Video On Demand                                  | 03/12/2025, 1:30:54 pm    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pl)                                   |
 
 
 
@@ -226,6 +228,16 @@
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=pl)  |
 | Markdown Basics                        | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pl)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
+|-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| Dmca And Copyright Faqs             | 11/02/2026, 2:59:08 pm    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=pl)              |
+| Locating Your Twitch Invoice Number | 07/02/2026, 4:35:28 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=pl)  |
 
 
 

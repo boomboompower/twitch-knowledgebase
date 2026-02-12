@@ -6,6 +6,7 @@
 
 | Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
 |--------------------|---------------------------|--------------------------------------------------------------------------|
+| Account Hacked     | 11/02/2026, 3:50:32 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=el)      |
 | Twitch Turbo Guide | 27/01/2026, 5:26:36 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=el)  |
 
 

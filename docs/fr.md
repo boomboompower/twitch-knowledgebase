@@ -6,13 +6,28 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Xbox Broadcast                                   | 12/02/2026, 10:52:13 am   | [Link](https://help.twitch.tv/s/article/xbox-broadcast?language=fr)                                    |
+| Twitch Account Settings                          | 12/02/2026, 10:27:00 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=fr)                           |
+| About Twitch Categories                          | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=fr)                           |
+| Creator Dashboard                                | 12/02/2026, 1:35:44 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=fr)                                 |
+| Updating Payment Information Transaction History | 12/02/2026, 0:29:38 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=fr)  |
+| Supported Browsers                               | 11/02/2026, 4:39:24 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=fr)                                |
+| Date Of Birth Changes                            | 11/02/2026, 4:18:55 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=fr)                             |
+| Channel Points Faq                               | 11/02/2026, 4:01:23 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=fr)                                |
+| Contacting Purchase Support                      | 11/02/2026, 3:52:31 pm    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=fr)                       |
+| Account Hacked                                   | 11/02/2026, 3:50:32 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=fr)                                    |
+| Link Amazon Twitch Accounts                      | 11/02/2026, 3:27:24 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=fr)                       |
+| Dmca And Copyright Faqs                          | 11/02/2026, 2:59:09 pm    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=fr)                           |
+| Payout Details Faq                               | 11/02/2026, 2:57:49 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=fr)                                |
+| Achievements                                     | 11/02/2026, 2:52:12 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=fr)                                      |
+| Stories                                          | 11/02/2026, 2:21:17 pm    | [Link](https://help.twitch.tv/s/article/stories?language=fr)                                           |
+| How To Use Automod                               | 11/02/2026, 2:01:06 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=fr)                                |
+| Mod View                                         | 11/02/2026, 1:58:27 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=fr)                                          |
 | Partner Onboarding Guide                         | 11/02/2026, 0:53:52 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=fr)                          |
 | Failed Payments                                  | 11/02/2026, 11:05:10 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=fr)                                   |
 | How To Purchase Bits                             | 11/02/2026, 11:04:59 am   | [Link](https://help.twitch.tv/s/article/how-to-purchase-bits?language=fr)                              |
 | Dual Format Vertical Video                       | 10/02/2026, 4:16:05 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                        |
 | Code Based Drops Rewards                         | 09/02/2026, 10:59:13 pm   | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=fr)                          |
-| Updating Payment Information Transaction History | 07/02/2026, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=fr)  |
-| Contacting Purchase Support                      | 07/02/2026, 4:36:10 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=fr)                       |
 | Locating Your Twitch Invoice Number              | 07/02/2026, 4:35:30 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=fr)               |
 | Affiliate Onboarding Guide                       | 07/02/2026, 4:34:11 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=fr)                        |
 | Streamer Benefits                                | 07/02/2026, 4:34:02 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=fr)                                 |
@@ -26,15 +41,12 @@
 | Mdr Interview                                    | 15/01/2026, 7:53:08 pm    | [Link](https://help.twitch.tv/s/article/mdr-interview?language=fr)                                     |
 | Two Factor Authentication                        | 08/01/2026, 11:04:41 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=fr)                         |
 | Chat Verification Settings                       | 03/01/2026, 1:58:13 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=fr)                        |
-| Creator Dashboard                                | 03/01/2026, 1:58:11 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=fr)                                 |
 | Setting Up Moderation For Your Twitch Channel    | 03/01/2026, 1:58:06 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=fr)     |
 | Follower Verification                            | 03/01/2026, 1:58:01 am    | [Link](https://help.twitch.tv/s/article/follower-verification?language=fr)                             |
-| How To Use Automod                               | 03/01/2026, 1:57:59 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=fr)                                |
 | How To Use Go Live Notifications                 | 29/12/2025, 7:35:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=fr)                  |
 | Partner Front Page                               | 20/12/2025, 1:22:43 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=fr)                                |
 | Partner Discord                                  | 19/12/2025, 1:28:31 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=fr)                                   |
 | Twitch Chat Badges Guide                         | 18/12/2025, 9:50:04 pm    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=fr)                          |
-| Mod View                                         | 18/12/2025, 9:49:59 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=fr)                                          |
 | Channel Points Predictions                       | 18/12/2025, 9:49:58 pm    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=fr)                        |
 | Delete Twitch Account                            | 18/12/2025, 9:35:58 pm    | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=fr)                             |
 | Stream Quality                                   | 18/12/2025, 0:19:10 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)                                    |
@@ -47,19 +59,7 @@
 | Channel Skins                                    | 15/12/2025, 11:03:31 pm   | [Link](https://help.twitch.tv/s/article/channel-skins?language=fr)                                     |
 | Bounty Board Program Information And Faq         | 15/12/2025, 11:03:28 pm   | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=fr)          |
 | Reactions                                        | 15/12/2025, 0:39:59 am    | [Link](https://help.twitch.tv/s/article/reactions?language=fr)                                         |
-| Twitch Account Settings                          | 13/12/2025, 9:59:37 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=fr)                           |
 | Subscriptions On Mobile                          | 11/12/2025, 7:40:18 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=fr)                           |
-| Link Amazon Twitch Accounts                      | 09/12/2025, 11:59:57 pm   | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=fr)                       |
-| Date Of Birth Changes                            | 09/12/2025, 9:59:07 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=fr)                             |
-| Stream Together Troubleshooting Guide            | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=fr)             |
-| Guest Star Getting Started                       | 09/12/2025, 3:54:12 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=fr)                        |
-| Annual Recap                                     | 05/12/2025, 11:57:02 pm   | [Link](https://help.twitch.tv/s/article/annual-recap?language=fr)                                      |
-| How To Upgrade Prime                             | 05/12/2025, 6:15:30 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=fr)                              |
-| How Subscription Streaks Work                    | 05/12/2025, 3:03:19 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=fr)                     |
-| Video On Demand                                  | 04/12/2025, 1:26:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=fr)                                   |
-| Combos                                           | 28/11/2025, 0:46:34 am    | [Link](https://help.twitch.tv/s/article/combos?language=fr)                                            |
-| Auto Clips                                       | 24/11/2025, 10:13:52 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=fr)                                        |
-| Emote Guidelines                                 | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=fr)                                  |
 
 
 
@@ -315,9 +315,30 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| About Twitch Categories               | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=fr)                |
+| Link Amazon Twitch Accounts           | 11/02/2026, 3:27:24 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=fr)            |
+| Dmca And Copyright Faqs               | 11/02/2026, 2:59:09 pm    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=fr)                |
+| Payout Details Faq                    | 11/02/2026, 2:57:49 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=fr)                     |
+| Stories                               | 11/02/2026, 2:21:17 pm    | [Link](https://help.twitch.tv/s/article/stories?language=fr)                                |
+| Failed Payments                       | 11/02/2026, 11:05:10 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=fr)                        |
+| Dual Format Vertical Video            | 10/02/2026, 4:16:05 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)             |
 | Code Based Drops Rewards              | 09/02/2026, 10:59:13 pm   | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=fr)               |
+| Locating Your Twitch Invoice Number   | 07/02/2026, 4:35:30 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=fr)    |
+| Streamer Benefits                     | 07/02/2026, 4:34:02 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=fr)                      |
+| Recover Watch Streaks                 | 24/01/2026, 10:01:25 am   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=fr)                  |
+| Dj Program Faq                        | 24/01/2026, 9:57:42 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=fr)                         |
 | Mdr Interview                         | 15/01/2026, 7:53:08 pm    | [Link](https://help.twitch.tv/s/article/mdr-interview?language=fr)                          |
+| Follower Verification                 | 03/01/2026, 1:58:01 am    | [Link](https://help.twitch.tv/s/article/follower-verification?language=fr)                  |
+| Partner Front Page                    | 20/12/2025, 1:22:43 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=fr)                     |
+| Partner Discord                       | 19/12/2025, 1:28:31 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=fr)                        |
+| Stream Quality                        | 18/12/2025, 0:19:10 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)                         |
+| Age Verification                      | 17/12/2025, 11:15:10 pm   | [Link](https://help.twitch.tv/s/article/age-verification?language=fr)                       |
 | Sponsorship Overview                  | 15/12/2025, 11:28:22 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=fr)                   |
+| Streamer Read Ads                     | 15/12/2025, 11:03:36 pm   | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=fr)                      |
+| Creator Profile Setup                 | 15/12/2025, 11:03:34 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=fr)                  |
+| Sponsored Subscriptions               | 15/12/2025, 11:03:33 pm   | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=fr)                |
+| Streamelements Campaigns              | 15/12/2025, 11:03:31 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=fr)               |
+| Channel Skins                         | 15/12/2025, 11:03:31 pm   | [Link](https://help.twitch.tv/s/article/channel-skins?language=fr)                          |
 | Stream Together Troubleshooting Guide | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=fr)  |
 
 
