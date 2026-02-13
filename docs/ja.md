@@ -6,20 +6,21 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Where Are My Notifications                       | 13/02/2026, 10:35:42 am   | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=ja)                        |
+| Account Hacked                                   | 12/02/2026, 2:49:38 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=ja)                                    |
+| Contacting Purchase Support                      | 12/02/2026, 2:49:38 pm    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=ja)                       |
+| Stories                                          | 12/02/2026, 2:48:14 pm    | [Link](https://help.twitch.tv/s/article/stories?language=ja)                                           |
+| Channel Points Faq                               | 12/02/2026, 2:43:42 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ja)                                |
+| Date Of Birth Changes                            | 12/02/2026, 2:42:24 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                             |
+| Achievements                                     | 12/02/2026, 2:40:23 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=ja)                                      |
+| Link Amazon Twitch Accounts                      | 12/02/2026, 2:31:33 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=ja)                       |
+| Supported Browsers                               | 12/02/2026, 2:10:28 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=ja)                                |
 | Code Based Drops Rewards                         | 12/02/2026, 0:00:29 pm    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=ja)                          |
 | About Twitch Categories                          | 12/02/2026, 11:23:08 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=ja)                           |
 | Xbox Broadcast                                   | 12/02/2026, 10:52:13 am   | [Link](https://help.twitch.tv/s/article/xbox-broadcast?language=ja)                                    |
 | Twitch Account Settings                          | 12/02/2026, 10:27:00 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ja)                           |
-| Supported Browsers                               | 11/02/2026, 4:39:24 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=ja)                                |
-| Date Of Birth Changes                            | 11/02/2026, 4:18:55 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                             |
-| Channel Points Faq                               | 11/02/2026, 4:01:23 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ja)                                |
-| Contacting Purchase Support                      | 11/02/2026, 3:52:31 pm    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=ja)                       |
-| Account Hacked                                   | 11/02/2026, 3:50:32 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=ja)                                    |
-| Link Amazon Twitch Accounts                      | 11/02/2026, 3:27:24 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=ja)                       |
 | Dmca And Copyright Faqs                          | 11/02/2026, 2:59:09 pm    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=ja)                           |
 | Payout Details Faq                               | 11/02/2026, 2:57:49 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=ja)                                |
-| Achievements                                     | 11/02/2026, 2:52:12 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=ja)                                      |
-| Stories                                          | 11/02/2026, 2:21:17 pm    | [Link](https://help.twitch.tv/s/article/stories?language=ja)                                           |
 | Creator Dashboard                                | 11/02/2026, 2:01:16 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=ja)                                 |
 | How To Use Automod                               | 11/02/2026, 2:01:06 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ja)                                |
 | Mod View                                         | 11/02/2026, 1:58:27 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                          |

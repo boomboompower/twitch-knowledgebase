@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Where Are My Notifications                       | 13/02/2026, 10:35:41 am   | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=es_MX)                        |
 | Date Of Birth Changes                            | 12/02/2026, 1:16:32 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                             |
 | Channel Points Faq                               | 12/02/2026, 1:15:14 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=es_MX)                                |
 | Contacting Purchase Support                      | 12/02/2026, 1:14:11 pm    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=es_MX)                       |
