@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Auto Clips                                       | 14/02/2026, 5:50:48 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                                        |
 | Where Are My Notifications                       | 13/02/2026, 10:35:42 am   | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=ja)                        |
 | Account Hacked                                   | 12/02/2026, 2:49:38 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=ja)                                    |
 | Contacting Purchase Support                      | 12/02/2026, 2:49:38 pm    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=ja)                       |

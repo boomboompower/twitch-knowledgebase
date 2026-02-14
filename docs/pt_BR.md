@@ -6,6 +6,11 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Auto Clips                                       | 14/02/2026, 5:50:48 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=pt_BR)                                        |
+| Date Of Birth Changes                            | 13/02/2026, 2:54:23 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pt_BR)                             |
+| Channel Points Faq                               | 13/02/2026, 2:48:38 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=pt_BR)                                |
+| Account Hacked                                   | 13/02/2026, 2:44:19 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=pt_BR)                                    |
+| Contacting Purchase Support                      | 13/02/2026, 2:44:18 pm    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=pt_BR)                       |
 | Where Are My Notifications                       | 13/02/2026, 10:35:42 am   | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=pt_BR)                        |
 | Achievements                                     | 13/02/2026, 7:43:00 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_BR)                                      |
 | Link Amazon Twitch Accounts                      | 13/02/2026, 7:30:39 am    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=pt_BR)                       |
@@ -14,10 +19,6 @@
 | Xbox Broadcast                                   | 12/02/2026, 10:52:13 am   | [Link](https://help.twitch.tv/s/article/xbox-broadcast?language=pt_BR)                                    |
 | Twitch Account Settings                          | 12/02/2026, 10:27:00 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_BR)                           |
 | About Twitch Categories                          | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=pt_BR)                           |
-| Date Of Birth Changes                            | 11/02/2026, 4:18:55 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pt_BR)                             |
-| Channel Points Faq                               | 11/02/2026, 4:01:23 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=pt_BR)                                |
-| Contacting Purchase Support                      | 11/02/2026, 3:52:31 pm    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=pt_BR)                       |
-| Account Hacked                                   | 11/02/2026, 3:50:32 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=pt_BR)                                    |
 | Dmca And Copyright Faqs                          | 11/02/2026, 2:59:09 pm    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=pt_BR)                           |
 | Payout Details Faq                               | 11/02/2026, 2:57:49 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=pt_BR)                                |
 | Creator Dashboard                                | 11/02/2026, 2:01:16 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=pt_BR)                                 |

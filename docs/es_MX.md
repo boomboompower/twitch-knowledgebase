@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Auto Clips                                       | 14/02/2026, 5:50:48 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                                        |
 | Where Are My Notifications                       | 13/02/2026, 10:35:41 am   | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=es_MX)                        |
 | Date Of Birth Changes                            | 12/02/2026, 1:16:32 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                             |
 | Channel Points Faq                               | 12/02/2026, 1:15:14 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=es_MX)                                |
@@ -53,7 +54,6 @@
 | Stream Quality                                   | 13/12/2025, 1:34:58 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                                    |
 | Age Verification                                 | 13/12/2025, 10:07:18 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)                                  |
 | Reactions                                        | 11/12/2025, 11:16:17 am   | [Link](https://help.twitch.tv/s/article/reactions?language=es_MX)                                         |
-| Subscriptions On Mobile                          | 11/12/2025, 7:40:19 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=es_MX)                           |
 
 
 
