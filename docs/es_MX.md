@@ -53,7 +53,6 @@
 | Delete Twitch Account                            | 16/12/2025, 11:59:12 am   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=es_MX)                             |
 | Stream Quality                                   | 13/12/2025, 1:34:58 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                                    |
 | Age Verification                                 | 13/12/2025, 10:07:18 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=es_MX)                                  |
-| Reactions                                        | 11/12/2025, 11:16:17 am   | [Link](https://help.twitch.tv/s/article/reactions?language=es_MX)                                         |
 
 
 
@@ -308,6 +307,15 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                             |
+|-------------------------|---------------------------|----------------------------------------------------------------------------------|
+| About Twitch Categories | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=es_MX)  |
 
 
 

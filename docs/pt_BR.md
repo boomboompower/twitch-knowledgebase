@@ -60,7 +60,6 @@
 | Streamer Read Ads                                | 13/12/2025, 1:33:33 pm    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=pt_BR)                                 |
 | Streamelements Campaigns                         | 11/12/2025, 1:37:52 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=pt_BR)                          |
 | Reactions                                        | 11/12/2025, 1:12:27 pm    | [Link](https://help.twitch.tv/s/article/reactions?language=pt_BR)                                         |
-| Subscriptions On Mobile                          | 11/12/2025, 7:40:20 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=pt_BR)                           |
 
 
 
@@ -310,6 +309,15 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_BR)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=pt_BR)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pt_BR)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                             |
+|-------------------------|---------------------------|----------------------------------------------------------------------------------|
+| About Twitch Categories | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=pt_BR)  |
 
 
 

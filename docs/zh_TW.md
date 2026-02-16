@@ -60,8 +60,6 @@
 | Channel Skins                                    | 13/12/2025, 8:15:02 pm    | [Link](https://help.twitch.tv/s/article/channel-skins?language=zh_TW)                                     |
 | Streamelements Campaigns                         | 13/12/2025, 8:14:58 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=zh_TW)                          |
 | Streamer Read Ads                                | 13/12/2025, 8:14:58 pm    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=zh_TW)                                 |
-| Reactions                                        | 11/12/2025, 11:16:17 am   | [Link](https://help.twitch.tv/s/article/reactions?language=zh_TW)                                         |
-| Subscriptions On Mobile                          | 11/12/2025, 7:40:20 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=zh_TW)                           |
 
 
 

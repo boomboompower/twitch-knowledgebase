@@ -6,6 +6,10 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Supported Browsers                               | 16/02/2026, 1:31:14 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=de)                                |
+| Link Amazon Twitch Accounts                      | 16/02/2026, 1:18:10 am    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=de)                       |
+| Achievements                                     | 16/02/2026, 1:11:29 am    | [Link](https://help.twitch.tv/s/article/achievements?language=de)                                      |
+| Stories                                          | 16/02/2026, 1:01:35 am    | [Link](https://help.twitch.tv/s/article/stories?language=de)                                           |
 | Auto Clips                                       | 14/02/2026, 5:50:47 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=de)                                        |
 | Where Are My Notifications                       | 13/02/2026, 10:35:41 am   | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=de)                        |
 | Code Based Drops Rewards                         | 12/02/2026, 11:54:13 pm   | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=de)                          |
@@ -14,16 +18,12 @@
 | About Twitch Categories                          | 12/02/2026, 10:24:23 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=de)                           |
 | Creator Dashboard                                | 12/02/2026, 1:56:44 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=de)                                 |
 | How To Use Automod                               | 11/02/2026, 8:49:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=de)                                |
-| Supported Browsers                               | 11/02/2026, 4:39:24 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=de)                                |
 | Date Of Birth Changes                            | 11/02/2026, 4:18:55 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=de)                             |
 | Channel Points Faq                               | 11/02/2026, 4:01:23 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=de)                                |
 | Contacting Purchase Support                      | 11/02/2026, 3:52:31 pm    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=de)                       |
 | Account Hacked                                   | 11/02/2026, 3:50:32 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=de)                                    |
-| Link Amazon Twitch Accounts                      | 11/02/2026, 3:27:24 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=de)                       |
 | Dmca And Copyright Faqs                          | 11/02/2026, 2:59:08 pm    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=de)                           |
 | Payout Details Faq                               | 11/02/2026, 2:57:49 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=de)                                |
-| Achievements                                     | 11/02/2026, 2:52:12 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=de)                                      |
-| Stories                                          | 11/02/2026, 2:21:17 pm    | [Link](https://help.twitch.tv/s/article/stories?language=de)                                           |
 | Mod View                                         | 11/02/2026, 1:58:27 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                          |
 | Partner Onboarding Guide                         | 11/02/2026, 0:54:01 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=de)                          |
 | Failed Payments                                  | 11/02/2026, 11:05:10 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=de)                                   |
@@ -61,7 +61,6 @@
 | Creator Profile Setup                            | 15/12/2025, 7:06:49 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=de)                             |
 | Streamelements Campaigns                         | 15/12/2025, 7:06:48 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=de)                          |
 | Reactions                                        | 12/12/2025, 9:32:28 pm    | [Link](https://help.twitch.tv/s/article/reactions?language=de)                                         |
-| Subscriptions On Mobile                          | 11/12/2025, 7:40:19 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=de)                           |
 
 
 
@@ -311,6 +310,15 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=de)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                          |
+|-------------------------|---------------------------|-------------------------------------------------------------------------------|
+| About Twitch Categories | 12/02/2026, 10:24:23 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=de)  |
 
 
 

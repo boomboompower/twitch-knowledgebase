@@ -55,7 +55,6 @@
 | Partner Front Page                               | 13/12/2025, 10:28:28 am   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)                                |
 | Stream Quality                                   | 12/12/2025, 8:41:58 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=en_US)                                    |
 | Reactions                                        | 11/12/2025, 11:16:17 am   | [Link](https://help.twitch.tv/s/article/reactions?language=en_US)                                         |
-| Age Verification                                 | 11/12/2025, 10:05:58 am   | [Link](https://help.twitch.tv/s/article/age-verification?language=en_US)                                  |
 
 
 
@@ -363,6 +362,15 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)      |
 | Markdown Basics                            | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                             |
+|-------------------------|---------------------------|----------------------------------------------------------------------------------|
+| About Twitch Categories | 12/02/2026, 10:24:23 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=en_US)  |
 
 
 

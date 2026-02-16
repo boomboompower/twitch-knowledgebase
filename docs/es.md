@@ -312,3 +312,12 @@
 
 
 
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                          |
+|-------------------------|---------------------------|-------------------------------------------------------------------------------|
+| About Twitch Categories | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=es)  |
+
+
+
