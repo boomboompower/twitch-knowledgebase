@@ -61,6 +61,7 @@
 | Sponsored Subscriptions                          | 15/12/2025, 2:55:38 pm    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=ja)                           |
 | Sponsorship Overview                             | 15/12/2025, 1:25:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=ja)                              |
 | Reactions                                        | 12/12/2025, 6:32:13 pm    | [Link](https://help.twitch.tv/s/article/reactions?language=ja)                                         |
+| Subscriptions On Mobile                          | 11/12/2025, 7:40:20 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ja)                           |
 
 
 
@@ -318,6 +319,7 @@
 | Name                    | Last Updated (dd/mm/yyyy) | Link                                                                          |
 |-------------------------|---------------------------|-------------------------------------------------------------------------------|
 | About Twitch Categories | 12/02/2026, 11:23:08 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=ja)  |
+| Sponsorship Overview    | 15/12/2025, 1:25:32 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=ja)     |
 
 
 

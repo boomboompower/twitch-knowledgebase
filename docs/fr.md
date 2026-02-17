@@ -319,6 +319,7 @@
 | Name                    | Last Updated (dd/mm/yyyy) | Link                                                                          |
 |-------------------------|---------------------------|-------------------------------------------------------------------------------|
 | About Twitch Categories | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=fr)  |
+| Sponsorship Overview    | 15/12/2025, 11:28:22 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=fr)     |
 
 
 
