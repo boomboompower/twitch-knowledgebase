@@ -6,6 +6,11 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Disabling Prerolls                               | 18/02/2026, 10:38:53 am   | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=tr)                                |
+| How To Use Raids                                 | 18/02/2026, 10:38:02 am   | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=tr)                                  |
+| Mission Based Drops                              | 18/02/2026, 9:18:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=tr)                               |
+| Twitch Teams                                     | 18/02/2026, 9:11:13 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=tr)                                      |
+| Creator Goals                                    | 18/02/2026, 9:08:04 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=tr)                                     |
 | Where Are My Notifications                       | 13/02/2026, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=tr)                        |
 | Twitch Account Settings                          | 12/02/2026, 10:26:58 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=tr)                           |
 | Supported Browsers                               | 11/02/2026, 4:39:24 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=tr)                                |
@@ -22,7 +27,6 @@
 | Updating Payment Information Transaction History | 07/02/2026, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=tr)  |
 | Locating Your Twitch Invoice Number              | 07/02/2026, 4:35:28 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=tr)               |
 | Affiliate Onboarding Guide                       | 07/02/2026, 4:34:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=tr)                        |
-| Mission Based Drops                              | 06/02/2026, 8:12:17 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=tr)                               |
 | Managing Roles For Your Channel                  | 31/01/2026, 5:23:18 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=tr)                   |
 | Twitch Turbo Guide                               | 27/01/2026, 5:26:36 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=tr)                                |
 | Prime Gaming Revenue Guide                       | 16/01/2026, 5:23:06 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=tr)                        |
@@ -31,7 +35,6 @@
 | How To Use Go Live Notifications                 | 19/12/2025, 2:02:13 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=tr)                  |
 | Channel Points Predictions                       | 18/12/2025, 5:33:04 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=tr)                        |
 | Twitch Chat Badges Guide                         | 18/12/2025, 5:32:51 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=tr)                          |
-| Delete Twitch Account                            | 13/12/2025, 11:23:06 am   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=tr)                             |
 
 
 

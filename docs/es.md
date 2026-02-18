@@ -6,6 +6,13 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Disabling Prerolls                               | 18/02/2026, 10:38:55 am   | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=es)                                |
+| How To Use Raids                                 | 18/02/2026, 10:38:03 am   | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=es)                                  |
+| Past Behavior And Account Standing               | 18/02/2026, 9:22:19 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es)                |
+| Mission Based Drops                              | 18/02/2026, 9:18:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es)                               |
+| Twitch Teams                                     | 18/02/2026, 9:11:13 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=es)                                      |
+| How To Sub Only Archives                         | 18/02/2026, 9:10:03 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es)                          |
+| Creator Goals                                    | 18/02/2026, 9:08:06 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=es)                                     |
 | Auto Clips                                       | 17/02/2026, 0:53:38 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es)                                        |
 | Date Of Birth Changes                            | 17/02/2026, 0:38:35 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                             |
 | Channel Points Faq                               | 17/02/2026, 0:33:29 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=es)                                |
@@ -33,7 +40,6 @@
 | Locating Your Twitch Invoice Number              | 07/02/2026, 4:35:30 am    | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=es)               |
 | Affiliate Onboarding Guide                       | 07/02/2026, 4:34:11 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es)                        |
 | Streamer Benefits                                | 07/02/2026, 4:34:01 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es)                                 |
-| Mission Based Drops                              | 06/02/2026, 8:12:17 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es)                               |
 | Managing Roles For Your Channel                  | 31/01/2026, 5:23:23 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es)                   |
 | Sponsored Subscriptions                          | 29/01/2026, 1:10:29 am    | [Link](https://help.twitch.tv/s/article/sponsored-subscriptions?language=es)                           |
 | Streamelements Campaigns                         | 29/01/2026, 1:09:36 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)                          |
@@ -57,10 +63,6 @@
 | Delete Twitch Account                            | 18/12/2025, 10:47:43 pm   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=es)                             |
 | Stream Quality                                   | 17/12/2025, 7:13:44 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)                                    |
 | Age Verification                                 | 17/12/2025, 6:36:04 pm    | [Link](https://help.twitch.tv/s/article/age-verification?language=es)                                  |
-| Reactions                                        | 16/12/2025, 1:10:28 am    | [Link](https://help.twitch.tv/s/article/reactions?language=es)                                         |
-| Streamer Read Ads                                | 16/12/2025, 0:59:38 am    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=es)                                 |
-| Bounty Board Program Information And Faq         | 16/12/2025, 0:59:33 am    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=es)          |
-| Sponsorship Overview                             | 15/12/2025, 11:25:48 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es)                              |
 
 
 
@@ -315,10 +317,24 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                    | Last Updated (dd/mm/yyyy) | Link                                                                          |
-|-------------------------|---------------------------|-------------------------------------------------------------------------------|
-| About Twitch Categories | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=es)  |
-| Sponsorship Overview    | 15/12/2025, 11:25:48 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es)     |
+| Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                     |
+|------------------------------------|---------------------------|------------------------------------------------------------------------------------------|
+| Past Behavior And Account Standing | 18/02/2026, 9:22:19 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es)  |
+| How To Sub Only Archives           | 18/02/2026, 9:10:03 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es)            |
+| Auto Clips                         | 17/02/2026, 0:53:38 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es)                          |
+| Link Amazon Twitch Accounts        | 16/02/2026, 9:40:53 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=es)         |
+| About Twitch Categories            | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=es)             |
+| Code Based Drops Rewards           | 11/02/2026, 9:09:48 pm    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=es)            |
+| Dual Format Vertical Video         | 11/02/2026, 3:40:58 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es)          |
+| Streamer Benefits                  | 07/02/2026, 4:34:01 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es)                   |
+| Streamelements Campaigns           | 29/01/2026, 1:09:36 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)            |
+| Creator Profile Setup              | 29/01/2026, 1:09:29 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es)               |
+| Recover Watch Streaks              | 24/01/2026, 10:01:24 am   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es)               |
+| Mdr Interview                      | 16/01/2026, 11:23:23 pm   | [Link](https://help.twitch.tv/s/article/mdr-interview?language=es)                       |
+| Partner Front Page                 | 19/12/2025, 10:54:43 pm   | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es)                  |
+| Stream Quality                     | 17/12/2025, 7:13:44 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)                      |
+| Age Verification                   | 17/12/2025, 6:36:04 pm    | [Link](https://help.twitch.tv/s/article/age-verification?language=es)                    |
+| Sponsorship Overview               | 15/12/2025, 11:25:48 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es)                |
 
 
 

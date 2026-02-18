@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Twitch Teams                                     | 18/02/2026, 9:11:13 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=nl_NL)                                      |
 | Account Hacked                                   | 11/02/2026, 3:50:32 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=nl_NL)                                    |
 | Updating Payment Information Transaction History | 07/02/2026, 5:09:34 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=nl_NL)  |
 | Twitch Turbo Guide                               | 27/01/2026, 5:26:36 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=nl_NL)                                |
