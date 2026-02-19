@@ -57,6 +57,7 @@
 | Channel Points Predictions                       | 18/12/2025, 7:17:57 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=zh_TW)                        |
 | Twitch Chat Badges Guide                         | 18/12/2025, 7:17:49 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                          |
 | Stream Quality                                   | 17/12/2025, 3:30:39 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                                    |
+| Age Verification                                 | 17/12/2025, 3:30:36 pm    | [Link](https://help.twitch.tv/s/article/age-verification?language=zh_TW)                                  |
 
 
 
