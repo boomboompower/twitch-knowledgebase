@@ -6,6 +6,12 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Authy Faq                                        | 21/02/2026, 0:32:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=zh_TW)                                         |
+| Managing Your Phone Number                       | 21/02/2026, 0:32:04 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)                        |
+| Creating An Account With Twitch                  | 21/02/2026, 0:31:55 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)                   |
+| New Device And Location Verification             | 21/02/2026, 0:31:51 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=zh_TW)              |
+| Twitch Account Access Login Issues Guide         | 21/02/2026, 0:31:46 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=zh_TW)          |
+| Stream Rewind                                    | 21/02/2026, 5:01:54 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=zh_TW)                                     |
 | Disabling Prerolls                               | 18/02/2026, 10:38:56 am   | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=zh_TW)                                |
 | How To Use Raids                                 | 18/02/2026, 10:38:04 am   | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=zh_TW)                                  |
 | Past Behavior And Account Standing               | 18/02/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=zh_TW)                |
@@ -51,13 +57,6 @@
 | Setting Up Moderation For Your Twitch Channel    | 22/12/2025, 9:36:22 pm    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=zh_TW)     |
 | Chat Verification Settings                       | 22/12/2025, 9:36:16 pm    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=zh_TW)                        |
 | Follower Verification                            | 22/12/2025, 9:36:13 pm    | [Link](https://help.twitch.tv/s/article/follower-verification?language=zh_TW)                             |
-| How To Use Go Live Notifications                 | 22/12/2025, 9:24:43 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=zh_TW)                  |
-| Partner Front Page                               | 20/12/2025, 5:56:32 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                                |
-| Partner Discord                                  | 19/12/2025, 1:28:32 pm    | [Link](https://help.twitch.tv/s/article/partner-discord?language=zh_TW)                                   |
-| Channel Points Predictions                       | 18/12/2025, 7:17:57 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=zh_TW)                        |
-| Twitch Chat Badges Guide                         | 18/12/2025, 7:17:49 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                          |
-| Stream Quality                                   | 17/12/2025, 3:30:39 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                                    |
-| Age Verification                                 | 17/12/2025, 3:30:36 pm    | [Link](https://help.twitch.tv/s/article/age-verification?language=zh_TW)                                  |
 
 
 
@@ -313,6 +312,7 @@
 
 | Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Stream Rewind                      | 21/02/2026, 5:01:54 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=zh_TW)                       |
 | Past Behavior And Account Standing | 18/02/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=zh_TW)  |
 | How To Sub Only Archives           | 18/02/2026, 9:10:03 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=zh_TW)            |
 | Auto Clips                         | 18/02/2026, 2:37:19 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                          |

@@ -4,19 +4,18 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
-|-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
-| Twitch Account Settings                       | 12/02/2026, 10:26:58 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_PT)                        |
-| Account Hacked                                | 11/02/2026, 3:50:32 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=pt_PT)                                 |
-| How To Subscribe                              | 11/02/2026, 3:25:51 pm    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                               |
-| Achievements                                  | 11/02/2026, 2:52:12 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                                   |
-| How To Use Automod                            | 11/02/2026, 2:01:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_PT)                             |
-| Twitch Turbo Guide                            | 27/01/2026, 5:26:36 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                             |
-| Twitch Prime Partner Guide                    | 16/01/2026, 5:23:06 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=pt_PT)                     |
-| Gift Subscriptions                            | 14/01/2026, 1:24:12 pm    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                             |
-| Two Factor Authentication With Authy          | 08/01/2026, 11:04:41 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)           |
-| Setting Up Moderation For Your Twitch Channel | 20/12/2025, 9:02:22 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=pt_PT)  |
-| How To Use Go Live Notifications              | 19/12/2025, 2:02:13 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=pt_PT)               |
+| Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                          |
+|--------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
+| Authy Faq                            | 21/02/2026, 0:32:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_PT)                             |
+| Twitch Account Settings              | 12/02/2026, 10:26:58 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_PT)               |
+| Account Hacked                       | 11/02/2026, 3:50:32 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=pt_PT)                        |
+| How To Subscribe                     | 11/02/2026, 3:25:51 pm    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                      |
+| Achievements                         | 11/02/2026, 2:52:12 pm    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                          |
+| How To Use Automod                   | 11/02/2026, 2:01:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_PT)                    |
+| Twitch Turbo Guide                   | 27/01/2026, 5:26:36 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                    |
+| Twitch Prime Partner Guide           | 16/01/2026, 5:23:06 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=pt_PT)            |
+| Gift Subscriptions                   | 14/01/2026, 1:24:12 pm    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                    |
+| Two Factor Authentication With Authy | 08/01/2026, 11:04:41 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)  |
 
 
 
