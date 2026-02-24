@@ -6,12 +6,12 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Stream Rewind                                    | 24/02/2026, 1:10:53 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=fr)                                     |
 | Authy Faq                                        | 21/02/2026, 0:32:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=fr)                                         |
 | Managing Your Phone Number                       | 21/02/2026, 0:32:04 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=fr)                        |
 | Creating An Account With Twitch                  | 21/02/2026, 0:31:55 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fr)                   |
 | New Device And Location Verification             | 21/02/2026, 0:31:51 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=fr)              |
 | Twitch Account Access Login Issues Guide         | 21/02/2026, 0:31:46 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=fr)          |
-| Stream Rewind                                    | 21/02/2026, 5:01:54 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=fr)                                     |
 | Disabling Prerolls                               | 18/02/2026, 10:38:55 am   | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=fr)                                |
 | How To Use Raids                                 | 18/02/2026, 10:38:04 am   | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=fr)                                  |
 | Past Behavior And Account Standing               | 18/02/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=fr)                |

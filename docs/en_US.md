@@ -369,6 +369,16 @@
 
 
 
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
+|------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Phone Number Reuse                 | 21/02/2026, 0:31:59 pm    | [Link](https://help.twitch.tv/s/article/phone-number-reuse?language=en_US)                  |
+| Past Behavior And Account Standing | 18/02/2026, 9:22:19 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=en_US)  |
+
+
+
 ## View-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-view-1.xml) this sitemap
 
