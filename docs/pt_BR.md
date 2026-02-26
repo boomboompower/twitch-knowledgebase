@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Simulcasting Guidelines                                  | 26/02/2026, 11:43:46 am   | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=pt_BR)                                   |
+| Managing Your Phone Number                               | 25/02/2026, 3:23:09 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=pt_BR)                                |
 | How To File A Video Playback Issue                       | 25/02/2026, 0:32:19 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=pt_BR)                        |
 | Subscriptions On Mobile                                  | 25/02/2026, 10:30:47 am   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=pt_BR)                                   |
 | Locating Your Twitch Invoice Number                      | 25/02/2026, 10:29:56 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=pt_BR)                       |
@@ -19,7 +21,6 @@
 | Why Cant I Chat                                          | 25/02/2026, 6:46:41 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=pt_BR)                                           |
 | Stream Rewind                                            | 22/02/2026, 3:57:25 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=pt_BR)                                             |
 | Authy Faq                                                | 21/02/2026, 0:32:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_BR)                                                 |
-| Managing Your Phone Number                               | 21/02/2026, 0:32:04 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=pt_BR)                                |
 | Creating An Account With Twitch                          | 21/02/2026, 0:31:55 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=pt_BR)                           |
 | New Device And Location Verification                     | 21/02/2026, 0:31:51 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=pt_BR)                      |
 | Twitch Account Access Login Issues Guide                 | 21/02/2026, 0:31:46 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=pt_BR)                  |

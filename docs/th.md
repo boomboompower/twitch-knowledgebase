@@ -35,7 +35,6 @@
 | Partner Onboarding Guide                                 | 11/02/2026, 0:34:08 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=th)                                  |
 | Affiliate Onboarding Guide                               | 07/02/2026, 4:34:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=th)                                |
 | Managing Roles For Your Channel                          | 31/01/2026, 5:23:18 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=th)                           |
-| Twitch Turbo Guide                                       | 27/01/2026, 5:26:36 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=th)                                        |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Simulcasting Guidelines                                  | 26/02/2026, 11:43:43 am   | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=it)                                   |
 | How To File A Video Playback Issue                       | 25/02/2026, 0:32:22 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=it)                        |
 | Subscriptions On Mobile                                  | 25/02/2026, 10:30:47 am   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=it)                                   |
 | Locating Your Twitch Invoice Number                      | 25/02/2026, 10:29:55 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=it)                       |
@@ -57,7 +58,6 @@
 | Streamer Benefits                                        | 07/02/2026, 4:34:02 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=it)                                         |
 | Managing Roles For Your Channel                          | 31/01/2026, 5:23:23 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=it)                           |
 | Revenue                                                  | 27/01/2026, 5:26:48 am    | [Link](https://help.twitch.tv/s/article/revenue?language=it)                                                   |
-| Twitch Turbo Guide                                       | 27/01/2026, 5:26:39 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=it)                                        |
 
 
 

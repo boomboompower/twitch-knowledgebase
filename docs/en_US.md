@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Simulcasting Guidelines                                  | 26/02/2026, 11:04:48 am   | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=en_US)                                   |
 | Subscriptions On Mobile                                  | 25/02/2026, 10:30:45 am   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=en_US)                                   |
 | Locating Your Twitch Invoice Number                      | 25/02/2026, 10:29:55 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=en_US)                       |
 | Updating Payment Information Transaction History         | 25/02/2026, 10:29:30 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=en_US)          |
@@ -61,7 +62,6 @@
 | Signing Up Logging In Social Accounts                    | 31/01/2026, 6:09:11 am    | [Link](https://help.twitch.tv/s/article/signing-up-logging-in-social-accounts?language=en_US)                     |
 | Managing Roles For Your Channel                          | 31/01/2026, 5:23:18 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=en_US)                           |
 | Revenue                                                  | 27/01/2026, 5:26:47 am    | [Link](https://help.twitch.tv/s/article/revenue?language=en_US)                                                   |
-| Twitch Turbo Guide                                       | 27/01/2026, 5:26:36 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                                        |
 
 
 
