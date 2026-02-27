@@ -6,6 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Account Access Login Issues Guide                 | 26/02/2026, 11:12:37 pm   | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=fr)                  |
+| Managing Your Phone Number                               | 26/02/2026, 11:12:34 pm   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=fr)                                |
+| Not Receiving Sms                                        | 26/02/2026, 11:12:30 pm   | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=fr)                                         |
+| Phone Number Reuse                                       | 26/02/2026, 11:12:28 pm   | [Link](https://help.twitch.tv/s/article/phone-number-reuse?language=fr)                                        |
 | Simulcasting Guidelines                                  | 26/02/2026, 11:43:44 am   | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=fr)                                   |
 | How To File A Video Playback Issue                       | 25/02/2026, 0:32:20 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=fr)                        |
 | Subscriptions On Mobile                                  | 25/02/2026, 10:30:45 am   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=fr)                                   |
@@ -20,10 +24,8 @@
 | Why Cant I Chat                                          | 25/02/2026, 6:46:41 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=fr)                                           |
 | Stream Rewind                                            | 24/02/2026, 1:10:53 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=fr)                                             |
 | Authy Faq                                                | 21/02/2026, 0:32:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=fr)                                                 |
-| Managing Your Phone Number                               | 21/02/2026, 0:32:04 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=fr)                                |
 | Creating An Account With Twitch                          | 21/02/2026, 0:31:55 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fr)                           |
 | New Device And Location Verification                     | 21/02/2026, 0:31:51 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=fr)                      |
-| Twitch Account Access Login Issues Guide                 | 21/02/2026, 0:31:46 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=fr)                  |
 | Disabling Prerolls                                       | 18/02/2026, 10:38:55 am   | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=fr)                                        |
 | How To Use Raids                                         | 18/02/2026, 10:38:04 am   | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=fr)                                          |
 | Past Behavior And Account Standing                       | 18/02/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=fr)                        |
@@ -320,6 +322,7 @@
 
 | Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
 |-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| Phone Number Reuse                  | 26/02/2026, 11:12:28 pm   | [Link](https://help.twitch.tv/s/article/phone-number-reuse?language=fr)                   |
 | Why Cant I Stream                   | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=fr)                    |
 | How To Use Whispers                 | 25/02/2026, 6:48:27 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=fr)                  |
 | About Bans Blocking And Suspensions | 25/02/2026, 6:47:05 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=fr)  |

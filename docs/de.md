@@ -58,6 +58,7 @@
 | Streamer Benefits                                        | 07/02/2026, 4:34:01 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=de)                                         |
 | Managing Roles For Your Channel                          | 31/01/2026, 5:23:23 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=de)                           |
 | Revenue                                                  | 27/01/2026, 5:26:47 am    | [Link](https://help.twitch.tv/s/article/revenue?language=de)                                                   |
+| Twitch Turbo Guide                                       | 27/01/2026, 5:26:39 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=de)                                        |
 
 
 

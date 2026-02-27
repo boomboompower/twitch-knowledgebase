@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Not Receiving Sms                                        | 26/02/2026, 3:09:18 pm    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=pt_BR)                                         |
 | Simulcasting Guidelines                                  | 26/02/2026, 11:43:46 am   | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=pt_BR)                                   |
 | Managing Your Phone Number                               | 25/02/2026, 3:23:09 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=pt_BR)                                |
 | How To File A Video Playback Issue                       | 25/02/2026, 0:32:19 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=pt_BR)                        |

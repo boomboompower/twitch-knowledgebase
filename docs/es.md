@@ -62,6 +62,7 @@
 | Creator Profile Setup                                    | 29/01/2026, 1:09:29 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es)                                     |
 | Channel Skins                                            | 29/01/2026, 0:47:44 am    | [Link](https://help.twitch.tv/s/article/channel-skins?language=es)                                             |
 | Revenue                                                  | 27/01/2026, 5:26:47 am    | [Link](https://help.twitch.tv/s/article/revenue?language=es)                                                   |
+| Twitch Turbo Guide                                       | 27/01/2026, 5:26:39 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es)                                        |
 
 
 
