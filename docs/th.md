@@ -6,7 +6,11 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Subscriptions On Mobile                                  | 25/02/2026, 10:30:45 am   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=th)                                   |
+| Twitch Affiliate Program Faq                             | 28/02/2026, 11:36:37 am   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=th)                              |
+| Affiliate Onboarding Guide                               | 28/02/2026, 11:36:31 am   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=th)                                |
+| Joining The Affiliate Program                            | 28/02/2026, 11:36:23 am   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=th)                             |
+| Subscriptions On Mobile                                  | 28/02/2026, 9:30:29 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=th)                                   |
+| Refunds On Twitch                                        | 28/02/2026, 9:30:18 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=th)                                         |
 | Locating Your Twitch Invoice Number                      | 25/02/2026, 10:29:55 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=th)                       |
 | Updating Payment Information Transaction History         | 25/02/2026, 10:29:30 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=th)          |
 | Ban Evasion                                              | 25/02/2026, 6:49:03 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=th)                                               |
@@ -33,8 +37,6 @@
 | How To Use Automod                                       | 11/02/2026, 2:01:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=th)                                        |
 | Mod View                                                 | 11/02/2026, 1:58:27 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=th)                                                  |
 | Partner Onboarding Guide                                 | 11/02/2026, 0:34:08 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=th)                                  |
-| Affiliate Onboarding Guide                               | 07/02/2026, 4:34:10 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=th)                                |
-| Managing Roles For Your Channel                          | 31/01/2026, 5:23:18 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=th)                           |
 
 
 

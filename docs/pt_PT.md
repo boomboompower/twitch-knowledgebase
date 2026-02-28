@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                             | 28/02/2026, 11:36:37 am   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)                              |
+| Joining The Affiliate Program                            | 28/02/2026, 11:36:23 am   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)                             |
 | How To Subscribe                                         | 25/02/2026, 10:30:39 am   | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                                          |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 25/02/2026, 6:46:45 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)  |
 | Authy Faq                                                | 21/02/2026, 0:32:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_PT)                                                 |

@@ -6,6 +6,14 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Subscriptions On Mobile                                  | 28/02/2026, 1:15:45 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=es_MX)                                   |
+| Refunds On Twitch                                        | 28/02/2026, 1:15:41 pm    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es_MX)                                         |
+| Twitch Affiliate Program Faq                             | 28/02/2026, 11:36:37 am   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                              |
+| Affiliate Onboarding Guide                               | 28/02/2026, 11:36:31 am   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                                |
+| Joining The Affiliate Program                            | 28/02/2026, 11:36:23 am   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                             |
+| Streamer Benefits                                        | 28/02/2026, 11:36:17 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                                         |
+| Local Subscription Pricing                               | 28/02/2026, 7:16:51 am    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=es_MX)                                |
+| Payout Details Faq                                       | 28/02/2026, 7:14:36 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es_MX)                                        |
 | Simulcasting Guidelines                                  | 26/02/2026, 11:43:48 am   | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=es_MX)                                   |
 | Playback Issue Troubleshooting                           | 26/02/2026, 5:32:33 am    | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=es_MX)                            |
 | Phone Number Reuse                                       | 25/02/2026, 3:33:07 pm    | [Link](https://help.twitch.tv/s/article/phone-number-reuse?language=es_MX)                                        |
@@ -16,7 +24,6 @@
 | Managing Your Phone Number                               | 25/02/2026, 3:15:12 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es_MX)                                |
 | Not Receiving Sms                                        | 25/02/2026, 3:15:09 pm    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=es_MX)                                         |
 | How To File A Video Playback Issue                       | 25/02/2026, 0:32:17 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=es_MX)                        |
-| Subscriptions On Mobile                                  | 25/02/2026, 10:30:47 am   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=es_MX)                                   |
 | Locating Your Twitch Invoice Number                      | 25/02/2026, 10:29:56 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=es_MX)                       |
 | Updating Payment Information Transaction History         | 25/02/2026, 10:29:31 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=es_MX)          |
 | Why Cant I Stream                                        | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=es_MX)                                         |
@@ -48,19 +55,11 @@
 | Twitch Account Settings                                  | 12/02/2026, 10:26:58 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es_MX)                                   |
 | About Twitch Categories                                  | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=es_MX)                                   |
 | Dmca And Copyright Faqs                                  | 11/02/2026, 2:59:08 pm    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es_MX)                                   |
-| Payout Details Faq                                       | 11/02/2026, 2:57:49 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es_MX)                                        |
 | Creator Dashboard                                        | 11/02/2026, 2:01:15 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=es_MX)                                         |
 | How To Use Automod                                       | 11/02/2026, 2:01:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es_MX)                                        |
 | Mod View                                                 | 11/02/2026, 1:58:27 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=es_MX)                                                  |
 | Partner Onboarding Guide                                 | 11/02/2026, 0:53:48 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es_MX)                                  |
 | Failed Payments                                          | 11/02/2026, 11:05:10 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=es_MX)                                           |
-| How To Purchase Bits                                     | 11/02/2026, 11:04:59 am   | [Link](https://help.twitch.tv/s/article/how-to-purchase-bits?language=es_MX)                                      |
-| Dual Format Vertical Video                               | 10/02/2026, 4:16:06 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                                |
-| Code Based Drops Rewards                                 | 07/02/2026, 11:44:38 am   | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=es_MX)                                  |
-| Affiliate Onboarding Guide                               | 07/02/2026, 4:34:11 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                                |
-| Streamer Benefits                                        | 07/02/2026, 4:34:01 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                                         |
-| Managing Roles For Your Channel                          | 31/01/2026, 5:23:23 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es_MX)                           |
-| Revenue                                                  | 27/01/2026, 5:26:48 am    | [Link](https://help.twitch.tv/s/article/revenue?language=es_MX)                                                   |
 
 
 
@@ -325,6 +324,7 @@
 
 | Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Streamer Benefits                   | 28/02/2026, 11:36:17 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                    |
 | Phone Number Reuse                  | 25/02/2026, 3:33:07 pm    | [Link](https://help.twitch.tv/s/article/phone-number-reuse?language=es_MX)                   |
 | Locating Your Twitch Invoice Number | 25/02/2026, 10:29:56 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=es_MX)  |
 | Why Cant I Stream                   | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=es_MX)                    |
@@ -339,7 +339,6 @@
 | About Twitch Categories             | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=es_MX)              |
 | Dual Format Vertical Video          | 10/02/2026, 4:16:06 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)           |
 | Code Based Drops Rewards            | 07/02/2026, 11:44:38 am   | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=es_MX)             |
-| Streamer Benefits                   | 07/02/2026, 4:34:01 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                    |
 
 
 

@@ -6,9 +6,16 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                             | 28/02/2026, 11:36:37 am   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=it)                              |
+| Affiliate Onboarding Guide                               | 28/02/2026, 11:36:31 am   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=it)                                |
+| Joining The Affiliate Program                            | 28/02/2026, 11:36:23 am   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=it)                             |
+| Streamer Benefits                                        | 28/02/2026, 11:36:17 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=it)                                         |
+| Subscriptions On Mobile                                  | 28/02/2026, 9:30:29 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=it)                                   |
+| Refunds On Twitch                                        | 28/02/2026, 9:30:18 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=it)                                         |
+| Local Subscription Pricing                               | 28/02/2026, 7:16:51 am    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=it)                                |
+| Payout Details Faq                                       | 28/02/2026, 7:14:36 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=it)                                        |
 | Simulcasting Guidelines                                  | 26/02/2026, 11:43:43 am   | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=it)                                   |
 | How To File A Video Playback Issue                       | 25/02/2026, 0:32:22 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=it)                        |
-| Subscriptions On Mobile                                  | 25/02/2026, 10:30:47 am   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=it)                                   |
 | Locating Your Twitch Invoice Number                      | 25/02/2026, 10:29:55 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=it)                       |
 | Updating Payment Information Transaction History         | 25/02/2026, 10:29:31 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=it)          |
 | Why Cant I Stream                                        | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=it)                                         |
@@ -46,19 +53,10 @@
 | About Twitch Categories                                  | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=it)                                   |
 | Code Based Drops Rewards                                 | 11/02/2026, 8:58:57 pm    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=it)                                  |
 | Dmca And Copyright Faqs                                  | 11/02/2026, 2:59:09 pm    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=it)                                   |
-| Payout Details Faq                                       | 11/02/2026, 2:57:49 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=it)                                        |
 | Creator Dashboard                                        | 11/02/2026, 2:01:14 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=it)                                         |
 | How To Use Automod                                       | 11/02/2026, 2:01:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=it)                                        |
 | Mod View                                                 | 11/02/2026, 1:58:27 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=it)                                                  |
 | Partner Onboarding Guide                                 | 11/02/2026, 0:54:01 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=it)                                  |
-| Failed Payments                                          | 11/02/2026, 11:05:09 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=it)                                           |
-| How To Purchase Bits                                     | 11/02/2026, 11:04:59 am   | [Link](https://help.twitch.tv/s/article/how-to-purchase-bits?language=it)                                      |
-| Dual Format Vertical Video                               | 10/02/2026, 8:47:37 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=it)                                |
-| Affiliate Onboarding Guide                               | 07/02/2026, 4:34:11 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=it)                                |
-| Streamer Benefits                                        | 07/02/2026, 4:34:02 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=it)                                         |
-| Managing Roles For Your Channel                          | 31/01/2026, 5:23:23 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=it)                           |
-| Revenue                                                  | 27/01/2026, 5:26:48 am    | [Link](https://help.twitch.tv/s/article/revenue?language=it)                                                   |
-| Twitch Turbo Guide                                       | 27/01/2026, 5:26:39 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=it)                                        |
 
 
 
@@ -321,6 +319,7 @@
 
 | Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
 |-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| Streamer Benefits                   | 28/02/2026, 11:36:17 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=it)                    |
 | Why Cant I Stream                   | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=it)                    |
 | How To Use Whispers                 | 25/02/2026, 6:48:27 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=it)                  |
 | About Bans Blocking And Suspensions | 25/02/2026, 6:47:05 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=it)  |
@@ -333,7 +332,6 @@
 | About Twitch Categories             | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=it)              |
 | Code Based Drops Rewards            | 11/02/2026, 8:58:57 pm    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=it)             |
 | Dual Format Vertical Video          | 10/02/2026, 8:47:37 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=it)           |
-| Streamer Benefits                   | 07/02/2026, 4:34:02 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=it)                    |
 
 
 
