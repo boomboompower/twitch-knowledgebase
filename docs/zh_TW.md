@@ -6,6 +6,12 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Creating An Account With Twitch                          | 02/03/2026, 11:39:39 am   | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)                           |
+| Phone Number Reuse                                       | 02/03/2026, 11:39:38 am   | [Link](https://help.twitch.tv/s/article/phone-number-reuse?language=zh_TW)                                        |
+| Not Receiving Sms                                        | 02/03/2026, 11:39:36 am   | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=zh_TW)                                         |
+| Twitch Account Access Login Issues Guide                 | 02/03/2026, 11:39:34 am   | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=zh_TW)                  |
+| Managing Your Phone Number                               | 02/03/2026, 11:39:32 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)                                |
+| New Device And Location Verification                     | 02/03/2026, 11:39:28 am   | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=zh_TW)                      |
 | Twitch Affiliate Program Faq                             | 28/02/2026, 11:36:37 am   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                              |
 | Affiliate Onboarding Guide                               | 28/02/2026, 11:36:31 am   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                                |
 | Joining The Affiliate Program                            | 28/02/2026, 11:36:23 am   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)                             |
@@ -27,10 +33,6 @@
 | Why Cant I Chat                                          | 25/02/2026, 6:46:41 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=zh_TW)                                           |
 | Stream Rewind                                            | 23/02/2026, 8:34:08 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=zh_TW)                                             |
 | Authy Faq                                                | 21/02/2026, 0:32:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=zh_TW)                                                 |
-| Managing Your Phone Number                               | 21/02/2026, 0:32:04 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)                                |
-| Creating An Account With Twitch                          | 21/02/2026, 0:31:55 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)                           |
-| New Device And Location Verification                     | 21/02/2026, 0:31:51 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=zh_TW)                      |
-| Twitch Account Access Login Issues Guide                 | 21/02/2026, 0:31:46 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=zh_TW)                  |
 | Disabling Prerolls                                       | 18/02/2026, 10:38:56 am   | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=zh_TW)                                        |
 | How To Use Raids                                         | 18/02/2026, 10:38:04 am   | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=zh_TW)                                          |
 | Past Behavior And Account Standing                       | 18/02/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=zh_TW)                        |
@@ -57,7 +59,6 @@
 | How To Use Automod                                       | 11/02/2026, 2:01:06 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=zh_TW)                                        |
 | Mod View                                                 | 11/02/2026, 1:58:27 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                                  |
 | Partner Onboarding Guide                                 | 11/02/2026, 0:53:58 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=zh_TW)                                  |
-| Failed Payments                                          | 11/02/2026, 11:05:11 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=zh_TW)                                           |
 
 
 
@@ -313,6 +314,16 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Phone Number Reuse                  | 02/03/2026, 11:39:38 am   | [Link](https://help.twitch.tv/s/article/phone-number-reuse?language=zh_TW)                   |
+| About Bans Blocking And Suspensions | 25/02/2026, 6:47:05 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=zh_TW)  |
 
 
 
