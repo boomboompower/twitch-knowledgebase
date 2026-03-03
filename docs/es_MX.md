@@ -6,12 +6,12 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Streamer Benefits                                        | 03/03/2026, 8:09:42 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                                         |
 | Subscriptions On Mobile                                  | 28/02/2026, 1:15:45 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=es_MX)                                   |
 | Refunds On Twitch                                        | 28/02/2026, 1:15:41 pm    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es_MX)                                         |
 | Twitch Affiliate Program Faq                             | 28/02/2026, 11:36:37 am   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                              |
 | Affiliate Onboarding Guide                               | 28/02/2026, 11:36:31 am   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                                |
 | Joining The Affiliate Program                            | 28/02/2026, 11:36:23 am   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                             |
-| Streamer Benefits                                        | 28/02/2026, 11:36:17 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                                         |
 | Local Subscription Pricing                               | 28/02/2026, 7:16:51 am    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=es_MX)                                |
 | Payout Details Faq                                       | 28/02/2026, 7:14:36 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es_MX)                                        |
 | Simulcasting Guidelines                                  | 26/02/2026, 11:43:48 am   | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=es_MX)                                   |
@@ -58,7 +58,6 @@
 | Creator Dashboard                                        | 11/02/2026, 2:01:15 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=es_MX)                                         |
 | How To Use Automod                                       | 11/02/2026, 2:01:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es_MX)                                        |
 | Mod View                                                 | 11/02/2026, 1:58:27 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=es_MX)                                                  |
-| Partner Onboarding Guide                                 | 11/02/2026, 0:53:48 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es_MX)                                  |
 
 
 

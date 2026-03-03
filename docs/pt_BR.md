@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Streamer Benefits                                        | 03/03/2026, 8:09:54 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=pt_BR)                                         |
 | Refunds On Twitch                                        | 02/03/2026, 11:57:50 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=pt_BR)                                         |
 | Subscriptions On Mobile                                  | 02/03/2026, 11:57:47 am   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=pt_BR)                                   |
 | Playback Issue Troubleshooting                           | 01/03/2026, 5:00:14 pm    | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=pt_BR)                            |
@@ -16,7 +17,6 @@
 | Twitch Affiliate Program Faq                             | 28/02/2026, 11:36:37 am   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_BR)                              |
 | Affiliate Onboarding Guide                               | 28/02/2026, 11:36:31 am   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pt_BR)                                |
 | Joining The Affiliate Program                            | 28/02/2026, 11:36:23 am   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                             |
-| Streamer Benefits                                        | 28/02/2026, 11:36:17 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=pt_BR)                                         |
 | Local Subscription Pricing                               | 28/02/2026, 7:16:51 am    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=pt_BR)                                |
 | Payout Details Faq                                       | 28/02/2026, 7:14:36 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=pt_BR)                                        |
 | New Device And Location Verification                     | 27/02/2026, 3:58:43 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=pt_BR)                      |

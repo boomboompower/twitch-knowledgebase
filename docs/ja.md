@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Playback Issue Troubleshooting                           | 03/03/2026, 0:27:48 pm    | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=ja)                            |
+| Streamer Benefits                                        | 03/03/2026, 8:09:45 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                                         |
 | Managing Your Phone Number                               | 02/03/2026, 11:58:32 am   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ja)                                |
 | Not Receiving Sms                                        | 02/03/2026, 11:58:31 am   | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=ja)                                         |
 | Twitch Account Access Login Issues Guide                 | 02/03/2026, 11:58:29 am   | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=ja)                  |
@@ -15,7 +17,6 @@
 | Twitch Affiliate Program Faq                             | 28/02/2026, 11:36:37 am   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                              |
 | Affiliate Onboarding Guide                               | 28/02/2026, 11:36:31 am   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ja)                                |
 | Joining The Affiliate Program                            | 28/02/2026, 11:36:23 am   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ja)                             |
-| Streamer Benefits                                        | 28/02/2026, 11:36:17 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                                         |
 | Subscriptions On Mobile                                  | 28/02/2026, 9:30:29 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ja)                                   |
 | Refunds On Twitch                                        | 28/02/2026, 9:30:18 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ja)                                         |
 | Local Subscription Pricing                               | 28/02/2026, 7:16:51 am    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=ja)                                |
@@ -58,7 +59,6 @@
 | Creator Dashboard                                        | 11/02/2026, 2:01:16 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=ja)                                         |
 | How To Use Automod                                       | 11/02/2026, 2:01:06 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ja)                                        |
 | Mod View                                                 | 11/02/2026, 1:58:27 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                                  |
-| Partner Onboarding Guide                                 | 11/02/2026, 0:54:05 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ja)                                  |
 
 
 
