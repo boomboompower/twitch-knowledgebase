@@ -6,7 +6,7 @@
 
 | Name                            | Last Updated (dd/mm/yyyy) | Link                                                                                  |
 |---------------------------------|---------------------------|---------------------------------------------------------------------------------------|
-| Creating An Account With Twitch | 21/02/2026, 0:31:55 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fi)  |
+| Creating An Account With Twitch | 03/03/2026, 3:02:15 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fi)  |
 | How To Use Raids                | 18/02/2026, 10:38:02 am   | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=fi)                 |
 | Account Hacked                  | 11/02/2026, 3:50:32 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=fi)                   |
 

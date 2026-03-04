@@ -6,13 +6,14 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Playback Issue Troubleshooting                           | 03/03/2026, 11:56:48 pm   | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=es)                            |
+| Mission Based Drops                                      | 03/03/2026, 3:54:53 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es)                                       |
+| Not Receiving Sms                                        | 03/03/2026, 3:03:20 pm    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=es)                                         |
+| New Device And Location Verification                     | 03/03/2026, 3:03:12 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es)                      |
+| Twitch Account Access Login Issues Guide                 | 03/03/2026, 3:02:32 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=es)                  |
+| Creating An Account With Twitch                          | 03/03/2026, 3:02:15 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es)                           |
+| Managing Your Phone Number                               | 03/03/2026, 3:01:58 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es)                                |
 | Streamer Benefits                                        | 03/03/2026, 8:09:39 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es)                                         |
-| Creating An Account With Twitch                          | 03/03/2026, 0:54:45 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es)                           |
-| New Device And Location Verification                     | 03/03/2026, 0:54:41 am    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es)                      |
-| Phone Number Reuse                                       | 03/03/2026, 0:54:37 am    | [Link](https://help.twitch.tv/s/article/phone-number-reuse?language=es)                                        |
-| Not Receiving Sms                                        | 03/03/2026, 0:51:37 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=es)                                         |
-| Managing Your Phone Number                               | 03/03/2026, 0:51:34 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es)                                |
-| Twitch Account Access Login Issues Guide                 | 03/03/2026, 0:51:34 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=es)                  |
 | Twitch Affiliate Program Faq                             | 28/02/2026, 11:36:37 am   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                              |
 | Affiliate Onboarding Guide                               | 28/02/2026, 11:36:31 am   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es)                                |
 | Joining The Affiliate Program                            | 28/02/2026, 11:36:23 am   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es)                             |
@@ -36,7 +37,6 @@
 | Disabling Prerolls                                       | 18/02/2026, 10:38:55 am   | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=es)                                        |
 | How To Use Raids                                         | 18/02/2026, 10:38:03 am   | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=es)                                          |
 | Past Behavior And Account Standing                       | 18/02/2026, 9:22:19 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es)                        |
-| Mission Based Drops                                      | 18/02/2026, 9:18:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es)                                       |
 | Twitch Teams                                             | 18/02/2026, 9:11:13 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=es)                                              |
 | How To Sub Only Archives                                 | 18/02/2026, 9:10:03 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es)                                  |
 | Creator Goals                                            | 18/02/2026, 9:08:06 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=es)                                             |
@@ -58,6 +58,7 @@
 | Dmca And Copyright Faqs                                  | 11/02/2026, 2:59:08 pm    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=es)                                   |
 | How To Use Automod                                       | 11/02/2026, 2:01:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es)                                        |
 | Mod View                                                 | 11/02/2026, 1:58:27 pm    | [Link](https://help.twitch.tv/s/article/mod-view?language=es)                                                  |
+| Partner Onboarding Guide                                 | 11/02/2026, 0:53:55 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                                  |
 
 
 
@@ -323,9 +324,17 @@
 
 | Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
 |-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| Streamer Benefits                   | 03/03/2026, 8:09:39 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es)                    |
 | Phone Number Reuse                  | 03/03/2026, 0:54:37 am    | [Link](https://help.twitch.tv/s/article/phone-number-reuse?language=es)                   |
 | Why Cant I Stream                   | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=es)                    |
 | About Bans Blocking And Suspensions | 25/02/2026, 6:47:04 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=es)  |
+| Why Cant I Chat                     | 25/02/2026, 6:46:40 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=es)                      |
+| Stream Rewind                       | 24/02/2026, 10:48:31 pm   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es)                        |
+| Past Behavior And Account Standing  | 18/02/2026, 9:22:19 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es)   |
+| Auto Clips                          | 17/02/2026, 0:53:38 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es)                           |
+| Link Amazon Twitch Accounts         | 16/02/2026, 9:40:53 pm    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=es)          |
+| About Twitch Categories             | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=es)              |
+| Code Based Drops Rewards            | 11/02/2026, 9:09:48 pm    | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=es)             |
 
 
 
