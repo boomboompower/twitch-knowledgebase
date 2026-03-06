@@ -8,7 +8,6 @@
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
 | Updating Payment Information Transaction History | 25/02/2026, 10:29:30 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=sv)  |
 | Authy Faq                                        | 21/02/2026, 0:32:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=sv)                                         |
-| Account Hacked                                   | 11/02/2026, 3:50:32 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=sv)                                    |
 
 
 

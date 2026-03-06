@@ -6,9 +6,8 @@
 
 | Name                            | Last Updated (dd/mm/yyyy) | Link                                                                                  |
 |---------------------------------|---------------------------|---------------------------------------------------------------------------------------|
+| How To Use Raids                | 06/03/2026, 9:05:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=da)                 |
 | Creating An Account With Twitch | 03/03/2026, 3:02:15 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=da)  |
-| How To Use Raids                | 18/02/2026, 10:38:02 am   | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=da)                 |
-| Account Hacked                  | 11/02/2026, 3:50:32 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=da)                   |
 
 
 
