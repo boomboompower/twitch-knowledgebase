@@ -63,7 +63,6 @@
 | Account Hacked                                           | 17/02/2026, 9:04:50 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=de)                                            |
 | Contacting Purchase Support                              | 17/02/2026, 9:04:47 pm    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=de)                               |
 | Auto Clips                                               | 17/02/2026, 9:03:48 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=de)                                                |
-| Supported Browsers                                       | 16/02/2026, 1:31:14 am    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=de)                                        |
 
 
 
