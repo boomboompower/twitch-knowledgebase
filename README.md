@@ -25,7 +25,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Japanese                      | 07/03/2026, 0:54:41 pm    | 266 article(s) | [View](docs/ja.md)     |
 | Norwegian                     | 07/03/2026, 0:54:40 pm    | 26 article(s)  | [View](docs/no.md)     |
 | Polish                        | 07/03/2026, 0:54:40 pm    | 172 article(s) | [View](docs/pl.md)     |
-| Portuguese (Brazil)           | 07/03/2026, 4:41:39 pm    | 265 article(s) | [View](docs/pt_BR.md)  |
+| Portuguese (Brazil)           | 08/03/2026, 2:52:51 pm    | 265 article(s) | [View](docs/pt_BR.md)  |
 | Portuguese (Portugal)         | 07/03/2026, 0:54:40 pm    | 37 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 11/02/2026, 3:50:32 pm    | 2 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 07/03/2026, 0:54:40 pm    | 172 article(s) | [View](docs/ru.md)     |
