@@ -322,3 +322,13 @@
 
 
 
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Why Cant I Stream                   | 25/02/2026, 6:49:10 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=pt_BR)                    |
+| About Bans Blocking And Suspensions | 25/02/2026, 6:47:05 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=pt_BR)  |
+
+
+

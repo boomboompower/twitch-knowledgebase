@@ -6,7 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Earning Revenue From Bits In Extensions                  | 07/03/2026, 0:54:41 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=ja)                   |
+| Using Bits In Extensions                                 | 10/03/2026, 10:40:06 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=ja)                                  |
+| Earning Revenue From Bits In Extensions                  | 10/03/2026, 10:40:03 am   | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=ja)                   |
 | Mission Based Drops                                      | 06/03/2026, 10:45:23 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                                       |
 | Recover Watch Streaks                                    | 06/03/2026, 9:11:38 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=ja)                                     |
 | How To Add Stream Delay                                  | 06/03/2026, 9:11:31 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=ja)                                   |
@@ -320,6 +321,17 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)      |
 | Markdown Basics                            | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
+|-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| Using Bits In Extensions            | 10/03/2026, 10:40:06 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=ja)             |
+| Why Cant I Stream                   | 25/02/2026, 6:49:10 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=ja)                    |
+| About Bans Blocking And Suspensions | 25/02/2026, 6:47:05 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=ja)  |
 
 
 

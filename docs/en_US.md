@@ -60,7 +60,6 @@
 | Past Behavior And Account Standing                       | 18/02/2026, 9:22:19 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=en_US)                        |
 | Twitch Teams                                             | 18/02/2026, 9:11:13 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=en_US)                                              |
 | How To Sub Only Archives                                 | 18/02/2026, 9:10:02 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=en_US)                                  |
-| Creator Goals                                            | 18/02/2026, 9:08:04 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=en_US)                                             |
 
 
 
@@ -367,6 +366,18 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)      |
 | Markdown Basics                            | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Using Bits In Extensions            | 07/03/2026, 0:52:31 pm    | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=en_US)             |
+| Why Cant I Stream                   | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=en_US)                    |
+| About Bans Blocking And Suspensions | 25/02/2026, 6:47:04 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=en_US)  |
+| Why Cant I Chat                     | 25/02/2026, 6:46:40 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=en_US)                      |
 
 
 

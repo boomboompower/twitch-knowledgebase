@@ -59,11 +59,6 @@
 | Past Behavior And Account Standing                       | 18/02/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=zh_TW)                        |
 | Twitch Teams                                             | 18/02/2026, 9:11:15 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=zh_TW)                                              |
 | How To Sub Only Archives                                 | 18/02/2026, 9:10:03 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=zh_TW)                                  |
-| Creator Goals                                            | 18/02/2026, 9:08:07 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                                             |
-| Channel Points Faq                                       | 18/02/2026, 2:41:03 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=zh_TW)                                        |
-| Account Hacked                                           | 18/02/2026, 2:39:31 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=zh_TW)                                            |
-| Contacting Purchase Support                              | 18/02/2026, 2:39:29 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=zh_TW)                               |
-| Auto Clips                                               | 18/02/2026, 2:37:19 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                                |
 
 
 
@@ -319,6 +314,16 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Why Cant I Stream                   | 25/02/2026, 6:49:10 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=zh_TW)                    |
+| About Bans Blocking And Suspensions | 25/02/2026, 6:47:05 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=zh_TW)  |
 
 
 

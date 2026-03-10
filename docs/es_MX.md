@@ -6,7 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Earning Revenue From Bits In Extensions                  | 07/03/2026, 0:54:40 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=es_MX)                   |
+| Earning Revenue From Bits In Extensions                  | 10/03/2026, 10:51:39 am   | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=es_MX)                   |
+| Using Bits In Extensions                                 | 10/03/2026, 10:51:38 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=es_MX)                                  |
 | Mission Based Drops                                      | 06/03/2026, 10:45:23 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                                       |
 | Recover Watch Streaks                                    | 06/03/2026, 9:11:38 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                                     |
 | How To Add Stream Delay                                  | 06/03/2026, 9:11:30 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=es_MX)                                   |
@@ -59,7 +60,6 @@
 | Past Behavior And Account Standing                       | 18/02/2026, 9:22:19 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es_MX)                        |
 | Twitch Teams                                             | 18/02/2026, 9:11:14 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=es_MX)                                              |
 | How To Sub Only Archives                                 | 18/02/2026, 9:10:03 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es_MX)                                  |
-| Creator Goals                                            | 18/02/2026, 9:08:04 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=es_MX)                                             |
 
 
 
@@ -319,6 +319,17 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Using Bits In Extensions            | 10/03/2026, 10:51:38 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=es_MX)             |
+| Why Cant I Stream                   | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=es_MX)                    |
+| About Bans Blocking And Suspensions | 25/02/2026, 6:47:04 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=es_MX)  |
 
 
 
