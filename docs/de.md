@@ -59,6 +59,10 @@
 | Past Behavior And Account Standing                       | 18/02/2026, 9:22:19 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=de)                        |
 | Twitch Teams                                             | 18/02/2026, 9:11:14 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=de)                                              |
 | How To Sub Only Archives                                 | 18/02/2026, 9:10:02 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=de)                                  |
+| Creator Goals                                            | 18/02/2026, 9:08:06 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=de)                                             |
+| Channel Points Faq                                       | 17/02/2026, 9:06:33 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=de)                                        |
+| Account Hacked                                           | 17/02/2026, 9:04:50 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=de)                                            |
+| Contacting Purchase Support                              | 17/02/2026, 9:04:47 pm    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=de)                               |
 
 
 

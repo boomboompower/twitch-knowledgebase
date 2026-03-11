@@ -6,6 +6,11 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| New Device And Location Verification                     | 10/03/2026, 0:04:59 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=zh_TW)                      |
+| Managing Your Phone Number                               | 10/03/2026, 0:04:56 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)                                |
+| Not Receiving Sms                                        | 10/03/2026, 0:04:53 pm    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=zh_TW)                                         |
+| Twitch Account Access Login Issues Guide                 | 10/03/2026, 0:04:49 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=zh_TW)                  |
+| Creating An Account With Twitch                          | 10/03/2026, 0:04:49 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)                           |
 | Earning Revenue From Bits In Extensions                  | 07/03/2026, 0:54:42 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=zh_TW)                   |
 | Twitch Affiliate Program Faq                             | 06/03/2026, 9:28:39 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                              |
 | Affiliate Onboarding Guide                               | 06/03/2026, 9:28:36 pm    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                                |
@@ -33,11 +38,6 @@
 | Dac7 Interview                                           | 06/03/2026, 9:05:21 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=zh_TW)                                            |
 | Refunds On Twitch                                        | 04/03/2026, 7:57:49 pm    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=zh_TW)                                         |
 | Subscriptions On Mobile                                  | 04/03/2026, 7:57:47 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=zh_TW)                                   |
-| Not Receiving Sms                                        | 03/03/2026, 3:03:20 pm    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=zh_TW)                                         |
-| New Device And Location Verification                     | 03/03/2026, 3:03:12 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=zh_TW)                      |
-| Twitch Account Access Login Issues Guide                 | 03/03/2026, 3:02:32 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=zh_TW)                  |
-| Creating An Account With Twitch                          | 03/03/2026, 3:02:15 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)                           |
-| Managing Your Phone Number                               | 03/03/2026, 3:01:58 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)                                |
 | Playback Issue Troubleshooting                           | 03/03/2026, 10:09:45 am   | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=zh_TW)                            |
 | Streamer Benefits                                        | 03/03/2026, 8:09:48 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)                                         |
 | Local Subscription Pricing                               | 28/02/2026, 7:16:52 am    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=zh_TW)                                |
@@ -59,6 +59,11 @@
 | Past Behavior And Account Standing                       | 18/02/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=zh_TW)                        |
 | Twitch Teams                                             | 18/02/2026, 9:11:15 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=zh_TW)                                              |
 | How To Sub Only Archives                                 | 18/02/2026, 9:10:03 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=zh_TW)                                  |
+| Creator Goals                                            | 18/02/2026, 9:08:07 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                                             |
+| Channel Points Faq                                       | 18/02/2026, 2:41:03 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=zh_TW)                                        |
+| Account Hacked                                           | 18/02/2026, 2:39:31 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=zh_TW)                                            |
+| Contacting Purchase Support                              | 18/02/2026, 2:39:29 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=zh_TW)                               |
+| Auto Clips                                               | 18/02/2026, 2:37:19 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                                |
 
 
 
