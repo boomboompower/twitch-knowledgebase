@@ -4,63 +4,55 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
-|----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Earning Revenue From Bits In Extensions                  | 10/03/2026, 10:51:39 am   | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=es_MX)                   |
-| Using Bits In Extensions                                 | 10/03/2026, 10:51:38 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=es_MX)                                  |
-| Mission Based Drops                                      | 06/03/2026, 10:45:23 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                                       |
-| Recover Watch Streaks                                    | 06/03/2026, 9:11:38 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                                     |
-| How To Add Stream Delay                                  | 06/03/2026, 9:11:30 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=es_MX)                                   |
-| Games Irl And Music Directories                          | 06/03/2026, 9:11:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=es_MX)                           |
-| Experiments                                              | 06/03/2026, 9:11:10 am    | [Link](https://help.twitch.tv/s/article/experiments?language=es_MX)                                               |
-| Dual Format Vertical Video                               | 06/03/2026, 9:11:01 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                                |
-| Broadcasting Guidelines                                  | 06/03/2026, 9:10:49 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=es_MX)                                   |
-| Minimum Payout Threshold Countries                       | 06/03/2026, 9:10:28 am    | [Link](https://help.twitch.tv/s/article/minimum-payout-threshold-countries?language=es_MX)                        |
-| Minimum Payout Threshold                                 | 06/03/2026, 9:10:18 am    | [Link](https://help.twitch.tv/s/article/minimum-payout-threshold?language=es_MX)                                  |
-| Twitch Research Surveys                                  | 06/03/2026, 9:09:39 am    | [Link](https://help.twitch.tv/s/article/twitch-research-surveys?language=es_MX)                                   |
-| Dj Secondary                                             | 06/03/2026, 9:09:13 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=es_MX)                                              |
-| Payout Balance Faq                                       | 06/03/2026, 9:09:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=es_MX)                                        |
-| Partner Settings Guide                                   | 06/03/2026, 9:08:53 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=es_MX)                                    |
-| How To Provide Feedback                                  | 06/03/2026, 9:08:39 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=es_MX)                                   |
-| Dj Opt Out                                               | 06/03/2026, 9:08:26 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=es_MX)                                                |
-| How To Contact Support                                   | 06/03/2026, 9:08:00 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=es_MX)                                    |
-| Date Of Birth Changes                                    | 06/03/2026, 9:07:26 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                                     |
-| Contacting Partner Help                                  | 06/03/2026, 9:06:40 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=es_MX)                                   |
-| How To Use Raids                                         | 06/03/2026, 9:05:45 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=es_MX)                                          |
-| Emote Analytics                                          | 06/03/2026, 9:05:37 am    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=es_MX)                                           |
-| Dac7 Interview                                           | 06/03/2026, 9:05:20 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=es_MX)                                            |
-| Affiliate Onboarding Guide                               | 04/03/2026, 2:07:20 pm    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                                |
-| Joining The Affiliate Program                            | 04/03/2026, 2:07:16 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                             |
-| Twitch Affiliate Program Faq                             | 04/03/2026, 2:07:14 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                              |
-| Creating An Account With Twitch                          | 04/03/2026, 0:10:55 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)                           |
-| New Device And Location Verification                     | 04/03/2026, 0:10:51 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es_MX)                      |
-| Managing Your Phone Number                               | 04/03/2026, 0:10:48 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es_MX)                                |
-| Twitch Account Access Login Issues Guide                 | 04/03/2026, 0:10:46 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=es_MX)                  |
-| Not Receiving Sms                                        | 04/03/2026, 0:10:45 pm    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=es_MX)                                         |
-| Streamer Benefits                                        | 03/03/2026, 8:09:42 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                                         |
-| Subscriptions On Mobile                                  | 28/02/2026, 1:15:45 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=es_MX)                                   |
-| Refunds On Twitch                                        | 28/02/2026, 1:15:41 pm    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es_MX)                                         |
-| Local Subscription Pricing                               | 28/02/2026, 7:16:51 am    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=es_MX)                                |
-| Payout Details Faq                                       | 28/02/2026, 7:14:36 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es_MX)                                        |
-| Simulcasting Guidelines                                  | 26/02/2026, 11:43:48 am   | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=es_MX)                                   |
-| Playback Issue Troubleshooting                           | 26/02/2026, 5:32:33 am    | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=es_MX)                            |
-| Authy Faq                                                | 25/02/2026, 3:33:04 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=es_MX)                                                 |
-| How To File A Video Playback Issue                       | 25/02/2026, 0:32:17 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=es_MX)                        |
-| Locating Your Twitch Invoice Number                      | 25/02/2026, 10:29:56 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=es_MX)                       |
-| Updating Payment Information Transaction History         | 25/02/2026, 10:29:31 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=es_MX)          |
-| Why Cant I Stream                                        | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=es_MX)                                         |
-| Ban Evasion                                              | 25/02/2026, 6:49:04 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=es_MX)                                               |
-| Chat Verification Settings                               | 25/02/2026, 6:48:33 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=es_MX)                                |
-| How To Use Whispers                                      | 25/02/2026, 6:48:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=es_MX)                                       |
-| About Bans Blocking And Suspensions                      | 25/02/2026, 6:47:04 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=es_MX)                       |
-| About Account Suspensions Dmca Suspensions And Chat Bans | 25/02/2026, 6:46:47 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=es_MX)  |
-| Why Cant I Chat                                          | 25/02/2026, 6:46:41 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=es_MX)                                           |
-| Stream Rewind                                            | 21/02/2026, 0:04:38 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es_MX)                                             |
-| Disabling Prerolls                                       | 18/02/2026, 10:38:53 am   | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=es_MX)                                        |
-| Past Behavior And Account Standing                       | 18/02/2026, 9:22:19 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es_MX)                        |
-| Twitch Teams                                             | 18/02/2026, 9:11:14 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=es_MX)                                              |
-| How To Sub Only Archives                                 | 18/02/2026, 9:10:03 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es_MX)                                  |
-| Creator Goals                                            | 18/02/2026, 9:08:04 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=es_MX)                                             |
+| Name                                     | Last Updated (dd/mm/yyyy) | Link                                                                                              |
+|------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Two Factor Authentication                | 12/03/2026, 9:00:16 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es_MX)                 |
+| Your First Payout Walkthrough            | 12/03/2026, 8:59:29 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=es_MX)             |
+| Partner Onboarding Guide                 | 12/03/2026, 8:59:19 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es_MX)                  |
+| Affiliate Onboarding Guide               | 12/03/2026, 8:59:08 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                |
+| Guide To Closed Captions                 | 12/03/2026, 8:50:10 am    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=es_MX)                  |
+| Ban Evasion                              | 12/03/2026, 5:03:38 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=es_MX)                               |
+| Guide To Tags                            | 12/03/2026, 5:02:44 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=es_MX)                             |
+| Bits Price Adjustment                    | 12/03/2026, 4:05:52 am    | [Link](https://help.twitch.tv/s/article/bits-price-adjustment?language=es_MX)                     |
+| Minimum Payout Threshold                 | 12/03/2026, 4:05:35 am    | [Link](https://help.twitch.tv/s/article/minimum-payout-threshold?language=es_MX)                  |
+| Dac7 Interview                           | 12/03/2026, 4:05:28 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=es_MX)                            |
+| Multi Month Subscriptions                | 12/03/2026, 4:05:09 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=es_MX)                 |
+| Payout Balance Faq                       | 12/03/2026, 4:04:49 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=es_MX)                        |
+| Minimum Payout Threshold Countries       | 12/03/2026, 4:04:21 am    | [Link](https://help.twitch.tv/s/article/minimum-payout-threshold-countries?language=es_MX)        |
+| Creator Goals                            | 12/03/2026, 4:03:45 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=es_MX)                             |
+| Partner Program Overview                 | 12/03/2026, 4:03:30 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)                  |
+| Earning Revenue From Bits In Extensions  | 10/03/2026, 10:51:39 am   | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=es_MX)   |
+| Using Bits In Extensions                 | 10/03/2026, 10:51:38 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=es_MX)                  |
+| Mission Based Drops                      | 06/03/2026, 10:45:23 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                       |
+| Recover Watch Streaks                    | 06/03/2026, 9:11:38 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                     |
+| How To Add Stream Delay                  | 06/03/2026, 9:11:30 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=es_MX)                   |
+| Games Irl And Music Directories          | 06/03/2026, 9:11:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=es_MX)           |
+| Experiments                              | 06/03/2026, 9:11:10 am    | [Link](https://help.twitch.tv/s/article/experiments?language=es_MX)                               |
+| Dual Format Vertical Video               | 06/03/2026, 9:11:01 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                |
+| Broadcasting Guidelines                  | 06/03/2026, 9:10:49 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=es_MX)                   |
+| Twitch Research Surveys                  | 06/03/2026, 9:09:39 am    | [Link](https://help.twitch.tv/s/article/twitch-research-surveys?language=es_MX)                   |
+| Dj Secondary                             | 06/03/2026, 9:09:13 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=es_MX)                              |
+| Partner Settings Guide                   | 06/03/2026, 9:08:53 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=es_MX)                    |
+| How To Provide Feedback                  | 06/03/2026, 9:08:39 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=es_MX)                   |
+| Dj Opt Out                               | 06/03/2026, 9:08:26 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=es_MX)                                |
+| How To Contact Support                   | 06/03/2026, 9:08:00 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=es_MX)                    |
+| Date Of Birth Changes                    | 06/03/2026, 9:07:26 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                     |
+| Contacting Partner Help                  | 06/03/2026, 9:06:40 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=es_MX)                   |
+| How To Use Raids                         | 06/03/2026, 9:05:45 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=es_MX)                          |
+| Emote Analytics                          | 06/03/2026, 9:05:37 am    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=es_MX)                           |
+| Joining The Affiliate Program            | 04/03/2026, 2:07:16 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)             |
+| Twitch Affiliate Program Faq             | 04/03/2026, 2:07:14 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)              |
+| Creating An Account With Twitch          | 04/03/2026, 0:10:55 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)           |
+| New Device And Location Verification     | 04/03/2026, 0:10:51 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es_MX)      |
+| Managing Your Phone Number               | 04/03/2026, 0:10:48 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es_MX)                |
+| Twitch Account Access Login Issues Guide | 04/03/2026, 0:10:46 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=es_MX)  |
+| Not Receiving Sms                        | 04/03/2026, 0:10:45 pm    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=es_MX)                         |
+| Streamer Benefits                        | 03/03/2026, 8:09:42 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                         |
+| Subscriptions On Mobile                  | 28/02/2026, 1:15:45 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=es_MX)                   |
+| Refunds On Twitch                        | 28/02/2026, 1:15:41 pm    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es_MX)                         |
+| Local Subscription Pricing               | 28/02/2026, 7:16:51 am    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=es_MX)                |
+| Payout Details Faq                       | 28/02/2026, 7:14:36 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es_MX)                        |
+| Simulcasting Guidelines                  | 26/02/2026, 11:43:48 am   | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=es_MX)                   |
 
 
 
@@ -328,7 +320,23 @@
 
 | Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Your First Payout Walkthrough       | 12/03/2026, 8:59:29 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=es_MX)        |
+| Minimum Payout Threshold            | 12/03/2026, 4:05:35 am    | [Link](https://help.twitch.tv/s/article/minimum-payout-threshold?language=es_MX)             |
+| Dac7 Interview                      | 12/03/2026, 4:05:28 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=es_MX)                       |
+| Payout Balance Faq                  | 12/03/2026, 4:04:49 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=es_MX)                   |
+| Minimum Payout Threshold Countries  | 12/03/2026, 4:04:21 am    | [Link](https://help.twitch.tv/s/article/minimum-payout-threshold-countries?language=es_MX)   |
 | Using Bits In Extensions            | 10/03/2026, 10:51:38 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=es_MX)             |
+| Mission Based Drops                 | 06/03/2026, 10:45:23 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                  |
+| Recover Watch Streaks               | 06/03/2026, 9:11:38 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                |
+| How To Add Stream Delay             | 06/03/2026, 9:11:30 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=es_MX)              |
+| Games Irl And Music Directories     | 06/03/2026, 9:11:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=es_MX)      |
+| Dual Format Vertical Video          | 06/03/2026, 9:11:01 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)           |
+| Dj Secondary                        | 06/03/2026, 9:09:13 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=es_MX)                         |
+| Dj Opt Out                          | 06/03/2026, 9:08:26 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=es_MX)                           |
+| How To Contact Support              | 06/03/2026, 9:08:00 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=es_MX)               |
+| Not Receiving Sms                   | 04/03/2026, 0:10:45 pm    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=es_MX)                    |
+| Streamer Benefits                   | 03/03/2026, 8:09:42 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                    |
+| Payout Details Faq                  | 28/02/2026, 7:14:36 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es_MX)                   |
 | Why Cant I Stream                   | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=es_MX)                    |
 | About Bans Blocking And Suspensions | 25/02/2026, 6:47:04 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=es_MX)  |
 
