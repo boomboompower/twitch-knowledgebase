@@ -6,7 +6,7 @@
 
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                               |
 |----------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------|
-| Gift Subscriptions                           | 12/03/2026, 11:00:11 am   | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=fi)                            |
+| Gift Subscriptions                           | 13/03/2026, 11:03:04 am   | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=fi)                            |
 | Earning Revenue From Bits In Extensions Beta | 07/03/2026, 0:54:40 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=fi)  |
 | How To Use Raids                             | 06/03/2026, 9:05:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=fi)                              |
 | Creating An Account With Twitch              | 03/03/2026, 3:02:15 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fi)               |

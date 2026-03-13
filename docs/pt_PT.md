@@ -6,12 +6,13 @@
 
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                                  |
 |----------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------|
-| Gift Subscriptions                           | 12/03/2026, 11:00:11 am   | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                            |
+| Gift Subscriptions                           | 13/03/2026, 11:03:04 am   | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                            |
 | Two Factor Authentication With Authy         | 12/03/2026, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)          |
 | Earning Revenue From Bits In Extensions Beta | 07/03/2026, 0:54:40 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=pt_PT)  |
 | Partner Help And Contact Information         | 06/03/2026, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/partner-help-and-contact-information?language=pt_PT)          |
 | Twitch Affiliate Program Faq                 | 28/02/2026, 11:36:37 am   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)                  |
 | Joining The Affiliate Program                | 28/02/2026, 11:36:23 am   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)                 |
+| How To Subscribe                             | 25/02/2026, 10:30:39 am   | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                              |
 
 
 
