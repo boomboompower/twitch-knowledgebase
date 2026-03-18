@@ -6,6 +6,8 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Creator Badge Rewards                            | 18/03/2026, 11:48:19 am   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=en_US)                             |
+| Subscriber Badge Guide                           | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=en_US)                            |
 | Two Factor Authentication                        | 12/03/2026, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=en_US)                         |
 | Your First Payout Walkthrough                    | 12/03/2026, 8:59:28 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=en_US)                     |
 | Partner Onboarding Guide                         | 12/03/2026, 8:59:18 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=en_US)                          |
@@ -53,7 +55,6 @@
 | Why Cant I Stream                                | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=en_US)                                 |
 | Suspicious User Controls                         | 25/02/2026, 6:49:03 am    | [Link](https://help.twitch.tv/s/article/suspicious-user-controls?language=en_US)                          |
 | Chat Verification Settings                       | 25/02/2026, 6:48:32 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=en_US)                        |
-| How To Use Whispers                              | 25/02/2026, 6:48:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=en_US)                               |
 
 
 
@@ -367,6 +368,16 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=en_US)      |
 | Markdown Basics                            | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Using Bits In Extensions | 07/03/2026, 0:52:31 pm    | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=en_US)  |
+| Why Cant I Stream        | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=en_US)         |
 
 
 

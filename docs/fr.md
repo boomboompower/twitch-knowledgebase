@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Subscriber Badge Guide                           | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=fr)                            |
 | Earning Revenue From Bits In Extensions          | 12/03/2026, 11:26:36 am   | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=fr)           |
 | Using Bits In Extensions                         | 12/03/2026, 11:26:27 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=fr)                          |
 | Two Factor Authentication                        | 12/03/2026, 9:00:16 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=fr)                         |
@@ -59,8 +60,6 @@
 | Updating Payment Information Transaction History | 25/02/2026, 10:29:31 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=fr)  |
 | Why Cant I Stream                                | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=fr)                                 |
 | Chat Verification Settings                       | 25/02/2026, 6:48:33 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=fr)                        |
-| How To Use Whispers                              | 25/02/2026, 6:48:27 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=fr)                               |
-| About Bans Blocking And Suspensions              | 25/02/2026, 6:47:05 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=fr)               |
 
 
 
@@ -324,6 +323,16 @@
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=fr)      |
 | Smart Notification Setting                 | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=fr)                  |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=fr)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Using Bits In Extensions | 12/03/2026, 11:26:27 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=fr)  |
+| Why Cant I Stream        | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=fr)         |
 
 
 

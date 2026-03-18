@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Subscriber Badge Guide                           | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es)                            |
 | Two Factor Authentication                        | 12/03/2026, 9:00:16 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es)                         |
 | Your First Payout Walkthrough                    | 12/03/2026, 8:59:28 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=es)                     |
 | Partner Onboarding Guide                         | 12/03/2026, 8:59:18 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                          |
@@ -59,7 +60,6 @@
 | Updating Payment Information Transaction History | 25/02/2026, 10:29:31 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=es)  |
 | Why Cant I Stream                                | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=es)                                 |
 | Chat Verification Settings                       | 25/02/2026, 6:48:33 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=es)                        |
-| How To Use Whispers                              | 25/02/2026, 6:48:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=es)                               |
 
 
 
@@ -322,6 +322,16 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es)      |
 | Markdown Basics                            | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Using Bits In Extensions | 12/03/2026, 2:28:46 am    | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=es)  |
+| Why Cant I Stream        | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=es)         |
 
 
 

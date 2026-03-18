@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Subscriber Badge Guide                           | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=pl)                            |
 | Two Factor Authentication                        | 12/03/2026, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=pl)                         |
 | Your First Payout Walkthrough                    | 12/03/2026, 8:59:28 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=pl)                     |
 | Partner Onboarding Guide                         | 12/03/2026, 8:59:18 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pl)                          |

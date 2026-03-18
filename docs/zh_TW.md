@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Subscriber Badge Guide                           | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=zh_TW)                            |
 | Earning Revenue From Bits In Extensions          | 12/03/2026, 0:05:03 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=zh_TW)           |
 | Using Bits In Extensions                         | 12/03/2026, 0:05:02 pm    | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=zh_TW)                          |
 | Two Factor Authentication                        | 12/03/2026, 9:00:17 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=zh_TW)                         |
@@ -58,9 +59,6 @@
 | Locating Your Twitch Invoice Number              | 25/02/2026, 10:29:57 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=zh_TW)               |
 | Updating Payment Information Transaction History | 25/02/2026, 10:29:31 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=zh_TW)  |
 | Why Cant I Stream                                | 25/02/2026, 6:49:10 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=zh_TW)                                 |
-| Chat Verification Settings                       | 25/02/2026, 6:48:32 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=zh_TW)                        |
-| How To Use Whispers                              | 25/02/2026, 6:48:27 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=zh_TW)                               |
-| About Bans Blocking And Suspensions              | 25/02/2026, 6:47:05 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=zh_TW)               |
 
 
 
@@ -323,6 +321,15 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
+|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
+| Using Bits In Extensions | 12/03/2026, 0:05:02 pm    | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=zh_TW)  |
 
 
 
