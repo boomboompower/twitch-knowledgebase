@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Combos                                           | 19/03/2026, 2:48:18 am    | [Link](https://help.twitch.tv/s/article/combos?language=en_US)                                            |
 | Creator Badge Rewards                            | 18/03/2026, 11:48:19 am   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=en_US)                             |
 | Subscriber Badge Guide                           | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=en_US)                            |
 | Two Factor Authentication                        | 12/03/2026, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=en_US)                         |
@@ -54,7 +55,6 @@
 | Updating Payment Information Transaction History | 25/02/2026, 10:29:30 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=en_US)  |
 | Why Cant I Stream                                | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=en_US)                                 |
 | Suspicious User Controls                         | 25/02/2026, 6:49:03 am    | [Link](https://help.twitch.tv/s/article/suspicious-user-controls?language=en_US)                          |
-| Chat Verification Settings                       | 25/02/2026, 6:48:32 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=en_US)                        |
 
 
 

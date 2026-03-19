@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Combos                                           | 19/03/2026, 2:48:18 am    | [Link](https://help.twitch.tv/s/article/combos?language=de)                                            |
 | Subscriber Badge Guide                           | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=de)                            |
 | Using Bits In Extensions                         | 12/03/2026, 9:22:50 pm    | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=de)                          |
 | Earning Revenue From Bits In Extensions          | 12/03/2026, 9:22:48 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=de)           |
@@ -60,7 +61,6 @@
 | Locating Your Twitch Invoice Number              | 25/02/2026, 10:29:56 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=de)               |
 | Updating Payment Information Transaction History | 25/02/2026, 10:29:30 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=de)  |
 | Why Cant I Stream                                | 25/02/2026, 6:49:09 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=de)                                 |
-| Chat Verification Settings                       | 25/02/2026, 6:48:33 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=de)                        |
 
 
 

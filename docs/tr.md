@@ -33,7 +33,6 @@
 | Refunds On Twitch                                | 28/02/2026, 9:30:18 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=tr)                                 |
 | Locating Your Twitch Invoice Number              | 25/02/2026, 10:29:55 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=tr)               |
 | Updating Payment Information Transaction History | 25/02/2026, 10:29:30 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=tr)  |
-| Ban Evasion                                      | 25/02/2026, 6:49:03 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=tr)                                       |
 
 
 

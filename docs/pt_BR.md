@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Combos                                           | 19/03/2026, 2:48:18 am    | [Link](https://help.twitch.tv/s/article/combos?language=pt_BR)                                            |
 | Subscriber Badge Guide                           | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=pt_BR)                            |
 | Two Factor Authentication                        | 12/03/2026, 9:00:16 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=pt_BR)                         |
 | Your First Payout Walkthrough                    | 12/03/2026, 8:59:29 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=pt_BR)                     |
@@ -59,7 +60,6 @@
 | Locating Your Twitch Invoice Number              | 25/02/2026, 10:29:56 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=pt_BR)               |
 | Updating Payment Information Transaction History | 25/02/2026, 10:29:31 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=pt_BR)  |
 | Why Cant I Stream                                | 25/02/2026, 6:49:10 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=pt_BR)                                 |
-| Chat Verification Settings                       | 25/02/2026, 6:48:34 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=pt_BR)                        |
 
 
 
