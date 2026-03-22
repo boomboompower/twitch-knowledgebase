@@ -68,6 +68,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Chat Verification Settings                               | 25/02/2026, 6:48:34 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=pt_BR)                                |
+| How To Use Whispers                                      | 25/02/2026, 6:48:27 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=pt_BR)                                       |
+| About Bans Blocking And Suspensions                      | 25/02/2026, 6:47:05 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=pt_BR)                       |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 25/02/2026, 6:46:48 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_BR)  |
 | Why Cant I Chat                                          | 25/02/2026, 6:46:41 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=pt_BR)                                           |
 | Stream Rewind                                            | 22/02/2026, 3:57:25 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=pt_BR)                                             |
@@ -133,7 +136,6 @@
 | How Subscription Streaks Work                                 | 05/12/2025, 3:03:24 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=pt_BR)                                  |
 | Annual Recap                                                  | 04/12/2025, 1:14:26 pm    | [Link](https://help.twitch.tv/s/article/annual-recap?language=pt_BR)                                                   |
 | Video On Demand                                               | 04/12/2025, 2:52:58 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pt_BR)                                                |
-| Combos                                                        | 23/11/2025, 3:52:13 pm    | [Link](https://help.twitch.tv/s/article/combos?language=pt_BR)                                                         |
 | Emote Guidelines                                              | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=pt_BR)                                               |
 | Children On Twitch                                            | 13/11/2025, 5:09:06 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=pt_BR)                                             |
 | Moderation Analytics                                          | 04/11/2025, 9:04:49 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=pt_BR)                                           |
@@ -163,7 +165,6 @@
 | Twitch Charity Charities                                      | 31/07/2025, 8:18:41 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-charities?language=pt_BR)                                       |
 | Ads Manager                                                   | 31/07/2025, 8:18:23 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=pt_BR)                                                    |
 | Subscriber Emote Guide                                        | 31/07/2025, 8:16:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=pt_BR)                                         |
-| Subscriber Badge Guide                                        | 31/07/2025, 8:15:24 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=pt_BR)                                         |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 31/07/2025, 8:14:47 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pt_BR)  |
 | Twitch Charity                                                | 31/07/2025, 8:13:44 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=pt_BR)                                                 |
 | When Am I Getting Paid                                        | 31/07/2025, 8:13:20 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=pt_BR)                                         |
@@ -321,15 +322,6 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_BR)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=pt_BR)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pt_BR)                             |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Using Bits In Extensions | 11/03/2026, 2:45:44 pm    | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=pt_BR)  |
 
 
 

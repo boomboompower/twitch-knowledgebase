@@ -68,6 +68,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Chat Verification Settings                               | 25/02/2026, 6:48:32 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=zh_TW)                                |
+| How To Use Whispers                                      | 25/02/2026, 6:48:27 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=zh_TW)                                       |
+| About Bans Blocking And Suspensions                      | 25/02/2026, 6:47:05 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=zh_TW)                       |
 | About Account Suspensions Dmca Suspensions And Chat Bans | 25/02/2026, 6:46:48 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=zh_TW)  |
 | Why Cant I Chat                                          | 25/02/2026, 6:46:41 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=zh_TW)                                           |
 | Stream Rewind                                            | 23/02/2026, 8:34:08 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=zh_TW)                                             |
@@ -120,7 +123,6 @@
 | Streamer Read Ads                                        | 13/12/2025, 8:14:58 pm    | [Link](https://help.twitch.tv/s/article/streamer-read-ads?language=zh_TW)                                         |
 | Reactions                                                | 11/12/2025, 11:16:17 am   | [Link](https://help.twitch.tv/s/article/reactions?language=zh_TW)                                                 |
 | Stream Together Troubleshooting Guide                    | 09/12/2025, 3:56:24 am    | [Link](https://help.twitch.tv/s/article/stream-together-troubleshooting-guide?language=zh_TW)                     |
-| Guest Star Getting Started                               | 09/12/2025, 3:54:10 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)                                |
 
 
 
@@ -129,11 +131,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Guest Star Getting Started                                    | 09/12/2025, 3:54:10 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)                                     |
 | How To Upgrade Prime                                          | 05/12/2025, 6:15:31 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=zh_TW)                                           |
 | How Subscription Streaks Work                                 | 05/12/2025, 3:03:16 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=zh_TW)                                  |
 | Video On Demand                                               | 04/12/2025, 1:56:46 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                                |
 | Annual Recap                                                  | 03/12/2025, 8:08:03 pm    | [Link](https://help.twitch.tv/s/article/annual-recap?language=zh_TW)                                                   |
-| Combos                                                        | 27/11/2025, 5:35:54 pm    | [Link](https://help.twitch.tv/s/article/combos?language=zh_TW)                                                         |
 | Emote Guidelines                                              | 18/11/2025, 5:07:41 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=zh_TW)                                               |
 | Children On Twitch                                            | 13/11/2025, 5:09:06 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=zh_TW)                                             |
 | Moderation Analytics                                          | 04/11/2025, 9:04:50 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=zh_TW)                                           |
@@ -165,7 +167,6 @@
 | Twitch Charity Charities                                      | 31/07/2025, 8:18:41 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-charities?language=zh_TW)                                       |
 | Ads Manager                                                   | 31/07/2025, 8:18:23 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=zh_TW)                                                    |
 | Subscriber Emote Guide                                        | 31/07/2025, 8:16:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=zh_TW)                                         |
-| Subscriber Badge Guide                                        | 31/07/2025, 8:15:24 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=zh_TW)                                         |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 31/07/2025, 8:14:47 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=zh_TW)  |
 | Twitch Charity                                                | 31/07/2025, 8:13:45 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=zh_TW)                                                 |
 | When Am I Getting Paid                                        | 31/07/2025, 8:13:20 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=zh_TW)                                         |
@@ -322,15 +323,6 @@
 | Smart Notification Setting                 | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                  |
 | How To Log In To Twitch With One Click     | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=zh_TW)      |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                             |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Using Bits In Extensions | 12/03/2026, 0:05:02 pm    | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=zh_TW)  |
 
 
 

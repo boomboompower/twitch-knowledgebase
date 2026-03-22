@@ -65,8 +65,6 @@
 | Channel Points Predictions                               | 18/12/2025, 5:33:04 am    | [Link](https://help.twitch.tv/s/article/channel-points-predictions?language=tr)                                |
 | Twitch Chat Badges Guide                                 | 18/12/2025, 5:32:51 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=tr)                                  |
 | Delete Twitch Account                                    | 13/12/2025, 11:23:06 am   | [Link](https://help.twitch.tv/s/article/delete-twitch-account?language=tr)                                     |
-| Guest Star Getting Started                               | 09/12/2025, 3:54:11 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=tr)                                |
-| Bounty Board Program Information And Faq                 | 05/12/2025, 0:43:59 pm    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=tr)                  |
 
 
 
@@ -75,6 +73,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Guest Star Getting Started                                    | 09/12/2025, 3:54:11 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=tr)                                     |
+| Bounty Board Program Information And Faq                      | 05/12/2025, 0:43:59 pm    | [Link](https://help.twitch.tv/s/article/bounty-board-program-information-and-faq?language=tr)                       |
 | Video On Demand                                               | 03/12/2025, 1:30:54 pm    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=tr)                                                |
 | Emote Guidelines                                              | 18/11/2025, 5:07:32 am    | [Link](https://help.twitch.tv/s/article/emote-guidelines?language=tr)                                               |
 | Children On Twitch                                            | 13/11/2025, 5:09:04 am    | [Link](https://help.twitch.tv/s/article/children-on-twitch?language=tr)                                             |
@@ -92,7 +92,6 @@
 | Removing Recommendations You Are Not Interested In            | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=tr)             |
 | Ads Manager                                                   | 31/07/2025, 8:18:21 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=tr)                                                    |
 | Subscriber Emote Guide                                        | 31/07/2025, 8:16:14 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=tr)                                         |
-| Subscriber Badge Guide                                        | 31/07/2025, 8:15:22 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=tr)                                         |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 31/07/2025, 8:14:45 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=tr)  |
 | Twitch Charity                                                | 31/07/2025, 8:13:43 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=tr)                                                 |
 | When Am I Getting Paid                                        | 31/07/2025, 8:13:20 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=tr)                                         |
