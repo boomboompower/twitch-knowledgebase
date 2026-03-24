@@ -6,6 +6,7 @@
 
 | Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                          |
 |--------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
+| How To Use Host Mode                 | 24/03/2026, 11:48:05 am   | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=zh_CN)                  |
 | Two Factor Authentication With Authy | 12/03/2026, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=zh_CN)  |
 
 
