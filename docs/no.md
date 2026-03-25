@@ -6,9 +6,9 @@
 
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                               |
 |----------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------|
+| How To Manage Harassment In Chat             | 25/03/2026, 6:37:10 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=no)              |
 | How To Use Host Mode                         | 24/03/2026, 11:48:05 am   | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=no)                          |
 | Gift Subscriptions                           | 24/03/2026, 11:17:37 am   | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=no)                            |
-| How To Manage Harassment In Chat             | 24/03/2026, 3:42:20 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=no)              |
 | Creating An Account With Twitch              | 24/03/2026, 3:41:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=no)               |
 | Two Factor Authentication With Authy         | 12/03/2026, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=no)          |
 | Earning Revenue From Bits In Extensions Beta | 07/03/2026, 0:54:40 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=no)  |

@@ -4,34 +4,33 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                    | Last Updated (dd/mm/yyyy) | Link                                                                                          |
-|-----------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
-| Joining The Affiliate Program           | 24/03/2026, 5:35:30 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ru)            |
-| How To Manage Harassment In Chat        | 24/03/2026, 3:42:20 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ru)         |
-| Creating An Account With Twitch         | 24/03/2026, 3:41:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ru)          |
-| Affiliate Onboarding Guide              | 24/03/2026, 3:41:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ru)               |
-| Mission Based Drops                     | 24/03/2026, 3:40:40 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ru)                      |
-| Subscriber Badge Guide                  | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ru)                   |
-| Two Factor Authentication               | 12/03/2026, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ru)                |
-| Your First Payout Walkthrough           | 12/03/2026, 8:59:28 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=ru)            |
-| Partner Onboarding Guide                | 12/03/2026, 8:59:18 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ru)                 |
-| Guide To Closed Captions                | 12/03/2026, 8:50:08 am    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=ru)                 |
-| Earning Revenue From Bits In Extensions | 07/03/2026, 0:54:40 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=ru)  |
-| Games Irl And Music Directories         | 06/03/2026, 9:11:21 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=ru)          |
-| Experiments                             | 06/03/2026, 9:11:09 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ru)                              |
-| Broadcasting Guidelines                 | 06/03/2026, 9:10:49 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ru)                  |
-| Payout Balance Faq                      | 06/03/2026, 9:09:03 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=ru)                       |
-| Partner Settings Guide                  | 06/03/2026, 9:08:53 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=ru)                   |
-| How To Provide Feedback                 | 06/03/2026, 9:08:37 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=ru)                  |
-| Date Of Birth Changes                   | 06/03/2026, 9:07:25 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ru)                    |
-| Contacting Partner Help                 | 06/03/2026, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=ru)                  |
-| How To Use Raids                        | 06/03/2026, 9:05:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ru)                         |
-| Emote Analytics                         | 06/03/2026, 9:05:35 am    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=ru)                          |
-| New Device And Location Verification    | 03/03/2026, 3:03:12 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=ru)     |
-| Managing Your Phone Number              | 03/03/2026, 3:01:58 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ru)               |
-| Twitch Affiliate Program Faq            | 28/02/2026, 11:36:37 am   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ru)             |
-| Subscriptions On Mobile                 | 28/02/2026, 9:30:29 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ru)                  |
-| Refunds On Twitch                       | 28/02/2026, 9:30:18 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ru)                        |
+| Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
+|-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Setting Up Moderation For Your Twitch Channel | 25/03/2026, 6:38:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=ru)  |
+| Mod View                                      | 25/03/2026, 6:37:42 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=ru)                                       |
+| How To Manage Harassment In Chat              | 25/03/2026, 6:37:10 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ru)               |
+| Joining The Affiliate Program                 | 24/03/2026, 5:35:30 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ru)                  |
+| Creating An Account With Twitch               | 24/03/2026, 3:41:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ru)                |
+| Affiliate Onboarding Guide                    | 24/03/2026, 3:41:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ru)                     |
+| Mission Based Drops                           | 24/03/2026, 3:40:40 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ru)                            |
+| Subscriber Badge Guide                        | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ru)                         |
+| Two Factor Authentication                     | 12/03/2026, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ru)                      |
+| Your First Payout Walkthrough                 | 12/03/2026, 8:59:28 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=ru)                  |
+| Partner Onboarding Guide                      | 12/03/2026, 8:59:18 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ru)                       |
+| Guide To Closed Captions                      | 12/03/2026, 8:50:08 am    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=ru)                       |
+| Earning Revenue From Bits In Extensions       | 07/03/2026, 0:54:40 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=ru)        |
+| Games Irl And Music Directories               | 06/03/2026, 9:11:21 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=ru)                |
+| Experiments                                   | 06/03/2026, 9:11:09 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ru)                                    |
+| Broadcasting Guidelines                       | 06/03/2026, 9:10:49 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ru)                        |
+| Payout Balance Faq                            | 06/03/2026, 9:09:03 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=ru)                             |
+| Partner Settings Guide                        | 06/03/2026, 9:08:53 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=ru)                         |
+| How To Provide Feedback                       | 06/03/2026, 9:08:37 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=ru)                        |
+| Date Of Birth Changes                         | 06/03/2026, 9:07:25 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ru)                          |
+| Contacting Partner Help                       | 06/03/2026, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=ru)                        |
+| How To Use Raids                              | 06/03/2026, 9:05:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ru)                               |
+| Emote Analytics                               | 06/03/2026, 9:05:35 am    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=ru)                                |
+| New Device And Location Verification          | 03/03/2026, 3:03:12 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=ru)           |
+| Managing Your Phone Number                    | 03/03/2026, 3:01:58 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ru)                     |
 
 
 
