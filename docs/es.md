@@ -6,19 +6,20 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Combos                                        | 25/03/2026, 7:19:39 pm    | [Link](https://help.twitch.tv/s/article/combos?language=es)                                         |
+| Dac7 Interview                                | 25/03/2026, 7:14:13 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=es)                                 |
+| Update Logins To Twitch With Facebook         | 25/03/2026, 7:12:33 pm    | [Link](https://help.twitch.tv/s/article/update-logins-to-twitch-with-facebook?language=es)          |
+| Mission Based Drops                           | 25/03/2026, 2:20:16 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es)                            |
 | Streamer Benefits                             | 25/03/2026, 11:37:49 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es)                              |
 | Setting Up Moderation For Your Twitch Channel | 25/03/2026, 6:38:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=es)  |
 | Mod View                                      | 25/03/2026, 6:37:42 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=es)                                       |
 | How To Manage Harassment In Chat              | 25/03/2026, 6:37:10 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es)               |
 | Past Behavior And Account Standing            | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es)             |
-| Dac7 Interview                                | 24/03/2026, 2:14:49 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=es)                                 |
 | How To Change Password                        | 24/03/2026, 11:34:28 am   | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=es)                         |
 | About Discount Gift Subs                      | 24/03/2026, 10:31:29 am   | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=es)                       |
 | Joining The Affiliate Program                 | 24/03/2026, 5:35:30 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es)                  |
 | Creating An Account With Twitch               | 24/03/2026, 3:41:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es)                |
 | Affiliate Onboarding Guide                    | 24/03/2026, 3:41:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es)                     |
-| Mission Based Drops                           | 24/03/2026, 3:40:40 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es)                            |
-| Combos                                        | 19/03/2026, 2:48:18 am    | [Link](https://help.twitch.tv/s/article/combos?language=es)                                         |
 | Subscriber Badge Guide                        | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es)                         |
 | Two Factor Authentication                     | 12/03/2026, 9:00:16 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es)                      |
 | Your First Payout Walkthrough                 | 12/03/2026, 8:59:28 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=es)                  |

@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Mission Based Drops                           | 25/03/2026, 2:20:16 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                            |
 | Streamer Benefits                             | 25/03/2026, 11:37:49 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                              |
 | Setting Up Moderation For Your Twitch Channel | 25/03/2026, 6:38:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=ja)  |
 | Mod View                                      | 25/03/2026, 6:37:42 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                       |
@@ -17,7 +18,6 @@
 | Joining The Affiliate Program                 | 24/03/2026, 5:35:30 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ja)                  |
 | Creating An Account With Twitch               | 24/03/2026, 3:41:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ja)                |
 | Affiliate Onboarding Guide                    | 24/03/2026, 3:41:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ja)                     |
-| Mission Based Drops                           | 24/03/2026, 3:40:40 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                            |
 | Combos                                        | 19/03/2026, 2:48:18 am    | [Link](https://help.twitch.tv/s/article/combos?language=ja)                                         |
 | Subscriber Badge Guide                        | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ja)                         |
 | Two Factor Authentication                     | 12/03/2026, 9:00:16 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ja)                      |

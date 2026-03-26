@@ -6,20 +6,20 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
-| Streamer Benefits                             | 25/03/2026, 11:37:49 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                              |
+| Streamer Benefits                             | 26/03/2026, 5:01:13 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                              |
+| Affiliate Onboarding Guide                    | 26/03/2026, 4:35:34 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                     |
+| Creating An Account With Twitch               | 26/03/2026, 4:35:31 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)                |
+| Joining The Affiliate Program                 | 26/03/2026, 4:35:25 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                  |
+| How To Manage Harassment In Chat              | 26/03/2026, 4:35:20 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es_MX)               |
+| Mission Based Drops                           | 25/03/2026, 2:20:16 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                            |
 | Dac7 Interview                                | 25/03/2026, 8:17:18 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=es_MX)                                 |
 | Update Logins To Twitch With Facebook         | 25/03/2026, 8:12:08 am    | [Link](https://help.twitch.tv/s/article/update-logins-to-twitch-with-facebook?language=es_MX)          |
 | Combos                                        | 25/03/2026, 8:09:32 am    | [Link](https://help.twitch.tv/s/article/combos?language=es_MX)                                         |
 | Setting Up Moderation For Your Twitch Channel | 25/03/2026, 6:38:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=es_MX)  |
 | Mod View                                      | 25/03/2026, 6:37:42 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=es_MX)                                       |
-| How To Manage Harassment In Chat              | 25/03/2026, 6:37:10 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es_MX)               |
 | Past Behavior And Account Standing            | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es_MX)             |
 | How To Change Password                        | 24/03/2026, 11:34:28 am   | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=es_MX)                         |
 | About Discount Gift Subs                      | 24/03/2026, 10:31:29 am   | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=es_MX)                       |
-| Joining The Affiliate Program                 | 24/03/2026, 5:35:30 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                  |
-| Creating An Account With Twitch               | 24/03/2026, 3:41:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)                |
-| Affiliate Onboarding Guide                    | 24/03/2026, 3:41:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                     |
-| Mission Based Drops                           | 24/03/2026, 3:40:40 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                            |
 | Subscriber Badge Guide                        | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es_MX)                         |
 | Two Factor Authentication                     | 12/03/2026, 9:00:16 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es_MX)                      |
 | Your First Payout Walkthrough                 | 12/03/2026, 8:59:29 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=es_MX)                  |

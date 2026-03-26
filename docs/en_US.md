@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Mission Based Drops                           | 25/03/2026, 2:20:16 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                            |
 | Streamer Benefits                             | 25/03/2026, 11:37:49 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=en_US)                              |
 | Setting Up Moderation For Your Twitch Channel | 25/03/2026, 6:38:11 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=en_US)  |
 | Mod View                                      | 25/03/2026, 6:37:42 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=en_US)                                       |
@@ -36,7 +37,6 @@
 | Joining The Affiliate Program                 | 24/03/2026, 5:35:30 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=en_US)                  |
 | Creating An Account With Twitch               | 24/03/2026, 3:41:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=en_US)                |
 | Affiliate Onboarding Guide                    | 24/03/2026, 3:41:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=en_US)                     |
-| Mission Based Drops                           | 24/03/2026, 3:40:40 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                            |
 | Combos                                        | 19/03/2026, 2:48:18 am    | [Link](https://help.twitch.tv/s/article/combos?language=en_US)                                         |
 | Creator Badge Rewards                         | 18/03/2026, 11:48:19 am   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=en_US)                          |
 | Subscriber Badge Guide                        | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=en_US)                         |
@@ -68,7 +68,6 @@
 | Not Receiving Sms                             | 03/03/2026, 3:03:20 pm    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=en_US)                              |
 | New Device And Location Verification          | 03/03/2026, 3:03:12 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=en_US)           |
 | Twitch Account Access Login Issues Guide      | 03/03/2026, 3:02:31 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=en_US)       |
-| Managing Your Phone Number                    | 03/03/2026, 3:01:58 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=en_US)                     |
 
 
 
