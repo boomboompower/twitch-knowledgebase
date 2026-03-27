@@ -30,6 +30,7 @@
 | How To Use Raids                              | 06/03/2026, 9:05:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=pl)                               |
 | Emote Analytics                               | 06/03/2026, 9:05:35 am    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=pl)                                |
 | New Device And Location Verification          | 03/03/2026, 3:03:12 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=pl)           |
+| Managing Your Phone Number                    | 03/03/2026, 3:01:58 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=pl)                     |
 
 
 

@@ -6,20 +6,20 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Streamer Benefits                             | 26/03/2026, 3:23:21 pm    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=pt_BR)                              |
+| Joining The Affiliate Program                 | 26/03/2026, 2:21:09 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                  |
+| Creating An Account With Twitch               | 26/03/2026, 2:21:04 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=pt_BR)                |
+| How To Manage Harassment In Chat              | 26/03/2026, 2:20:59 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_BR)               |
+| Affiliate Onboarding Guide                    | 26/03/2026, 2:20:54 pm    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pt_BR)                     |
 | Update Logins To Twitch With Facebook         | 25/03/2026, 4:10:23 pm    | [Link](https://help.twitch.tv/s/article/update-logins-to-twitch-with-facebook?language=pt_BR)          |
 | Dac7 Interview                                | 25/03/2026, 3:51:50 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=pt_BR)                                 |
 | Combos                                        | 25/03/2026, 3:26:03 pm    | [Link](https://help.twitch.tv/s/article/combos?language=pt_BR)                                         |
 | Mission Based Drops                           | 25/03/2026, 2:20:16 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pt_BR)                            |
-| Streamer Benefits                             | 25/03/2026, 11:37:49 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=pt_BR)                              |
 | Setting Up Moderation For Your Twitch Channel | 25/03/2026, 6:38:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=pt_BR)  |
 | Mod View                                      | 25/03/2026, 6:37:42 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=pt_BR)                                       |
-| How To Manage Harassment In Chat              | 25/03/2026, 6:37:10 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_BR)               |
 | Past Behavior And Account Standing            | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=pt_BR)             |
 | How To Change Password                        | 24/03/2026, 11:34:28 am   | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=pt_BR)                         |
 | About Discount Gift Subs                      | 24/03/2026, 10:31:30 am   | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=pt_BR)                       |
-| Joining The Affiliate Program                 | 24/03/2026, 5:35:30 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                  |
-| Creating An Account With Twitch               | 24/03/2026, 3:41:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=pt_BR)                |
-| Affiliate Onboarding Guide                    | 24/03/2026, 3:41:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pt_BR)                     |
 | Subscriber Badge Guide                        | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=pt_BR)                         |
 | Two Factor Authentication                     | 12/03/2026, 9:00:16 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=pt_BR)                      |
 | Your First Payout Walkthrough                 | 12/03/2026, 8:59:29 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=pt_BR)                  |

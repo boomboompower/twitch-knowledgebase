@@ -68,6 +68,7 @@
 | Not Receiving Sms                             | 03/03/2026, 3:03:20 pm    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=en_US)                              |
 | New Device And Location Verification          | 03/03/2026, 3:03:12 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=en_US)           |
 | Twitch Account Access Login Issues Guide      | 03/03/2026, 3:02:31 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=en_US)       |
+| Managing Your Phone Number                    | 03/03/2026, 3:01:58 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=en_US)                     |
 
 
 
