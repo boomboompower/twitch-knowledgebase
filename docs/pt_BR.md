@@ -6,8 +6,9 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Joining The Affiliate Program                 | 28/03/2026, 9:29:12 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                  |
+| Political Onboarding                          | 28/03/2026, 9:29:09 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=pt_BR)                           |
 | Streamer Benefits                             | 26/03/2026, 3:23:21 pm    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=pt_BR)                              |
-| Joining The Affiliate Program                 | 26/03/2026, 2:21:09 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                  |
 | Creating An Account With Twitch               | 26/03/2026, 2:21:04 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=pt_BR)                |
 | How To Manage Harassment In Chat              | 26/03/2026, 2:20:59 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_BR)               |
 | Affiliate Onboarding Guide                    | 26/03/2026, 2:20:54 pm    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pt_BR)                     |

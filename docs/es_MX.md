@@ -6,10 +6,11 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Joining The Affiliate Program                 | 28/03/2026, 9:29:12 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                  |
+| Political Onboarding                          | 28/03/2026, 9:29:09 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=es_MX)                           |
 | Streamer Benefits                             | 26/03/2026, 5:01:13 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                              |
 | Affiliate Onboarding Guide                    | 26/03/2026, 4:35:34 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                     |
 | Creating An Account With Twitch               | 26/03/2026, 4:35:31 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)                |
-| Joining The Affiliate Program                 | 26/03/2026, 4:35:25 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                  |
 | How To Manage Harassment In Chat              | 26/03/2026, 4:35:20 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es_MX)               |
 | Mission Based Drops                           | 25/03/2026, 2:20:16 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                            |
 | Dac7 Interview                                | 25/03/2026, 8:17:18 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=es_MX)                                 |
