@@ -62,6 +62,7 @@
 | Emote Analytics                               | 06/03/2026, 9:05:36 am    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=de)                                |
 | Refunds On Twitch                             | 05/03/2026, 0:23:43 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=de)                              |
 | Subscriptions On Mobile                       | 05/03/2026, 0:23:40 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=de)                        |
+| Playback Issue Troubleshooting                | 04/03/2026, 0:47:37 am    | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=de)                 |
 
 
 

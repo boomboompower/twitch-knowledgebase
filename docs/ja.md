@@ -59,6 +59,8 @@
 | New Device And Location Verification          | 05/03/2026, 11:48:36 am   | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=ja)           |
 | Not Receiving Sms                             | 05/03/2026, 11:48:35 am   | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=ja)                              |
 | Twitch Affiliate Program Faq                  | 04/03/2026, 5:16:55 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                   |
+| Refunds On Twitch                             | 04/03/2026, 10:26:28 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ja)                              |
+| Subscriptions On Mobile                       | 04/03/2026, 10:26:25 am   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ja)                        |
 
 
 

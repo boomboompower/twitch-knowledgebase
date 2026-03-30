@@ -57,6 +57,7 @@
 | New Device And Location Verification          | 04/03/2026, 0:10:51 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es_MX)           |
 | Managing Your Phone Number                    | 04/03/2026, 0:10:48 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es_MX)                     |
 | Twitch Account Access Login Issues Guide      | 04/03/2026, 0:10:46 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=es_MX)       |
+| Not Receiving Sms                             | 04/03/2026, 0:10:45 pm    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=es_MX)                              |
 
 
 
