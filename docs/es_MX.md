@@ -56,8 +56,6 @@
 | Twitch Affiliate Program Faq                  | 04/03/2026, 2:07:14 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                   |
 | New Device And Location Verification          | 04/03/2026, 0:10:51 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es_MX)           |
 | Managing Your Phone Number                    | 04/03/2026, 0:10:48 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es_MX)                     |
-| Twitch Account Access Login Issues Guide      | 04/03/2026, 0:10:46 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=es_MX)       |
-| Not Receiving Sms                             | 04/03/2026, 0:10:45 pm    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=es_MX)                              |
 
 
 
@@ -324,6 +322,16 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)              |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=es_MX)  |
 | Markdown Basics                        | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
+|------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Past Behavior And Account Standing | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es_MX)  |
+| Using Bits In Extensions           | 10/03/2026, 10:51:38 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=es_MX)            |
 
 
 

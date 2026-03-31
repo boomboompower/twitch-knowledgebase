@@ -6,21 +6,21 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
-| Joining The Affiliate Program                 | 28/03/2026, 9:29:12 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ja)                  |
+| Streamer Benefits                             | 30/03/2026, 2:24:30 pm    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                              |
+| Creating An Account With Twitch               | 30/03/2026, 1:23:26 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ja)                |
+| Affiliate Onboarding Guide                    | 30/03/2026, 1:23:21 pm    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ja)                     |
+| How To Manage Harassment In Chat              | 30/03/2026, 1:23:16 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ja)               |
+| Joining The Affiliate Program                 | 30/03/2026, 1:23:10 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ja)                  |
 | Political Onboarding                          | 28/03/2026, 9:29:09 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=ja)                           |
 | Update Logins To Twitch With Facebook         | 27/03/2026, 10:40:09 pm   | [Link](https://help.twitch.tv/s/article/update-logins-to-twitch-with-facebook?language=ja)          |
 | Dac7 Interview                                | 27/03/2026, 10:36:28 pm   | [Link](https://help.twitch.tv/s/article/dac7-interview?language=ja)                                 |
 | Combos                                        | 27/03/2026, 10:32:53 pm   | [Link](https://help.twitch.tv/s/article/combos?language=ja)                                         |
 | Mission Based Drops                           | 25/03/2026, 2:20:16 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                            |
-| Streamer Benefits                             | 25/03/2026, 11:37:49 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                              |
 | Setting Up Moderation For Your Twitch Channel | 25/03/2026, 6:38:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=ja)  |
 | Mod View                                      | 25/03/2026, 6:37:42 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                       |
-| How To Manage Harassment In Chat              | 25/03/2026, 6:37:10 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ja)               |
 | Past Behavior And Account Standing            | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=ja)             |
 | How To Change Password                        | 24/03/2026, 11:34:28 am   | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=ja)                         |
 | About Discount Gift Subs                      | 24/03/2026, 10:31:30 am   | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=ja)                       |
-| Creating An Account With Twitch               | 24/03/2026, 3:41:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ja)                |
-| Affiliate Onboarding Guide                    | 24/03/2026, 3:41:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ja)                     |
 | Subscriber Badge Guide                        | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ja)                         |
 | Two Factor Authentication                     | 12/03/2026, 9:00:16 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ja)                      |
 | Your First Payout Walkthrough                 | 12/03/2026, 8:59:29 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=ja)                  |
@@ -59,8 +59,6 @@
 | New Device And Location Verification          | 05/03/2026, 11:48:36 am   | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=ja)           |
 | Not Receiving Sms                             | 05/03/2026, 11:48:35 am   | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=ja)                              |
 | Twitch Affiliate Program Faq                  | 04/03/2026, 5:16:55 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                   |
-| Refunds On Twitch                             | 04/03/2026, 10:26:28 am   | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ja)                              |
-| Subscriptions On Mobile                       | 04/03/2026, 10:26:25 am   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ja)                        |
 
 
 
@@ -327,6 +325,16 @@
 | Smart Notification Setting             | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)              |
 | How To Log In To Twitch With One Click | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/how-to-log-in-to-twitch-with-one-click?language=ja)  |
 | Markdown Basics                        | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                         |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                     |
+|------------------------------------|---------------------------|------------------------------------------------------------------------------------------|
+| Past Behavior And Account Standing | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=ja)  |
+| Using Bits In Extensions           | 10/03/2026, 10:40:06 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=ja)            |
 
 
 
