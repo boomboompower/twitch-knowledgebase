@@ -6,6 +6,7 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Mobile Game Broadcasting                      | 01/04/2026, 3:39:19 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=it)                       |
 | How To Manage Harassment In Chat              | 30/03/2026, 6:09:13 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=it)               |
 | Affiliate Onboarding Guide                    | 30/03/2026, 6:09:07 pm    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=it)                     |
 | Creating An Account With Twitch               | 30/03/2026, 6:09:04 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=it)                |
