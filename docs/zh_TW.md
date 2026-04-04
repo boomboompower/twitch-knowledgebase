@@ -6,6 +6,10 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Mobile Game Broadcasting                         | 04/04/2026, 7:46:44 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=zh_TW)                          |
+| Joining The Affiliate Program                    | 04/04/2026, 7:17:04 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)                     |
+| Political Onboarding                             | 04/04/2026, 7:17:03 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=zh_TW)                              |
+| Creator Badge Rewards                            | 03/04/2026, 8:38:03 pm    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=zh_TW)                             |
 | Subscriptions On Mobile                          | 03/04/2026, 0:03:16 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=zh_TW)                           |
 | How To Upgrade Prime                             | 03/04/2026, 0:00:23 pm    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=zh_TW)                              |
 | Mission Based Drops                              | 03/04/2026, 11:09:05 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=zh_TW)                               |
@@ -17,12 +21,9 @@
 | Guest Star Getting Started                       | 03/04/2026, 10:22:07 am   | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)                        |
 | Guide To Using Twitch Inspector                  | 03/04/2026, 10:20:43 am   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=zh_TW)                   |
 | Account Hacked                                   | 03/04/2026, 8:20:51 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=zh_TW)                                    |
-| Mobile Game Broadcasting                         | 01/04/2026, 3:39:19 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=zh_TW)                          |
 | Affiliate Onboarding Guide                       | 30/03/2026, 7:49:18 pm    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                        |
 | How To Manage Harassment In Chat                 | 30/03/2026, 7:49:14 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=zh_TW)                  |
-| Joining The Affiliate Program                    | 30/03/2026, 7:49:04 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)                     |
 | Creating An Account With Twitch                  | 30/03/2026, 7:49:00 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)                   |
-| Political Onboarding                             | 28/03/2026, 9:29:09 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=zh_TW)                              |
 | Streamer Benefits                                | 26/03/2026, 5:20:14 pm    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)                                 |
 | Dac7 Interview                                   | 26/03/2026, 4:57:53 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=zh_TW)                                    |
 | Combos                                           | 26/03/2026, 4:57:47 pm    | [Link](https://help.twitch.tv/s/article/combos?language=zh_TW)                                            |

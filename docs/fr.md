@@ -6,6 +6,9 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Creator Badge Rewards                            | 03/04/2026, 11:43:07 pm   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=fr)                             |
+| Joining The Affiliate Program                    | 03/04/2026, 9:07:00 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=fr)                     |
+| Political Onboarding                             | 03/04/2026, 9:06:53 pm    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=fr)                              |
 | Subscriptions On Mobile                          | 03/04/2026, 0:03:09 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=fr)                           |
 | How To Upgrade Prime                             | 03/04/2026, 0:00:23 pm    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=fr)                              |
 | Mission Based Drops                              | 03/04/2026, 11:09:05 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=fr)                               |
@@ -19,11 +22,9 @@
 | Account Hacked                                   | 03/04/2026, 8:20:51 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=fr)                                    |
 | Mobile Game Broadcasting                         | 03/04/2026, 2:56:24 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=fr)                          |
 | Streamer Benefits                                | 29/03/2026, 1:31:06 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=fr)                                 |
-| Joining The Affiliate Program                    | 29/03/2026, 0:58:24 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=fr)                     |
 | Creating An Account With Twitch                  | 29/03/2026, 0:58:20 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fr)                   |
 | How To Manage Harassment In Chat                 | 29/03/2026, 0:58:10 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fr)                  |
 | Affiliate Onboarding Guide                       | 29/03/2026, 0:58:06 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=fr)                        |
-| Political Onboarding                             | 28/03/2026, 9:29:09 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=fr)                              |
 | Dac7 Interview                                   | 27/03/2026, 8:46:53 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=fr)                                    |
 | Combos                                           | 27/03/2026, 8:44:28 pm    | [Link](https://help.twitch.tv/s/article/combos?language=fr)                                            |
 | Update Logins To Twitch With Facebook            | 27/03/2026, 8:44:25 pm    | [Link](https://help.twitch.tv/s/article/update-logins-to-twitch-with-facebook?language=fr)             |
@@ -56,6 +57,7 @@
 | Games Irl And Music Directories                  | 06/03/2026, 9:11:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=fr)                   |
 | Experiments                                      | 06/03/2026, 9:11:10 am    | [Link](https://help.twitch.tv/s/article/experiments?language=fr)                                       |
 | Broadcasting Guidelines                          | 06/03/2026, 9:10:50 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=fr)                           |
+| Twitch Research Surveys                          | 06/03/2026, 9:09:39 am    | [Link](https://help.twitch.tv/s/article/twitch-research-surveys?language=fr)                           |
 
 
 

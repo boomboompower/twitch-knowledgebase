@@ -6,6 +6,8 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Joining The Affiliate Program                    | 03/04/2026, 9:54:51 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=de)                     |
+| Political Onboarding                             | 03/04/2026, 9:54:49 pm    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=de)                              |
 | Subscriptions On Mobile                          | 03/04/2026, 0:03:12 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=de)                           |
 | How To Upgrade Prime                             | 03/04/2026, 0:00:23 pm    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=de)                              |
 | Creator Badge Rewards                            | 03/04/2026, 11:29:37 am   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=de)                             |
@@ -23,9 +25,7 @@
 | Streamer Benefits                                | 31/03/2026, 0:52:56 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=de)                                 |
 | Creating An Account With Twitch                  | 31/03/2026, 0:25:47 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=de)                   |
 | Affiliate Onboarding Guide                       | 31/03/2026, 0:25:41 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=de)                        |
-| Joining The Affiliate Program                    | 31/03/2026, 0:25:32 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=de)                     |
 | How To Manage Harassment In Chat                 | 31/03/2026, 0:25:27 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=de)                  |
-| Political Onboarding                             | 28/03/2026, 9:29:09 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=de)                              |
 | Dac7 Interview                                   | 27/03/2026, 9:56:53 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=de)                                    |
 | Update Logins To Twitch With Facebook            | 27/03/2026, 9:50:32 pm    | [Link](https://help.twitch.tv/s/article/update-logins-to-twitch-with-facebook?language=de)             |
 | Combos                                           | 27/03/2026, 9:45:39 pm    | [Link](https://help.twitch.tv/s/article/combos?language=de)                                            |

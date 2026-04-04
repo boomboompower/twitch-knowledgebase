@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Creator Badge Rewards                            | 03/04/2026, 1:18:08 pm    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es)                             |
 | Subscriptions On Mobile                          | 03/04/2026, 0:03:19 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=es)                           |
 | How To Upgrade Prime                             | 03/04/2026, 0:00:23 pm    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=es)                              |
 | Mission Based Drops                              | 03/04/2026, 11:09:05 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es)                               |
