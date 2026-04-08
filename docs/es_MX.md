@@ -6,6 +6,10 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Auto Clips                                       | 08/04/2026, 9:12:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                                        |
+| How To Upgrade Prime                             | 07/04/2026, 1:56:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=es_MX)                              |
+| Viewer Custom Power Ups Guide                    | 07/04/2026, 1:09:22 pm    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=es_MX)                     |
+| Power Ups                                        | 07/04/2026, 1:09:22 pm    | [Link](https://help.twitch.tv/s/article/power-ups?language=es_MX)                                         |
 | Updating Payment Information Transaction History | 05/04/2026, 5:53:31 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=es_MX)  |
 | Gift Subscriptions                               | 05/04/2026, 5:53:29 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=es_MX)                                |
 | How To Subscribe                                 | 05/04/2026, 5:53:25 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=es_MX)                                  |
@@ -17,7 +21,6 @@
 | Guide To Using Twitch Inspector                  | 05/04/2026, 5:31:39 am    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=es_MX)                   |
 | Account Hacked                                   | 05/04/2026, 4:32:44 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=es_MX)                                    |
 | Subscriptions On Mobile                          | 03/04/2026, 0:03:22 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=es_MX)                           |
-| How To Upgrade Prime                             | 03/04/2026, 0:00:23 pm    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=es_MX)                              |
 | Mission Based Drops                              | 03/04/2026, 11:09:05 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                               |
 | Mobile Game Broadcasting                         | 02/04/2026, 2:40:28 pm    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=es_MX)                          |
 | Political Onboarding                             | 02/04/2026, 2:21:53 pm    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=es_MX)                              |
@@ -52,7 +55,6 @@
 | Using Bits In Extensions                         | 10/03/2026, 10:51:38 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=es_MX)                          |
 | Recover Watch Streaks                            | 06/03/2026, 9:11:38 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                             |
 | Games Irl And Music Directories                  | 06/03/2026, 9:11:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=es_MX)                   |
-| Experiments                                      | 06/03/2026, 9:11:10 am    | [Link](https://help.twitch.tv/s/article/experiments?language=es_MX)                                       |
 
 
 
@@ -334,6 +336,8 @@
 
 | Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Auto Clips                         | 08/04/2026, 9:12:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                          |
+| Viewer Custom Power Ups Guide      | 07/04/2026, 1:09:22 pm    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=es_MX)       |
 | Creator Badge Rewards              | 02/04/2026, 11:30:58 am   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es_MX)               |
 | Past Behavior And Account Standing | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es_MX)  |
 | Using Bits In Extensions           | 10/03/2026, 10:51:38 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=es_MX)            |

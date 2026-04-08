@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Auto Clips                                       | 08/04/2026, 9:12:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                                        |
 | How To Upgrade Prime                             | 03/04/2026, 0:00:23 pm    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=en_US)                              |
 | Mission Based Drops                              | 03/04/2026, 11:09:05 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                               |
 | Multi Month Subscriptions                        | 03/04/2026, 11:00:38 am   | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=en_US)                         |
@@ -63,7 +64,6 @@
 | Using Bits In Extensions                         | 07/03/2026, 0:52:31 pm    | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=en_US)                          |
 | Recover Watch Streaks                            | 06/03/2026, 9:11:37 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=en_US)                             |
 | Games Irl And Music Directories                  | 06/03/2026, 9:11:21 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=en_US)                   |
-| Experiments                                      | 06/03/2026, 9:11:09 am    | [Link](https://help.twitch.tv/s/article/experiments?language=en_US)                                       |
 
 
 
@@ -392,6 +392,7 @@
 
 | Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Auto Clips                         | 08/04/2026, 9:12:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                          |
 | Dual Format Vertical Video         | 03/04/2026, 10:23:25 am   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)          |
 | Viewer Custom Power Ups Guide      | 03/04/2026, 7:24:56 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=en_US)       |
 | Creator Badge Rewards              | 28/03/2026, 8:49:53 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=en_US)               |

@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Auto Clips                                       | 08/04/2026, 9:12:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=it)                                        |
 | Gift Subscriptions                               | 06/04/2026, 3:47:48 pm    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=it)                                |
 | How To Subscribe                                 | 06/04/2026, 3:47:42 pm    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=it)                                  |
 | Multi Month Subscriptions                        | 06/04/2026, 3:47:38 pm    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=it)                         |
@@ -57,7 +58,6 @@
 | Managing Your Phone Number                       | 06/03/2026, 9:52:08 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=it)                        |
 | Recover Watch Streaks                            | 06/03/2026, 9:11:37 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=it)                             |
 | Games Irl And Music Directories                  | 06/03/2026, 9:11:21 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=it)                   |
-| Experiments                                      | 06/03/2026, 9:11:11 am    | [Link](https://help.twitch.tv/s/article/experiments?language=it)                                       |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Auto Clips                                       | 08/04/2026, 9:12:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=fr)                                        |
 | Account Hacked                                   | 07/04/2026, 9:59:09 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=fr)                                    |
 | Dual Format Vertical Video                       | 07/04/2026, 9:57:05 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                        |
 | Guest Star Getting Started                       | 07/04/2026, 9:57:02 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=fr)                        |
@@ -57,7 +58,6 @@
 | Twitch Affiliate Program Faq                     | 07/03/2026, 0:43:34 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=fr)                      |
 | Recover Watch Streaks                            | 06/03/2026, 9:11:38 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=fr)                             |
 | Games Irl And Music Directories                  | 06/03/2026, 9:11:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=fr)                   |
-| Experiments                                      | 06/03/2026, 9:11:10 am    | [Link](https://help.twitch.tv/s/article/experiments?language=fr)                                       |
 
 
 
@@ -336,6 +336,7 @@
 
 | Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                     |
 |------------------------------------|---------------------------|------------------------------------------------------------------------------------------|
+| Auto Clips                         | 08/04/2026, 9:12:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=fr)                          |
 | Creator Badge Rewards              | 03/04/2026, 11:43:07 pm   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=fr)               |
 | Past Behavior And Account Standing | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=fr)  |
 | Using Bits In Extensions           | 12/03/2026, 11:26:27 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=fr)            |

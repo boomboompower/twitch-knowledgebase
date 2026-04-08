@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Auto Clips                                       | 08/04/2026, 9:12:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                        |
 | Updating Payment Information Transaction History | 07/04/2026, 8:54:51 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=zh_TW)  |
 | Multi Month Subscriptions                        | 07/04/2026, 8:54:49 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=zh_TW)                         |
 | How To Subscribe                                 | 07/04/2026, 8:54:46 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=zh_TW)                                  |

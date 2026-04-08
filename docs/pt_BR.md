@@ -6,6 +6,9 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Viewer Custom Power Ups Guide                    | 08/04/2026, 9:12:43 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=pt_BR)                     |
+| Auto Clips                                       | 08/04/2026, 9:12:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=pt_BR)                                        |
+| How To Upgrade Prime                             | 07/04/2026, 0:04:48 pm    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=pt_BR)                              |
 | Gift Subscriptions                               | 05/04/2026, 10:20:21 am   | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_BR)                                |
 | Multi Month Subscriptions                        | 05/04/2026, 10:20:17 am   | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=pt_BR)                         |
 | Updating Payment Information Transaction History | 05/04/2026, 10:20:17 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=pt_BR)  |
@@ -17,7 +20,6 @@
 | Guest Star Getting Started                       | 04/04/2026, 4:06:34 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=pt_BR)                        |
 | How To Add Stream Delay                          | 04/04/2026, 4:06:33 pm    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=pt_BR)                           |
 | Subscriptions On Mobile                          | 03/04/2026, 0:03:02 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=pt_BR)                           |
-| How To Upgrade Prime                             | 03/04/2026, 0:00:23 pm    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=pt_BR)                              |
 | Creator Badge Rewards                            | 03/04/2026, 11:49:41 am   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=pt_BR)                             |
 | Mission Based Drops                              | 03/04/2026, 11:09:05 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pt_BR)                               |
 | Mobile Game Broadcasting                         | 02/04/2026, 2:51:08 pm    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=pt_BR)                          |
@@ -333,6 +335,7 @@
 
 | Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Viewer Custom Power Ups Guide      | 08/04/2026, 9:12:43 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=pt_BR)       |
 | Creator Badge Rewards              | 03/04/2026, 11:49:41 am   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=pt_BR)               |
 | Past Behavior And Account Standing | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=pt_BR)  |
 | Using Bits In Extensions           | 11/03/2026, 2:45:44 pm    | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=pt_BR)            |
