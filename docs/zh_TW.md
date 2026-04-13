@@ -56,7 +56,6 @@
 | Past Behavior And Account Standing               | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=zh_TW)                |
 | How To Change Password                           | 24/03/2026, 11:34:29 am   | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=zh_TW)                            |
 | About Discount Gift Subs                         | 24/03/2026, 10:31:30 am   | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=zh_TW)                          |
-| Subscriber Badge Guide                           | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=zh_TW)                            |
 
 
 
