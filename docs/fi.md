@@ -11,7 +11,6 @@
 | Recommended Software For Broadcasting | 03/04/2026, 10:25:17 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=fi)  |
 | Account Hacked                        | 03/04/2026, 8:20:51 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=fi)                         |
 | How To Manage Harassment In Chat      | 25/03/2026, 6:37:10 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fi)       |
-| Creating An Account With Twitch       | 24/03/2026, 3:41:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fi)        |
 
 
 

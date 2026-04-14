@@ -12,7 +12,6 @@
 | Account Hacked                        | 03/04/2026, 8:20:51 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=da)                         |
 | How To Manage Harassment In Chat      | 25/03/2026, 6:37:10 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=da)       |
 | How To Use Host Mode                  | 24/03/2026, 11:48:05 am   | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=da)                   |
-| Creating An Account With Twitch       | 24/03/2026, 3:41:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=da)        |
 
 
 
