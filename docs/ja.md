@@ -6,6 +6,8 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Revenue                                          | 15/04/2026, 9:52:24 am    | [Link](https://help.twitch.tv/s/article/revenue?language=ja)                                           |
+| Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                      |
 | Date Of Birth Changes                            | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                             |
 | Twitch Unity Guilds                              | 14/04/2026, 7:31:00 am    | [Link](https://help.twitch.tv/s/article/twitch-unity-guilds?language=ja)                               |
 | Auto Clips                                       | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                                        |
@@ -19,7 +21,6 @@
 | Dj Program Faq                                   | 10/04/2026, 7:51:58 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=ja)                                    |
 | Dj Secondary                                     | 10/04/2026, 7:51:49 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=ja)                                      |
 | Dj Opt Out                                       | 10/04/2026, 7:51:38 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=ja)                                        |
-| Twitch Affiliate Program Faq                     | 10/04/2026, 6:28:39 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                      |
 | Partner Onboarding Guide                         | 10/04/2026, 6:28:28 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ja)                          |
 | Prime Gaming Revenue Guide                       | 10/04/2026, 6:28:17 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                        |
 | Payout Balance Faq                               | 10/04/2026, 6:28:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=ja)                                |

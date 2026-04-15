@@ -6,9 +6,9 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ru)                      |
 | Date Of Birth Changes                            | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ru)                             |
 | Achievements                                     | 10/04/2026, 8:01:37 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ru)                                      |
-| Twitch Affiliate Program Faq                     | 10/04/2026, 6:28:36 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ru)                      |
 | Partner Onboarding Guide                         | 10/04/2026, 6:28:26 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ru)                          |
 | Prime Gaming Revenue Guide                       | 10/04/2026, 6:28:16 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ru)                        |
 | Payout Balance Faq                               | 10/04/2026, 6:28:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=ru)                                |
@@ -30,7 +30,6 @@
 | Setting Up Moderation For Your Twitch Channel    | 25/03/2026, 6:38:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=ru)     |
 | Mod View                                         | 25/03/2026, 6:37:42 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=ru)                                          |
 | How To Manage Harassment In Chat                 | 25/03/2026, 6:37:10 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ru)                  |
-| Creating An Account With Twitch                  | 24/03/2026, 3:41:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ru)                   |
 
 
 

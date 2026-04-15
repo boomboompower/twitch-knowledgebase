@@ -6,8 +6,8 @@
 
 | Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                  | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)                   |
 | Achievements                                  | 10/04/2026, 8:01:37 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                                   |
-| Twitch Affiliate Program Faq                  | 10/04/2026, 6:28:36 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)                   |
 | Twitch Prime Partner Guide                    | 10/04/2026, 6:28:16 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=pt_PT)                     |
 | Gift Subscriptions                            | 03/04/2026, 11:00:08 am   | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                             |
 | How To Subscribe                              | 03/04/2026, 10:57:05 am   | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                               |

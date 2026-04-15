@@ -6,7 +6,9 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
-| Date Of Birth Changes                            | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pt_BR)                             |
+| Revenue                                          | 15/04/2026, 9:52:24 am    | [Link](https://help.twitch.tv/s/article/revenue?language=pt_BR)                                           |
+| Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_BR)                      |
+| Date Of Birth Changes                            | 15/04/2026, 5:50:54 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pt_BR)                             |
 | Twitch Unity Guilds                              | 14/04/2026, 7:31:00 am    | [Link](https://help.twitch.tv/s/article/twitch-unity-guilds?language=pt_BR)                               |
 | Auto Clips                                       | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=pt_BR)                                        |
 | Local Subscription Pricing                       | 11/04/2026, 3:10:32 pm    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=pt_BR)                        |
@@ -19,7 +21,6 @@
 | Dj Program Faq                                   | 10/04/2026, 7:51:58 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=pt_BR)                                    |
 | Dj Secondary                                     | 10/04/2026, 7:51:49 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=pt_BR)                                      |
 | Dj Opt Out                                       | 10/04/2026, 7:51:38 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=pt_BR)                                        |
-| Twitch Affiliate Program Faq                     | 10/04/2026, 6:28:39 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_BR)                      |
 | Partner Onboarding Guide                         | 10/04/2026, 6:28:28 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pt_BR)                          |
 | Prime Gaming Revenue Guide                       | 10/04/2026, 6:28:18 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pt_BR)                        |
 | Payout Balance Faq                               | 10/04/2026, 6:28:06 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=pt_BR)                                |

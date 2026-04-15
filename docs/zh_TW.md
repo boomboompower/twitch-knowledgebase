@@ -6,6 +6,10 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Revenue                                          | 15/04/2026, 9:52:24 am    | [Link](https://help.twitch.tv/s/article/revenue?language=zh_TW)                                           |
+| Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                      |
+| Local Sub Price Countries                        | 14/04/2026, 4:14:51 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                         |
+| Local Subscription Pricing                       | 14/04/2026, 4:14:48 pm    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=zh_TW)                        |
 | Date Of Birth Changes                            | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                             |
 | Twitch Unity Guilds                              | 14/04/2026, 7:31:01 am    | [Link](https://help.twitch.tv/s/article/twitch-unity-guilds?language=zh_TW)                               |
 | Auto Clips                                       | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                        |
@@ -17,7 +21,6 @@
 | Dj Program Faq                                   | 10/04/2026, 7:51:58 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=zh_TW)                                    |
 | Dj Secondary                                     | 10/04/2026, 7:51:49 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=zh_TW)                                      |
 | Dj Opt Out                                       | 10/04/2026, 7:51:38 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=zh_TW)                                        |
-| Twitch Affiliate Program Faq                     | 10/04/2026, 6:28:39 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                      |
 | Partner Onboarding Guide                         | 10/04/2026, 6:28:28 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=zh_TW)                          |
 | Prime Gaming Revenue Guide                       | 10/04/2026, 6:28:18 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                        |
 | Payout Balance Faq                               | 10/04/2026, 6:28:06 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=zh_TW)                                |
@@ -25,8 +28,6 @@
 | Your First Payout Walkthrough                    | 10/04/2026, 6:27:45 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=zh_TW)                     |
 | Payout History Dashboard Guide                   | 10/04/2026, 6:27:33 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=zh_TW)                    |
 | Payout Details Faq                               | 10/04/2026, 6:27:10 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=zh_TW)                                |
-| Local Subscription Pricing                       | 10/04/2026, 5:42:10 am    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=zh_TW)                        |
-| Local Sub Price Countries                        | 10/04/2026, 5:42:01 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                         |
 | How To Upgrade Prime                             | 09/04/2026, 7:24:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=zh_TW)                              |
 | Viewer Custom Power Ups Guide                    | 09/04/2026, 7:05:28 pm    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=zh_TW)                     |
 | Power Ups                                        | 09/04/2026, 7:05:28 pm    | [Link](https://help.twitch.tv/s/article/power-ups?language=zh_TW)                                         |

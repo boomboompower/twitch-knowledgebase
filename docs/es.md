@@ -6,6 +6,10 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Revenue                                          | 15/04/2026, 9:52:24 am    | [Link](https://help.twitch.tv/s/article/revenue?language=es)                                           |
+| Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                      |
+| Local Sub Price Countries                        | 14/04/2026, 5:26:58 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es)                         |
+| Local Subscription Pricing                       | 14/04/2026, 5:26:53 pm    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=es)                        |
 | Date Of Birth Changes                            | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                             |
 | Twitch Unity Guilds                              | 14/04/2026, 7:31:00 am    | [Link](https://help.twitch.tv/s/article/twitch-unity-guilds?language=es)                               |
 | Auto Clips                                       | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es)                                        |
@@ -17,7 +21,6 @@
 | Dj Program Faq                                   | 10/04/2026, 7:51:57 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=es)                                    |
 | Dj Secondary                                     | 10/04/2026, 7:51:49 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=es)                                      |
 | Dj Opt Out                                       | 10/04/2026, 7:51:37 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=es)                                        |
-| Twitch Affiliate Program Faq                     | 10/04/2026, 6:28:39 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                      |
 | Partner Onboarding Guide                         | 10/04/2026, 6:28:28 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                          |
 | Prime Gaming Revenue Guide                       | 10/04/2026, 6:28:17 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=es)                        |
 | Payout Balance Faq                               | 10/04/2026, 6:28:06 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=es)                                |
@@ -25,8 +28,6 @@
 | Your First Payout Walkthrough                    | 10/04/2026, 6:27:44 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=es)                     |
 | Payout History Dashboard Guide                   | 10/04/2026, 6:27:32 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=es)                    |
 | Payout Details Faq                               | 10/04/2026, 6:27:10 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es)                                |
-| Local Subscription Pricing                       | 10/04/2026, 5:42:10 am    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=es)                        |
-| Local Sub Price Countries                        | 10/04/2026, 5:42:01 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es)                         |
 | Viewer Custom Power Ups Guide                    | 09/04/2026, 0:32:38 pm    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=es)                     |
 | Power Ups                                        | 09/04/2026, 0:32:38 pm    | [Link](https://help.twitch.tv/s/article/power-ups?language=es)                                         |
 | How To Upgrade Prime                             | 08/04/2026, 10:20:49 pm   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=es)                              |
@@ -57,7 +58,6 @@
 | Mod View                                         | 25/03/2026, 6:37:42 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=es)                                          |
 | Past Behavior And Account Standing               | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es)                |
 | How To Change Password                           | 24/03/2026, 11:34:28 am   | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=es)                            |
-| About Discount Gift Subs                         | 24/03/2026, 10:31:29 am   | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=es)                          |
 
 
 

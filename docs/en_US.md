@@ -6,6 +6,9 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Revenue                                          | 15/04/2026, 9:52:24 am    | [Link](https://help.twitch.tv/s/article/revenue?language=en_US)                                           |
+| Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                      |
+| Enhanced Broadcasting                            | 15/04/2026, 3:07:03 am    | [Link](https://help.twitch.tv/s/article/enhanced-broadcasting?language=en_US)                             |
 | Date Of Birth Changes                            | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=en_US)                             |
 | Twitch Unity Guilds                              | 14/04/2026, 7:30:59 am    | [Link](https://help.twitch.tv/s/article/twitch-unity-guilds?language=en_US)                               |
 | Auto Clips                                       | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                                        |
@@ -16,7 +19,6 @@
 | Dj Program Faq                                   | 10/04/2026, 7:51:57 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=en_US)                                    |
 | Dj Secondary                                     | 10/04/2026, 7:51:48 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=en_US)                                      |
 | Dj Opt Out                                       | 10/04/2026, 7:51:37 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=en_US)                                        |
-| Twitch Affiliate Program Faq                     | 10/04/2026, 6:28:36 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                      |
 | Partner Onboarding Guide                         | 10/04/2026, 6:28:26 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=en_US)                          |
 | Prime Gaming Revenue Guide                       | 10/04/2026, 6:28:16 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=en_US)                        |
 | Payout Balance Faq                               | 10/04/2026, 6:28:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=en_US)                                |
@@ -63,15 +65,12 @@
 | How To Perform A Traceroute To Twitch            | 24/03/2026, 11:41:53 am   | [Link](https://help.twitch.tv/s/article/how-to-perform-a-traceroute-to-twitch?language=en_US)             |
 | How To Change Password                           | 24/03/2026, 11:34:28 am   | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=en_US)                            |
 | First Time Chatter Highlight                     | 24/03/2026, 11:27:01 am   | [Link](https://help.twitch.tv/s/article/first-time-chatter-highlight?language=en_US)                      |
-| Multiple Encodes                                 | 24/03/2026, 11:23:39 am   | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=en_US)                                  |
 | Shared Hype Train                                | 24/03/2026, 11:16:40 am   | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=en_US)                                 |
 | Chat Basics                                      | 24/03/2026, 10:59:15 am   | [Link](https://help.twitch.tv/s/article/chat-basics?language=en_US)                                       |
 | Cancelling Subscriptions                         | 24/03/2026, 10:48:46 am   | [Link](https://help.twitch.tv/s/article/cancelling-subscriptions?language=en_US)                          |
 | Enroll Spendable Balance                         | 24/03/2026, 10:36:13 am   | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=en_US)                          |
 | Personalized Notification Settings               | 24/03/2026, 10:34:15 am   | [Link](https://help.twitch.tv/s/article/personalized-notification-settings?language=en_US)                |
 | About Discount Gift Subs                         | 24/03/2026, 10:31:29 am   | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=en_US)                          |
-| Update Logins To Twitch With Facebook            | 24/03/2026, 8:36:10 am    | [Link](https://help.twitch.tv/s/article/update-logins-to-twitch-with-facebook?language=en_US)             |
-| Creating An Account With Twitch                  | 24/03/2026, 3:41:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=en_US)                   |
 
 
 

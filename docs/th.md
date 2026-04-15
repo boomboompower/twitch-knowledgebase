@@ -6,9 +6,9 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=th)                      |
 | Date Of Birth Changes                            | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=th)                             |
 | Achievements                                     | 10/04/2026, 8:01:37 am    | [Link](https://help.twitch.tv/s/article/achievements?language=th)                                      |
-| Twitch Affiliate Program Faq                     | 10/04/2026, 6:28:36 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=th)                      |
 | Partner Onboarding Guide                         | 10/04/2026, 6:28:26 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=th)                          |
 | Twitch Prime Revenue Guide                       | 10/04/2026, 6:28:16 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-revenue-guide?language=th)                        |
 | Payout Balance Faq                               | 10/04/2026, 6:28:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=th)                                |
