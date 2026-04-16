@@ -6,9 +6,10 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Date Of Birth Changes                            | 15/04/2026, 3:19:53 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                             |
+| Multiple Encodes                                 | 15/04/2026, 3:17:53 pm    | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=ja)                                  |
 | Revenue                                          | 15/04/2026, 9:52:24 am    | [Link](https://help.twitch.tv/s/article/revenue?language=ja)                                           |
 | Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                      |
-| Date Of Birth Changes                            | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                             |
 | Twitch Unity Guilds                              | 14/04/2026, 7:31:00 am    | [Link](https://help.twitch.tv/s/article/twitch-unity-guilds?language=ja)                               |
 | Auto Clips                                       | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                                        |
 | Local Sub Price Countries                        | 13/04/2026, 8:51:46 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ja)                         |
@@ -58,7 +59,6 @@
 | Mod View                                         | 25/03/2026, 6:37:42 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=ja)                                          |
 | Past Behavior And Account Standing               | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=ja)                |
 | How To Change Password                           | 24/03/2026, 11:34:28 am   | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=ja)                            |
-| About Discount Gift Subs                         | 24/03/2026, 10:31:30 am   | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=ja)                          |
 
 
 

@@ -6,11 +6,12 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Multiple Encodes                                 | 15/04/2026, 9:27:48 pm    | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=es)                                  |
+| Date Of Birth Changes                            | 15/04/2026, 3:37:53 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                             |
 | Revenue                                          | 15/04/2026, 9:52:24 am    | [Link](https://help.twitch.tv/s/article/revenue?language=es)                                           |
 | Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                      |
 | Local Sub Price Countries                        | 14/04/2026, 5:26:58 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es)                         |
 | Local Subscription Pricing                       | 14/04/2026, 5:26:53 pm    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=es)                        |
-| Date Of Birth Changes                            | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                             |
 | Twitch Unity Guilds                              | 14/04/2026, 7:31:00 am    | [Link](https://help.twitch.tv/s/article/twitch-unity-guilds?language=es)                               |
 | Auto Clips                                       | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es)                                        |
 | Channel Points Faq                               | 10/04/2026, 9:23:13 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=es)                                |

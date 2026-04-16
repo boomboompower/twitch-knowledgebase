@@ -6,8 +6,9 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
-| Revenue                                          | 15/04/2026, 9:52:24 am    | [Link](https://help.twitch.tv/s/article/revenue?language=es_MX)                                           |
-| Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                      |
+| Revenue                                          | 16/04/2026, 4:10:58 am    | [Link](https://help.twitch.tv/s/article/revenue?language=es_MX)                                           |
+| Twitch Affiliate Program Faq                     | 16/04/2026, 4:10:47 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                      |
+| Multiple Encodes                                 | 16/04/2026, 3:52:43 am    | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=es_MX)                                  |
 | Date Of Birth Changes                            | 15/04/2026, 4:00:24 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                             |
 | Twitch Unity Guilds                              | 14/04/2026, 7:31:00 am    | [Link](https://help.twitch.tv/s/article/twitch-unity-guilds?language=es_MX)                               |
 | Auto Clips                                       | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                                        |

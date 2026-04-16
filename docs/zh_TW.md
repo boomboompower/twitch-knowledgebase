@@ -6,11 +6,11 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Date Of Birth Changes                            | 15/04/2026, 4:41:19 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                             |
 | Revenue                                          | 15/04/2026, 9:52:24 am    | [Link](https://help.twitch.tv/s/article/revenue?language=zh_TW)                                           |
 | Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                      |
 | Local Sub Price Countries                        | 14/04/2026, 4:14:51 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                         |
 | Local Subscription Pricing                       | 14/04/2026, 4:14:48 pm    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=zh_TW)                        |
-| Date Of Birth Changes                            | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                             |
 | Twitch Unity Guilds                              | 14/04/2026, 7:31:01 am    | [Link](https://help.twitch.tv/s/article/twitch-unity-guilds?language=zh_TW)                               |
 | Auto Clips                                       | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                        |
 | Channel Points Faq                               | 10/04/2026, 5:53:09 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=zh_TW)                                |
@@ -58,7 +58,6 @@
 | Mod View                                         | 25/03/2026, 6:37:42 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                          |
 | Past Behavior And Account Standing               | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=zh_TW)                |
 | How To Change Password                           | 24/03/2026, 11:34:29 am   | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=zh_TW)                            |
-| About Discount Gift Subs                         | 24/03/2026, 10:31:30 am   | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=zh_TW)                          |
 
 
 

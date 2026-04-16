@@ -6,11 +6,11 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Date Of Birth Changes                            | 15/04/2026, 11:00:36 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=de)                             |
 | Revenue                                          | 15/04/2026, 9:52:24 am    | [Link](https://help.twitch.tv/s/article/revenue?language=de)                                           |
 | Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)                      |
 | Local Sub Price Countries                        | 14/04/2026, 10:37:56 pm   | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=de)                         |
 | Local Subscription Pricing                       | 14/04/2026, 10:37:54 pm   | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=de)                        |
-| Date Of Birth Changes                            | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=de)                             |
 | Twitch Unity Guilds                              | 14/04/2026, 7:30:59 am    | [Link](https://help.twitch.tv/s/article/twitch-unity-guilds?language=de)                               |
 | Auto Clips                                       | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=de)                                        |
 | Channel Points Faq                               | 13/04/2026, 10:20:25 pm   | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=de)                                |
