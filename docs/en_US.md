@@ -68,8 +68,6 @@
 | Shared Hype Train                                | 24/03/2026, 11:16:40 am   | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=en_US)                                 |
 | Chat Basics                                      | 24/03/2026, 10:59:15 am   | [Link](https://help.twitch.tv/s/article/chat-basics?language=en_US)                                       |
 | Cancelling Subscriptions                         | 24/03/2026, 10:48:46 am   | [Link](https://help.twitch.tv/s/article/cancelling-subscriptions?language=en_US)                          |
-| Enroll Spendable Balance                         | 24/03/2026, 10:36:13 am   | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=en_US)                          |
-| Personalized Notification Settings               | 24/03/2026, 10:34:15 am   | [Link](https://help.twitch.tv/s/article/personalized-notification-settings?language=en_US)                |
 
 
 

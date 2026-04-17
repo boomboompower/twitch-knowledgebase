@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Multiple Encodes                                 | 16/04/2026, 9:30:14 pm    | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=de)                                  |
 | Date Of Birth Changes                            | 15/04/2026, 11:00:36 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=de)                             |
 | Revenue                                          | 15/04/2026, 9:52:24 am    | [Link](https://help.twitch.tv/s/article/revenue?language=de)                                           |
 | Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)                      |

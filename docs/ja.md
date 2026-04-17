@@ -6,10 +6,10 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                     | 16/04/2026, 6:13:59 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                      |
+| Revenue                                          | 16/04/2026, 5:28:55 pm    | [Link](https://help.twitch.tv/s/article/revenue?language=ja)                                           |
 | Date Of Birth Changes                            | 15/04/2026, 3:19:53 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                             |
 | Multiple Encodes                                 | 15/04/2026, 3:17:53 pm    | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=ja)                                  |
-| Revenue                                          | 15/04/2026, 9:52:24 am    | [Link](https://help.twitch.tv/s/article/revenue?language=ja)                                           |
-| Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                      |
 | Twitch Unity Guilds                              | 14/04/2026, 7:31:00 am    | [Link](https://help.twitch.tv/s/article/twitch-unity-guilds?language=ja)                               |
 | Auto Clips                                       | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                                        |
 | Local Sub Price Countries                        | 13/04/2026, 8:51:46 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ja)                         |
