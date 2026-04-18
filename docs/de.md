@@ -6,6 +6,9 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Twitch Account Access Login Issues Guide         | 18/04/2026, 6:39:32 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=de)          |
+| Account Reactivation                             | 18/04/2026, 6:39:26 am    | [Link](https://help.twitch.tv/s/article/account-reactivation?language=de)                              |
+| Account Hacked                                   | 18/04/2026, 6:39:19 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=de)                                    |
 | Multiple Encodes                                 | 16/04/2026, 9:30:14 pm    | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=de)                                  |
 | Date Of Birth Changes                            | 15/04/2026, 11:00:36 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=de)                             |
 | Revenue                                          | 15/04/2026, 9:52:24 am    | [Link](https://help.twitch.tv/s/article/revenue?language=de)                                           |
@@ -41,7 +44,6 @@
 | Guest Star Getting Started                       | 07/04/2026, 9:20:31 pm    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=de)                        |
 | Guide To Using Twitch Inspector                  | 07/04/2026, 9:20:28 pm    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=de)                   |
 | Recommended Software For Broadcasting            | 07/04/2026, 9:20:27 pm    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=de)             |
-| Account Hacked                                   | 07/04/2026, 6:24:11 pm    | [Link](https://help.twitch.tv/s/article/account-hacked?language=de)                                    |
 | Joining The Affiliate Program                    | 03/04/2026, 9:54:51 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=de)                     |
 | Political Onboarding                             | 03/04/2026, 9:54:49 pm    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=de)                              |
 | Subscriptions On Mobile                          | 03/04/2026, 0:03:12 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=de)                           |
@@ -58,7 +60,6 @@
 | Setting Up Moderation For Your Twitch Channel    | 25/03/2026, 6:38:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=de)     |
 | Mod View                                         | 25/03/2026, 6:37:42 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=de)                                          |
 | Past Behavior And Account Standing               | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=de)                |
-| How To Change Password                           | 24/03/2026, 11:34:28 am   | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=de)                            |
 
 
 
@@ -342,7 +343,9 @@
 |------------------------------------|---------------------------|------------------------------------------------------------------------------------------|
 | Auto Clips                         | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=de)                          |
 | Viewer Custom Power Ups Guide      | 09/04/2026, 7:28:09 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=de)       |
+| Dual Format Vertical Video         | 07/04/2026, 9:20:36 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=de)          |
 | Creator Badge Rewards              | 03/04/2026, 11:29:37 am   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=de)               |
+| Streamer Benefits                  | 31/03/2026, 0:52:56 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=de)                   |
 | Past Behavior And Account Standing | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=de)  |
 
 

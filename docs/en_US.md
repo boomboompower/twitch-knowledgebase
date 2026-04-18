@@ -6,6 +6,9 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Twitch Account Access Login Issues Guide         | 18/04/2026, 6:39:33 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=en_US)          |
+| Account Reactivation                             | 18/04/2026, 6:39:26 am    | [Link](https://help.twitch.tv/s/article/account-reactivation?language=en_US)                              |
+| Account Hacked                                   | 18/04/2026, 6:39:18 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=en_US)                                    |
 | Revenue                                          | 15/04/2026, 9:52:24 am    | [Link](https://help.twitch.tv/s/article/revenue?language=en_US)                                           |
 | Twitch Affiliate Program Faq                     | 15/04/2026, 9:51:15 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                      |
 | Enhanced Broadcasting                            | 15/04/2026, 3:07:03 am    | [Link](https://help.twitch.tv/s/article/enhanced-broadcasting?language=en_US)                             |
@@ -42,7 +45,6 @@
 | Stream Together Getting Started                  | 03/04/2026, 10:22:06 am   | [Link](https://help.twitch.tv/s/article/stream-together-getting-started?language=en_US)                   |
 | Stream Together                                  | 03/04/2026, 10:21:20 am   | [Link](https://help.twitch.tv/s/article/stream-together?language=en_US)                                   |
 | Guide To Using Twitch Inspector                  | 03/04/2026, 10:20:43 am   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=en_US)                   |
-| Account Hacked                                   | 03/04/2026, 8:20:51 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=en_US)                                    |
 | Viewer Custom Power Ups Guide                    | 03/04/2026, 7:24:56 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=en_US)                     |
 | Power Ups                                        | 03/04/2026, 7:23:48 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=en_US)                                         |
 | Mobile Game Broadcasting                         | 01/04/2026, 3:39:19 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=en_US)                          |
@@ -61,13 +63,6 @@
 | Twitch Twitter Twitchsupport Faq                 | 24/03/2026, 1:23:35 pm    | [Link](https://help.twitch.tv/s/article/twitch-twitter-twitchsupport-faq?language=en_US)                  |
 | Hype Train Guide                                 | 24/03/2026, 11:49:51 am   | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=en_US)                                  |
 | How To Use Host Mode                             | 24/03/2026, 11:48:06 am   | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=en_US)                              |
-| How To Use Polls                                 | 24/03/2026, 11:46:12 am   | [Link](https://help.twitch.tv/s/article/how-to-use-polls?language=en_US)                                  |
-| How To Perform A Traceroute To Twitch            | 24/03/2026, 11:41:53 am   | [Link](https://help.twitch.tv/s/article/how-to-perform-a-traceroute-to-twitch?language=en_US)             |
-| How To Change Password                           | 24/03/2026, 11:34:28 am   | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=en_US)                            |
-| First Time Chatter Highlight                     | 24/03/2026, 11:27:01 am   | [Link](https://help.twitch.tv/s/article/first-time-chatter-highlight?language=en_US)                      |
-| Shared Hype Train                                | 24/03/2026, 11:16:40 am   | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=en_US)                                 |
-| Chat Basics                                      | 24/03/2026, 10:59:15 am   | [Link](https://help.twitch.tv/s/article/chat-basics?language=en_US)                                       |
-| Cancelling Subscriptions                         | 24/03/2026, 10:48:46 am   | [Link](https://help.twitch.tv/s/article/cancelling-subscriptions?language=en_US)                          |
 
 
 
@@ -388,8 +383,10 @@
 | Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
 | Auto Clips                         | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                          |
+| Dual Format Vertical Video         | 03/04/2026, 10:23:25 am   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)          |
 | Viewer Custom Power Ups Guide      | 03/04/2026, 7:24:56 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=en_US)       |
 | Creator Badge Rewards              | 28/03/2026, 8:49:53 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=en_US)               |
+| Streamer Benefits                  | 25/03/2026, 11:37:49 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=en_US)                   |
 | Past Behavior And Account Standing | 25/03/2026, 6:32:51 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=en_US)  |
 | Personalized Notification Settings | 24/03/2026, 10:34:15 am   | [Link](https://help.twitch.tv/s/article/personalized-notification-settings?language=en_US)  |
 

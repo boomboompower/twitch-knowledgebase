@@ -6,7 +6,7 @@
 
 | Name           | Last Updated (dd/mm/yyyy) | Link                                                                 |
 |----------------|---------------------------|----------------------------------------------------------------------|
-| Account Hacked | 03/04/2026, 8:20:51 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=ro)  |
+| Account Hacked | 18/04/2026, 6:39:18 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=ro)  |
 
 
 
