@@ -23,10 +23,10 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Hungarian                     | 18/04/2026, 6:39:18 am    | 17 article(s)  | [View](docs/hu.md)     |
 | Italian                       | 21/04/2026, 9:39:51 am    | 280 article(s) | [View](docs/it.md)     |
 | Japanese                      | 21/04/2026, 9:39:51 am    | 280 article(s) | [View](docs/ja.md)     |
-| Norwegian                     | 18/04/2026, 6:39:18 am    | 25 article(s)  | [View](docs/no.md)     |
+| Norwegian                     | 18/04/2026, 6:39:18 am    | 26 article(s)  | [View](docs/no.md)     |
 | Polish                        | 21/04/2026, 9:39:51 am    | 170 article(s) | [View](docs/pl.md)     |
 | Portuguese (Brazil)           | 21/04/2026, 9:39:51 am    | 278 article(s) | [View](docs/pt_BR.md)  |
-| Portuguese (Portugal)         | 21/04/2026, 9:39:51 am    | 36 article(s)  | [View](docs/pt_PT.md)  |
+| Portuguese (Portugal)         | 21/04/2026, 9:39:51 am    | 37 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 18/04/2026, 6:39:18 am    | 2 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 21/04/2026, 9:39:51 am    | 173 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 18/04/2026, 6:39:18 am    | 2 article(s)   | [View](docs/sk.md)     |
