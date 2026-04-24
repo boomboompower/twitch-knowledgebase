@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Two Factor Authentication                        | 24/04/2026, 10:02:55 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es)                         |
 | Twitch Affiliate Program Faq                     | 21/04/2026, 9:39:51 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                      |
 | Joining The Affiliate Program                    | 21/04/2026, 9:39:48 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es)                     |
 | Revenue                                          | 20/04/2026, 9:37:35 pm    | [Link](https://help.twitch.tv/s/article/revenue?language=es)                                           |
