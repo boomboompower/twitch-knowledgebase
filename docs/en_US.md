@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Weekly Rewards                                   | 29/04/2026, 7:17:30 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=en_US)                                    |
 | Contacting Purchase Support                      | 25/04/2026, 8:52:57 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=en_US)                       |
 | Bits Purchase Troubleshooting                    | 25/04/2026, 8:52:48 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=en_US)                     |
 | Guide To Bits History                            | 25/04/2026, 8:52:34 am    | [Link](https://help.twitch.tv/s/article/guide-to-bits-history?language=en_US)                             |

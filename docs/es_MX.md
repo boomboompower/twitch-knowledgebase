@@ -57,7 +57,6 @@
 | Political Onboarding                             | 02/04/2026, 2:21:53 pm    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=es_MX)                              |
 | Creator Badge Rewards                            | 02/04/2026, 11:30:58 am   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es_MX)                             |
 | Streamer Benefits                                | 26/03/2026, 5:01:13 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                                 |
-| Affiliate Onboarding Guide                       | 26/03/2026, 4:35:34 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                        |
 
 
 
