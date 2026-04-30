@@ -6,6 +6,8 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Monthly Recap                                    | 30/04/2026, 5:02:44 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=th)                                     |
+| Username Rename And Recycling Policies           | 30/04/2026, 5:01:33 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=th)            |
 | Contacting Purchase Support                      | 25/04/2026, 8:52:57 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=th)                       |
 | Bits Purchase Troubleshooting                    | 25/04/2026, 8:52:48 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=th)                     |
 | Guide To Cheering With Bits                      | 25/04/2026, 8:52:20 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=th)                       |

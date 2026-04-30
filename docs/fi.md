@@ -4,12 +4,13 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
-|---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| Account Hacked                        | 18/04/2026, 6:39:18 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=fi)                         |
-| Twitch Prime Partner Guide            | 10/04/2026, 6:28:16 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=fi)             |
-| Gift Subscriptions                    | 03/04/2026, 11:00:08 am   | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=fi)                     |
-| Recommended Software For Broadcasting | 03/04/2026, 10:25:17 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=fi)  |
+| Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Username Rename And Recycling Policies | 30/04/2026, 5:01:33 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=fi)  |
+| Account Hacked                         | 18/04/2026, 6:39:18 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=fi)                          |
+| Twitch Prime Partner Guide             | 10/04/2026, 6:28:16 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=fi)              |
+| Gift Subscriptions                     | 03/04/2026, 11:00:08 am   | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=fi)                      |
+| Recommended Software For Broadcasting  | 03/04/2026, 10:25:17 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=fi)   |
 
 
 

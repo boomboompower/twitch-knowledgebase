@@ -6,6 +6,9 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Monthly Recap                                    | 30/04/2026, 5:02:53 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=zh_TW)                                     |
+| Username Rename And Recycling Policies           | 30/04/2026, 5:01:36 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=zh_TW)            |
+| Digital Services Act                             | 30/04/2026, 4:38:56 am    | [Link](https://help.twitch.tv/s/article/digital-services-act?language=zh_TW)                              |
 | Contacting Purchase Support                      | 25/04/2026, 8:52:59 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=zh_TW)                       |
 | Bits Purchase Troubleshooting                    | 25/04/2026, 8:52:51 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=zh_TW)                     |
 | Guide To Cheering With Bits                      | 25/04/2026, 8:52:26 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=zh_TW)                       |
@@ -56,13 +59,6 @@
 | Creator Badge Rewards                            | 03/04/2026, 8:38:03 pm    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=zh_TW)                             |
 | Subscriptions On Mobile                          | 03/04/2026, 0:03:16 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=zh_TW)                           |
 | Mission Based Drops                              | 03/04/2026, 11:09:05 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=zh_TW)                               |
-| Affiliate Onboarding Guide                       | 30/03/2026, 7:49:18 pm    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                        |
-| How To Manage Harassment In Chat                 | 30/03/2026, 7:49:14 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=zh_TW)                  |
-| Creating An Account With Twitch                  | 30/03/2026, 7:49:00 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)                   |
-| Streamer Benefits                                | 26/03/2026, 5:20:14 pm    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)                                 |
-| Dac7 Interview                                   | 26/03/2026, 4:57:53 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=zh_TW)                                    |
-| Combos                                           | 26/03/2026, 4:57:47 pm    | [Link](https://help.twitch.tv/s/article/combos?language=zh_TW)                                            |
-| Update Logins To Twitch With Facebook            | 26/03/2026, 4:57:47 pm    | [Link](https://help.twitch.tv/s/article/update-logins-to-twitch-with-facebook?language=zh_TW)             |
 
 
 
@@ -331,6 +327,18 @@
 | Streamer Notifications Preferences         | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=zh_TW)          |
 | Smart Notification Setting                 | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                  |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                   |
+|-------------------------------|---------------------------|----------------------------------------------------------------------------------------|
+| Auto Clips                    | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                     |
+| Viewer Custom Power Ups Guide | 09/04/2026, 7:05:28 pm    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=zh_TW)  |
+| Dual Format Vertical Video    | 07/04/2026, 7:26:03 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)     |
+| Creator Badge Rewards         | 03/04/2026, 8:38:03 pm    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=zh_TW)          |
 
 
 
