@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                       | 01/05/2026, 9:47:05 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                        |
 | Monthly Recap                                    | 30/04/2026, 5:02:53 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=zh_TW)                                     |
 | Username Rename And Recycling Policies           | 30/04/2026, 5:01:36 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=zh_TW)            |
 | Digital Services Act                             | 30/04/2026, 4:38:56 am    | [Link](https://help.twitch.tv/s/article/digital-services-act?language=zh_TW)                              |
@@ -49,7 +50,6 @@
 | Multi Month Subscriptions                        | 07/04/2026, 8:54:49 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=zh_TW)                         |
 | How To Subscribe                                 | 07/04/2026, 8:54:46 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=zh_TW)                                  |
 | Gift Subscriptions                               | 07/04/2026, 8:54:44 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=zh_TW)                                |
-| Dual Format Vertical Video                       | 07/04/2026, 7:26:03 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                        |
 | Guest Star Getting Started                       | 07/04/2026, 7:25:59 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)                        |
 | Guide To Using Twitch Inspector                  | 07/04/2026, 7:25:56 am    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=zh_TW)                   |
 | How To Add Stream Delay                          | 07/04/2026, 7:25:53 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=zh_TW)                           |
