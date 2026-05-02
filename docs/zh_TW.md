@@ -6,7 +6,16 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
-| Dual Format Vertical Video                       | 01/05/2026, 9:47:05 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                        |
+| Weekly Rewards                                   | 02/05/2026, 4:02:52 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=zh_TW)                                    |
+| Chat Basics                                      | 02/05/2026, 2:03:58 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=zh_TW)                                       |
+| Chat Commands                                    | 02/05/2026, 2:03:28 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_TW)                                     |
+| Twitch Chat Badges Guide                         | 02/05/2026, 2:03:21 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                          |
+| Twitch Turbo Guide                               | 02/05/2026, 2:02:13 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                                |
+| Cancelling Subscriptions                         | 02/05/2026, 2:00:20 am    | [Link](https://help.twitch.tv/s/article/cancelling-subscriptions?language=zh_TW)                          |
+| Support Subscriptions                            | 02/05/2026, 2:00:16 am    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=zh_TW)                             |
+| How Subscription Streaks Work                    | 02/05/2026, 2:00:13 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=zh_TW)                     |
+| Managing And Upgrading A Gift Subscription       | 02/05/2026, 1:59:58 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=zh_TW)        |
+| Dual Format Vertical Video                       | 02/05/2026, 1:36:21 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                        |
 | Monthly Recap                                    | 30/04/2026, 5:02:53 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=zh_TW)                                     |
 | Username Rename And Recycling Policies           | 30/04/2026, 5:01:36 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=zh_TW)            |
 | Digital Services Act                             | 30/04/2026, 4:38:56 am    | [Link](https://help.twitch.tv/s/article/digital-services-act?language=zh_TW)                              |
@@ -54,11 +63,6 @@
 | Guide To Using Twitch Inspector                  | 07/04/2026, 7:25:56 am    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=zh_TW)                   |
 | How To Add Stream Delay                          | 07/04/2026, 7:25:53 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=zh_TW)                           |
 | Recommended Software For Broadcasting            | 07/04/2026, 7:25:53 am    | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=zh_TW)             |
-| Mobile Game Broadcasting                         | 04/04/2026, 7:46:44 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=zh_TW)                          |
-| Political Onboarding                             | 04/04/2026, 7:17:03 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=zh_TW)                              |
-| Creator Badge Rewards                            | 03/04/2026, 8:38:03 pm    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=zh_TW)                             |
-| Subscriptions On Mobile                          | 03/04/2026, 0:03:16 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=zh_TW)                           |
-| Mission Based Drops                              | 03/04/2026, 11:09:05 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=zh_TW)                               |
 
 
 
@@ -335,9 +339,19 @@
 
 | Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                   |
 |-------------------------------|---------------------------|----------------------------------------------------------------------------------------|
+| Weekly Rewards                | 02/05/2026, 4:02:52 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=zh_TW)                 |
+| Support Subscriptions         | 02/05/2026, 2:00:16 am    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=zh_TW)          |
+| Dual Format Vertical Video    | 02/05/2026, 1:36:21 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)     |
 | Auto Clips                    | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                     |
+| Bleed Purple                  | 10/04/2026, 8:01:28 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=zh_TW)                   |
+| Getting Started On Twitch     | 10/04/2026, 7:58:14 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=zh_TW)      |
+| Dj Program Faq                | 10/04/2026, 7:51:58 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=zh_TW)                 |
+| Dj Secondary                  | 10/04/2026, 7:51:49 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=zh_TW)                   |
+| Dj Opt Out                    | 10/04/2026, 7:51:38 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=zh_TW)                     |
+| How To Upgrade Prime          | 09/04/2026, 7:24:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=zh_TW)           |
 | Viewer Custom Power Ups Guide | 09/04/2026, 7:05:28 pm    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=zh_TW)  |
-| Dual Format Vertical Video    | 07/04/2026, 7:26:03 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)     |
+| Power Ups                     | 09/04/2026, 7:05:28 pm    | [Link](https://help.twitch.tv/s/article/power-ups?language=zh_TW)                      |
+| How To Add Stream Delay       | 07/04/2026, 7:25:53 am    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=zh_TW)        |
 | Creator Badge Rewards         | 03/04/2026, 8:38:03 pm    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=zh_TW)          |
 
 

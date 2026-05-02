@@ -4,34 +4,31 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
-|--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
-| Monthly Recap                                    | 30/04/2026, 5:02:44 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=tr)                                     |
-| Username Rename And Recycling Policies           | 30/04/2026, 5:01:33 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=tr)            |
-| Contacting Purchase Support                      | 25/04/2026, 8:52:57 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=tr)                       |
-| Bits Purchase Troubleshooting                    | 25/04/2026, 8:52:48 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=tr)                     |
-| Guide To Cheering With Bits                      | 25/04/2026, 8:52:20 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=tr)                       |
-| Affiliate Or Partner Anniversary Settings        | 25/04/2026, 8:50:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=tr)         |
-| Twitch Affiliate Program Faq                     | 21/04/2026, 9:39:51 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=tr)                      |
-| Joining The Affiliate Program                    | 21/04/2026, 9:39:48 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=tr)                     |
-| Account Hacked                                   | 18/04/2026, 6:39:18 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=tr)                                    |
-| Date Of Birth Changes                            | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=tr)                             |
-| Achievements                                     | 10/04/2026, 8:01:37 am    | [Link](https://help.twitch.tv/s/article/achievements?language=tr)                                      |
-| Partner Onboarding Guide                         | 10/04/2026, 6:28:26 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=tr)                          |
-| Prime Gaming Revenue Guide                       | 10/04/2026, 6:28:16 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=tr)                        |
-| Payout Balance Faq                               | 10/04/2026, 6:28:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=tr)                                |
-| Rejected Payout Faq                              | 10/04/2026, 6:27:54 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=tr)                               |
-| Your First Payout Walkthrough                    | 10/04/2026, 6:27:43 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=tr)                     |
-| Payout History Dashboard Guide                   | 10/04/2026, 6:27:31 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=tr)                    |
-| Local Sub Price Countries                        | 10/04/2026, 5:42:01 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=tr)                         |
-| Channel Points Faq                               | 10/04/2026, 4:54:15 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=tr)                                |
-| Mission Based Drops                              | 03/04/2026, 11:09:05 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=tr)                               |
-| Multi Month Subscriptions                        | 03/04/2026, 11:00:38 am   | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=tr)                         |
-| Subscriptions On Mobile                          | 03/04/2026, 10:58:02 am   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=tr)                           |
-| Updating Payment Information Transaction History | 03/04/2026, 10:55:11 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=tr)  |
-| Recommended Software For Broadcasting            | 03/04/2026, 10:25:17 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=tr)             |
-| Guest Star Getting Started                       | 03/04/2026, 10:22:07 am   | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=tr)                        |
-| Guide To Using Twitch Inspector                  | 03/04/2026, 10:20:43 am   | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=tr)                   |
+| Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
+|--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Chat Commands                              | 02/05/2026, 2:03:26 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=tr)                               |
+| Twitch Chat Badges Guide                   | 02/05/2026, 2:03:18 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=tr)                    |
+| Twitch Turbo Guide                         | 02/05/2026, 2:02:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=tr)                          |
+| Managing And Upgrading A Gift Subscription | 02/05/2026, 1:59:57 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=tr)  |
+| Monthly Recap                              | 30/04/2026, 5:02:44 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=tr)                               |
+| Username Rename And Recycling Policies     | 30/04/2026, 5:01:33 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=tr)      |
+| Contacting Purchase Support                | 25/04/2026, 8:52:57 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=tr)                 |
+| Bits Purchase Troubleshooting              | 25/04/2026, 8:52:48 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=tr)               |
+| Guide To Cheering With Bits                | 25/04/2026, 8:52:20 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=tr)                 |
+| Affiliate Or Partner Anniversary Settings  | 25/04/2026, 8:50:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=tr)   |
+| Twitch Affiliate Program Faq               | 21/04/2026, 9:39:51 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=tr)                |
+| Joining The Affiliate Program              | 21/04/2026, 9:39:48 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=tr)               |
+| Account Hacked                             | 18/04/2026, 6:39:18 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=tr)                              |
+| Date Of Birth Changes                      | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=tr)                       |
+| Achievements                               | 10/04/2026, 8:01:37 am    | [Link](https://help.twitch.tv/s/article/achievements?language=tr)                                |
+| Partner Onboarding Guide                   | 10/04/2026, 6:28:26 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=tr)                    |
+| Prime Gaming Revenue Guide                 | 10/04/2026, 6:28:16 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=tr)                  |
+| Payout Balance Faq                         | 10/04/2026, 6:28:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=tr)                          |
+| Rejected Payout Faq                        | 10/04/2026, 6:27:54 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=tr)                         |
+| Your First Payout Walkthrough              | 10/04/2026, 6:27:43 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=tr)               |
+| Payout History Dashboard Guide             | 10/04/2026, 6:27:31 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=tr)              |
+| Local Sub Price Countries                  | 10/04/2026, 5:42:01 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=tr)                   |
+| Channel Points Faq                         | 10/04/2026, 4:54:15 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=tr)                          |
 
 
 

@@ -6,8 +6,16 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Chat Basics                                      | 02/05/2026, 2:03:58 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=ja)                                       |
+| Chat Commands                                    | 02/05/2026, 2:03:27 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=ja)                                     |
+| Twitch Chat Badges Guide                         | 02/05/2026, 2:03:20 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                          |
+| Twitch Turbo Guide                               | 02/05/2026, 2:02:12 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                                |
+| Cancelling Subscriptions                         | 02/05/2026, 2:00:20 am    | [Link](https://help.twitch.tv/s/article/cancelling-subscriptions?language=ja)                          |
+| Support Subscriptions                            | 02/05/2026, 2:00:15 am    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=ja)                             |
+| How Subscription Streaks Work                    | 02/05/2026, 2:00:11 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=ja)                     |
+| Managing And Upgrading A Gift Subscription       | 02/05/2026, 1:59:58 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=ja)        |
+| Dual Format Vertical Video                       | 02/05/2026, 1:36:21 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)                        |
 | Weekly Rewards                                   | 01/05/2026, 11:02:42 am   | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=ja)                                    |
-| Dual Format Vertical Video                       | 01/05/2026, 9:47:05 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)                        |
 | Monthly Recap                                    | 30/04/2026, 5:02:44 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=ja)                                     |
 | Username Rename And Recycling Policies           | 30/04/2026, 5:01:35 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=ja)            |
 | Digital Services Act                             | 30/04/2026, 4:38:57 am    | [Link](https://help.twitch.tv/s/article/digital-services-act?language=ja)                              |
@@ -55,11 +63,6 @@
 | Multi Month Subscriptions                        | 06/04/2026, 6:47:11 pm    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=ja)                         |
 | How To Subscribe                                 | 06/04/2026, 6:47:08 pm    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=ja)                                  |
 | Updating Payment Information Transaction History | 06/04/2026, 6:47:03 pm    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=ja)  |
-| Subscriptions On Mobile                          | 03/04/2026, 0:03:13 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=ja)                           |
-| Creator Badge Rewards                            | 03/04/2026, 11:35:52 am   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=ja)                             |
-| Mission Based Drops                              | 03/04/2026, 11:09:05 am   | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                               |
-| Mobile Game Broadcasting                         | 02/04/2026, 6:35:18 pm    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=ja)                          |
-| Political Onboarding                             | 02/04/2026, 6:34:41 pm    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=ja)                              |
 
 
 
@@ -337,10 +340,20 @@
 
 | Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                |
 |-------------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Support Subscriptions         | 02/05/2026, 2:00:15 am    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=ja)          |
+| Dual Format Vertical Video    | 02/05/2026, 1:36:21 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)     |
 | Weekly Rewards                | 01/05/2026, 11:02:42 am   | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=ja)                 |
+| Digital Services Act          | 30/04/2026, 4:38:57 am    | [Link](https://help.twitch.tv/s/article/digital-services-act?language=ja)           |
 | Auto Clips                    | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                     |
+| Bleed Purple                  | 10/04/2026, 8:01:28 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=ja)                   |
+| Getting Started On Twitch     | 10/04/2026, 7:58:14 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=ja)      |
+| Dj Program Faq                | 10/04/2026, 7:51:58 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=ja)                 |
+| Dj Secondary                  | 10/04/2026, 7:51:49 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=ja)                   |
+| Dj Opt Out                    | 10/04/2026, 7:51:38 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=ja)                     |
+| How To Upgrade Prime          | 08/04/2026, 9:25:43 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=ja)           |
 | Viewer Custom Power Ups Guide | 07/04/2026, 3:52:13 pm    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=ja)  |
-| Dual Format Vertical Video    | 06/04/2026, 8:11:30 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)     |
+| Power Ups                     | 07/04/2026, 3:52:13 pm    | [Link](https://help.twitch.tv/s/article/power-ups?language=ja)                      |
+| How To Add Stream Delay       | 06/04/2026, 8:11:34 pm    | [Link](https://help.twitch.tv/s/article/how-to-add-stream-delay?language=ja)        |
 | Creator Badge Rewards         | 03/04/2026, 11:35:52 am   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=ja)          |
 
 

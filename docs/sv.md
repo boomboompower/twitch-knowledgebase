@@ -4,12 +4,11 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
-|--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
-| Username Rename And Recycling Policies           | 30/04/2026, 5:01:33 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=sv)            |
-| Account Hacked                                   | 18/04/2026, 6:39:18 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=sv)                                    |
-| Gift Subscriptions                               | 03/04/2026, 11:00:08 am   | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=sv)                                |
-| Updating Payment Information Transaction History | 03/04/2026, 10:55:11 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=sv)  |
+| Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Chat Commands                          | 02/05/2026, 2:03:26 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=sv)                           |
+| Username Rename And Recycling Policies | 30/04/2026, 5:01:33 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=sv)  |
+| Account Hacked                         | 18/04/2026, 6:39:18 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=sv)                          |
 
 
 
