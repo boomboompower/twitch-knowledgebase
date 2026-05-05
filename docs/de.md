@@ -338,3 +338,12 @@
 
 
 
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name           | Last Updated (dd/mm/yyyy) | Link                                                                 |
+|----------------|---------------------------|----------------------------------------------------------------------|
+| Weekly Rewards | 01/05/2026, 7:44:08 pm    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=de)  |
+
+
+
