@@ -6,6 +6,9 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                     | 06/05/2026, 10:40:41 pm   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)                      |
+| Joining The Affiliate Program                    | 06/05/2026, 10:40:36 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=de)                     |
+| Dual Format Vertical Video                       | 06/05/2026, 10:35:49 pm   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=de)                        |
 | Chat Basics                                      | 02/05/2026, 2:03:57 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=de)                                       |
 | Chat Commands                                    | 02/05/2026, 2:03:27 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=de)                                     |
 | Twitch Chat Badges Guide                         | 02/05/2026, 2:03:20 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=de)                          |
@@ -14,7 +17,6 @@
 | Support Subscriptions                            | 02/05/2026, 2:00:14 am    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=de)                             |
 | How Subscription Streaks Work                    | 02/05/2026, 2:00:12 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=de)                     |
 | Managing And Upgrading A Gift Subscription       | 02/05/2026, 1:59:57 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=de)        |
-| Dual Format Vertical Video                       | 02/05/2026, 1:36:21 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=de)                        |
 | Weekly Rewards                                   | 01/05/2026, 7:44:08 pm    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=de)                                    |
 | Monthly Recap                                    | 30/04/2026, 5:02:52 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=de)                                     |
 | Username Rename And Recycling Policies           | 30/04/2026, 5:01:34 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=de)            |
@@ -25,8 +27,6 @@
 | How To Purchase Bits                             | 25/04/2026, 8:52:04 am    | [Link](https://help.twitch.tv/s/article/how-to-purchase-bits?language=de)                              |
 | Affiliate Or Partner Anniversary Settings        | 25/04/2026, 8:50:31 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=de)         |
 | Two Factor Authentication                        | 24/04/2026, 10:02:43 am   | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=de)                         |
-| Twitch Affiliate Program Faq                     | 21/04/2026, 9:39:51 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)                      |
-| Joining The Affiliate Program                    | 21/04/2026, 9:39:48 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=de)                     |
 | Revenue                                          | 20/04/2026, 10:05:24 pm   | [Link](https://help.twitch.tv/s/article/revenue?language=de)                                           |
 | Twitch Account Access Login Issues Guide         | 18/04/2026, 6:39:32 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=de)          |
 | Account Reactivation                             | 18/04/2026, 6:39:26 am    | [Link](https://help.twitch.tv/s/article/account-reactivation?language=de)                              |
@@ -341,9 +341,10 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name           | Last Updated (dd/mm/yyyy) | Link                                                                 |
-|----------------|---------------------------|----------------------------------------------------------------------|
-| Weekly Rewards | 01/05/2026, 7:44:08 pm    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=de)  |
+| Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                |
+|-------------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Weekly Rewards                | 01/05/2026, 7:44:08 pm    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=de)                 |
+| Viewer Custom Power Ups Guide | 09/04/2026, 7:28:09 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=de)  |
 
 
 

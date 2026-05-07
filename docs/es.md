@@ -339,9 +339,10 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name           | Last Updated (dd/mm/yyyy) | Link                                                                 |
-|----------------|---------------------------|----------------------------------------------------------------------|
-| Weekly Rewards | 01/05/2026, 9:27:12 pm    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es)  |
+| Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                |
+|-------------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Weekly Rewards                | 01/05/2026, 9:27:12 pm    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es)                 |
+| Viewer Custom Power Ups Guide | 09/04/2026, 0:32:38 pm    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=es)  |
 
 
 
