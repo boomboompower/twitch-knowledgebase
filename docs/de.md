@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Mission Based Drops                              | 08/05/2026, 7:57:05 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=de)                               |
 | Twitch Affiliate Program Faq                     | 06/05/2026, 10:40:41 pm   | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)                      |
 | Joining The Affiliate Program                    | 06/05/2026, 10:40:36 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=de)                     |
 | Dual Format Vertical Video                       | 06/05/2026, 10:35:49 pm   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=de)                        |

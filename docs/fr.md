@@ -6,6 +6,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Mission Based Drops                              | 08/05/2026, 7:57:05 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=fr)                               |
 | Dual Format Vertical Video                       | 06/05/2026, 6:37:39 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                        |
 | Joining The Affiliate Program                    | 06/05/2026, 6:31:57 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=fr)                     |
 | Twitch Affiliate Program Faq                     | 06/05/2026, 6:31:45 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=fr)                      |
@@ -341,9 +342,10 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name           | Last Updated (dd/mm/yyyy) | Link                                                                 |
-|----------------|---------------------------|----------------------------------------------------------------------|
-| Weekly Rewards | 30/04/2026, 10:34:53 pm   | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=fr)  |
+| Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                |
+|-------------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Weekly Rewards                | 30/04/2026, 10:34:53 pm   | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=fr)                 |
+| Viewer Custom Power Ups Guide | 09/04/2026, 6:02:01 pm    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=fr)  |
 
 
 
