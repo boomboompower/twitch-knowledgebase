@@ -26,7 +26,6 @@
 | How To Manage Harassment In Chat                 | 25/03/2026, 6:37:10 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=nl_NL)                  |
 | How To Use Host Mode                             | 24/03/2026, 11:48:05 am   | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=nl_NL)                              |
 | Creating An Account With Twitch                  | 24/03/2026, 3:41:52 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=nl_NL)                   |
-| Two Factor Authentication With Authy             | 12/03/2026, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=nl_NL)              |
 | Earning Revenue From Bits In Extensions Beta     | 07/03/2026, 0:54:40 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=nl_NL)      |
 
 
@@ -38,7 +37,6 @@
 |--------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
 | Authy Faq                            | 21/02/2026, 0:32:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=nl_NL)                             |
 | Twitch Teams                         | 18/02/2026, 9:11:13 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=nl_NL)                          |
-| Partner Program Overview             | 01/11/2025, 9:24:14 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)              |
 | Twitch Merchandise Store Support Faq | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=nl_NL)  |
 
 

@@ -30,7 +30,6 @@
 | Setting Up Moderation For Your Twitch Channel | 25/03/2026, 6:38:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=pt_PT)  |
 | How To Manage Harassment In Chat              | 25/03/2026, 6:37:10 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_PT)               |
 | How To Use Host Mode                          | 24/03/2026, 11:48:05 am   | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=pt_PT)                           |
-| Two Factor Authentication With Authy          | 12/03/2026, 9:00:15 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)           |
 | Earning Revenue From Bits In Extensions Beta  | 07/03/2026, 0:54:40 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=pt_PT)   |
 | Partner Help And Contact Information          | 06/03/2026, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/partner-help-and-contact-information?language=pt_PT)           |
 
