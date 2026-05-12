@@ -61,7 +61,6 @@
 | Gift Subscriptions                               | 07/04/2026, 10:24:15 pm   | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=es)                                |
 | Updating Payment Information Transaction History | 07/04/2026, 10:24:12 pm   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=es)  |
 | Multi Month Subscriptions                        | 07/04/2026, 10:24:08 pm   | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=es)                         |
-| How To Subscribe                                 | 07/04/2026, 10:24:05 pm   | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=es)                                  |
 
 
 
