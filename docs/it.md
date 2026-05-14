@@ -56,9 +56,6 @@
 | Your First Payout Walkthrough              | 10/04/2026, 6:27:44 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=it)               |
 | Payout History Dashboard Guide             | 10/04/2026, 6:27:32 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=it)              |
 | Payout Details Faq                         | 10/04/2026, 6:27:10 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=it)                          |
-| How To Upgrade Prime                       | 08/04/2026, 11:34:28 pm   | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=it)                        |
-| Viewer Custom Power Ups Guide              | 08/04/2026, 11:26:44 pm   | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=it)               |
-| Power Ups                                  | 08/04/2026, 11:26:43 pm   | [Link](https://help.twitch.tv/s/article/power-ups?language=it)                                   |
 
 
 
