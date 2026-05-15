@@ -6,6 +6,8 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Iceland Tax Interview                      | 15/05/2026, 0:56:34 am    | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=zh_TW)                       |
+| Streamer Shouts                            | 14/05/2026, 3:52:48 pm    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=zh_TW)                             |
 | Two Factor Authentication                  | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=zh_TW)                   |
 | Partner Program Overview                   | 09/05/2026, 4:48:51 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                    |
 | Managing Roles For Your Channel            | 09/05/2026, 4:46:59 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=zh_TW)             |

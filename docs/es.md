@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Streamer Shouts                            | 14/05/2026, 4:25:58 pm    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=es)                             |
 | Iceland Tax Interview                      | 13/05/2026, 10:06:13 pm   | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=es)                       |
 | Two Factor Authentication                  | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es)                   |
 | Partner Program Overview                   | 09/05/2026, 4:48:50 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                    |
@@ -330,6 +331,15 @@
 | Streamer Notifications Preferences         | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=es)          |
 | Smart Notification Setting                 | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                  |
 | Markdown Basics                            | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name            | Last Updated (dd/mm/yyyy) | Link                                                                  |
+|-----------------|---------------------------|-----------------------------------------------------------------------|
+| Streamer Shouts | 14/05/2026, 4:25:58 pm    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=es)  |
 
 
 
