@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                         | 16/05/2026, 6:14:48 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pl)                          |
 | Two Factor Authentication                  | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=pl)                   |
 | Partner Program Overview                   | 09/05/2026, 4:48:48 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pl)                    |
 | Managing Roles For Your Channel            | 09/05/2026, 4:46:57 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=pl)             |
@@ -13,7 +14,6 @@
 | Mission Based Drops                        | 08/05/2026, 7:57:05 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pl)                         |
 | Chat Commands                              | 02/05/2026, 2:03:26 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pl)                               |
 | Twitch Chat Badges Guide                   | 02/05/2026, 2:03:18 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=pl)                    |
-| Twitch Turbo Guide                         | 02/05/2026, 2:02:07 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pl)                          |
 | Managing And Upgrading A Gift Subscription | 02/05/2026, 1:59:57 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=pl)  |
 | Monthly Recap                              | 30/04/2026, 5:02:44 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=pl)                               |
 | Username Rename And Recycling Policies     | 30/04/2026, 5:01:33 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=pl)      |
@@ -30,9 +30,6 @@
 | Payout Balance Faq                         | 10/04/2026, 6:28:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=pl)                          |
 | Rejected Payout Faq                        | 10/04/2026, 6:27:54 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=pl)                         |
 | Your First Payout Walkthrough              | 10/04/2026, 6:27:43 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=pl)               |
-| Payout History Dashboard Guide             | 10/04/2026, 6:27:31 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=pl)              |
-| Local Sub Price Countries                  | 10/04/2026, 5:42:01 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pl)                   |
-| Channel Points Faq                         | 10/04/2026, 4:54:15 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=pl)                          |
 
 
 

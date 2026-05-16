@@ -6,6 +6,12 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Twitch Turbo Guide                         | 16/05/2026, 6:14:56 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                          |
+| How To Use Badges                          | 16/05/2026, 6:01:37 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=zh_TW)                           |
+| How To Use Emotes                          | 16/05/2026, 6:01:11 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=zh_TW)                           |
+| Cheering For Partners Affiliates           | 16/05/2026, 6:01:03 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=zh_TW)            |
+| Enroll Spendable Balance                   | 16/05/2026, 6:00:59 am    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=zh_TW)                    |
+| Streamer Benefits                          | 16/05/2026, 6:00:53 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)                           |
 | Iceland Tax Interview                      | 15/05/2026, 0:56:34 am    | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=zh_TW)                       |
 | Streamer Shouts                            | 14/05/2026, 3:52:48 pm    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=zh_TW)                             |
 | Two Factor Authentication                  | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=zh_TW)                   |
@@ -20,7 +26,6 @@
 | Chat Basics                                | 02/05/2026, 2:03:58 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=zh_TW)                                 |
 | Chat Commands                              | 02/05/2026, 2:03:28 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_TW)                               |
 | Twitch Chat Badges Guide                   | 02/05/2026, 2:03:21 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                    |
-| Twitch Turbo Guide                         | 02/05/2026, 2:02:13 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                          |
 | Cancelling Subscriptions                   | 02/05/2026, 2:00:20 am    | [Link](https://help.twitch.tv/s/article/cancelling-subscriptions?language=zh_TW)                    |
 | Support Subscriptions                      | 02/05/2026, 2:00:16 am    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=zh_TW)                       |
 | How Subscription Streaks Work              | 02/05/2026, 2:00:13 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=zh_TW)               |
@@ -55,11 +60,6 @@
 | Payout Balance Faq                         | 10/04/2026, 6:28:06 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=zh_TW)                          |
 | Rejected Payout Faq                        | 10/04/2026, 6:27:56 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=zh_TW)                         |
 | Your First Payout Walkthrough              | 10/04/2026, 6:27:45 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=zh_TW)               |
-| Payout History Dashboard Guide             | 10/04/2026, 6:27:33 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=zh_TW)              |
-| Payout Details Faq                         | 10/04/2026, 6:27:10 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=zh_TW)                          |
-| How To Upgrade Prime                       | 09/04/2026, 7:24:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=zh_TW)                        |
-| Viewer Custom Power Ups Guide              | 09/04/2026, 7:05:28 pm    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=zh_TW)               |
-| Power Ups                                  | 09/04/2026, 7:05:28 pm    | [Link](https://help.twitch.tv/s/article/power-ups?language=zh_TW)                                   |
 
 
 
@@ -336,6 +336,20 @@
 | Streamer Notifications Preferences         | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=zh_TW)          |
 | Smart Notification Setting                 | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                  |
 | Markdown Basics                            | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                             |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                       | Last Updated (dd/mm/yyyy) | Link                                                                                |
+|----------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Streamer Benefits          | 16/05/2026, 6:00:53 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)           |
+| Iceland Tax Interview      | 15/05/2026, 0:56:34 am    | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=zh_TW)       |
+| Streamer Shouts            | 14/05/2026, 3:52:48 pm    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=zh_TW)             |
+| Dual Format Vertical Video | 05/05/2026, 7:03:01 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)  |
+| Weekly Rewards             | 02/05/2026, 4:02:52 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=zh_TW)              |
+| Auto Clips                 | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                  |
 
 
 
