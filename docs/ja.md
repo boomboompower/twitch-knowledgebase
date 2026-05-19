@@ -6,12 +6,16 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Partner Onboarding Guide                   | 19/05/2026, 10:48:49 am   | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ja)                    |
+| Dac7 Interview                             | 19/05/2026, 10:42:32 am   | [Link](https://help.twitch.tv/s/article/dac7-interview?language=ja)                              |
+| Streamer Benefits                          | 19/05/2026, 10:41:43 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                           |
+| Enroll Spendable Balance                   | 19/05/2026, 10:41:01 am   | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=ja)                    |
+| Partner Settings Guide                     | 19/05/2026, 10:40:20 am   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=ja)                      |
+| Affiliate Settings Guide                   | 19/05/2026, 10:39:38 am   | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=ja)                    |
 | Twitch Turbo Guide                         | 16/05/2026, 6:14:56 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                          |
 | How To Use Badges                          | 16/05/2026, 6:01:37 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=ja)                           |
 | How To Use Emotes                          | 16/05/2026, 6:01:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=ja)                           |
 | Cheering For Partners Affiliates           | 16/05/2026, 6:01:05 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=ja)            |
-| Enroll Spendable Balance                   | 16/05/2026, 6:00:58 am    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=ja)                    |
-| Streamer Benefits                          | 16/05/2026, 6:00:51 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                           |
 | Streamer Shouts                            | 14/05/2026, 8:19:53 pm    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=ja)                             |
 | Iceland Tax Interview                      | 13/05/2026, 10:17:43 am   | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=ja)                       |
 | Two Factor Authentication                  | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ja)                   |
@@ -55,11 +59,7 @@
 | Dj Program Faq                             | 10/04/2026, 7:51:58 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=ja)                              |
 | Dj Secondary                               | 10/04/2026, 7:51:49 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=ja)                                |
 | Dj Opt Out                                 | 10/04/2026, 7:51:38 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=ja)                                  |
-| Partner Onboarding Guide                   | 10/04/2026, 6:28:28 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ja)                    |
 | Prime Gaming Revenue Guide                 | 10/04/2026, 6:28:17 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ja)                  |
-| Payout Balance Faq                         | 10/04/2026, 6:28:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=ja)                          |
-| Rejected Payout Faq                        | 10/04/2026, 6:27:56 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=ja)                         |
-| Your First Payout Walkthrough              | 10/04/2026, 6:27:44 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=ja)               |
 
 
 
@@ -341,6 +341,21 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=ja)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                       | Last Updated (dd/mm/yyyy) | Link                                                                             |
+|----------------------------|---------------------------|----------------------------------------------------------------------------------|
+| Streamer Benefits          | 19/05/2026, 10:41:43 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)           |
+| Enroll Spendable Balance   | 19/05/2026, 10:41:01 am   | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=ja)    |
+| Streamer Shouts            | 14/05/2026, 8:19:53 pm    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=ja)             |
+| Iceland Tax Interview      | 13/05/2026, 10:17:43 am   | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=ja)       |
+| Dual Format Vertical Video | 06/05/2026, 9:32:59 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)  |
+| Weekly Rewards             | 01/05/2026, 11:02:42 am   | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=ja)              |
+| Auto Clips                 | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                  |
 
 
 

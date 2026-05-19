@@ -6,6 +6,9 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Partner Onboarding Guide                   | 19/05/2026, 10:48:49 am   | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pl)                    |
+| Partner Settings Guide                     | 19/05/2026, 10:40:20 am   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=pl)                      |
+| Affiliate Settings Guide                   | 19/05/2026, 10:39:38 am   | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=pl)                    |
 | Twitch Turbo Guide                         | 16/05/2026, 6:14:48 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pl)                          |
 | Two Factor Authentication                  | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=pl)                   |
 | Partner Program Overview                   | 09/05/2026, 4:48:48 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pl)                    |
@@ -25,11 +28,7 @@
 | Account Hacked                             | 18/04/2026, 6:39:18 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=pl)                              |
 | Date Of Birth Changes                      | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pl)                       |
 | Achievements                               | 10/04/2026, 8:01:37 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pl)                                |
-| Partner Onboarding Guide                   | 10/04/2026, 6:28:26 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pl)                    |
 | Prime Gaming Revenue Guide                 | 10/04/2026, 6:28:16 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=pl)                  |
-| Payout Balance Faq                         | 10/04/2026, 6:28:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=pl)                          |
-| Rejected Payout Faq                        | 10/04/2026, 6:27:54 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=pl)                         |
-| Your First Payout Walkthrough              | 10/04/2026, 6:27:43 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=pl)               |
 
 
 
