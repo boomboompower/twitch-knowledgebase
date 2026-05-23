@@ -6,14 +6,14 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Streamer Benefits                          | 23/05/2026, 10:42:36 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=pt_BR)                           |
+| Dac7 Interview                             | 23/05/2026, 8:24:39 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=pt_BR)                              |
 | Past Behavior And Account Standing         | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=pt_BR)          |
 | Revenue                                    | 21/05/2026, 9:23:45 am    | [Link](https://help.twitch.tv/s/article/revenue?language=pt_BR)                                     |
 | Power Ups                                  | 20/05/2026, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=pt_BR)                                   |
 | Viewer Custom Power Ups Guide              | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=pt_BR)               |
 | Creator Badge Rewards                      | 20/05/2026, 2:01:13 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=pt_BR)                       |
 | Partner Onboarding Guide                   | 19/05/2026, 10:48:49 am   | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pt_BR)                    |
-| Dac7 Interview                             | 19/05/2026, 10:42:32 am   | [Link](https://help.twitch.tv/s/article/dac7-interview?language=pt_BR)                              |
-| Streamer Benefits                          | 19/05/2026, 10:41:43 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=pt_BR)                           |
 | Enroll Spendable Balance                   | 19/05/2026, 10:41:01 am   | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=pt_BR)                    |
 | Partner Settings Guide                     | 19/05/2026, 10:40:20 am   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=pt_BR)                      |
 | Affiliate Settings Guide                   | 19/05/2026, 10:39:38 am   | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=pt_BR)                    |

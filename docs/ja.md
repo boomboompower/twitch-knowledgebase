@@ -6,17 +6,17 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Enroll Spendable Balance                   | 22/05/2026, 0:03:14 pm    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=ja)                    |
+| Partner Settings Guide                     | 22/05/2026, 0:00:47 pm    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=ja)                      |
+| Affiliate Settings Guide                   | 22/05/2026, 11:52:09 am   | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=ja)                    |
+| Revenue                                    | 22/05/2026, 11:42:43 am   | [Link](https://help.twitch.tv/s/article/revenue?language=ja)                                     |
+| Dac7 Interview                             | 22/05/2026, 11:26:23 am   | [Link](https://help.twitch.tv/s/article/dac7-interview?language=ja)                              |
+| Streamer Benefits                          | 22/05/2026, 11:20:25 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                           |
 | Partner Onboarding Guide                   | 22/05/2026, 9:43:24 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ja)                    |
 | Past Behavior And Account Standing         | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=ja)          |
-| Revenue                                    | 21/05/2026, 9:23:45 am    | [Link](https://help.twitch.tv/s/article/revenue?language=ja)                                     |
 | Power Ups                                  | 20/05/2026, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=ja)                                   |
 | Viewer Custom Power Ups Guide              | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=ja)               |
 | Creator Badge Rewards                      | 20/05/2026, 2:01:13 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=ja)                       |
-| Dac7 Interview                             | 19/05/2026, 10:42:32 am   | [Link](https://help.twitch.tv/s/article/dac7-interview?language=ja)                              |
-| Streamer Benefits                          | 19/05/2026, 10:41:43 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                           |
-| Enroll Spendable Balance                   | 19/05/2026, 10:41:01 am   | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=ja)                    |
-| Partner Settings Guide                     | 19/05/2026, 10:40:20 am   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=ja)                      |
-| Affiliate Settings Guide                   | 19/05/2026, 10:39:38 am   | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=ja)                    |
 | Twitch Turbo Guide                         | 16/05/2026, 6:14:56 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                          |
 | How To Use Badges                          | 16/05/2026, 6:01:37 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=ja)                           |
 | How To Use Emotes                          | 16/05/2026, 6:01:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=ja)                           |
