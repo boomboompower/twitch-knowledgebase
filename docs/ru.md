@@ -36,6 +36,10 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Prime Gaming Revenue Guide                       | 10/04/2026, 6:28:16 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=ru)                        |
+| Payout Balance Faq                               | 10/04/2026, 6:28:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=ru)                                |
+| Rejected Payout Faq                              | 10/04/2026, 6:27:54 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=ru)                               |
+| Your First Payout Walkthrough                    | 10/04/2026, 6:27:43 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=ru)                     |
 | Payout History Dashboard Guide                   | 10/04/2026, 6:27:31 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=ru)                    |
 | Local Sub Price Countries                        | 10/04/2026, 5:42:01 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ru)                         |
 | Channel Points Faq                               | 10/04/2026, 4:54:15 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=ru)                                |
@@ -57,7 +61,6 @@
 | Games Irl And Music Directories                  | 06/03/2026, 9:11:21 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=ru)                   |
 | Experiments                                      | 06/03/2026, 9:11:09 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ru)                                       |
 | Broadcasting Guidelines                          | 06/03/2026, 9:10:49 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ru)                           |
-| Partner Settings Guide                           | 06/03/2026, 9:08:53 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=ru)                            |
 | How To Provide Feedback                          | 06/03/2026, 9:08:37 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=ru)                           |
 | Contacting Partner Help                          | 06/03/2026, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=ru)                           |
 | How To Use Raids                                 | 06/03/2026, 9:05:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=ru)                                  |
@@ -103,6 +106,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Music Options For Streamers                                   | 23/10/2025, 9:18:37 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=ru)                                    |
 | Tips For Applying To The Partner Program                      | 23/10/2025, 8:02:21 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=ru)                       |
 | Subscription Cancellation Reasons                             | 15/10/2025, 1:54:51 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=ru)                              |
 | Alerts By Twitch Events                                       | 04/10/2025, 11:38:32 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=ru)                                        |
@@ -165,7 +169,6 @@
 | Animated Emotes                        | 31/01/2024, 4:27:29 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=ru)                         |
 | First Steps For New Affiliates         | 07/12/2023, 11:01:35 pm   | [Link](https://help.twitch.tv/s/article/first-steps-for-new-affiliates?language=ru)          |
 | Alerts By Twitch                       | 04/12/2023, 9:55:40 pm    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch?language=ru)                        |
-| Affiliate Settings Guide               | 03/12/2023, 8:17:06 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=ru)                |
 | Navigating The Feedback Forum          | 26/08/2023, 1:20:37 am    | [Link](https://help.twitch.tv/s/article/navigating-the-feedback-forum?language=ru)           |
 | Tips On Feedback                       | 26/08/2023, 1:20:35 am    | [Link](https://help.twitch.tv/s/article/tips-on-feedback?language=ru)                        |
 | Understanding Feedback Updates         | 26/08/2023, 1:20:34 am    | [Link](https://help.twitch.tv/s/article/understanding-feedback-updates?language=ru)          |
@@ -200,6 +203,7 @@
 | Rpg Megacheer                          | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=ru)                           |
 | Megacheer Food Fight                   | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=ru)                    |
 | Community Meetups Powered By Twitch    | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=ru)     |
+| How To Claim In Game Content           | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=ru)            |
 
 
 
@@ -208,14 +212,12 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
-| How To Claim In Game Content                      | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=ru)                       |
 | Changes To Subscription Badges And Resub Messages | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages?language=ru)  |
 | Guide To Custom Messages                          | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=ru)                           |
 | How To Handle View Follow Bots                    | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=ru)                     |
 | Guide To Building A Moderation Team               | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/guide-to-building-a-moderation-team?language=ru)                |
 | Twitch Policies And Guidelines                    | 22/10/2021, 8:53:32 am    | [Link](https://help.twitch.tv/s/article/twitch-policies-and-guidelines?language=ru)                     |
 | Making The Most Of Channel Points                 | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/making-the-most-of-channel-points?language=ru)                  |
-| Audio Ads                                         | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/audio-ads?language=ru)                                          |
 | Ad Offer Faq                                      | 22/10/2021, 8:53:22 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=ru)                                       |
 | Extensions Switch With Your Game Selection        | 22/10/2021, 8:53:11 am    | [Link](https://help.twitch.tv/s/article/extensions-switch-with-your-game-selection?language=ru)         |
 | Recommended Hardware For Broadcasting             | 22/10/2021, 8:53:11 am    | [Link](https://help.twitch.tv/s/article/recommended-hardware-for-broadcasting?language=ru)              |

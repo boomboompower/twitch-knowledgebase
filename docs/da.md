@@ -18,6 +18,7 @@
 
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                               |
 |----------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------|
+| Twitch Prime Partner Guide                   | 10/04/2026, 6:28:16 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=da)                    |
 | Gift Subscriptions                           | 03/04/2026, 11:00:08 am   | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=da)                            |
 | Recommended Software For Broadcasting        | 03/04/2026, 10:25:17 am   | [Link](https://help.twitch.tv/s/article/recommended-software-for-broadcasting?language=da)         |
 | How To Manage Harassment In Chat             | 25/03/2026, 6:37:10 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=da)              |
@@ -65,6 +66,7 @@
 | Guide To Tags                       | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=da)                        |
 | How To Use Extensions               | 26/10/2022, 7:04:49 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=da)                |
 | Community Meetups Powered By Twitch | 22/10/2021, 8:54:27 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=da)  |
+| How To Claim In Game Content        | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=da)         |
 
 
 
@@ -73,7 +75,6 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
-| How To Claim In Game Content                      | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=da)                       |
 | Changes To Subscription Badges And Resub Messages | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages?language=da)  |
 | Guide To Custom Messages                          | 22/10/2021, 8:53:51 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=da)                           |
 | Ad Offer Faq                                      | 22/10/2021, 8:53:25 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=da)                                       |

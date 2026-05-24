@@ -59,10 +59,11 @@
 ## Article-6
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-6.xml) this sitemap
 
-| Name                        | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Guide To Tags               | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=sv)                |
-| A Tour Of Your Channel Page | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=sv)  |
+| Name                         | Last Updated (dd/mm/yyyy) | Link                                                                               |
+|------------------------------|---------------------------|------------------------------------------------------------------------------------|
+| Guide To Tags                | 04/05/2023, 2:37:27 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=sv)                 |
+| A Tour Of Your Channel Page  | 09/08/2022, 4:00:26 am    | [Link](https://help.twitch.tv/s/article/a-tour-of-your-channel-page?language=sv)   |
+| How To Claim In Game Content | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=sv)  |
 
 
 
@@ -71,7 +72,6 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                    |
 |---------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------|
-| How To Claim In Game Content                      | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=sv)                       |
 | Changes To Subscription Badges And Resub Messages | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages?language=sv)  |
 | Guide To Custom Messages                          | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=sv)                           |
 | Ad Offer Faq                                      | 22/10/2021, 8:53:23 am    | [Link](https://help.twitch.tv/s/article/ad-offer-faq?language=sv)                                       |
