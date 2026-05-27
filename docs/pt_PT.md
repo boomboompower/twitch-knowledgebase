@@ -14,7 +14,6 @@
 | Twitch Affiliate Program Faq           | 21/04/2026, 9:39:51 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)            |
 | Joining The Affiliate Program          | 21/04/2026, 9:39:48 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)           |
 | Account Hacked                         | 18/04/2026, 6:39:18 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=pt_PT)                          |
-| Achievements                           | 10/04/2026, 8:01:37 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                            |
 
 
 

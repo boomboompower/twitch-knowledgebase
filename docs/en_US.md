@@ -6,6 +6,9 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Hype Train Guide                           | 27/05/2026, 9:15:48 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=en_US)                            |
+| When Am I Getting Paid                     | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=en_US)                      |
+| Your First Payout Walkthrough              | 27/05/2026, 9:14:26 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=en_US)               |
 | Past Behavior And Account Standing         | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=en_US)          |
 | Revenue                                    | 21/05/2026, 9:23:45 am    | [Link](https://help.twitch.tv/s/article/revenue?language=en_US)                                     |
 | Power Ups                                  | 20/05/2026, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=en_US)                                   |
@@ -56,9 +59,6 @@
 | Auto Clips                                 | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                                  |
 | Leaderboards Guide                         | 10/04/2026, 8:02:11 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=en_US)                          |
 | Achievements                               | 10/04/2026, 8:01:37 am    | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                                |
-| Bleed Purple                               | 10/04/2026, 8:01:26 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=en_US)                                |
-| Getting Started On Twitch                  | 10/04/2026, 7:58:12 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=en_US)                   |
-| Dj Program Faq                             | 10/04/2026, 7:51:57 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=en_US)                              |
 
 
 
@@ -391,9 +391,14 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name            | Last Updated (dd/mm/yyyy) | Link                                                                     |
-|-----------------|---------------------------|--------------------------------------------------------------------------|
-| Streamer Shouts | 09/05/2026, 10:35:08 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=en_US)  |
+| Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
+|------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Past Behavior And Account Standing | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=en_US)  |
+| Viewer Custom Power Ups Guide      | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=en_US)       |
+| Creator Badge Rewards              | 20/05/2026, 2:01:13 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=en_US)               |
+| Streamer Shouts                    | 09/05/2026, 10:35:08 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=en_US)                     |
+| Iceland Tax Interview              | 09/05/2026, 9:33:30 am    | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=en_US)               |
+| Weekly Rewards                     | 29/04/2026, 7:17:30 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=en_US)                      |
 
 
 

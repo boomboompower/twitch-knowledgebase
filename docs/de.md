@@ -6,6 +6,9 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Hype Train Guide                           | 27/05/2026, 9:15:52 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=de)                            |
+| When Am I Getting Paid                     | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=de)                      |
+| Your First Payout Walkthrough              | 27/05/2026, 9:14:26 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=de)               |
 | Revenue                                    | 25/05/2026, 4:12:38 am    | [Link](https://help.twitch.tv/s/article/revenue?language=de)                                     |
 | Past Behavior And Account Standing         | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=de)          |
 | Power Ups                                  | 20/05/2026, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=de)                                   |
@@ -58,9 +61,6 @@
 | Channel Points Faq                         | 13/04/2026, 10:20:25 pm   | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=de)                          |
 | Leaderboards Guide                         | 10/04/2026, 8:02:12 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=de)                          |
 | Achievements                               | 10/04/2026, 8:01:37 am    | [Link](https://help.twitch.tv/s/article/achievements?language=de)                                |
-| Bleed Purple                               | 10/04/2026, 8:01:27 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=de)                                |
-| Getting Started On Twitch                  | 10/04/2026, 7:58:12 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=de)                   |
-| Dj Program Faq                             | 10/04/2026, 7:51:57 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=de)                              |
 
 
 
@@ -345,9 +345,14 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name            | Last Updated (dd/mm/yyyy) | Link                                                                  |
-|-----------------|---------------------------|-----------------------------------------------------------------------|
-| Streamer Shouts | 14/05/2026, 10:30:24 pm   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=de)  |
+| Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                     |
+|------------------------------------|---------------------------|------------------------------------------------------------------------------------------|
+| Past Behavior And Account Standing | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=de)  |
+| Viewer Custom Power Ups Guide      | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=de)       |
+| Creator Badge Rewards              | 20/05/2026, 2:01:13 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=de)               |
+| Streamer Shouts                    | 14/05/2026, 10:30:24 pm   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=de)                     |
+| Iceland Tax Interview              | 13/05/2026, 6:27:04 pm    | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=de)               |
+| Weekly Rewards                     | 01/05/2026, 7:44:08 pm    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=de)                      |
 
 
 

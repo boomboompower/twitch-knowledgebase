@@ -6,17 +6,20 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Hype Train Guide                           | 27/05/2026, 9:15:52 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=it)                            |
+| When Am I Getting Paid                     | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=it)                      |
+| Your First Payout Walkthrough              | 27/05/2026, 9:14:27 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=it)               |
+| Partner Onboarding Guide                   | 26/05/2026, 4:56:24 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=it)                    |
+| Affiliate Settings Guide                   | 26/05/2026, 4:45:08 pm    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=it)                    |
+| Partner Settings Guide                     | 26/05/2026, 4:44:28 pm    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=it)                      |
+| Enroll Spendable Balance                   | 26/05/2026, 4:43:46 pm    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=it)                    |
+| Streamer Benefits                          | 26/05/2026, 4:34:24 pm    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=it)                           |
+| Dac7 Interview                             | 26/05/2026, 4:29:53 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=it)                              |
 | Revenue                                    | 22/05/2026, 5:32:54 pm    | [Link](https://help.twitch.tv/s/article/revenue?language=it)                                     |
 | Past Behavior And Account Standing         | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=it)          |
 | Power Ups                                  | 20/05/2026, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=it)                                   |
 | Viewer Custom Power Ups Guide              | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=it)               |
 | Creator Badge Rewards                      | 20/05/2026, 2:01:13 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=it)                       |
-| Partner Onboarding Guide                   | 19/05/2026, 10:48:49 am   | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=it)                    |
-| Dac7 Interview                             | 19/05/2026, 10:42:32 am   | [Link](https://help.twitch.tv/s/article/dac7-interview?language=it)                              |
-| Streamer Benefits                          | 19/05/2026, 10:41:43 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=it)                           |
-| Enroll Spendable Balance                   | 19/05/2026, 10:41:01 am   | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=it)                    |
-| Partner Settings Guide                     | 19/05/2026, 10:40:20 am   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=it)                      |
-| Affiliate Settings Guide                   | 19/05/2026, 10:39:38 am   | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=it)                    |
 | Twitch Turbo Guide                         | 16/05/2026, 6:14:56 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=it)                          |
 | How To Use Badges                          | 16/05/2026, 6:01:37 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=it)                           |
 | How To Use Emotes                          | 16/05/2026, 6:01:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=it)                           |
@@ -58,9 +61,6 @@
 | Channel Points Faq                         | 10/04/2026, 9:15:59 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=it)                          |
 | Leaderboards Guide                         | 10/04/2026, 8:02:11 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=it)                          |
 | Achievements                               | 10/04/2026, 8:01:37 am    | [Link](https://help.twitch.tv/s/article/achievements?language=it)                                |
-| Bleed Purple                               | 10/04/2026, 8:01:28 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=it)                                |
-| Getting Started On Twitch                  | 10/04/2026, 7:58:14 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=it)                   |
-| Dj Program Faq                             | 10/04/2026, 7:51:57 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=it)                              |
 
 
 
@@ -336,6 +336,19 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=it)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=it)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=it)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                     |
+|------------------------------------|---------------------------|------------------------------------------------------------------------------------------|
+| Past Behavior And Account Standing | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=it)  |
+| Viewer Custom Power Ups Guide      | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=it)       |
+| Creator Badge Rewards              | 20/05/2026, 2:01:13 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=it)               |
+| Streamer Shouts                    | 14/05/2026, 10:10:09 pm   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=it)                     |
+| Weekly Rewards                     | 29/04/2026, 7:01:03 pm    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=it)                      |
 
 
 

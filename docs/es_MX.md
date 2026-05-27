@@ -6,6 +6,9 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Hype Train Guide                           | 27/05/2026, 9:15:52 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=es_MX)                            |
+| When Am I Getting Paid                     | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=es_MX)                      |
+| Your First Payout Walkthrough              | 27/05/2026, 9:14:27 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=es_MX)               |
 | Partner Onboarding Guide                   | 22/05/2026, 11:08:39 am   | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es_MX)                    |
 | Affiliate Settings Guide                   | 22/05/2026, 7:47:19 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=es_MX)                    |
 | Partner Settings Guide                     | 22/05/2026, 7:45:14 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=es_MX)                      |
@@ -58,9 +61,6 @@
 | Channel Points Faq                         | 10/04/2026, 0:38:49 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=es_MX)                          |
 | Leaderboards Guide                         | 10/04/2026, 8:02:13 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=es_MX)                          |
 | Achievements                               | 10/04/2026, 8:01:37 am    | [Link](https://help.twitch.tv/s/article/achievements?language=es_MX)                                |
-| Bleed Purple                               | 10/04/2026, 8:01:27 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=es_MX)                                |
-| Getting Started On Twitch                  | 10/04/2026, 7:58:13 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=es_MX)                   |
-| Dj Program Faq                             | 10/04/2026, 7:51:57 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=es_MX)                              |
 
 
 
@@ -335,6 +335,19 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=es_MX)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
+|------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Past Behavior And Account Standing | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es_MX)  |
+| Viewer Custom Power Ups Guide      | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=es_MX)       |
+| Creator Badge Rewards              | 20/05/2026, 2:01:13 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es_MX)               |
+| Streamer Shouts                    | 13/05/2026, 2:38:25 am    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=es_MX)                     |
+| Weekly Rewards                     | 30/04/2026, 9:33:53 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es_MX)                      |
 
 
 
