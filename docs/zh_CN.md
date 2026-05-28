@@ -8,7 +8,6 @@
 |--------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
 | Two Factor Authentication With Authy | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=zh_CN)  |
 | Chat Commands                        | 02/05/2026, 2:03:26 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_CN)                         |
-| Account Hacked                       | 18/04/2026, 6:39:18 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=zh_CN)                        |
 
 
 
