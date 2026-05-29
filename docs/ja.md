@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                 | 29/05/2026, 9:46:08 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)                  |
 | Moderation Analytics                       | 28/05/2026, 4:52:10 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=ja)                        |
 | How To Handle View Follow Bots             | 28/05/2026, 4:52:06 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=ja)              |
 | How To Manage Harassment In Chat           | 28/05/2026, 4:51:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ja)            |
@@ -41,7 +42,6 @@
 | Managing Roles For Your Channel            | 09/05/2026, 4:46:59 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ja)             |
 | Guide To Cheering With Bits                | 09/05/2026, 4:25:54 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ja)                 |
 | Mission Based Drops                        | 08/05/2026, 7:57:05 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                         |
-| Dual Format Vertical Video                 | 06/05/2026, 9:32:59 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=ja)                  |
 | Joining The Affiliate Program              | 06/05/2026, 9:29:25 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ja)               |
 | Twitch Affiliate Program Faq               | 06/05/2026, 9:29:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)                |
 | Chat Basics                                | 02/05/2026, 2:03:58 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=ja)                                 |

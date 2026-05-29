@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                 | 29/05/2026, 9:46:08 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                  |
 | Moderation Analytics                       | 28/05/2026, 4:52:10 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=zh_TW)                        |
 | How To Handle View Follow Bots             | 28/05/2026, 4:52:06 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=zh_TW)              |
 | How To Manage Harassment In Chat           | 28/05/2026, 4:51:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=zh_TW)            |
@@ -40,7 +41,6 @@
 | Managing Roles For Your Channel            | 09/05/2026, 4:46:59 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=zh_TW)             |
 | Guide To Cheering With Bits                | 09/05/2026, 4:25:55 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=zh_TW)                 |
 | Mission Based Drops                        | 08/05/2026, 7:57:05 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=zh_TW)                         |
-| Dual Format Vertical Video                 | 05/05/2026, 7:03:01 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                  |
 | Twitch Affiliate Program Faq               | 05/05/2026, 5:44:15 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                |
 | Joining The Affiliate Program              | 05/05/2026, 5:44:09 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)               |
 | Weekly Rewards                             | 02/05/2026, 4:02:52 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=zh_TW)                              |

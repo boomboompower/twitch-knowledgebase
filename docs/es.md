@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                 | 29/05/2026, 9:46:08 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es)                  |
 | Moderation Analytics                       | 28/05/2026, 4:52:10 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=es)                        |
 | How To Handle View Follow Bots             | 28/05/2026, 4:52:05 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=es)              |
 | How To Manage Harassment In Chat           | 28/05/2026, 4:51:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es)            |
@@ -41,7 +42,6 @@
 | Managing Roles For Your Channel            | 09/05/2026, 4:46:58 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=es)             |
 | Guide To Cheering With Bits                | 09/05/2026, 4:25:54 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=es)                 |
 | Mission Based Drops                        | 08/05/2026, 7:57:05 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es)                         |
-| Dual Format Vertical Video                 | 05/05/2026, 4:57:57 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es)                  |
 | Joining The Affiliate Program              | 05/05/2026, 4:51:15 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es)               |
 | Twitch Affiliate Program Faq               | 05/05/2026, 4:51:10 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                |
 | Chat Basics                                | 02/05/2026, 2:03:57 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=es)                                 |
@@ -59,6 +59,7 @@
 | Bits Purchase Troubleshooting              | 25/04/2026, 8:52:50 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=es)               |
 | How To Purchase Bits                       | 25/04/2026, 8:52:04 am    | [Link](https://help.twitch.tv/s/article/how-to-purchase-bits?language=es)                        |
 | Affiliate Or Partner Anniversary Settings  | 25/04/2026, 8:50:31 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=es)   |
+| Twitch Account Access Login Issues Guide   | 18/04/2026, 6:39:33 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=es)    |
 
 
 

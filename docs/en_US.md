@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                 | 29/05/2026, 9:46:08 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)                  |
 | Moderation Analytics                       | 28/05/2026, 4:52:10 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=en_US)                        |
 | How To Handle View Follow Bots             | 28/05/2026, 4:52:05 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=en_US)              |
 | How To Manage Harassment In Chat           | 28/05/2026, 4:51:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=en_US)            |
@@ -49,7 +50,6 @@
 | Support Subscriptions                      | 02/05/2026, 2:00:15 am    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=en_US)                       |
 | How Subscription Streaks Work              | 02/05/2026, 2:00:11 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=en_US)               |
 | Managing And Upgrading A Gift Subscription | 02/05/2026, 1:59:57 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=en_US)  |
-| Dual Format Vertical Video                 | 02/05/2026, 1:36:21 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)                  |
 | Monthly Recap                              | 30/04/2026, 5:02:44 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=en_US)                               |
 | Username Rename And Recycling Policies     | 30/04/2026, 5:01:33 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=en_US)      |
 | Digital Services Act                       | 30/04/2026, 4:38:56 am    | [Link](https://help.twitch.tv/s/article/digital-services-act?language=en_US)                        |

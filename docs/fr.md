@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                 | 29/05/2026, 9:46:08 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                  |
 | Partner Onboarding Guide                   | 28/05/2026, 5:52:03 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=fr)                    |
 | Moderation Analytics                       | 28/05/2026, 4:52:10 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=fr)                        |
 | How To Handle View Follow Bots             | 28/05/2026, 4:52:06 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=fr)              |
@@ -48,7 +49,6 @@
 | Managing Roles For Your Channel            | 09/05/2026, 4:46:57 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=fr)             |
 | Guide To Cheering With Bits                | 09/05/2026, 4:25:54 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=fr)                 |
 | Mission Based Drops                        | 08/05/2026, 7:57:05 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=fr)                         |
-| Dual Format Vertical Video                 | 06/05/2026, 6:37:39 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                  |
 | Joining The Affiliate Program              | 06/05/2026, 6:31:57 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=fr)               |
 | Twitch Affiliate Program Faq               | 06/05/2026, 6:31:45 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=fr)                |
 | Chat Basics                                | 02/05/2026, 2:03:57 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=fr)                                 |

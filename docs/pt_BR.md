@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                 | 29/05/2026, 9:46:08 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=pt_BR)                  |
 | Moderation Analytics                       | 28/05/2026, 4:52:10 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=pt_BR)                        |
 | How To Handle View Follow Bots             | 28/05/2026, 4:52:06 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=pt_BR)              |
 | How To Manage Harassment In Chat           | 28/05/2026, 4:51:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_BR)            |
@@ -43,7 +44,6 @@
 | Mission Based Drops                        | 08/05/2026, 7:57:05 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pt_BR)                         |
 | Joining The Affiliate Program              | 05/05/2026, 0:32:49 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)               |
 | Twitch Affiliate Program Faq               | 05/05/2026, 0:32:48 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_BR)                |
-| Dual Format Vertical Video                 | 05/05/2026, 0:23:20 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=pt_BR)                  |
 | Chat Basics                                | 02/05/2026, 2:03:58 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=pt_BR)                                 |
 | Chat Commands                              | 02/05/2026, 2:03:28 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_BR)                               |
 | Twitch Chat Badges Guide                   | 02/05/2026, 2:03:20 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=pt_BR)                    |
