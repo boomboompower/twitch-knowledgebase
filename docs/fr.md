@@ -6,7 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
-| Dual Format Vertical Video                 | 29/05/2026, 9:46:08 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                  |
+| Dual Format Vertical Video                 | 30/05/2026, 4:44:00 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                  |
 | Partner Onboarding Guide                   | 28/05/2026, 5:52:03 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=fr)                    |
 | Moderation Analytics                       | 28/05/2026, 4:52:10 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=fr)                        |
 | How To Handle View Follow Bots             | 28/05/2026, 4:52:06 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=fr)              |
