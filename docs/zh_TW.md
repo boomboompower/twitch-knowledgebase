@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Signing Up Logging In Social Accounts      | 31/05/2026, 2:53:14 pm    | [Link](https://help.twitch.tv/s/article/signing-up-logging-in-social-accounts?language=zh_TW)       |
 | How To Use Badges                          | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=zh_TW)                           |
 | Twitch Chat Badges Guide                   | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                    |
 | Guide To Custom Messages                   | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=zh_TW)                    |

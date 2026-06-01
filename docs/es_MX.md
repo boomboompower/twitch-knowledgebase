@@ -60,7 +60,6 @@
 | Contacting Purchase Support                | 25/04/2026, 8:52:57 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=es_MX)                 |
 | Bits Purchase Troubleshooting              | 25/04/2026, 8:52:48 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=es_MX)               |
 | How To Purchase Bits                       | 25/04/2026, 8:52:04 am    | [Link](https://help.twitch.tv/s/article/how-to-purchase-bits?language=es_MX)                        |
-| Affiliate Or Partner Anniversary Settings  | 25/04/2026, 8:50:31 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=es_MX)   |
 
 
 

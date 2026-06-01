@@ -11,7 +11,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 |-------------------------------|---------------------------|----------------|------------------------|
 | Bulgarian                     | 02/05/2026, 2:03:26 am    | 2 article(s)   | [View](docs/bg.md)     |
 | Chinese (Simplified, China)   | 09/05/2026, 4:52:29 am    | 6 article(s)   | [View](docs/zh_CN.md)  |
-| Chinese (Traditional, Taiwan) | 31/05/2026, 3:01:04 am    | 284 article(s) | [View](docs/zh_TW.md)  |
+| Chinese (Traditional, Taiwan) | 31/05/2026, 2:53:14 pm    | 285 article(s) | [View](docs/zh_TW.md)  |
 | Czech                         | 31/05/2026, 3:01:01 am    | 17 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 31/05/2026, 3:01:01 am    | 24 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 31/05/2026, 3:01:01 am    | 30 article(s)  | [View](docs/nl_NL.md)  |
@@ -31,7 +31,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Russian                       | 31/05/2026, 3:01:01 am    | 171 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 02/05/2026, 2:03:26 am    | 2 article(s)   | [View](docs/sk.md)     |
 | Spanish                       | 31/05/2026, 3:01:04 am    | 285 article(s) | [View](docs/es.md)     |
-| Spanish (Mexico)              | 31/05/2026, 3:01:04 am    | 286 article(s) | [View](docs/es_MX.md)  |
+| Spanish (Mexico)              | 31/05/2026, 3:01:04 am    | 285 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 31/05/2026, 3:01:01 am    | 22 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 31/05/2026, 3:01:01 am    | 166 article(s) | [View](docs/th.md)     |
 | Turkish                       | 31/05/2026, 3:01:01 am    | 170 article(s) | [View](docs/tr.md)     |
