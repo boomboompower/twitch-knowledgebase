@@ -6,7 +6,9 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
-| Creating An Account With Twitch            | 03/06/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)             |
+| Creating An Account With Twitch            | 04/06/2026, 7:47:33 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)             |
+| Charitable Donations                       | 04/06/2026, 4:38:04 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=zh_TW)                        |
+| How To Use Clips                           | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                            |
 | Partner Front Page                         | 03/06/2026, 7:00:22 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                          |
 | Dual Format Vertical Video                 | 02/06/2026, 6:55:54 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                  |
 | Creator Badge Rewards                      | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=zh_TW)                       |
@@ -27,7 +29,6 @@
 | How To Sub Only Archives                   | 28/05/2026, 4:47:46 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=zh_TW)                    |
 | Video On Demand                            | 28/05/2026, 4:47:41 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                             |
 | Social Badge                               | 28/05/2026, 4:47:34 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=zh_TW)                                |
-| How To Use Clips                           | 28/05/2026, 4:47:28 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                            |
 | Affiliate Settings Guide                   | 27/05/2026, 9:58:31 pm    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=zh_TW)                    |
 | Partner Settings Guide                     | 27/05/2026, 9:50:39 pm    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=zh_TW)                      |
 | Dac7 Interview                             | 27/05/2026, 9:44:24 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=zh_TW)                              |
@@ -59,8 +60,6 @@
 | Support Subscriptions                      | 02/05/2026, 2:00:16 am    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=zh_TW)                       |
 | How Subscription Streaks Work              | 02/05/2026, 2:00:13 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=zh_TW)               |
 | Managing And Upgrading A Gift Subscription | 02/05/2026, 1:59:58 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=zh_TW)  |
-| Monthly Recap                              | 30/04/2026, 5:02:53 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=zh_TW)                               |
-| Username Rename And Recycling Policies     | 30/04/2026, 5:01:36 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=zh_TW)      |
 
 
 

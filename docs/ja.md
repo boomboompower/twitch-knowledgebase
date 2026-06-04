@@ -6,8 +6,10 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Creating An Account With Twitch            | 04/06/2026, 7:47:14 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ja)             |
+| Charitable Donations                       | 04/06/2026, 7:46:14 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=ja)                        |
+| How To Use Clips                           | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                            |
 | Partner Front Page                         | 03/06/2026, 9:15:00 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=ja)                          |
-| Creating An Account With Twitch            | 03/06/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ja)             |
 | Creator Badge Rewards                      | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=ja)                       |
 | Creator Certification                      | 02/06/2026, 7:29:20 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=ja)                       |
 | Gift Card                                  | 02/06/2026, 7:23:31 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=ja)                                   |
@@ -27,7 +29,6 @@
 | How To Sub Only Archives                   | 28/05/2026, 4:47:45 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=ja)                    |
 | Video On Demand                            | 28/05/2026, 4:47:40 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                             |
 | Social Badge                               | 28/05/2026, 4:47:33 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=ja)                                |
-| How To Use Clips                           | 28/05/2026, 4:47:28 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                            |
 | Hype Train Guide                           | 27/05/2026, 9:15:52 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=ja)                            |
 | When Am I Getting Paid                     | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=ja)                      |
 | Your First Payout Walkthrough              | 27/05/2026, 9:14:28 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=ja)               |
@@ -60,8 +61,6 @@
 | How Subscription Streaks Work              | 02/05/2026, 2:00:11 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=ja)               |
 | Managing And Upgrading A Gift Subscription | 02/05/2026, 1:59:58 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=ja)  |
 | Weekly Rewards                             | 01/05/2026, 11:02:42 am   | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=ja)                              |
-| Monthly Recap                              | 30/04/2026, 5:02:44 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=ja)                               |
-| Username Rename And Recycling Policies     | 30/04/2026, 5:01:35 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=ja)      |
 
 
 

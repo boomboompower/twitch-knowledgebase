@@ -6,8 +6,10 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
-| Creating An Account With Twitch            | 03/06/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)             |
-| Partner Front Page                         | 03/06/2026, 7:00:22 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es_MX)                          |
+| Creating An Account With Twitch            | 04/06/2026, 7:47:19 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)             |
+| Partner Front Page                         | 04/06/2026, 7:22:54 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es_MX)                          |
+| Charitable Donations                       | 04/06/2026, 4:38:03 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=es_MX)                        |
+| How To Use Clips                           | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                            |
 | Creator Badge Rewards                      | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es_MX)                       |
 | Creator Certification                      | 02/06/2026, 7:29:19 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)                       |
 | Gift Card                                  | 02/06/2026, 7:23:31 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=es_MX)                                   |
@@ -28,7 +30,6 @@
 | How To Sub Only Archives                   | 28/05/2026, 4:47:45 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es_MX)                    |
 | Video On Demand                            | 28/05/2026, 4:47:40 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es_MX)                             |
 | Social Badge                               | 28/05/2026, 4:47:33 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=es_MX)                                |
-| How To Use Clips                           | 28/05/2026, 4:47:27 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                            |
 | Hype Train Guide                           | 27/05/2026, 9:15:52 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=es_MX)                            |
 | When Am I Getting Paid                     | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=es_MX)                      |
 | Your First Payout Walkthrough              | 27/05/2026, 9:14:27 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=es_MX)               |
@@ -60,8 +61,6 @@
 | Support Subscriptions                      | 02/05/2026, 2:00:15 am    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=es_MX)                       |
 | How Subscription Streaks Work              | 02/05/2026, 2:00:12 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=es_MX)               |
 | Managing And Upgrading A Gift Subscription | 02/05/2026, 1:59:57 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=es_MX)  |
-| Weekly Rewards                             | 30/04/2026, 9:33:53 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es_MX)                              |
-| Monthly Recap                              | 30/04/2026, 5:02:52 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=es_MX)                               |
 
 
 

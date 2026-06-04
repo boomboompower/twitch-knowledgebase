@@ -6,6 +6,8 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Charitable Donations                       | 04/06/2026, 4:38:02 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=en_US)                        |
+| How To Use Clips                           | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                            |
 | Creating An Account With Twitch            | 03/06/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=en_US)             |
 | Partner Front Page                         | 03/06/2026, 7:00:22 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)                          |
 | Creator Badge Rewards                      | 02/06/2026, 7:33:29 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=en_US)                       |
@@ -27,7 +29,6 @@
 | How To Sub Only Archives                   | 28/05/2026, 4:47:44 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=en_US)                    |
 | Video On Demand                            | 28/05/2026, 4:47:39 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                             |
 | Social Badge                               | 28/05/2026, 4:47:32 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=en_US)                                |
-| How To Use Clips                           | 28/05/2026, 4:47:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                            |
 | Hype Train Guide                           | 27/05/2026, 9:15:48 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=en_US)                            |
 | When Am I Getting Paid                     | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=en_US)                      |
 | Your First Payout Walkthrough              | 27/05/2026, 9:14:26 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=en_US)               |
@@ -58,7 +59,6 @@
 | Support Subscriptions                      | 02/05/2026, 2:00:15 am    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=en_US)                       |
 | How Subscription Streaks Work              | 02/05/2026, 2:00:11 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=en_US)               |
 | Managing And Upgrading A Gift Subscription | 02/05/2026, 1:59:57 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=en_US)  |
-| Monthly Recap                              | 30/04/2026, 5:02:44 am    | [Link](https://help.twitch.tv/s/article/monthly-recap?language=en_US)                               |
 
 
 
