@@ -6,10 +6,11 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Hype Train Guide                           | 05/06/2026, 4:21:06 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=zh_TW)                            |
+| How To Use Clips                           | 04/06/2026, 7:17:26 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                            |
+| Partner Front Page                         | 04/06/2026, 2:25:00 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                          |
 | Creating An Account With Twitch            | 04/06/2026, 7:47:33 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)             |
 | Charitable Donations                       | 04/06/2026, 4:38:04 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=zh_TW)                        |
-| How To Use Clips                           | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                            |
-| Partner Front Page                         | 03/06/2026, 7:00:22 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                          |
 | Dual Format Vertical Video                 | 02/06/2026, 6:55:54 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                  |
 | Creator Badge Rewards                      | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=zh_TW)                       |
 | Creator Certification                      | 02/06/2026, 7:29:20 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=zh_TW)                       |
@@ -60,6 +61,7 @@
 | Support Subscriptions                      | 02/05/2026, 2:00:16 am    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=zh_TW)                       |
 | How Subscription Streaks Work              | 02/05/2026, 2:00:13 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=zh_TW)               |
 | Managing And Upgrading A Gift Subscription | 02/05/2026, 1:59:58 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=zh_TW)  |
+| Username Rename And Recycling Policies     | 30/04/2026, 5:01:36 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=zh_TW)      |
 
 
 

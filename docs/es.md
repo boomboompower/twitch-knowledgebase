@@ -6,9 +6,9 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| How To Use Clips                           | 04/06/2026, 10:37:01 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                            |
 | Creating An Account With Twitch            | 04/06/2026, 7:47:22 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es)             |
 | Charitable Donations                       | 04/06/2026, 4:38:02 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=es)                        |
-| How To Use Clips                           | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                            |
 | Partner Front Page                         | 03/06/2026, 7:00:22 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es)                          |
 | Dual Format Vertical Video                 | 02/06/2026, 3:21:01 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es)                  |
 | Creator Badge Rewards                      | 02/06/2026, 7:33:30 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es)                       |
