@@ -6,10 +6,10 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Charitable Donations                       | 05/06/2026, 11:24:59 pm   | [Link](https://help.twitch.tv/s/article/charitable-donations?language=es)                        |
+| Partner Front Page                         | 05/06/2026, 9:32:06 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es)                          |
 | How To Use Clips                           | 04/06/2026, 10:37:01 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                            |
 | Creating An Account With Twitch            | 04/06/2026, 7:47:22 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es)             |
-| Charitable Donations                       | 04/06/2026, 4:38:02 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=es)                        |
-| Partner Front Page                         | 03/06/2026, 7:00:22 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es)                          |
 | Dual Format Vertical Video                 | 02/06/2026, 3:21:01 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es)                  |
 | Creator Badge Rewards                      | 02/06/2026, 7:33:30 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es)                       |
 | Creator Certification                      | 02/06/2026, 7:29:19 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es)                       |
@@ -61,6 +61,7 @@
 | How Subscription Streaks Work              | 02/05/2026, 2:00:12 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=es)               |
 | Managing And Upgrading A Gift Subscription | 02/05/2026, 1:59:57 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=es)  |
 | Weekly Rewards                             | 01/05/2026, 9:27:12 pm    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es)                              |
+| Username Rename And Recycling Policies     | 30/04/2026, 5:01:35 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=es)      |
 
 
 

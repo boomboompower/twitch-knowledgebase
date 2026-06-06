@@ -6,12 +6,12 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Partner Front Page                         | 05/06/2026, 6:05:13 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=fr)                          |
 | Creating An Account With Twitch            | 04/06/2026, 7:47:18 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fr)             |
 | Charitable Donations                       | 04/06/2026, 4:38:03 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=fr)                        |
 | How To Use Clips                           | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                            |
 | Partner Onboarding Guide                   | 03/06/2026, 8:13:23 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=fr)                    |
 | How To Use Emotes                          | 03/06/2026, 8:10:47 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=fr)                           |
-| Partner Front Page                         | 03/06/2026, 7:00:22 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=fr)                          |
 | Creator Certification                      | 02/06/2026, 8:21:25 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=fr)                       |
 | Creator Badge Rewards                      | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=fr)                       |
 | Gift Card                                  | 02/06/2026, 7:23:31 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=fr)                                   |
@@ -68,6 +68,7 @@
 | How Subscription Streaks Work              | 02/05/2026, 2:00:13 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=fr)               |
 | Managing And Upgrading A Gift Subscription | 02/05/2026, 1:59:58 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=fr)  |
 | Weekly Rewards                             | 30/04/2026, 10:34:53 pm   | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=fr)                              |
+| Username Rename And Recycling Policies     | 30/04/2026, 5:01:35 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=fr)      |
 
 
 
