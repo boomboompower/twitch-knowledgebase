@@ -6,9 +6,9 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Charitable Donations                       | 08/06/2026, 6:36:10 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=it)                        |
 | Partner Front Page                         | 04/06/2026, 5:49:30 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=it)                          |
 | Creating An Account With Twitch            | 04/06/2026, 7:47:27 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=it)             |
-| Charitable Donations                       | 04/06/2026, 4:38:03 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=it)                        |
 | How To Use Clips                           | 04/06/2026, 2:28:45 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                            |
 | Creator Badge Rewards                      | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=it)                       |
 | Creator Certification                      | 02/06/2026, 7:29:20 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=it)                       |

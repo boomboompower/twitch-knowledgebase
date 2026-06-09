@@ -61,7 +61,6 @@
 | How Subscription Streaks Work              | 02/05/2026, 2:00:12 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=de)               |
 | Managing And Upgrading A Gift Subscription | 02/05/2026, 1:59:57 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=de)  |
 | Weekly Rewards                             | 01/05/2026, 7:44:08 pm    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=de)                              |
-| Username Rename And Recycling Policies     | 30/04/2026, 5:01:34 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=de)      |
 
 
 
@@ -344,6 +343,15 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=de)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                  | Last Updated (dd/mm/yyyy) | Link                                                                        |
+|-----------------------|---------------------------|-----------------------------------------------------------------------------|
+| Creator Certification | 02/06/2026, 7:29:19 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=de)  |
 
 
 

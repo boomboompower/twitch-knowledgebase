@@ -6,9 +6,9 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Charitable Donations                       | 08/06/2026, 7:41:00 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=fr)                        |
 | Partner Front Page                         | 05/06/2026, 6:05:13 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=fr)                          |
 | Creating An Account With Twitch            | 04/06/2026, 7:47:18 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fr)             |
-| Charitable Donations                       | 04/06/2026, 4:38:03 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=fr)                        |
 | How To Use Clips                           | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                            |
 | Partner Onboarding Guide                   | 03/06/2026, 8:13:23 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=fr)                    |
 | How To Use Emotes                          | 03/06/2026, 8:10:47 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=fr)                           |

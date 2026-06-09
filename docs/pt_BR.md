@@ -6,6 +6,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Guide To Custom Messages                   | 09/06/2026, 6:57:13 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=pt_BR)                    |
 | Charitable Donations                       | 05/06/2026, 1:40:25 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=pt_BR)                        |
 | Partner Front Page                         | 05/06/2026, 2:35:14 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=pt_BR)                          |
 | Creating An Account With Twitch            | 04/06/2026, 7:47:38 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=pt_BR)             |
@@ -16,7 +17,6 @@
 | Gift Card                                  | 02/06/2026, 7:23:31 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=pt_BR)                                   |
 | Gift Card Redeem                           | 02/06/2026, 7:23:25 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=pt_BR)                            |
 | Gift Card Spend                            | 02/06/2026, 7:23:20 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=pt_BR)                             |
-| Guide To Custom Messages                   | 02/06/2026, 2:58:58 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=pt_BR)                    |
 | How To Use Badges                          | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=pt_BR)                           |
 | Twitch Chat Badges Guide                   | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=pt_BR)                    |
 | Signing Up Logging In Social Accounts      | 31/05/2026, 2:35:27 am    | [Link](https://help.twitch.tv/s/article/signing-up-logging-in-social-accounts?language=pt_BR)       |
