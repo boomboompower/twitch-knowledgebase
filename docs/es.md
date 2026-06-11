@@ -6,7 +6,18 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
-| Partner Program Overview              | 10/06/2026, 5:03:19 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)               |
+| Affiliate Settings Guide              | 11/06/2026, 8:52:04 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=es)               |
+| Bonus Sub Benefits                    | 11/06/2026, 8:52:02 am    | [Link](https://help.twitch.tv/s/article/bonus-sub-benefits?language=es)                     |
+| Hype Train Guide                      | 11/06/2026, 8:51:56 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=es)                       |
+| Custom Bit Badges Guide               | 11/06/2026, 8:51:56 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=es)                |
+| Creator Dashboard                     | 11/06/2026, 8:51:46 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=es)                      |
+| Cheering For Partners Affiliates      | 11/06/2026, 8:51:25 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=es)       |
+| Partner Settings Guide                | 11/06/2026, 8:51:22 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=es)                 |
+| Subscriber Badge Guide                | 11/06/2026, 8:50:31 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es)                 |
+| Partner Program Overview              | 11/06/2026, 8:50:25 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)               |
+| Account Reactivation                  | 11/06/2026, 3:11:09 am    | [Link](https://help.twitch.tv/s/article/account-reactivation?language=es)                   |
+| Branded Content Policy                | 10/06/2026, 11:05:46 am   | [Link](https://help.twitch.tv/s/article/branded-content-policy?language=es)                 |
+| Channel Skins                         | 10/06/2026, 11:05:32 am   | [Link](https://help.twitch.tv/s/article/channel-skins?language=es)                          |
 | Streamer Recap                        | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=es)                         |
 | Stream Summary                        | 10/06/2026, 4:03:07 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es)                         |
 | Stories                               | 10/06/2026, 4:02:54 am    | [Link](https://help.twitch.tv/s/article/stories?language=es)                                |
@@ -37,9 +48,6 @@
 | Partner Onboarding Guide              | 27/05/2026, 3:53:33 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)               |
 | Dac7 Interview                        | 27/05/2026, 3:44:54 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=es)                         |
 | Enroll Spendable Balance              | 27/05/2026, 3:19:32 pm    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=es)               |
-| Affiliate Settings Guide              | 27/05/2026, 3:18:11 pm    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=es)               |
-| Partner Settings Guide                | 27/05/2026, 3:16:58 pm    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=es)                 |
-| Hype Train Guide                      | 27/05/2026, 9:15:52 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=es)                       |
 | When Am I Getting Paid                | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=es)                 |
 | Your First Payout Walkthrough         | 27/05/2026, 9:14:27 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=es)          |
 | Revenue                               | 22/05/2026, 4:22:48 pm    | [Link](https://help.twitch.tv/s/article/revenue?language=es)                                |
@@ -48,7 +56,6 @@
 | Viewer Custom Power Ups Guide         | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=es)          |
 | Twitch Turbo Guide                    | 16/05/2026, 6:14:55 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=es)                     |
 | How To Use Emotes                     | 16/05/2026, 6:01:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=es)                      |
-| Cheering For Partners Affiliates      | 16/05/2026, 6:01:04 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=es)       |
 | Streamer Shouts                       | 14/05/2026, 4:25:58 pm    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=es)                        |
 | Iceland Tax Interview                 | 13/05/2026, 10:06:13 pm   | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=es)                  |
 | Two Factor Authentication             | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=es)              |
@@ -58,7 +65,6 @@
 | Joining The Affiliate Program         | 05/05/2026, 4:51:15 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es)          |
 | Twitch Affiliate Program Faq          | 05/05/2026, 4:51:10 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)           |
 | Chat Basics                           | 02/05/2026, 2:03:57 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=es)                            |
-| Chat Commands                         | 02/05/2026, 2:03:27 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=es)                          |
 
 
 

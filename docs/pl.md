@@ -26,7 +26,6 @@
 | Managing Roles For Your Channel  | 09/05/2026, 4:46:57 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=pl)   |
 | Guide To Cheering With Bits      | 09/05/2026, 4:25:48 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pl)       |
 | Mission Based Drops              | 08/05/2026, 7:57:05 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pl)               |
-| Chat Commands                    | 02/05/2026, 2:03:26 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pl)                     |
 
 
 
