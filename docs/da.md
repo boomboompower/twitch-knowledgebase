@@ -6,6 +6,7 @@
 
 | Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                       |
 |--------------------------------------|---------------------------|--------------------------------------------------------------------------------------------|
+| Gift Subscriptions                   | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=da)                    |
 | Stream Summary                       | 10/06/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=da)                        |
 | Creating An Account With Twitch      | 03/06/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=da)       |
 | Guide To Custom Messages             | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=da)              |

@@ -6,6 +6,8 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Creator Certification                 | 12/06/2026, 7:03:03 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)                  |
+| Gift Subscriptions                    | 12/06/2026, 3:51:08 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=es_MX)                     |
 | Account Reactivation                  | 11/06/2026, 3:11:09 am    | [Link](https://help.twitch.tv/s/article/account-reactivation?language=es_MX)                   |
 | Channel Skins                         | 10/06/2026, 11:05:49 am   | [Link](https://help.twitch.tv/s/article/channel-skins?language=es_MX)                          |
 | Partner Program Overview              | 10/06/2026, 5:03:04 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)               |
@@ -17,11 +19,9 @@
 | Partner Front Page                    | 04/06/2026, 7:22:54 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es_MX)                     |
 | How To Use Clips                      | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                       |
 | Creator Badge Rewards                 | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es_MX)                  |
-| Creator Certification                 | 02/06/2026, 7:29:19 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)                  |
 | Gift Card                             | 02/06/2026, 7:23:31 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=es_MX)                              |
 | Gift Card Redeem                      | 02/06/2026, 7:23:24 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=es_MX)                       |
 | Gift Card Spend                       | 02/06/2026, 7:23:19 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=es_MX)                        |
-| Gift Subscriptions                    | 02/06/2026, 4:14:52 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=es_MX)                     |
 | How To Use Badges                     | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=es_MX)                      |
 | Guide To Custom Messages              | 31/05/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=es_MX)               |
 | Twitch Chat Badges Guide              | 31/05/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es_MX)               |
@@ -348,8 +348,8 @@
 
 | Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Creator Certification              | 12/06/2026, 7:03:03 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)               |
 | Streamer Recap                     | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=es_MX)                      |
-| Creator Certification              | 02/06/2026, 7:29:19 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)               |
 | Past Behavior And Account Standing | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es_MX)  |
 | Viewer Custom Power Ups Guide      | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=es_MX)       |
 | Streamer Shouts                    | 13/05/2026, 2:38:25 am    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=es_MX)                     |

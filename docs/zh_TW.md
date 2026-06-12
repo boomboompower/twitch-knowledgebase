@@ -6,6 +6,8 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Creator Certification                 | 12/06/2026, 7:03:04 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=zh_TW)                  |
+| Gift Subscriptions                    | 12/06/2026, 3:51:08 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=zh_TW)                     |
 | Account Reactivation                  | 11/06/2026, 3:11:09 am    | [Link](https://help.twitch.tv/s/article/account-reactivation?language=zh_TW)                   |
 | Branded Content Policy                | 10/06/2026, 11:05:54 am   | [Link](https://help.twitch.tv/s/article/branded-content-policy?language=zh_TW)                 |
 | Channel Skins                         | 10/06/2026, 11:04:52 am   | [Link](https://help.twitch.tv/s/article/channel-skins?language=zh_TW)                          |
@@ -20,7 +22,6 @@
 | Creating An Account With Twitch       | 04/06/2026, 7:47:33 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)        |
 | Dual Format Vertical Video            | 02/06/2026, 6:55:54 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)             |
 | Creator Badge Rewards                 | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=zh_TW)                  |
-| Creator Certification                 | 02/06/2026, 7:29:20 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=zh_TW)                  |
 | Gift Card                             | 02/06/2026, 7:23:28 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=zh_TW)                              |
 | Gift Card Redeem                      | 02/06/2026, 7:23:25 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=zh_TW)                       |
 | Gift Card Spend                       | 02/06/2026, 7:23:20 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=zh_TW)                        |
@@ -62,7 +63,6 @@
 | Joining The Affiliate Program         | 05/05/2026, 5:44:09 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)          |
 | Weekly Rewards                        | 02/05/2026, 4:02:52 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=zh_TW)                         |
 | Chat Basics                           | 02/05/2026, 2:03:58 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=zh_TW)                            |
-| Chat Commands                         | 02/05/2026, 2:03:28 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_TW)                          |
 
 
 
@@ -352,8 +352,8 @@
 
 | Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Creator Certification              | 12/06/2026, 7:03:04 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=zh_TW)               |
 | Streamer Recap                     | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=zh_TW)                      |
-| Creator Certification              | 02/06/2026, 7:29:20 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=zh_TW)               |
 | Past Behavior And Account Standing | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=zh_TW)  |
 | Viewer Custom Power Ups Guide      | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=zh_TW)       |
 | Streamer Shouts                    | 14/05/2026, 3:52:48 pm    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=zh_TW)                     |

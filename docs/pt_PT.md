@@ -6,6 +6,7 @@
 
 | Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                          |
 |--------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
+| Gift Subscriptions                   | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                    |
 | Stream Summary                       | 10/06/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                        |
 | How To Manage Harassment In Chat     | 28/05/2026, 4:51:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_PT)      |
 | Twitch Turbo Guide                   | 16/05/2026, 6:14:48 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                    |

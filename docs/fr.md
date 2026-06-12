@@ -6,6 +6,9 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Creator Certification                 | 12/06/2026, 7:03:03 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=fr)                  |
+| Gift Subscriptions                    | 12/06/2026, 3:51:08 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=fr)                     |
+| How To Use Clips                      | 11/06/2026, 5:21:57 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                       |
 | Account Reactivation                  | 11/06/2026, 3:11:09 am    | [Link](https://help.twitch.tv/s/article/account-reactivation?language=fr)                   |
 | Channel Skins                         | 10/06/2026, 11:05:25 am   | [Link](https://help.twitch.tv/s/article/channel-skins?language=fr)                          |
 | Branded Content Policy                | 10/06/2026, 11:04:49 am   | [Link](https://help.twitch.tv/s/article/branded-content-policy?language=fr)                 |
@@ -16,10 +19,8 @@
 | Charitable Donations                  | 08/06/2026, 7:41:00 pm    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=fr)                   |
 | Partner Front Page                    | 05/06/2026, 6:05:13 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=fr)                     |
 | Creating An Account With Twitch       | 04/06/2026, 7:47:18 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fr)        |
-| How To Use Clips                      | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                       |
 | Partner Onboarding Guide              | 03/06/2026, 8:13:23 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=fr)               |
 | How To Use Emotes                     | 03/06/2026, 8:10:47 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=fr)                      |
-| Creator Certification                 | 02/06/2026, 8:21:25 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=fr)                  |
 | Creator Badge Rewards                 | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=fr)                  |
 | Gift Card                             | 02/06/2026, 7:23:31 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=fr)                              |
 | Gift Card Redeem                      | 02/06/2026, 7:23:24 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=fr)                       |
@@ -67,8 +68,6 @@
 | Mission Based Drops                   | 08/05/2026, 7:57:05 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=fr)                    |
 | Joining The Affiliate Program         | 06/05/2026, 6:31:57 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=fr)          |
 | Twitch Affiliate Program Faq          | 06/05/2026, 6:31:45 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=fr)           |
-| Chat Basics                           | 02/05/2026, 2:03:57 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=fr)                            |
-| Chat Commands                         | 02/05/2026, 2:03:27 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=fr)                          |
 
 
 
@@ -352,8 +351,8 @@
 
 | Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                     |
 |------------------------------------|---------------------------|------------------------------------------------------------------------------------------|
+| Creator Certification              | 12/06/2026, 7:03:03 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=fr)               |
 | Streamer Recap                     | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=fr)                      |
-| Creator Certification              | 02/06/2026, 8:21:25 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=fr)               |
 | Past Behavior And Account Standing | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=fr)  |
 | Viewer Custom Power Ups Guide      | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=fr)       |
 | Streamer Shouts                    | 14/05/2026, 10:07:33 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=fr)                     |
