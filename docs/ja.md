@@ -6,6 +6,10 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                        |
 |---------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Twitch Charity                        | 13/06/2026, 4:01:34 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=ja)                         |
+| Twitch Charity Faqs                   | 13/06/2026, 4:01:33 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=ja)                    |
+| Charitable Donations                  | 13/06/2026, 4:01:24 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=ja)                   |
+| Recover Watch Streaks                 | 13/06/2026, 3:56:35 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=ja)                  |
 | Creator Certification                 | 12/06/2026, 7:03:02 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=ja)                  |
 | Gift Subscriptions                    | 12/06/2026, 3:51:08 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=ja)                     |
 | Account Reactivation                  | 11/06/2026, 3:11:09 am    | [Link](https://help.twitch.tv/s/article/account-reactivation?language=ja)                   |
@@ -16,7 +20,6 @@
 | Stream Summary                        | 10/06/2026, 4:03:08 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ja)                         |
 | Stories                               | 10/06/2026, 4:02:52 am    | [Link](https://help.twitch.tv/s/article/stories?language=ja)                                |
 | Creating An Account With Twitch       | 04/06/2026, 7:47:14 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ja)        |
-| Charitable Donations                  | 04/06/2026, 7:46:14 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=ja)                   |
 | How To Use Clips                      | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                       |
 | Partner Front Page                    | 03/06/2026, 9:15:00 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=ja)                     |
 | Creator Badge Rewards                 | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=ja)                  |
@@ -58,10 +61,6 @@
 | Two Factor Authentication             | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ja)              |
 | Managing Roles For Your Channel       | 09/05/2026, 4:46:59 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ja)        |
 | Guide To Cheering With Bits           | 09/05/2026, 4:25:54 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ja)            |
-| Mission Based Drops                   | 08/05/2026, 7:57:05 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                    |
-| Joining The Affiliate Program         | 06/05/2026, 9:29:25 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ja)          |
-| Twitch Affiliate Program Faq          | 06/05/2026, 9:29:16 pm    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=ja)           |
-| Chat Basics                           | 02/05/2026, 2:03:58 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=ja)                            |
 
 
 

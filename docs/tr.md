@@ -6,8 +6,10 @@
 
 | Name                             | Last Updated (dd/mm/yyyy) | Link                                                                                   |
 |----------------------------------|---------------------------|----------------------------------------------------------------------------------------|
+| Twitch Charity                   | 13/06/2026, 4:01:34 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=tr)                    |
+| Twitch Charity Faqs              | 13/06/2026, 4:01:28 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=tr)               |
+| Charitable Donations             | 13/06/2026, 4:01:22 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=tr)              |
 | Stream Summary                   | 10/06/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=tr)                    |
-| Charitable Donations             | 04/06/2026, 4:38:02 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=tr)              |
 | How To Use Clips                 | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=tr)                  |
 | Creating An Account With Twitch  | 03/06/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=tr)   |
 | Guide To Custom Messages         | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=tr)          |
@@ -25,7 +27,6 @@
 | Partner Program Overview         | 09/05/2026, 4:48:48 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=tr)          |
 | Managing Roles For Your Channel  | 09/05/2026, 4:46:57 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=tr)   |
 | Guide To Cheering With Bits      | 09/05/2026, 4:25:48 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=tr)       |
-| Mission Based Drops              | 08/05/2026, 7:57:05 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=tr)               |
 
 
 

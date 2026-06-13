@@ -6,13 +6,16 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
+| Twitch Charity                        | 13/06/2026, 4:01:34 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=en_US)                         |
+| Twitch Charity Faqs                   | 13/06/2026, 4:01:28 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=en_US)                    |
+| Charitable Donations                  | 13/06/2026, 4:01:22 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=en_US)                   |
+| Recover Watch Streaks                 | 13/06/2026, 3:56:33 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=en_US)                  |
 | Creator Certification                 | 12/06/2026, 7:03:02 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=en_US)                  |
 | Gift Subscriptions                    | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=en_US)                     |
 | Account Reactivation                  | 11/06/2026, 3:11:09 am    | [Link](https://help.twitch.tv/s/article/account-reactivation?language=en_US)                   |
 | Streamer Recap                        | 10/06/2026, 4:03:46 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=en_US)                         |
 | Stream Summary                        | 10/06/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=en_US)                         |
 | Stories                               | 10/06/2026, 4:02:52 am    | [Link](https://help.twitch.tv/s/article/stories?language=en_US)                                |
-| Charitable Donations                  | 04/06/2026, 4:38:02 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=en_US)                   |
 | How To Use Clips                      | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                       |
 | Creating An Account With Twitch       | 03/06/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=en_US)        |
 | Partner Front Page                    | 03/06/2026, 7:00:22 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=en_US)                     |
