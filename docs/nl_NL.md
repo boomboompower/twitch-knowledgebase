@@ -13,7 +13,6 @@
 | How To Manage Harassment In Chat     | 28/05/2026, 4:51:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=nl_NL)      |
 | Twitch Turbo Guide                   | 16/05/2026, 6:14:48 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=nl_NL)                    |
 | Two Factor Authentication With Authy | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=nl_NL)  |
-| Partner Program Overview             | 09/05/2026, 4:48:48 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)              |
 
 
 
