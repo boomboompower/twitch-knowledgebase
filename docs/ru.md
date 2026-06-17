@@ -26,7 +26,6 @@
 | Partner Settings Guide                      | 19/05/2026, 10:40:20 am   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=ru)                       |
 | Affiliate Settings Guide                    | 19/05/2026, 10:39:38 am   | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=ru)                     |
 | Twitch Turbo Guide                          | 16/05/2026, 6:14:48 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ru)                           |
-| Two Factor Authentication                   | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=ru)                    |
 
 
 

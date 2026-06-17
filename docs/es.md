@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Payout Details Faq                          | 17/06/2026, 6:50:42 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es)                           |
 | Understanding Viewer Count Vs Users In Chat | 16/06/2026, 6:14:27 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=es)  |
 | Streamer Benefits                           | 16/06/2026, 6:13:53 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es)                            |
 | Partner Onboarding Guide                    | 16/06/2026, 6:13:42 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                     |

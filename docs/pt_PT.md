@@ -4,15 +4,14 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                 | Last Updated (dd/mm/yyyy) | Link                                                                                          |
-|--------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
-| Twitch Affiliate Program Faq         | 16/06/2026, 6:13:32 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)          |
-| Joining The Affiliate Program        | 16/06/2026, 6:12:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)         |
-| Gift Subscriptions                   | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                    |
-| Stream Summary                       | 10/06/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                        |
-| How To Manage Harassment In Chat     | 28/05/2026, 4:51:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_PT)      |
-| Twitch Turbo Guide                   | 16/05/2026, 6:14:48 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                    |
-| Two Factor Authentication With Authy | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=pt_PT)  |
+| Name                             | Last Updated (dd/mm/yyyy) | Link                                                                                      |
+|----------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq     | 16/06/2026, 6:13:32 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)      |
+| Joining The Affiliate Program    | 16/06/2026, 6:12:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)     |
+| Gift Subscriptions               | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                |
+| Stream Summary                   | 10/06/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                    |
+| How To Manage Harassment In Chat | 28/05/2026, 4:51:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pt_PT)  |
+| Twitch Turbo Guide               | 16/05/2026, 6:14:48 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_PT)                |
 
 
 

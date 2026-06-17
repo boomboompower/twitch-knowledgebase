@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Payout Details Faq                          | 17/06/2026, 6:50:44 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=it)                           |
 | Understanding Viewer Count Vs Users In Chat | 16/06/2026, 6:14:27 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=it)  |
 | Streamer Benefits                           | 16/06/2026, 6:13:54 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=it)                            |
 | Partner Onboarding Guide                    | 16/06/2026, 6:13:45 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=it)                     |
@@ -60,7 +61,6 @@
 | Cheering For Partners Affiliates            | 16/05/2026, 6:01:05 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=it)             |
 | Streamer Shouts                             | 14/05/2026, 10:10:09 pm   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=it)                              |
 | Iceland Tax Interview                       | 12/05/2026, 6:47:03 pm    | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=it)                        |
-| Two Factor Authentication                   | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=it)                    |
 
 
 
