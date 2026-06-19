@@ -6,13 +6,17 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                  | 19/06/2026, 8:55:27 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                   |
+| Recover Watch Streaks                       | 19/06/2026, 8:21:32 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                        |
+| Refunds On Twitch                           | 19/06/2026, 8:19:29 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es_MX)                            |
+| Stream Quality                              | 19/06/2026, 7:36:08 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                               |
+| Multiple Encodes                            | 19/06/2026, 7:36:04 am    | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=es_MX)                             |
+| About Discount Gift Subs                    | 19/06/2026, 7:05:15 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=es_MX)                     |
+| How To Use Clips                            | 19/06/2026, 2:27:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                             |
+| How To Use Extensions                       | 19/06/2026, 1:39:16 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=es_MX)                        |
+| Payout Details Faq                          | 18/06/2026, 11:12:23 am   | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es_MX)                           |
 | Guest Star Getting Started                  | 18/06/2026, 9:29:19 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es_MX)                   |
 | Partner Program Overview                    | 18/06/2026, 9:29:11 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es_MX)                     |
-| How To Use Extensions                       | 18/06/2026, 3:41:21 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=es_MX)                        |
-| Stream Quality                              | 18/06/2026, 3:40:14 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=es_MX)                               |
-| Multiple Encodes                            | 18/06/2026, 3:39:05 am    | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=es_MX)                             |
-| Dual Format Vertical Video                  | 18/06/2026, 3:22:54 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                   |
-| Payout Details Faq                          | 17/06/2026, 6:50:44 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es_MX)                           |
 | Understanding Viewer Count Vs Users In Chat | 16/06/2026, 6:14:27 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=es_MX)  |
 | Streamer Benefits                           | 16/06/2026, 6:13:53 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                            |
 | Partner Onboarding Guide                    | 16/06/2026, 6:13:44 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es_MX)                     |
@@ -21,7 +25,6 @@
 | Twitch Charity                              | 13/06/2026, 4:01:35 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=es_MX)                               |
 | Twitch Charity Faqs                         | 13/06/2026, 4:01:32 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=es_MX)                          |
 | Charitable Donations                        | 13/06/2026, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=es_MX)                         |
-| Recover Watch Streaks                       | 13/06/2026, 3:56:34 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                        |
 | Creator Certification                       | 12/06/2026, 7:03:03 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)                        |
 | Gift Subscriptions                          | 12/06/2026, 3:51:08 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=es_MX)                           |
 | Account Reactivation                        | 11/06/2026, 3:11:09 am    | [Link](https://help.twitch.tv/s/article/account-reactivation?language=es_MX)                         |
@@ -31,7 +34,6 @@
 | Stories                                     | 10/06/2026, 4:02:54 am    | [Link](https://help.twitch.tv/s/article/stories?language=es_MX)                                      |
 | Creating An Account With Twitch             | 04/06/2026, 7:47:19 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)              |
 | Partner Front Page                          | 04/06/2026, 7:22:54 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=es_MX)                           |
-| How To Use Clips                            | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                             |
 | Creator Badge Rewards                       | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es_MX)                        |
 | Gift Card                                   | 02/06/2026, 7:23:31 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=es_MX)                                    |
 | Gift Card Redeem                            | 02/06/2026, 7:23:24 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=es_MX)                             |
@@ -57,9 +59,6 @@
 | Enroll Spendable Balance                    | 22/05/2026, 7:43:01 am    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=es_MX)                     |
 | Dac7 Interview                              | 22/05/2026, 7:30:13 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=es_MX)                               |
 | Revenue                                     | 22/05/2026, 6:35:52 am    | [Link](https://help.twitch.tv/s/article/revenue?language=es_MX)                                      |
-| Past Behavior And Account Standing          | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es_MX)           |
-| Power Ups                                   | 20/05/2026, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=es_MX)                                    |
-| Viewer Custom Power Ups Guide               | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=es_MX)                |
 
 
 
@@ -350,7 +349,7 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
-| Recover Watch Streaks                 | 13/06/2026, 3:56:34 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                  |
+| Recover Watch Streaks                 | 19/06/2026, 8:21:32 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                  |
 | Creator Certification                 | 12/06/2026, 7:03:03 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)                  |
 | Streamer Recap                        | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=es_MX)                         |
 | Creator Badge Rewards                 | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es_MX)                  |

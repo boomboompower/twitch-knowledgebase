@@ -6,14 +6,18 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                  | 19/06/2026, 8:55:27 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                   |
+| Recover Watch Streaks                       | 19/06/2026, 8:21:32 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=zh_TW)                        |
+| Refunds On Twitch                           | 19/06/2026, 8:19:30 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=zh_TW)                            |
+| About Discount Gift Subs                    | 19/06/2026, 7:05:16 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=zh_TW)                     |
+| How To Use Clips                            | 19/06/2026, 2:27:26 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                             |
+| Payout Details Faq                          | 18/06/2026, 7:42:55 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=zh_TW)                           |
 | Guest Star Getting Started                  | 18/06/2026, 9:29:13 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)                   |
 | Partner Program Overview                    | 18/06/2026, 3:42:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                     |
 | Transcoding Options Faq                     | 18/06/2026, 3:42:13 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=zh_TW)                      |
 | How To Use Extensions                       | 18/06/2026, 3:41:21 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=zh_TW)                        |
 | Stream Quality                              | 18/06/2026, 3:40:14 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                               |
 | Multiple Encodes                            | 18/06/2026, 3:39:05 am    | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=zh_TW)                             |
-| Dual Format Vertical Video                  | 18/06/2026, 3:22:54 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                   |
-| Payout Details Faq                          | 17/06/2026, 6:50:45 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=zh_TW)                           |
 | Understanding Viewer Count Vs Users In Chat | 16/06/2026, 6:14:27 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=zh_TW)  |
 | Streamer Benefits                           | 16/06/2026, 6:13:54 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)                            |
 | Partner Onboarding Guide                    | 16/06/2026, 6:13:45 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=zh_TW)                     |
@@ -22,7 +26,6 @@
 | Twitch Charity                              | 13/06/2026, 4:01:35 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=zh_TW)                               |
 | Twitch Charity Faqs                         | 13/06/2026, 4:01:33 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=zh_TW)                          |
 | Charitable Donations                        | 13/06/2026, 4:01:24 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=zh_TW)                         |
-| Recover Watch Streaks                       | 13/06/2026, 3:56:35 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=zh_TW)                        |
 | Creator Certification                       | 12/06/2026, 7:03:04 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=zh_TW)                        |
 | Gift Subscriptions                          | 12/06/2026, 3:51:08 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=zh_TW)                           |
 | Account Reactivation                        | 11/06/2026, 3:11:09 am    | [Link](https://help.twitch.tv/s/article/account-reactivation?language=zh_TW)                         |
@@ -32,7 +35,6 @@
 | Stream Summary                              | 10/06/2026, 4:03:08 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=zh_TW)                               |
 | Stories                                     | 10/06/2026, 4:02:54 am    | [Link](https://help.twitch.tv/s/article/stories?language=zh_TW)                                      |
 | Hype Train Guide                            | 05/06/2026, 4:21:06 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=zh_TW)                             |
-| How To Use Clips                            | 04/06/2026, 7:17:26 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                             |
 | Partner Front Page                          | 04/06/2026, 2:25:00 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                           |
 | Creating An Account With Twitch             | 04/06/2026, 7:47:33 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)              |
 | Creator Badge Rewards                       | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=zh_TW)                        |
@@ -59,8 +61,6 @@
 | When Am I Getting Paid                      | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=zh_TW)                       |
 | Your First Payout Walkthrough               | 27/05/2026, 9:14:28 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=zh_TW)                |
 | Revenue                                     | 25/05/2026, 5:11:43 pm    | [Link](https://help.twitch.tv/s/article/revenue?language=zh_TW)                                      |
-| Past Behavior And Account Standing          | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=zh_TW)           |
-| Power Ups                                   | 20/05/2026, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=zh_TW)                                    |
 
 
 
@@ -351,11 +351,12 @@
 
 | Name                                  | Last Updated (dd/mm/yyyy) | Link                                                                                           |
 |---------------------------------------|---------------------------|------------------------------------------------------------------------------------------------|
-| Recover Watch Streaks                 | 13/06/2026, 3:56:35 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=zh_TW)                  |
+| Recover Watch Streaks                 | 19/06/2026, 8:21:32 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=zh_TW)                  |
 | Creator Certification                 | 12/06/2026, 7:03:04 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=zh_TW)                  |
 | Streamer Recap                        | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=zh_TW)                         |
 | Creator Badge Rewards                 | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=zh_TW)                  |
 | Signing Up Logging In Social Accounts | 31/05/2026, 2:53:14 pm    | [Link](https://help.twitch.tv/s/article/signing-up-logging-in-social-accounts?language=zh_TW)  |
+| Moderation Analytics                  | 28/05/2026, 4:52:10 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=zh_TW)                   |
 | Social Badge                          | 28/05/2026, 4:47:34 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=zh_TW)                           |
 | Past Behavior And Account Standing    | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=zh_TW)     |
 | Viewer Custom Power Ups Guide         | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=zh_TW)          |

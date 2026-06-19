@@ -6,6 +6,8 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Refunds On Twitch                           | 19/06/2026, 8:19:29 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=tr)                            |
+| How To Use Clips                            | 19/06/2026, 2:27:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=tr)                             |
 | Partner Program Overview                    | 18/06/2026, 3:42:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=tr)                     |
 | How To Use Extensions                       | 18/06/2026, 3:41:21 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=tr)                        |
 | Guest Star Getting Started                  | 18/06/2026, 3:40:52 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=tr)                   |
@@ -17,7 +19,6 @@
 | Twitch Charity Faqs                         | 13/06/2026, 4:01:28 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=tr)                          |
 | Charitable Donations                        | 13/06/2026, 4:01:22 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=tr)                         |
 | Stream Summary                              | 10/06/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=tr)                               |
-| How To Use Clips                            | 04/06/2026, 2:28:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=tr)                             |
 | Creating An Account With Twitch             | 03/06/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=tr)              |
 | Guide To Custom Messages                    | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=tr)                     |
 | Twitch Chat Badges Guide                    | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=tr)                     |
