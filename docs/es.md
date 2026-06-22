@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Weekly Rewards                              | 22/06/2026, 9:46:02 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es)                               |
 | Stream Quality                              | 19/06/2026, 11:24:20 pm   | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)                               |
 | Multiple Encodes                            | 19/06/2026, 11:23:39 pm   | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=es)                             |
 | Dual Format Vertical Video                  | 19/06/2026, 8:55:27 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es)                   |
@@ -66,7 +67,6 @@
 | Your First Payout Walkthrough               | 27/05/2026, 9:14:27 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=es)                |
 | Revenue                                     | 22/05/2026, 4:22:48 pm    | [Link](https://help.twitch.tv/s/article/revenue?language=es)                                      |
 | Past Behavior And Account Standing          | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es)           |
-| Power Ups                                   | 20/05/2026, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=es)                                    |
 
 
 

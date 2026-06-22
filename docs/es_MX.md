@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Weekly Rewards                              | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es_MX)                               |
 | Dual Format Vertical Video                  | 19/06/2026, 8:55:27 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                   |
 | Recover Watch Streaks                       | 19/06/2026, 8:21:32 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                        |
 | Refunds On Twitch                           | 19/06/2026, 8:19:29 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es_MX)                            |
@@ -60,7 +61,6 @@
 | Dac7 Interview                              | 22/05/2026, 7:30:13 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=es_MX)                               |
 | Revenue                                     | 22/05/2026, 6:35:52 am    | [Link](https://help.twitch.tv/s/article/revenue?language=es_MX)                                      |
 | Past Behavior And Account Standing          | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es_MX)           |
-| Power Ups                                   | 20/05/2026, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=es_MX)                                    |
 
 
 

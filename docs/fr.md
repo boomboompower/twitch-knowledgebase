@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Weekly Rewards                              | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=fr)                               |
 | Multiple Encodes                            | 19/06/2026, 11:06:10 pm   | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=fr)                             |
 | Transcoding Options Faq                     | 19/06/2026, 11:06:08 pm   | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=fr)                      |
 | Stream Quality                              | 19/06/2026, 11:01:46 pm   | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)                               |
@@ -70,7 +71,6 @@
 | Enroll Spendable Balance                    | 26/05/2026, 3:34:30 pm    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=fr)                     |
 | Revenue                                     | 23/05/2026, 5:52:43 am    | [Link](https://help.twitch.tv/s/article/revenue?language=fr)                                      |
 | Past Behavior And Account Standing          | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=fr)           |
-| Power Ups                                   | 20/05/2026, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=fr)                                    |
 
 
 

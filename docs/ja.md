@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Weekly Rewards                              | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=ja)                               |
 | Multiple Encodes                            | 19/06/2026, 9:00:42 am    | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=ja)                             |
 | Transcoding Options Faq                     | 19/06/2026, 9:00:38 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=ja)                      |
 | Stream Quality                              | 19/06/2026, 9:00:36 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=ja)                               |
@@ -61,7 +62,6 @@
 | Affiliate Settings Guide                    | 22/05/2026, 11:52:09 am   | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=ja)                     |
 | Revenue                                     | 22/05/2026, 11:42:43 am   | [Link](https://help.twitch.tv/s/article/revenue?language=ja)                                      |
 | Dac7 Interview                              | 22/05/2026, 11:26:23 am   | [Link](https://help.twitch.tv/s/article/dac7-interview?language=ja)                               |
-| Past Behavior And Account Standing          | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=ja)           |
 
 
 
