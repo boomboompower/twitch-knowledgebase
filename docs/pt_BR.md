@@ -6,9 +6,10 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                  | 23/06/2026, 9:33:53 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=pt_BR)                   |
+| Hype Train Guide                            | 23/06/2026, 3:01:00 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=pt_BR)                             |
 | Weekly Rewards                              | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=pt_BR)                               |
 | How To Use Extensions                       | 22/06/2026, 8:53:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=pt_BR)                        |
-| Dual Format Vertical Video                  | 22/06/2026, 8:53:39 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=pt_BR)                   |
 | Partner Program Overview                    | 21/06/2026, 1:18:20 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)                     |
 | Multiple Encodes                            | 19/06/2026, 2:51:44 pm    | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=pt_BR)                             |
 | Stream Quality                              | 19/06/2026, 1:55:25 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=pt_BR)                               |
@@ -55,7 +56,6 @@
 | How To Sub Only Archives                    | 28/05/2026, 4:47:46 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=pt_BR)                     |
 | Video On Demand                             | 28/05/2026, 4:47:39 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pt_BR)                              |
 | Social Badge                                | 28/05/2026, 4:47:33 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=pt_BR)                                 |
-| Hype Train Guide                            | 27/05/2026, 9:15:53 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=pt_BR)                             |
 | Affiliate Settings Guide                    | 27/05/2026, 9:15:45 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=pt_BR)                     |
 | When Am I Getting Paid                      | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=pt_BR)                       |
 | Your First Payout Walkthrough               | 27/05/2026, 9:14:28 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=pt_BR)                |
@@ -346,9 +346,10 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name           | Last Updated (dd/mm/yyyy) | Link                                                                    |
-|----------------|---------------------------|-------------------------------------------------------------------------|
-| Streamer Recap | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=pt_BR)  |
+| Name                  | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|-----------------------|---------------------------|--------------------------------------------------------------------------------|
+| Creator Certification | 12/06/2026, 7:03:04 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=pt_BR)  |
+| Streamer Recap        | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=pt_BR)         |
 
 
 

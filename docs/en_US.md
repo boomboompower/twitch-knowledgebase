@@ -6,8 +6,9 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                  | 23/06/2026, 9:33:53 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)                   |
+| Hype Train Guide                            | 23/06/2026, 3:01:00 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=en_US)                             |
 | Weekly Rewards                              | 22/06/2026, 9:46:02 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=en_US)                               |
-| Dual Format Vertical Video                  | 19/06/2026, 8:55:27 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)                   |
 | Recover Watch Streaks                       | 19/06/2026, 8:21:30 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=en_US)                        |
 | Refunds On Twitch                           | 19/06/2026, 8:19:29 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=en_US)                            |
 | About Discount Gift Subs                    | 19/06/2026, 7:05:14 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=en_US)                     |
@@ -52,7 +53,6 @@
 | How To Sub Only Archives                    | 28/05/2026, 4:47:44 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=en_US)                     |
 | Video On Demand                             | 28/05/2026, 4:47:39 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                              |
 | Social Badge                                | 28/05/2026, 4:47:32 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=en_US)                                 |
-| Hype Train Guide                            | 27/05/2026, 9:15:48 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=en_US)                             |
 | When Am I Getting Paid                      | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=en_US)                       |
 | Your First Payout Walkthrough               | 27/05/2026, 9:14:26 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=en_US)                |
 | Past Behavior And Account Standing          | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=en_US)           |
@@ -394,6 +394,7 @@
 
 | Name                  | Last Updated (dd/mm/yyyy) | Link                                                                           |
 |-----------------------|---------------------------|--------------------------------------------------------------------------------|
+| Weekly Rewards        | 22/06/2026, 9:46:02 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=en_US)         |
 | Creator Certification | 12/06/2026, 7:03:02 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=en_US)  |
 | Streamer Recap        | 10/06/2026, 4:03:46 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=en_US)         |
 

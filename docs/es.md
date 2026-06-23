@@ -6,18 +6,19 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                  | 23/06/2026, 9:33:53 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es)                   |
+| Hype Train Guide                            | 23/06/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=es)                             |
+| How To Use Extensions                       | 22/06/2026, 9:45:12 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=es)                        |
+| Partner Program Overview                    | 22/06/2026, 9:45:09 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                     |
 | Weekly Rewards                              | 22/06/2026, 9:46:02 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es)                               |
 | Stream Quality                              | 19/06/2026, 11:24:20 pm   | [Link](https://help.twitch.tv/s/article/stream-quality?language=es)                               |
 | Multiple Encodes                            | 19/06/2026, 11:23:39 pm   | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=es)                             |
-| Dual Format Vertical Video                  | 19/06/2026, 8:55:27 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es)                   |
 | Recover Watch Streaks                       | 19/06/2026, 8:21:31 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es)                        |
 | Refunds On Twitch                           | 19/06/2026, 8:19:29 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=es)                            |
 | About Discount Gift Subs                    | 19/06/2026, 7:05:14 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=es)                     |
 | Payout Details Faq                          | 19/06/2026, 3:38:29 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es)                           |
 | How To Use Clips                            | 19/06/2026, 2:27:25 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                             |
 | Guest Star Getting Started                  | 18/06/2026, 9:29:03 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=es)                   |
-| Partner Program Overview                    | 18/06/2026, 3:42:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                     |
-| How To Use Extensions                       | 18/06/2026, 3:41:21 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=es)                        |
 | Understanding Viewer Count Vs Users In Chat | 16/06/2026, 6:14:27 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=es)  |
 | Streamer Benefits                           | 16/06/2026, 6:13:53 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es)                            |
 | Partner Onboarding Guide                    | 16/06/2026, 6:13:42 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                     |
@@ -30,7 +31,6 @@
 | Gift Subscriptions                          | 12/06/2026, 3:51:08 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=es)                           |
 | Affiliate Settings Guide                    | 11/06/2026, 8:52:04 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=es)                     |
 | Bonus Sub Benefits                          | 11/06/2026, 8:52:02 am    | [Link](https://help.twitch.tv/s/article/bonus-sub-benefits?language=es)                           |
-| Hype Train Guide                            | 11/06/2026, 8:51:56 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=es)                             |
 | Custom Bit Badges Guide                     | 11/06/2026, 8:51:56 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=es)                      |
 | Creator Dashboard                           | 11/06/2026, 8:51:46 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=es)                            |
 | Cheering For Partners Affiliates            | 11/06/2026, 8:51:25 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=es)             |
@@ -351,6 +351,7 @@
 
 | Name                  | Last Updated (dd/mm/yyyy) | Link                                                                        |
 |-----------------------|---------------------------|-----------------------------------------------------------------------------|
+| Weekly Rewards        | 22/06/2026, 9:46:02 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es)         |
 | Creator Certification | 12/06/2026, 7:03:03 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es)  |
 | Streamer Recap        | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=es)         |
 

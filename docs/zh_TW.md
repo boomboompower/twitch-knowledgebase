@@ -6,9 +6,12 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                                 |
 |---------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                  | 23/06/2026, 9:33:53 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                   |
+| Hype Train Guide                            | 23/06/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=zh_TW)                             |
+| Stream Quality                              | 22/06/2026, 5:30:10 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                               |
+| Transcoding Options Faq                     | 22/06/2026, 5:30:09 pm    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=zh_TW)                      |
 | Weekly Rewards                              | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=zh_TW)                               |
 | Multiple Encodes                            | 21/06/2026, 1:12:39 am    | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=zh_TW)                             |
-| Dual Format Vertical Video                  | 19/06/2026, 8:55:27 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                   |
 | Recover Watch Streaks                       | 19/06/2026, 8:21:32 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=zh_TW)                        |
 | Refunds On Twitch                           | 19/06/2026, 8:19:30 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=zh_TW)                            |
 | About Discount Gift Subs                    | 19/06/2026, 7:05:16 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=zh_TW)                     |
@@ -16,9 +19,7 @@
 | Payout Details Faq                          | 18/06/2026, 7:42:55 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=zh_TW)                           |
 | Guest Star Getting Started                  | 18/06/2026, 9:29:13 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)                   |
 | Partner Program Overview                    | 18/06/2026, 3:42:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                     |
-| Transcoding Options Faq                     | 18/06/2026, 3:42:13 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=zh_TW)                      |
 | How To Use Extensions                       | 18/06/2026, 3:41:21 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=zh_TW)                        |
-| Stream Quality                              | 18/06/2026, 3:40:14 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                               |
 | Understanding Viewer Count Vs Users In Chat | 16/06/2026, 6:14:27 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=zh_TW)  |
 | Streamer Benefits                           | 16/06/2026, 6:13:54 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)                            |
 | Partner Onboarding Guide                    | 16/06/2026, 6:13:45 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=zh_TW)                     |
@@ -35,7 +36,6 @@
 | Streamer Recap                              | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=zh_TW)                               |
 | Stream Summary                              | 10/06/2026, 4:03:08 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=zh_TW)                               |
 | Stories                                     | 10/06/2026, 4:02:54 am    | [Link](https://help.twitch.tv/s/article/stories?language=zh_TW)                                      |
-| Hype Train Guide                            | 05/06/2026, 4:21:06 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=zh_TW)                             |
 | Partner Front Page                          | 04/06/2026, 2:25:00 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=zh_TW)                           |
 | Creating An Account With Twitch             | 04/06/2026, 7:47:33 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)              |
 | Creator Badge Rewards                       | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=zh_TW)                        |
@@ -347,9 +347,10 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name           | Last Updated (dd/mm/yyyy) | Link                                                                    |
-|----------------|---------------------------|-------------------------------------------------------------------------|
-| Streamer Recap | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=zh_TW)  |
+| Name                  | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|-----------------------|---------------------------|--------------------------------------------------------------------------------|
+| Creator Certification | 12/06/2026, 7:03:04 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=zh_TW)  |
+| Streamer Recap        | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=zh_TW)         |
 
 
 

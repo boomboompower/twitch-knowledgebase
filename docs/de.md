@@ -6,12 +6,13 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Dual Format Vertical Video                  | 23/06/2026, 9:33:53 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=de)                   |
+| Hype Train Guide                            | 23/06/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=de)                             |
 | Weekly Rewards                              | 22/06/2026, 9:46:03 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=de)                               |
 | Payout Details Faq                          | 19/06/2026, 11:21:15 pm   | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=de)                           |
 | Multiple Encodes                            | 19/06/2026, 11:18:53 pm   | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=de)                             |
 | Stream Quality                              | 19/06/2026, 11:16:18 pm   | [Link](https://help.twitch.tv/s/article/stream-quality?language=de)                               |
 | Transcoding Options Faq                     | 19/06/2026, 11:16:13 pm   | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=de)                      |
-| Dual Format Vertical Video                  | 19/06/2026, 8:55:27 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=de)                   |
 | Recover Watch Streaks                       | 19/06/2026, 8:21:31 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=de)                        |
 | Refunds On Twitch                           | 19/06/2026, 8:19:29 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=de)                            |
 | About Discount Gift Subs                    | 19/06/2026, 7:05:14 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=de)                     |
@@ -58,7 +59,6 @@
 | Affiliate Settings Guide                    | 27/05/2026, 6:16:05 pm    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=de)                     |
 | Enroll Spendable Balance                    | 27/05/2026, 5:32:07 pm    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=de)                     |
 | Dac7 Interview                              | 27/05/2026, 5:12:54 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=de)                               |
-| Hype Train Guide                            | 27/05/2026, 9:15:52 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=de)                             |
 | When Am I Getting Paid                      | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=de)                       |
 | Your First Payout Walkthrough               | 27/05/2026, 9:14:26 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=de)                |
 | Revenue                                     | 25/05/2026, 4:12:38 am    | [Link](https://help.twitch.tv/s/article/revenue?language=de)                                      |
@@ -352,6 +352,7 @@
 
 | Name                  | Last Updated (dd/mm/yyyy) | Link                                                                        |
 |-----------------------|---------------------------|-----------------------------------------------------------------------------|
+| Weekly Rewards        | 22/06/2026, 9:46:03 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=de)         |
 | Creator Certification | 12/06/2026, 7:03:03 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=de)  |
 | Streamer Recap        | 10/06/2026, 4:03:46 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=de)         |
 
