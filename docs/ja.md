@@ -62,6 +62,7 @@
 | Affiliate Settings Guide                    | 22/05/2026, 11:52:09 am   | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=ja)                     |
 | Revenue                                     | 22/05/2026, 11:42:43 am   | [Link](https://help.twitch.tv/s/article/revenue?language=ja)                                      |
 | Dac7 Interview                              | 22/05/2026, 11:26:23 am   | [Link](https://help.twitch.tv/s/article/dac7-interview?language=ja)                               |
+| Past Behavior And Account Standing          | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=ja)           |
 
 
 

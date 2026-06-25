@@ -6,6 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| How To Use Extensions                       | 24/06/2026, 7:41:00 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=de)                        |
 | Dual Format Vertical Video                  | 24/06/2026, 3:50:26 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=de)                   |
 | Hype Train Guide                            | 23/06/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=de)                             |
 | Weekly Rewards                              | 22/06/2026, 9:46:03 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=de)                               |
@@ -19,7 +20,6 @@
 | How To Use Clips                            | 19/06/2026, 2:27:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                             |
 | Guest Star Getting Started                  | 18/06/2026, 9:29:06 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=de)                   |
 | Partner Program Overview                    | 18/06/2026, 9:29:00 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                     |
-| How To Use Extensions                       | 18/06/2026, 3:41:21 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=de)                        |
 | Understanding Viewer Count Vs Users In Chat | 16/06/2026, 6:14:26 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=de)  |
 | Streamer Benefits                           | 16/06/2026, 6:13:53 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=de)                            |
 | Partner Onboarding Guide                    | 16/06/2026, 6:13:43 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=de)                     |
