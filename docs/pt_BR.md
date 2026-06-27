@@ -63,7 +63,6 @@
 | Partner Settings Guide                      | 23/05/2026, 2:13:12 pm    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=pt_BR)                       |
 | Enroll Spendable Balance                    | 23/05/2026, 1:20:34 pm    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=pt_BR)                     |
 | Dac7 Interview                              | 23/05/2026, 8:24:39 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=pt_BR)                               |
-| Past Behavior And Account Standing          | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=pt_BR)           |
 
 
 

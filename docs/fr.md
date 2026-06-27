@@ -6,7 +6,7 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
-| Dual Format Vertical Video                  | 24/06/2026, 3:50:26 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                   |
+| Dual Format Vertical Video                  | 26/06/2026, 7:42:09 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                   |
 | How To Use Extensions                       | 24/06/2026, 0:05:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=fr)                        |
 | Hype Train Guide                            | 23/06/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=fr)                             |
 | Weekly Rewards                              | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=fr)                               |
