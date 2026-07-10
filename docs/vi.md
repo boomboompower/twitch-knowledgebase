@@ -1,6 +1,15 @@
 # Vietnamese
 > All articles written under the vi language code. 
 
+## Article-1
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
+
+| Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
+|----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| About Account Suspensions Dmca Suspensions And Chat Bans | 10/07/2026, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=vi)  |
+
+
+
 ## Article-2
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
 

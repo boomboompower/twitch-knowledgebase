@@ -4,29 +4,28 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
-|---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
-| Refunds On Twitch                           | 19/06/2026, 8:19:29 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=pl)                            |
-| How To Use Clips                            | 19/06/2026, 2:27:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pl)                             |
-| Partner Program Overview                    | 18/06/2026, 3:42:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pl)                     |
-| How To Use Extensions                       | 18/06/2026, 3:41:21 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=pl)                        |
-| Guest Star Getting Started                  | 18/06/2026, 3:40:52 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=pl)                   |
-| Understanding Viewer Count Vs Users In Chat | 16/06/2026, 6:14:26 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=pl)  |
-| Partner Onboarding Guide                    | 16/06/2026, 6:13:43 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pl)                     |
-| Twitch Affiliate Program Faq                | 16/06/2026, 6:13:32 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pl)                 |
-| Joining The Affiliate Program               | 16/06/2026, 6:12:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pl)                |
-| Twitch Charity                              | 13/06/2026, 4:01:34 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=pl)                               |
-| Twitch Charity Faqs                         | 13/06/2026, 4:01:28 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=pl)                          |
-| Charitable Donations                        | 13/06/2026, 4:01:22 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=pl)                         |
-| Stream Summary                              | 10/06/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pl)                               |
-| Creating An Account With Twitch             | 03/06/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=pl)              |
-| Guide To Custom Messages                    | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=pl)                     |
-| Twitch Chat Badges Guide                    | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=pl)                     |
-| How To Handle View Follow Bots              | 28/05/2026, 4:52:05 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=pl)               |
-| How To Manage Harassment In Chat            | 28/05/2026, 4:51:57 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pl)             |
-| Video On Demand                             | 28/05/2026, 4:47:39 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pl)                              |
-| When Am I Getting Paid                      | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=pl)                       |
-| Your First Payout Walkthrough               | 27/05/2026, 9:14:26 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=pl)                |
+| Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
+|----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Manage Harassment In Chat                         | 10/07/2026, 6:56:21 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=pl)                          |
+| About Account Suspensions Dmca Suspensions And Chat Bans | 10/07/2026, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pl)  |
+| Refunds On Twitch                                        | 19/06/2026, 8:19:29 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=pl)                                         |
+| How To Use Clips                                         | 19/06/2026, 2:27:24 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pl)                                          |
+| Partner Program Overview                                 | 18/06/2026, 3:42:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pl)                                  |
+| How To Use Extensions                                    | 18/06/2026, 3:41:21 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=pl)                                     |
+| Guest Star Getting Started                               | 18/06/2026, 3:40:52 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=pl)                                |
+| Understanding Viewer Count Vs Users In Chat              | 16/06/2026, 6:14:26 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=pl)               |
+| Partner Onboarding Guide                                 | 16/06/2026, 6:13:43 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pl)                                  |
+| Twitch Affiliate Program Faq                             | 16/06/2026, 6:13:32 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pl)                              |
+| Joining The Affiliate Program                            | 16/06/2026, 6:12:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pl)                             |
+| Twitch Charity                                           | 13/06/2026, 4:01:34 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=pl)                                            |
+| Twitch Charity Faqs                                      | 13/06/2026, 4:01:28 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=pl)                                       |
+| Charitable Donations                                     | 13/06/2026, 4:01:22 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=pl)                                      |
+| Stream Summary                                           | 10/06/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pl)                                            |
+| Creating An Account With Twitch                          | 03/06/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=pl)                           |
+| Guide To Custom Messages                                 | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=pl)                                  |
+| Twitch Chat Badges Guide                                 | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=pl)                                  |
+| How To Handle View Follow Bots                           | 28/05/2026, 4:52:05 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=pl)                            |
+| Video On Demand                                          | 28/05/2026, 4:47:39 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pl)                                           |
 
 
 
