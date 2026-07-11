@@ -6,13 +6,14 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| How To Manage Harassment In Chat                         | 10/07/2026, 6:56:21 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es_MX)                          |
-| About Account Suspensions Dmca Suspensions And Chat Bans | 10/07/2026, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=es_MX)  |
-| How To Subscribe                                         | 10/07/2026, 6:55:55 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=es_MX)                                          |
-| Shared Chat                                              | 10/07/2026, 6:55:40 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=es_MX)                                               |
-| Chat Basics                                              | 10/07/2026, 6:55:28 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=es_MX)                                               |
-| Support Subscriptions                                    | 10/07/2026, 6:55:20 am    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=es_MX)                                     |
-| Why Cant I Chat                                          | 10/07/2026, 6:55:12 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=es_MX)                                           |
+| Why Cant I Chat                                          | 11/07/2026, 7:48:31 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=es_MX)                                           |
+| Chat Basics                                              | 11/07/2026, 7:48:28 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=es_MX)                                               |
+| Support Subscriptions                                    | 11/07/2026, 7:48:26 am    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=es_MX)                                     |
+| How To Manage Harassment In Chat                         | 11/07/2026, 7:48:24 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es_MX)                          |
+| About Account Suspensions Dmca Suspensions And Chat Bans | 11/07/2026, 7:48:22 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=es_MX)  |
+| How To Subscribe                                         | 11/07/2026, 7:48:18 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=es_MX)                                          |
+| Shared Chat                                              | 11/07/2026, 7:48:14 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=es_MX)                                               |
+| Managing Subscription Tiers                              | 11/07/2026, 7:48:14 am    | [Link](https://help.twitch.tv/s/article/managing-subscription-tiers?language=es_MX)                               |
 | Gif Keyboard                                             | 10/07/2026, 6:48:39 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=es_MX)                                              |
 | Dual Format Vertical Video                               | 24/06/2026, 4:34:30 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                                |
 | Hype Train Guide                                         | 23/06/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=es_MX)                                          |

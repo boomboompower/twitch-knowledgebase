@@ -67,8 +67,6 @@
 | How To Sub Only Archives                                 | 28/05/2026, 4:47:45 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=es)                                  |
 | Video On Demand                                          | 28/05/2026, 4:47:40 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es)                                           |
 | Social Badge                                             | 28/05/2026, 4:47:33 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=es)                                              |
-| Dac7 Interview                                           | 27/05/2026, 3:44:54 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=es)                                            |
-| Enroll Spendable Balance                                 | 27/05/2026, 3:19:32 pm    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=es)                                  |
 
 
 

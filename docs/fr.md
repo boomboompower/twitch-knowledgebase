@@ -63,10 +63,6 @@
 | How To Sub Only Archives                                 | 28/05/2026, 4:47:45 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=fr)                                  |
 | Video On Demand                                          | 28/05/2026, 4:47:40 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=fr)                                           |
 | Social Badge                                             | 28/05/2026, 4:47:33 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=fr)                                              |
-| Subscriber Emote Guide                                   | 27/05/2026, 1:35:45 pm    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=fr)                                    |
-| Partner Settings Guide                                   | 27/05/2026, 1:35:12 pm    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=fr)                                    |
-| Partner Cheermote Guide                                  | 27/05/2026, 1:34:13 pm    | [Link](https://help.twitch.tv/s/article/partner-cheermote-guide?language=fr)                                   |
-| Follower Emotes                                          | 27/05/2026, 1:33:39 pm    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=fr)                                           |
 
 
 

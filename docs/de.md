@@ -63,8 +63,6 @@
 | Social Badge                                             | 28/05/2026, 4:47:33 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=de)                                              |
 | Partner Settings Guide                                   | 27/05/2026, 10:07:26 pm   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=de)                                    |
 | Affiliate Settings Guide                                 | 27/05/2026, 6:16:05 pm    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=de)                                  |
-| Enroll Spendable Balance                                 | 27/05/2026, 5:32:07 pm    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=de)                                  |
-| Dac7 Interview                                           | 27/05/2026, 5:12:54 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=de)                                            |
 
 
 
