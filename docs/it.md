@@ -353,6 +353,7 @@
 
 | Name                  | Last Updated (dd/mm/yyyy) | Link                                                                        |
 |-----------------------|---------------------------|-----------------------------------------------------------------------------|
+| Why Cant I Chat       | 14/07/2026, 7:44:29 pm    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=it)        |
 | Gif Keyboard          | 13/07/2026, 9:27:47 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=it)           |
 | Weekly Rewards        | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=it)         |
 | Creator Certification | 12/06/2026, 7:03:04 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=it)  |

@@ -25,7 +25,6 @@
 | Guide To Custom Messages                                 | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=tr)                                  |
 | Twitch Chat Badges Guide                                 | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=tr)                                  |
 | How To Handle View Follow Bots                           | 28/05/2026, 4:52:05 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=tr)                            |
-| Video On Demand                                          | 28/05/2026, 4:47:39 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=tr)                                           |
 
 
 

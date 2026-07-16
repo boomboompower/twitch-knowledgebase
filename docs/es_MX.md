@@ -352,10 +352,12 @@
 
 | Name                  | Last Updated (dd/mm/yyyy) | Link                                                                           |
 |-----------------------|---------------------------|--------------------------------------------------------------------------------|
+| Why Cant I Chat       | 11/07/2026, 7:48:31 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=es_MX)        |
 | Gif Keyboard          | 10/07/2026, 6:48:39 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=es_MX)           |
 | Weekly Rewards        | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es_MX)         |
 | Creator Certification | 12/06/2026, 7:03:03 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)  |
 | Streamer Recap        | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=es_MX)         |
+| Creator Badge Rewards | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es_MX)  |
 
 
 

@@ -401,6 +401,7 @@
 | Weekly Rewards        | 22/06/2026, 9:46:02 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=en_US)         |
 | Creator Certification | 12/06/2026, 7:03:02 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=en_US)  |
 | Streamer Recap        | 10/06/2026, 4:03:46 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=en_US)         |
+| Creator Badge Rewards | 02/06/2026, 7:33:29 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=en_US)  |
 
 
 

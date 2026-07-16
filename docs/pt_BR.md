@@ -6,8 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                         | 15/07/2026, 0:15:37 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                          |
 | Auto Clips                                               | 15/07/2026, 11:54:19 am   | [Link](https://help.twitch.tv/s/article/auto-clips?language=pt_BR)                                                |
-| How To Use Clips                                         | 15/07/2026, 8:47:40 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                          |
 | Support Subscriptions                                    | 14/07/2026, 1:16:25 pm    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=pt_BR)                                     |
 | Shared Chat                                              | 14/07/2026, 1:16:22 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=pt_BR)                                               |
 | Chat Basics                                              | 14/07/2026, 1:16:18 pm    | [Link](https://help.twitch.tv/s/article/chat-basics?language=pt_BR)                                               |
@@ -351,6 +351,7 @@
 
 | Name                  | Last Updated (dd/mm/yyyy) | Link                                                                           |
 |-----------------------|---------------------------|--------------------------------------------------------------------------------|
+| Why Cant I Chat       | 14/07/2026, 6:49:14 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=pt_BR)        |
 | Gif Keyboard          | 12/07/2026, 1:28:43 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=pt_BR)           |
 | Weekly Rewards        | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=pt_BR)         |
 | Creator Certification | 12/06/2026, 7:03:04 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=pt_BR)  |

@@ -6,18 +6,19 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Shared Chat                                              | 15/07/2026, 7:26:14 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=zh_TW)                                               |
+| Support Subscriptions                                    | 15/07/2026, 7:26:13 pm    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=zh_TW)                                     |
+| Why Cant I Chat                                          | 15/07/2026, 7:26:11 pm    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=zh_TW)                                           |
+| About Account Suspensions Dmca Suspensions And Chat Bans | 15/07/2026, 7:26:11 pm    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=zh_TW)  |
+| Managing Subscription Tiers                              | 15/07/2026, 7:26:07 pm    | [Link](https://help.twitch.tv/s/article/managing-subscription-tiers?language=zh_TW)                               |
+| How To Subscribe                                         | 15/07/2026, 7:26:06 pm    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=zh_TW)                                          |
+| How To Manage Harassment In Chat                         | 15/07/2026, 7:26:00 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=zh_TW)                          |
+| Chat Basics                                              | 15/07/2026, 7:25:58 pm    | [Link](https://help.twitch.tv/s/article/chat-basics?language=zh_TW)                                               |
 | Auto Clips                                               | 15/07/2026, 8:47:56 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                                |
 | How To Use Clips                                         | 15/07/2026, 8:47:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                          |
 | Twitch Affiliate Program Faq                             | 14/07/2026, 3:48:21 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                              |
 | Partner Onboarding Guide                                 | 14/07/2026, 3:48:19 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=zh_TW)                                  |
 | Gif Keyboard                                             | 13/07/2026, 8:55:24 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=zh_TW)                                              |
-| How To Manage Harassment In Chat                         | 10/07/2026, 6:56:21 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=zh_TW)                          |
-| About Account Suspensions Dmca Suspensions And Chat Bans | 10/07/2026, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=zh_TW)  |
-| How To Subscribe                                         | 10/07/2026, 6:55:55 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=zh_TW)                                          |
-| Shared Chat                                              | 10/07/2026, 6:55:40 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=zh_TW)                                               |
-| Chat Basics                                              | 10/07/2026, 6:55:28 am    | [Link](https://help.twitch.tv/s/article/chat-basics?language=zh_TW)                                               |
-| Support Subscriptions                                    | 10/07/2026, 6:55:20 am    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=zh_TW)                                     |
-| Why Cant I Chat                                          | 10/07/2026, 6:55:12 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=zh_TW)                                           |
 | Dual Format Vertical Video                               | 26/06/2026, 8:38:09 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=zh_TW)                                |
 | Partner Program Overview                                 | 24/06/2026, 7:28:35 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                                  |
 | How To Use Extensions                                    | 24/06/2026, 7:28:30 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=zh_TW)                                     |
@@ -62,7 +63,6 @@
 | Content Approval                                         | 28/05/2026, 4:51:40 am    | [Link](https://help.twitch.tv/s/article/content-approval?language=zh_TW)                                          |
 | How To Sub Only Archives                                 | 28/05/2026, 4:47:46 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=zh_TW)                                  |
 | Video On Demand                                          | 28/05/2026, 4:47:41 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                           |
-| Social Badge                                             | 28/05/2026, 4:47:34 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=zh_TW)                                              |
 
 
 
@@ -347,6 +347,7 @@
 
 | Name                  | Last Updated (dd/mm/yyyy) | Link                                                                           |
 |-----------------------|---------------------------|--------------------------------------------------------------------------------|
+| Why Cant I Chat       | 15/07/2026, 7:26:11 pm    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=zh_TW)        |
 | Gif Keyboard          | 13/07/2026, 8:55:24 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=zh_TW)           |
 | Weekly Rewards        | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=zh_TW)         |
 | Creator Certification | 12/06/2026, 7:03:04 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=zh_TW)  |
