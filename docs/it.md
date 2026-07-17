@@ -6,6 +6,11 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Creating An Account With Twitch                          | 17/07/2026, 7:41:19 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=it)                           |
+| About Bans Blocking And Suspensions                      | 17/07/2026, 7:36:29 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=it)                       |
+| Twitch Stream Key Faq                                    | 17/07/2026, 7:35:17 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=it)                                     |
+| Disconnect Protection                                    | 17/07/2026, 7:35:12 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=it)                                     |
+| Creator Badge Rewards                                    | 17/07/2026, 7:12:19 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=it)                                     |
 | Auto Clips                                               | 15/07/2026, 8:47:54 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=it)                                                |
 | How To Use Clips                                         | 15/07/2026, 8:47:43 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                          |
 | Managing Subscription Tiers                              | 14/07/2026, 7:44:49 pm    | [Link](https://help.twitch.tv/s/article/managing-subscription-tiers?language=it)                               |
@@ -46,8 +51,6 @@
 | Stream Summary                                           | 10/06/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=it)                                            |
 | Stories                                                  | 10/06/2026, 4:02:54 am    | [Link](https://help.twitch.tv/s/article/stories?language=it)                                                   |
 | Partner Front Page                                       | 04/06/2026, 5:49:30 pm    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=it)                                        |
-| Creating An Account With Twitch                          | 04/06/2026, 7:47:27 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=it)                           |
-| Creator Badge Rewards                                    | 02/06/2026, 7:33:31 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=it)                                     |
 | Gift Card                                                | 02/06/2026, 7:23:31 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=it)                                                 |
 | Gift Card Redeem                                         | 02/06/2026, 7:23:24 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=it)                                          |
 | Gift Card Spend                                          | 02/06/2026, 7:23:20 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=it)                                           |
@@ -59,9 +62,6 @@
 | How To Handle View Follow Bots                           | 28/05/2026, 4:52:05 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=it)                            |
 | How To Use Whispers                                      | 28/05/2026, 4:51:52 am    | [Link](https://help.twitch.tv/s/article/how-to-use-whispers?language=it)                                       |
 | Geoblocking                                              | 28/05/2026, 4:51:48 am    | [Link](https://help.twitch.tv/s/article/geoblocking?language=it)                                               |
-| Content Approval                                         | 28/05/2026, 4:51:39 am    | [Link](https://help.twitch.tv/s/article/content-approval?language=it)                                          |
-| How To Sub Only Archives                                 | 28/05/2026, 4:47:45 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=it)                                  |
-| Video On Demand                                          | 28/05/2026, 4:47:40 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=it)                                           |
 
 
 
@@ -351,13 +351,15 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                  | Last Updated (dd/mm/yyyy) | Link                                                                        |
-|-----------------------|---------------------------|-----------------------------------------------------------------------------|
-| Why Cant I Chat       | 14/07/2026, 7:44:29 pm    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=it)        |
-| Gif Keyboard          | 13/07/2026, 9:27:47 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=it)           |
-| Weekly Rewards        | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=it)         |
-| Creator Certification | 12/06/2026, 7:03:04 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=it)  |
-| Streamer Recap        | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=it)         |
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
+|-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| About Bans Blocking And Suspensions | 17/07/2026, 7:36:29 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=it)  |
+| Creator Badge Rewards               | 17/07/2026, 7:12:19 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=it)                |
+| Why Cant I Chat                     | 14/07/2026, 7:44:29 pm    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=it)                      |
+| Gif Keyboard                        | 13/07/2026, 9:27:47 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=it)                         |
+| Weekly Rewards                      | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=it)                       |
+| Creator Certification               | 12/06/2026, 7:03:04 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=it)                |
+| Streamer Recap                      | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=it)                       |
 
 
 
