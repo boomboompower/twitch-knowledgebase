@@ -69,53 +69,68 @@
 ## Article-2
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
 
+| Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
+|--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Content Approval                           | 28/05/2026, 4:51:40 am    | [Link](https://help.twitch.tv/s/article/content-approval?language=zh_TW)                            |
+| How To Sub Only Archives                   | 28/05/2026, 4:47:46 am    | [Link](https://help.twitch.tv/s/article/how-to-sub-only-archives?language=zh_TW)                    |
+| Video On Demand                            | 28/05/2026, 4:47:41 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                             |
+| Social Badge                               | 28/05/2026, 4:47:34 am    | [Link](https://help.twitch.tv/s/article/social-badge?language=zh_TW)                                |
+| Affiliate Settings Guide                   | 27/05/2026, 9:58:31 pm    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=zh_TW)                    |
+| Partner Settings Guide                     | 27/05/2026, 9:50:39 pm    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=zh_TW)                      |
+| Dac7 Interview                             | 27/05/2026, 9:44:24 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=zh_TW)                              |
+| Enroll Spendable Balance                   | 27/05/2026, 5:36:20 pm    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=zh_TW)                    |
+| When Am I Getting Paid                     | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=zh_TW)                      |
+| Your First Payout Walkthrough              | 27/05/2026, 9:14:28 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=zh_TW)               |
+| Revenue                                    | 25/05/2026, 5:11:43 pm    | [Link](https://help.twitch.tv/s/article/revenue?language=zh_TW)                                     |
+| Past Behavior And Account Standing         | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=zh_TW)          |
+| Power Ups                                  | 20/05/2026, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=zh_TW)                                   |
+| Viewer Custom Power Ups Guide              | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=zh_TW)               |
+| Twitch Turbo Guide                         | 16/05/2026, 6:14:56 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                          |
+| How To Use Emotes                          | 16/05/2026, 6:01:11 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=zh_TW)                           |
+| Cheering For Partners Affiliates           | 16/05/2026, 6:01:03 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=zh_TW)            |
+| Iceland Tax Interview                      | 15/05/2026, 0:56:34 am    | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=zh_TW)                       |
+| Streamer Shouts                            | 14/05/2026, 3:52:48 pm    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=zh_TW)                             |
+| Two Factor Authentication                  | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=zh_TW)                   |
+| Managing Roles For Your Channel            | 09/05/2026, 4:46:59 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=zh_TW)             |
+| Guide To Cheering With Bits                | 09/05/2026, 4:25:55 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=zh_TW)                 |
+| Mission Based Drops                        | 08/05/2026, 7:57:05 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=zh_TW)                         |
+| Chat Commands                              | 02/05/2026, 2:03:28 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_TW)                               |
+| Cancelling Subscriptions                   | 02/05/2026, 2:00:20 am    | [Link](https://help.twitch.tv/s/article/cancelling-subscriptions?language=zh_TW)                    |
+| How Subscription Streaks Work              | 02/05/2026, 2:00:13 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=zh_TW)               |
+| Managing And Upgrading A Gift Subscription | 02/05/2026, 1:59:58 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=zh_TW)  |
+| Username Rename And Recycling Policies     | 30/04/2026, 5:01:36 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=zh_TW)      |
+| Digital Services Act                       | 30/04/2026, 4:38:56 am    | [Link](https://help.twitch.tv/s/article/digital-services-act?language=zh_TW)                        |
+| Contacting Purchase Support                | 25/04/2026, 8:52:59 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=zh_TW)                 |
+| Bits Purchase Troubleshooting              | 25/04/2026, 8:52:51 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=zh_TW)               |
+| How To Purchase Bits                       | 25/04/2026, 8:52:05 am    | [Link](https://help.twitch.tv/s/article/how-to-purchase-bits?language=zh_TW)                        |
+| Affiliate Or Partner Anniversary Settings  | 25/04/2026, 8:50:32 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=zh_TW)   |
+| Twitch Account Access Login Issues Guide   | 18/04/2026, 6:39:34 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=zh_TW)    |
+| Account Hacked                             | 18/04/2026, 6:39:20 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=zh_TW)                              |
+| Date Of Birth Changes                      | 15/04/2026, 4:41:19 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                       |
+| Local Sub Price Countries                  | 14/04/2026, 4:14:51 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                   |
+| Local Subscription Pricing                 | 14/04/2026, 4:14:48 pm    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=zh_TW)                  |
+| Twitch Unity Guilds                        | 14/04/2026, 7:31:01 am    | [Link](https://help.twitch.tv/s/article/twitch-unity-guilds?language=zh_TW)                         |
+| Channel Points Faq                         | 10/04/2026, 5:53:09 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=zh_TW)                          |
+| Leaderboards Guide                         | 10/04/2026, 8:02:13 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=zh_TW)                          |
+| Achievements                               | 10/04/2026, 8:01:37 am    | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                |
+| Bleed Purple                               | 10/04/2026, 8:01:28 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=zh_TW)                                |
+| Getting Started On Twitch                  | 10/04/2026, 7:58:14 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=zh_TW)                   |
+| Dj Program Faq                             | 10/04/2026, 7:51:58 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=zh_TW)                              |
+| Dj Secondary                               | 10/04/2026, 7:51:49 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=zh_TW)                                |
+| Dj Opt Out                                 | 10/04/2026, 7:51:38 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=zh_TW)                                  |
+| Prime Gaming Revenue Guide                 | 10/04/2026, 6:28:18 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                  |
+| Payout Balance Faq                         | 10/04/2026, 6:28:06 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=zh_TW)                          |
+| Rejected Payout Faq                        | 10/04/2026, 6:27:56 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=zh_TW)                         |
+| Payout History Dashboard Guide             | 10/04/2026, 6:27:33 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=zh_TW)              |
+| How To Upgrade Prime                       | 09/04/2026, 7:24:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=zh_TW)                        |
+
+
+
+## Article-3
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
+
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
-| When Am I Getting Paid                           | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=zh_TW)                            |
-| Your First Payout Walkthrough                    | 27/05/2026, 9:14:28 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=zh_TW)                     |
-| Revenue                                          | 25/05/2026, 5:11:43 pm    | [Link](https://help.twitch.tv/s/article/revenue?language=zh_TW)                                           |
-| Past Behavior And Account Standing               | 21/05/2026, 0:13:07 pm    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=zh_TW)                |
-| Power Ups                                        | 20/05/2026, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=zh_TW)                                         |
-| Viewer Custom Power Ups Guide                    | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=zh_TW)                     |
-| Twitch Turbo Guide                               | 16/05/2026, 6:14:56 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                                |
-| How To Use Emotes                                | 16/05/2026, 6:01:11 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=zh_TW)                                 |
-| Cheering For Partners Affiliates                 | 16/05/2026, 6:01:03 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=zh_TW)                  |
-| Iceland Tax Interview                            | 15/05/2026, 0:56:34 am    | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=zh_TW)                             |
-| Streamer Shouts                                  | 14/05/2026, 3:52:48 pm    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=zh_TW)                                   |
-| Two Factor Authentication                        | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=zh_TW)                         |
-| Managing Roles For Your Channel                  | 09/05/2026, 4:46:59 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=zh_TW)                   |
-| Guide To Cheering With Bits                      | 09/05/2026, 4:25:55 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=zh_TW)                       |
-| Mission Based Drops                              | 08/05/2026, 7:57:05 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=zh_TW)                               |
-| Chat Commands                                    | 02/05/2026, 2:03:28 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_TW)                                     |
-| Cancelling Subscriptions                         | 02/05/2026, 2:00:20 am    | [Link](https://help.twitch.tv/s/article/cancelling-subscriptions?language=zh_TW)                          |
-| How Subscription Streaks Work                    | 02/05/2026, 2:00:13 am    | [Link](https://help.twitch.tv/s/article/how-subscription-streaks-work?language=zh_TW)                     |
-| Managing And Upgrading A Gift Subscription       | 02/05/2026, 1:59:58 am    | [Link](https://help.twitch.tv/s/article/managing-and-upgrading-a-gift-subscription?language=zh_TW)        |
-| Username Rename And Recycling Policies           | 30/04/2026, 5:01:36 am    | [Link](https://help.twitch.tv/s/article/username-rename-and-recycling-policies?language=zh_TW)            |
-| Digital Services Act                             | 30/04/2026, 4:38:56 am    | [Link](https://help.twitch.tv/s/article/digital-services-act?language=zh_TW)                              |
-| Contacting Purchase Support                      | 25/04/2026, 8:52:59 am    | [Link](https://help.twitch.tv/s/article/contacting-purchase-support?language=zh_TW)                       |
-| Bits Purchase Troubleshooting                    | 25/04/2026, 8:52:51 am    | [Link](https://help.twitch.tv/s/article/bits-purchase-troubleshooting?language=zh_TW)                     |
-| How To Purchase Bits                             | 25/04/2026, 8:52:05 am    | [Link](https://help.twitch.tv/s/article/how-to-purchase-bits?language=zh_TW)                              |
-| Affiliate Or Partner Anniversary Settings        | 25/04/2026, 8:50:32 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=zh_TW)         |
-| Twitch Account Access Login Issues Guide         | 18/04/2026, 6:39:34 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=zh_TW)          |
-| Account Hacked                                   | 18/04/2026, 6:39:20 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=zh_TW)                                    |
-| Date Of Birth Changes                            | 15/04/2026, 4:41:19 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                             |
-| Local Sub Price Countries                        | 14/04/2026, 4:14:51 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                         |
-| Local Subscription Pricing                       | 14/04/2026, 4:14:48 pm    | [Link](https://help.twitch.tv/s/article/local-subscription-pricing?language=zh_TW)                        |
-| Twitch Unity Guilds                              | 14/04/2026, 7:31:01 am    | [Link](https://help.twitch.tv/s/article/twitch-unity-guilds?language=zh_TW)                               |
-| Auto Clips                                       | 14/04/2026, 7:30:34 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                        |
-| Channel Points Faq                               | 10/04/2026, 5:53:09 pm    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=zh_TW)                                |
-| Leaderboards Guide                               | 10/04/2026, 8:02:13 am    | [Link](https://help.twitch.tv/s/article/leaderboards-guide?language=zh_TW)                                |
-| Achievements                                     | 10/04/2026, 8:01:37 am    | [Link](https://help.twitch.tv/s/article/achievements?language=zh_TW)                                      |
-| Bleed Purple                                     | 10/04/2026, 8:01:28 am    | [Link](https://help.twitch.tv/s/article/bleed-purple?language=zh_TW)                                      |
-| Getting Started On Twitch                        | 10/04/2026, 7:58:14 am    | [Link](https://help.twitch.tv/s/article/getting-started-on-twitch?language=zh_TW)                         |
-| Dj Program Faq                                   | 10/04/2026, 7:51:58 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=zh_TW)                                    |
-| Dj Secondary                                     | 10/04/2026, 7:51:49 am    | [Link](https://help.twitch.tv/s/article/dj-secondary?language=zh_TW)                                      |
-| Dj Opt Out                                       | 10/04/2026, 7:51:38 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=zh_TW)                                        |
-| Prime Gaming Revenue Guide                       | 10/04/2026, 6:28:18 am    | [Link](https://help.twitch.tv/s/article/prime-gaming-revenue-guide?language=zh_TW)                        |
-| Payout Balance Faq                               | 10/04/2026, 6:28:06 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=zh_TW)                                |
-| Rejected Payout Faq                              | 10/04/2026, 6:27:56 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=zh_TW)                               |
-| Payout History Dashboard Guide                   | 10/04/2026, 6:27:33 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=zh_TW)                    |
-| How To Upgrade Prime                             | 09/04/2026, 7:24:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=zh_TW)                              |
 | Updating Payment Information Transaction History | 07/04/2026, 8:54:51 am    | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=zh_TW)  |
 | Multi Month Subscriptions                        | 07/04/2026, 8:54:49 am    | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=zh_TW)                         |
 | Guide To Using Twitch Inspector                  | 07/04/2026, 7:25:56 am    | [Link](https://help.twitch.tv/s/article/guide-to-using-twitch-inspector?language=zh_TW)                   |
@@ -124,63 +139,51 @@
 | Mobile Game Broadcasting                         | 04/04/2026, 7:46:44 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=zh_TW)                          |
 | Political Onboarding                             | 04/04/2026, 7:17:03 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=zh_TW)                              |
 | Subscriptions On Mobile                          | 03/04/2026, 0:03:16 pm    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=zh_TW)                           |
-
-
-
-## Article-3
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-3.xml) this sitemap
-
-| Name                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
-|-----------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
-| Affiliate Onboarding Guide                    | 30/03/2026, 7:49:18 pm    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                     |
-| Update Logins To Twitch With Facebook         | 26/03/2026, 4:57:47 pm    | [Link](https://help.twitch.tv/s/article/update-logins-to-twitch-with-facebook?language=zh_TW)          |
-| Setting Up Moderation For Your Twitch Channel | 25/03/2026, 6:38:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=zh_TW)  |
-| Mod View                                      | 25/03/2026, 6:37:42 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                       |
-| How To Change Password                        | 24/03/2026, 11:34:29 am   | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=zh_TW)                         |
-| Subscriber Badge Guide                        | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=zh_TW)                         |
-| Earning Revenue From Bits In Extensions       | 12/03/2026, 0:05:03 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=zh_TW)        |
-| Using Bits In Extensions                      | 12/03/2026, 0:05:02 pm    | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=zh_TW)                       |
-| Guide To Closed Captions                      | 12/03/2026, 8:50:11 am    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=zh_TW)                       |
-| Ban Evasion                                   | 12/03/2026, 5:03:44 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=zh_TW)                                    |
-| Minimum Payout Threshold                      | 12/03/2026, 4:05:04 am    | [Link](https://help.twitch.tv/s/article/minimum-payout-threshold?language=zh_TW)                       |
-| Bits Price Adjustment                         | 12/03/2026, 4:05:02 am    | [Link](https://help.twitch.tv/s/article/bits-price-adjustment?language=zh_TW)                          |
-| Minimum Payout Threshold Countries            | 12/03/2026, 4:04:52 am    | [Link](https://help.twitch.tv/s/article/minimum-payout-threshold-countries?language=zh_TW)             |
-| Creator Goals                                 | 12/03/2026, 4:03:49 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                                  |
-| Guide To Tags                                 | 12/03/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=zh_TW)                                  |
-| New Device And Location Verification          | 10/03/2026, 0:04:59 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=zh_TW)           |
-| Managing Your Phone Number                    | 10/03/2026, 0:04:56 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)                     |
-| Not Receiving Sms                             | 10/03/2026, 0:04:53 pm    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=zh_TW)                              |
-| Games Irl And Music Directories               | 06/03/2026, 9:11:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=zh_TW)                |
-| Experiments                                   | 06/03/2026, 9:11:11 am    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                    |
-| Broadcasting Guidelines                       | 06/03/2026, 9:10:50 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=zh_TW)                        |
-| Twitch Research Surveys                       | 06/03/2026, 9:09:40 am    | [Link](https://help.twitch.tv/s/article/twitch-research-surveys?language=zh_TW)                        |
-| How To Provide Feedback                       | 06/03/2026, 9:08:39 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=zh_TW)                        |
-| How To Contact Support                        | 06/03/2026, 9:08:00 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=zh_TW)                         |
-| Contacting Partner Help                       | 06/03/2026, 9:06:40 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=zh_TW)                        |
-| How To Use Raids                              | 06/03/2026, 9:05:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=zh_TW)                               |
-| Emote Analytics                               | 06/03/2026, 9:05:37 am    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=zh_TW)                                |
-| Playback Issue Troubleshooting                | 03/03/2026, 10:09:45 am   | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=zh_TW)                 |
-| Simulcasting Guidelines                       | 26/02/2026, 11:43:46 am   | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=zh_TW)                        |
-| How To File A Video Playback Issue            | 25/02/2026, 0:32:28 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=zh_TW)             |
-| Locating Your Twitch Invoice Number           | 25/02/2026, 10:29:57 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=zh_TW)            |
-| Why Cant I Stream                             | 25/02/2026, 6:49:10 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=zh_TW)                              |
-| Chat Verification Settings                    | 25/02/2026, 6:48:32 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=zh_TW)                     |
-| About Bans Blocking And Suspensions           | 25/02/2026, 6:47:05 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=zh_TW)            |
-| Stream Rewind                                 | 23/02/2026, 8:34:08 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=zh_TW)                                  |
-| Authy Faq                                     | 21/02/2026, 0:32:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=zh_TW)                                      |
-| Disabling Prerolls                            | 18/02/2026, 10:38:56 am   | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=zh_TW)                             |
-| Twitch Teams                                  | 18/02/2026, 9:11:15 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=zh_TW)                                   |
-| Link Amazon Twitch Accounts                   | 16/02/2026, 10:51:43 pm   | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=zh_TW)                    |
-| Supported Browsers                            | 16/02/2026, 10:22:13 pm   | [Link](https://help.twitch.tv/s/article/supported-browsers?language=zh_TW)                             |
-| Where Are My Notifications                    | 13/02/2026, 10:35:42 am   | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=zh_TW)                     |
-| Code Based Drops Rewards                      | 12/02/2026, 11:07:53 am   | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=zh_TW)                       |
-| Xbox Broadcast                                | 12/02/2026, 10:52:13 am   | [Link](https://help.twitch.tv/s/article/xbox-broadcast?language=zh_TW)                                 |
-| Twitch Account Settings                       | 12/02/2026, 10:27:00 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=zh_TW)                        |
-| About Twitch Categories                       | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=zh_TW)                        |
-| Dmca And Copyright Faqs                       | 11/02/2026, 2:59:09 pm    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=zh_TW)                        |
-| Creator Dashboard                             | 11/02/2026, 2:01:16 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=zh_TW)                              |
-| How To Use Automod                            | 11/02/2026, 2:01:06 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=zh_TW)                             |
-| Failed Payments                               | 11/02/2026, 11:05:11 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=zh_TW)                                |
+| Affiliate Onboarding Guide                       | 30/03/2026, 7:49:18 pm    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                        |
+| Update Logins To Twitch With Facebook            | 26/03/2026, 4:57:47 pm    | [Link](https://help.twitch.tv/s/article/update-logins-to-twitch-with-facebook?language=zh_TW)             |
+| Setting Up Moderation For Your Twitch Channel    | 25/03/2026, 6:38:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=zh_TW)     |
+| Mod View                                         | 25/03/2026, 6:37:42 am    | [Link](https://help.twitch.tv/s/article/mod-view?language=zh_TW)                                          |
+| How To Change Password                           | 24/03/2026, 11:34:29 am   | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=zh_TW)                            |
+| Subscriber Badge Guide                           | 18/03/2026, 11:48:17 am   | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=zh_TW)                            |
+| Earning Revenue From Bits In Extensions          | 12/03/2026, 0:05:03 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=zh_TW)           |
+| Using Bits In Extensions                         | 12/03/2026, 0:05:02 pm    | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=zh_TW)                          |
+| Guide To Closed Captions                         | 12/03/2026, 8:50:11 am    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=zh_TW)                          |
+| Ban Evasion                                      | 12/03/2026, 5:03:44 am    | [Link](https://help.twitch.tv/s/article/ban-evasion?language=zh_TW)                                       |
+| Minimum Payout Threshold                         | 12/03/2026, 4:05:04 am    | [Link](https://help.twitch.tv/s/article/minimum-payout-threshold?language=zh_TW)                          |
+| Bits Price Adjustment                            | 12/03/2026, 4:05:02 am    | [Link](https://help.twitch.tv/s/article/bits-price-adjustment?language=zh_TW)                             |
+| Minimum Payout Threshold Countries               | 12/03/2026, 4:04:52 am    | [Link](https://help.twitch.tv/s/article/minimum-payout-threshold-countries?language=zh_TW)                |
+| Creator Goals                                    | 12/03/2026, 4:03:49 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=zh_TW)                                     |
+| Guide To Tags                                    | 12/03/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=zh_TW)                                     |
+| New Device And Location Verification             | 10/03/2026, 0:04:59 pm    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=zh_TW)              |
+| Managing Your Phone Number                       | 10/03/2026, 0:04:56 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)                        |
+| Not Receiving Sms                                | 10/03/2026, 0:04:53 pm    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=zh_TW)                                 |
+| Games Irl And Music Directories                  | 06/03/2026, 9:11:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=zh_TW)                   |
+| Experiments                                      | 06/03/2026, 9:11:11 am    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                       |
+| Broadcasting Guidelines                          | 06/03/2026, 9:10:50 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=zh_TW)                           |
+| Twitch Research Surveys                          | 06/03/2026, 9:09:40 am    | [Link](https://help.twitch.tv/s/article/twitch-research-surveys?language=zh_TW)                           |
+| How To Provide Feedback                          | 06/03/2026, 9:08:39 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=zh_TW)                           |
+| How To Contact Support                           | 06/03/2026, 9:08:00 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=zh_TW)                            |
+| Contacting Partner Help                          | 06/03/2026, 9:06:40 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=zh_TW)                           |
+| How To Use Raids                                 | 06/03/2026, 9:05:46 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=zh_TW)                                  |
+| Emote Analytics                                  | 06/03/2026, 9:05:37 am    | [Link](https://help.twitch.tv/s/article/emote-analytics?language=zh_TW)                                   |
+| Playback Issue Troubleshooting                   | 03/03/2026, 10:09:45 am   | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=zh_TW)                    |
+| Simulcasting Guidelines                          | 26/02/2026, 11:43:46 am   | [Link](https://help.twitch.tv/s/article/simulcasting-guidelines?language=zh_TW)                           |
+| How To File A Video Playback Issue               | 25/02/2026, 0:32:28 pm    | [Link](https://help.twitch.tv/s/article/how-to-file-a-video-playback-issue?language=zh_TW)                |
+| Locating Your Twitch Invoice Number              | 25/02/2026, 10:29:57 am   | [Link](https://help.twitch.tv/s/article/locating-your-twitch-invoice-number?language=zh_TW)               |
+| Why Cant I Stream                                | 25/02/2026, 6:49:10 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-stream?language=zh_TW)                                 |
+| Chat Verification Settings                       | 25/02/2026, 6:48:32 am    | [Link](https://help.twitch.tv/s/article/chat-verification-settings?language=zh_TW)                        |
+| Stream Rewind                                    | 23/02/2026, 8:34:08 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=zh_TW)                                     |
+| Authy Faq                                        | 21/02/2026, 0:32:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=zh_TW)                                         |
+| Disabling Prerolls                               | 18/02/2026, 10:38:56 am   | [Link](https://help.twitch.tv/s/article/disabling-prerolls?language=zh_TW)                                |
+| Twitch Teams                                     | 18/02/2026, 9:11:15 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=zh_TW)                                      |
+| Link Amazon Twitch Accounts                      | 16/02/2026, 10:51:43 pm   | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=zh_TW)                       |
+| Supported Browsers                               | 16/02/2026, 10:22:13 pm   | [Link](https://help.twitch.tv/s/article/supported-browsers?language=zh_TW)                                |
+| Where Are My Notifications                       | 13/02/2026, 10:35:42 am   | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=zh_TW)                        |
+| Code Based Drops Rewards                         | 12/02/2026, 11:07:53 am   | [Link](https://help.twitch.tv/s/article/code-based-drops-rewards?language=zh_TW)                          |
+| Xbox Broadcast                                   | 12/02/2026, 10:52:13 am   | [Link](https://help.twitch.tv/s/article/xbox-broadcast?language=zh_TW)                                    |
+| Twitch Account Settings                          | 12/02/2026, 10:27:00 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=zh_TW)                           |
+| About Twitch Categories                          | 12/02/2026, 10:24:24 am   | [Link](https://help.twitch.tv/s/article/about-twitch-categories?language=zh_TW)                           |
+| Dmca And Copyright Faqs                          | 11/02/2026, 2:59:09 pm    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=zh_TW)                           |
 
 
 
@@ -189,6 +192,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Creator Dashboard                                             | 11/02/2026, 2:01:16 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=zh_TW)                                              |
+| How To Use Automod                                            | 11/02/2026, 2:01:06 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=zh_TW)                                             |
+| Failed Payments                                               | 11/02/2026, 11:05:11 am   | [Link](https://help.twitch.tv/s/article/failed-payments?language=zh_TW)                                                |
 | Mdr Interview                                                 | 19/01/2026, 8:24:28 am    | [Link](https://help.twitch.tv/s/article/mdr-interview?language=zh_TW)                                                  |
 | Follower Verification                                         | 22/12/2025, 9:36:13 pm    | [Link](https://help.twitch.tv/s/article/follower-verification?language=zh_TW)                                          |
 | How To Use Go Live Notifications                              | 22/12/2025, 9:24:43 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=zh_TW)                               |
@@ -237,11 +243,9 @@
 | Featured Clips                                                | 17/07/2025, 2:41:21 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=zh_TW)                                                 |
 | How To Delete And Manage Clips                                | 17/07/2025, 2:41:14 am    | [Link](https://help.twitch.tv/s/article/how-to-delete-and-manage-clips?language=zh_TW)                                 |
 | What Is The Front Page                                        | 17/07/2025, 2:37:44 am    | [Link](https://help.twitch.tv/s/article/what-is-the-front-page?language=zh_TW)                                         |
-| Twitch Stream Key Faq                                         | 28/06/2025, 6:11:09 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=zh_TW)                                          |
 | Gift Subscriptions For Creators                               | 19/06/2025, 7:50:10 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions-for-creators?language=zh_TW)                                |
 | Channel Page Setup                                            | 19/06/2025, 2:15:48 am    | [Link](https://help.twitch.tv/s/article/channel-page-setup?language=zh_TW)                                             |
 | Display Names On Twitch                                       | 18/06/2025, 8:45:45 am    | [Link](https://help.twitch.tv/s/article/display-names-on-twitch?language=zh_TW)                                        |
-| Disconnect Protection                                         | 13/05/2025, 6:37:32 pm    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=zh_TW)                                          |
 | Shared Viewership                                             | 10/05/2025, 3:13:30 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=zh_TW)                                              |
 | List Of Prohibited Games                                      | 10/05/2025, 3:12:58 am    | [Link](https://help.twitch.tv/s/article/list-of-prohibited-games?language=zh_TW)                                       |
 
@@ -252,6 +256,7 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                                |
 |--------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Custom Bit Badges Guide                    | 09/05/2025, 11:01:32 am   | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=zh_TW)                     |
 | Content Classification Labels              | 26/04/2025, 9:57:37 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=zh_TW)               |
 | Streamer Community Survey                  | 21/03/2025, 8:39:12 am    | [Link](https://help.twitch.tv/s/article/streamer-community-survey?language=zh_TW)                   |
 | Twitch Ambassador Program                  | 07/03/2025, 0:21:17 pm    | [Link](https://help.twitch.tv/s/article/twitch-ambassador-program?language=zh_TW)                   |
@@ -282,6 +287,7 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                            |
 |----------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
+| Sponsorship Experiments Faq            | 13/04/2024, 0:21:24 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=zh_TW)             |
 | Setup Alerts By Twitch                 | 27/03/2024, 6:58:35 pm    | [Link](https://help.twitch.tv/s/article/setup-alerts-by-twitch?language=zh_TW)                  |
 | How To File A User Report              | 15/02/2024, 5:22:55 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=zh_TW)               |
 | Emote Slots                            | 06/02/2024, 8:39:26 am    | [Link](https://help.twitch.tv/s/article/emote-slots?language=zh_TW)                             |
@@ -316,8 +322,6 @@
 | Partner Cheermote Guide                | 09/03/2022, 2:30:35 pm    | [Link](https://help.twitch.tv/s/article/partner-cheermote-guide?language=zh_TW)                 |
 | Modified Emotes                        | 19/11/2021, 5:13:43 am    | [Link](https://help.twitch.tv/s/article/modified-emotes?language=zh_TW)                         |
 | Default Emotes                         | 19/11/2021, 5:12:25 am    | [Link](https://help.twitch.tv/s/article/default-emotes?language=zh_TW)                          |
-| Rpg Megacheer                          | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=zh_TW)                           |
-| Megacheer Food Fight                   | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=zh_TW)                    |
 
 
 
@@ -326,6 +330,9 @@
 
 | Name                                              | Last Updated (dd/mm/yyyy) | Link                                                                                                       |
 |---------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------|
+| Rpg Megacheer                                     | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/rpg-megacheer?language=zh_TW)                                      |
+| Megacheer Food Fight                              | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/megacheer-food-fight?language=zh_TW)                               |
+| Community Meetups Powered By Twitch               | 22/10/2021, 8:54:26 am    | [Link](https://help.twitch.tv/s/article/community-meetups-powered-by-twitch?language=zh_TW)                |
 | How To Claim In Game Content                      | 22/10/2021, 8:53:55 am    | [Link](https://help.twitch.tv/s/article/how-to-claim-in-game-content?language=zh_TW)                       |
 | Changes To Subscription Badges And Resub Messages | 22/10/2021, 8:53:50 am    | [Link](https://help.twitch.tv/s/article/Changes-to-Subscription-Badges-and-Resub-Messages?language=zh_TW)  |
 | Guide To Building A Moderation Team               | 22/10/2021, 8:53:46 am    | [Link](https://help.twitch.tv/s/article/guide-to-building-a-moderation-team?language=zh_TW)                |
@@ -339,20 +346,6 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=zh_TW)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
-|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
-| About Bans Blocking And Suspensions | 17/07/2026, 7:36:31 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=zh_TW)  |
-| Why Cant I Chat                     | 15/07/2026, 7:26:11 pm    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=zh_TW)                      |
-| Gif Keyboard                        | 13/07/2026, 8:55:24 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=zh_TW)                         |
-| Weekly Rewards                      | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=zh_TW)                       |
-| Creator Certification               | 12/06/2026, 7:03:04 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=zh_TW)                |
-| Streamer Recap                      | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=zh_TW)                       |
 
 
 
