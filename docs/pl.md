@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Account Settings                                  | 22/07/2026, 8:38:09 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pl)                                   |
+| Rejected Payout Faq                                      | 22/07/2026, 8:36:12 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=pl)                                       |
+| Tips For Applying To The Partner Program                 | 22/07/2026, 8:35:30 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=pl)                  |
 | Creating An Account With Twitch                          | 17/07/2026, 7:41:17 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=pl)                           |
 | Twitch Stream Key Faq                                    | 17/07/2026, 7:35:15 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=pl)                                     |
 | Disconnect Protection                                    | 17/07/2026, 7:35:00 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=pl)                                     |
@@ -24,9 +27,6 @@
 | Twitch Charity Faqs                                      | 13/06/2026, 4:01:28 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=pl)                                       |
 | Charitable Donations                                     | 13/06/2026, 4:01:22 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=pl)                                      |
 | Stream Summary                                           | 10/06/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pl)                                            |
-| Guide To Custom Messages                                 | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=pl)                                  |
-| Twitch Chat Badges Guide                                 | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=pl)                                  |
-| How To Handle View Follow Bots                           | 28/05/2026, 4:52:05 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=pl)                            |
 
 
 

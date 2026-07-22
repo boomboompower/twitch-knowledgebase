@@ -11,7 +11,6 @@
 | Partner Program Overview         | 18/06/2026, 3:42:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)          |
 | Gift Subscriptions               | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=nl_NL)                |
 | Stream Summary                   | 10/06/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=nl_NL)                    |
-| Guide To Custom Messages         | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=nl_NL)          |
 
 
 

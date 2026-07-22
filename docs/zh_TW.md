@@ -6,6 +6,11 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Twitch Account Settings                                  | 22/07/2026, 8:38:09 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=zh_TW)                                   |
+| Rejected Payout Faq                                      | 22/07/2026, 8:36:14 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=zh_TW)                                       |
+| Tips For Applying To The Partner Program                 | 22/07/2026, 8:35:32 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=zh_TW)                  |
+| Shared Hype Train                                        | 22/07/2026, 8:34:31 am    | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=zh_TW)                                         |
+| Family Center                                            | 22/07/2026, 3:01:24 am    | [Link](https://help.twitch.tv/s/article/family-center?language=zh_TW)                                             |
 | How To Change Password                                   | 21/07/2026, 4:05:25 am    | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=zh_TW)                                    |
 | Creating An Account With Twitch                          | 17/07/2026, 7:41:19 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=zh_TW)                           |
 | About Bans Blocking And Suspensions                      | 17/07/2026, 7:36:31 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=zh_TW)                       |
@@ -60,8 +65,6 @@
 | Signing Up Logging In Social Accounts                    | 31/05/2026, 2:53:14 pm    | [Link](https://help.twitch.tv/s/article/signing-up-logging-in-social-accounts?language=zh_TW)                     |
 | How To Use Badges                                        | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=zh_TW)                                         |
 | Twitch Chat Badges Guide                                 | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                                  |
-| Moderation Analytics                                     | 28/05/2026, 4:52:10 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=zh_TW)                                      |
-| How To Handle View Follow Bots                           | 28/05/2026, 4:52:06 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=zh_TW)                            |
 
 
 
@@ -345,6 +348,20 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=zh_TW)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Family Center                       | 22/07/2026, 3:01:24 am    | [Link](https://help.twitch.tv/s/article/family-center?language=zh_TW)                        |
+| About Bans Blocking And Suspensions | 17/07/2026, 7:36:31 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=zh_TW)  |
+| Gif Keyboard                        | 13/07/2026, 8:55:24 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=zh_TW)                         |
+| Weekly Rewards                      | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=zh_TW)                       |
+| Creator Certification               | 12/06/2026, 7:03:04 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=zh_TW)                |
+| Streamer Recap                      | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=zh_TW)                       |
 
 
 
