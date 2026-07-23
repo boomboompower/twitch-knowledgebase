@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Weekly Rewards                                           | 23/07/2026, 7:03:11 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=en_US)                                            |
 | Twitch Account Settings                                  | 22/07/2026, 8:38:09 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=en_US)                                   |
 | Rejected Payout Faq                                      | 22/07/2026, 8:36:12 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=en_US)                                       |
 | Tips For Applying To The Partner Program                 | 22/07/2026, 8:35:30 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US)                  |
@@ -31,7 +32,6 @@
 | Gif Keyboard                                             | 10/07/2026, 6:48:38 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=en_US)                                              |
 | Dual Format Vertical Video                               | 24/06/2026, 3:50:26 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)                                |
 | Hype Train Guide                                         | 23/06/2026, 3:01:00 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=en_US)                                          |
-| Weekly Rewards                                           | 22/06/2026, 9:46:02 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=en_US)                                            |
 | Recover Watch Streaks                                    | 19/06/2026, 8:21:30 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=en_US)                                     |
 | Refunds On Twitch                                        | 19/06/2026, 8:19:29 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=en_US)                                         |
 | About Discount Gift Subs                                 | 19/06/2026, 7:05:14 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=en_US)                                  |

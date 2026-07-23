@@ -6,7 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Twitch Account Settings                                  | 22/07/2026, 8:38:09 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_BR)                                   |
+| Twitch Account Settings                                  | 23/07/2026, 8:01:44 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_BR)                                   |
+| Weekly Rewards                                           | 23/07/2026, 7:59:11 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=pt_BR)                                            |
 | Rejected Payout Faq                                      | 22/07/2026, 8:36:11 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=pt_BR)                                       |
 | Tips For Applying To The Partner Program                 | 22/07/2026, 8:35:30 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=pt_BR)                  |
 | Shared Hype Train                                        | 22/07/2026, 8:34:31 am    | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=pt_BR)                                         |
@@ -32,7 +33,6 @@
 | Gif Keyboard                                             | 12/07/2026, 1:28:43 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=pt_BR)                                              |
 | Dual Format Vertical Video                               | 25/06/2026, 4:32:07 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=pt_BR)                                |
 | Hype Train Guide                                         | 23/06/2026, 3:01:00 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=pt_BR)                                          |
-| Weekly Rewards                                           | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=pt_BR)                                            |
 | How To Use Extensions                                    | 22/06/2026, 8:53:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=pt_BR)                                     |
 | Partner Program Overview                                 | 21/06/2026, 1:18:20 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=pt_BR)                                  |
 | Multiple Encodes                                         | 19/06/2026, 2:51:44 pm    | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=pt_BR)                                          |
@@ -64,7 +64,6 @@
 | Gift Card Redeem                                         | 02/06/2026, 7:23:25 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=pt_BR)                                          |
 | Gift Card Spend                                          | 02/06/2026, 7:23:20 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=pt_BR)                                           |
 | How To Use Badges                                        | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=pt_BR)                                         |
-| Twitch Chat Badges Guide                                 | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=pt_BR)                                  |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Weekly Rewards                                           | 23/07/2026, 8:00:56 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=fr)                                            |
 | Twitch Account Settings                                  | 22/07/2026, 8:38:11 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=fr)                                   |
 | Rejected Payout Faq                                      | 22/07/2026, 8:36:14 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=fr)                                       |
 | Tips For Applying To The Partner Program                 | 22/07/2026, 8:35:32 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=fr)                  |
@@ -33,7 +34,6 @@
 | Dual Format Vertical Video                               | 26/06/2026, 7:42:09 pm    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                                |
 | How To Use Extensions                                    | 24/06/2026, 0:05:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=fr)                                     |
 | Hype Train Guide                                         | 23/06/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=fr)                                          |
-| Weekly Rewards                                           | 22/06/2026, 9:46:04 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=fr)                                            |
 | Multiple Encodes                                         | 19/06/2026, 11:06:10 pm   | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=fr)                                          |
 | Transcoding Options Faq                                  | 19/06/2026, 11:06:08 pm   | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=fr)                                   |
 | Stream Quality                                           | 19/06/2026, 11:01:46 pm   | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)                                            |
@@ -63,7 +63,6 @@
 | Gift Card Redeem                                         | 02/06/2026, 7:23:24 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=fr)                                          |
 | Gift Card Spend                                          | 02/06/2026, 7:23:20 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=fr)                                           |
 | Dac7 Interview                                           | 02/06/2026, 3:48:07 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=fr)                                            |
-| Guide To Custom Messages                                 | 31/05/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=fr)                                  |
 
 
 
