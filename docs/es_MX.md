@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Subscriber Badge Guide                                   | 24/07/2026, 5:41:58 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es_MX)                                    |
 | Weekly Rewards                                           | 23/07/2026, 8:01:16 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es_MX)                                            |
 | Twitch Account Settings                                  | 22/07/2026, 8:38:09 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es_MX)                                   |
 | Rejected Payout Faq                                      | 22/07/2026, 8:36:14 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=es_MX)                                       |
@@ -59,6 +60,8 @@
 | Gift Card                                                | 02/06/2026, 7:23:31 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=es_MX)                                                 |
 | Gift Card Redeem                                         | 02/06/2026, 7:23:24 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=es_MX)                                          |
 | Gift Card Spend                                          | 02/06/2026, 7:23:19 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=es_MX)                                           |
+| How To Use Badges                                        | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=es_MX)                                         |
+| Guide To Custom Messages                                 | 31/05/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=es_MX)                                  |
 
 
 

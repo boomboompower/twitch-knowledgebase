@@ -64,6 +64,7 @@
 | Gift Card Redeem                                         | 02/06/2026, 7:23:25 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=pt_BR)                                          |
 | Gift Card Spend                                          | 02/06/2026, 7:23:20 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=pt_BR)                                           |
 | How To Use Badges                                        | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=pt_BR)                                         |
+| Twitch Chat Badges Guide                                 | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=pt_BR)                                  |
 
 
 

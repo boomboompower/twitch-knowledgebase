@@ -64,6 +64,7 @@
 | Guide To Custom Messages                                 | 01/06/2026, 11:48:09 pm   | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=zh_TW)                                  |
 | Signing Up Logging In Social Accounts                    | 31/05/2026, 2:53:14 pm    | [Link](https://help.twitch.tv/s/article/signing-up-logging-in-social-accounts?language=zh_TW)                     |
 | How To Use Badges                                        | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=zh_TW)                                         |
+| Twitch Chat Badges Guide                                 | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                                  |
 
 
 
