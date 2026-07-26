@@ -35,6 +35,9 @@
 
 | Name                                       | Last Updated (dd/mm/yyyy) | Link                                                                                             |
 |--------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------|
+| Guide To Custom Messages                   | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=th)                    |
+| Twitch Chat Badges Guide                   | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=th)                    |
+| How To Handle View Follow Bots             | 28/05/2026, 4:52:05 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=th)              |
 | Video On Demand                            | 28/05/2026, 4:47:39 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=th)                             |
 | When Am I Getting Paid                     | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=th)                      |
 | Your First Payout Walkthrough              | 27/05/2026, 9:14:26 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=th)               |
@@ -55,11 +58,6 @@
 | Date Of Birth Changes                      | 14/04/2026, 7:47:20 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=th)                       |
 | Achievements                               | 10/04/2026, 8:01:37 am    | [Link](https://help.twitch.tv/s/article/achievements?language=th)                                |
 | Twitch Prime Revenue Guide                 | 10/04/2026, 6:28:16 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-revenue-guide?language=th)                  |
-| Payout Balance Faq                         | 10/04/2026, 6:28:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=th)                          |
-| Rejected Payout Faq                        | 10/04/2026, 6:27:54 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=th)                         |
-| Payout History Dashboard Guide             | 10/04/2026, 6:27:31 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=th)              |
-| Local Sub Price Countries                  | 10/04/2026, 5:42:01 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=th)                   |
-| Channel Points Faq                         | 10/04/2026, 4:54:15 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=th)                          |
 
 
 
@@ -68,6 +66,10 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Payout Balance Faq                               | 10/04/2026, 6:28:04 am    | [Link](https://help.twitch.tv/s/article/payout-balance-faq?language=th)                                |
+| Payout History Dashboard Guide                   | 10/04/2026, 6:27:31 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=th)                    |
+| Local Sub Price Countries                        | 10/04/2026, 5:42:01 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=th)                         |
+| Channel Points Faq                               | 10/04/2026, 4:54:15 am    | [Link](https://help.twitch.tv/s/article/channel-points-faq?language=th)                                |
 | Multi Month Subscriptions                        | 03/04/2026, 11:00:38 am   | [Link](https://help.twitch.tv/s/article/multi-month-subscriptions?language=th)                         |
 | Subscriptions On Mobile                          | 03/04/2026, 10:58:02 am   | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=th)                           |
 | Updating Payment Information Transaction History | 03/04/2026, 10:55:11 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=th)  |
@@ -96,8 +98,6 @@
 | Twitch Teams                                     | 18/02/2026, 9:11:13 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=th)                                      |
 | Creator Goals                                    | 18/02/2026, 9:08:04 am    | [Link](https://help.twitch.tv/s/article/creator-goals?language=th)                                     |
 | Where Are My Notifications                       | 13/02/2026, 10:35:39 am   | [Link](https://help.twitch.tv/s/article/where-are-my-notifications?language=th)                        |
-| Twitch Account Settings                          | 12/02/2026, 10:26:58 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=th)                           |
-| Supported Browsers                               | 11/02/2026, 4:39:24 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=th)                                |
 
 
 
@@ -106,6 +106,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Supported Browsers                                            | 11/02/2026, 4:39:24 pm    | [Link](https://help.twitch.tv/s/article/supported-browsers?language=th)                                             |
+| Dmca And Copyright Faqs                                       | 11/02/2026, 2:59:08 pm    | [Link](https://help.twitch.tv/s/article/dmca-and-copyright-faqs?language=th)                                        |
 | Creator Dashboard                                             | 11/02/2026, 2:01:14 pm    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=th)                                              |
 | How To Use Automod                                            | 11/02/2026, 2:01:04 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=th)                                             |
 | How To Use Go Live Notifications                              | 19/12/2025, 2:02:13 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-go-live-notifications?language=th)                               |
@@ -117,7 +119,6 @@
 | Twitch Merchandise Store Support Faq                          | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=th)                           |
 | Founders Badge                                                | 29/10/2025, 9:12:14 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=th)                                                 |
 | Music Options For Streamers                                   | 23/10/2025, 9:18:37 am    | [Link](https://help.twitch.tv/s/article/music-options-for-streamers?language=th)                                    |
-| Tips For Applying To The Partner Program                      | 23/10/2025, 8:02:21 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=th)                       |
 | Subscription Cancellation Reasons                             | 15/10/2025, 1:54:51 am    | [Link](https://help.twitch.tv/s/article/subscription-cancellation-reasons?language=th)                              |
 | Alerts By Twitch Events                                       | 04/10/2025, 11:38:32 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-events?language=th)                                        |
 | Viewer Channel Point Guide                                    | 03/10/2025, 6:52:04 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=th)                                     |
@@ -151,8 +152,6 @@
 | Watching Twitch On Android Devices         | 02/10/2024, 9:49:59 am    | [Link](https://help.twitch.tv/s/article/watching-twitch-on-android-devices?language=th)          |
 | Follower Emotes                            | 02/10/2024, 9:44:43 am    | [Link](https://help.twitch.tv/s/article/follower-emotes?language=th)                             |
 | Channel Analytics                          | 01/10/2024, 8:25:42 am    | [Link](https://help.twitch.tv/s/article/channel-analytics?language=th)                           |
-| Twitch Charity Viewers                     | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=th)                      |
-| Subpoint Vs Subcount                       | 01/05/2024, 8:50:02 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=th)                        |
 
 
 
@@ -161,6 +160,8 @@
 
 | Name                                   | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |----------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Twitch Charity Viewers                 | 14/05/2024, 10:14:24 am   | [Link](https://help.twitch.tv/s/article/twitch-charity-viewers?language=th)                  |
+| Subpoint Vs Subcount                   | 01/05/2024, 8:50:02 am    | [Link](https://help.twitch.tv/s/article/subpoint-vs-subcount?language=th)                    |
 | Alerts By Twitch Faq                   | 20/04/2024, 10:50:58 am   | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=th)                    |
 | Sponsorship Experiments Faq            | 13/04/2024, 0:21:24 pm    | [Link](https://help.twitch.tv/s/article/sponsorship-experiments-faq?language=th)             |
 | Twitch Music Getting Started           | 27/03/2024, 10:26:08 am   | [Link](https://help.twitch.tv/s/article/twitch-music-getting-started?language=th)            |

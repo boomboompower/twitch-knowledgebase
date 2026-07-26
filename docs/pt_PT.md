@@ -44,7 +44,6 @@
 | Earning Revenue From Bits In Extensions Beta  | 07/03/2026, 0:54:40 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=pt_PT)   |
 | Partner Help And Contact Information          | 06/03/2026, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/partner-help-and-contact-information?language=pt_PT)           |
 | Authy Faq                                     | 21/02/2026, 0:32:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=pt_PT)                                      |
-| Twitch Account Settings                       | 12/02/2026, 10:26:58 am   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_PT)                        |
 
 
 
