@@ -63,7 +63,6 @@
 | Gift Card Spend                                          | 02/06/2026, 7:23:19 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=de)                                           |
 | Guide To Custom Messages                                 | 01/06/2026, 9:29:09 pm    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=de)                                  |
 | Twitch Chat Badges Guide                                 | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=de)                                  |
-| How To Use Badges                                        | 31/05/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=de)                                         |
 
 
 

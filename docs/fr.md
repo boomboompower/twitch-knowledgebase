@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Subscriber Badge Guide                                   | 27/07/2026, 7:07:54 pm    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=fr)                                    |
 | Weekly Rewards                                           | 23/07/2026, 8:00:56 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=fr)                                            |
 | Twitch Account Settings                                  | 22/07/2026, 8:38:11 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=fr)                                   |
 | Rejected Payout Faq                                      | 22/07/2026, 8:36:14 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=fr)                                       |

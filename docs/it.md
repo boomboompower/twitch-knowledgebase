@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Subscriber Badge Guide                                   | 27/07/2026, 6:31:03 pm    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=it)                                    |
 | Twitch Account Settings                                  | 23/07/2026, 7:56:12 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=it)                                   |
 | Weekly Rewards                                           | 23/07/2026, 8:00:27 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=it)                                            |
 | Rejected Payout Faq                                      | 22/07/2026, 8:36:14 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=it)                                       |
@@ -61,7 +62,6 @@
 | Gift Card Redeem                                         | 02/06/2026, 7:23:24 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=it)                                          |
 | Gift Card Spend                                          | 02/06/2026, 7:23:20 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=it)                                           |
 | How To Use Badges                                        | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=it)                                         |
-| Guide To Custom Messages                                 | 31/05/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=it)                                  |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Subscriber Badge Guide                                   | 27/07/2026, 4:37:04 pm    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es)                                    |
 | Twitch Account Settings                                  | 24/07/2026, 5:49:30 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es)                                   |
 | Weekly Rewards                                           | 23/07/2026, 7:59:33 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es)                                            |
 | Rejected Payout Faq                                      | 22/07/2026, 8:36:13 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=es)                                       |
@@ -56,7 +57,6 @@
 | Creator Dashboard                                        | 11/06/2026, 8:51:46 am    | [Link](https://help.twitch.tv/s/article/creator-dashboard?language=es)                                         |
 | Cheering For Partners Affiliates                         | 11/06/2026, 8:51:25 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=es)                          |
 | Partner Settings Guide                                   | 11/06/2026, 8:51:22 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=es)                                    |
-| Subscriber Badge Guide                                   | 11/06/2026, 8:50:31 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es)                                    |
 | Account Reactivation                                     | 11/06/2026, 3:11:09 am    | [Link](https://help.twitch.tv/s/article/account-reactivation?language=es)                                      |
 | Branded Content Policy                                   | 10/06/2026, 11:05:46 am   | [Link](https://help.twitch.tv/s/article/branded-content-policy?language=es)                                    |
 | Channel Skins                                            | 10/06/2026, 11:05:32 am   | [Link](https://help.twitch.tv/s/article/channel-skins?language=es)                                             |
