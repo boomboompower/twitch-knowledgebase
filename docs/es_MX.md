@@ -60,7 +60,6 @@
 | Gift Subscriptions                                       | 12/06/2026, 3:51:08 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=es_MX)                                        |
 | Account Reactivation                                     | 11/06/2026, 3:11:09 am    | [Link](https://help.twitch.tv/s/article/account-reactivation?language=es_MX)                                      |
 | Channel Skins                                            | 10/06/2026, 11:05:49 am   | [Link](https://help.twitch.tv/s/article/channel-skins?language=es_MX)                                             |
-| Streamer Recap                                           | 10/06/2026, 4:03:47 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=es_MX)                                            |
 
 
 
