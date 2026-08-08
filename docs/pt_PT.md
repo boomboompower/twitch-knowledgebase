@@ -12,7 +12,6 @@
 | About Account Suspensions Dmca Suspensions And Chat Bans | 10/07/2026, 6:56:03 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)  |
 | How To Subscribe                                         | 10/07/2026, 6:55:55 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                                          |
 | Joining The Affiliate Program                            | 16/06/2026, 6:12:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)                             |
-| Gift Subscriptions                                       | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=pt_PT)                                        |
 
 
 

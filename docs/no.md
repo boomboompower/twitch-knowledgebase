@@ -9,7 +9,6 @@
 | Guide To Tags                    | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=no)                     |
 | Creating An Account With Twitch  | 17/07/2026, 7:41:17 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=no)   |
 | How To Manage Harassment In Chat | 10/07/2026, 6:56:21 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=no)  |
-| Gift Subscriptions               | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=no)                |
 
 
 

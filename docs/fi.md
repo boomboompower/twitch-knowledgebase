@@ -10,7 +10,6 @@
 | How To Appeal Flagged Content    | 29/07/2026, 9:04:39 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=fi)     |
 | Creating An Account With Twitch  | 17/07/2026, 7:41:17 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fi)   |
 | How To Manage Harassment In Chat | 10/07/2026, 6:56:21 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fi)  |
-| Gift Subscriptions               | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=fi)                |
 
 
 

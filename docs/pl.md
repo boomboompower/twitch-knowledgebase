@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:56 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=pl)                                   |
+| Mobile Game Broadcasting                                 | 08/08/2026, 9:20:29 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=pl)                                  |
+| Mobile Creator Mode                                      | 08/08/2026, 9:20:12 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=pl)                                       |
 | Mission Based Drops                                      | 07/08/2026, 6:11:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pl)                                       |
 | Guide To Tags                                            | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=pl)                                             |
 | Affiliate Onboarding Guide                               | 29/07/2026, 9:20:03 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pl)                                |

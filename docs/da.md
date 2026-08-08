@@ -11,7 +11,6 @@
 | Creating An Account With Twitch  | 17/07/2026, 7:41:17 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=da)   |
 | How To Manage Harassment In Chat | 10/07/2026, 6:56:21 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=da)  |
 | How To Use Extensions            | 18/06/2026, 3:41:21 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=da)             |
-| Gift Subscriptions               | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=da)                |
 
 
 

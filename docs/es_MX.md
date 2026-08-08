@@ -6,6 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:57 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=es_MX)                                   |
+| Mobile Game Broadcasting                                 | 08/08/2026, 9:20:29 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=es_MX)                                  |
+| Mobile Creator Mode                                      | 08/08/2026, 9:20:13 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=es_MX)                                       |
+| Stories                                                  | 08/08/2026, 9:20:05 am    | [Link](https://help.twitch.tv/s/article/stories?language=es_MX)                                                   |
 | Mission Based Drops                                      | 07/08/2026, 6:11:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                                       |
 | Not Receiving Sms                                        | 29/07/2026, 9:22:49 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=es_MX)                                         |
 | Guide To Tags                                            | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=es_MX)                                             |
@@ -57,10 +61,6 @@
 | Twitch Charity                                           | 13/06/2026, 4:01:35 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=es_MX)                                            |
 | Twitch Charity Faqs                                      | 13/06/2026, 4:01:32 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-faqs?language=es_MX)                                       |
 | Charitable Donations                                     | 13/06/2026, 4:01:23 am    | [Link](https://help.twitch.tv/s/article/charitable-donations?language=es_MX)                                      |
-| Creator Certification                                    | 12/06/2026, 7:03:03 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)                                     |
-| Gift Subscriptions                                       | 12/06/2026, 3:51:08 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=es_MX)                                        |
-| Account Reactivation                                     | 11/06/2026, 3:11:09 am    | [Link](https://help.twitch.tv/s/article/account-reactivation?language=es_MX)                                      |
-| Channel Skins                                            | 10/06/2026, 11:05:49 am   | [Link](https://help.twitch.tv/s/article/channel-skins?language=es_MX)                                             |
 
 
 
@@ -352,10 +352,13 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name          | Last Updated (dd/mm/yyyy) | Link                                                                   |
-|---------------|---------------------------|------------------------------------------------------------------------|
-| Family Center | 22/07/2026, 3:01:23 am    | [Link](https://help.twitch.tv/s/article/family-center?language=es_MX)  |
-| Gif Keyboard  | 10/07/2026, 6:48:39 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=es_MX)   |
+| Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
+|-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Weekly Rewards                      | 23/07/2026, 8:01:16 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es_MX)                       |
+| Family Center                       | 22/07/2026, 3:01:23 am    | [Link](https://help.twitch.tv/s/article/family-center?language=es_MX)                        |
+| About Bans Blocking And Suspensions | 17/07/2026, 7:36:30 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=es_MX)  |
+| Why Cant I Chat                     | 11/07/2026, 7:48:31 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=es_MX)                      |
+| Gif Keyboard                        | 10/07/2026, 6:48:39 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=es_MX)                         |
 
 
 

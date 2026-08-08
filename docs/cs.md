@@ -7,7 +7,6 @@
 | Name                             | Last Updated (dd/mm/yyyy) | Link                                                                                   |
 |----------------------------------|---------------------------|----------------------------------------------------------------------------------------|
 | How To Manage Harassment In Chat | 10/07/2026, 6:56:21 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=cs)  |
-| Gift Subscriptions               | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=cs)                |
 
 
 
