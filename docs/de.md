@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Local Sub Price Countries                                | 14/08/2026, 10:07:07 am   | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=de)                                 |
+| Local Sub Price Countries                                | 15/08/2026, 0:22:46 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=de)                                 |
 | Not Receiving Sms                                        | 14/08/2026, 3:41:32 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=de)                                         |
 | Brand Sponsorship Measurement                            | 13/08/2026, 9:03:42 pm    | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=de)                             |
 | Creator Badge Rewards                                    | 13/08/2026, 8:12:30 pm    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=de)                                     |

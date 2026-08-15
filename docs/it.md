@@ -6,11 +6,12 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Local Sub Price Countries                                | 14/08/2026, 10:07:07 am   | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=it)                                 |
+| How To Use Clips                                         | 14/08/2026, 6:48:28 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                          |
+| Clips Settings                                           | 14/08/2026, 6:48:26 pm    | [Link](https://help.twitch.tv/s/article/clips-settings?language=it)                                            |
+| About Bans Blocking And Suspensions                      | 14/08/2026, 6:48:24 pm    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=it)                       |
+| Comments On Clips                                        | 14/08/2026, 6:48:21 pm    | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=it)                                         |
+| Local Sub Price Countries                                | 14/08/2026, 5:41:43 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=it)                                 |
 | Not Receiving Sms                                        | 14/08/2026, 3:41:33 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=it)                                         |
-| About Bans Blocking And Suspensions                      | 13/08/2026, 5:14:16 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=it)                       |
-| How To Use Clips                                         | 13/08/2026, 5:10:01 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                          |
-| Clips Settings                                           | 13/08/2026, 5:09:41 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=it)                                            |
 | Creator Badge Rewards                                    | 13/08/2026, 4:46:36 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=it)                                     |
 | Twitch Account Settings                                  | 13/08/2026, 2:01:34 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=it)                                   |
 | Brand Sponsorship Measurement                            | 12/08/2026, 11:54:51 pm   | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=it)                             |
@@ -356,6 +357,7 @@
 
 | Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
 |-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| Comments On Clips                   | 14/08/2026, 6:48:21 pm    | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=it)                    |
 | About Bans Blocking And Suspensions | 13/08/2026, 5:14:16 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=it)  |
 | Creator Badge Rewards               | 13/08/2026, 4:46:36 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=it)                |
 | Brand Sponsorship Measurement       | 12/08/2026, 11:54:51 pm   | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=it)        |

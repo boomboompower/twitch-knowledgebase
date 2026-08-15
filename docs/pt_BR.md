@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Local Sub Price Countries                                | 14/08/2026, 10:07:07 am   | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pt_BR)                                 |
+| Local Sub Price Countries                                | 14/08/2026, 9:43:39 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=pt_BR)                                 |
 | Not Receiving Sms                                        | 14/08/2026, 3:41:33 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=pt_BR)                                         |
 | Brand Sponsorship Measurement                            | 13/08/2026, 3:17:37 pm    | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=pt_BR)                             |
 | Creator Badge Rewards                                    | 13/08/2026, 2:15:49 pm    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=pt_BR)                                     |
@@ -63,7 +63,6 @@
 | Understanding Viewer Count Vs Users In Chat              | 16/06/2026, 6:14:27 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=pt_BR)               |
 | Streamer Benefits                                        | 16/06/2026, 6:13:54 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=pt_BR)                                         |
 | Joining The Affiliate Program                            | 16/06/2026, 6:12:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                             |
-| Twitch Charity                                           | 13/06/2026, 4:01:35 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=pt_BR)                                            |
 
 
 

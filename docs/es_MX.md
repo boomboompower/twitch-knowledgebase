@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Local Sub Price Countries                                | 14/08/2026, 10:07:07 am   | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es_MX)                                 |
+| Local Sub Price Countries                                | 15/08/2026, 3:14:06 am    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=es_MX)                                 |
 | Not Receiving Sms                                        | 14/08/2026, 3:41:32 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=es_MX)                                         |
 | About Bans Blocking And Suspensions                      | 13/08/2026, 5:14:16 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=es_MX)                       |
 | How To Use Clips                                         | 13/08/2026, 5:10:05 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                                          |
