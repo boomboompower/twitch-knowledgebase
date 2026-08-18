@@ -54,13 +54,6 @@
 | Partner Program Overview                                 | 18/06/2026, 3:42:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=en_US)                                  |
 | Transcoding Options Faq                                  | 18/06/2026, 3:42:13 am    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=en_US)                                   |
 | How To Use Extensions                                    | 18/06/2026, 3:41:21 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=en_US)                                     |
-| Stream Together Getting Started                          | 18/06/2026, 3:40:52 am    | [Link](https://help.twitch.tv/s/article/stream-together-getting-started?language=en_US)                           |
-| Stream Quality                                           | 18/06/2026, 3:40:14 am    | [Link](https://help.twitch.tv/s/article/stream-quality?language=en_US)                                            |
-| Enhanced Broadcasting                                    | 18/06/2026, 3:39:05 am    | [Link](https://help.twitch.tv/s/article/enhanced-broadcasting?language=en_US)                                     |
-| Payout Details Faq                                       | 17/06/2026, 6:50:42 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                                        |
-| Understanding Viewer Count Vs Users In Chat              | 16/06/2026, 6:14:26 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=en_US)               |
-| Streamer Benefits                                        | 16/06/2026, 6:13:52 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=en_US)                                         |
-| Joining The Affiliate Program                            | 16/06/2026, 6:12:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=en_US)                             |
 
 
 
@@ -398,7 +391,10 @@
 
 | Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                   |
 |-------------------------------|---------------------------|----------------------------------------------------------------------------------------|
+| Comments On Clips             | 13/08/2026, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=en_US)              |
 | Brand Sponsorship Measurement | 07/08/2026, 6:00:39 am    | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=en_US)  |
+| Family Center                 | 22/07/2026, 3:01:23 am    | [Link](https://help.twitch.tv/s/article/family-center?language=en_US)                  |
+| Gif Keyboard                  | 10/07/2026, 6:48:38 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=en_US)                   |
 
 
 

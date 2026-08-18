@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Enroll Spendable Balance                                 | 18/08/2026, 9:05:36 am    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=zh_TW)                                  |
+| Streamer Benefits                                        | 18/08/2026, 9:05:32 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)                                         |
+| Cheering For Partners Affiliates                         | 18/08/2026, 9:03:39 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=zh_TW)                          |
 | Local Sub Price Countries                                | 14/08/2026, 10:33:03 pm   | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=zh_TW)                                 |
 | Not Receiving Sms                                        | 14/08/2026, 3:41:33 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=zh_TW)                                         |
 | Creator Badge Rewards                                    | 13/08/2026, 7:45:50 pm    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=zh_TW)                                     |
@@ -59,10 +62,6 @@
 | About Discount Gift Subs                                 | 19/06/2026, 7:05:16 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=zh_TW)                                  |
 | Payout Details Faq                                       | 18/06/2026, 7:42:55 pm    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=zh_TW)                                        |
 | Guest Star Getting Started                               | 18/06/2026, 9:29:13 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=zh_TW)                                |
-| Understanding Viewer Count Vs Users In Chat              | 16/06/2026, 6:14:27 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=zh_TW)               |
-| Streamer Benefits                                        | 16/06/2026, 6:13:54 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)                                         |
-| Joining The Affiliate Program                            | 16/06/2026, 6:12:30 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)                             |
-| Twitch Charity                                           | 13/06/2026, 4:01:35 am    | [Link](https://help.twitch.tv/s/article/twitch-charity?language=zh_TW)                                            |
 
 
 
@@ -349,6 +348,16 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=zh_TW)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                   |
+|-------------------------------|---------------------------|----------------------------------------------------------------------------------------|
+| Brand Sponsorship Measurement | 13/08/2026, 6:07:59 pm    | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=zh_TW)  |
+| Family Center                 | 22/07/2026, 3:01:24 am    | [Link](https://help.twitch.tv/s/article/family-center?language=zh_TW)                  |
 
 
 

@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Enroll Spendable Balance                                 | 18/08/2026, 9:05:59 am    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=de)                                  |
+| Streamer Benefits                                        | 18/08/2026, 9:04:58 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=de)                                         |
+| Cheering For Partners Affiliates                         | 18/08/2026, 9:03:49 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=de)                          |
 | How To Use Clips                                         | 17/08/2026, 7:45:17 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=de)                                          |
 | Comments On Clips                                        | 17/08/2026, 7:45:08 am    | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=de)                                         |
 | Clips Settings                                           | 17/08/2026, 7:45:06 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=de)                                            |
@@ -60,9 +63,6 @@
 | About Discount Gift Subs                                 | 19/06/2026, 7:05:14 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=de)                                  |
 | Guest Star Getting Started                               | 18/06/2026, 9:29:06 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=de)                                |
 | Partner Program Overview                                 | 18/06/2026, 9:29:00 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                                  |
-| Understanding Viewer Count Vs Users In Chat              | 16/06/2026, 6:14:26 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=de)               |
-| Streamer Benefits                                        | 16/06/2026, 6:13:53 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=de)                                         |
-| Joining The Affiliate Program                            | 16/06/2026, 6:12:28 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=de)                             |
 
 
 
@@ -358,7 +358,10 @@
 
 | Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                |
 |-------------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Comments On Clips             | 17/08/2026, 7:45:08 am    | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=de)              |
 | Brand Sponsorship Measurement | 13/08/2026, 9:03:42 pm    | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=de)  |
+| Family Center                 | 22/07/2026, 3:01:22 am    | [Link](https://help.twitch.tv/s/article/family-center?language=de)                  |
+| Gif Keyboard                  | 14/07/2026, 6:52:23 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=de)                   |
 
 
 

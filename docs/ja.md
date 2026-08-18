@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Streamer Benefits                                        | 18/08/2026, 9:05:43 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                                         |
+| Cheering For Partners Affiliates                         | 18/08/2026, 9:03:44 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=ja)                          |
 | Local Sub Price Countries                                | 14/08/2026, 5:44:05 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=ja)                                 |
 | Not Receiving Sms                                        | 14/08/2026, 3:41:32 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=ja)                                         |
 | Brand Sponsorship Measurement                            | 13/08/2026, 10:29:07 pm   | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=ja)                             |
@@ -58,10 +60,6 @@
 | Refunds On Twitch                                        | 19/06/2026, 8:19:29 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=ja)                                         |
 | About Discount Gift Subs                                 | 19/06/2026, 7:05:15 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=ja)                                  |
 | Guest Star Getting Started                               | 18/06/2026, 9:29:16 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=ja)                                |
-| Payout Details Faq                                       | 17/06/2026, 10:06:31 am   | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=ja)                                        |
-| Understanding Viewer Count Vs Users In Chat              | 16/06/2026, 6:14:27 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=ja)               |
-| Streamer Benefits                                        | 16/06/2026, 6:13:52 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                                         |
-| Joining The Affiliate Program                            | 16/06/2026, 6:12:29 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ja)                             |
 
 
 
@@ -358,6 +356,7 @@
 | Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                |
 |-------------------------------|---------------------------|-------------------------------------------------------------------------------------|
 | Brand Sponsorship Measurement | 13/08/2026, 10:29:07 pm   | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=ja)  |
+| Family Center                 | 22/07/2026, 3:01:24 am    | [Link](https://help.twitch.tv/s/article/family-center?language=ja)                  |
 
 
 

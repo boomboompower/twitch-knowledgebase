@@ -6,6 +6,10 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Streamer Benefits                                        | 18/08/2026, 9:05:47 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=pt_BR)                                         |
+| Enroll Spendable Balance                                 | 18/08/2026, 9:05:39 am    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=pt_BR)                                  |
+| Cheering For Partners Affiliates                         | 18/08/2026, 9:03:35 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=pt_BR)                          |
+| Dual Format Vertical Video                               | 17/08/2026, 11:05:15 am   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=pt_BR)                                |
 | Comments On Clips                                        | 16/08/2026, 2:20:49 pm    | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=pt_BR)                                         |
 | About Bans Blocking And Suspensions                      | 16/08/2026, 2:20:48 pm    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=pt_BR)                       |
 | How To Use Clips                                         | 16/08/2026, 2:20:46 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                          |
@@ -15,7 +19,6 @@
 | Brand Sponsorship Measurement                            | 13/08/2026, 3:17:37 pm    | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=pt_BR)                             |
 | Creator Badge Rewards                                    | 13/08/2026, 2:15:49 pm    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=pt_BR)                                     |
 | Twitch Account Settings                                  | 13/08/2026, 2:01:34 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_BR)                                   |
-| Dual Format Vertical Video                               | 11/08/2026, 9:59:47 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=pt_BR)                                |
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:56 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=pt_BR)                                   |
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:30 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=pt_BR)                                  |
 | Mobile Creator Mode                                      | 08/08/2026, 9:20:14 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=pt_BR)                                       |
@@ -61,9 +64,6 @@
 | Twitch Turbo Guide                                       | 19/06/2026, 5:42:05 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=pt_BR)                                        |
 | Guest Star Getting Started                               | 18/06/2026, 9:29:23 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=pt_BR)                                |
 | Payout Details Faq                                       | 18/06/2026, 6:00:40 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=pt_BR)                                        |
-| Understanding Viewer Count Vs Users In Chat              | 16/06/2026, 6:14:27 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=pt_BR)               |
-| Streamer Benefits                                        | 16/06/2026, 6:13:54 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=pt_BR)                                         |
-| Joining The Affiliate Program                            | 16/06/2026, 6:12:23 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                             |
 
 
 
@@ -356,7 +356,9 @@
 
 | Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                   |
 |-------------------------------|---------------------------|----------------------------------------------------------------------------------------|
+| Comments On Clips             | 16/08/2026, 2:20:49 pm    | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=pt_BR)              |
 | Brand Sponsorship Measurement | 13/08/2026, 3:17:37 pm    | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=pt_BR)  |
+| Family Center                 | 22/07/2026, 3:01:24 am    | [Link](https://help.twitch.tv/s/article/family-center?language=pt_BR)                  |
 
 
 
