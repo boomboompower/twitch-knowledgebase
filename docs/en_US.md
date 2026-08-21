@@ -6,6 +6,11 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Creator Profile Setup                                    | 21/08/2026, 4:17:05 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=en_US)                                     |
+| Streamer Benefits                                        | 21/08/2026, 4:16:58 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=en_US)                                         |
+| Creator Certification                                    | 21/08/2026, 4:16:41 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=en_US)                                     |
+| Sponsorship Overview                                     | 21/08/2026, 4:16:32 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=en_US)                                      |
+| Third Party Campaigns                                    | 21/08/2026, 4:16:25 am    | [Link](https://help.twitch.tv/s/article/third-party-campaigns?language=en_US)                                     |
 | Subtember 2026 Faq                                       | 20/08/2026, 6:05:50 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=en_US)                                        |
 | Affiliate Or Partner Anniversary Settings                | 19/08/2026, 3:32:19 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=en_US)                 |
 | Playstation Broadcasting                                 | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=en_US)                                  |
@@ -55,8 +60,6 @@
 | Why Cant I Chat                                          | 10/07/2026, 6:55:12 am    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=en_US)                                           |
 | Gif Keyboard                                             | 10/07/2026, 6:48:38 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=en_US)                                              |
 | Hype Train Guide                                         | 23/06/2026, 3:01:00 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=en_US)                                          |
-| Recover Watch Streaks                                    | 19/06/2026, 8:21:30 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=en_US)                                     |
-| Refunds On Twitch                                        | 19/06/2026, 8:19:29 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=en_US)                                         |
 
 
 

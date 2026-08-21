@@ -6,6 +6,11 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Creator Profile Setup                                    | 21/08/2026, 4:17:06 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=fr)                                     |
+| Streamer Benefits                                        | 21/08/2026, 4:16:59 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=fr)                                         |
+| Creator Certification                                    | 21/08/2026, 4:16:42 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=fr)                                     |
+| Sponsorship Overview                                     | 21/08/2026, 4:16:33 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=fr)                                      |
+| Streamelements Campaigns                                 | 21/08/2026, 4:16:26 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=fr)                                  |
 | Affiliate Or Partner Anniversary Settings                | 19/08/2026, 3:32:20 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=fr)                 |
 | Playstation Broadcasting                                 | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=fr)                                  |
 | Date Of Birth Changes                                    | 19/08/2026, 2:50:54 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=fr)                                     |
@@ -14,7 +19,6 @@
 | Past Behavior And Account Standing                       | 19/08/2026, 2:43:04 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=fr)                        |
 | Subscriptions On Mobile                                  | 19/08/2026, 2:41:20 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=fr)                                   |
 | Dual Format Vertical Video                               | 18/08/2026, 10:01:41 pm   | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=fr)                                |
-| Streamer Benefits                                        | 18/08/2026, 9:05:26 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=fr)                                         |
 | Enroll Spendable Balance                                 | 18/08/2026, 9:05:21 am    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=fr)                                  |
 | Cheering For Partners Affiliates                         | 18/08/2026, 9:03:40 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=fr)                          |
 | Comments On Clips                                        | 18/08/2026, 1:21:35 am    | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=fr)                                         |
@@ -60,11 +64,6 @@
 | Twitch Affiliate Program Faq                             | 14/07/2026, 3:48:20 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=fr)                              |
 | How To Use Extensions                                    | 24/06/2026, 0:05:55 am    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=fr)                                     |
 | Hype Train Guide                                         | 23/06/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=fr)                                          |
-| Multiple Encodes                                         | 19/06/2026, 11:06:10 pm   | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=fr)                                          |
-| Transcoding Options Faq                                  | 19/06/2026, 11:06:08 pm   | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=fr)                                   |
-| Stream Quality                                           | 19/06/2026, 11:01:46 pm   | [Link](https://help.twitch.tv/s/article/stream-quality?language=fr)                                            |
-| Recover Watch Streaks                                    | 19/06/2026, 8:21:32 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=fr)                                     |
-| Refunds On Twitch                                        | 19/06/2026, 8:19:29 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=fr)                                         |
 
 
 
