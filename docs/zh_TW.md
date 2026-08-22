@@ -6,6 +6,13 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Joining The Affiliate Program                            | 22/08/2026, 9:10:38 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)                             |
+| Affiliate Onboarding Guide                               | 22/08/2026, 7:13:22 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                                |
+| Subscriber Badge Guide                                   | 22/08/2026, 6:33:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=zh_TW)                                    |
+| Animated Emotes                                          | 22/08/2026, 6:13:29 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=zh_TW)                                           |
+| Subscriber Emote Guide                                   | 22/08/2026, 6:13:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=zh_TW)                                    |
+| Founders Badge                                           | 22/08/2026, 6:13:11 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=zh_TW)                                            |
+| Custom Bit Badges Guide                                  | 22/08/2026, 6:13:05 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=zh_TW)                                   |
 | Creator Profile Setup                                    | 21/08/2026, 4:17:05 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=zh_TW)                                     |
 | Streamer Benefits                                        | 21/08/2026, 4:17:00 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)                                         |
 | Creator Certification                                    | 21/08/2026, 4:16:42 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=zh_TW)                                     |
@@ -39,10 +46,8 @@
 | Guide To Tags                                            | 29/07/2026, 9:21:51 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=zh_TW)                                             |
 | How To Upgrade Prime                                     | 29/07/2026, 9:21:14 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=zh_TW)                                      |
 | Link Amazon Twitch Accounts                              | 29/07/2026, 9:21:04 am    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=zh_TW)                               |
-| Affiliate Onboarding Guide                               | 29/07/2026, 9:20:07 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                                |
 | Partner Onboarding Guide                                 | 29/07/2026, 9:20:03 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=zh_TW)                                  |
 | How To Appeal Flagged Content                            | 29/07/2026, 9:04:40 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=zh_TW)                             |
-| Subscriber Badge Guide                                   | 28/07/2026, 5:45:15 pm    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=zh_TW)                                    |
 | Weekly Rewards                                           | 23/07/2026, 8:00:27 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=zh_TW)                                            |
 | Rejected Payout Faq                                      | 22/07/2026, 8:36:14 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=zh_TW)                                       |
 | Tips For Applying To The Partner Program                 | 22/07/2026, 8:35:32 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=zh_TW)                  |
@@ -60,13 +65,6 @@
 | How To Manage Harassment In Chat                         | 15/07/2026, 7:26:00 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=zh_TW)                          |
 | Chat Basics                                              | 15/07/2026, 7:25:58 pm    | [Link](https://help.twitch.tv/s/article/chat-basics?language=zh_TW)                                               |
 | Auto Clips                                               | 15/07/2026, 8:47:56 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                                |
-| Twitch Affiliate Program Faq                             | 14/07/2026, 3:48:21 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                              |
-| Gif Keyboard                                             | 13/07/2026, 8:55:24 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=zh_TW)                                              |
-| Partner Program Overview                                 | 24/06/2026, 7:28:35 pm    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=zh_TW)                                  |
-| How To Use Extensions                                    | 24/06/2026, 7:28:30 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=zh_TW)                                     |
-| Hype Train Guide                                         | 23/06/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=zh_TW)                                          |
-| Stream Quality                                           | 22/06/2026, 5:30:10 pm    | [Link](https://help.twitch.tv/s/article/stream-quality?language=zh_TW)                                            |
-| Transcoding Options Faq                                  | 22/06/2026, 5:30:09 pm    | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=zh_TW)                                   |
 
 
 
@@ -361,6 +359,7 @@
 
 | Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                         |
 |-------------------------------------|---------------------------|----------------------------------------------------------------------------------------------|
+| Creator Certification               | 21/08/2026, 4:16:42 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=zh_TW)                |
 | Playstation Broadcasting            | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=zh_TW)             |
 | Past Behavior And Account Standing  | 19/08/2026, 2:43:05 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=zh_TW)   |
 | About Bans Blocking And Suspensions | 18/08/2026, 8:13:43 pm    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=zh_TW)  |

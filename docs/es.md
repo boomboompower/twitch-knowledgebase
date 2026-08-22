@@ -6,6 +6,13 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Joining The Affiliate Program                            | 22/08/2026, 9:10:38 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es)                             |
+| Affiliate Onboarding Guide                               | 22/08/2026, 7:13:21 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es)                                |
+| Subscriber Badge Guide                                   | 22/08/2026, 6:33:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es)                                    |
+| Animated Emotes                                          | 22/08/2026, 6:13:28 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=es)                                           |
+| Subscriber Emote Guide                                   | 22/08/2026, 6:13:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=es)                                    |
+| Founders Badge                                           | 22/08/2026, 6:13:10 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=es)                                            |
+| Custom Bit Badges Guide                                  | 22/08/2026, 6:13:05 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=es)                                   |
 | Creator Profile Setup                                    | 21/08/2026, 4:17:06 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es)                                     |
 | Streamer Benefits                                        | 21/08/2026, 4:16:59 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es)                                         |
 | Creator Certification                                    | 21/08/2026, 4:16:42 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es)                                     |
@@ -39,10 +46,8 @@
 | Guide To Tags                                            | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=es)                                             |
 | How To Upgrade Prime                                     | 29/07/2026, 9:21:13 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=es)                                      |
 | Link Amazon Twitch Accounts                              | 29/07/2026, 9:21:02 am    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=es)                               |
-| Affiliate Onboarding Guide                               | 29/07/2026, 9:20:06 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es)                                |
 | Partner Onboarding Guide                                 | 29/07/2026, 9:19:56 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                                  |
 | How To Appeal Flagged Content                            | 29/07/2026, 9:04:39 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=es)                             |
-| Subscriber Badge Guide                                   | 27/07/2026, 4:37:04 pm    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es)                                    |
 | Weekly Rewards                                           | 23/07/2026, 7:59:33 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es)                                            |
 | Rejected Payout Faq                                      | 22/07/2026, 8:36:13 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=es)                                       |
 | Tips For Applying To The Partner Program                 | 22/07/2026, 8:35:31 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=es)                  |
@@ -60,11 +65,6 @@
 | How To Manage Harassment In Chat                         | 15/07/2026, 4:06:29 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es)                          |
 | Shared Chat                                              | 15/07/2026, 4:06:25 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=es)                                               |
 | How To Subscribe                                         | 15/07/2026, 4:06:25 pm    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=es)                                          |
-| Gif Keyboard                                             | 14/07/2026, 5:01:43 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=es)                                              |
-| Twitch Affiliate Program Faq                             | 14/07/2026, 3:48:20 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es)                              |
-| Partner Program Overview                                 | 23/06/2026, 10:16:38 pm   | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=es)                                  |
-| How To Use Extensions                                    | 23/06/2026, 10:16:34 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=es)                                     |
-| Hype Train Guide                                         | 23/06/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=es)                                          |
 
 
 
@@ -360,12 +360,13 @@
 
 | Name                                | Last Updated (dd/mm/yyyy) | Link                                                                                      |
 |-------------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
+| Creator Certification               | 21/08/2026, 4:16:42 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es)                |
 | Comments On Clips                   | 19/08/2026, 10:57:55 pm   | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=es)                    |
+| About Bans Blocking And Suspensions | 19/08/2026, 10:57:38 pm   | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=es)  |
 | Playstation Broadcasting            | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=es)             |
 | Past Behavior And Account Standing  | 19/08/2026, 2:43:04 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es)   |
 | Creator Badge Rewards               | 13/08/2026, 10:50:58 pm   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es)                |
 | Brand Sponsorship Measurement       | 13/08/2026, 10:22:53 pm   | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=es)        |
-| About Bans Blocking And Suspensions | 13/08/2026, 5:14:16 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=es)  |
 | Link Amazon Twitch Accounts         | 29/07/2026, 9:21:02 am    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=es)          |
 | Weekly Rewards                      | 23/07/2026, 7:59:33 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es)                       |
 | Family Center                       | 22/07/2026, 3:01:23 am    | [Link](https://help.twitch.tv/s/article/family-center?language=es)                        |

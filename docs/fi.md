@@ -4,12 +4,11 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                             | Last Updated (dd/mm/yyyy) | Link                                                                                   |
-|----------------------------------|---------------------------|----------------------------------------------------------------------------------------|
-| Guide To Tags                    | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=fi)                     |
-| How To Appeal Flagged Content    | 29/07/2026, 9:04:39 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=fi)     |
-| Creating An Account With Twitch  | 17/07/2026, 7:41:17 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fi)   |
-| How To Manage Harassment In Chat | 10/07/2026, 6:56:21 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fi)  |
+| Name                            | Last Updated (dd/mm/yyyy) | Link                                                                                  |
+|---------------------------------|---------------------------|---------------------------------------------------------------------------------------|
+| Guide To Tags                   | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=fi)                    |
+| How To Appeal Flagged Content   | 29/07/2026, 9:04:39 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=fi)    |
+| Creating An Account With Twitch | 17/07/2026, 7:41:17 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fi)  |
 
 
 

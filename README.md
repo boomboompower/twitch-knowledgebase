@@ -11,30 +11,30 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 |-------------------------------|---------------------------|----------------|------------------------|
 | Bulgarian                     | 02/05/2026, 2:03:26 am    | 2 article(s)   | [View](docs/bg.md)     |
 | Chinese (Simplified, China)   | 09/05/2026, 4:52:29 am    | 5 article(s)   | [View](docs/zh_CN.md)  |
-| Chinese (Traditional, Taiwan) | 21/08/2026, 4:17:05 am    | 310 article(s) | [View](docs/zh_TW.md)  |
-| Czech                         | 10/07/2026, 6:56:21 am    | 18 article(s)  | [View](docs/cs.md)     |
-| Danish                        | 29/07/2026, 9:21:52 am    | 24 article(s)  | [View](docs/da.md)     |
-| Dutch (Netherlands)           | 29/07/2026, 9:21:52 am    | 29 article(s)  | [View](docs/nl_NL.md)  |
-| English (United States)       | 21/08/2026, 4:17:05 am    | 355 article(s) | [View](docs/en_US.md)  |
-| Finnish                       | 29/07/2026, 9:21:52 am    | 22 article(s)  | [View](docs/fi.md)     |
-| French                        | 21/08/2026, 4:17:06 am    | 308 article(s) | [View](docs/fr.md)     |
-| German                        | 21/08/2026, 4:17:05 am    | 309 article(s) | [View](docs/de.md)     |
+| Chinese (Traditional, Taiwan) | 22/08/2026, 9:10:38 am    | 309 article(s) | [View](docs/zh_TW.md)  |
+| Czech                         | 12/06/2026, 3:51:06 am    | 17 article(s)  | [View](docs/cs.md)     |
+| Danish                        | 29/07/2026, 9:21:52 am    | 23 article(s)  | [View](docs/da.md)     |
+| Dutch (Netherlands)           | 29/07/2026, 9:21:52 am    | 28 article(s)  | [View](docs/nl_NL.md)  |
+| English (United States)       | 22/08/2026, 9:10:38 am    | 352 article(s) | [View](docs/en_US.md)  |
+| Finnish                       | 29/07/2026, 9:21:52 am    | 21 article(s)  | [View](docs/fi.md)     |
+| French                        | 22/08/2026, 9:10:38 am    | 313 article(s) | [View](docs/fr.md)     |
+| German                        | 22/08/2026, 9:10:38 am    | 313 article(s) | [View](docs/de.md)     |
 | Greek                         | 16/05/2026, 6:14:48 am    | 6 article(s)   | [View](docs/el.md)     |
-| Hungarian                     | 10/07/2026, 6:56:21 am    | 16 article(s)  | [View](docs/hu.md)     |
-| Italian                       | 21/08/2026, 4:17:06 am    | 307 article(s) | [View](docs/it.md)     |
-| Japanese                      | 21/08/2026, 4:17:06 am    | 308 article(s) | [View](docs/ja.md)     |
-| Norwegian                     | 29/07/2026, 9:21:52 am    | 25 article(s)  | [View](docs/no.md)     |
-| Polish                        | 19/08/2026, 3:32:19 am    | 165 article(s) | [View](docs/pl.md)     |
-| Portuguese (Brazil)           | 21/08/2026, 4:17:06 am    | 304 article(s) | [View](docs/pt_BR.md)  |
-| Portuguese (Portugal)         | 19/08/2026, 2:47:53 am    | 36 article(s)  | [View](docs/pt_PT.md)  |
+| Hungarian                     | 12/06/2026, 3:51:06 am    | 15 article(s)  | [View](docs/hu.md)     |
+| Italian                       | 22/08/2026, 9:10:38 am    | 311 article(s) | [View](docs/it.md)     |
+| Japanese                      | 22/08/2026, 9:10:38 am    | 310 article(s) | [View](docs/ja.md)     |
+| Norwegian                     | 29/07/2026, 9:21:52 am    | 24 article(s)  | [View](docs/no.md)     |
+| Polish                        | 22/08/2026, 9:10:38 am    | 169 article(s) | [View](docs/pl.md)     |
+| Portuguese (Brazil)           | 22/08/2026, 9:10:38 am    | 302 article(s) | [View](docs/pt_BR.md)  |
+| Portuguese (Portugal)         | 22/08/2026, 9:10:38 am    | 34 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 02/05/2026, 2:03:26 am    | 1 article(s)   | [View](docs/ro.md)     |
-| Russian                       | 19/08/2026, 3:32:19 am    | 166 article(s) | [View](docs/ru.md)     |
+| Russian                       | 22/08/2026, 9:10:38 am    | 170 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 02/05/2026, 2:03:26 am    | 1 article(s)   | [View](docs/sk.md)     |
-| Spanish                       | 21/08/2026, 4:17:06 am    | 309 article(s) | [View](docs/es.md)     |
-| Spanish (Mexico)              | 21/08/2026, 4:17:05 am    | 306 article(s) | [View](docs/es_MX.md)  |
-| Swedish                       | 29/07/2026, 9:21:52 am    | 22 article(s)  | [View](docs/sv.md)     |
-| Thai                          | 19/08/2026, 3:32:19 am    | 161 article(s) | [View](docs/th.md)     |
-| Turkish                       | 19/08/2026, 3:32:19 am    | 165 article(s) | [View](docs/tr.md)     |
+| Spanish                       | 22/08/2026, 9:10:38 am    | 310 article(s) | [View](docs/es.md)     |
+| Spanish (Mexico)              | 22/08/2026, 9:10:38 am    | 302 article(s) | [View](docs/es_MX.md)  |
+| Swedish                       | 29/07/2026, 9:21:52 am    | 21 article(s)  | [View](docs/sv.md)     |
+| Thai                          | 22/08/2026, 9:10:38 am    | 165 article(s) | [View](docs/th.md)     |
+| Turkish                       | 22/08/2026, 9:10:38 am    | 169 article(s) | [View](docs/tr.md)     |
 | Vietnamese                    | 19/08/2026, 2:47:53 am    | 5 article(s)   | [View](docs/vi.md)     |
 
 ### Dumping

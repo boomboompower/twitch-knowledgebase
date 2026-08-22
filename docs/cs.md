@@ -1,15 +1,6 @@
 # Czech
 > All articles written under the cs language code. 
 
-## Article-1
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
-
-| Name                             | Last Updated (dd/mm/yyyy) | Link                                                                                   |
-|----------------------------------|---------------------------|----------------------------------------------------------------------------------------|
-| How To Manage Harassment In Chat | 10/07/2026, 6:56:21 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=cs)  |
-
-
-
 ## Article-2
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-2.xml) this sitemap
 
