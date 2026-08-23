@@ -8,8 +8,6 @@
 |-----------------------------|---------------------------|-----------------------------------------------------------------------------------|
 | Twitch Turbo Guide          | 16/05/2026, 6:14:48 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=el)           |
 | Guide To Cheering With Bits | 09/05/2026, 4:25:48 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=el)  |
-| Chat Commands               | 02/05/2026, 2:03:26 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=el)                |
-| Account Hacked              | 18/04/2026, 6:39:18 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=el)               |
 
 
 
@@ -18,6 +16,8 @@
 
 | Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                               |
 |----------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------|
+| Chat Commands                                | 02/05/2026, 2:03:26 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=el)                                 |
+| Account Hacked                               | 18/04/2026, 6:39:18 am    | [Link](https://help.twitch.tv/s/article/account-hacked?language=el)                                |
 | Earning Revenue From Bits In Extensions Beta | 07/03/2026, 0:54:40 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=el)  |
 
 
