@@ -64,7 +64,6 @@
 | Chat Basics                                              | 15/07/2026, 2:43:02 pm    | [Link](https://help.twitch.tv/s/article/chat-basics?language=ja)                                               |
 | How To Subscribe                                         | 15/07/2026, 2:42:57 pm    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=ja)                                          |
 | Shared Chat                                              | 15/07/2026, 2:42:55 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=ja)                                               |
-| Gif Keyboard                                             | 14/07/2026, 5:45:04 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=ja)                                              |
 
 
 

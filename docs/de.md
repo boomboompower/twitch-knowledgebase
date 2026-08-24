@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Subtember 2026 Faq                                       | 23/08/2026, 11:04:37 pm   | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=de)                                        |
 | Joining The Affiliate Program                            | 22/08/2026, 9:10:38 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=de)                             |
 | Affiliate Onboarding Guide                               | 22/08/2026, 7:13:21 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=de)                                |
 | Subscriber Badge Guide                                   | 22/08/2026, 6:33:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=de)                                    |
@@ -65,7 +66,6 @@
 | Chat Basics                                              | 15/07/2026, 6:48:57 pm    | [Link](https://help.twitch.tv/s/article/chat-basics?language=de)                                               |
 | Why Cant I Chat                                          | 15/07/2026, 6:48:55 pm    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=de)                                           |
 | How To Manage Harassment In Chat                         | 15/07/2026, 6:48:52 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=de)                          |
-| Gif Keyboard                                             | 14/07/2026, 6:52:23 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=de)                                              |
 
 
 
@@ -350,6 +350,16 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=de)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
+|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Subtember 2026 Faq       | 23/08/2026, 11:04:37 pm   | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=de)        |
+| Playstation Broadcasting | 19/08/2026, 2:58:03 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=de)  |
 
 
 

@@ -6,6 +6,11 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Sponsorship Overview                                     | 24/08/2026, 8:27:23 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=pt_BR)                                      |
+| Streamelements Campaigns                                 | 24/08/2026, 8:22:59 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=pt_BR)                                  |
+| Streamer Benefits                                        | 24/08/2026, 7:36:13 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=pt_BR)                                         |
+| Creator Profile Setup                                    | 24/08/2026, 7:15:12 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=pt_BR)                                     |
+| Creator Certification                                    | 24/08/2026, 7:15:07 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=pt_BR)                                     |
 | Joining The Affiliate Program                            | 22/08/2026, 9:10:38 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_BR)                             |
 | Subtember 2026 Faq                                       | 22/08/2026, 8:00:27 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=pt_BR)                                        |
 | Affiliate Onboarding Guide                               | 22/08/2026, 7:13:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pt_BR)                                |
@@ -14,11 +19,6 @@
 | Subscriber Emote Guide                                   | 22/08/2026, 6:13:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=pt_BR)                                    |
 | Founders Badge                                           | 22/08/2026, 6:13:11 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=pt_BR)                                            |
 | Custom Bit Badges Guide                                  | 22/08/2026, 6:13:04 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=pt_BR)                                   |
-| Creator Profile Setup                                    | 21/08/2026, 4:17:06 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=pt_BR)                                     |
-| Streamer Benefits                                        | 21/08/2026, 4:17:00 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=pt_BR)                                         |
-| Creator Certification                                    | 21/08/2026, 4:16:42 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=pt_BR)                                     |
-| Sponsorship Overview                                     | 21/08/2026, 4:16:33 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=pt_BR)                                      |
-| Streamelements Campaigns                                 | 21/08/2026, 4:16:26 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=pt_BR)                                  |
 | Affiliate Or Partner Anniversary Settings                | 19/08/2026, 3:32:19 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=pt_BR)                 |
 | Playstation Broadcasting                                 | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=pt_BR)                                  |
 | Date Of Birth Changes                                    | 19/08/2026, 2:50:54 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pt_BR)                                     |
@@ -349,6 +349,15 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=pt_BR)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=pt_BR)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=pt_BR)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name               | Last Updated (dd/mm/yyyy) | Link                                                                        |
+|--------------------|---------------------------|-----------------------------------------------------------------------------|
+| Subtember 2026 Faq | 22/08/2026, 8:00:27 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=pt_BR)  |
 
 
 

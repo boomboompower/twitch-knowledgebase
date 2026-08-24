@@ -59,13 +59,6 @@
 | Twitch Stream Key Faq                                    | 17/07/2026, 7:35:17 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=it)                                     |
 | Disconnect Protection                                    | 17/07/2026, 7:35:12 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=it)                                     |
 | Auto Clips                                               | 15/07/2026, 8:47:54 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=it)                                                |
-| Managing Subscription Tiers                              | 14/07/2026, 7:44:49 pm    | [Link](https://help.twitch.tv/s/article/managing-subscription-tiers?language=it)                               |
-| Support Subscriptions                                    | 14/07/2026, 7:44:48 pm    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=it)                                     |
-| Shared Chat                                              | 14/07/2026, 7:44:45 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=it)                                               |
-| How To Manage Harassment In Chat                         | 14/07/2026, 7:44:36 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=it)                          |
-| Chat Basics                                              | 14/07/2026, 7:44:34 pm    | [Link](https://help.twitch.tv/s/article/chat-basics?language=it)                                               |
-| How To Subscribe                                         | 14/07/2026, 7:44:30 pm    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=it)                                          |
-| Why Cant I Chat                                          | 14/07/2026, 7:44:29 pm    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=it)                                           |
 
 
 
@@ -350,6 +343,15 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=it)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=it)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=it)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
+|--------------------|---------------------------|--------------------------------------------------------------------------|
+| Subtember 2026 Faq | 21/08/2026, 7:07:37 pm    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=it)  |
 
 
 

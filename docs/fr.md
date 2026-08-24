@@ -66,7 +66,6 @@
 | Managing Subscription Tiers                              | 15/07/2026, 8:18:08 pm    | [Link](https://help.twitch.tv/s/article/managing-subscription-tiers?language=fr)                               |
 | Support Subscriptions                                    | 15/07/2026, 8:18:05 pm    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=fr)                                     |
 | Auto Clips                                               | 15/07/2026, 5:49:26 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=fr)                                                |
-| Gif Keyboard                                             | 14/07/2026, 10:09:48 pm   | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=fr)                                              |
 
 
 
@@ -351,6 +350,15 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=fr)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=fr)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=fr)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name               | Last Updated (dd/mm/yyyy) | Link                                                                     |
+|--------------------|---------------------------|--------------------------------------------------------------------------|
+| Subtember 2026 Faq | 21/08/2026, 11:26:43 pm   | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=fr)  |
 
 
 
