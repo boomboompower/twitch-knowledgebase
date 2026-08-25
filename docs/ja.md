@@ -6,6 +6,15 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Streamer Benefits                                        | 25/08/2026, 10:22:44 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                                         |
+| Sponsorship Overview                                     | 25/08/2026, 10:22:43 am   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=ja)                                      |
+| Creator Profile Setup                                    | 25/08/2026, 10:22:40 am   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=ja)                                     |
+| Creator Certification                                    | 25/08/2026, 10:22:37 am   | [Link](https://help.twitch.tv/s/article/creator-certification?language=ja)                                     |
+| Streamelements Campaigns                                 | 25/08/2026, 10:22:34 am   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=ja)                                  |
+| Pokemon Chat Badges                                      | 25/08/2026, 2:32:50 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=ja)                                       |
+| Mission Based Drops                                      | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                                       |
+| Drops Troubleshooting                                    | 25/08/2026, 2:32:33 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=ja)                                     |
+| Subtember 2026 Faq                                       | 24/08/2026, 7:42:53 pm    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=ja)                                        |
 | Joining The Affiliate Program                            | 22/08/2026, 9:10:38 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ja)                             |
 | Affiliate Onboarding Guide                               | 22/08/2026, 7:13:22 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ja)                                |
 | Subscriber Badge Guide                                   | 22/08/2026, 6:33:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ja)                                    |
@@ -13,11 +22,6 @@
 | Subscriber Emote Guide                                   | 22/08/2026, 6:13:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=ja)                                    |
 | Founders Badge                                           | 22/08/2026, 6:13:08 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=ja)                                            |
 | Custom Bit Badges Guide                                  | 22/08/2026, 6:13:04 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=ja)                                   |
-| Creator Profile Setup                                    | 21/08/2026, 4:17:06 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=ja)                                     |
-| Streamer Benefits                                        | 21/08/2026, 4:16:58 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                                         |
-| Creator Certification                                    | 21/08/2026, 4:16:41 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=ja)                                     |
-| Sponsorship Overview                                     | 21/08/2026, 4:16:33 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=ja)                                      |
-| Streamelements Campaigns                                 | 21/08/2026, 4:16:26 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=ja)                                  |
 | Affiliate Or Partner Anniversary Settings                | 19/08/2026, 3:32:20 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=ja)                 |
 | Playstation Broadcasting                                 | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=ja)                                  |
 | Date Of Birth Changes                                    | 19/08/2026, 2:50:54 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                                     |
@@ -40,7 +44,6 @@
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:30 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=ja)                                  |
 | Mobile Creator Mode                                      | 08/08/2026, 9:20:13 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=ja)                                       |
 | Stories                                                  | 08/08/2026, 9:20:02 am    | [Link](https://help.twitch.tv/s/article/stories?language=ja)                                                   |
-| Mission Based Drops                                      | 07/08/2026, 6:11:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                                       |
 | Dac7 Interview                                           | 29/07/2026, 7:32:54 pm    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=ja)                                            |
 | Guide To Tags                                            | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=ja)                                             |
 | How To Upgrade Prime                                     | 29/07/2026, 9:21:14 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=ja)                                      |
@@ -56,14 +59,6 @@
 | Creating An Account With Twitch                          | 17/07/2026, 7:41:19 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ja)                           |
 | Twitch Stream Key Faq                                    | 17/07/2026, 7:35:17 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=ja)                                     |
 | Disconnect Protection                                    | 17/07/2026, 7:35:00 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=ja)                                     |
-| Auto Clips                                               | 15/07/2026, 5:01:35 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                                                |
-| Support Subscriptions                                    | 15/07/2026, 2:43:21 pm    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=ja)                                     |
-| Why Cant I Chat                                          | 15/07/2026, 2:43:15 pm    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=ja)                                           |
-| Managing Subscription Tiers                              | 15/07/2026, 2:43:10 pm    | [Link](https://help.twitch.tv/s/article/managing-subscription-tiers?language=ja)                               |
-| How To Manage Harassment In Chat                         | 15/07/2026, 2:43:07 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ja)                          |
-| Chat Basics                                              | 15/07/2026, 2:43:02 pm    | [Link](https://help.twitch.tv/s/article/chat-basics?language=ja)                                               |
-| How To Subscribe                                         | 15/07/2026, 2:42:57 pm    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=ja)                                          |
-| Shared Chat                                              | 15/07/2026, 2:42:55 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=ja)                                               |
 
 
 
@@ -349,6 +344,20 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=ja)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                |
+|-------------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Pokemon Chat Badges           | 25/08/2026, 2:32:50 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=ja)            |
+| Drops Troubleshooting         | 25/08/2026, 2:32:33 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=ja)          |
+| Subtember 2026 Faq            | 24/08/2026, 7:42:53 pm    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=ja)             |
+| Playstation Broadcasting      | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=ja)       |
+| Comments On Clips             | 19/08/2026, 1:18:22 am    | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=ja)              |
+| Brand Sponsorship Measurement | 13/08/2026, 10:29:07 pm   | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=ja)  |
 
 
 

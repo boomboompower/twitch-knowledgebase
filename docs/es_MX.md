@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Mission Based Drops                                      | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                                       |
+| Subtember 2026 Faq                                       | 24/08/2026, 8:51:00 pm    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=es_MX)                                        |
 | Joining The Affiliate Program                            | 22/08/2026, 9:10:38 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                             |
 | Affiliate Onboarding Guide                               | 22/08/2026, 7:13:22 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                                |
 | Subscriber Badge Guide                                   | 22/08/2026, 6:33:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es_MX)                                    |
@@ -41,7 +43,6 @@
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:29 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=es_MX)                                  |
 | Mobile Creator Mode                                      | 08/08/2026, 9:20:13 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=es_MX)                                       |
 | Stories                                                  | 08/08/2026, 9:20:05 am    | [Link](https://help.twitch.tv/s/article/stories?language=es_MX)                                                   |
-| Mission Based Drops                                      | 07/08/2026, 6:11:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                                       |
 | Guide To Tags                                            | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=es_MX)                                             |
 | How To Upgrade Prime                                     | 29/07/2026, 9:21:13 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=es_MX)                                      |
 | Link Amazon Twitch Accounts                              | 29/07/2026, 9:21:03 am    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=es_MX)                               |
@@ -57,7 +58,6 @@
 | Creating An Account With Twitch                          | 17/07/2026, 7:41:18 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es_MX)                           |
 | Twitch Stream Key Faq                                    | 17/07/2026, 7:35:16 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=es_MX)                                     |
 | Disconnect Protection                                    | 17/07/2026, 7:35:12 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=es_MX)                                     |
-| Auto Clips                                               | 15/07/2026, 8:47:56 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                                                |
 
 
 
@@ -348,6 +348,18 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=es_MX)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                   |
+|-------------------------------|---------------------------|----------------------------------------------------------------------------------------|
+| Subtember 2026 Faq            | 24/08/2026, 8:51:00 pm    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=es_MX)             |
+| Playstation Broadcasting      | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=es_MX)       |
+| Comments On Clips             | 13/08/2026, 5:01:07 am    | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=es_MX)              |
+| Brand Sponsorship Measurement | 11/08/2026, 1:07:22 pm    | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=es_MX)  |
 
 
 

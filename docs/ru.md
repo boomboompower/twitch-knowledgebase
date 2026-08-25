@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Mission Based Drops                                      | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ru)                                       |
 | Joining The Affiliate Program                            | 22/08/2026, 9:10:38 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ru)                             |
 | Affiliate Onboarding Guide                               | 22/08/2026, 7:13:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ru)                                |
 | Subscriber Badge Guide                                   | 22/08/2026, 6:33:48 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ru)                                    |
@@ -24,7 +25,6 @@
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:56 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=ru)                                   |
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:29 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=ru)                                  |
 | Mobile Creator Mode                                      | 08/08/2026, 9:20:12 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=ru)                                       |
-| Mission Based Drops                                      | 07/08/2026, 6:11:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ru)                                       |
 | Guide To Tags                                            | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=ru)                                             |
 | Partner Onboarding Guide                                 | 29/07/2026, 9:19:56 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ru)                                  |
 | How To Appeal Flagged Content                            | 29/07/2026, 9:04:39 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=ru)                             |
