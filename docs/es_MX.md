@@ -6,6 +6,12 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Streamelements Campaigns                                 | 25/08/2026, 10:13:33 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es_MX)                                  |
+| Creator Certification                                    | 25/08/2026, 10:13:31 pm   | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)                                     |
+| Streamer Benefits                                        | 25/08/2026, 10:13:28 pm   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                                         |
+| Creator Profile Setup                                    | 25/08/2026, 10:13:23 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es_MX)                                     |
+| Sponsorship Overview                                     | 25/08/2026, 10:13:22 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es_MX)                                      |
+| Pokemon Chat Badges                                      | 25/08/2026, 5:51:48 pm    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=es_MX)                                       |
 | Mission Based Drops                                      | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                                       |
 | Subtember 2026 Faq                                       | 24/08/2026, 8:51:00 pm    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=es_MX)                                        |
 | Joining The Affiliate Program                            | 22/08/2026, 9:10:38 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                             |
@@ -15,11 +21,6 @@
 | Subscriber Emote Guide                                   | 22/08/2026, 6:13:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=es_MX)                                    |
 | Founders Badge                                           | 22/08/2026, 6:13:10 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=es_MX)                                            |
 | Custom Bit Badges Guide                                  | 22/08/2026, 6:13:05 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=es_MX)                                   |
-| Creator Profile Setup                                    | 21/08/2026, 4:17:05 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es_MX)                                     |
-| Streamer Benefits                                        | 21/08/2026, 4:16:58 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=es_MX)                                         |
-| Creator Certification                                    | 21/08/2026, 4:16:41 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)                                     |
-| Sponsorship Overview                                     | 21/08/2026, 4:16:32 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es_MX)                                      |
-| Streamelements Campaigns                                 | 21/08/2026, 4:16:25 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es_MX)                                  |
 | Affiliate Or Partner Anniversary Settings                | 19/08/2026, 3:32:20 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=es_MX)                 |
 | Playstation Broadcasting                                 | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=es_MX)                                  |
 | Date Of Birth Changes                                    | 19/08/2026, 2:50:54 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                                     |
@@ -356,6 +357,7 @@
 
 | Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                   |
 |-------------------------------|---------------------------|----------------------------------------------------------------------------------------|
+| Pokemon Chat Badges           | 25/08/2026, 5:51:48 pm    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=es_MX)            |
 | Subtember 2026 Faq            | 24/08/2026, 8:51:00 pm    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=es_MX)             |
 | Playstation Broadcasting      | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=es_MX)       |
 | Comments On Clips             | 13/08/2026, 5:01:07 am    | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=es_MX)              |
