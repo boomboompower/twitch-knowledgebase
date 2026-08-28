@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Video On Demand                                          | 28/08/2026, 4:32:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=de)                                           |
 | Creator Certification                                    | 25/08/2026, 10:35:04 pm   | [Link](https://help.twitch.tv/s/article/creator-certification?language=de)                                     |
 | Creator Profile Setup                                    | 25/08/2026, 10:35:02 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=de)                                     |
 | Streamer Benefits                                        | 25/08/2026, 10:34:59 pm   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=de)                                         |
@@ -65,9 +66,6 @@
 | Support Subscriptions                                    | 15/07/2026, 6:49:10 pm    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=de)                                     |
 | Managing Subscription Tiers                              | 15/07/2026, 6:49:06 pm    | [Link](https://help.twitch.tv/s/article/managing-subscription-tiers?language=de)                               |
 | How To Subscribe                                         | 15/07/2026, 6:49:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=de)                                          |
-| Chat Basics                                              | 15/07/2026, 6:48:57 pm    | [Link](https://help.twitch.tv/s/article/chat-basics?language=de)                                               |
-| Why Cant I Chat                                          | 15/07/2026, 6:48:55 pm    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=de)                                           |
-| How To Manage Harassment In Chat                         | 15/07/2026, 6:48:52 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=de)                          |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Video On Demand                                          | 28/08/2026, 4:32:57 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                           |
 | Joining The Affiliate Program                            | 26/08/2026, 5:49:23 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)                             |
 | Pokemon Chat Badges                                      | 25/08/2026, 10:07:48 pm   | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=zh_TW)                                       |
 | Streamer Benefits                                        | 25/08/2026, 6:44:48 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)                                         |

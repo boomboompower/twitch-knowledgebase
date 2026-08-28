@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Video On Demand                                          | 28/08/2026, 4:32:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es_MX)                                           |
 | Joining The Affiliate Program                            | 26/08/2026, 9:02:24 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                             |
 | Streamelements Campaigns                                 | 25/08/2026, 10:13:33 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es_MX)                                  |
 | Creator Certification                                    | 25/08/2026, 10:13:31 pm   | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)                                     |

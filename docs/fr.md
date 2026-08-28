@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Video On Demand                                          | 28/08/2026, 4:32:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=fr)                                           |
 | Joining The Affiliate Program                            | 26/08/2026, 5:43:25 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=fr)                             |
 | Streamer Benefits                                        | 26/08/2026, 2:13:30 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=fr)                                         |
 | Creator Certification                                    | 26/08/2026, 2:13:27 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=fr)                                     |
@@ -67,7 +68,6 @@
 | Chat Basics                                              | 15/07/2026, 8:18:14 pm    | [Link](https://help.twitch.tv/s/article/chat-basics?language=fr)                                               |
 | Managing Subscription Tiers                              | 15/07/2026, 8:18:08 pm    | [Link](https://help.twitch.tv/s/article/managing-subscription-tiers?language=fr)                               |
 | Support Subscriptions                                    | 15/07/2026, 8:18:05 pm    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=fr)                                     |
-| Auto Clips                                               | 15/07/2026, 5:49:26 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=fr)                                                |
 
 
 
