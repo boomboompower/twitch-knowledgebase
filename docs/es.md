@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Video On Demand                                          | 28/08/2026, 4:32:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es)                                           |
+| Video On Demand                                          | 29/08/2026, 9:04:08 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es)                                           |
 | Pokemon Chat Badges                                      | 27/08/2026, 0:44:37 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=es)                                       |
 | Joining The Affiliate Program                            | 25/08/2026, 11:51:40 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es)                             |
 | Streamelements Campaigns                                 | 25/08/2026, 9:17:06 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)                                  |

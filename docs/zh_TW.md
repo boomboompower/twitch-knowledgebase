@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Video On Demand                                          | 28/08/2026, 4:32:57 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                           |
+| Video On Demand                                          | 29/08/2026, 9:04:04 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                           |
 | Joining The Affiliate Program                            | 26/08/2026, 5:49:23 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)                             |
 | Pokemon Chat Badges                                      | 25/08/2026, 10:07:48 pm   | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=zh_TW)                                       |
 | Streamer Benefits                                        | 25/08/2026, 6:44:48 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)                                         |
@@ -63,10 +63,6 @@
 | Shared Chat                                              | 15/07/2026, 7:26:14 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=zh_TW)                                               |
 | Support Subscriptions                                    | 15/07/2026, 7:26:13 pm    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=zh_TW)                                     |
 | Why Cant I Chat                                          | 15/07/2026, 7:26:11 pm    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=zh_TW)                                           |
-| Managing Subscription Tiers                              | 15/07/2026, 7:26:07 pm    | [Link](https://help.twitch.tv/s/article/managing-subscription-tiers?language=zh_TW)                               |
-| How To Subscribe                                         | 15/07/2026, 7:26:06 pm    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=zh_TW)                                          |
-| How To Manage Harassment In Chat                         | 15/07/2026, 7:26:00 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=zh_TW)                          |
-| Chat Basics                                              | 15/07/2026, 7:25:58 pm    | [Link](https://help.twitch.tv/s/article/chat-basics?language=zh_TW)                                               |
 
 
 
