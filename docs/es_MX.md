@@ -6,13 +6,13 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Auto Clips                                               | 01/09/2026, 9:27:55 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                                                |
-| Costreaming                                              | 01/09/2026, 9:27:51 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=es_MX)                                               |
-| Stream Rewind                                            | 01/09/2026, 9:27:43 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es_MX)                                             |
-| Recover Watch Streaks                                    | 01/09/2026, 9:27:30 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                                     |
-| Clips Settings                                           | 01/09/2026, 9:27:26 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=es_MX)                                            |
-| Dj Opt Out                                               | 01/09/2026, 9:27:17 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=es_MX)                                                |
-| Dj Program Faq                                           | 01/09/2026, 9:27:10 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=es_MX)                                            |
+| Recover Watch Streaks                                    | 02/09/2026, 4:18:14 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                                     |
+| Costreaming                                              | 02/09/2026, 4:18:12 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=es_MX)                                               |
+| Stream Rewind                                            | 02/09/2026, 4:18:12 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es_MX)                                             |
+| Dj Program Faq                                           | 02/09/2026, 4:18:09 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=es_MX)                                            |
+| Auto Clips                                               | 02/09/2026, 4:18:06 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                                                |
+| Dj Opt Out                                               | 02/09/2026, 4:18:05 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=es_MX)                                                |
+| Clips Settings                                           | 02/09/2026, 4:18:03 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=es_MX)                                            |
 | How To Use Automod                                       | 01/09/2026, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es_MX)                                        |
 | Setting Up Moderation For Your Twitch Channel            | 01/09/2026, 8:06:13 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=es_MX)             |
 | How To Manage Harassment In Chat                         | 01/09/2026, 8:04:55 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es_MX)                          |
@@ -61,8 +61,6 @@
 | Partner Onboarding Guide                                 | 29/07/2026, 9:20:03 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es_MX)                                  |
 | How To Appeal Flagged Content                            | 29/07/2026, 9:04:39 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=es_MX)                             |
 | Dac7 Interview                                           | 29/07/2026, 9:03:42 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=es_MX)                                            |
-| Weekly Rewards                                           | 23/07/2026, 8:01:16 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es_MX)                                            |
-| Rejected Payout Faq                                      | 22/07/2026, 8:36:14 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=es_MX)                                       |
 
 
 

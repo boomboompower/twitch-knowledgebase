@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| How To Use Clips                                         | 01/09/2026, 11:05:41 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                          |
 | Auto Clips                                               | 01/09/2026, 9:27:55 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es)                                                |
 | Costreaming                                              | 01/09/2026, 9:27:51 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=es)                                               |
 | Stream Rewind                                            | 01/09/2026, 9:27:43 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es)                                             |
@@ -18,7 +19,6 @@
 | How To Manage Harassment In Chat                         | 01/09/2026, 8:04:54 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=es)                          |
 | Pokemon Chat Badges                                      | 01/09/2026, 7:17:03 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=es)                                       |
 | How To Contact Support                                   | 01/09/2026, 7:15:35 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=es)                                    |
-| How To Use Clips                                         | 01/09/2026, 7:14:17 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                          |
 | Video On Demand                                          | 29/08/2026, 9:04:08 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es)                                           |
 | Joining The Affiliate Program                            | 25/08/2026, 11:51:40 pm   | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es)                             |
 | Streamelements Campaigns                                 | 25/08/2026, 9:17:06 pm    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es)                                  |
@@ -62,7 +62,6 @@
 | Link Amazon Twitch Accounts                              | 29/07/2026, 9:21:02 am    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=es)                               |
 | Partner Onboarding Guide                                 | 29/07/2026, 9:19:56 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                                  |
 | How To Appeal Flagged Content                            | 29/07/2026, 9:04:39 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=es)                             |
-| Weekly Rewards                                           | 23/07/2026, 7:59:33 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=es)                                            |
 
 
 
