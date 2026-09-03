@@ -62,6 +62,7 @@
 | Link Amazon Twitch Accounts                              | 29/07/2026, 9:21:02 am    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=de)                               |
 | Partner Onboarding Guide                                 | 29/07/2026, 9:20:02 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=de)                                  |
 | How To Appeal Flagged Content                            | 29/07/2026, 9:04:39 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=de)                             |
+| Weekly Rewards                                           | 23/07/2026, 7:59:46 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=de)                                            |
 
 
 
