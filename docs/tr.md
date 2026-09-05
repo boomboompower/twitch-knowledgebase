@@ -6,11 +6,13 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Chat Badges Guide                                 | 05/09/2026, 6:46:13 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=tr)                                  |
+| Twitch Account Settings                                  | 05/09/2026, 6:44:19 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=tr)                                   |
+| Video On Demand                                          | 05/09/2026, 6:39:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=tr)                                           |
 | How To Use Automod                                       | 01/09/2026, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=tr)                                        |
 | Setting Up Moderation For Your Twitch Channel            | 01/09/2026, 8:06:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=tr)             |
 | How To Manage Harassment In Chat                         | 01/09/2026, 8:04:46 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=tr)                          |
 | How To Use Clips                                         | 01/09/2026, 7:14:17 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=tr)                                          |
-| Video On Demand                                          | 28/08/2026, 4:32:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=tr)                                           |
 | Mission Based Drops                                      | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=tr)                                       |
 | Joining The Affiliate Program                            | 22/08/2026, 9:10:38 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=tr)                             |
 | Affiliate Onboarding Guide                               | 22/08/2026, 7:13:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=tr)                                |
@@ -25,7 +27,6 @@
 | About Account Suspensions Dmca Suspensions And Chat Bans | 19/08/2026, 2:43:12 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=tr)  |
 | Subscriptions On Mobile                                  | 19/08/2026, 2:41:20 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=tr)                                   |
 | Local Sub Price Countries                                | 14/08/2026, 10:07:07 am   | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=tr)                                 |
-| Twitch Account Settings                                  | 13/08/2026, 2:01:33 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=tr)                                   |
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:56 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=tr)                                   |
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:29 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=tr)                                  |
 | Mobile Creator Mode                                      | 08/08/2026, 9:20:12 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=tr)                                       |

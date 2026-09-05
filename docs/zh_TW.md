@@ -6,20 +6,22 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Twitch Chat Badges Guide                                 | 05/09/2026, 6:46:39 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=zh_TW)                                  |
+| Twitch Account Settings                                  | 05/09/2026, 6:44:21 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=zh_TW)                                   |
+| Video On Demand                                          | 05/09/2026, 6:39:57 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                           |
+| Dj Program Faq                                           | 04/09/2026, 9:56:12 pm    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=zh_TW)                                            |
+| Costreaming                                              | 04/09/2026, 9:56:09 pm    | [Link](https://help.twitch.tv/s/article/costreaming?language=zh_TW)                                               |
+| Stream Rewind                                            | 04/09/2026, 9:56:08 pm    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=zh_TW)                                             |
+| Dj Opt Out                                               | 04/09/2026, 9:56:06 pm    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=zh_TW)                                                |
+| Clips Settings                                           | 04/09/2026, 9:56:03 pm    | [Link](https://help.twitch.tv/s/article/clips-settings?language=zh_TW)                                            |
+| Recover Watch Streaks                                    | 04/09/2026, 9:56:00 pm    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=zh_TW)                                     |
+| Auto Clips                                               | 04/09/2026, 9:55:59 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                                |
 | How To Use Clips                                         | 01/09/2026, 11:18:50 pm   | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                          |
-| Auto Clips                                               | 01/09/2026, 9:27:55 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                                |
-| Costreaming                                              | 01/09/2026, 9:27:51 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=zh_TW)                                               |
-| Stream Rewind                                            | 01/09/2026, 9:27:43 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=zh_TW)                                             |
-| Recover Watch Streaks                                    | 01/09/2026, 9:27:30 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=zh_TW)                                     |
-| Clips Settings                                           | 01/09/2026, 9:27:26 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=zh_TW)                                            |
-| Dj Opt Out                                               | 01/09/2026, 9:27:17 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=zh_TW)                                                |
-| Dj Program Faq                                           | 01/09/2026, 9:27:10 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=zh_TW)                                            |
 | How To Use Automod                                       | 01/09/2026, 8:06:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=zh_TW)                                        |
 | Setting Up Moderation For Your Twitch Channel            | 01/09/2026, 8:06:13 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=zh_TW)             |
 | How To Manage Harassment In Chat                         | 01/09/2026, 8:04:46 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=zh_TW)                          |
 | Pokemon Chat Badges                                      | 01/09/2026, 7:17:04 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=zh_TW)                                       |
 | How To Contact Support                                   | 01/09/2026, 7:15:35 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=zh_TW)                                    |
-| Video On Demand                                          | 29/08/2026, 9:04:04 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=zh_TW)                                           |
 | Joining The Affiliate Program                            | 26/08/2026, 5:49:23 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=zh_TW)                             |
 | Streamer Benefits                                        | 25/08/2026, 6:44:48 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=zh_TW)                                         |
 | Sponsorship Overview                                     | 25/08/2026, 5:53:58 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=zh_TW)                                      |
@@ -50,7 +52,6 @@
 | Not Receiving Sms                                        | 14/08/2026, 3:41:33 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=zh_TW)                                         |
 | Creator Badge Rewards                                    | 13/08/2026, 7:45:50 pm    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=zh_TW)                                     |
 | Brand Sponsorship Measurement                            | 13/08/2026, 6:07:59 pm    | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=zh_TW)                             |
-| Twitch Account Settings                                  | 13/08/2026, 2:01:34 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=zh_TW)                                   |
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:58 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=zh_TW)                                   |
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:31 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=zh_TW)                                  |
 | Mobile Creator Mode                                      | 08/08/2026, 9:20:14 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=zh_TW)                                       |

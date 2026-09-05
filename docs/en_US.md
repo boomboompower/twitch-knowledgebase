@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Twitch Chat Badges Guide                                 | 05/09/2026, 6:46:13 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                                  |
+| Twitch Account Settings                                  | 05/09/2026, 6:44:19 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=en_US)                                   |
+| Video On Demand                                          | 05/09/2026, 6:39:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                           |
 | Auto Clips                                               | 01/09/2026, 9:27:55 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                                                |
 | Costreaming                                              | 01/09/2026, 9:27:50 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=en_US)                                               |
 | Stream Rewind                                            | 01/09/2026, 9:27:43 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=en_US)                                             |
@@ -19,7 +22,6 @@
 | Pokemon Chat Badges                                      | 01/09/2026, 7:17:03 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=en_US)                                       |
 | How To Contact Support                                   | 01/09/2026, 7:15:34 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=en_US)                                    |
 | How To Use Clips                                         | 01/09/2026, 7:14:17 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                          |
-| Video On Demand                                          | 28/08/2026, 4:32:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                           |
 | Mission Based Drops                                      | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                                       |
 | Drops Troubleshooting                                    | 25/08/2026, 2:32:32 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=en_US)                                     |
 | Joining The Affiliate Program                            | 22/08/2026, 9:10:38 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=en_US)                             |
@@ -47,7 +49,6 @@
 | About Bans Blocking And Suspensions                      | 13/08/2026, 5:14:16 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=en_US)                       |
 | Comments On Clips                                        | 13/08/2026, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=en_US)                                         |
 | Creator Badge Rewards                                    | 13/08/2026, 4:46:35 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=en_US)                                     |
-| Twitch Account Settings                                  | 13/08/2026, 2:01:33 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=en_US)                                   |
 | Dual Format Vertical Video                               | 11/08/2026, 9:59:47 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)                                |
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:56 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=en_US)                                   |
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:29 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=en_US)                                  |

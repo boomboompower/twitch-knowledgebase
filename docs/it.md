@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Chat Badges Guide                                 | 05/09/2026, 6:46:39 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=it)                                  |
+| Twitch Account Settings                                  | 05/09/2026, 6:44:21 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=it)                                   |
+| Video On Demand                                          | 05/09/2026, 6:39:57 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=it)                                           |
 | Dj Opt Out                                               | 02/09/2026, 11:30:42 pm   | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=it)                                                |
 | Auto Clips                                               | 02/09/2026, 11:30:39 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=it)                                                |
 | Recover Watch Streaks                                    | 02/09/2026, 11:30:35 pm   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=it)                                     |
@@ -19,7 +22,6 @@
 | Pokemon Chat Badges                                      | 01/09/2026, 7:17:04 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=it)                                       |
 | How To Contact Support                                   | 01/09/2026, 7:15:35 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=it)                                    |
 | How To Use Clips                                         | 01/09/2026, 7:14:19 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=it)                                          |
-| Video On Demand                                          | 29/08/2026, 9:04:11 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=it)                                           |
 | Joining The Affiliate Program                            | 26/08/2026, 1:43:49 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=it)                             |
 | Mission Based Drops                                      | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=it)                                       |
 | Drops Troubleshooting                                    | 25/08/2026, 2:32:33 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=it)                                     |
@@ -50,7 +52,6 @@
 | Local Sub Price Countries                                | 14/08/2026, 5:41:43 pm    | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=it)                                 |
 | Not Receiving Sms                                        | 14/08/2026, 3:41:33 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=it)                                         |
 | Creator Badge Rewards                                    | 13/08/2026, 4:46:36 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=it)                                     |
-| Twitch Account Settings                                  | 13/08/2026, 2:01:34 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=it)                                   |
 | Brand Sponsorship Measurement                            | 12/08/2026, 11:54:51 pm   | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=it)                             |
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:57 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=it)                                   |
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:30 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=it)                                  |

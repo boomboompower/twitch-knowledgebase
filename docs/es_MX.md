@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Twitch Chat Badges Guide                                 | 05/09/2026, 6:46:38 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=es_MX)                                  |
+| Twitch Account Settings                                  | 05/09/2026, 6:44:19 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es_MX)                                   |
+| Video On Demand                                          | 05/09/2026, 6:39:57 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es_MX)                                           |
 | Recover Watch Streaks                                    | 02/09/2026, 4:18:14 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=es_MX)                                     |
 | Costreaming                                              | 02/09/2026, 4:18:12 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=es_MX)                                               |
 | Stream Rewind                                            | 02/09/2026, 4:18:12 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=es_MX)                                             |
@@ -19,7 +22,6 @@
 | Pokemon Chat Badges                                      | 01/09/2026, 7:17:04 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=es_MX)                                       |
 | How To Contact Support                                   | 01/09/2026, 7:15:35 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=es_MX)                                    |
 | How To Use Clips                                         | 01/09/2026, 7:14:19 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                                          |
-| Video On Demand                                          | 29/08/2026, 9:04:11 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=es_MX)                                           |
 | Joining The Affiliate Program                            | 26/08/2026, 9:02:24 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                             |
 | Streamelements Campaigns                                 | 25/08/2026, 10:13:33 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es_MX)                                  |
 | Creator Certification                                    | 25/08/2026, 10:13:31 pm   | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)                                     |
@@ -48,7 +50,6 @@
 | About Bans Blocking And Suspensions                      | 13/08/2026, 5:14:16 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=es_MX)                       |
 | Comments On Clips                                        | 13/08/2026, 5:01:07 am    | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=es_MX)                                         |
 | Creator Badge Rewards                                    | 13/08/2026, 4:46:35 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es_MX)                                     |
-| Twitch Account Settings                                  | 13/08/2026, 2:01:33 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es_MX)                                   |
 | Dual Format Vertical Video                               | 12/08/2026, 6:07:36 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=es_MX)                                |
 | Brand Sponsorship Measurement                            | 11/08/2026, 1:07:22 pm    | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=es_MX)                             |
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:57 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=es_MX)                                   |

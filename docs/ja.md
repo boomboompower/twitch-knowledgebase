@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Twitch Chat Badges Guide                                 | 05/09/2026, 6:46:39 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ja)                                  |
+| Twitch Account Settings                                  | 05/09/2026, 6:44:21 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ja)                                   |
+| Video On Demand                                          | 05/09/2026, 6:39:57 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                                           |
 | Clips Settings                                           | 04/09/2026, 10:21:18 am   | [Link](https://help.twitch.tv/s/article/clips-settings?language=ja)                                            |
 | Costreaming                                              | 04/09/2026, 10:21:15 am   | [Link](https://help.twitch.tv/s/article/costreaming?language=ja)                                               |
 | Auto Clips                                               | 04/09/2026, 10:21:12 am   | [Link](https://help.twitch.tv/s/article/auto-clips?language=ja)                                                |
@@ -19,7 +22,6 @@
 | How To Manage Harassment In Chat                         | 01/09/2026, 8:04:55 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ja)                          |
 | Pokemon Chat Badges                                      | 01/09/2026, 7:17:04 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=ja)                                       |
 | How To Contact Support                                   | 01/09/2026, 7:15:35 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=ja)                                    |
-| Video On Demand                                          | 29/08/2026, 9:04:06 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ja)                                           |
 | Joining The Affiliate Program                            | 26/08/2026, 4:32:24 pm    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ja)                             |
 | Streamer Benefits                                        | 25/08/2026, 10:22:44 am   | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=ja)                                         |
 | Sponsorship Overview                                     | 25/08/2026, 10:22:43 am   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=ja)                                      |
@@ -50,7 +52,6 @@
 | Not Receiving Sms                                        | 14/08/2026, 3:41:32 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=ja)                                         |
 | Brand Sponsorship Measurement                            | 13/08/2026, 10:29:07 pm   | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=ja)                             |
 | Creator Badge Rewards                                    | 13/08/2026, 10:15:41 pm   | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=ja)                                     |
-| Twitch Account Settings                                  | 13/08/2026, 2:01:34 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ja)                                   |
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:57 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=ja)                                   |
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:30 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=ja)                                  |
 | Mobile Creator Mode                                      | 08/08/2026, 9:20:13 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=ja)                                       |
