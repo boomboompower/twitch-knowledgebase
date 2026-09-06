@@ -71,11 +71,18 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
-| Auto Clips                                  | 15/07/2026, 8:47:54 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=it)                                   |
+| Weekly Rewards                              | 23/07/2026, 8:00:27 am    | [Link](https://help.twitch.tv/s/article/weekly-rewards?language=it)                               |
+| Rejected Payout Faq                         | 22/07/2026, 8:36:14 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=it)                          |
+| Tips For Applying To The Partner Program    | 22/07/2026, 8:35:32 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=it)     |
+| Shared Hype Train                           | 22/07/2026, 8:34:31 am    | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=it)                            |
+| Family Center                               | 22/07/2026, 3:01:23 am    | [Link](https://help.twitch.tv/s/article/family-center?language=it)                                |
+| How To Change Password                      | 21/07/2026, 4:05:13 am    | [Link](https://help.twitch.tv/s/article/how-to-change-password?language=it)                       |
+| Creating An Account With Twitch             | 17/07/2026, 7:41:19 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=it)              |
+| Twitch Stream Key Faq                       | 17/07/2026, 7:35:17 am    | [Link](https://help.twitch.tv/s/article/twitch-stream-key-faq?language=it)                        |
+| Disconnect Protection                       | 17/07/2026, 7:35:12 am    | [Link](https://help.twitch.tv/s/article/Disconnect-Protection?language=it)                        |
 | Managing Subscription Tiers                 | 14/07/2026, 7:44:49 pm    | [Link](https://help.twitch.tv/s/article/managing-subscription-tiers?language=it)                  |
 | Support Subscriptions                       | 14/07/2026, 7:44:48 pm    | [Link](https://help.twitch.tv/s/article/support-subscriptions?language=it)                        |
 | Shared Chat                                 | 14/07/2026, 7:44:45 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=it)                                  |
-| How To Manage Harassment In Chat            | 14/07/2026, 7:44:36 pm    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=it)             |
 | Chat Basics                                 | 14/07/2026, 7:44:34 pm    | [Link](https://help.twitch.tv/s/article/chat-basics?language=it)                                  |
 | How To Subscribe                            | 14/07/2026, 7:44:30 pm    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=it)                             |
 | Why Cant I Chat                             | 14/07/2026, 7:44:29 pm    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=it)                              |
@@ -83,7 +90,6 @@
 | Gif Keyboard                                | 13/07/2026, 9:27:47 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=it)                                 |
 | How To Use Extensions                       | 24/06/2026, 5:42:05 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=it)                        |
 | Hype Train Guide                            | 23/06/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=it)                             |
-| Recover Watch Streaks                       | 19/06/2026, 8:21:30 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=it)                        |
 | Refunds On Twitch                           | 19/06/2026, 8:19:29 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=it)                            |
 | About Discount Gift Subs                    | 19/06/2026, 7:05:15 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=it)                     |
 | Multiple Encodes                            | 18/06/2026, 11:08:33 pm   | [Link](https://help.twitch.tv/s/article/multiple-encodes?language=it)                             |
@@ -107,7 +113,6 @@
 | Gift Card Spend                             | 02/06/2026, 7:23:20 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=it)                              |
 | How To Use Badges                           | 31/05/2026, 3:01:04 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=it)                            |
 | Guide To Custom Messages                    | 31/05/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=it)                     |
-| Twitch Chat Badges Guide                    | 31/05/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=it)                     |
 | Signing Up Logging In Social Accounts       | 31/05/2026, 2:35:27 am    | [Link](https://help.twitch.tv/s/article/signing-up-logging-in-social-accounts?language=it)        |
 | Moderation Analytics                        | 28/05/2026, 4:52:10 am    | [Link](https://help.twitch.tv/s/article/moderation-analytics?language=it)                         |
 | How To Handle View Follow Bots              | 28/05/2026, 4:52:05 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=it)               |
@@ -123,12 +128,6 @@
 | Revenue                                     | 22/05/2026, 5:32:54 pm    | [Link](https://help.twitch.tv/s/article/revenue?language=it)                                      |
 | Power Ups                                   | 20/05/2026, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=it)                                    |
 | Viewer Custom Power Ups Guide               | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=it)                |
-| Twitch Turbo Guide                          | 16/05/2026, 6:14:56 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=it)                           |
-| How To Use Emotes                           | 16/05/2026, 6:01:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=it)                            |
-| Streamer Shouts                             | 14/05/2026, 10:10:09 pm   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=it)                              |
-| Iceland Tax Interview                       | 12/05/2026, 6:47:03 pm    | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=it)                        |
-| Two Factor Authentication                   | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=it)                    |
-| Managing Roles For Your Channel             | 09/05/2026, 4:46:59 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=it)              |
 
 
 
