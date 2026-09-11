@@ -8,7 +8,6 @@
 |----------------------------------|---------------------------|----------------------------------------------------------------------------------------|
 | How To Manage Harassment In Chat | 01/09/2026, 8:04:46 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=da)  |
 | Guide To Tags                    | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=da)                     |
-| How To Appeal Flagged Content    | 29/07/2026, 9:04:39 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=da)     |
 
 
 
