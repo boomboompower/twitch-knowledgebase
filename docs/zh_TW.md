@@ -137,6 +137,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Viewer Custom Power Ups Guide                    | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=zh_TW)                     |
 | Twitch Turbo Guide                               | 16/05/2026, 6:14:56 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=zh_TW)                                |
 | How To Use Emotes                                | 16/05/2026, 6:01:11 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=zh_TW)                                 |
 | Iceland Tax Interview                            | 15/05/2026, 0:56:34 am    | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=zh_TW)                             |
@@ -186,7 +187,6 @@
 | Managing Your Phone Number                       | 10/03/2026, 0:04:56 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)                        |
 | Games Irl And Music Directories                  | 06/03/2026, 9:11:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=zh_TW)                   |
 | Experiments                                      | 06/03/2026, 9:11:11 am    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                       |
-| Broadcasting Guidelines                          | 06/03/2026, 9:10:50 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=zh_TW)                           |
 
 
 

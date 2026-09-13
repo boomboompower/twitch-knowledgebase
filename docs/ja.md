@@ -138,6 +138,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Viewer Custom Power Ups Guide                    | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=ja)                     |
 | Twitch Turbo Guide                               | 16/05/2026, 6:14:56 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=ja)                                |
 | How To Use Emotes                                | 16/05/2026, 6:01:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=ja)                                 |
 | Streamer Shouts                                  | 14/05/2026, 8:19:53 pm    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=ja)                                   |
@@ -185,8 +186,6 @@
 | Using Bits In Extensions                         | 10/03/2026, 10:40:06 am   | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=ja)                          |
 | Earning Revenue From Bits In Extensions          | 10/03/2026, 10:40:03 am   | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=ja)           |
 | Games Irl And Music Directories                  | 06/03/2026, 9:11:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=ja)                   |
-| Experiments                                      | 06/03/2026, 9:11:09 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ja)                                       |
-| Broadcasting Guidelines                          | 06/03/2026, 9:10:50 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=ja)                           |
 
 
 

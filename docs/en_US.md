@@ -131,6 +131,10 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                      |
 |--------------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Viewer Custom Power Ups Guide                    | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=en_US)                     |
+| Enroll Spendable Balance                         | 19/05/2026, 10:41:01 am   | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=en_US)                          |
+| Partner Settings Guide                           | 19/05/2026, 10:40:20 am   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=en_US)                            |
+| Affiliate Settings Guide                         | 19/05/2026, 10:39:38 am   | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=en_US)                          |
 | Twitch Turbo Guide                               | 16/05/2026, 6:14:48 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=en_US)                                |
 | How To Use Emotes                                | 16/05/2026, 6:01:09 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=en_US)                                 |
 | Cheering For Partners Affiliates                 | 16/05/2026, 6:01:03 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=en_US)                  |
@@ -185,8 +189,6 @@
 | Earning Revenue From Bits In Extensions          | 07/03/2026, 0:54:40 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=en_US)           |
 | Using Bits In Extensions                         | 07/03/2026, 0:52:31 pm    | [Link](https://help.twitch.tv/s/article/using-bits-in-extensions?language=en_US)                          |
 | Games Irl And Music Directories                  | 06/03/2026, 9:11:21 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=en_US)                   |
-| Experiments                                      | 06/03/2026, 9:11:09 am    | [Link](https://help.twitch.tv/s/article/experiments?language=en_US)                                       |
-| Broadcasting Guidelines                          | 06/03/2026, 9:10:49 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US)                           |
 
 
 

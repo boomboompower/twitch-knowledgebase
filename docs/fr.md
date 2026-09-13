@@ -143,6 +143,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Viewer Custom Power Ups Guide                    | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=fr)                     |
 | Twitch Turbo Guide                               | 16/05/2026, 6:14:55 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=fr)                                |
 | Streamer Shouts                                  | 14/05/2026, 10:07:33 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=fr)                                   |
 | Iceland Tax Interview                            | 13/05/2026, 7:20:34 am    | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=fr)                             |
@@ -191,8 +192,6 @@
 | Managing Your Phone Number                       | 10/03/2026, 1:41:39 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=fr)                        |
 | New Device And Location Verification             | 10/03/2026, 1:41:06 am    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=fr)              |
 | Games Irl And Music Directories                  | 06/03/2026, 9:11:22 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=fr)                   |
-| Experiments                                      | 06/03/2026, 9:11:10 am    | [Link](https://help.twitch.tv/s/article/experiments?language=fr)                                       |
-| Broadcasting Guidelines                          | 06/03/2026, 9:10:50 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=fr)                           |
 
 
 

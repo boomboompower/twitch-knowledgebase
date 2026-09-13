@@ -138,6 +138,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Viewer Custom Power Ups Guide                    | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=de)                     |
 | Twitch Turbo Guide                               | 16/05/2026, 6:14:55 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=de)                                |
 | How To Use Emotes                                | 16/05/2026, 6:01:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=de)                                 |
 | Streamer Shouts                                  | 14/05/2026, 10:30:24 pm   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=de)                                   |
@@ -188,7 +189,6 @@
 | New Device And Location Verification             | 10/03/2026, 2:27:29 am    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=de)              |
 | Games Irl And Music Directories                  | 06/03/2026, 9:11:21 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=de)                   |
 | Experiments                                      | 06/03/2026, 9:11:10 am    | [Link](https://help.twitch.tv/s/article/experiments?language=de)                                       |
-| Broadcasting Guidelines                          | 06/03/2026, 9:10:49 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=de)                           |
 
 
 

@@ -15,14 +15,14 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Czech                         | 01/09/2026, 8:04:46 am    | 18 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 01/09/2026, 8:04:46 am    | 25 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 01/09/2026, 8:04:46 am    | 31 article(s)  | [View](docs/nl_NL.md)  |
-| English (United States)       | 12/09/2026, 8:51:46 am    | 347 article(s) | [View](docs/en_US.md)  |
+| English (United States)       | 12/09/2026, 8:51:46 am    | 349 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 01/09/2026, 8:04:46 am    | 23 article(s)  | [View](docs/fi.md)     |
-| French                        | 12/09/2026, 8:51:46 am    | 298 article(s) | [View](docs/fr.md)     |
+| French                        | 12/09/2026, 8:51:46 am    | 297 article(s) | [View](docs/fr.md)     |
 | German                        | 12/09/2026, 8:51:46 am    | 300 article(s) | [View](docs/de.md)     |
 | Greek                         | 16/05/2026, 6:14:48 am    | 6 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 01/09/2026, 8:04:46 am    | 17 article(s)  | [View](docs/hu.md)     |
 | Italian                       | 12/09/2026, 8:51:47 am    | 298 article(s) | [View](docs/it.md)     |
-| Japanese                      | 12/09/2026, 8:51:47 am    | 300 article(s) | [View](docs/ja.md)     |
+| Japanese                      | 12/09/2026, 8:51:47 am    | 299 article(s) | [View](docs/ja.md)     |
 | Norwegian                     | 01/09/2026, 8:04:46 am    | 26 article(s)  | [View](docs/no.md)     |
 | Polish                        | 05/09/2026, 6:46:13 am    | 168 article(s) | [View](docs/pl.md)     |
 | Portuguese (Brazil)           | 12/09/2026, 8:51:47 am    | 297 article(s) | [View](docs/pt_BR.md)  |
