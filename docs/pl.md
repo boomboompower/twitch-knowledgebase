@@ -39,6 +39,8 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Partner Onboarding Guide                    | 29/07/2026, 9:19:56 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pl)                     |
+| How To Appeal Flagged Content               | 29/07/2026, 9:04:39 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=pl)                |
 | Rejected Payout Faq                         | 22/07/2026, 8:36:12 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=pl)                          |
 | Tips For Applying To The Partner Program    | 22/07/2026, 8:35:30 am    | [Link](https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=pl)     |
 | Creating An Account With Twitch             | 17/07/2026, 7:41:17 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=pl)              |
@@ -58,7 +60,6 @@
 | How To Handle View Follow Bots              | 28/05/2026, 4:52:05 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=pl)               |
 | When Am I Getting Paid                      | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=pl)                       |
 | Your First Payout Walkthrough               | 27/05/2026, 9:14:26 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=pl)                |
-| Partner Settings Guide                      | 19/05/2026, 10:40:20 am   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=pl)                       |
 
 
 
@@ -100,6 +101,8 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Experiments                                        | 06/03/2026, 9:11:09 am    | [Link](https://help.twitch.tv/s/article/experiments?language=pl)                                         |
+| Broadcasting Guidelines                            | 06/03/2026, 9:10:49 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=pl)                             |
 | How To Provide Feedback                            | 06/03/2026, 9:08:37 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=pl)                             |
 | Contacting Partner Help                            | 06/03/2026, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=pl)                             |
 | How To Use Raids                                   | 06/03/2026, 9:05:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-raids?language=pl)                                    |
@@ -129,7 +132,6 @@
 | Viewer Channel Point Guide                         | 03/10/2025, 6:52:04 am    | [Link](https://help.twitch.tv/s/article/viewer-channel-point-guide?language=pl)                          |
 | Languages On Twitch                                | 15/08/2025, 4:58:08 am    | [Link](https://help.twitch.tv/s/article/languages-on-twitch?language=pl)                                 |
 | Removing Recommendations You Are Not Interested In | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=pl)  |
-| Ads Manager                                        | 31/07/2025, 8:18:21 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=pl)                                         |
 
 
 
@@ -138,6 +140,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Ads Manager                                                   | 31/07/2025, 8:18:21 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=pl)                                                    |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 31/07/2025, 8:14:45 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pl)  |
 | Channel Points Guide                                          | 31/07/2025, 8:09:49 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=pl)                                           |
 | Affiliate Emote Prefix Change                                 | 31/07/2025, 8:07:23 am    | [Link](https://help.twitch.tv/s/article/affiliate-emote-prefix-change?language=pl)                                  |
