@@ -7,7 +7,6 @@
 | Name                             | Last Updated (dd/mm/yyyy) | Link                                                                                      |
 |----------------------------------|---------------------------|-------------------------------------------------------------------------------------------|
 | How To Manage Harassment In Chat | 01/09/2026, 8:04:46 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=nl_NL)  |
-| Guide To Tags                    | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=nl_NL)                     |
 
 
 
