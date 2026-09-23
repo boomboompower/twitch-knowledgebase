@@ -6,8 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| About Discount Gift Subs                                 | 23/09/2026, 6:52:59 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=it)                                  |
+| Gif Keyboard                                             | 22/09/2026, 9:06:09 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=it)                                              |
 | Joining The Affiliate Program                            | 22/09/2026, 4:49:41 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=it)                             |
-| Gif Keyboard                                             | 22/09/2026, 4:32:19 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=it)                                              |
 | Gift Card                                                | 22/09/2026, 4:26:14 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=it)                                                 |
 | Gift Card Spend                                          | 22/09/2026, 4:25:58 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=it)                                           |
 | Gift Card Redeem                                         | 22/09/2026, 4:25:21 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=it)                                          |
@@ -64,7 +65,6 @@
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:57 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=it)                                   |
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:30 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=it)                                  |
 | Mobile Creator Mode                                      | 08/08/2026, 9:20:13 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=it)                                       |
-| Stories                                                  | 08/08/2026, 9:20:05 am    | [Link](https://help.twitch.tv/s/article/stories?language=it)                                                   |
 
 
 

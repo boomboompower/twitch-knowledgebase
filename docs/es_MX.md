@@ -6,8 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| About Discount Gift Subs                                 | 23/09/2026, 6:52:59 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=es_MX)                                  |
+| Gif Keyboard                                             | 23/09/2026, 3:33:38 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=es_MX)                                              |
 | Joining The Affiliate Program                            | 22/09/2026, 4:49:41 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es_MX)                             |
-| Gif Keyboard                                             | 22/09/2026, 4:32:19 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=es_MX)                                              |
 | Gift Card                                                | 22/09/2026, 4:26:14 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=es_MX)                                                 |
 | Gift Card Spend                                          | 22/09/2026, 4:25:58 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=es_MX)                                           |
 | Gift Card Redeem                                         | 22/09/2026, 4:25:21 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=es_MX)                                          |

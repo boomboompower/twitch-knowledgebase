@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| About Discount Gift Subs                                 | 23/09/2026, 6:52:58 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=es)                                  |
 | Joining The Affiliate Program                            | 22/09/2026, 4:49:41 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=es)                             |
 | Gif Keyboard                                             | 22/09/2026, 4:32:19 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=es)                                              |
 | Gift Card                                                | 22/09/2026, 4:26:14 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=es)                                                 |
@@ -63,8 +64,6 @@
 | Brand Sponsorship Measurement                            | 13/08/2026, 10:22:53 pm   | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=es)                             |
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:57 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=es)                                   |
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:30 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=es)                                  |
-| Mobile Creator Mode                                      | 08/08/2026, 9:20:12 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=es)                                       |
-| Stories                                                  | 08/08/2026, 9:20:05 am    | [Link](https://help.twitch.tv/s/article/stories?language=es)                                                   |
 
 
 
