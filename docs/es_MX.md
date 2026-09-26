@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Streamer Shouts                                          | 26/09/2026, 10:40:58 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=es_MX)                                           |
 | Affiliate Or Partner Anniversary Settings                | 25/09/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=es_MX)                 |
 | Subtember 2026 Faq                                       | 25/09/2026, 6:28:19 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=es_MX)                                        |
 | About Discount Gift Subs                                 | 23/09/2026, 6:52:59 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=es_MX)                                  |
@@ -63,7 +64,6 @@
 | Brand Sponsorship Measurement                            | 11/08/2026, 1:07:22 pm    | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=es_MX)                             |
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:57 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=es_MX)                                   |
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:29 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=es_MX)                                  |
-| Mobile Creator Mode                                      | 08/08/2026, 9:20:13 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=es_MX)                                       |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Streamer Shouts                                          | 26/09/2026, 10:40:58 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=de)                                           |
 | Affiliate Or Partner Anniversary Settings                | 25/09/2026, 8:02:05 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=de)                 |
 | Subtember 2026 Faq                                       | 25/09/2026, 6:28:19 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=de)                                        |
 | Gif Keyboard                                             | 23/09/2026, 8:47:28 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=de)                                              |
@@ -64,7 +65,6 @@
 | Dual Format Vertical Video                               | 13/08/2026, 4:24:03 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=de)                                |
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:57 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=de)                                   |
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:30 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=de)                                  |
-| Mobile Creator Mode                                      | 08/08/2026, 9:20:13 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=de)                                       |
 
 
 

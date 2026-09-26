@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Streamer Shouts                                          | 26/09/2026, 10:40:59 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=zh_TW)                                           |
 | Affiliate Or Partner Anniversary Settings                | 25/09/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=zh_TW)                 |
 | Subtember 2026 Faq                                       | 25/09/2026, 6:28:19 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=zh_TW)                                        |
 | Gif Keyboard                                             | 23/09/2026, 8:27:48 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=zh_TW)                                              |
@@ -63,7 +64,6 @@
 | Brand Sponsorship Measurement                            | 13/08/2026, 6:07:59 pm    | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=zh_TW)                             |
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:58 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=zh_TW)                                   |
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:31 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=zh_TW)                                  |
-| Mobile Creator Mode                                      | 08/08/2026, 9:20:14 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=zh_TW)                                       |
 
 
 

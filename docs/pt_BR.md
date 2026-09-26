@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Streamer Shouts                                          | 26/09/2026, 10:40:59 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=pt_BR)                                           |
 | Affiliate Or Partner Anniversary Settings                | 25/09/2026, 8:02:05 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=pt_BR)                 |
 | Subtember 2026 Faq                                       | 25/09/2026, 6:28:19 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=pt_BR)                                        |
 | Gif Keyboard                                             | 23/09/2026, 8:30:12 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=pt_BR)                                              |
@@ -64,7 +65,6 @@
 | Creator Badge Rewards                                    | 13/08/2026, 2:15:49 pm    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=pt_BR)                                     |
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:56 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=pt_BR)                                   |
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:30 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=pt_BR)                                  |
-| Mobile Creator Mode                                      | 08/08/2026, 9:20:14 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=pt_BR)                                       |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Streamer Shouts                                          | 26/09/2026, 10:40:57 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=en_US)                                           |
 | Affiliate Or Partner Anniversary Settings                | 25/09/2026, 8:02:05 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=en_US)                 |
 | Subtember 2026 Faq                                       | 25/09/2026, 6:28:19 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=en_US)                                        |
 | About Discount Gift Subs                                 | 23/09/2026, 6:52:58 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=en_US)                                  |
@@ -61,7 +62,6 @@
 | Dual Format Vertical Video                               | 11/08/2026, 9:59:47 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)                                |
 | Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:56 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=en_US)                                   |
 | Mobile Game Broadcasting                                 | 08/08/2026, 9:20:29 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=en_US)                                  |
-| Mobile Creator Mode                                      | 08/08/2026, 9:20:12 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=en_US)                                       |
 
 
 
