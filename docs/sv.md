@@ -15,6 +15,7 @@
 
 | Name                     | Last Updated (dd/mm/yyyy) | Link                                                                           |
 |--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Guide To Tags            | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=sv)             |
 | Gift Subscriptions       | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=sv)        |
 | Stream Summary           | 10/06/2026, 4:03:05 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=sv)            |
 | Guide To Custom Messages | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=sv)  |

@@ -15,6 +15,7 @@
 
 | Name                            | Last Updated (dd/mm/yyyy) | Link                                                                                     |
 |---------------------------------|---------------------------|------------------------------------------------------------------------------------------|
+| Guide To Tags                   | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=nl_NL)                    |
 | Creating An Account With Twitch | 17/07/2026, 7:41:17 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=nl_NL)  |
 | Partner Program Overview        | 18/06/2026, 3:42:52 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=nl_NL)         |
 | Gift Subscriptions              | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=nl_NL)               |

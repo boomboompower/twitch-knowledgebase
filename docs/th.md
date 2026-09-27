@@ -38,6 +38,8 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Mobile Creator Mode                         | 08/08/2026, 9:20:12 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=th)                          |
+| Guide To Tags                               | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=th)                                |
 | Partner Onboarding Guide                    | 29/07/2026, 9:19:56 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=th)                     |
 | How To Appeal Flagged Content               | 29/07/2026, 9:04:39 am    | [Link](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=th)                |
 | Rejected Payout Faq                         | 22/07/2026, 8:36:12 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=th)                          |
@@ -58,7 +60,6 @@
 | Guide To Custom Messages                    | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=th)                     |
 | How To Handle View Follow Bots              | 28/05/2026, 4:52:05 am    | [Link](https://help.twitch.tv/s/article/how-to-handle-view-follow-bots?language=th)               |
 | When Am I Getting Paid                      | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=th)                       |
-| Your First Payout Walkthrough               | 27/05/2026, 9:14:26 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=th)                |
 
 
 
@@ -67,6 +68,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Your First Payout Walkthrough                    | 27/05/2026, 9:14:26 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=th)                     |
 | Partner Settings Guide                           | 19/05/2026, 10:40:20 am   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=th)                            |
 | Affiliate Settings Guide                         | 19/05/2026, 10:39:38 am   | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=th)                          |
 | Twitch Turbo Guide                               | 16/05/2026, 6:14:48 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=th)                                |
@@ -91,7 +93,6 @@
 | Guide To Closed Captions                         | 12/03/2026, 8:50:08 am    | [Link](https://help.twitch.tv/s/article/guide-to-closed-captions?language=th)                          |
 | Earning Revenue From Bits In Extensions          | 07/03/2026, 0:54:40 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=th)           |
 | Games Irl And Music Directories                  | 06/03/2026, 9:11:21 am    | [Link](https://help.twitch.tv/s/article/games-irl-and-music-directories?language=th)                   |
-| Experiments                                      | 06/03/2026, 9:11:09 am    | [Link](https://help.twitch.tv/s/article/experiments?language=th)                                       |
 
 
 
@@ -100,6 +101,7 @@
 
 | Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                     |
 |----------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------|
+| Experiments                                        | 06/03/2026, 9:11:09 am    | [Link](https://help.twitch.tv/s/article/experiments?language=th)                                         |
 | Broadcasting Guidelines                            | 06/03/2026, 9:10:49 am    | [Link](https://help.twitch.tv/s/article/broadcasting-guidelines?language=th)                             |
 | How To Provide Feedback                            | 06/03/2026, 9:08:37 am    | [Link](https://help.twitch.tv/s/article/how-to-provide-feedback?language=th)                             |
 | Contacting Partner Help                            | 06/03/2026, 9:06:39 am    | [Link](https://help.twitch.tv/s/article/contacting-partner-help?language=th)                             |

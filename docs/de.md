@@ -73,6 +73,10 @@
 
 | Name                                        | Last Updated (dd/mm/yyyy) | Link                                                                                              |
 |---------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Mobile Creator Mode                         | 08/08/2026, 9:20:13 am    | [Link](https://help.twitch.tv/s/article/mobile-creator-mode?language=de)                          |
+| Stories                                     | 08/08/2026, 9:20:04 am    | [Link](https://help.twitch.tv/s/article/stories?language=de)                                      |
+| Dac7 Interview                              | 29/07/2026, 10:21:33 pm   | [Link](https://help.twitch.tv/s/article/dac7-interview?language=de)                               |
+| Guide To Tags                               | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=de)                                |
 | How To Upgrade Prime                        | 29/07/2026, 9:21:12 am    | [Link](https://help.twitch.tv/s/article/how-to-upgrade-prime?language=de)                         |
 | Link Amazon Twitch Accounts                 | 29/07/2026, 9:21:02 am    | [Link](https://help.twitch.tv/s/article/link-amazon-twitch-accounts?language=de)                  |
 | Partner Onboarding Guide                    | 29/07/2026, 9:20:02 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=de)                     |
@@ -92,7 +96,6 @@
 | How To Subscribe                            | 15/07/2026, 6:49:03 pm    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=de)                             |
 | Chat Basics                                 | 15/07/2026, 6:48:57 pm    | [Link](https://help.twitch.tv/s/article/chat-basics?language=de)                                  |
 | Why Cant I Chat                             | 15/07/2026, 6:48:55 pm    | [Link](https://help.twitch.tv/s/article/why-cant-i-chat?language=de)                              |
-| Gif Keyboard                                | 14/07/2026, 6:52:23 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=de)                                 |
 | Twitch Affiliate Program Faq                | 14/07/2026, 3:48:20 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=de)                 |
 | How To Use Extensions                       | 24/06/2026, 7:41:00 pm    | [Link](https://help.twitch.tv/s/article/how-to-use-extensions?language=de)                        |
 | Hype Train Guide                            | 23/06/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=de)                             |
@@ -101,7 +104,6 @@
 | Stream Quality                              | 19/06/2026, 11:16:18 pm   | [Link](https://help.twitch.tv/s/article/stream-quality?language=de)                               |
 | Transcoding Options Faq                     | 19/06/2026, 11:16:13 pm   | [Link](https://help.twitch.tv/s/article/transcoding-options-faq?language=de)                      |
 | Refunds On Twitch                           | 19/06/2026, 8:19:29 am    | [Link](https://help.twitch.tv/s/article/refunds-on-twitch?language=de)                            |
-| About Discount Gift Subs                    | 19/06/2026, 7:05:14 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=de)                     |
 | Guest Star Getting Started                  | 18/06/2026, 9:29:06 am    | [Link](https://help.twitch.tv/s/article/guest-star-getting-started?language=de)                   |
 | Partner Program Overview                    | 18/06/2026, 9:29:00 am    | [Link](https://help.twitch.tv/s/article/partner-program-overview?language=de)                     |
 | Understanding Viewer Count Vs Users In Chat | 16/06/2026, 6:14:26 am    | [Link](https://help.twitch.tv/s/article/understanding-viewer-count-vs-users-in-chat?language=de)  |
@@ -115,7 +117,6 @@
 | Streamer Recap                              | 10/06/2026, 4:03:46 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=de)                               |
 | Stream Summary                              | 10/06/2026, 4:03:07 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=de)                               |
 | Partner Front Page                          | 05/06/2026, 2:09:30 am    | [Link](https://help.twitch.tv/s/article/partner-front-page?language=de)                           |
-| Gift Card Redeem                            | 02/06/2026, 7:23:24 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=de)                             |
 | Guide To Custom Messages                    | 01/06/2026, 9:29:09 pm    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=de)                     |
 | How To Use Badges                           | 31/05/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=de)                            |
 | Signing Up Logging In Social Accounts       | 31/05/2026, 2:35:26 am    | [Link](https://help.twitch.tv/s/article/signing-up-logging-in-social-accounts?language=de)        |
@@ -129,8 +130,6 @@
 | Partner Settings Guide                      | 27/05/2026, 10:07:26 pm   | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=de)                       |
 | Affiliate Settings Guide                    | 27/05/2026, 6:16:05 pm    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=de)                     |
 | When Am I Getting Paid                      | 27/05/2026, 9:14:31 am    | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=de)                       |
-| Your First Payout Walkthrough               | 27/05/2026, 9:14:26 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=de)                |
-| Revenue                                     | 25/05/2026, 4:12:38 am    | [Link](https://help.twitch.tv/s/article/revenue?language=de)                                      |
 
 
 
@@ -139,11 +138,12 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Your First Payout Walkthrough                    | 27/05/2026, 9:14:26 am    | [Link](https://help.twitch.tv/s/article/your-first-payout-walkthrough?language=de)                     |
+| Revenue                                          | 25/05/2026, 4:12:38 am    | [Link](https://help.twitch.tv/s/article/revenue?language=de)                                           |
 | Power Ups                                        | 20/05/2026, 3:09:56 am    | [Link](https://help.twitch.tv/s/article/power-ups?language=de)                                         |
 | Viewer Custom Power Ups Guide                    | 20/05/2026, 3:05:41 am    | [Link](https://help.twitch.tv/s/article/viewer-custom-power-ups-guide?language=de)                     |
 | Twitch Turbo Guide                               | 16/05/2026, 6:14:55 am    | [Link](https://help.twitch.tv/s/article/twitch-turbo-guide?language=de)                                |
 | How To Use Emotes                                | 16/05/2026, 6:01:10 am    | [Link](https://help.twitch.tv/s/article/how-to-use-emotes?language=de)                                 |
-| Streamer Shouts                                  | 14/05/2026, 10:30:24 pm   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=de)                                   |
 | Iceland Tax Interview                            | 13/05/2026, 6:27:04 pm    | [Link](https://help.twitch.tv/s/article/iceland-tax-interview?language=de)                             |
 | Two Factor Authentication                        | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication?language=de)                         |
 | Managing Roles For Your Channel                  | 09/05/2026, 4:46:58 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=de)                   |
@@ -257,6 +257,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Charity Charities                                      | 31/07/2025, 8:18:40 am    | [Link](https://help.twitch.tv/s/article/twitch-charity-charities?language=de)                                       |
 | Ads Manager                                                   | 31/07/2025, 8:18:21 am    | [Link](https://help.twitch.tv/s/article/ads-manager?language=de)                                                    |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 31/07/2025, 8:14:45 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=de)  |
 | Channel Points Guide                                          | 31/07/2025, 8:09:49 am    | [Link](https://help.twitch.tv/s/article/channel-points-guide?language=de)                                           |
@@ -353,20 +354,6 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=de)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
-
-
-
-## Article-weekly
-> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
-
-| Name                          | Last Updated (dd/mm/yyyy) | Link                                                                                |
-|-------------------------------|---------------------------|-------------------------------------------------------------------------------------|
-| Subtember 2026 Faq            | 25/09/2026, 6:28:19 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=de)             |
-| Stream Coach                  | 11/09/2026, 5:27:07 am    | [Link](https://help.twitch.tv/s/article/stream-coach?language=de)                   |
-| Pokemon Chat Badges           | 01/09/2026, 7:17:04 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=de)            |
-| Drops Troubleshooting         | 25/08/2026, 2:32:31 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=de)          |
-| Playstation Broadcasting      | 19/08/2026, 2:58:03 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=de)       |
-| Brand Sponsorship Measurement | 13/08/2026, 9:03:42 pm    | [Link](https://help.twitch.tv/s/article/brand-sponsorship-measurement?language=de)  |
 
 
 
