@@ -4,64 +4,64 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
-|----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Streamer Shouts                                          | 26/09/2026, 10:40:57 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=en_US)                                           |
-| Affiliate Or Partner Anniversary Settings                | 25/09/2026, 8:02:05 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=en_US)                 |
-| Subtember 2026 Faq                                       | 25/09/2026, 6:28:19 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=en_US)                                        |
-| About Discount Gift Subs                                 | 23/09/2026, 6:52:58 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=en_US)                                  |
-| Joining The Affiliate Program                            | 22/09/2026, 4:49:38 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=en_US)                             |
-| Gif Keyboard                                             | 22/09/2026, 4:32:19 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=en_US)                                              |
-| Gift Card                                                | 22/09/2026, 4:26:13 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=en_US)                                                 |
-| Gift Card Spend                                          | 22/09/2026, 4:25:56 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=en_US)                                           |
-| Gift Card Redeem                                         | 22/09/2026, 4:25:20 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=en_US)                                          |
-| Political Onboarding                                     | 19/09/2026, 9:07:24 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=en_US)                                      |
-| Not Receiving Sms                                        | 18/09/2026, 3:15:26 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=en_US)                                         |
-| Achievements                                             | 18/09/2026, 3:14:48 am    | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                                              |
-| Featured Clips                                           | 12/09/2026, 8:51:46 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=en_US)                                            |
-| Stream Coach                                             | 11/09/2026, 5:27:07 am    | [Link](https://help.twitch.tv/s/article/stream-coach?language=en_US)                                              |
-| Twitch Chat Badges Guide                                 | 05/09/2026, 6:46:13 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                                  |
-| Twitch Account Settings                                  | 05/09/2026, 6:44:19 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=en_US)                                   |
-| Video On Demand                                          | 05/09/2026, 6:39:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                           |
-| Auto Clips                                               | 01/09/2026, 9:27:55 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                                                |
-| Costreaming                                              | 01/09/2026, 9:27:50 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=en_US)                                               |
-| Stream Rewind                                            | 01/09/2026, 9:27:43 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=en_US)                                             |
-| Recover Watch Streaks                                    | 01/09/2026, 9:27:30 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=en_US)                                     |
-| Clips Settings                                           | 01/09/2026, 9:27:26 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=en_US)                                            |
-| Dj Opt Out                                               | 01/09/2026, 9:27:17 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=en_US)                                                |
-| Dj Program Faq                                           | 01/09/2026, 9:27:10 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=en_US)                                            |
-| How To Use Automod                                       | 01/09/2026, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=en_US)                                        |
-| Setting Up Moderation For Your Twitch Channel            | 01/09/2026, 8:06:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=en_US)             |
-| How To Manage Harassment In Chat                         | 01/09/2026, 8:04:46 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=en_US)                          |
-| Pokemon Chat Badges                                      | 01/09/2026, 7:17:03 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=en_US)                                       |
-| How To Contact Support                                   | 01/09/2026, 7:15:34 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=en_US)                                    |
-| How To Use Clips                                         | 01/09/2026, 7:14:17 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                          |
-| Mission Based Drops                                      | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                                       |
-| Drops Troubleshooting                                    | 25/08/2026, 2:32:32 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=en_US)                                     |
-| Affiliate Onboarding Guide                               | 22/08/2026, 7:13:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=en_US)                                |
-| Subscriber Badge Guide                                   | 22/08/2026, 6:33:48 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=en_US)                                    |
-| Animated Emotes                                          | 22/08/2026, 6:13:27 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=en_US)                                           |
-| Subscriber Emote Guide                                   | 22/08/2026, 6:13:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=en_US)                                    |
-| Founders Badge                                           | 22/08/2026, 6:13:08 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=en_US)                                            |
-| Custom Bit Badges Guide                                  | 22/08/2026, 6:13:04 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=en_US)                                   |
-| Creator Profile Setup                                    | 21/08/2026, 4:17:05 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=en_US)                                     |
-| Streamer Benefits                                        | 21/08/2026, 4:16:58 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=en_US)                                         |
-| Creator Certification                                    | 21/08/2026, 4:16:41 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=en_US)                                     |
-| Sponsorship Overview                                     | 21/08/2026, 4:16:32 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=en_US)                                      |
-| Third Party Campaigns                                    | 21/08/2026, 4:16:25 am    | [Link](https://help.twitch.tv/s/article/third-party-campaigns?language=en_US)                                     |
-| Playstation Broadcasting                                 | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=en_US)                                  |
-| Date Of Birth Changes                                    | 19/08/2026, 2:50:53 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=en_US)                                     |
-| How To File A User Report                                | 19/08/2026, 2:47:53 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=en_US)                                 |
-| About Account Suspensions Dmca Suspensions And Chat Bans | 19/08/2026, 2:43:12 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=en_US)  |
-| Past Behavior And Account Standing                       | 19/08/2026, 2:42:56 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=en_US)                        |
-| Subscriptions On Mobile                                  | 19/08/2026, 2:41:20 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=en_US)                                   |
-| Local Sub Price Countries                                | 14/08/2026, 10:07:07 am   | [Link](https://help.twitch.tv/s/article/local-sub-price-countries?language=en_US)                                 |
-| About Bans Blocking And Suspensions                      | 13/08/2026, 5:14:16 am    | [Link](https://help.twitch.tv/s/article/about-bans-blocking-and-suspensions?language=en_US)                       |
-| Comments On Clips                                        | 13/08/2026, 5:01:06 am    | [Link](https://help.twitch.tv/s/article/comments-on-clips?language=en_US)                                         |
-| Creator Badge Rewards                                    | 13/08/2026, 4:46:35 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=en_US)                                     |
-| Dual Format Vertical Video                               | 11/08/2026, 9:59:47 am    | [Link](https://help.twitch.tv/s/article/dual-format-vertical-video?language=en_US)                                |
-| Mobile Irl Broadcasting                                  | 08/08/2026, 9:20:56 am    | [Link](https://help.twitch.tv/s/article/mobile-irl-broadcasting?language=en_US)                                   |
-| Mobile Game Broadcasting                                 | 08/08/2026, 9:20:29 am    | [Link](https://help.twitch.tv/s/article/mobile-game-broadcasting?language=en_US)                                  |
+| Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
+|---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Twitch Account Settings                                       | 30/09/2026, 8:17:01 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=en_US)                                        |
+| Twitch Account Access Login Issues Guide                      | 30/09/2026, 8:16:54 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=en_US)                       |
+| Creating An Account With Twitch                               | 30/09/2026, 8:16:48 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=en_US)                                |
+| Managing Your Phone Number                                    | 30/09/2026, 8:16:41 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=en_US)                                     |
+| Payout Details Faq                                            | 30/09/2026, 3:00:39 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=en_US)                                             |
+| Dac7 Interview                                                | 30/09/2026, 3:00:27 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=en_US)                                                 |
+| Partner Settings Guide                                        | 30/09/2026, 3:00:13 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=en_US)                                         |
+| Affiliate Settings Guide                                      | 30/09/2026, 2:59:58 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=en_US)                                       |
+| Joining The Affiliate Program                                 | 30/09/2026, 2:59:31 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=en_US)                                  |
+| Amazon Tax Information Interview And Irs Annual Reporting Faq | 30/09/2026, 2:59:18 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=en_US)  |
+| Streamer Benefits                                             | 30/09/2026, 2:59:01 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=en_US)                                              |
+| Clips Settings                                                | 30/09/2026, 2:57:47 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=en_US)                                                 |
+| Subtember 2026 Faq                                            | 30/09/2026, 2:56:57 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=en_US)                                             |
+| Streamer Shouts                                               | 26/09/2026, 10:40:57 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=en_US)                                                |
+| Affiliate Or Partner Anniversary Settings                     | 25/09/2026, 8:02:05 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=en_US)                      |
+| About Discount Gift Subs                                      | 23/09/2026, 6:52:58 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=en_US)                                       |
+| Gif Keyboard                                                  | 22/09/2026, 4:32:19 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=en_US)                                                   |
+| Gift Card                                                     | 22/09/2026, 4:26:13 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=en_US)                                                      |
+| Gift Card Spend                                               | 22/09/2026, 4:25:56 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=en_US)                                                |
+| Gift Card Redeem                                              | 22/09/2026, 4:25:20 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=en_US)                                               |
+| Political Onboarding                                          | 19/09/2026, 9:07:24 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=en_US)                                           |
+| Not Receiving Sms                                             | 18/09/2026, 3:15:26 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=en_US)                                              |
+| Achievements                                                  | 18/09/2026, 3:14:48 am    | [Link](https://help.twitch.tv/s/article/achievements?language=en_US)                                                   |
+| Featured Clips                                                | 12/09/2026, 8:51:46 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=en_US)                                                 |
+| Stream Coach                                                  | 11/09/2026, 5:27:07 am    | [Link](https://help.twitch.tv/s/article/stream-coach?language=en_US)                                                   |
+| Twitch Chat Badges Guide                                      | 05/09/2026, 6:46:13 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                                       |
+| Video On Demand                                               | 05/09/2026, 6:39:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                                |
+| Auto Clips                                                    | 01/09/2026, 9:27:55 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                                                     |
+| Costreaming                                                   | 01/09/2026, 9:27:50 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=en_US)                                                    |
+| Stream Rewind                                                 | 01/09/2026, 9:27:43 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=en_US)                                                  |
+| Recover Watch Streaks                                         | 01/09/2026, 9:27:30 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=en_US)                                          |
+| Dj Opt Out                                                    | 01/09/2026, 9:27:17 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=en_US)                                                     |
+| Dj Program Faq                                                | 01/09/2026, 9:27:10 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=en_US)                                                 |
+| How To Use Automod                                            | 01/09/2026, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=en_US)                                             |
+| Setting Up Moderation For Your Twitch Channel                 | 01/09/2026, 8:06:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=en_US)                  |
+| How To Manage Harassment In Chat                              | 01/09/2026, 8:04:46 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=en_US)                               |
+| Pokemon Chat Badges                                           | 01/09/2026, 7:17:03 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=en_US)                                            |
+| How To Contact Support                                        | 01/09/2026, 7:15:34 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=en_US)                                         |
+| How To Use Clips                                              | 01/09/2026, 7:14:17 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=en_US)                                               |
+| Mission Based Drops                                           | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=en_US)                                            |
+| Drops Troubleshooting                                         | 25/08/2026, 2:32:32 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=en_US)                                          |
+| Affiliate Onboarding Guide                                    | 22/08/2026, 7:13:18 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=en_US)                                     |
+| Subscriber Badge Guide                                        | 22/08/2026, 6:33:48 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=en_US)                                         |
+| Animated Emotes                                               | 22/08/2026, 6:13:27 am    | [Link](https://help.twitch.tv/s/article/animated-emotes?language=en_US)                                                |
+| Subscriber Emote Guide                                        | 22/08/2026, 6:13:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=en_US)                                         |
+| Founders Badge                                                | 22/08/2026, 6:13:08 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=en_US)                                                 |
+| Custom Bit Badges Guide                                       | 22/08/2026, 6:13:04 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=en_US)                                        |
+| Creator Profile Setup                                         | 21/08/2026, 4:17:05 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=en_US)                                          |
+| Creator Certification                                         | 21/08/2026, 4:16:41 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=en_US)                                          |
+| Sponsorship Overview                                          | 21/08/2026, 4:16:32 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=en_US)                                           |
+| Third Party Campaigns                                         | 21/08/2026, 4:16:25 am    | [Link](https://help.twitch.tv/s/article/third-party-campaigns?language=en_US)                                          |
+| Playstation Broadcasting                                      | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=en_US)                                       |
+| Date Of Birth Changes                                         | 19/08/2026, 2:50:53 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=en_US)                                          |
+| How To File A User Report                                     | 19/08/2026, 2:47:53 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=en_US)                                      |
+| About Account Suspensions Dmca Suspensions And Chat Bans      | 19/08/2026, 2:43:12 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=en_US)       |
+| Past Behavior And Account Standing                            | 19/08/2026, 2:42:56 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=en_US)                             |
 
 
 
@@ -395,6 +395,32 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=en_US)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=en_US)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=en_US)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                               | Last Updated (dd/mm/yyyy) | Link                                                                                        |
+|------------------------------------|---------------------------|---------------------------------------------------------------------------------------------|
+| Streamer Benefits                  | 30/09/2026, 2:59:01 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=en_US)                   |
+| Subtember 2026 Faq                 | 30/09/2026, 2:56:57 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=en_US)                  |
+| Streamer Shouts                    | 26/09/2026, 10:40:57 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=en_US)                     |
+| About Discount Gift Subs           | 23/09/2026, 6:52:58 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=en_US)            |
+| Gif Keyboard                       | 22/09/2026, 4:32:19 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=en_US)                        |
+| Stream Coach                       | 11/09/2026, 5:27:07 am    | [Link](https://help.twitch.tv/s/article/stream-coach?language=en_US)                        |
+| Auto Clips                         | 01/09/2026, 9:27:55 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                          |
+| Costreaming                        | 01/09/2026, 9:27:50 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=en_US)                         |
+| Stream Rewind                      | 01/09/2026, 9:27:43 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=en_US)                       |
+| Recover Watch Streaks              | 01/09/2026, 9:27:30 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=en_US)               |
+| Pokemon Chat Badges                | 01/09/2026, 7:17:03 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=en_US)                 |
+| Drops Troubleshooting              | 25/08/2026, 2:32:32 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=en_US)               |
+| Creator Profile Setup              | 21/08/2026, 4:17:05 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=en_US)               |
+| Creator Certification              | 21/08/2026, 4:16:41 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=en_US)               |
+| Sponsorship Overview               | 21/08/2026, 4:16:32 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=en_US)                |
+| Third Party Campaigns              | 21/08/2026, 4:16:25 am    | [Link](https://help.twitch.tv/s/article/third-party-campaigns?language=en_US)               |
+| Playstation Broadcasting           | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=en_US)            |
+| Past Behavior And Account Standing | 19/08/2026, 2:42:56 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=en_US)  |
 
 
 

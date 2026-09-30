@@ -4,9 +4,11 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                             | Last Updated (dd/mm/yyyy) | Link                                                                                   |
-|----------------------------------|---------------------------|----------------------------------------------------------------------------------------|
-| How To Manage Harassment In Chat | 01/09/2026, 8:04:46 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fi)  |
+| Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
+|---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Creating An Account With Twitch                               | 30/09/2026, 8:16:48 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fi)                                |
+| Amazon Tax Information Interview And Irs Annual Reporting Faq | 30/09/2026, 2:59:18 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=fi)  |
+| How To Manage Harassment In Chat                              | 01/09/2026, 8:04:46 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=fi)                               |
 
 
 
