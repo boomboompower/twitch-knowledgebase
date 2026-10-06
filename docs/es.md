@@ -6,10 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Twitch Account Settings                                       | 30/09/2026, 8:17:01 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es)                                        |
-| Twitch Account Access Login Issues Guide                      | 30/09/2026, 8:16:54 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=es)                       |
-| Creating An Account With Twitch                               | 30/09/2026, 8:16:48 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es)                                |
-| Managing Your Phone Number                                    | 30/09/2026, 8:16:41 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es)                                     |
+| Twitch Account Access Login Issues Guide                      | 06/10/2026, 5:04:54 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=es)                       |
+| Managing Your Phone Number                                    | 06/10/2026, 5:03:43 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es)                                     |
+| Creating An Account With Twitch                               | 06/10/2026, 5:01:39 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=es)                                |
+| Twitch Account Settings                                       | 05/10/2026, 11:56:35 pm   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=es)                                        |
 | Payout Details Faq                                            | 30/09/2026, 3:00:39 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=es)                                             |
 | Dac7 Interview                                                | 30/09/2026, 3:00:30 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=es)                                                 |
 | Partner Settings Guide                                        | 30/09/2026, 3:00:13 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=es)                                         |
@@ -63,7 +63,6 @@
 | Date Of Birth Changes                                         | 19/08/2026, 2:50:54 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                                          |
 | How To File A User Report                                     | 19/08/2026, 2:47:54 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=es)                                      |
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 19/08/2026, 2:43:14 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=es)       |
-| Past Behavior And Account Standing                            | 19/08/2026, 2:43:04 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=es)                             |
 
 
 
@@ -360,6 +359,7 @@
 
 | Name                  | Last Updated (dd/mm/yyyy) | Link                                                                        |
 |-----------------------|---------------------------|-----------------------------------------------------------------------------|
+| Pokemon Chat Badges   | 01/09/2026, 7:17:03 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=es)    |
 | Drops Troubleshooting | 25/08/2026, 2:32:33 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=es)  |
 
 

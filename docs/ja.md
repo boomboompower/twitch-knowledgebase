@@ -6,10 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Twitch Account Settings                                       | 30/09/2026, 8:17:01 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ja)                                        |
-| Twitch Account Access Login Issues Guide                      | 30/09/2026, 8:16:54 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=ja)                       |
-| Creating An Account With Twitch                               | 30/09/2026, 8:16:48 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ja)                                |
-| Managing Your Phone Number                                    | 30/09/2026, 8:16:41 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ja)                                     |
+| Managing Your Phone Number                                    | 05/10/2026, 3:10:31 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ja)                                     |
+| Twitch Account Access Login Issues Guide                      | 05/10/2026, 3:10:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=ja)                       |
+| Twitch Account Settings                                       | 05/10/2026, 3:10:23 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=ja)                                        |
+| Creating An Account With Twitch                               | 05/10/2026, 3:10:21 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=ja)                                |
 | Payout Details Faq                                            | 30/09/2026, 3:00:40 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=ja)                                             |
 | Dac7 Interview                                                | 30/09/2026, 3:00:31 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=ja)                                                 |
 | Partner Settings Guide                                        | 30/09/2026, 3:00:14 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=ja)                                         |
@@ -61,7 +61,6 @@
 | Date Of Birth Changes                                         | 19/08/2026, 2:50:54 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=ja)                                          |
 | How To File A User Report                                     | 19/08/2026, 2:47:53 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=ja)                                      |
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 19/08/2026, 2:43:12 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=ja)       |
-| Past Behavior And Account Standing                            | 19/08/2026, 2:42:56 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=ja)                             |
 
 
 
@@ -352,6 +351,15 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=ja)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=ja)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:58 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=ja)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                  | Last Updated (dd/mm/yyyy) | Link                                                                        |
+|-----------------------|---------------------------|-----------------------------------------------------------------------------|
+| Drops Troubleshooting | 25/08/2026, 2:32:33 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=ja)  |
 
 
 

@@ -361,6 +361,7 @@
 
 | Name                  | Last Updated (dd/mm/yyyy) | Link                                                                        |
 |-----------------------|---------------------------|-----------------------------------------------------------------------------|
+| Pokemon Chat Badges   | 01/09/2026, 7:17:04 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=de)    |
 | Drops Troubleshooting | 25/08/2026, 2:32:31 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=de)  |
 
 

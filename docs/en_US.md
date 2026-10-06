@@ -61,7 +61,6 @@
 | Date Of Birth Changes                                         | 19/08/2026, 2:50:53 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=en_US)                                          |
 | How To File A User Report                                     | 19/08/2026, 2:47:53 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=en_US)                                      |
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 19/08/2026, 2:43:12 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=en_US)       |
-| Past Behavior And Account Standing                            | 19/08/2026, 2:42:56 am    | [Link](https://help.twitch.tv/s/article/past-behavior-and-account-standing?language=en_US)                             |
 
 
 
@@ -403,6 +402,7 @@
 
 | Name                  | Last Updated (dd/mm/yyyy) | Link                                                                           |
 |-----------------------|---------------------------|--------------------------------------------------------------------------------|
+| Pokemon Chat Badges   | 01/09/2026, 7:17:03 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=en_US)    |
 | Drops Troubleshooting | 25/08/2026, 2:32:32 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=en_US)  |
 
 
