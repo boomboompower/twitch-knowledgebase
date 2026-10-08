@@ -11,14 +11,14 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 |-------------------------------|---------------------------|----------------|------------------------|
 | Bulgarian                     | 02/05/2026, 2:03:26 am    | 2 article(s)   | [View](docs/bg.md)     |
 | Chinese (Simplified, China)   | 30/09/2026, 2:59:18 am    | 6 article(s)   | [View](docs/zh_CN.md)  |
-| Chinese (Traditional, Taiwan) | 07/10/2026, 9:22:30 am    | 302 article(s) | [View](docs/zh_TW.md)  |
+| Chinese (Traditional, Taiwan) | 07/10/2026, 10:51:39 pm   | 302 article(s) | [View](docs/zh_TW.md)  |
 | Czech                         | 30/09/2026, 2:59:18 am    | 18 article(s)  | [View](docs/cs.md)     |
 | Danish                        | 30/09/2026, 8:16:48 am    | 25 article(s)  | [View](docs/da.md)     |
 | Dutch (Netherlands)           | 30/09/2026, 8:16:48 am    | 31 article(s)  | [View](docs/nl_NL.md)  |
 | English (United States)       | 07/10/2026, 9:22:30 am    | 355 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 30/09/2026, 8:16:48 am    | 23 article(s)  | [View](docs/fi.md)     |
 | French                        | 07/10/2026, 9:22:30 am    | 306 article(s) | [View](docs/fr.md)     |
-| German                        | 07/10/2026, 9:22:30 am    | 305 article(s) | [View](docs/de.md)     |
+| German                        | 07/10/2026, 11:51:11 pm   | 305 article(s) | [View](docs/de.md)     |
 | Greek                         | 16/05/2026, 6:14:48 am    | 6 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 30/09/2026, 2:59:18 am    | 17 article(s)  | [View](docs/hu.md)     |
 | Italian                       | 07/10/2026, 9:22:33 am    | 303 article(s) | [View](docs/it.md)     |
@@ -30,7 +30,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Romanian                      | 02/05/2026, 2:03:26 am    | 2 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 07/10/2026, 9:22:30 am    | 171 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 02/05/2026, 2:03:26 am    | 2 article(s)   | [View](docs/sk.md)     |
-| Spanish                       | 07/10/2026, 9:22:30 am    | 306 article(s) | [View](docs/es.md)     |
+| Spanish                       | 07/10/2026, 9:24:55 pm    | 306 article(s) | [View](docs/es.md)     |
 | Spanish (Mexico)              | 07/10/2026, 9:22:30 am    | 302 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 30/09/2026, 2:59:18 am    | 22 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 07/10/2026, 9:22:30 am    | 165 article(s) | [View](docs/th.md)     |

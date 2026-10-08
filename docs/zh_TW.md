@@ -6,9 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Affiliate Onboarding Guide                                    | 07/10/2026, 9:22:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                                     |
-| Partner Onboarding Guide                                      | 07/10/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=zh_TW)                                       |
-| Date Of Birth Changes                                         | 07/10/2026, 9:22:01 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                                          |
+| Date Of Birth Changes                                         | 07/10/2026, 10:51:39 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                                          |
+| Affiliate Onboarding Guide                                    | 07/10/2026, 10:51:35 pm   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                                     |
+| Partner Onboarding Guide                                      | 07/10/2026, 10:51:34 pm   | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=zh_TW)                                       |
 | Enroll Spendable Balance                                      | 07/10/2026, 9:21:05 am    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=zh_TW)                                       |
 | Managing Your Phone Number                                    | 05/10/2026, 10:47:51 pm   | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=zh_TW)                                     |
 | Twitch Account Settings                                       | 05/10/2026, 10:47:40 pm   | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=zh_TW)                                        |

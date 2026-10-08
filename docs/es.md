@@ -6,9 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Affiliate Onboarding Guide                                    | 07/10/2026, 9:22:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es)                                     |
-| Partner Onboarding Guide                                      | 07/10/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                                       |
-| Date Of Birth Changes                                         | 07/10/2026, 9:22:01 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                                          |
+| Date Of Birth Changes                                         | 07/10/2026, 9:24:55 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                                          |
+| Partner Onboarding Guide                                      | 07/10/2026, 9:24:55 pm    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es)                                       |
+| Affiliate Onboarding Guide                                    | 07/10/2026, 9:24:50 pm    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es)                                     |
 | Enroll Spendable Balance                                      | 07/10/2026, 9:21:05 am    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=es)                                       |
 | Twitch Account Access Login Issues Guide                      | 06/10/2026, 5:04:54 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=es)                       |
 | Managing Your Phone Number                                    | 06/10/2026, 5:03:43 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=es)                                     |
