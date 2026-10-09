@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                                  | 09/10/2026, 4:52:24 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=fr)                                   |
 | Affiliate Onboarding Guide                                    | 07/10/2026, 9:22:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=fr)                                     |
 | Partner Onboarding Guide                                      | 07/10/2026, 9:22:23 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=fr)                                       |
 | Date Of Birth Changes                                         | 07/10/2026, 9:22:02 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=fr)                                          |
@@ -62,7 +63,6 @@
 | Custom Bit Badges Guide                                       | 22/08/2026, 6:13:05 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=fr)                                        |
 | Playstation Broadcasting                                      | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=fr)                                       |
 | How To File A User Report                                     | 19/08/2026, 2:47:54 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=fr)                                      |
-| About Account Suspensions Dmca Suspensions And Chat Bans      | 19/08/2026, 2:43:14 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=fr)       |
 
 
 

@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                                  | 09/10/2026, 4:52:21 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)                                   |
 | Affiliate Onboarding Guide                                    | 07/10/2026, 9:22:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=en_US)                                     |
 | Partner Onboarding Guide                                      | 07/10/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=en_US)                                       |
 | Date Of Birth Changes                                         | 07/10/2026, 9:22:01 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=en_US)                                          |

@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Twitch Affiliate Program Faq                                  | 09/10/2026, 4:52:21 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=tr)                                   |
 | Affiliate Onboarding Guide                                    | 07/10/2026, 9:22:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=tr)                                     |
 | Partner Onboarding Guide                                      | 07/10/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=tr)                                       |
 | Date Of Birth Changes                                         | 07/10/2026, 9:22:01 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=tr)                                          |
@@ -30,7 +31,6 @@
 | Subscriber Emote Guide                                        | 22/08/2026, 6:13:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=tr)                                         |
 | Founders Badge                                                | 22/08/2026, 6:13:08 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=tr)                                                 |
 | Custom Bit Badges Guide                                       | 22/08/2026, 6:13:04 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=tr)                                        |
-| How To File A User Report                                     | 19/08/2026, 2:47:53 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=tr)                                      |
 
 
 
