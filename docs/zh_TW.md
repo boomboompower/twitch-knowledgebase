@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Mobile App Troubleshooting                                    | 10/10/2026, 4:02:44 am    | [Link](https://help.twitch.tv/s/article/mobile-app-troubleshooting?language=zh_TW)                                     |
+| Hype Train Guide                                              | 10/10/2026, 3:59:16 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=zh_TW)                                               |
+| About Discount Gift Subs                                      | 10/10/2026, 3:57:38 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=zh_TW)                                       |
 | Twitch Affiliate Program Faq                                  | 09/10/2026, 4:52:25 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=zh_TW)                                   |
 | Date Of Birth Changes                                         | 07/10/2026, 10:51:39 pm   | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                                          |
 | Affiliate Onboarding Guide                                    | 07/10/2026, 10:51:35 pm   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=zh_TW)                                     |
@@ -27,7 +30,6 @@
 | Streamer Shouts                                               | 26/09/2026, 10:40:59 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=zh_TW)                                                |
 | Affiliate Or Partner Anniversary Settings                     | 25/09/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=zh_TW)                      |
 | Gif Keyboard                                                  | 23/09/2026, 8:27:48 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=zh_TW)                                                   |
-| About Discount Gift Subs                                      | 23/09/2026, 6:53:00 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=zh_TW)                                       |
 | Gift Card                                                     | 22/09/2026, 4:26:13 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=zh_TW)                                                      |
 | Gift Card Spend                                               | 22/09/2026, 4:25:58 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=zh_TW)                                                |
 | Gift Card Redeem                                              | 22/09/2026, 4:25:22 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=zh_TW)                                               |
@@ -60,8 +62,6 @@
 | Subscriber Emote Guide                                        | 22/08/2026, 6:13:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=zh_TW)                                         |
 | Founders Badge                                                | 22/08/2026, 6:13:11 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=zh_TW)                                                 |
 | Custom Bit Badges Guide                                       | 22/08/2026, 6:13:05 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=zh_TW)                                        |
-| Playstation Broadcasting                                      | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=zh_TW)                                       |
-| How To File A User Report                                     | 19/08/2026, 2:47:55 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=zh_TW)                                      |
 
 
 
@@ -358,12 +358,13 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Subtember 2026 Faq       | 30/09/2026, 2:56:57 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=zh_TW)        |
-| Stream Coach             | 11/09/2026, 5:27:08 am    | [Link](https://help.twitch.tv/s/article/stream-coach?language=zh_TW)              |
-| Pokemon Chat Badges      | 01/09/2026, 7:17:04 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=zh_TW)       |
-| Playstation Broadcasting | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=zh_TW)  |
+| Name                       | Last Updated (dd/mm/yyyy) | Link                                                                                |
+|----------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Mobile App Troubleshooting | 10/10/2026, 4:02:44 am    | [Link](https://help.twitch.tv/s/article/mobile-app-troubleshooting?language=zh_TW)  |
+| Subtember 2026 Faq         | 30/09/2026, 2:56:57 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=zh_TW)          |
+| Stream Coach               | 11/09/2026, 5:27:08 am    | [Link](https://help.twitch.tv/s/article/stream-coach?language=zh_TW)                |
+| Pokemon Chat Badges        | 01/09/2026, 7:17:04 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=zh_TW)         |
+| Playstation Broadcasting   | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=zh_TW)    |
 
 
 

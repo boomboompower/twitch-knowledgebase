@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Hype Train Guide                                              | 10/10/2026, 4:42:36 am    | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=es_MX)                                               |
+| Mobile App Troubleshooting                                    | 10/10/2026, 4:02:43 am    | [Link](https://help.twitch.tv/s/article/mobile-app-troubleshooting?language=es_MX)                                     |
+| About Discount Gift Subs                                      | 10/10/2026, 3:57:37 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=es_MX)                                       |
 | Twitch Affiliate Program Faq                                  | 09/10/2026, 4:52:24 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                                   |
 | Affiliate Onboarding Guide                                    | 07/10/2026, 9:22:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=es_MX)                                     |
 | Partner Onboarding Guide                                      | 07/10/2026, 9:22:23 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=es_MX)                                       |
@@ -26,7 +29,6 @@
 | Subtember 2026 Faq                                            | 30/09/2026, 2:56:57 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=es_MX)                                             |
 | Streamer Shouts                                               | 26/09/2026, 10:40:58 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=es_MX)                                                |
 | Affiliate Or Partner Anniversary Settings                     | 25/09/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=es_MX)                      |
-| About Discount Gift Subs                                      | 23/09/2026, 6:52:59 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=es_MX)                                       |
 | Gif Keyboard                                                  | 23/09/2026, 3:33:38 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=es_MX)                                                   |
 | Gift Card                                                     | 22/09/2026, 4:26:14 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=es_MX)                                                      |
 | Gift Card Spend                                               | 22/09/2026, 4:25:58 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=es_MX)                                                |
@@ -60,8 +62,6 @@
 | Subscriber Emote Guide                                        | 22/08/2026, 6:13:15 am    | [Link](https://help.twitch.tv/s/article/subscriber-emote-guide?language=es_MX)                                         |
 | Founders Badge                                                | 22/08/2026, 6:13:10 am    | [Link](https://help.twitch.tv/s/article/founders-badge?language=es_MX)                                                 |
 | Custom Bit Badges Guide                                       | 22/08/2026, 6:13:05 am    | [Link](https://help.twitch.tv/s/article/custom-bit-badges-guide?language=es_MX)                                        |
-| Playstation Broadcasting                                      | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=es_MX)                                       |
-| How To File A User Report                                     | 19/08/2026, 2:47:54 am    | [Link](https://help.twitch.tv/s/article/how-to-file-a-user-report?language=es_MX)                                      |
 
 
 
@@ -357,13 +357,14 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                     | Last Updated (dd/mm/yyyy) | Link                                                                              |
-|--------------------------|---------------------------|-----------------------------------------------------------------------------------|
-| Subtember 2026 Faq       | 30/09/2026, 2:56:57 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=es_MX)        |
-| Gif Keyboard             | 23/09/2026, 3:33:38 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=es_MX)              |
-| Stream Coach             | 11/09/2026, 5:27:07 am    | [Link](https://help.twitch.tv/s/article/stream-coach?language=es_MX)              |
-| Pokemon Chat Badges      | 01/09/2026, 7:17:04 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=es_MX)       |
-| Playstation Broadcasting | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=es_MX)  |
+| Name                       | Last Updated (dd/mm/yyyy) | Link                                                                                |
+|----------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Mobile App Troubleshooting | 10/10/2026, 4:02:43 am    | [Link](https://help.twitch.tv/s/article/mobile-app-troubleshooting?language=es_MX)  |
+| Subtember 2026 Faq         | 30/09/2026, 2:56:57 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=es_MX)          |
+| Gif Keyboard               | 23/09/2026, 3:33:38 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=es_MX)                |
+| Stream Coach               | 11/09/2026, 5:27:07 am    | [Link](https://help.twitch.tv/s/article/stream-coach?language=es_MX)                |
+| Pokemon Chat Badges        | 01/09/2026, 7:17:04 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=es_MX)         |
+| Playstation Broadcasting   | 19/08/2026, 2:58:04 am    | [Link](https://help.twitch.tv/s/article/playstation-broadcasting?language=es_MX)    |
 
 
 
