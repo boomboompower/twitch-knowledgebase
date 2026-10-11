@@ -38,19 +38,18 @@
 | Twitch Prime Partner Guide                       | 10/04/2026, 6:28:16 am    | [Link](https://help.twitch.tv/s/article/twitch-prime-partner-guide?language=nl_NL)                        |
 | Updating Payment Information Transaction History | 03/04/2026, 10:55:11 am   | [Link](https://help.twitch.tv/s/article/updating-payment-information-transaction-history?language=nl_NL)  |
 | How To Use Host Mode                             | 24/03/2026, 11:48:05 am   | [Link](https://help.twitch.tv/s/article/how-to-use-host-mode?language=nl_NL)                              |
-| Earning Revenue From Bits In Extensions Beta     | 07/03/2026, 0:54:40 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=nl_NL)      |
 
 
 
 ## Article-4
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-4.xml) this sitemap
 
-| Name                                               | Last Updated (dd/mm/yyyy) | Link                                                                                                        |
-|----------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------|
-| Authy Faq                                          | 21/02/2026, 0:32:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=nl_NL)                                           |
-| Twitch Teams                                       | 18/02/2026, 9:11:13 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=nl_NL)                                        |
-| Twitch Merchandise Store Support Faq               | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=nl_NL)                |
-| Removing Recommendations You Are Not Interested In | 07/08/2025, 4:43:10 am    | [Link](https://help.twitch.tv/s/article/Removing-recommendations-you-are-not-interested-in?language=nl_NL)  |
+| Name                                         | Last Updated (dd/mm/yyyy) | Link                                                                                                  |
+|----------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------|
+| Earning Revenue From Bits In Extensions Beta | 07/03/2026, 0:54:40 pm    | [Link](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions-beta?language=nl_NL)  |
+| Authy Faq                                    | 21/02/2026, 0:32:13 pm    | [Link](https://help.twitch.tv/s/article/authy-faq?language=nl_NL)                                     |
+| Twitch Teams                                 | 18/02/2026, 9:11:13 am    | [Link](https://help.twitch.tv/s/article/twitch-teams?language=nl_NL)                                  |
+| Twitch Merchandise Store Support Faq         | 29/10/2025, 9:14:46 am    | [Link](https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq?language=nl_NL)          |
 
 
 
