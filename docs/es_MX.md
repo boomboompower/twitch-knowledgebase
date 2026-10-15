@@ -6,10 +6,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
-| When Am I Getting Paid                                        | 14/10/2026, 10:12:32 am   | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=es_MX)                                         |
-| Rejected Payout Faq                                           | 14/10/2026, 10:11:51 am   | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=es_MX)                                            |
-| Playback Issue Troubleshooting                                | 14/10/2026, 10:10:28 am   | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=es_MX)                                 |
-| New Device And Location Verification                          | 14/10/2026, 10:09:27 am   | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es_MX)                           |
+| When Am I Getting Paid                                        | 15/10/2026, 11:18:52 am   | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=es_MX)                                         |
+| Sponsorship Overview                                          | 15/10/2026, 9:40:46 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es_MX)                                           |
+| New Device And Location Verification                          | 15/10/2026, 4:09:34 am    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es_MX)                           |
+| Rejected Payout Faq                                           | 15/10/2026, 4:08:27 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=es_MX)                                            |
+| Playback Issue Troubleshooting                                | 15/10/2026, 4:08:07 am    | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=es_MX)                                 |
 | Shared Viewership                                             | 14/10/2026, 6:41:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=es_MX)                                              |
 | Costreaming                                                   | 14/10/2026, 6:41:49 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=es_MX)                                                    |
 | Twitch Affiliate Program Faq                                  | 14/10/2026, 6:41:25 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=es_MX)                                   |
@@ -60,9 +61,7 @@
 | Streamelements Campaigns                                      | 25/08/2026, 10:13:33 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=es_MX)                                       |
 | Creator Certification                                         | 25/08/2026, 10:13:31 pm   | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)                                          |
 | Creator Profile Setup                                         | 25/08/2026, 10:13:23 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es_MX)                                          |
-| Sponsorship Overview                                          | 25/08/2026, 10:13:22 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es_MX)                                           |
 | Mission Based Drops                                           | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                                            |
-| Subscriber Badge Guide                                        | 22/08/2026, 6:33:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es_MX)                                         |
 
 
 
