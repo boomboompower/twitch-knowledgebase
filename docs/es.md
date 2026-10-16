@@ -62,6 +62,8 @@
 | Creator Certification                                         | 25/08/2026, 9:17:04 pm    | [Link](https://help.twitch.tv/s/article/creator-certification?language=es)                                          |
 | Creator Profile Setup                                         | 25/08/2026, 9:16:54 pm    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es)                                          |
 | Mission Based Drops                                           | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es)                                            |
+| Drops Troubleshooting                                         | 25/08/2026, 2:32:33 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=es)                                          |
+| Subscriber Badge Guide                                        | 22/08/2026, 6:33:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es)                                         |
 
 
 

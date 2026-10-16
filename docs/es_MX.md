@@ -6,8 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Sponsorship Overview                                          | 16/10/2026, 9:47:47 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es_MX)                                           |
 | When Am I Getting Paid                                        | 15/10/2026, 11:18:52 am   | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=es_MX)                                         |
-| Sponsorship Overview                                          | 15/10/2026, 9:40:46 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es_MX)                                           |
 | New Device And Location Verification                          | 15/10/2026, 4:09:34 am    | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=es_MX)                           |
 | Rejected Payout Faq                                           | 15/10/2026, 4:08:27 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=es_MX)                                            |
 | Playback Issue Troubleshooting                                | 15/10/2026, 4:08:07 am    | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=es_MX)                                 |
@@ -62,6 +62,7 @@
 | Creator Certification                                         | 25/08/2026, 10:13:31 pm   | [Link](https://help.twitch.tv/s/article/creator-certification?language=es_MX)                                          |
 | Creator Profile Setup                                         | 25/08/2026, 10:13:23 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=es_MX)                                          |
 | Mission Based Drops                                           | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                                            |
+| Subscriber Badge Guide                                        | 22/08/2026, 6:33:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es_MX)                                         |
 
 
 

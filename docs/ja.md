@@ -62,6 +62,8 @@
 | Creator Certification                                         | 25/08/2026, 10:22:37 am   | [Link](https://help.twitch.tv/s/article/creator-certification?language=ja)                                          |
 | Streamelements Campaigns                                      | 25/08/2026, 10:22:34 am   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=ja)                                       |
 | Mission Based Drops                                           | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ja)                                            |
+| Drops Troubleshooting                                         | 25/08/2026, 2:32:33 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=ja)                                          |
+| Subscriber Badge Guide                                        | 22/08/2026, 6:33:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ja)                                         |
 
 
 

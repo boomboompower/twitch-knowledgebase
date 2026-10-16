@@ -59,6 +59,11 @@
 | How To Contact Support                                        | 01/09/2026, 7:15:35 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=pt_BR)                                         |
 | How To Use Clips                                              | 01/09/2026, 7:14:19 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pt_BR)                                               |
 | Mission Based Drops                                           | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pt_BR)                                            |
+| Drops Troubleshooting                                         | 25/08/2026, 2:32:33 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=pt_BR)                                          |
+| Streamelements Campaigns                                      | 24/08/2026, 8:22:59 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=pt_BR)                                       |
+| Creator Profile Setup                                         | 24/08/2026, 7:15:12 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=pt_BR)                                          |
+| Creator Certification                                         | 24/08/2026, 7:15:07 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=pt_BR)                                          |
+| Subscriber Badge Guide                                        | 22/08/2026, 6:33:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=pt_BR)                                         |
 
 
 

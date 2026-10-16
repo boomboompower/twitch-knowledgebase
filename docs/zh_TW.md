@@ -60,6 +60,9 @@
 | How To Contact Support                                        | 01/09/2026, 7:15:35 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=zh_TW)                                         |
 | Creator Profile Setup                                         | 25/08/2026, 5:53:57 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=zh_TW)                                          |
 | Streamelements Campaigns                                      | 25/08/2026, 5:53:54 am    | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=zh_TW)                                       |
+| Mission Based Drops                                           | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=zh_TW)                                            |
+| Creator Certification                                         | 24/08/2026, 6:14:31 pm    | [Link](https://help.twitch.tv/s/article/creator-certification?language=zh_TW)                                          |
+| Subscriber Badge Guide                                        | 22/08/2026, 6:33:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=zh_TW)                                         |
 
 
 

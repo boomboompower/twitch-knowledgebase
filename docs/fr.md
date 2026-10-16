@@ -6,8 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Sponsorship Overview                                          | 15/10/2026, 11:14:59 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=fr)                                           |
 | When Am I Getting Paid                                        | 15/10/2026, 11:18:49 am   | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=fr)                                         |
-| Sponsorship Overview                                          | 15/10/2026, 9:40:46 am    | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=fr)                                           |
 | Rejected Payout Faq                                           | 15/10/2026, 4:08:21 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=fr)                                            |
 | Playback Issue Troubleshooting                                | 15/10/2026, 4:08:00 am    | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=fr)                                 |
 | New Device And Location Verification                          | 14/10/2026, 10:09:27 am   | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=fr)                           |
@@ -62,6 +62,8 @@
 | Creator Profile Setup                                         | 26/08/2026, 2:13:22 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=fr)                                          |
 | Streamelements Campaigns                                      | 25/08/2026, 10:09:42 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=fr)                                       |
 | Mission Based Drops                                           | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=fr)                                            |
+| Drops Troubleshooting                                         | 25/08/2026, 2:32:33 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=fr)                                          |
+| Subscriber Badge Guide                                        | 22/08/2026, 6:33:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=fr)                                         |
 
 
 

@@ -62,6 +62,8 @@
 | Creator Profile Setup                                         | 25/08/2026, 10:35:02 pm   | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=de)                                          |
 | Streamelements Campaigns                                      | 25/08/2026, 10:34:52 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=de)                                       |
 | Mission Based Drops                                           | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=de)                                            |
+| Drops Troubleshooting                                         | 25/08/2026, 2:32:31 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=de)                                          |
+| Subscriber Badge Guide                                        | 22/08/2026, 6:33:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=de)                                         |
 
 
 
