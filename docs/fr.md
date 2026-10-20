@@ -6,15 +6,19 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Payout History Dashboard Guide                                | 20/10/2026, 6:33:35 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=fr)                                 |
+| Dac7 Interview                                                | 20/10/2026, 6:33:27 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=fr)                                                 |
+| Enroll Spendable Balance                                      | 20/10/2026, 6:33:20 am    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=fr)                                       |
+| Payout Details Faq                                            | 20/10/2026, 6:33:16 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=fr)                                             |
+| New Device And Location Verification                          | 19/10/2026, 10:23:29 pm   | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=fr)                           |
+| When Am I Getting Paid                                        | 19/10/2026, 10:23:28 pm   | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=fr)                                         |
 | How To Contact Support                                        | 17/10/2026, 10:27:31 am   | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=fr)                                         |
 | Pokemon Chat Badges                                           | 17/10/2026, 5:14:53 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=fr)                                            |
 | Drops Troubleshooting                                         | 17/10/2026, 5:14:42 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=fr)                                          |
 | How To Use Badges                                             | 17/10/2026, 3:19:41 am    | [Link](https://help.twitch.tv/s/article/how-to-use-badges?language=fr)                                              |
 | Sponsorship Overview                                          | 15/10/2026, 11:14:59 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=fr)                                           |
-| When Am I Getting Paid                                        | 15/10/2026, 11:18:49 am   | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=fr)                                         |
 | Rejected Payout Faq                                           | 15/10/2026, 4:08:21 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=fr)                                            |
 | Playback Issue Troubleshooting                                | 15/10/2026, 4:08:00 am    | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=fr)                                 |
-| New Device And Location Verification                          | 14/10/2026, 10:09:27 am   | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=fr)                           |
 | Shared Viewership                                             | 14/10/2026, 6:41:54 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=fr)                                              |
 | Costreaming                                                   | 14/10/2026, 6:41:49 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=fr)                                                    |
 | Twitch Affiliate Program Faq                                  | 14/10/2026, 6:41:25 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=fr)                                   |
@@ -24,13 +28,10 @@
 | Affiliate Onboarding Guide                                    | 07/10/2026, 9:22:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=fr)                                     |
 | Partner Onboarding Guide                                      | 07/10/2026, 9:22:23 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=fr)                                       |
 | Date Of Birth Changes                                         | 07/10/2026, 9:22:02 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=fr)                                          |
-| Enroll Spendable Balance                                      | 07/10/2026, 9:21:04 am    | [Link](https://help.twitch.tv/s/article/enroll-spendable-balance?language=fr)                                       |
 | Creating An Account With Twitch                               | 01/10/2026, 6:14:04 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fr)                                |
 | Twitch Account Access Login Issues Guide                      | 01/10/2026, 6:13:58 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=fr)                       |
 | Managing Your Phone Number                                    | 01/10/2026, 6:13:55 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=fr)                                     |
 | Twitch Account Settings                                       | 01/10/2026, 6:13:54 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=fr)                                        |
-| Payout Details Faq                                            | 30/09/2026, 3:00:40 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=fr)                                             |
-| Dac7 Interview                                                | 30/09/2026, 3:00:30 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=fr)                                                 |
 | Partner Settings Guide                                        | 30/09/2026, 3:00:14 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=fr)                                         |
 | Affiliate Settings Guide                                      | 30/09/2026, 2:59:59 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=fr)                                       |
 | Joining The Affiliate Program                                 | 30/09/2026, 2:59:43 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=fr)                                  |
@@ -63,7 +64,6 @@
 | Creator Certification                                         | 26/08/2026, 2:13:27 am    | [Link](https://help.twitch.tv/s/article/creator-certification?language=fr)                                          |
 | Creator Profile Setup                                         | 26/08/2026, 2:13:22 am    | [Link](https://help.twitch.tv/s/article/creator-profile-setup?language=fr)                                          |
 | Streamelements Campaigns                                      | 25/08/2026, 10:09:42 pm   | [Link](https://help.twitch.tv/s/article/streamelements-campaigns?language=fr)                                       |
-| Mission Based Drops                                           | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=fr)                                            |
 
 
 
@@ -356,6 +356,20 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=fr)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=fr)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=fr)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                       | Last Updated (dd/mm/yyyy) | Link                                                                             |
+|----------------------------|---------------------------|----------------------------------------------------------------------------------|
+| Pokemon Chat Badges        | 17/10/2026, 5:14:53 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=fr)         |
+| Drops Troubleshooting      | 17/10/2026, 5:14:42 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=fr)       |
+| Mobile App Troubleshooting | 10/10/2026, 4:02:43 am    | [Link](https://help.twitch.tv/s/article/mobile-app-troubleshooting?language=fr)  |
+| Subtember 2026 Faq         | 30/09/2026, 2:56:58 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=fr)          |
+| Gif Keyboard               | 22/09/2026, 7:33:59 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=fr)                |
+| Stream Coach               | 11/09/2026, 5:27:08 am    | [Link](https://help.twitch.tv/s/article/stream-coach?language=fr)                |
 
 
 

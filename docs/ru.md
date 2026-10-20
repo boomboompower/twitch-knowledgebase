@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Payout History Dashboard Guide                                | 20/10/2026, 6:33:33 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=ru)                                 |
 | When Am I Getting Paid                                        | 14/10/2026, 10:12:32 am   | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=ru)                                         |
 | Rejected Payout Faq                                           | 14/10/2026, 10:11:51 am   | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=ru)                                            |
 | New Device And Location Verification                          | 14/10/2026, 10:09:27 am   | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=ru)                           |
@@ -28,7 +29,6 @@
 | Setting Up Moderation For Your Twitch Channel                 | 01/09/2026, 8:06:12 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=ru)                  |
 | How To Manage Harassment In Chat                              | 01/09/2026, 8:04:46 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ru)                               |
 | How To Use Clips                                              | 01/09/2026, 7:14:17 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ru)                                               |
-| Mission Based Drops                                           | 25/08/2026, 2:32:35 am    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=ru)                                            |
 
 
 
