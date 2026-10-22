@@ -363,6 +363,7 @@
 
 | Name                       | Last Updated (dd/mm/yyyy) | Link                                                                             |
 |----------------------------|---------------------------|----------------------------------------------------------------------------------|
+| Pinata                     | 22/10/2026, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/pinata?language=ja)                      |
 | Streamer Recap             | 21/10/2026, 7:45:12 am    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=ja)              |
 | Pokemon Chat Badges        | 17/10/2026, 5:14:54 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=ja)         |
 | Drops Troubleshooting      | 17/10/2026, 5:14:41 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=ja)       |
