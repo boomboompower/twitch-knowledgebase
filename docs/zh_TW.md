@@ -64,6 +64,7 @@
 | Recover Watch Streaks                                         | 04/09/2026, 9:56:00 pm    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=zh_TW)                                          |
 | Auto Clips                                                    | 04/09/2026, 9:55:59 pm    | [Link](https://help.twitch.tv/s/article/auto-clips?language=zh_TW)                                                     |
 | How To Use Automod                                            | 01/09/2026, 8:06:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=zh_TW)                                             |
+| Setting Up Moderation For Your Twitch Channel                 | 01/09/2026, 8:06:13 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=zh_TW)                  |
 
 
 

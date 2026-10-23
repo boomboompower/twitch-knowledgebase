@@ -6,9 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| How Twitch Contacts You                                       | 22/10/2026, 0:23:27 pm    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=ja)                                        |
 | Pinata                                                        | 22/10/2026, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/pinata?language=ja)                                                         |
 | Streamer Recap                                                | 21/10/2026, 3:18:37 pm    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=ja)                                                 |
-| How Twitch Contacts You                                       | 21/10/2026, 8:51:46 am    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=ja)                                        |
 | Stream Summary                                                | 21/10/2026, 7:46:10 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ja)                                                 |
 | How To Use Clips                                              | 21/10/2026, 7:45:45 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ja)                                               |
 | Stories                                                       | 21/10/2026, 7:45:22 am    | [Link](https://help.twitch.tv/s/article/stories?language=ja)                                                        |

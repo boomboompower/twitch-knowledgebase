@@ -6,8 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| How Twitch Contacts You                                       | 23/10/2026, 1:26:33 am    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=fr)                                        |
 | Pinata                                                        | 22/10/2026, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/pinata?language=fr)                                                         |
-| How Twitch Contacts You                                       | 21/10/2026, 8:51:46 am    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=fr)                                        |
 | Stream Summary                                                | 21/10/2026, 7:46:09 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=fr)                                                 |
 | How To Use Clips                                              | 21/10/2026, 7:45:45 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                                               |
 | Stories                                                       | 21/10/2026, 7:45:29 am    | [Link](https://help.twitch.tv/s/article/stories?language=fr)                                                        |
@@ -64,6 +64,7 @@
 | Auto Clips                                                    | 04/09/2026, 11:16:00 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=fr)                                                     |
 | Dj Opt Out                                                    | 04/09/2026, 11:15:57 pm   | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=fr)                                                     |
 | How To Use Automod                                            | 01/09/2026, 8:06:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=fr)                                             |
+| Setting Up Moderation For Your Twitch Channel                 | 01/09/2026, 8:06:13 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=fr)                  |
 
 
 
