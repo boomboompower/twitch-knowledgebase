@@ -18,7 +18,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | English (United States)       | 22/10/2026, 4:01:16 am    | 362 article(s) | [View](docs/en_US.md)  |
 | Finnish                       | 21/10/2026, 7:46:08 am    | 23 article(s)  | [View](docs/fi.md)     |
 | French                        | 23/10/2026, 1:26:33 am    | 311 article(s) | [View](docs/fr.md)     |
-| German                        | 22/10/2026, 4:01:16 am    | 312 article(s) | [View](docs/de.md)     |
+| German                        | 23/10/2026, 11:38:59 pm   | 312 article(s) | [View](docs/de.md)     |
 | Greek                         | 16/05/2026, 6:14:48 am    | 6 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 21/10/2026, 7:46:08 am    | 17 article(s)  | [View](docs/hu.md)     |
 | Italian                       | 22/10/2026, 7:24:53 pm    | 308 article(s) | [View](docs/it.md)     |
@@ -30,7 +30,7 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | Romanian                      | 02/05/2026, 2:03:26 am    | 2 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 21/10/2026, 7:46:08 am    | 170 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 02/05/2026, 2:03:26 am    | 2 article(s)   | [View](docs/sk.md)     |
-| Spanish                       | 22/10/2026, 4:01:16 am    | 311 article(s) | [View](docs/es.md)     |
+| Spanish                       | 23/10/2026, 9:36:00 pm    | 311 article(s) | [View](docs/es.md)     |
 | Spanish (Mexico)              | 21/10/2026, 10:39:04 am   | 306 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 21/10/2026, 7:46:08 am    | 22 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 21/10/2026, 7:46:08 am    | 165 article(s) | [View](docs/th.md)     |
