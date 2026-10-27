@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Affiliate Or Partner Anniversary Settings                     | 27/10/2026, 3:49:19 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=de)                      |
+| Creator Badge Rewards                                         | 27/10/2026, 3:19:52 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=de)                                          |
+| Subscriber Badge Guide                                        | 27/10/2026, 3:19:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=de)                                         |
 | How Twitch Contacts You                                       | 23/10/2026, 11:38:59 pm   | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=de)                                        |
 | Pinata                                                        | 22/10/2026, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/pinata?language=de)                                                         |
 | How To Contact Support                                        | 21/10/2026, 9:41:13 pm    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=de)                                         |
@@ -46,7 +49,6 @@
 | Clips Settings                                                | 30/09/2026, 2:57:47 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=de)                                                 |
 | Subtember 2026 Faq                                            | 30/09/2026, 2:56:57 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=de)                                             |
 | Streamer Shouts                                               | 26/09/2026, 10:40:58 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=de)                                                |
-| Affiliate Or Partner Anniversary Settings                     | 25/09/2026, 8:02:05 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=de)                      |
 | Gif Keyboard                                                  | 23/09/2026, 8:47:28 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=de)                                                   |
 | Gift Card                                                     | 22/09/2026, 4:26:13 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=de)                                                      |
 | Gift Card Spend                                               | 22/09/2026, 4:25:57 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=de)                                                |
@@ -63,7 +65,6 @@
 | Auto Clips                                                    | 02/09/2026, 1:10:33 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=de)                                                     |
 | Recover Watch Streaks                                         | 02/09/2026, 1:10:30 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=de)                                          |
 | Dj Opt Out                                                    | 02/09/2026, 1:10:27 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=de)                                                     |
-| How To Use Automod                                            | 01/09/2026, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=de)                                             |
 
 
 

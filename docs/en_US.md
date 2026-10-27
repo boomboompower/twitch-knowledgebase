@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Affiliate Or Partner Anniversary Settings                     | 27/10/2026, 3:49:19 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=en_US)                      |
+| Creator Badge Rewards                                         | 27/10/2026, 3:19:52 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=en_US)                                          |
+| Subscriber Badge Guide                                        | 27/10/2026, 3:19:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=en_US)                                         |
 | Pinata                                                        | 22/10/2026, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/pinata?language=en_US)                                                         |
 | How Twitch Contacts You                                       | 21/10/2026, 8:51:46 am    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=en_US)                                        |
 | Stream Summary                                                | 21/10/2026, 7:46:08 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=en_US)                                                 |
@@ -46,7 +49,6 @@
 | Clips Settings                                                | 30/09/2026, 2:57:47 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=en_US)                                                 |
 | Subtember 2026 Faq                                            | 30/09/2026, 2:56:57 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=en_US)                                             |
 | Streamer Shouts                                               | 26/09/2026, 10:40:57 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=en_US)                                                |
-| Affiliate Or Partner Anniversary Settings                     | 25/09/2026, 8:02:05 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=en_US)                      |
 | Gif Keyboard                                                  | 22/09/2026, 4:32:19 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=en_US)                                                   |
 | Gift Card                                                     | 22/09/2026, 4:26:13 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=en_US)                                                      |
 | Gift Card Spend                                               | 22/09/2026, 4:25:56 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=en_US)                                                |
@@ -58,12 +60,6 @@
 | Stream Coach                                                  | 11/09/2026, 5:27:07 am    | [Link](https://help.twitch.tv/s/article/stream-coach?language=en_US)                                                   |
 | Twitch Chat Badges Guide                                      | 05/09/2026, 6:46:13 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=en_US)                                       |
 | Video On Demand                                               | 05/09/2026, 6:39:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=en_US)                                                |
-| Auto Clips                                                    | 01/09/2026, 9:27:55 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=en_US)                                                     |
-| Stream Rewind                                                 | 01/09/2026, 9:27:43 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=en_US)                                                  |
-| Recover Watch Streaks                                         | 01/09/2026, 9:27:30 am    | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=en_US)                                          |
-| Dj Opt Out                                                    | 01/09/2026, 9:27:17 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=en_US)                                                     |
-| Dj Program Faq                                                | 01/09/2026, 9:27:10 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=en_US)                                                 |
-| How To Use Automod                                            | 01/09/2026, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=en_US)                                             |
 
 
 

@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Affiliate Or Partner Anniversary Settings                     | 27/10/2026, 3:49:20 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=es_MX)                      |
+| Creator Badge Rewards                                         | 27/10/2026, 3:19:53 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es_MX)                                          |
+| Subscriber Badge Guide                                        | 27/10/2026, 3:19:50 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es_MX)                                         |
 | How Twitch Contacts You                                       | 21/10/2026, 10:39:04 am   | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=es_MX)                                        |
 | Stream Summary                                                | 21/10/2026, 7:46:09 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es_MX)                                                 |
 | How To Use Clips                                              | 21/10/2026, 7:45:45 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                                               |
@@ -45,7 +48,6 @@
 | Clips Settings                                                | 30/09/2026, 2:57:48 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=es_MX)                                                 |
 | Subtember 2026 Faq                                            | 30/09/2026, 2:56:57 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=es_MX)                                             |
 | Streamer Shouts                                               | 26/09/2026, 10:40:58 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=es_MX)                                                |
-| Affiliate Or Partner Anniversary Settings                     | 25/09/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=es_MX)                      |
 | Gif Keyboard                                                  | 23/09/2026, 3:33:38 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=es_MX)                                                   |
 | Gift Card                                                     | 22/09/2026, 4:26:14 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=es_MX)                                                      |
 | Gift Card Spend                                               | 22/09/2026, 4:25:58 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=es_MX)                                                |
@@ -62,7 +64,6 @@
 | Dj Program Faq                                                | 02/09/2026, 4:18:09 am    | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=es_MX)                                                 |
 | Auto Clips                                                    | 02/09/2026, 4:18:06 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=es_MX)                                                     |
 | Dj Opt Out                                                    | 02/09/2026, 4:18:05 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=es_MX)                                                     |
-| How To Use Automod                                            | 01/09/2026, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=es_MX)                                             |
 
 
 

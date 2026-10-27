@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Affiliate Or Partner Anniversary Settings                     | 27/10/2026, 3:49:20 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=ja)                      |
+| Creator Badge Rewards                                         | 27/10/2026, 3:19:53 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=ja)                                          |
+| Subscriber Badge Guide                                        | 27/10/2026, 3:19:50 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ja)                                         |
 | How Twitch Contacts You                                       | 22/10/2026, 0:23:27 pm    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=ja)                                        |
 | Pinata                                                        | 22/10/2026, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/pinata?language=ja)                                                         |
 | Streamer Recap                                                | 21/10/2026, 3:18:37 pm    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=ja)                                                 |
@@ -46,7 +49,6 @@
 | Clips Settings                                                | 30/09/2026, 2:57:48 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=ja)                                                 |
 | Subtember 2026 Faq                                            | 30/09/2026, 2:56:58 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=ja)                                             |
 | Streamer Shouts                                               | 26/09/2026, 10:40:59 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=ja)                                                |
-| Affiliate Or Partner Anniversary Settings                     | 25/09/2026, 8:02:06 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=ja)                      |
 | Gif Keyboard                                                  | 23/09/2026, 0:30:06 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=ja)                                                   |
 | Gift Card                                                     | 22/09/2026, 4:26:14 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=ja)                                                      |
 | Gift Card Spend                                               | 22/09/2026, 4:25:58 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=ja)                                                |
@@ -63,8 +65,6 @@
 | Dj Opt Out                                                    | 04/09/2026, 10:21:02 am   | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=ja)                                                     |
 | Dj Program Faq                                                | 04/09/2026, 10:20:59 am   | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=ja)                                                 |
 | Stream Rewind                                                 | 04/09/2026, 10:20:58 am   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=ja)                                                  |
-| How To Use Automod                                            | 01/09/2026, 8:06:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ja)                                             |
-| Setting Up Moderation For Your Twitch Channel                 | 01/09/2026, 8:06:13 am    | [Link](https://help.twitch.tv/s/article/setting-up-moderation-for-your-twitch-channel?language=ja)                  |
 
 
 

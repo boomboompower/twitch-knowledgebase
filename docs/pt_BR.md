@@ -6,6 +6,9 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Affiliate Or Partner Anniversary Settings                     | 27/10/2026, 3:49:19 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=pt_BR)                      |
+| Creator Badge Rewards                                         | 27/10/2026, 3:19:54 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=pt_BR)                                          |
+| Subscriber Badge Guide                                        | 27/10/2026, 3:19:50 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=pt_BR)                                         |
 | Pinata                                                        | 22/10/2026, 4:01:17 am    | [Link](https://help.twitch.tv/s/article/pinata?language=pt_BR)                                                         |
 | How Twitch Contacts You                                       | 22/10/2026, 0:56:39 am    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=pt_BR)                                        |
 | Stream Summary                                                | 21/10/2026, 7:46:10 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_BR)                                                 |
@@ -46,7 +49,6 @@
 | Clips Settings                                                | 30/09/2026, 2:57:48 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=pt_BR)                                                 |
 | Subtember 2026 Faq                                            | 30/09/2026, 2:56:58 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=pt_BR)                                             |
 | Streamer Shouts                                               | 26/09/2026, 10:40:59 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=pt_BR)                                                |
-| Affiliate Or Partner Anniversary Settings                     | 25/09/2026, 8:02:05 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=pt_BR)                      |
 | Gif Keyboard                                                  | 23/09/2026, 8:30:12 am    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=pt_BR)                                                   |
 | Gift Card                                                     | 22/09/2026, 4:26:14 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=pt_BR)                                                      |
 | Gift Card Spend                                               | 22/09/2026, 4:25:58 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=pt_BR)                                                |
@@ -63,7 +65,6 @@
 | Dj Opt Out                                                    | 04/09/2026, 9:11:24 am    | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=pt_BR)                                                     |
 | Auto Clips                                                    | 04/09/2026, 3:40:18 am    | [Link](https://help.twitch.tv/s/article/auto-clips?language=pt_BR)                                                     |
 | Stream Rewind                                                 | 04/09/2026, 3:40:18 am    | [Link](https://help.twitch.tv/s/article/stream-rewind?language=pt_BR)                                                  |
-| How To Use Automod                                            | 01/09/2026, 8:06:39 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_BR)                                             |
 
 
 

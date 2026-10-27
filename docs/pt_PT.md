@@ -12,7 +12,6 @@
 | Joining The Affiliate Program                                 | 30/09/2026, 2:59:31 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)                                  |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 30/09/2026, 2:59:18 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pt_PT)  |
 | Achievements                                                  | 18/09/2026, 3:14:48 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_PT)                                                   |
-| How To Use Automod                                            | 01/09/2026, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=pt_PT)                                             |
 
 
 

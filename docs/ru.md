@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Affiliate Or Partner Anniversary Settings                     | 27/10/2026, 3:49:19 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=ru)                      |
+| Subscriber Badge Guide                                        | 27/10/2026, 3:19:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=ru)                                         |
 | Stream Summary                                                | 21/10/2026, 7:46:08 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=ru)                                                 |
 | How To Use Clips                                              | 21/10/2026, 7:45:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=ru)                                               |
 | Payout History Dashboard Guide                                | 20/10/2026, 6:33:33 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=ru)                                 |
@@ -23,11 +25,9 @@
 | Affiliate Settings Guide                                      | 30/09/2026, 2:59:58 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=ru)                                       |
 | Joining The Affiliate Program                                 | 30/09/2026, 2:59:31 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=ru)                                  |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 30/09/2026, 2:59:18 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=ru)  |
-| Affiliate Or Partner Anniversary Settings                     | 25/09/2026, 8:02:05 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=ru)                      |
 | Achievements                                                  | 18/09/2026, 3:14:48 am    | [Link](https://help.twitch.tv/s/article/achievements?language=ru)                                                   |
 | Twitch Chat Badges Guide                                      | 05/09/2026, 6:46:13 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=ru)                                       |
 | Video On Demand                                               | 05/09/2026, 6:39:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=ru)                                                |
-| How To Use Automod                                            | 01/09/2026, 8:06:38 am    | [Link](https://help.twitch.tv/s/article/how-to-use-automod?language=ru)                                             |
 
 
 
