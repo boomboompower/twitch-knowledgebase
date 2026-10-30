@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| About Account Suspensions Dmca Suspensions And Chat Bans      | 30/10/2026, 4:24:20 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)       |
 | Stream Summary                                                | 21/10/2026, 7:46:08 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                                                 |
 | Twitch Affiliate Program Faq                                  | 14/10/2026, 6:41:18 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)                                   |
 | Twitch Account Settings                                       | 30/09/2026, 8:17:01 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_PT)                                        |

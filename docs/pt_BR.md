@@ -6,9 +6,13 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Stream From Browser                                           | 30/10/2026, 10:57:31 am   | [Link](https://help.twitch.tv/s/article/stream-from-browser?language=pt_BR)                                            |
+| Date Of Birth Changes                                         | 30/10/2026, 6:03:52 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pt_BR)                                          |
+| About Account Suspensions Dmca Suspensions And Chat Bans      | 30/10/2026, 4:24:20 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_BR)       |
+| Age Verification                                              | 30/10/2026, 4:24:15 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=pt_BR)                                               |
+| Legendary Emotes                                              | 30/10/2026, 2:28:48 am    | [Link](https://help.twitch.tv/s/article/legendary-emotes?language=pt_BR)                                               |
 | Recaps Spotlight                                              | 28/10/2026, 7:00:57 am    | [Link](https://help.twitch.tv/s/article/recaps-spotlight?language=pt_BR)                                               |
 | Content Classification Labels                                 | 28/10/2026, 6:28:08 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=pt_BR)                                  |
-| Legendary Emotes                                              | 28/10/2026, 6:01:50 am    | [Link](https://help.twitch.tv/s/article/legendary-emotes?language=pt_BR)                                               |
 | Affiliate Or Partner Anniversary Settings                     | 27/10/2026, 3:49:19 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=pt_BR)                      |
 | Creator Badge Rewards                                         | 27/10/2026, 3:19:54 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=pt_BR)                                          |
 | Subscriber Badge Guide                                        | 27/10/2026, 3:19:50 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=pt_BR)                                         |
@@ -39,7 +43,6 @@
 | About Discount Gift Subs                                      | 10/10/2026, 3:57:37 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=pt_BR)                                       |
 | Affiliate Onboarding Guide                                    | 07/10/2026, 9:22:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pt_BR)                                     |
 | Partner Onboarding Guide                                      | 07/10/2026, 9:22:23 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pt_BR)                                       |
-| Date Of Birth Changes                                         | 07/10/2026, 9:22:03 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pt_BR)                                          |
 | Creating An Account With Twitch                               | 03/10/2026, 2:32:54 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=pt_BR)                                |
 | Twitch Account Access Login Issues Guide                      | 03/10/2026, 2:32:53 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=pt_BR)                       |
 | Twitch Account Settings                                       | 03/10/2026, 7:52:11 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_BR)                                        |
@@ -60,9 +63,6 @@
 | Not Receiving Sms                                             | 18/09/2026, 3:15:28 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=pt_BR)                                              |
 | Achievements                                                  | 18/09/2026, 3:14:52 am    | [Link](https://help.twitch.tv/s/article/achievements?language=pt_BR)                                                   |
 | Featured Clips                                                | 12/09/2026, 8:51:47 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=pt_BR)                                                 |
-| Stream Coach                                                  | 11/09/2026, 5:27:08 am    | [Link](https://help.twitch.tv/s/article/stream-coach?language=pt_BR)                                                   |
-| Twitch Chat Badges Guide                                      | 05/09/2026, 6:46:39 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=pt_BR)                                       |
-| Video On Demand                                               | 05/09/2026, 6:39:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=pt_BR)                                                |
 
 
 
@@ -361,8 +361,9 @@
 
 | Name                       | Last Updated (dd/mm/yyyy) | Link                                                                                |
 |----------------------------|---------------------------|-------------------------------------------------------------------------------------|
+| Stream From Browser        | 30/10/2026, 10:57:31 am   | [Link](https://help.twitch.tv/s/article/stream-from-browser?language=pt_BR)         |
+| Legendary Emotes           | 30/10/2026, 2:28:48 am    | [Link](https://help.twitch.tv/s/article/legendary-emotes?language=pt_BR)            |
 | Recaps Spotlight           | 28/10/2026, 7:00:57 am    | [Link](https://help.twitch.tv/s/article/recaps-spotlight?language=pt_BR)            |
-| Legendary Emotes           | 28/10/2026, 6:01:50 am    | [Link](https://help.twitch.tv/s/article/legendary-emotes?language=pt_BR)            |
 | Pinata                     | 22/10/2026, 4:01:17 am    | [Link](https://help.twitch.tv/s/article/pinata?language=pt_BR)                      |
 | Pokemon Chat Badges        | 17/10/2026, 5:14:54 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=pt_BR)         |
 | Drops Troubleshooting      | 17/10/2026, 5:14:43 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=pt_BR)       |

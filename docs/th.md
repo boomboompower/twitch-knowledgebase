@@ -6,6 +6,8 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Date Of Birth Changes                                         | 30/10/2026, 4:24:27 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=th)                                          |
+| About Account Suspensions Dmca Suspensions And Chat Bans      | 30/10/2026, 4:24:20 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=th)       |
 | Affiliate Or Partner Anniversary Settings                     | 27/10/2026, 3:49:19 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=th)                      |
 | Subscriber Badge Guide                                        | 27/10/2026, 3:19:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=th)                                         |
 | Stream Summary                                                | 21/10/2026, 7:46:08 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=th)                                                 |
@@ -17,7 +19,6 @@
 | Twitch Affiliate Program Faq                                  | 14/10/2026, 6:41:18 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=th)                                   |
 | Affiliate Onboarding Guide                                    | 07/10/2026, 9:22:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=th)                                     |
 | Partner Onboarding Guide                                      | 07/10/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=th)                                       |
-| Date Of Birth Changes                                         | 07/10/2026, 9:22:01 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=th)                                          |
 | Twitch Account Settings                                       | 30/09/2026, 8:17:01 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=th)                                        |
 | Creating An Account With Twitch                               | 30/09/2026, 8:16:48 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=th)                                |
 | Managing Your Phone Number                                    | 30/09/2026, 8:16:41 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=th)                                     |
@@ -26,8 +27,6 @@
 | Joining The Affiliate Program                                 | 30/09/2026, 2:59:31 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=th)                                  |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 30/09/2026, 2:59:18 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=th)  |
 | Achievements                                                  | 18/09/2026, 3:14:48 am    | [Link](https://help.twitch.tv/s/article/achievements?language=th)                                                   |
-| Twitch Chat Badges Guide                                      | 05/09/2026, 6:46:13 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=th)                                       |
-| Video On Demand                                               | 05/09/2026, 6:39:56 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=th)                                                |
 
 
 

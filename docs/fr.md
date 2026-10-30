@@ -6,6 +6,10 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Stream From Browser                                           | 30/10/2026, 10:57:30 am   | [Link](https://help.twitch.tv/s/article/stream-from-browser?language=fr)                                            |
+| Date Of Birth Changes                                         | 30/10/2026, 6:03:50 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=fr)                                          |
+| About Account Suspensions Dmca Suspensions And Chat Bans      | 30/10/2026, 4:24:20 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=fr)       |
+| Age Verification                                              | 30/10/2026, 4:24:15 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=fr)                                               |
 | Recaps Spotlight                                              | 28/10/2026, 7:00:56 am    | [Link](https://help.twitch.tv/s/article/recaps-spotlight?language=fr)                                               |
 | Content Classification Labels                                 | 28/10/2026, 6:28:04 am    | [Link](https://help.twitch.tv/s/article/content-classification-labels?language=fr)                                  |
 | Legendary Emotes                                              | 28/10/2026, 6:01:49 am    | [Link](https://help.twitch.tv/s/article/legendary-emotes?language=fr)                                               |
@@ -39,7 +43,6 @@
 | About Discount Gift Subs                                      | 10/10/2026, 3:57:37 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=fr)                                       |
 | Affiliate Onboarding Guide                                    | 07/10/2026, 9:22:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=fr)                                     |
 | Partner Onboarding Guide                                      | 07/10/2026, 9:22:23 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=fr)                                       |
-| Date Of Birth Changes                                         | 07/10/2026, 9:22:02 am    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=fr)                                          |
 | Creating An Account With Twitch                               | 01/10/2026, 6:14:04 pm    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fr)                                |
 | Twitch Account Access Login Issues Guide                      | 01/10/2026, 6:13:58 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=fr)                       |
 | Managing Your Phone Number                                    | 01/10/2026, 6:13:55 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=fr)                                     |
@@ -59,15 +62,6 @@
 | Political Onboarding                                          | 19/09/2026, 9:07:25 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=fr)                                           |
 | Not Receiving Sms                                             | 18/09/2026, 3:15:27 am    | [Link](https://help.twitch.tv/s/article/not-receiving-sms?language=fr)                                              |
 | Achievements                                                  | 18/09/2026, 3:14:51 am    | [Link](https://help.twitch.tv/s/article/achievements?language=fr)                                                   |
-| Featured Clips                                                | 12/09/2026, 8:51:46 am    | [Link](https://help.twitch.tv/s/article/featured-clips?language=fr)                                                 |
-| Stream Coach                                                  | 11/09/2026, 5:27:08 am    | [Link](https://help.twitch.tv/s/article/stream-coach?language=fr)                                                   |
-| Twitch Chat Badges Guide                                      | 05/09/2026, 6:46:13 am    | [Link](https://help.twitch.tv/s/article/twitch-chat-badges-guide?language=fr)                                       |
-| Video On Demand                                               | 05/09/2026, 6:39:57 am    | [Link](https://help.twitch.tv/s/article/video-on-demand?language=fr)                                                |
-| Recover Watch Streaks                                         | 04/09/2026, 11:16:12 pm   | [Link](https://help.twitch.tv/s/article/recover-watch-streaks?language=fr)                                          |
-| Dj Program Faq                                                | 04/09/2026, 11:16:07 pm   | [Link](https://help.twitch.tv/s/article/dj-program-faq?language=fr)                                                 |
-| Stream Rewind                                                 | 04/09/2026, 11:16:03 pm   | [Link](https://help.twitch.tv/s/article/stream-rewind?language=fr)                                                  |
-| Auto Clips                                                    | 04/09/2026, 11:16:00 pm   | [Link](https://help.twitch.tv/s/article/auto-clips?language=fr)                                                     |
-| Dj Opt Out                                                    | 04/09/2026, 11:15:57 pm   | [Link](https://help.twitch.tv/s/article/dj-opt-out?language=fr)                                                     |
 
 
 
@@ -368,6 +362,7 @@
 
 | Name                       | Last Updated (dd/mm/yyyy) | Link                                                                             |
 |----------------------------|---------------------------|----------------------------------------------------------------------------------|
+| Stream From Browser        | 30/10/2026, 10:57:30 am   | [Link](https://help.twitch.tv/s/article/stream-from-browser?language=fr)         |
 | Recaps Spotlight           | 28/10/2026, 7:00:56 am    | [Link](https://help.twitch.tv/s/article/recaps-spotlight?language=fr)            |
 | Legendary Emotes           | 28/10/2026, 6:01:49 am    | [Link](https://help.twitch.tv/s/article/legendary-emotes?language=fr)            |
 | Pinata                     | 22/10/2026, 4:01:16 am    | [Link](https://help.twitch.tv/s/article/pinata?language=fr)                      |
