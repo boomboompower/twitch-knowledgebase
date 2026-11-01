@@ -18,7 +18,6 @@
 |----------------------------------|---------------------------|----------------------------------------------------------------------------------------|
 | How To Manage Harassment In Chat | 01/09/2026, 8:04:46 am    | [Link](https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=sv)  |
 | Guide To Tags                    | 29/07/2026, 9:21:52 am    | [Link](https://help.twitch.tv/s/article/guide-to-tags?language=sv)                     |
-| Gift Subscriptions               | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=sv)                |
 
 
 
@@ -27,6 +26,7 @@
 
 | Name                                             | Last Updated (dd/mm/yyyy) | Link                                                                                                   |
 |--------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Gift Subscriptions                               | 12/06/2026, 3:51:06 am    | [Link](https://help.twitch.tv/s/article/gift-subscriptions?language=sv)                                |
 | Guide To Custom Messages                         | 31/05/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/guide-to-custom-messages?language=sv)                          |
 | Two Factor Authentication With Authy             | 09/05/2026, 4:52:29 am    | [Link](https://help.twitch.tv/s/article/two-factor-authentication-with-authy?language=sv)              |
 | Chat Commands                                    | 02/05/2026, 2:03:26 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=sv)                                     |
