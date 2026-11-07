@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| How To Contact Support                                        | 07/11/2026, 7:01:50 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=zh_TW)                                         |
 | Age Verification                                              | 04/11/2026, 1:03:13 am    | [Link](https://help.twitch.tv/s/article/age-verification?language=zh_TW)                                               |
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 04/11/2026, 1:03:12 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=zh_TW)       |
 | Pinata                                                        | 03/11/2026, 4:43:48 am    | [Link](https://help.twitch.tv/s/article/pinata?language=zh_TW)                                                         |
@@ -32,7 +33,6 @@
 | Payout History Dashboard Guide                                | 20/10/2026, 6:33:35 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=zh_TW)                                 |
 | Dac7 Interview                                                | 20/10/2026, 6:33:28 am    | [Link](https://help.twitch.tv/s/article/dac7-interview?language=zh_TW)                                                 |
 | Payout Details Faq                                            | 20/10/2026, 6:33:16 am    | [Link](https://help.twitch.tv/s/article/payout-details-faq?language=zh_TW)                                             |
-| How To Contact Support                                        | 20/10/2026, 3:23:45 am    | [Link](https://help.twitch.tv/s/article/how-to-contact-support?language=zh_TW)                                         |
 | When Am I Getting Paid                                        | 19/10/2026, 10:43:21 pm   | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=zh_TW)                                         |
 | New Device And Location Verification                          | 19/10/2026, 10:43:19 pm   | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=zh_TW)                           |
 | Pokemon Chat Badges                                           | 17/10/2026, 5:14:54 am    | [Link](https://help.twitch.tv/s/article/pokemon-chat-badges?language=zh_TW)                                            |
