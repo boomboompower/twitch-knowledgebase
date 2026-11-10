@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Stream Summary                                                | 10/11/2026, 6:26:24 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=th)                                                 |
 | Date Of Birth Changes                                         | 07/11/2026, 1:21:16 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=th)                                          |
 | Mission Based Drops                                           | 07/11/2026, 0:24:22 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=th)                                            |
 | Joining The Affiliate Program                                 | 31/10/2026, 6:22:18 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=th)                                  |
@@ -14,7 +15,6 @@
 | About Account Suspensions Dmca Suspensions And Chat Bans      | 30/10/2026, 4:24:20 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=th)       |
 | Affiliate Or Partner Anniversary Settings                     | 27/10/2026, 3:49:19 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=th)                      |
 | Subscriber Badge Guide                                        | 27/10/2026, 3:19:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=th)                                         |
-| Stream Summary                                                | 21/10/2026, 7:46:08 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=th)                                                 |
 | How To Use Clips                                              | 21/10/2026, 7:45:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=th)                                               |
 | Payout History Dashboard Guide                                | 20/10/2026, 6:33:33 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=th)                                 |
 | When Am I Getting Paid                                        | 14/10/2026, 10:12:32 am   | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=th)                                         |

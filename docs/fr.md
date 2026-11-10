@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Stream Summary                                                | 10/11/2026, 6:26:25 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=fr)                                                 |
 | Streamer Recap                                                | 07/11/2026, 2:04:40 pm    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=fr)                                                 |
 | Date Of Birth Changes                                         | 07/11/2026, 1:21:16 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=fr)                                          |
 | Mission Based Drops                                           | 07/11/2026, 0:24:22 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=fr)                                            |
@@ -27,7 +28,6 @@
 | Creator Badge Rewards                                         | 27/10/2026, 3:19:53 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=fr)                                          |
 | Subscriber Badge Guide                                        | 27/10/2026, 3:19:50 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=fr)                                         |
 | How Twitch Contacts You                                       | 23/10/2026, 1:26:33 am    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=fr)                                        |
-| Stream Summary                                                | 21/10/2026, 7:46:09 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=fr)                                                 |
 | How To Use Clips                                              | 21/10/2026, 7:45:45 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=fr)                                               |
 | Stories                                                       | 21/10/2026, 7:45:29 am    | [Link](https://help.twitch.tv/s/article/stories?language=fr)                                                        |
 | Payout History Dashboard Guide                                | 20/10/2026, 6:33:35 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=fr)                                 |
@@ -360,6 +360,16 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=fr)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=fr)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=fr)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                | Last Updated (dd/mm/yyyy) | Link                                                                      |
+|---------------------|---------------------------|---------------------------------------------------------------------------|
+| Stream From Browser | 30/10/2026, 10:57:30 am   | [Link](https://help.twitch.tv/s/article/stream-from-browser?language=fr)  |
+| Recaps Spotlight    | 28/10/2026, 7:00:56 am    | [Link](https://help.twitch.tv/s/article/recaps-spotlight?language=fr)     |
 
 
 

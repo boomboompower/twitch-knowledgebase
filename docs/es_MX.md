@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Stream Summary                                                | 10/11/2026, 6:26:25 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es_MX)                                                 |
 | Streamer Recap                                                | 07/11/2026, 2:04:46 pm    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=es_MX)                                                 |
 | Date Of Birth Changes                                         | 07/11/2026, 1:21:16 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es_MX)                                          |
 | Mission Based Drops                                           | 07/11/2026, 0:24:22 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es_MX)                                            |
@@ -27,7 +28,6 @@
 | Creator Badge Rewards                                         | 27/10/2026, 3:19:53 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es_MX)                                          |
 | Subscriber Badge Guide                                        | 27/10/2026, 3:19:50 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es_MX)                                         |
 | How Twitch Contacts You                                       | 21/10/2026, 10:39:04 am   | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=es_MX)                                        |
-| Stream Summary                                                | 21/10/2026, 7:46:09 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es_MX)                                                 |
 | How To Use Clips                                              | 21/10/2026, 7:45:45 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es_MX)                                               |
 | Stories                                                       | 21/10/2026, 7:45:28 am    | [Link](https://help.twitch.tv/s/article/stories?language=es_MX)                                                        |
 | Payout History Dashboard Guide                                | 20/10/2026, 6:33:35 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=es_MX)                                 |
@@ -358,6 +358,16 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=es_MX)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es_MX)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es_MX)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                | Last Updated (dd/mm/yyyy) | Link                                                                         |
+|---------------------|---------------------------|------------------------------------------------------------------------------|
+| Stream From Browser | 30/10/2026, 10:57:30 am   | [Link](https://help.twitch.tv/s/article/stream-from-browser?language=es_MX)  |
+| Recaps Spotlight    | 28/10/2026, 7:00:56 am    | [Link](https://help.twitch.tv/s/article/recaps-spotlight?language=es_MX)     |
 
 
 

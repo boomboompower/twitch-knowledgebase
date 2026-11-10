@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Stream Summary                                                | 10/11/2026, 6:26:25 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es)                                                 |
 | Streamer Recap                                                | 07/11/2026, 2:04:43 pm    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=es)                                                 |
 | Date Of Birth Changes                                         | 07/11/2026, 1:21:16 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=es)                                          |
 | Mission Based Drops                                           | 07/11/2026, 0:24:22 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=es)                                            |
@@ -27,7 +28,6 @@
 | Creator Badge Rewards                                         | 27/10/2026, 3:19:53 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=es)                                          |
 | Subscriber Badge Guide                                        | 27/10/2026, 3:19:50 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=es)                                         |
 | How Twitch Contacts You                                       | 23/10/2026, 9:36:00 pm    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=es)                                        |
-| Stream Summary                                                | 21/10/2026, 7:46:09 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=es)                                                 |
 | How To Use Clips                                              | 21/10/2026, 7:45:44 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=es)                                               |
 | Stories                                                       | 21/10/2026, 7:45:28 am    | [Link](https://help.twitch.tv/s/article/stories?language=es)                                                        |
 | Sponsorship Overview                                          | 20/10/2026, 11:05:27 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=es)                                           |
@@ -359,6 +359,17 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=es)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:24 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=es)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:57 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=es)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                | Last Updated (dd/mm/yyyy) | Link                                                                      |
+|---------------------|---------------------------|---------------------------------------------------------------------------|
+| Stream From Browser | 30/10/2026, 10:57:30 am   | [Link](https://help.twitch.tv/s/article/stream-from-browser?language=es)  |
+| Recaps Spotlight    | 29/10/2026, 10:43:13 pm   | [Link](https://help.twitch.tv/s/article/recaps-spotlight?language=es)     |
+| Legendary Emotes    | 29/10/2026, 10:41:53 pm   | [Link](https://help.twitch.tv/s/article/legendary-emotes?language=es)     |
 
 
 

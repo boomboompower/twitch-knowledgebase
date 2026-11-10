@@ -6,7 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Stream Summary                                                | 21/10/2026, 7:46:08 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=fi)                                                 |
+| Stream Summary                                                | 10/11/2026, 6:26:24 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=fi)                                                 |
 | Creating An Account With Twitch                               | 30/09/2026, 8:16:48 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=fi)                                |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 30/09/2026, 2:59:18 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=fi)  |
 

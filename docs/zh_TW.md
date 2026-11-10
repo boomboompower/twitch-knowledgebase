@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Stream Summary                                                | 10/11/2026, 6:26:26 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=zh_TW)                                                 |
 | Streamer Recap                                                | 07/11/2026, 2:04:42 pm    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=zh_TW)                                                 |
 | Date Of Birth Changes                                         | 07/11/2026, 1:21:16 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                                          |
 | Mission Based Drops                                           | 07/11/2026, 0:24:22 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=zh_TW)                                            |
@@ -27,7 +28,6 @@
 | Creator Badge Rewards                                         | 27/10/2026, 3:19:54 am    | [Link](https://help.twitch.tv/s/article/creator-badge-rewards?language=zh_TW)                                          |
 | Subscriber Badge Guide                                        | 27/10/2026, 3:19:50 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=zh_TW)                                         |
 | How Twitch Contacts You                                       | 22/10/2026, 1:06:14 am    | [Link](https://help.twitch.tv/s/article/how-twitch-contacts-you?language=zh_TW)                                        |
-| Stream Summary                                                | 21/10/2026, 7:46:10 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=zh_TW)                                                 |
 | How To Use Clips                                              | 21/10/2026, 7:45:45 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=zh_TW)                                               |
 | Stories                                                       | 21/10/2026, 7:45:29 am    | [Link](https://help.twitch.tv/s/article/stories?language=zh_TW)                                                        |
 | Sponsorship Overview                                          | 20/10/2026, 10:31:43 pm   | [Link](https://help.twitch.tv/s/article/sponsorship-overview?language=zh_TW)                                           |
@@ -359,6 +359,16 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=zh_TW)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:23 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=zh_TW)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=zh_TW)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name                | Last Updated (dd/mm/yyyy) | Link                                                                         |
+|---------------------|---------------------------|------------------------------------------------------------------------------|
+| Stream From Browser | 30/10/2026, 5:45:03 pm    | [Link](https://help.twitch.tv/s/article/stream-from-browser?language=zh_TW)  |
+| Recaps Spotlight    | 28/10/2026, 7:00:57 am    | [Link](https://help.twitch.tv/s/article/recaps-spotlight?language=zh_TW)     |
 
 
 
