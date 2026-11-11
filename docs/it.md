@@ -6,6 +6,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Chat Commands                                                 | 11/11/2026, 6:43:01 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=it)                                                  |
+| Shared Hype Train                                             | 11/11/2026, 6:42:53 am    | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=it)                                              |
+| St Drop Ins                                                   | 11/11/2026, 6:42:46 am    | [Link](https://help.twitch.tv/s/article/st-drop-ins?language=it)                                                    |
+| Shared Chat                                                   | 11/11/2026, 6:42:34 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=it)                                                    |
+| Shared Viewership                                             | 11/11/2026, 6:42:17 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=it)                                              |
 | Stream Summary                                                | 10/11/2026, 6:26:24 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=it)                                                 |
 | Streamer Recap                                                | 07/11/2026, 2:04:49 pm    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=it)                                                 |
 | Date Of Birth Changes                                         | 07/11/2026, 1:21:16 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=it)                                          |
@@ -41,7 +46,6 @@
 | When Am I Getting Paid                                        | 16/10/2026, 10:49:33 pm   | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=it)                                         |
 | Rejected Payout Faq                                           | 15/10/2026, 4:08:19 am    | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=it)                                            |
 | Playback Issue Troubleshooting                                | 15/10/2026, 4:08:02 am    | [Link](https://help.twitch.tv/s/article/playback-issue-troubleshooting?language=it)                                 |
-| Shared Viewership                                             | 14/10/2026, 6:41:53 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=it)                                              |
 | Costreaming                                                   | 14/10/2026, 6:41:48 am    | [Link](https://help.twitch.tv/s/article/costreaming?language=it)                                                    |
 | Hype Train Guide                                              | 12/10/2026, 11:16:31 pm   | [Link](https://help.twitch.tv/s/article/hype-train-guide?language=it)                                               |
 | Mobile App Troubleshooting                                    | 10/10/2026, 4:02:43 am    | [Link](https://help.twitch.tv/s/article/mobile-app-troubleshooting?language=it)                                     |
@@ -58,12 +62,6 @@
 | Streamer Benefits                                             | 30/09/2026, 2:59:02 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=it)                                              |
 | Clips Settings                                                | 30/09/2026, 2:57:47 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=it)                                                 |
 | Subtember 2026 Faq                                            | 30/09/2026, 2:56:58 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=it)                                             |
-| Streamer Shouts                                               | 26/09/2026, 10:40:58 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=it)                                                |
-| Gif Keyboard                                                  | 22/09/2026, 9:06:09 pm    | [Link](https://help.twitch.tv/s/article/gif-keyboard?language=it)                                                   |
-| Gift Card                                                     | 22/09/2026, 4:26:14 am    | [Link](https://help.twitch.tv/s/article/gift-card?language=it)                                                      |
-| Gift Card Spend                                               | 22/09/2026, 4:25:58 am    | [Link](https://help.twitch.tv/s/article/gift-card-spend?language=it)                                                |
-| Gift Card Redeem                                              | 22/09/2026, 4:25:21 am    | [Link](https://help.twitch.tv/s/article/gift-card-redeem?language=it)                                               |
-| Political Onboarding                                          | 19/09/2026, 9:07:25 am    | [Link](https://help.twitch.tv/s/article/political-onboarding?language=it)                                           |
 
 
 
@@ -364,10 +362,14 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name                | Last Updated (dd/mm/yyyy) | Link                                                                      |
-|---------------------|---------------------------|---------------------------------------------------------------------------|
-| Stream From Browser | 30/10/2026, 10:57:30 am   | [Link](https://help.twitch.tv/s/article/stream-from-browser?language=it)  |
-| Recaps Spotlight    | 28/10/2026, 7:00:57 am    | [Link](https://help.twitch.tv/s/article/recaps-spotlight?language=it)     |
+| Name                       | Last Updated (dd/mm/yyyy) | Link                                                                             |
+|----------------------------|---------------------------|----------------------------------------------------------------------------------|
+| Pinata                     | 03/11/2026, 4:43:47 am    | [Link](https://help.twitch.tv/s/article/pinata?language=it)                      |
+| Stream From Browser        | 30/10/2026, 10:57:30 am   | [Link](https://help.twitch.tv/s/article/stream-from-browser?language=it)         |
+| Recaps Spotlight           | 28/10/2026, 7:00:57 am    | [Link](https://help.twitch.tv/s/article/recaps-spotlight?language=it)            |
+| Legendary Emotes           | 28/10/2026, 6:01:50 am    | [Link](https://help.twitch.tv/s/article/legendary-emotes?language=it)            |
+| Drops Troubleshooting      | 17/10/2026, 5:14:42 am    | [Link](https://help.twitch.tv/s/article/drops-troubleshooting?language=it)       |
+| Mobile App Troubleshooting | 10/10/2026, 4:02:43 am    | [Link](https://help.twitch.tv/s/article/mobile-app-troubleshooting?language=it)  |
 
 
 
