@@ -6,10 +6,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Chat Commands                                                 | 11/11/2026, 6:42:59 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=fr)                                                  |
-| Shared Hype Train                                             | 11/11/2026, 6:42:50 am    | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=fr)                                              |
-| Shared Chat                                                   | 11/11/2026, 6:42:32 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=fr)                                                    |
-| Shared Viewership                                             | 11/11/2026, 6:42:17 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=fr)                                              |
+| St Drop Ins                                                   | 12/11/2026, 1:07:35 am    | [Link](https://help.twitch.tv/s/article/st-drop-ins?language=fr)                                                    |
+| Shared Hype Train                                             | 12/11/2026, 1:07:33 am    | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=fr)                                              |
+| Shared Viewership                                             | 12/11/2026, 1:07:32 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=fr)                                              |
+| Shared Chat                                                   | 12/11/2026, 1:07:30 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=fr)                                                    |
+| Chat Commands                                                 | 12/11/2026, 1:07:30 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=fr)                                                  |
 | Stream Summary                                                | 10/11/2026, 6:26:25 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=fr)                                                 |
 | Streamer Recap                                                | 07/11/2026, 2:04:40 pm    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=fr)                                                 |
 | Date Of Birth Changes                                         | 07/11/2026, 1:21:16 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=fr)                                          |
