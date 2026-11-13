@@ -6,10 +6,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Chat Commands                                                 | 12/11/2026, 5:53:02 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_BR)                                                  |
+| St Drop Ins                                                   | 12/11/2026, 5:12:25 pm    | [Link](https://help.twitch.tv/s/article/st-drop-ins?language=pt_BR)                                                    |
+| Shared Chat                                                   | 12/11/2026, 4:51:14 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=pt_BR)                                                    |
 | Shared Hype Train                                             | 12/11/2026, 0:23:15 pm    | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=pt_BR)                                              |
 | Shared Viewership                                             | 12/11/2026, 0:23:11 pm    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=pt_BR)                                              |
-| Chat Commands                                                 | 11/11/2026, 6:42:59 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_BR)                                                  |
-| Shared Chat                                                   | 11/11/2026, 6:42:32 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=pt_BR)                                                    |
 | Stream Summary                                                | 10/11/2026, 6:26:26 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_BR)                                                 |
 | Streamer Recap                                                | 07/11/2026, 2:04:40 pm    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=pt_BR)                                                 |
 | Date Of Birth Changes                                         | 07/11/2026, 1:21:16 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pt_BR)                                          |

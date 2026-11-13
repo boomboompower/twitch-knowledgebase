@@ -6,10 +6,11 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Chat Commands                                                 | 11/11/2026, 6:42:59 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_TW)                                                  |
-| Shared Hype Train                                             | 11/11/2026, 6:42:50 am    | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=zh_TW)                                              |
-| Shared Chat                                                   | 11/11/2026, 6:42:32 am    | [Link](https://help.twitch.tv/s/article/shared-chat?language=zh_TW)                                                    |
-| Shared Viewership                                             | 11/11/2026, 6:42:17 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=zh_TW)                                              |
+| Shared Hype Train                                             | 12/11/2026, 11:13:10 pm   | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=zh_TW)                                              |
+| St Drop Ins                                                   | 12/11/2026, 11:13:06 pm   | [Link](https://help.twitch.tv/s/article/st-drop-ins?language=zh_TW)                                                    |
+| Shared Viewership                                             | 12/11/2026, 11:13:03 pm   | [Link](https://help.twitch.tv/s/article/shared-viewership?language=zh_TW)                                              |
+| Chat Commands                                                 | 12/11/2026, 11:13:01 pm   | [Link](https://help.twitch.tv/s/article/chat-commands?language=zh_TW)                                                  |
+| Shared Chat                                                   | 12/11/2026, 11:13:00 pm   | [Link](https://help.twitch.tv/s/article/shared-chat?language=zh_TW)                                                    |
 | Stream Summary                                                | 10/11/2026, 6:26:26 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=zh_TW)                                                 |
 | Streamer Recap                                                | 07/11/2026, 2:04:42 pm    | [Link](https://help.twitch.tv/s/article/streamer-recap?language=zh_TW)                                                 |
 | Date Of Birth Changes                                         | 07/11/2026, 1:21:16 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=zh_TW)                                          |
