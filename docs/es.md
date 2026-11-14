@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Experiments                                                   | 14/11/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/experiments?language=es)                                                    |
 | Shared Chat                                                   | 12/11/2026, 11:38:40 pm   | [Link](https://help.twitch.tv/s/article/shared-chat?language=es)                                                    |
 | Chat Commands                                                 | 12/11/2026, 11:38:40 pm   | [Link](https://help.twitch.tv/s/article/chat-commands?language=es)                                                  |
 | Shared Viewership                                             | 12/11/2026, 11:38:39 pm   | [Link](https://help.twitch.tv/s/article/shared-viewership?language=es)                                              |

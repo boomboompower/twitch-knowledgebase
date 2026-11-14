@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
 |---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Experiments                                                   | 14/11/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/experiments?language=fr)                                                    |
 | St Drop Ins                                                   | 12/11/2026, 1:07:35 am    | [Link](https://help.twitch.tv/s/article/st-drop-ins?language=fr)                                                    |
 | Shared Hype Train                                             | 12/11/2026, 1:07:33 am    | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=fr)                                              |
 | Shared Viewership                                             | 12/11/2026, 1:07:32 am    | [Link](https://help.twitch.tv/s/article/shared-viewership?language=fr)                                              |
@@ -60,8 +61,6 @@
 | Affiliate Settings Guide                                      | 30/09/2026, 2:59:59 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=fr)                                       |
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 30/09/2026, 2:59:18 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=fr)  |
 | Streamer Benefits                                             | 30/09/2026, 2:59:02 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=fr)                                              |
-| Clips Settings                                                | 30/09/2026, 2:57:48 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=fr)                                                 |
-| Subtember 2026 Faq                                            | 30/09/2026, 2:56:58 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=fr)                                             |
 
 
 

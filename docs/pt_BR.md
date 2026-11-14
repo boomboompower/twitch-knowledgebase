@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Experiments                                                   | 14/11/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/experiments?language=pt_BR)                                                    |
 | Chat Commands                                                 | 12/11/2026, 5:53:02 pm    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_BR)                                                  |
 | St Drop Ins                                                   | 12/11/2026, 5:12:25 pm    | [Link](https://help.twitch.tv/s/article/st-drop-ins?language=pt_BR)                                                    |
 | Shared Chat                                                   | 12/11/2026, 4:51:14 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=pt_BR)                                                    |
@@ -61,7 +62,6 @@
 | Amazon Tax Information Interview And Irs Annual Reporting Faq | 30/09/2026, 2:59:19 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pt_BR)  |
 | Streamer Benefits                                             | 30/09/2026, 2:59:02 am    | [Link](https://help.twitch.tv/s/article/streamer-benefits?language=pt_BR)                                              |
 | Clips Settings                                                | 30/09/2026, 2:57:48 am    | [Link](https://help.twitch.tv/s/article/clips-settings?language=pt_BR)                                                 |
-| Subtember 2026 Faq                                            | 30/09/2026, 2:56:58 am    | [Link](https://help.twitch.tv/s/article/subtember-2026-faq?language=pt_BR)                                             |
 
 
 

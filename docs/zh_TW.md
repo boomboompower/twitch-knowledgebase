@@ -6,6 +6,7 @@
 
 | Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
 |---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Experiments                                                   | 14/11/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                                    |
 | Shared Hype Train                                             | 12/11/2026, 11:13:10 pm   | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=zh_TW)                                              |
 | St Drop Ins                                                   | 12/11/2026, 11:13:06 pm   | [Link](https://help.twitch.tv/s/article/st-drop-ins?language=zh_TW)                                                    |
 | Shared Viewership                                             | 12/11/2026, 11:13:03 pm   | [Link](https://help.twitch.tv/s/article/shared-viewership?language=zh_TW)                                              |
