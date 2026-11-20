@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Managing Roles For Your Channel                          | 20/11/2026, 5:55:41 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=de)                           |
+| Alerts By Twitch Faq                                     | 20/11/2026, 5:42:42 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=de)                                      |
 | Streamer Shouts                                          | 19/11/2026, 10:55:38 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=de)                                           |
 | Twitch On Tv                                             | 18/11/2026, 7:41:02 am    | [Link](https://help.twitch.tv/s/article/twitch-on-tv?language=de)                                              |
 | Experiments                                              | 14/11/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/experiments?language=de)                                               |
@@ -60,7 +62,6 @@
 | Twitch Account Settings                                  | 05/10/2026, 5:00:22 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=de)                                   |
 | Creating An Account With Twitch                          | 05/10/2026, 5:00:21 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=de)                           |
 | Partner Settings Guide                                   | 30/09/2026, 3:00:13 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=de)                                    |
-| Affiliate Settings Guide                                 | 30/09/2026, 2:59:58 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=de)                                  |
 
 
 
@@ -367,9 +368,11 @@
 ## Article-weekly
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
 
-| Name         | Last Updated (dd/mm/yyyy) | Link                                                               |
-|--------------|---------------------------|--------------------------------------------------------------------|
-| Twitch On Tv | 18/11/2026, 7:41:02 am    | [Link](https://help.twitch.tv/s/article/twitch-on-tv?language=de)  |
+| Name                | Last Updated (dd/mm/yyyy) | Link                                                                      |
+|---------------------|---------------------------|---------------------------------------------------------------------------|
+| Twitch On Tv        | 18/11/2026, 7:41:02 am    | [Link](https://help.twitch.tv/s/article/twitch-on-tv?language=de)         |
+| Stream From Browser | 30/10/2026, 10:57:30 am   | [Link](https://help.twitch.tv/s/article/stream-from-browser?language=de)  |
+| Recaps Spotlight    | 28/10/2026, 7:00:56 am    | [Link](https://help.twitch.tv/s/article/recaps-spotlight?language=de)     |
 
 
 

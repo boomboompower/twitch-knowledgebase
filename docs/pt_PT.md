@@ -4,16 +4,15 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                   |
-|---------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Chat Commands                                                 | 11/11/2026, 6:42:59 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_PT)                                                  |
-| Stream Summary                                                | 10/11/2026, 6:26:24 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                                                 |
-| Joining The Affiliate Program                                 | 31/10/2026, 6:22:18 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)                                  |
-| Twitch Affiliate Program Faq                                  | 31/10/2026, 6:21:59 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)                                   |
-| How To Subscribe                                              | 31/10/2026, 6:20:06 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                                               |
-| About Account Suspensions Dmca Suspensions And Chat Bans      | 30/10/2026, 4:24:20 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)       |
-| Twitch Account Settings                                       | 30/09/2026, 8:17:01 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_PT)                                        |
-| Amazon Tax Information Interview And Irs Annual Reporting Faq | 30/09/2026, 2:59:18 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pt_PT)  |
+| Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
+|----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Chat Commands                                            | 11/11/2026, 6:42:59 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pt_PT)                                             |
+| Stream Summary                                           | 10/11/2026, 6:26:24 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pt_PT)                                            |
+| Joining The Affiliate Program                            | 31/10/2026, 6:22:18 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pt_PT)                             |
+| Twitch Affiliate Program Faq                             | 31/10/2026, 6:21:59 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pt_PT)                              |
+| How To Subscribe                                         | 31/10/2026, 6:20:06 am    | [Link](https://help.twitch.tv/s/article/how-to-subscribe?language=pt_PT)                                          |
+| About Account Suspensions Dmca Suspensions And Chat Bans | 30/10/2026, 4:24:20 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pt_PT)  |
+| Twitch Account Settings                                  | 30/09/2026, 8:17:01 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pt_PT)                                   |
 
 
 

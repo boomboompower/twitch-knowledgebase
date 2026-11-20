@@ -4,11 +4,10 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
-|---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Chat Commands                                                 | 11/11/2026, 6:42:59 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=cs)                                                  |
-| Stream Summary                                                | 10/11/2026, 6:26:24 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=cs)                                                 |
-| Amazon Tax Information Interview And Irs Annual Reporting Faq | 30/09/2026, 2:59:18 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=cs)  |
+| Name           | Last Updated (dd/mm/yyyy) | Link                                                                 |
+|----------------|---------------------------|----------------------------------------------------------------------|
+| Chat Commands  | 11/11/2026, 6:42:59 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=cs)   |
+| Stream Summary | 10/11/2026, 6:26:24 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=cs)  |
 
 
 

@@ -4,32 +4,32 @@
 ## Article-1
 > [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-1.xml) this sitemap
 
-| Name                                                          | Last Updated (dd/mm/yyyy) | Link                                                                                                                |
-|---------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Experiments                                                   | 14/11/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/experiments?language=pl)                                                    |
-| Chat Commands                                                 | 11/11/2026, 6:42:59 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pl)                                                  |
-| Stream Summary                                                | 10/11/2026, 6:26:24 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pl)                                                 |
-| Date Of Birth Changes                                         | 07/11/2026, 1:21:16 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pl)                                          |
-| Mission Based Drops                                           | 07/11/2026, 0:24:22 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pl)                                            |
-| Joining The Affiliate Program                                 | 31/10/2026, 6:22:18 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pl)                                  |
-| Twitch Affiliate Program Faq                                  | 31/10/2026, 6:21:59 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pl)                                   |
-| Subscriptions On Mobile                                       | 31/10/2026, 6:19:44 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=pl)                                        |
-| About Account Suspensions Dmca Suspensions And Chat Bans      | 30/10/2026, 4:24:20 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pl)       |
-| Affiliate Or Partner Anniversary Settings                     | 27/10/2026, 3:49:19 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=pl)                      |
-| Subscriber Badge Guide                                        | 27/10/2026, 3:19:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=pl)                                         |
-| How To Use Clips                                              | 21/10/2026, 7:45:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pl)                                               |
-| Payout History Dashboard Guide                                | 20/10/2026, 6:33:33 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=pl)                                 |
-| When Am I Getting Paid                                        | 14/10/2026, 10:12:32 am   | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=pl)                                         |
-| Rejected Payout Faq                                           | 14/10/2026, 10:11:51 am   | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=pl)                                            |
-| New Device And Location Verification                          | 14/10/2026, 10:09:27 am   | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=pl)                           |
-| Affiliate Onboarding Guide                                    | 07/10/2026, 9:22:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pl)                                     |
-| Partner Onboarding Guide                                      | 07/10/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pl)                                       |
-| Twitch Account Settings                                       | 30/09/2026, 8:17:01 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pl)                                        |
-| Creating An Account With Twitch                               | 30/09/2026, 8:16:48 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=pl)                                |
-| Managing Your Phone Number                                    | 30/09/2026, 8:16:41 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=pl)                                     |
-| Partner Settings Guide                                        | 30/09/2026, 3:00:13 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=pl)                                         |
-| Affiliate Settings Guide                                      | 30/09/2026, 2:59:58 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=pl)                                       |
-| Amazon Tax Information Interview And Irs Annual Reporting Faq | 30/09/2026, 2:59:18 am    | [Link](https://help.twitch.tv/s/article/amazon-tax-information-interview-and-irs-annual-reporting-faq?language=pl)  |
+| Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
+|----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Managing Roles For Your Channel                          | 20/11/2026, 5:55:41 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=pl)                           |
+| Alerts By Twitch Faq                                     | 20/11/2026, 5:42:41 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=pl)                                      |
+| Experiments                                              | 14/11/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/experiments?language=pl)                                               |
+| Chat Commands                                            | 11/11/2026, 6:42:59 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=pl)                                             |
+| Stream Summary                                           | 10/11/2026, 6:26:24 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=pl)                                            |
+| Date Of Birth Changes                                    | 07/11/2026, 1:21:16 pm    | [Link](https://help.twitch.tv/s/article/date-of-birth-changes?language=pl)                                     |
+| Mission Based Drops                                      | 07/11/2026, 0:24:22 pm    | [Link](https://help.twitch.tv/s/article/mission-based-drops?language=pl)                                       |
+| Joining The Affiliate Program                            | 31/10/2026, 6:22:18 am    | [Link](https://help.twitch.tv/s/article/joining-the-affiliate-program?language=pl)                             |
+| Twitch Affiliate Program Faq                             | 31/10/2026, 6:21:59 am    | [Link](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=pl)                              |
+| Subscriptions On Mobile                                  | 31/10/2026, 6:19:44 am    | [Link](https://help.twitch.tv/s/article/subscriptions-on-mobile?language=pl)                                   |
+| About Account Suspensions Dmca Suspensions And Chat Bans | 30/10/2026, 4:24:20 am    | [Link](https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=pl)  |
+| Affiliate Or Partner Anniversary Settings                | 27/10/2026, 3:49:19 am    | [Link](https://help.twitch.tv/s/article/affiliate-or-partner-anniversary-settings?language=pl)                 |
+| Subscriber Badge Guide                                   | 27/10/2026, 3:19:49 am    | [Link](https://help.twitch.tv/s/article/subscriber-badge-guide?language=pl)                                    |
+| How To Use Clips                                         | 21/10/2026, 7:45:42 am    | [Link](https://help.twitch.tv/s/article/how-to-use-clips?language=pl)                                          |
+| Payout History Dashboard Guide                           | 20/10/2026, 6:33:33 am    | [Link](https://help.twitch.tv/s/article/payout-history-dashboard-guide?language=pl)                            |
+| When Am I Getting Paid                                   | 14/10/2026, 10:12:32 am   | [Link](https://help.twitch.tv/s/article/when-am-i-getting-paid?language=pl)                                    |
+| Rejected Payout Faq                                      | 14/10/2026, 10:11:51 am   | [Link](https://help.twitch.tv/s/article/rejected-payout-faq?language=pl)                                       |
+| New Device And Location Verification                     | 14/10/2026, 10:09:27 am   | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=pl)                      |
+| Affiliate Onboarding Guide                               | 07/10/2026, 9:22:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pl)                                |
+| Partner Onboarding Guide                                 | 07/10/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pl)                                  |
+| Twitch Account Settings                                  | 30/09/2026, 8:17:01 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pl)                                   |
+| Creating An Account With Twitch                          | 30/09/2026, 8:16:48 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=pl)                           |
+| Managing Your Phone Number                               | 30/09/2026, 8:16:41 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=pl)                                |
+| Partner Settings Guide                                   | 30/09/2026, 3:00:13 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=pl)                                    |
 
 
 

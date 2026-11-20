@@ -6,6 +6,8 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Managing Roles For Your Channel                          | 20/11/2026, 5:55:41 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=tr)                           |
+| Alerts By Twitch Faq                                     | 20/11/2026, 5:42:41 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=tr)                                      |
 | Experiments                                              | 14/11/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/experiments?language=tr)                                               |
 | Chat Commands                                            | 11/11/2026, 6:42:59 am    | [Link](https://help.twitch.tv/s/article/chat-commands?language=tr)                                             |
 | Stream Summary                                           | 10/11/2026, 6:26:24 am    | [Link](https://help.twitch.tv/s/article/stream-summary?language=tr)                                            |
@@ -28,7 +30,6 @@
 | Creating An Account With Twitch                          | 30/09/2026, 8:16:48 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=tr)                           |
 | Managing Your Phone Number                               | 30/09/2026, 8:16:41 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=tr)                                |
 | Partner Settings Guide                                   | 30/09/2026, 3:00:13 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=tr)                                    |
-| Affiliate Settings Guide                                 | 30/09/2026, 2:59:58 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=tr)                                  |
 
 
 
