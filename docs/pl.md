@@ -6,6 +6,9 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Guide To Cheering With Bits                              | 21/11/2026, 8:49:31 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=pl)                               |
+| Affiliate Settings Guide                                 | 21/11/2026, 8:49:19 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=pl)                                  |
+| Partner Settings Guide                                   | 21/11/2026, 8:49:11 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=pl)                                    |
 | Managing Roles For Your Channel                          | 20/11/2026, 5:55:41 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=pl)                           |
 | Alerts By Twitch Faq                                     | 20/11/2026, 5:42:41 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=pl)                                      |
 | Experiments                                              | 14/11/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/experiments?language=pl)                                               |
@@ -26,10 +29,6 @@
 | New Device And Location Verification                     | 14/10/2026, 10:09:27 am   | [Link](https://help.twitch.tv/s/article/new-device-and-location-verification?language=pl)                      |
 | Affiliate Onboarding Guide                               | 07/10/2026, 9:22:30 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=pl)                                |
 | Partner Onboarding Guide                                 | 07/10/2026, 9:22:20 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=pl)                                  |
-| Twitch Account Settings                                  | 30/09/2026, 8:17:01 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=pl)                                   |
-| Creating An Account With Twitch                          | 30/09/2026, 8:16:48 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=pl)                           |
-| Managing Your Phone Number                               | 30/09/2026, 8:16:41 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=pl)                                |
-| Partner Settings Guide                                   | 30/09/2026, 3:00:13 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=pl)                                    |
 
 
 
