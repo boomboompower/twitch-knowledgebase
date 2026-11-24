@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Family Center                                            | 24/11/2026, 10:03:21 am   | [Link](https://help.twitch.tv/s/article/family-center?language=de)                                             |
 | Guide To Cheering With Bits                              | 21/11/2026, 8:49:32 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=de)                               |
 | Cheering For Partners Affiliates                         | 21/11/2026, 8:49:25 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=de)                          |
 | Affiliate Settings Guide                                 | 21/11/2026, 8:49:19 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=de)                                  |
@@ -61,10 +62,6 @@
 | About Discount Gift Subs                                 | 10/10/2026, 3:57:37 am    | [Link](https://help.twitch.tv/s/article/about-discount-gift-subs?language=de)                                  |
 | Affiliate Onboarding Guide                               | 07/10/2026, 11:51:11 pm   | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=de)                                |
 | Partner Onboarding Guide                                 | 07/10/2026, 11:51:06 pm   | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=de)                                  |
-| Twitch Account Access Login Issues Guide                 | 05/10/2026, 5:00:29 am    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=de)                  |
-| Managing Your Phone Number                               | 05/10/2026, 5:00:26 am    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=de)                                |
-| Twitch Account Settings                                  | 05/10/2026, 5:00:22 am    | [Link](https://help.twitch.tv/s/article/twitch-account-settings?language=de)                                   |
-| Creating An Account With Twitch                          | 05/10/2026, 5:00:21 am    | [Link](https://help.twitch.tv/s/article/creating-an-account-with-twitch?language=de)                           |
 
 
 
@@ -362,6 +359,15 @@
 | Streamer Notifications Preferences                | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/streamer-notifications-preferences?language=de)                 |
 | Smart Notification Setting                        | 22/10/2021, 8:52:22 am    | [Link](https://help.twitch.tv/s/article/smart-notification-setting?language=de)                         |
 | Markdown Basics                                   | 22/10/2021, 8:39:56 am    | [Link](https://help.twitch.tv/s/article/markdown-basics?language=de)                                    |
+
+
+
+## Article-weekly
+> [Go back](../README.md) to the main page | [Go to](https://help.twitch.tv/s/sitemap-topicarticle-weekly.xml) this sitemap
+
+| Name         | Last Updated (dd/mm/yyyy) | Link                                                               |
+|--------------|---------------------------|--------------------------------------------------------------------|
+| Twitch On Tv | 18/11/2026, 7:41:02 am    | [Link](https://help.twitch.tv/s/article/twitch-on-tv?language=de)  |
 
 
 
