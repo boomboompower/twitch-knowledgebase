@@ -21,17 +21,17 @@ off the automatically generated sitemaps provided by twitch. Articles are separa
 | German                        | 24/11/2026, 10:03:21 am   | 306 article(s) | [View](docs/de.md)     |
 | Greek                         | 21/11/2026, 8:49:31 am    | 6 article(s)   | [View](docs/el.md)     |
 | Hungarian                     | 11/11/2026, 6:42:59 am    | 17 article(s)  | [View](docs/hu.md)     |
-| Italian                       | 24/11/2026, 10:03:21 am   | 309 article(s) | [View](docs/it.md)     |
-| Japanese                      | 24/11/2026, 10:03:21 am   | 308 article(s) | [View](docs/ja.md)     |
+| Italian                       | 24/11/2026, 7:47:04 pm    | 309 article(s) | [View](docs/it.md)     |
+| Japanese                      | 24/11/2026, 3:12:23 pm    | 307 article(s) | [View](docs/ja.md)     |
 | Norwegian                     | 11/11/2026, 6:42:59 am    | 26 article(s)  | [View](docs/no.md)     |
 | Polish                        | 21/11/2026, 8:49:31 am    | 169 article(s) | [View](docs/pl.md)     |
-| Portuguese (Brazil)           | 24/11/2026, 10:03:21 am   | 305 article(s) | [View](docs/pt_BR.md)  |
+| Portuguese (Brazil)           | 25/11/2026, 0:38:03 pm    | 305 article(s) | [View](docs/pt_BR.md)  |
 | Portuguese (Portugal)         | 21/11/2026, 8:49:31 am    | 37 article(s)  | [View](docs/pt_PT.md)  |
 | Romanian                      | 11/11/2026, 6:42:59 am    | 2 article(s)   | [View](docs/ro.md)     |
 | Russian                       | 21/11/2026, 8:49:31 am    | 171 article(s) | [View](docs/ru.md)     |
 | Slovak                        | 11/11/2026, 6:42:59 am    | 2 article(s)   | [View](docs/sk.md)     |
 | Spanish                       | 24/11/2026, 10:03:21 am   | 309 article(s) | [View](docs/es.md)     |
-| Spanish (Mexico)              | 24/11/2026, 10:03:21 am   | 308 article(s) | [View](docs/es_MX.md)  |
+| Spanish (Mexico)              | 24/11/2026, 2:01:03 pm    | 308 article(s) | [View](docs/es_MX.md)  |
 | Swedish                       | 11/11/2026, 6:42:59 am    | 23 article(s)  | [View](docs/sv.md)     |
 | Thai                          | 21/11/2026, 8:49:31 am    | 165 article(s) | [View](docs/th.md)     |
 | Turkish                       | 21/11/2026, 8:49:31 am    | 169 article(s) | [View](docs/tr.md)     |

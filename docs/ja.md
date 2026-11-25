@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Streamer Shouts                                          | 24/11/2026, 3:12:23 pm    | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=ja)                                           |
 | Family Center                                            | 24/11/2026, 10:03:21 am   | [Link](https://help.twitch.tv/s/article/family-center?language=ja)                                             |
 | Guide To Cheering With Bits                              | 21/11/2026, 8:49:33 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=ja)                               |
 | Cheering For Partners Affiliates                         | 21/11/2026, 8:49:26 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=ja)                          |
@@ -13,7 +14,6 @@
 | Partner Settings Guide                                   | 21/11/2026, 8:49:12 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=ja)                                    |
 | Managing Roles For Your Channel                          | 20/11/2026, 5:55:42 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=ja)                           |
 | Alerts By Twitch Faq                                     | 20/11/2026, 5:42:42 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=ja)                                      |
-| Streamer Shouts                                          | 19/11/2026, 10:55:39 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=ja)                                           |
 | Twitch On Tv                                             | 18/11/2026, 7:41:02 am    | [Link](https://help.twitch.tv/s/article/twitch-on-tv?language=ja)                                              |
 | Experiments                                              | 14/11/2026, 3:01:01 am    | [Link](https://help.twitch.tv/s/article/experiments?language=ja)                                               |
 | Shared Viewership                                        | 13/11/2026, 11:48:24 am   | [Link](https://help.twitch.tv/s/article/shared-viewership?language=ja)                                         |
@@ -63,7 +63,6 @@
 | Affiliate Onboarding Guide                               | 07/10/2026, 9:22:33 am    | [Link](https://help.twitch.tv/s/article/affiliate-onboarding-guide?language=ja)                                |
 | Partner Onboarding Guide                                 | 07/10/2026, 9:22:23 am    | [Link](https://help.twitch.tv/s/article/partner-onboarding-guide?language=ja)                                  |
 | Managing Your Phone Number                               | 05/10/2026, 3:10:31 pm    | [Link](https://help.twitch.tv/s/article/managing-your-phone-number?language=ja)                                |
-| Twitch Account Access Login Issues Guide                 | 05/10/2026, 3:10:28 pm    | [Link](https://help.twitch.tv/s/article/twitch-account-access-login-issues-guide?language=ja)                  |
 
 
 
