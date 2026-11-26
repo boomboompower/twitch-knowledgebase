@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| Streamer Shouts                                          | 25/11/2026, 11:06:19 pm   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=de)                                           |
 | Family Center                                            | 24/11/2026, 10:03:21 am   | [Link](https://help.twitch.tv/s/article/family-center?language=de)                                             |
 | Guide To Cheering With Bits                              | 21/11/2026, 8:49:32 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=de)                               |
 | Cheering For Partners Affiliates                         | 21/11/2026, 8:49:25 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=de)                          |
@@ -13,7 +14,6 @@
 | Partner Settings Guide                                   | 21/11/2026, 8:49:12 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=de)                                    |
 | Managing Roles For Your Channel                          | 20/11/2026, 5:55:41 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=de)                           |
 | Alerts By Twitch Faq                                     | 20/11/2026, 5:42:42 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=de)                                      |
-| Streamer Shouts                                          | 19/11/2026, 10:55:38 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=de)                                           |
 | Twitch On Tv                                             | 18/11/2026, 7:41:02 am    | [Link](https://help.twitch.tv/s/article/twitch-on-tv?language=de)                                              |
 | Experiments                                              | 14/11/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/experiments?language=de)                                               |
 | Shared Chat                                              | 12/11/2026, 9:48:33 pm    | [Link](https://help.twitch.tv/s/article/shared-chat?language=de)                                               |

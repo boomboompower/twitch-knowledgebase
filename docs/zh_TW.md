@@ -6,6 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                              |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Streamer Shouts                                          | 25/11/2026, 11:06:22 pm   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=zh_TW)                                           |
 | Family Center                                            | 24/11/2026, 10:03:21 am   | [Link](https://help.twitch.tv/s/article/family-center?language=zh_TW)                                             |
 | Guide To Cheering With Bits                              | 21/11/2026, 8:49:33 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=zh_TW)                               |
 | Cheering For Partners Affiliates                         | 21/11/2026, 8:49:25 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=zh_TW)                          |
@@ -13,7 +14,6 @@
 | Partner Settings Guide                                   | 21/11/2026, 8:49:12 am    | [Link](https://help.twitch.tv/s/article/partner-settings-guide?language=zh_TW)                                    |
 | Managing Roles For Your Channel                          | 20/11/2026, 5:55:42 am    | [Link](https://help.twitch.tv/s/article/Managing-Roles-for-your-Channel?language=zh_TW)                           |
 | Alerts By Twitch Faq                                     | 20/11/2026, 5:42:43 am    | [Link](https://help.twitch.tv/s/article/alerts-by-twitch-faq?language=zh_TW)                                      |
-| Streamer Shouts                                          | 19/11/2026, 10:55:39 am   | [Link](https://help.twitch.tv/s/article/streamer-shouts?language=zh_TW)                                           |
 | Twitch On Tv                                             | 18/11/2026, 7:41:02 am    | [Link](https://help.twitch.tv/s/article/twitch-on-tv?language=zh_TW)                                              |
 | Experiments                                              | 14/11/2026, 3:01:03 am    | [Link](https://help.twitch.tv/s/article/experiments?language=zh_TW)                                               |
 | Shared Hype Train                                        | 12/11/2026, 11:13:10 pm   | [Link](https://help.twitch.tv/s/article/shared-hype-train?language=zh_TW)                                         |
