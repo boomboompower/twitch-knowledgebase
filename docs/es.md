@@ -6,7 +6,7 @@
 
 | Name                                                     | Last Updated (dd/mm/yyyy) | Link                                                                                                           |
 |----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------|
-| Family Center                                            | 24/11/2026, 10:03:21 am   | [Link](https://help.twitch.tv/s/article/family-center?language=es)                                             |
+| Family Center                                            | 26/11/2026, 9:21:39 pm    | [Link](https://help.twitch.tv/s/article/family-center?language=es)                                             |
 | Guide To Cheering With Bits                              | 21/11/2026, 8:49:32 am    | [Link](https://help.twitch.tv/s/article/guide-to-cheering-with-bits?language=es)                               |
 | Cheering For Partners Affiliates                         | 21/11/2026, 8:49:26 am    | [Link](https://help.twitch.tv/s/article/cheering-for-partners-affiliates?language=es)                          |
 | Affiliate Settings Guide                                 | 21/11/2026, 8:49:20 am    | [Link](https://help.twitch.tv/s/article/affiliate-settings-guide?language=es)                                  |
